@@ -22,6 +22,9 @@
 7. "인간"과 관련된 단어의 사용은 가급적 지양해 주시기 바랍니다.
 
    ( 예시 : Equestrian → "이퀘스트리아인"보다는 "이퀘스트리아 포니들", "이퀘스트리아 시민들" 등등으로 )
+   
+8. 번역 관련해서 토론할 사항은 Issues탭에서 해주시면 되겠습니다.(아니면 임롬갤에다가 올려도 됨)
+
 
 # 단어장
 
@@ -34,6 +37,10 @@ Harmony : 조화주의
 Harmonist : 조화주의자
 
 
-# 참고 사이트
+# 그 외
 
 호이4 한국어패치 단어장 : https://docs.google.com/spreadsheets/d/1nu5sKDlIa11AMvNF7kq11RSu_a9ZKJsXtD8PB6u3KB8/edit#gid=0
+
+이퀘스트리아 앳 워 위키(영문) : https://equestria-at-war.fandom.com/wiki/Equestria_at_War_Wiki
+
+자신이 번역할 나라의 국가코드 3자리가 궁금하다면, EaW위키를 보거나 인게임에서 콘솔창을 열어 tdebug를 쳐서 직접 확인하시면 됩니다.
