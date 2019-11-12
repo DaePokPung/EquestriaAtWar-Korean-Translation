@@ -1,0 +1,232 @@
+﻿l_english:
+ EAW_MENU_MODDB:0 "Equestria at War on MODDB"
+ EAW_MENU_DISCORD:0 "Equestria at War, Discord Server"
+ EAW_MENU_STEAMWORKSHOP:0 "Equestria at War on Steam Workshop"
+ EAW_MENU_VK:0 "Equestria at War on VK"
+ maintheme:0 "Neighsayer - Equestria's Finest"
+ NOT_EXIST:0 "A random country will be chosen for you."
+
+ #air_l
+ AIRWING_CREATE_NO_MANPOWER:0 "§R마력이 부족해 새 비행단을 구성할 수 없습니다.§!"
+
+ #alert_l
+ alert_few_manpower_instant:0 "§H마력 부족!§!"
+ alert_few_manpower_delayed:0 "마력이 매우 부족합니다. 이는 우리의 사단이 더이상 충원될 수 없고 전투가 불가능한 상황에 처할 수 있습니다"
+
+ #autonomy_l
+ autonomy_colony:0 "자치 괴뢰국"
+ autonomy_reichskommissariat:0 "위원부"
+ autonomy_reichsprotectorate:0 "보호령"
+
+ #buildings_l
+ nuclear_reactor_desc:0 "이 건물은 해당 주에 핵무기 제조를 위한 농축 크리스탈-우라늄 혼합물 생산 시설을 제공합니다.\n\n각 원자로들은 §R12§! £resources_strip|7을 소모합니다.\n만약 사용 가능한 £resources_strip|7 이 없다면, 핵폭탄은 생산되지 않을 것입니다."
+
+ #combat_l
+ COMBAT_SIDE_SUMMARY:0 "$MANPOWER|*1Y$ Ponypower, $VEHICLES|Y$ vehicles, $ARTILLERY|Y$ artillery"
+
+ #core_l
+ CONFIRMDELETETEXT_RETURNDESC:2 "사용된 장비는 비축고로 반환되고 §Y부대§!는 §Y마력§!으로 전환됩니다. §Y원정군§!은 집으로 돌아갈 것입니다."
+ CONFIRM_DELETE_ENCIRCLED_SINGLE:0 "§R부대가 포위되었으므로, $VALUE|%0$의 인력과 모든 장비를 잃습니다!§!"
+ CONFIRM_DELETE_ENCIRCLED_MULTI:0 "§R$NUM$ 부대가 포위되었으므로, $VALUE|%0$의 마력과 모든 장비를 잃습니다!§!"
+ FE_IRONMAN:0 "철마 모드"
+ FE_IRONMAN_TOOLTIP:0 "철마 모드에서는 콘솔 치트를 쓸 수 없으며 하나의 파일에 주기적인 저장을 하게 됩니다. 이 설정을 켜고 게임을 하게 되면, 돌이킬 수 없습니다."
+ IRONMAN_START:0 "철마 모드로 시작"
+ SAVEITEM_IRONMAN:0 "철마: $YESNO$"
+ FE_IRONMAN_MULTIPLAYER:0 "§R철마 모드는 멀티 플레이어에서 활성화할 수 없습니다.§!"
+ FE_IRONMAN_NOCLOUD:0 "철마 모드는 스팀 클라우드가 활성화된 채, 스팀에 로그인되어있어야 합니다."
+ FE_SINGLE_PLAYER:0 "혼자서 플레이"
+ FE_MULTI_PLAYER:0 "친구들과 플레이!"
+ MENU_BAR_IRONMAN_SAVE:0 "저장된 철마모드 게임"
+ MENU_BAR_IRONMAN_PLAIN:0 "철마"
+ NUCLEAR_PRODUCTION_ETA:0 "다음 핵폭탄은 $PROGRESS|1G%$만큼 완성되었고 약 $DAYS|G$일 뒤에 준비될 것입니다.\n\n만약 사용 가능한 £resources_strip|7 이 없다면, 핵폭탄은 생산되지 않을 것입니다."
+ NUCLEAR_PRODUCTION_NONE:0 "지금은 어떤 핵폭탄도 만들고 있지 않습니다.\n\n만약 사용 가능한 £resources_strip|7 이 없다면, 핵폭탄은 생산되지 않을 것입니다."
+ ACHIEVEMENTS_VIEW_LOCKED:0 "§R도전과제는 철마 모드에서만 달성 가능합니다!§!"
+ CONFIRMCONSOLIDATEUNITSAREENCIRCLED:0 "§R부대가 포위되었으므로, $VALUE|%0$의 마력과 모든 장비를 잃습니다!§!"
+ CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE:0 "다음의 내용들은 당신의 §H비축§!/§H마력§!으로 반환됩니다:"
+ CONSOLIDATE_TOOLTIP:0 "인원이 부족하고 손실을 입은 부대를 합칩니다. 합쳐진 부대들의 경험치는 유지됩니다. 마력과 장비는 합산됩니다."
+ ---_democratic:0 "any harmonic country"
+
+ #country_l
+ MANPOWER:0 "마력"
+ SERVICE_MANPOWER:1 "£manpower_texticon  복무 마력:"
+ SERVICE_MANPOWER_DESC:0 "마력은 여러 가지 군용과 민간용 장비들을 작동시키는데 사용됩니다."
+ MAX_MANPOWER:0 "최대 마력: "
+ MANPOWER_TOTAL:0 "총 마력: $MAX|0H*$"
+ MANPOWER_USAGE:1 "Free Ponypower: $FREE|^2H$\nUsed Ponypower:\nArmy: $ARMY|^2H$\n    - In the Field: $FIELD|^2H$\n    - In Training: $TRAINING|^2H$\nAir: $AIR|^2H$\nNavy: $NAVAL|^2H$"
+ MANPOWER_CURRENT:0 "총 마력: $TOTAL|^2H$\n$PERC|2%H$ of Eligible Core Population available ($ELIGIBLE|^H$)"
+ MANPOWER_CURRENT_MOBILIZATION:0 "총 마력: $TOTAL|^2H$\n$PERC|2%H$의 현역 대상 핵심 인구 ($ELIGIBLE|^H$)"
+ MANPOWER_DIVISION:0 "사단 마력"
+ MANPOWER_DIVISION_SIZE_BREAKDOWN_DESC:0 "§TThis §HDivision§! contains $AMOUNT|G$ troops. It has ponypower from:"
+ MANPOWER_SHIP:0 "함정 복무 마력"
+ MANPOWER_SHIP_DESC:0 "§TThis §HShip§! requires $AMOUNT|G$ of service ponypower.§!"
+ MANPOWER_AIRWING:0 "비행단 복무 마력"
+ MANPOWER_AIRWING_DESC:0 "§TThis §HAir Wing§! requires $AMOUNT|G$ of service ponypower.§!"
+ CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC:0 "\nEffective Total Ponypower modified to $VAL|-%0$ due to\n"
+ MANPOWER_MONTHLY_TOTAL:2 "Monthly available ponypower gain: $VALUE|^+1$($PERC|2%H$)\nTotal population growth: $MAX|^2H$($FACTOR|2%H$ of total population)\n\nBase growth rate: $RATIO|%H$"
+ MANPOWER_IN_USE:0 "야전 마력"
+ NAVAL_SERVICE_MANPOWER_DESC:0 "Service ponypower is used by our navy to maintain its functionality."
+ AIR_SERVICE_MANPOWER_DESC:0 "Service ponypower is used by our air forces to maintain its functionality."
+
+ #deployment_l
+ CONVEYOR_MANPOWER_NEED:0 "필요 마력: $AMOUNT|H$"
+ DEPLOYMENT_MANPOWER_DESC:0 "마력: $VALUE|Y0$ ( Max $MAX|Y0$ )"
+ DEPLOYMENT_LINES_HIT_THE_CAP:0 "우리는 최대  $CAP|*H$ 만큼의 병력을 훈련시킬수 있습니다.\n배치가능한 최대 마력 수치 ( $RATIO|H0%$ of $INFIELD|*H$. Minimum: $MINPOSSIBLE|*H$ men)"
+ CONVEYOR_CAN_NOT_MANPOWER_TRAIN:0 "§R훈련에 필요한 마력이 충분하지 않습니다§!"
+ CONVEYOR_CAN_NOT_TRAIN_COUNT:1 "§R$DIVS|H$개 사단을 훈련하는데 필요한 마력이나 장비가 충분하지 않습니다§!"
+
+ #designer_l
+ DESIGNER_MANPOWER:0 "마력: "
+ DESIGNER_MANPOWER_DESC:0 "이 사단을 형성하기 위해 얼마나 많은 마력이 필요한지 나타냅니다."
+ NAME_THEME_ANIMALS:0 "National Creatures"
+ NAME_THEME_HISTORICAL_CARRIERS:0 "National Carriers"
+ NAME_THEME_HISTORICAL_DESTROYERS:0 "National Destroyers"
+ NAME_THEME_HISTORICAL_SUBMARINES:0 "National Submarines"
+ NAME_THEME_HISTORICAL_CL:0 "National Light Cruisers"
+ NAME_THEME_HISTORICAL_CA:0 "National Heavy Cruisers"
+ NAME_THEME_HISTORICAL_BC:0 "National Battlecruisers"
+ NAME_THEME_HISTORICAL_BB:0 "National Battleships"
+ NAME_THEME_HISTORICAL_LIGHT_DDS:0 "National Light Destroyers"
+ NAME_THEME_HISTORICAL_DE:0 "National Destroyer Escorts"
+ NAME_THEME_HISTORICAL_TB:0 "National Torpedo Boats"
+ NAME_THEME_HISTORICAL_CVL:0 "National Light/Escort Carriers"
+ NAME_THEME_HISTORICAL_CLAA:0 "National AA Cruisers"
+ NAME_THEME_HISTORICAL_MINELAYERS:0 "National Minelayers"
+
+ #diplomacy_l
+ DIPLOMACY_ASKSTATECONTROL_DESC:0 "점령지를 통제하는 것은 저항군을 관리할 필요가 있지만, 자원, 마력 그리고 공장을 가용할 수 있습니다."
+ DIPLOMACY_GIVESTATECONTROL_DESC:0 "점령지 통제권을 이양하면 저항군 관리가 쉬워지고, 세력 회원국들이 자원, 마력 그리고 공장을 가용할 수 있습니다."
+ ESTIMATED_MANPOWER:0 "예상되는 마력"
+ DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_CHANGE_MANPOWER:0 "이것은 우리로부터 마력 $VALUE|^2H$를 필요로 합니다."
+ democratic_leanings_good:0 "Harmonist leanings"
+ democratic_leanings_bad:0 "Harmonist leanings"
+ DR_US_DEMOCRATIC:1 "§Y$US|U$§! is Harmonist: "
+
+ #effect_l
+ EFFECT_MAKE_PUPPET:1 "$TARGET|UY$은(는) $COUNTRY|Y$의 괴뢰국이 될 것입니다."
+ EFFECT_MANPOWER_ADD_COUNTRY:0 "마력: $VAL|+=0$."
+ EFFECT_MANPOWER_ADD_STATE:0 "마력: $VAL|+=0$."
+
+ #events_l
+ political.4.d:0 "The communist revolutionary movement, once a fringe popular among radical students and troublemakers, has seen increased support among the [Root.GetAdjective] working class. The fact that even more people choose to identify themselves with a 'class' at all implies that Socialist ideas are spreading beyond those who actively seek to overthrow the government.\n\n[Root.GetRulingParty] members lament this development, longing for a time when '[Root.GetAdjective]' was what people identified as first and foremost. Their concerns are not unfounded. It could be argued that a revolution is already underway, occurring on several levels of society, and it may be too late to stop it."
+ political.4.a:0 "They may call themselves whatever they want."
+ political.5.t:0 "Soldiers Desert to Communist Militias"
+ political.5.d:0 "'Capitalists and nationalists would have you spill your blood for them on the front lines, turning worker against worker over disputes that do not concern the true socialist! Instead of taking up arms against workers who struggle abroad, raise them against the oppressors and overthrow the tyrants!'\n\nThe army, usually a bastion of loyalty and national pride, has proven not to be immune to the communist propaganda spreading rapidly in [Root.GetName]. Soldiers are deserting, refusing to fight for their country, sometimes going as far as joining militia movements that claim to be preparing for revolution."
+ GAME_OVER_TT:0 "§RThe game will end for you.§!\n"
+
+ #focus_l
+ RAJ_revive_the_screw_guns_effect:0 "Enables §HMountain Gun§!\n£unit_artillery_brigade_icon_small §HArtillery§!\n    §HHills§!: Movement: §G+10%§!\n    §HMountain§!: Movement: §G+15%§!\n£unit_anti_tank_brigade_icon_small §HAnti-Tank§!\n    §HHills§!: Movement: §G+10%§!\n    §HMountain§!: Movement: §G+15%§!"
+
+ #ideas_l
+ democratic_influence:0 "조화주의 영향력"
+ democratic_influence_desc:0 "Harmonist pressure has made democracy very popular, and the country is susceptible to align with other Harmonists."
+ generic_democratic_reformer:0 "친조화주의 정치인"
+ democratic_opposition_voicing_protests:0 "목소리를 높이는 조화주의 운동가들"
+ democratic_revolutionaries:0 "조화주의 혁명가들"
+ democratic_revolutionaries_desc:0 "If support for Harmony rises above 70%, the nation will be plunged into civil war. If support for Harmony drops below 30%, revolutionary activity will stop."
+ the_long_lance:0 "The Long Lance"
+ the_long_lance_desc:0 "The Long Lance is a torpedo specially designed by Jezeragrad Armaments, which has twice the range of its foreign counterparts. This greatly increases its efficiency."
+ 
+ #modifiers_l
+ democratic_drift:0 "일일 조화주의 지지"
+ democratic_acceptance:0 "조화주의 외교 수용"
+ MODIFIER_LOCAL_MANPOWER:0 "현지 마력"
+ MODIFIER_CONSCRIPTION_FACTOR_DESC:0 "Modifies how much your ponypower you can access from states."
+ MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC:0 "Modifies how much your ponypower you can access from states."
+ MODIFIER_AUTONOMY_MANPOWER_SHARE:0 "괴뢰국 마력 요건"
+ MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC:0 "괴뢰국 군에 의해 마력이 필요"
+ MODIFIER_LOCAL_NON_CORE_MANPOWER:0 "현지 비핵심 마력"
+ MODIFIER_GLOBAL_NON_CORE_MANPOWER:0 "비핵심 마력"
+ MODIFIER_EQUIPMENT_CAPTURE:0 "Equipment Capture Ratio Gain"
+
+ #production_l
+ PRODUCTION_CAN_NOT_DEPLOY_MANPOWER:0 "마력 부족"
+
+ #research_l
+ superior_firepower_desc:0 "This doctrine focuses on throwing shells, not soldiers, at the enemy. Our ponypower is precious, bullets are cheap.\n\n"
+
+ #state_l
+ STATE_POPULATION_DESC:1 "The number of people living in this state. Your conscription laws let you use a certain % as ponypower for your divisions, ships and planes."
+
+ #stats_l
+ STAT_ARMY_CASUALTY_TRICKLEBACK_DESC:0 "The proportion of losses in combat that can be saved and returned to the ponypower pool."
+
+ #tactics_l
+ tactic_banzai_charge:0 "Berserker Charge"
+
+ #theater_l
+ THEATRE_PRIORITY_DESC:0 "Theater priority decides which one will first get replacement resources and ponypower shipped."
+
+ #traits_l
+ democratic_reformer:0 "친조화주의 개혁가"
+ democratic_reformer_desc:0 "A firm believer in the people's right to rule themselves, this politician sees empowering them as the first priority and aims for the country to be ruled with their mandate."
+ silent_workhorse:0 "조용한 일꾼"
+ army_cavalry_1:1 "Motorized\n(Specialist)"
+ army_cavalry_2:1 "Motorized\n(Expert)"
+ army_cavalry_3:1 "Motorized\n(Genius)"
+ inspirational_leader_desc:0 "A natural leader. Soldiers will face their worst fears when backed by a powerful leader."
+ pacific_fleet_naval_manufacturer:0 "Lunar Ocean Fleet Designer"
+ atlantic_fleet_naval_manufacturer:0 "Celestial Sea Fleet Designer"
+ cavalry_leader:0 "Motorized Leader"
+ cavalry_expert:0 "Motorized Expert"
+ cavalry_officer:0 "Motorized Officer"
+ cavalry_officer_desc:1 "Trained as a motorized infantry offier."
+ cavalary_ratio_over_40:1 "Motorized and mechanized ratio > §H40%§!"
+
+ #triggers_l
+ TRIGGER_HAS_ARMY_MANPOWER_AT_LEAST:0 "전개된 사단의 병력이 적어도 $AMOUNT|*2H$"
+ TRIGGER_HAS_ARMY_MANPOWER_AT_MOST:0 "At most $AMOUNT|*2H$ ponypower in divisions in the field"
+ TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_LEAST:0 "At least $AMOUNT|*2H$ ponypower in $TYPE|H$ divisions"
+ TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_MOST:0 "At most $AMOUNT|*2H$ ponypower in $TYPE|H$ divisions"
+ TRIGGER_HAS_MANPOWER_MORE_THAN:0 "$NUMBER|H$보다 많은 마력"
+ TRIGGER_HAS_MANPOWER_LESS_THAN:0 "$NUMBER|H$보다 적은 마력"
+ TRIGGER_RECRUIT_HAS_MANPOWER:0 "$NUMBER|*H$보다 적은 자유 마력"
+ TRIGGER_MANPOWER_PER_FACTORY:0 "군수 공장 당 마력"
+ TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE:0 "ponypower in deployment queue"
+
+ #unit_l
+ CURRENT_MANPOWER:0 " - 현재 마력: $VAL|*H1$ ($PER|%0H$)\n"
+ SERVICE_MANPOWER_HEADER:0 "복무 마력"
+
+ #waroverview_l
+ CAN_SURRENDER_FACTION_MEMBERS:1 "They are currently fighting with their faction and will only surrender when all major factions members in this war has capitulated.\nThe §Yleader§! of §YRiver Coalition§! will not capitulate unless every other member has capitulated.\nMajor Faction members left to surrender:\n$MEMBER_LIST|Y$"
+ FIELDER_MANPOWER:0 "복무 마력: $MAN|Y*$"
+
+ #wtt_decisions_l
+ ban_democratic_party:1 "조화주의와 민주주의 금지"
+ anti_democratic_raids:0 "조화주의자 타도"
+ 
+ #mtg
+ RULE_OPTION_DEMOCRATIC:0 "조화주의자"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "조화주의자 - 역사적"
+ RULE_OPTION_DEMOCRATIC_ALTERNATE:0 "Harmonist - Alternate"
+ 
+ #####Replacement loc for vanilla techs
+ # NO HOOVES
+ artillery1:0 "Artillery I"
+ artillery1_desc:0 "Rifled field guns made entirely out of metal and firing explosive ammunition are vastly more powerful than the cast cannons of old."
+ antitank1:0 "Anti-Tank Upgrade"
+ antitank1_desc:0 "The importance of effective anti-tank weapons grows as tanks see wider use. Introducing a new generation of these weapons will be necessary to combat modern tank designs."
+ tech_signal_company:0 "Signal Company I"
+ tech_signal_company_desc:0 "Establishing and maintaining communications in the field has always required special skills. With the advent of new communications and detection technology, new possibilities for the practice lie ahead."
+ tech_maintenance_company4:0 "Maintenance Company IV"
+ tech_maintenance_company4_desc:0 "Experiences with designing for active redundancy can be renewed to work with more modern equipment to make maintenance easier."
+ human_wave_offensive:0 "Wave Offensive"
+ human_wave_offensive_desc:0 "A Wave Offensive is an infantry tactic in which an attacker conducts a frontal assault with densely concentrated infantry formations against the enemy line, with the intent to overrun the defenders by engaging in melee combat."
+ flexible_line:0 "Flexible Line"
+ flexible_line_desc:0 "As well-oiled a machine as the assembly line may be, it is still manned, which allows for adaptation when needed. We should make use of this in our industrial production."
+ improved_computing_machine:0 "Improved Computing Machine"
+ improved_computing_machine_desc:0 "Electronic digital computers can now be made which are programmable. Although still expensive and large, these machines allow for intelligence analysis far beyond our biological capacity."
+ large_front_offensive:0 "Large Front Offensive"
+ large_front_offensive_desc:0 "By conducting, or threatening, Wave Offensives across multiple areas of the front we can prevent the enemy from concentrating his firepower against any single attack."
+ interwar_artillery:0 "Artillery Upgrade"
+ interwar_artillery_desc:0 "Lessons learned in the development of different types of artillery can be cross-applied to the design of other pieces."
+ werwolf_guerillas:0 "Werwolf Guerrillas"
+ werwolf_guerillas_desc:0 "The Werwolves are a planned resistance group that will fight on against the occupying powers if the war is lost."
+ volkssturm:0 "Volkssturm"
+ volkssturm_desc:0 "The Volkssturm, or People's Militia, consists of those who are too old, too young, or otherwise unfit for regular military service.\n\n"
+ peoples_army:0 "People's Army"
+ peoples_army_desc:0 "The People's Army believes in the primacy of people over weapons, with superior motivation compensating for inferior technology, and enjoys widespread support from the civilian population.\n\n"
+
+MANAGE_OCCUPIED_TERRITORIES:0 "Occupied Territories"
+MANAGE_SUBJECTS:0 "Subjects"
+MODIFIER_WEEKLY_MANPOWER:0 "주간 마력"
