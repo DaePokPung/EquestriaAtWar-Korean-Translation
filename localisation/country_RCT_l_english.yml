@@ -16,16 +16,16 @@
 
  ## PARTY NAMES ##
  RCT_democratic_party:0 "HSR"
- RCT_democratic_party_long:0 "Harmonijska Stranka Rijeke"
+ RCT_democratic_party_long:0 "리예카 조화당"
  RCT_communism_party:0 "SKR"
- RCT_communism_party_long:0 "Savez Komunista Rijeke"
+ RCT_communism_party_long:0 "리예카 사회당"
  RCT_neutrality_party:0 "RKS"
- RCT_neutrality_party_long:0 "Rijeka Konzervativna Stranka"
+ RCT_neutrality_party_long:0 "리예카 보수당"
  RCT_fascism_party:0 "NPF"
- RCT_fascism_party_long:0 "Nacionalna Popularna Fronta"
+ RCT_fascism_party_long:0 "국가국민전선"
 
  RCT_ohs_party:0 "OHS"
- RCT_ohs_party_long:0 "The Office of Harmonic Services"
+ RCT_ohs_party_long:0 "조화사무국"
  
 
  #### IDEAS #### 
@@ -33,7 +33,7 @@
  RCT_service_guarantees_citizenship:0 "서비스 보증 시민권"
  RCT_friendship_without_borders_idea:0 "국경 없는 우정"
  RCT_city_of_three_rivers:0 "세 강물의 도시"
- RCT_city_of_three_rivers_desc:0 "Located in the center of the Riverlands, where the rivers Griffking, Gold and Green meet, Rijekograd is a prime location for trade throughout the East."
+ RCT_city_of_three_rivers_desc:0 "그리프킹, 골드, 그린 강이 만나는 리버랜드의 중심부에 위치한 리제코그라드는 동부 전역의 무역 중심지입니다."
 
  RCT_recruitment_drive_idea:0 "징병 선전"
  
@@ -41,22 +41,22 @@
  RCT_ohs_desc:0 "OHS is a secret service of the government whose purpose is to safeguard the country from internal and external threats."
 
  RCT_unstable_government:0 "불안정한 정부"
- RCT_unstable_government_desc:0 "Control of the Rijekan parliament, the Sabor, is divided between harmonic HSR and left-wing SKR. Both parties have very different ideas and values, so it is not rare to see them block each other's policy proposals."
+ RCT_unstable_government_desc:0 "의회의 통제권은 리예카 조화당과 리예카 공산당한테 나뉘어져 있습니다. 두 당 모두 이념과 가치관이 매우 달라서 서로의 정책 제안에 반대하는 장면은 전혀 드문 현상이 아닙니다."
 
  RCT_the_left_assent:0 "떠오르는 좌파"
- RCT_the_left_assent_desc:0 "Popularity of SKR has risen rapidly and they now control the Sabor. Their first reforms have already begun."
+ RCT_the_left_assent_desc:0 "리예카 공산당의 인기도가 급속하게 높아지고 있으며 이들이 의회를 점령한 상태입니다. 이미 그들의 첫 번째 개혁이 시작되었습니다."
 
- RCT_minutemares:0 "The Minutemares"
+ RCT_minutemares:0 "소집병들"
 
- RCT_election_spending:0 "Hefty Election Debts"
- RCT_election_spending_desc:0 "We have spent an awful lot of money and gotten into debt in order to ensure that we win the election. It will take quite a while to pay all of this back."
+ RCT_election_spending:0 "무거운 선거 빚"
+ RCT_election_spending_desc:0 "우리는 선거에서 이기기 위해 엄청난 돈을 쓰고 빚을 졌습니다. 이 모든 것을 갚는 데는 상당한 시간이 걸릴 겁니다."
 
  RCT_collectivisation:0 "집단 농장"
  RCT_collectivisation2:0 "실업 근절" 
  RCT_patriotism:0 "애국 징병"
  RCT_commissars:0 "정치 내각"
  RCT_comm_riled_up:0 "Rile Up The Troops"
- RCT_market_socialism_idea:0 "시장 사회주의"
+ RCT_market_socialism_idea:0 "시장사회주의"
  RCT_market_socialism_idea_desc:0 "Nova's sweeping reforms have abolished private ownership while keeping the market economy in place."
  RCT_autarky_idea:0 "Rijekan Autarky"
  RCT_autarky_idea_desc:0 "If Rijeka is ever isolated by foreign enemies, it must be able to survive on its own."
@@ -85,22 +85,22 @@
  RCT_militants3:0 "Militant Socialists Embedded" 
  RCT_militants3_activated:0 "Militant Socialists Embedded"
  RCT_subtle_creep1:0 "무시할만한 사회주의자 영향력"
- RCT_subtle_creep1_NIM:0 "Negligible Socialist Influences"
+ RCT_subtle_creep1_NIM:0 "무시할만한 사회주의자 영향력"
  RCT_subtle_creep2:0 "약한 사회주의자 영향력"
- RCT_subtle_creep2_NIM:0 "Weak Socialist Influences" 
- RCT_subtle_creep3:0 "눈에 띄지 않는 사회주의자 영향력"
- RCT_subtle_creep3_NIM:0 "Unnotable Socialist Influences"
+ RCT_subtle_creep2_NIM:0 "약한 사회주의자 영향력" 
+ RCT_subtle_creep3:0 "잘 보이지 않는 사회주의자 영향력"
+ RCT_subtle_creep3_NIM:0 "잘 보이지 않는 사회주의자 영향력"
  RCT_subtle_creep4:0 "보통의 사회주의자 영향력"
- RCT_subtle_creep4_NIM:0 "Moderate Socialist Influences"
- RCT_subtle_creep5:0 "주목할 만한 사회주의자 영향력"
- RCT_subtle_creep5_NIM:0 "Notable Socialist Influences" 
+ RCT_subtle_creep4_NIM:0 "보통의 사회주의자 영향력"
+ RCT_subtle_creep5:0 "주목할만한 사회주의자 영향력"
+ RCT_subtle_creep5_NIM:0 "주목할 만한 사회주의자 영향력" 
  RCT_subtle_creep6:0 "강한 사회주의자 영향력"
- RCT_subtle_creep6_NIM:0 "Strong Socialist Influences"
+ RCT_subtle_creep6_NIM:0 "강한 사회주의자 영향력"
  RCT_subtle_creep7:0 "강력한 사회주의자 영향력"
  RCT_subtle_creep8:0 "극단적인 사회주의자 영향력" 
- RCT_KGB_1:0 "적은 사회주의자 파괴공작 스파이"
- RCT_KGB_2:0 "Several Socialist Saboteur Spies"
- RCT_KGB_3:0 "Numerous Socialist Saboteur Spies"
+ RCT_KGB_1:0 "적은 사회주의자 파괴공작원"
+ RCT_KGB_2:0 "몇몇의 사회주의자 파괴공작원"
+ RCT_KGB_3:0 "수많은 사회주의자 파괴공작원"
  RCT_OHS_divs:0 "OHS 사단" 
  RCT_OHS_detachments_idea:0 "OHS 파견대" 
  RCT_accept:0 "데포니아 지원"
@@ -109,28 +109,28 @@
  RCT_commandpower:0 "장관 훈련"
  RCT_communist_aggression:0 "공격적 방어"
  RCT_STG_of_the_east_idea:0 "동쪽의 스탈리온그라드"
- RCT_caramels_stubbornness:0 "Paranoid Caramel"
- RCT_caramels_stubbornness_desc:0 "No one can be trusted. Anyone could be plotting to betray you and overthrow the rightful leadership of the River Republic. Friends are just capitalists in disguise."
- RCT_staff:0 "Capable Officers"
- RCT_spec_ops:0 "Special Forces Battalion"
+ RCT_caramels_stubbornness:0 "카라멜의 피해망상"
+ RCT_caramels_stubbornness_desc:0 "아무도 믿을 수 없습니다. 누구든 당신을 배신하고 리버 공화국의 정당한 정부를 전복시킬 음모를 꾸미고 있을 수 있습니다. 친구는 그저 변장한 자본가일 뿐입니다."
+ RCT_staff:0 "유능한 장군들"
+ RCT_spec_ops:0 "특수부대"
  RCT_expand_officer_academy_idea:0 "Expanded Officer Training"
- RCT_grand_army_of_the_republic_idea:0 "Grand Army Of The Republic"
- RCT_river_swirl_puppet:0 "Puppet Chancellor"
- RCT_river_swirl_puppet_desc:0 "River Swirl remains the Chancellor of the Republic but has no real power any longer."
+ RCT_grand_army_of_the_republic_idea:0 "공화국 군인회"
+ RCT_river_swirl_puppet:0 "꼭두각시 수장"
+ RCT_river_swirl_puppet_desc:0 "리버 스윌은 공화국의 수상으로 남아 있지만 더 이상 실질적인 권력을 가지고 있지 않습니다."
  RCT_bastion_of_the_east_idea:0 "동쪽의 방파제"
- RCT_united_joint_river_works_idea:0 "United Construction Regulation"
- RCT_agricultural_standerds_authority_idea:0 "Agricultural Standards Authority"
+ RCT_united_joint_river_works_idea:0 "통합 건설 규제"
+ RCT_agricultural_standerds_authority_idea:0 "농업 표준기구"
  RCT_social_security_act_idea:0 "사회보장법"
- RCT_healthcare_reform_idea:0 "Healthcare Reform"
- RCT_reform_the_disharmonists_idea:0 "Reform the Disharmonists"
- RCT_border_defence_fund_idea:0 "Border Defence Fund"
- RCT_war_readiness_act_idea:0 "War Readiness Act"
- RCT_pony_work_groups:0 "Labour Unions"
+ RCT_healthcare_reform_idea:0 "의료서비스 개혁"
+ RCT_reform_the_disharmonists_idea:0 "반조화주의자 갱생"
+ RCT_border_defence_fund_idea:0 "국경 방어 기금"
+ RCT_war_readiness_act_idea:0 "전쟁 준비 훈련"
+ RCT_pony_work_groups:0 "노동조합"
  RCT_pony_work_groups_desc:0 "We have numerous labour unions and most of our workers are their members. They ensure fair wages, good work conditions and a motivated high-quality workforce."
- RCT_WAT_Influence1:0 "Negligible Harmonic Influences"
- RCT_WAT_Influence2:0 "Weak Harmonic Influences"
- RCT_WAT_Influence3:0 "Moderate Harmonic Influences"
- RCT_WAT_Influence4:0 "Strong Harmonic Influences"
+ RCT_WAT_Influence1:0 "무시할만한 조화주의 영향력"
+ RCT_WAT_Influence2:0 "약한 조화주의 영향력"
+ RCT_WAT_Influence3:0 "보통의 조화주의 영향력"
+ RCT_WAT_Influence4:0 "강한 조화주의 영향력"
  
  ### Advisors ###
  RCT_pumpkin_swirl:0 "Pumpkin Swirl"
@@ -282,7 +282,7 @@
  RCT_equestrian_exchange_desc:0 "Equestria is the most advanced nation of ponies in the world. They do not jealously guard their great knowledge, so all we need to do is ask them and we will surely receive scientific aid. If they desire, we can give them our studies as well and cooperate together to create a brighter tomorrow."
  
  RCT_social_security_act:0 "사회보장법"
- RCT_social_security_act_desc:0 "The rise of the SKR was partially caused by the poor conditions of our ponies. Indeed, the socialists were right: we need to aid the less fortunate in our society and ensure everyone gets a chance in life. An extensive and modern social security law must be passed to aid the elderly, the foals and the unemployed."
+ RCT_social_security_act_desc:0 "The rise of the 리예카 공산당 was partially caused by the poor conditions of our ponies. Indeed, the socialists were right: we need to aid the less fortunate in our society and ensure everyone gets a chance in life. An extensive and modern social security law must be passed to aid the elderly, the foals and the unemployed."
  
  RCT_healthcare_reform:0 "의료서비스 개혁"
  RCT_healthcare_reform_desc:0 "There is more we can do to improve the lives of our ponies: A healthcare reform that improves both quality and availability of medical aid. Public insurances will be made afforable with slightly higher taxes and free vaccination programs will be started at once."
@@ -329,7 +329,7 @@
 
  #Gommie
  RCT_red_saturday:0 "붉은 토요일"
- RCT_red_saturday_desc:0 "It was like any other Saturday. The Sabor prepared for a meeting in Rijekograd to discuss recent political developments and the rapid rise of the SKR. Then, something happened..."
+ RCT_red_saturday_desc:0 "It was like any other Saturday. The Sabor prepared for a meeting in Rijekograd to discuss recent political developments and the rapid rise of the 리예카 공산당. Then, something happened..."
  
  RCT_proletarian_dictatorship:0 "프롤레테리안 독재"
  RCT_proletarian_dictatorship_desc:0 "Workers of Rijekograd, arise from your slumber! For too long have you suffered. Rise up and take up arms, for the time for revolution has come! The streets shall run red with the blood of the bourgeois scum! Bring Nova Whirl and her fellow traitors to justice!"
@@ -358,7 +358,7 @@
  
  
  RCT_independent_socialism:0 "만연한 민주주의"
- RCT_independent_socialism_desc:0 "Caramel's insidious plot has been stopped at the last minute, the traitors have been arrested and democracy has been saved. Now Nova Whirl and the SKR can finally begin reforms that will turn the River Republic into a true socialist utopia."
+ RCT_independent_socialism_desc:0 "Caramel's insidious plot has been stopped at the last minute, the traitors have been arrested and democracy has been saved. Now Nova Whirl and the 리예카 공산당 can finally begin reforms that will turn the River Republic into a true socialist utopia."
  
  RCT_market_socialism:0 "시장사회주의 원칙"
  RCT_market_socialism_desc:0 "No one can deny the benefits of having a market economy. It drives development and growth better than anything else. However, individuals are prone to exploit it to their own advantage. By gradually abolishing private ownership and introducing cooperatives and syndicates, every worker will be an owner who will receive their fair share of the profits."
@@ -378,7 +378,7 @@
  RCT_control_the_unions:0 "정치 연합"
  RCT_control_the_unions_desc:0 "Now that we have introduced market socialism, the membership and power of labour unions has grown greatly. They are becoming increasingly active in politics, pushing for further social reforms and worker-friendly legislation. We should wholeheartedly welcome this development!"
  
- RCT_rijekan_socialism:0 "Rijekan Socialism"
+ RCT_rijekan_socialism:0 "리예카 사회주의"
  RCT_rijekan_socialism_desc:0 "Nova Whirl is finally fulfilling her dream of making the River Republic into a unique socialist state that retains a market economy. The economy is growing and life seems better now as exploitation and oppression are vanishing from society. But she has another dream as well: Spreading this utopia to the rest of the Riverlands."
  
  
@@ -487,7 +487,7 @@
  RCT_industry_computing:0 "이퀘스트리아 컴퓨팅"
  RCT_industry_computing_desc:0 "During River Swirl's term some cooperation was established with Equestrian universities and schools, which were developing computing machines. Now our scientists are developing our very first analog computers based on western research. With our subsidies, they'll be able to make a breakthrough."
  
- RCT_industry_all_in_one:0 "콜트스트림과 Rijekograd 연결"
+ RCT_industry_all_in_one:0 "콜트스트림과 리제코그라드 연결"
  RCT_industry_all_in_one_desc:0 "While a regular road exists between Colstream and Rijekograd, a modern railroad should be constructed across the Griffking river. Colstream will become more tightly connected to the capital, allowing increased commerce and industrial cooperation between the two cities."
  
  RCT_industry_millitary_factories:0 "Rijekan 무기 산업"
@@ -511,7 +511,7 @@
  RCT_industry_improve_society_1:0 "산업화의 진전"
  RCT_industry_improve_society_1_desc:0 "The growth of our economy continues even stronger than before. Our policies have been successful and new factories are opened every month. Our nation will be truly prosperous and advanced, a true forerunner of the East!"
  
- RCT_industry_research_slot:0 "Rijekograd 대학"
+ RCT_industry_research_slot:0 "리제코그라드 대학"
  RCT_industry_research_slot_desc:0 "The university of Rijekograd is among the oldest ones in the East. Now it will become one of the largest ones as well. More teachers, more subjects, more students from all across the Riverlands, along with increased student exchange with our western pony relatives."
  
  RCT_industry_jets:0 "로켓 엔진 실험"
@@ -608,7 +608,7 @@
  RCT_long_range_planes:0 "강의 저편"
  RCT_long_range_planes_desc:0 "To properly protect our country, we must venture forth beyond our home to meet our enemy head on. Bigger engines, better aerodynamics and larger fuel tanks will be needed to create the designs we need for the task. Let’s let the designponies loose to see what they come up with."
  
- RCT_expand_air_defense:0 "밑바닥에서 "
+ RCT_expand_air_defense:0 "밑바닥에서 하늘까지"
  RCT_expand_air_defense_desc:0 "Airplanes are expensive marvels of technology. The cost of bringing a gun into the air is much larger than the cost of having a larger gun on the ground. Fixed anti-air emplacements and ground based, towed anti-aircraft guns are an economical choice to protect our troops from enemy air raids."
  
  RCT_expand_radar:0 "레이더 감지"
@@ -717,9 +717,9 @@
  rivercity.2.a:0 ""
  
  rivercity.3.t:0 "불안정한 정부의 운명"
- rivercity.3.d:0 "After a series of secret meetings, an alliance of leading politicians, government employees, army officers and top business ponies have agreed that decisive action must be taken to ensure that the events that plagued the last election never happen again. There cannot be true harmony until all inharmonious elements in society have been purged or reformed. With the ever-present threat of communist, fascists, anarchists and griffons looming over the Republic, it was agreed that a temporary government lead by the Office of Harmonic Services should take power until such a time as true harmony has been achieved.\n\nRiver Swirl, horrified by such an idea, threatened to block such action which would be entirely legal under the emergency powers she had enacted. The alliance has been left with little choice than to seize power, a move that would look like a coup to the rest of the world, or to find a way to control the chancellor. Either way, it has been agreed that Director Arclight of the OHS would be the new leader of the interim government."
- rivercity.3.a:0 "Arclight seizes full control of the government."
- rivercity.3.b:0 "The OHS was able to 'convince' River Swirl to agree with the move."
+ rivercity.3.d:0 "일련의 밀회 끝에 유력 정치인, 공무원, 육군 장교, 재계 고위 인사들의 연합은 지난 선거를 괴롭혔던 사건이 다시는 일어나지 않도록 단호한 조치를 취해야 한다는 데 뜻을 모았습니다. 사회의 모든 불미스러운 요소들이 숙청되거나 개혁되기 전에는 진정한 화합이 있을 수 없습니다. 공산주의자, 파시스트, 무정부주의자, 그리핀의 위협이 공화국을 뒤덮고 있는 가운데, 진정한 화합이 이루어질 때까지 조화사무국이 임시로 정국을 운영하기로 합의했습니다.\n\n리버 스월은 이러한 결정에 공포에 질리면서 그녀가 제정했던 비상 사태 하에서 전적으로 합법적인 그러한 행동을 막겠다고 위협했습니다. 동맹은 정권을 장악함으로써 다른 국가에게는 쿠데타로 보이는 것을 수행하거나, 아니면 수상을 통제할 수 있는 다른 방법을 찾는 것 말고는 선택의 여지가 없었습니다. 어느 쪽을 선택하든, 조화사무국의 아크라이트 국장이 임시정부의 새 지도자가 될 것이라는 것으로 합의되었습니다."
+ rivercity.3.a:0 "아크라이트가 모든 국정 운영 권한을 갖게 될 것이다."
+ rivercity.3.b:0 "조화사무국은 리버 스월을 설득시킬 수 있다."
  
  rivercity.8.t:0 "새 재무부 차관"
  rivercity.8.d:0 "With the Republic stable and the financial sector once again about to function, the vacancy in the office of the Undersecretary of Treasury has grown too important to ignore. We must choose a new administrator to hold the position, however there are no notable candidates in the lower levels of the administration. Your Baba back in Zagrep has suggested you give the job to your Cousin, Pumpkin Swirl. This would be sure to be appreciated by your family, and it's not like there's many impressive candidates, but it may cause a stir if you begin promoting family to office."
@@ -732,9 +732,9 @@
 
  ## CABINET ISSUE 1 - POVERTY 
  rivercity.13.t:0 "가난 문제"
- rivercity.13.d:0 "One of the bitterest and most acrimonious disputes between the Harmonist and Socialist parties is the issue of poverty. Thousands of mares and stallions live on barest subsistence, and it is extremely hard for any of the poor to find gainful employment. This stagnation has continued for several years now, and both sides blame each other for failing to act appropriately. The Harmonists, being the majority party, have proposed a bill that would increase investment in industry and infrastructure, arguing that this growth would create new jobs for the poor to take up and lift themselves out of poverty, while the Socialists are unconvinced, preferring the implementation of extensive social welfare programmes. Nova Whirl, leader of the Socialist opposition party, has condemnded the Harmonist plan, calling it the "Fat Cat Benefit Act", and has threatened to expel any Socialist that supports it from her party. If more than 90% of her party follows her line on this issue, then the Harmonists may fail to secure a big enough majority to pass the bill."
- rivercity.13.a:0 "The Bill finds sufficient bipartisan support."
- rivercity.13.b:0 "Nova Whirl cracks the whip, killing the Bill."
+ rivercity.13.d:0 "조화당과 사회당 사이에서 가장 비타협적이고 신랄한 논쟁 중 하나는 가난 문제입니다. 수천 마리의 암말과 숫말들이 최저 생계수단으로 살고 있고, 가난한 포니들 중 돈이 되는 일자리를 찾는 것은 매우 어렵습니다. 이 침체는 지금까지 몇 년째 계속되고 있는데, 양측 모두 제대로 행동하지 못한 데 대해 서로를 비난하고 있습니다. 여당인 조화당은 산업과 기반시설에 대한 투자를 늘리는 법안을 제안하면서, 이러한 성장은 가난한 사람들이 스스로 가난에서 벗어나게 하는 새로운 일자리를 창출할 것이라고 주장하고 있고, 사회주의자들은 이를 미심쩍게 여기며 광범위한 사회 복지 프로그램의 실행을 더 선호하고 있습니다. 사회당 지도자인 노바 훨은 조화주의자들의 계획을 비난하며 "비만 고양이 복지법"이라고 비난했고, 사회당원 중 저 법안을 지지하는 당원들은 모두 추방하겠다고 위협했습니다. 만약 그녀의 당의 90% 이상이 이 문제에서 그녀의 노선을 따른다면, 조화당은 이 법안을 통과시킬 수 있을 만큼 큰 다수를 확보하지 못할 수도 있습니다."
+ rivercity.13.a:0 "그 법안은 양 당에서 충분한 지지를 얻고 있다."
+ rivercity.13.b:0 "노바 훨이 휘두른 채찍이 법안을 무너뜨렸다."
  
  #Bill Passes
  rivercity.14.t:0 "[Root.ResultOfBillTitle]"
@@ -744,12 +744,12 @@
  #Bill passes - Implementation is successful
  BillSuccessTitle:0 "산업, 부의 원천"
  BillSuccessDesc:0 "Good news! Initial signs from the passing of the Industrial Incentive Bill are positive, as business owners and industrialists across the land are filled with confidence. Factories have begun to churn once more, and orders for raw materials have been sent out in record numbers in anticipation of brisker business. Already, new positions and openings have appeared in the labor market, and while these are few, the public have taken them as a sign that the Bill is working."
- BillSuccessButton:0 "Always trust the free market."
+ BillSuccessButton:0 "자유시장은 항상 신뢰할 만하지."
 
  #Bill passes - Implementation is failure
  BillFailTitle:0 "실패의 자극"
  BillFailDesc:0 "Unfortunately, despite the passing of the Industrial Incentive Bill, very little has improved in the state of our economy. Of course, nopony expected the Bill to magically fix everything in a few weeks, but everyone expected at least some promising signs. Sadly, these signs have been lacking. Business leaders are not convinced that it will be enough, or are wary of being mired in the complicated tangle of laws that would be the result of accepting state funding. The common wisdom on the street is that the Bill is just another futile effort by a failing government."
- BillFailButton:0 "Dammit! Now the Socialists will be vindicated!"
+ BillFailButton:0 "젠장할! 이제 사회주의자들이 또 날뛰겠군."
 
  #Bill doesn't pass
  rivercity.15.t:0 "[Root.AreWeBlamedTitle]"
@@ -758,19 +758,19 @@
 
  #Bill doesn't pass - Harmony Blamed
  HarmonyBlamedTitle:0 "군중이 정부를 비난하다"
- HarmonyBlamedDesc:0 "Despite the fact that Nova Whirl's Socialists were responsible for the government's plan being killed, the public is not privy to everything that happens in the halls of power. As such, the Harmonist party are taking the blame for the government's inaction and seeming impotence in the face of the poverty crisis. Opinion polls show support for the government being corroded, as the people slowly begin to believe that they might just be useless after all."
- HarmonyBlamedButton:0 "Those bourgeois fools had it coming."
+ HarmonyBlamedDesc:0 "비록 노바 훨의 사회주의자들이 정부의 계획이 무마된 것에 대해 책임이 있지만, 일반 대중들은 권력의 장에서 일어나는 모든 일을 알 수는 없습니다. 조화당은 정부가 빈곤 위기를 직면하고도 조치를 취하지 않고 무력한 태도를 보이는 것에 대한 모든 비난을 받고 있습니다. 여론조사는 정부의 무기력함에 대한 생각의 정도를 보여주는데, 국민들은 정부가 결국 쓸모없게 될지도 모른다고 서서히 믿기 시작하고 있습니다."
+ HarmonyBlamedButton:0 "그 부르주아 바보들이 그렇게 된 거다."
  
  #Bill doesn't pass - Communists Blamed
  CommBlamedTitle:0 "군중이 사회주의자를 비난하다"
- CommBlamedDesc:0 "In an explosive press conference, River Swirl has denounced the Socialists for their meddling and intransigence, blaming them for thwarting the government's attempts to save the economy. Though some consider this an excuse, many ponies are leery enough of the Socialists that they believed this, and now it seems that the Harmonists have successfully deflected the blame for the government's inaction onto the Socialist Party! The result has been a sharp, swift decline in popularity for Nova's party, threatening it with a gradual slide into irrelevance."
- CommBlamedButton:0 "What a pack of lies." 
+ CommBlamedDesc:0 "리버 스월은 기자회견에서 사회주의자들의 개입과 비타협적인 태도를 비난하며 정부의 경제 회복 시도를 좌절시켰다고 비난했습니다. 비록 몇몇 사람들은 이것을 핑계거리라고 생각하지만, 많은 포니들은 그들이 믿었던 사회주의자들에 대해 미심쩍어하고 있으며, 그리고 이제 조화파들은 정부의 무반응에 대한 책임을 사회당에게 돌리는 데 성공한 것 같습니다! 그 결과로 노바당의 인기는 급격히 하락하면서 점차 무관심의 영역으로 빠져들며 위협받고 있습니다."
+ CommBlamedButton:0 "거짓말 투성이군." 
 
  ## CABINET ISSUE 2 - Rural Investment
  rivercity.16.t:0 "도시와 시골의 분단"
- rivercity.16.d:0 "The second issue to cause dissent in the parliament, the Sabor, is the issue of rural versus urban concerns. The Harmonist party draws much of its support from the rural farming population, while the Socialists rely almost entirely on urbanites and factory workers for their votes. However, in recent years the farmers have begun to feel that even the Harmonists are not really their friends, as they have spent more and more time dealing with budgetary and economic concerns, and less time addressing the issues that matter to them. They complain of a lack of good infrastructure, making it hard to sell their crops, of the high cost of fertiliser, making farming less profitable than it could be, and especially of the lack of policing in remote rural areas. River Swirl absolutely cannot afford to lose the farmers' support, and so she has drafted a Rural Development Plan with a view to consolidating their loyalty to Harmony. The Socialists, understandably, are less enthusiastic about this plan. While they cannot scupper the Bill entirely, they are advising that it be amended substantially to spread its funding between urban and rural areas - a move that would benefit them, and only them. The only question that remains is whether or not they will be able to secure enough support from the less-loyal Harmonists to get what they want..."
- rivercity.16.a:0 "The Bill passes, unaltered."
- rivercity.16.b:0 "Enough Harmonists defect that the Bill must be amended."
+ rivercity.16.d:0 "의회에서 이견을 불러일으킨 두 번째 문제는 시골과 도시 문제입니다. 조화당은 시골 농민들로부터 많은 지지를 받고 있는 반면, 사회주의자들은 그들의 표를 얻기 위해 거의 전적으로 도시인과 공장 노동자들에게 의존하고 있습니다. 하지만, 최근 몇 년 동안 농부들은 조화당이 진정한 동반자가 아니라는 것을 느끼기 시작했습니다. 그들은 점점 더 많은 시간을 예산과 경제적인 문제에 대처하는 데 소비했고, 그들에게 중요한 문제들을 해결하는 데 더 적은 시간을 소비했습니다. 그들은 좋은 인프라가 부족해서 농작물을 팔기 어렵고, 비료값이 비싸 농업의 수익성이 떨어지며, 특히 외딴 시골 지역의 치안 부재를 호소합니다. 리버 스월은 농부들의 지지를 절대 잃을 수 없습니다. 그래서 그녀는 조화당에 대한 그들의 충성심을 강화하기 위한 목적으로 농촌 개발 계획의 초안을 작성했습니다. 사회주의자들은 당연히 이 계획에 열광하지 않습니다. 그들은 그 법안을 그대로 완전히 통과시킬 수는 없으며 도시와 시골 지역에 지원금을 분산시키는 방향으로 개정되어야 한다고 주장하고 있습니다. 그것은 오로지 자신들에게만 이익이 될 것입니다. 남은 문제는 지지도가 낮은 조화당원으로부터 원하는 것을 얻을 수 있는 충분한 지지를 확보할 수 있느냐 하는 것입니다..."
+ rivercity.16.a:0 "법안은 변경 없이 통과되었다."
+ rivercity.16.b:0 "충분한 조화당원들이 법안을 수정해야 한다고 주장하고 있습니다."
  
  ## Harmonist Agenda - Funding to Rural Areas
  rivercity.17.t:0 "[Root.UrbanRuralTitle]"
@@ -779,11 +779,11 @@
  
  RuralInvestmentSuccessTitle:0 "충성스러운 농부들"
  RuralInvestmentSuccessDesc:0 "Our investment efforts into the rural heartlands of our country have met with initial success! New roads allow farmers to transport goods to market much faster and more easily, an investment in fertilisers has raised crop yields overall, and increased police spending has led to a sharp drop in rural crime (an issue that particularly bothers those who have to live in remote areas). Overall, quality of life for the farmers seems set to improve - and they are extremely grateful to us for it."
- RuralInvestmentSuccessButton:0 "The farmers have always been reliable."
+ RuralInvestmentSuccessButton:0 "농부들은 항상 신뢰할 만하지."
 
  RuralInvestmentFailureTitle:0 "돼지들에게 돈을 던지다"
  RuralInvestmentFailureDesc:0 "Sadly, our attempts to invest in rural infrastructure have met with failure. A mixture of bureacratic obstinance and lack of enthusiastic support by farmers has resulted in our efforts coming to nothing. Despite the large sums spent on this project, we have very little to show for it."
- RuralInvestmentFailureButton:0 "Blast it! Nova Whirl will be laughing at us!"
+ RuralInvestmentFailureButton:0 "제기랄! 노바 훨의 비웃음만 사겠군."
 
  #Communist Agenda - Money Split Between Rural and Urban Areas
  rivercity.18.t:0 "[Root.UrbanRuralTitle]"
@@ -792,17 +792,17 @@
  
  MixedInvestmentSuccessTitle:0 "분단에 다리를 놓다"
  MixedInvestmentSuccessDesc:0 "As we predicted, the project of investing both in rural and urban areas has provided the most benefit for all. Some worried that there would not be enough money to ensure that anything significant got done in either area, but this turned out not to be a problem, thanks to excellent, scientific management principles. This has significantly eroded support for the Harmonists, and expanded our base among the farmers."
- MixedInvestmentSuccessButton:0 "Yet more proof of the superiority of scientific socialism."
+ MixedInvestmentSuccessButton:0 "과학적 사회주의의 우월성을 증명해주는 또다른 증거일 뿐이다."
 
  MixedInvestmentFailedTitle:0 "버터를 너무 많이 바른 빵"
  MixedInvestmentFailedDesc:0 "Disaster! Our attempts to split funding efforts between rural and urban centres has divided our money in too many directions, and no single project has been a success - that is to say, the entire enterprise has been a failure. This debacle and waste of money has made us look like fools in both the cities and the countryside!"
- MixedInvestmentFailedButton:0 "It simply was not carried out properly!"
+ MixedInvestmentFailedButton:0 "단지 제대로 수행되지 않았었던 것 뿐이다!"
 
  ## CABINET ISSUE 3 - Talzar Commune
- rivercity.19.t:0 "The Talzar Commune"
- rivercity.19.d:0 "The third issue that has come before the Cabinet is an odd one. A group of urbanite, upper-middle class city ponies has left their dwellings in Rijekograd and taken up a primitive, agrarian mode of existence in the Talzar Hills. They have begun to forget that they are, in fact, part of our country, and ignore the central government's orders. They refuse to pay their taxes, refuse to respect police officers, and in general act as if they were a completely independent country. Things have come to a head, as a tax collector was attacked by the Talzarites when she tried to force them to comply with the law. This has led to fresh tensions in government. On the one hoof, this is a flagrant attack on a government official, and cannot be tolerated. On the other, the official was a tax collector, and most of the public is having a hard time mustering much sympathy for a tax collector. Still, there is a general consensus that *something* ought to be done about these play-pretend farmers. After much wrangling, it has been agreed that one more diplomatic envoy should be sent to tell them to buzz off, but both political parties have suggested their own candiates for the task. The Harmonists favor the hard-nosed marshal Hector Lipizzan, while Nova Whirl herself has offered to go as the Socialist representative."
- rivercity.19.a:0 "Marshal Hector will whip some sense into those hippies!"
- rivercity.19.b:0 "Nova Whirl will see to this personally."
+ rivercity.19.t:0 "탈자르 코뮌"
+ rivercity.19.d:0 "내각에 나온 세 번째 문제는 좀 기묘합니다. 한 무리의 중상류 도시 포니들이 리예코그라드의 거주지를 떠나 탈자르 언덕에 원시적이고 농경적인 형태의 생존 방식을 취했습니다. 이들은 사실상 우리 나라의 일부라는 사실을 잊은 채 중앙정부의 명령을 무시하기 시작했습니다. 그들은 세금 납부를 거부하고, 경찰 개입을 거부하며, 대체적으로 완전히 독립된 국가인 것처럼 행동하고 있습니다. 이 문제는 한 세금 징수원이 탈자르인들에게 이들에게 채무 이행을 강제로 시도하려다 공격을 당하면서 화두가 되기 시작했고, 이로 인해 정부 내 새로운 긴장이 조성되고 있습니다. 한 쪽에서는 이것은 정부 관계자에 대한 명백한 공격이며, 용납될 수 없다고 말하고 있습니다. 한편, 이 관리는 세금 징수원이었기에 대부분의 대중들은 세금 징수원에게 동정표를 주는데 어려움을 겪고 있습니다. 그럼에도 불구하고, 이 가짜 농부들에 대해 *뭔가* 해야 한다는 것이 일반적인 의견입니다. 많은 논쟁 끝에, 외교 사절 한 명을 더 보내서 그들에게 서둘러 떠나라고 말해야 한다는 것이 합의되었지만, 두 정당 모두 그 일에 대해 서로 다른 책임자를 제시했습니다. 조화당은 코가 단단한 헥터 리피잔 보안관을 선호하고, 노바 훨은 사회당 대표로 자신이 직접 나가겠다고 제안했습니다."
+ rivercity.19.a:0 "헥터 보안관이 이 히피들을 따끔하게 가르쳐 줄 것이다!"
+ rivercity.19.b:0 "노바 휠이 개인적으로 이들을 다룰 것이다."
  
  #Harmonist Method - Hector's Military
  rivercity.20.t:0 "[Root.TalzarTitle]"
@@ -811,106 +811,106 @@
  
  WildheartSuccessTitle:0 "힘겨운 사랑"
  WildheartSuccessDesc:0 "Marshal Hector always had a reputation as a tough, no-nonsense commander who wouldn't take guff from anypony, even from the richest and most powerful families in the Republic. As such, when he and a hundred soldiers marched up the hills to the Talzarites and ordered them to cease squatting on land that they had no right to, they had to take notice. The professionalism of the soldiers was without peer, as not a single shot was fired, and not a single Talzarite was injured as they were frog-marched back to their houses. While some regard his methods as a little excessive, most ponies are just happy that Hector was able to slap some sense into these fools."
- WildheartSuccessButton:0 "Three cheers for the Marshal!"
+ WildheartSuccessButton:0 "보안관에게 환호를!"
 
- WildheartFailureTitle:0 "The Talzar Terror"
+ WildheartFailureTitle:0 "탈자르 공포"
  WildheartFailureDesc:0 "Marshal Hector has always had a reputation as a tough-minded military commander - but perhaps his military methods aren't quite what was needed for an expedition such as this. The thick-headed, idealistic leader of the Talzar Commune immediately butted heads with Hector, and as neither was willing to back down, violence ensued. Accurate reports on what precisely transpired are impossible to come by, but what we do know is that the Talzarites fled the hills in terror, spreading stories of cruel violence. While nopony really liked the Talzarites, very few wanted to see them dead, and this display of excessive force has caused support for River Swirl to take a sharp hit. The Socialists, in particular, have turned Talzar almost into a rallying-cry, and are daily denouncing our government as illegitimate."
- WildheartFailureButton:0 "Tensions are coming to a head..."
+ WildheartFailureButton:0 "점점 긴장이 높아지고 있군..."
  
  #Communist Method - Nova Swirl's Appeal
  rivercity.21.t:0 "[Root.TalzarTitle]"
  rivercity.21.d:0 "[Root.TalzarDesc]"
  rivercity.21.a:0 "[Root.TalzarButton]"
 
- NovaSwirlConvincesTitle:0 "A Nova Of Emotion"
+ NovaSwirlConvincesTitle:0 "감정의 노바"
  NovaSwirlConvincesDesc:0 "In a moving display, Nova Whirl has announced today the formal establishment of the Talzar Commune as an autonomous region of the River Republic. The Talzarites have, apparently, agreed to pay taxes and follow the laws of our country providing that we allow them to govern themselves. This decision, which Nova Whirl by no means had the right to make, has been seen as a direct attack on the legitimacy of River Swirl's government. Despite the outrageous overstepping of her own authority, the public as a whole seems to just be happy that the issue is dealt with, and nopony seems to be willing to go to the bother of overturning a solution that seems to be working. It seems as if the illegal decision must be allowed to stand."
- NovaSwirlConvincesButton:0 "Comrade Nova Whirl's plans are executing precisely as planned"
+ NovaSwirlConvincesButton:0 "노바 휠 동무의 계획이 계획된 대로 완벽하게 실행되었다."
  
  NovaSwirlUnconvincingTitle:0 "An Embarassing Display"
  NovaSwirlUnconvincingDesc:0 "To Nova Whirl's dismay, the Talzarites were unwilling to listen to her proposal of autonomy within the Republic. They simply considered themselves 'citizens of the world', and not bound by the laws of a society they hadn't chosen to be born into. Nova Whirl's repeated attempts to convince them met with no more success, and while what happened next is not precisely clear, what is known is that Nova Whirl returned to Rijekograd in a wet, mud-soaked burlap sack. In light of her abject failure, Hector has taken matters into his own hooves and forcibly dispersed the Talzarites back to their own homes. The whole affair has been an embarassment to the Socialist cause, and has made the Harmonist government look altogether stronger or more competent than ever before."
- NovaSwirlUnconvincingButton:0 "They will pay for this when the Revolution comes!"
+ NovaSwirlUnconvincingButton:0 "혁명의 날이 다가오면 반드시 이 대가를 치르게 할 것이다!"
 
  ### Failure of Government ###
  rivercity.22.t:0 "노바가 행동에 나서다"
- rivercity.22.d:0 "It is no secret that River Swirl and Nova Whirl hate each other, and constantly attempt to undermine each other's positions, but it was only today that their mutual disdain came fully to a head. At the climax of a particularly heated debate, Nova Whirl publicly proclaimed a motion of No Confidence in the Chancellor, and as if planned in advance, her entire party followed behind her. This puts River Swirl in an untenable position - she can no longer run a democratic government without at least the nominal confidence of the second largest party. If her own party was united, they might have been able to press on and simply ignore the Socialists, but the HSR is a loose coalition of conservatives, liberals, and social democrats united only by their fear and mistrust of the SKR. Many of her own party members abstained from voting or even (shockingly) voted No Confidence also, leaving the Chancellor with few options. She will have to go back to the polls."
- rivercity.22.a:0 "Dissolve the Government and hold a snap election!"
- rivercity.22.b:0 "Invoke the Emergency Powers Bill and suspend the Constitution until this crisis is sorted out."
+ rivercity.22.d:0 "리버 스월과 노바 훨이 서로를 증오하고 끊임없이 서로의 의견을 폄하하려 한다는 것은 공공연한 비밀이지만, 그들의 상호 경멸이 완전히 수렁에 이른 것은 오늘이었습니다. 열띤 토론이 한창일 때, 노바 훨은 공개적으로 수상에 대한 불신임안을 선언했고, 미리 계획한 것처럼 그녀의 일행이 그녀의 뒤를 따랐습니다. 이로써 리버 스월 전 수상은 최소한 제 2의 정당의 명목상의 신임 없이는 더 이상 민주 정부를 운영할 수 없게 되었습니다. 만약 그녀의 당이 통합되어 있었다면 그들은 사회주의자들을 압박하고 간단히 무시할 수 있었을지도 모르지만, 조화당은 사회당에 대한 공포와 불신만으로 단결된 보수, 진보, 사회민주당의 느슨한 연합체일 뿐이었습니다. 그녀의 많은 당원들이 기권하거나 심지어 (충격적으로) 불신임 투표까지 했기에 수상에게는 선택의 여지가 없었습니다. 그녀는 투표소로 돌아가야 할 것입니다."
+ rivercity.22.a:0 "정부를 해산하고 신속히 선거를 실시해라!"
+ rivercity.22.b:0 "비상권한법을 발동하고 위기가 해소될 때까지 헌법을 정지시켜라."
  
  ## Failure of Government - Election Chain ##
- rivercity.23.t:0 "Debate In Coltovac"
- rivercity.23.d:0 "As part of the campaign trail, both candidates have engaged in an extensive debate in Coltovac. As both are well-known for hating each other and have intimate knowledge of each other's political foibles, this debate drew a huge crowd, expecting to see mud-slinging on an unprecedented scale - and they were not disappointed. Though the umpire tried to keep the debate on point, it quickly devolved into a shouting match about who was responsible for the government's inability to get anything done. Police eventually had to disperse the crowd and end the "debate" prematurely in order to prevent a riot from breaking out. Nonetheless, the crowd on that day was more impressed..."
- rivercity.23.a:0 "...by River Swirl."
- rivercity.23.b:0 "...by Nova Whirl."
+ rivercity.23.t:0 "콜토박 논쟁"
+ rivercity.23.d:0 "선거 유세 일정의 일환으로 두 후보 모두 콜토박에서 열폭적인 토론을 벌였습니다. 둘 다 서로를 증오하는 것으로 잘 알려져 있고 서로의 정치적 결함에 대해 잘 알고 있기 때문에, 이 논쟁은 전례 없는 규모의 진흙탕 싸움을 보게 될 것으로 기대하면서 많은 사람들을 끌어 모았고, 그들은 실망시키지 않았습니다. 사회자는 토론을 이어가려고 했지만, 토론회는 정부가 아무것도 하지 못한 것에 대해 누가 책임을 져야 하는지에 대한 고함치는 시합으로 빠르게 전개되었습니다. 경찰은 결국 폭동이 발생하는 것을 막기 위해 군중을 해산하고 '토론'를 조기에 끝내야 했습니다. 그럼에도 불구하고, 그날의 군중들에게 더 깊은 인상을 준 포니는..."
+ rivercity.23.a:0 "...리버 스월이였습니다."
+ rivercity.23.b:0 "...노바 훨이었습니다."
  
  rivercity.24.t:0 "Day of The Deputy"
- rivercity.24.d:0 "As the short snap election nears its close, both parties realised the need to keep River Swirl and Nova Whirl away from each other, for fear that the closing debate of the campaign woud result in a riot in the capital. As such, this debate was chaired by a representative chosen by the party leadership, rather than by the party heads themselves. On one side, the Harmonists were represented by Marshal Hector Lipizzan, while the Socialist Party elected Nova's second-in-command, Caramel Haze, to speak for them. This debate, though more orderly than the previous, was still filled with fiery oration, as Caramel Haze is a far more stringent Stallionist than Nova Whirl, while Hector is a stern anti-Communist. Thankfully, the animated rhetoric did not result in animated rioters, and at the end of the day, the crowd was most convinced by..."
- rivercity.24.a:0 "...Hector's patriotism."
- rivercity.24.b:0 "...Caramel's revolutionary zeal!"
+ rivercity.24.d:0 "짧은 선거가 막바지에 다다르면서, 양당은 선거 운동의 마지막 토론이 수도에서 폭동을 일으킬 것을 우려하여, 리버 스월과 노바 훨을 멀찍이 떨어뜨려 놓아야 했습니다. 그러다 보니 이번 토론은 당 대표들이 직접 나서기보다는 당 지도부가 뽑은 대표가 의장을 맡게 되었습니다. 한쪽에서는 조화당의 헥터 리피잔 원수가 나왔고, 사회당은 노바의 2인자 카라멜 헤즈를 대변인으로 선출했습니다. 카라멜 헤이즈는 노바 훨보다 훨씬 더 엄격한 스탈리온주의자이고, 헥터는 강력한 반공주의자이기 때문에 이 논쟁은 여전히 불같은 웅변으로 가득 차 있었습니다. 고맙게도, 그 격앙된 언사가 격앙된 폭도들로 이어지지는 않았습니다. 그리고 결국, 군중들의 마음을 움직인 것은..."
+ rivercity.24.a:0 "...헥터의 애국주의였습니다."
+ rivercity.24.b:0 "...카라멜의 열정적인 혁명이었습니다!"
  
  #Election Results
- rivercity.25.t:0 "The Election Comes To A Close"
+ rivercity.25.t:0 "임박한 선거 날짜"
  rivercity.25.d:0 "[Root.ElectionResultsDesc]"
  rivercity.25.a:0 "[Root.ElectionResultsButton]"
  
- HarmonicElectionDesc:0 "Despite the chaos of the past weeks, River Swirl's HSR party has secured a majority in the polls. The Socialists, having expended their political capital forcing this snap election, should no longer be able to interfere with River Swirl's policies, as she finally has a large enough majority that she can afford to ignore them."
- HarmonicElectionButton:0 "I love democracy! I love the Republic!"
+ HarmonicElectionDesc:0 "D지난 몇 주간의 혼란에도 불구하고, 리버 스월이 이끄는 조화당이 투표에서 과반수를 확보했습니다. 그녀가 마침내 사회당을 무시할 수 있을 만큼 충분히 많은 표를 얻었기 때문에, 이번 조기 총선을 강요하며 정치적 자본을 쏟아부은 사회주의자들은 더 이상 리버 스월 대통령의 정책에 간섭할 수 없을 것입니다."
+ HarmonicElectionButton:0 "나는 민주주의가 좋다! 난 공화국을 사랑해!"
  
- CommunistElectionDesc:0 "Nova Whirl's dangerous gambit has paid off - the electorate's ennui and dissatisfaction with the government has translated into a staggering victory for the SKR. Now that the bourgeois politicians have finally been ousted, the Socialists can commence their great work of perfecting society."
- CommunistElectionButton:0 "The People have finally stood up!"
+ CommunistElectionDesc:0 "노바 훨의 위험한 도박이 성과를 거두었습니다 - 유권자의 권태와 정부에 대한 불만이 사회당의 놀라운 승리로 바뀌었습니다. 부르주아 정치인들이 마침내 축출되었으니, 사회주의자들은 이제 사회를 완성하는 과업을 시작할 수 있게 되었습니다."
+ CommunistElectionButton:0 "마침내 인민들이 일어섰도다!"
  
  ## Failure of Government - Emergency Powers Chain ##
- rivercity.26.t:0 "The Emergency Powers Bill"
+ rivercity.26.t:0 "비상권한법"
  rivercity.26.d:0 "The HSR is a broad tent of political viewpoints, united only by their fear and hatred of Communism. As such, they rarely agree on anything, and River Swirl cannot even trust the majority of them to support her on hard issues most of the time. However, today, in a rare display of unity, the party has unanimously passed a resolution to provide the Chancellor with wide-ranging powers in the event of an "Emergency". Ostensibly meant to preserve the Republic's ability to fight wars and suppress rebellion without being crippled by obstructionist politicians, many note that the Bill leaves the definition of "Emergency" up entirely to the discretion of the Chancellor, and thus is a dangerous first step on the path to autocracy. Despite these concerns, the HSR has been so disgusted by the recent Socialist attempt to paralyse our democracy that it has consented to allow this bill to be drawn up. The Bill was voted through by a rare united front of Harmonists, and now all that River Swirl needs to do is sign the Bill into law..."
  rivercity.26.a:0 "I must think this over for a while."
  
  rivercity.27.t:0 "붉은 토요일"
- rivercity.27.d:0 "Though they were allies for as long the the Harmonists were in power, Nova Whirl has never seen eye to eye with her second-in-command, Caramel Haze. He was always too radical, too willing and ready to fight, too dismissive of stategy or common sense. He was a fanatic, assured that all that was needed for the Revolution to succeed was for Communists to fight for it with sufficient zeal. In fact, when Nova once asked him in exasperation whether he would prefer fighting the entire River Coalition alone to subverting the bourgeois democracy from within first, he immediately replied with a "Yes".\nIt was for these reasons, among others, that the two have never gotten along that well. Today, that division has flared up in a dramatic way. Caramel Haze, as a high-ranking army general, has authority over many divisions, and it has come to the attention of Nova's spies that the divisions assigned to protect Rijekograd have slowly been rotated out over the last few weeks in favor of units nominally under Haze's control. This is a deeply worrying sign, for the two socialist leaders have recently argued in the Sabor, and it seems that Caramel's patience has finally run out. All the evidence points to the early stages of a coup. Will Nova Whirl's spies report back in time?"
- rivercity.27.a:0 "Caramel's loyal soldiers seize control of the government!"
- rivercity.27.b:0 "The spies' report makes it through, and the Army arrests Caramel."
+ rivercity.27.d:0 "노바 훨과 그녀의 2인자 카라멜 헤이즈는 조화당이 집권한 기간 동안 동맹관계였지만, 그들은 한 번도 의견 일치를 본 적이 없었습니다. 카라멜은 항상 지나치게 급진적이었고, 기꺼이 싸울 기세였으며, 너무 무뚝뚝하거나 상식을 무시했습니다. 그는 광신자였고, 혁명이 성공하기 위해 필요한 것은 공산주의자들이 충분한 열성을 가지고 그것을 위해 싸우는 것뿐이라고 생각했습니다. 실제로 노바가 언젠가 그에게 화가 나서 부르주아 민주주의를 내부에서 전복시키겠다는 이유로 혼자서 리버 연합 전체를 상대로 싸우겠냐고 묻자 그는 망설임 없이 "그렇다"라고 대답했습니다.\n두 사람이 그렇게 사이가 좋지 않은 것은 특히 이런 이유 때문입니다. 오늘, 그 갈등은 극적으로 치달았습니다. 노바의 스파이들은 육군 고위장성인 카라멜 헤이즈는 많은 사단을 움직일 수 있는 권한을 지니고 있으며, 지난 몇 주 동안 리제코그라드를 보호하기 위해 배정된 사단이 헤이즈의 통제하에 서서히 들어왔다는 것을 알게 되었습니다. 이것은 두 사회주의계 지도자들이 최근 의회에서 논쟁을 벌였고, 마침내 카라멜의 인내심이 바닥났다는 것을 고려할 때 아주 심각한 사안입니다. 모든 증거는 쿠데타를 가리키고 있습니다. 노바 훨의 스파이들이 제때에 보고할 수 있을까요?"
+ rivercity.27.a:0 "카라멜의 충성스런 군인들이 정부를 장악했습니다!"
+ rivercity.27.b:0 "스파이들의 보고가 전달되었고, 군대가 카라멜을 체포했습니다."
  
- rivercity.1917.t:0 "노바 휠의 초대장"
- rivercity.1917.d:0 "A delegation from River Republic arrived in our capital today. They presented us a formal invitation from Chancellor Nova Whirl to join the new Riverland Socialist Union, which will replace the old River Coalition. Treaty of Coltstream and all its clauses will be nullified and all countries are asked to sign the new Treaty of Rijekograd, which requires every member nation to have a socialist constitution that abolishes private ownership and promotes liberty and equality in all facets of society. If we do not accept, we will not join this Union."
- rivercity.1917.a:0 "We happily accept her invitation."
- rivercity.1917.b:0 "What?! This is outrageous!"
+ rivercity.1917.t:0 "노바 훨의 초대장"
+ rivercity.1917.d:0 "리버 공화국 대표단이 오늘 우리 수도에 도착했습니다. 그들은 우리에게 노바 훨 수상이 (구)리버 연합을 대신할 새로운 리버랜드 사회주의 연합에 가입할 것을 알리는 정식 초청장을 보냈습니다. 콜트스트림 조약과 그 모든 조항들은 무효가 될 것이고 모든 나라들은 리제코그라드 조약에 서명하도록 요구될 것입니다. 리제코그라드 조약은 모든 회원국의 사유권을 폐지하고 사회의 모든 면에서 자유와 평등을 촉진하는 사회주의 헌법을 갖도록 요구하고 있습니다. 만약 우리가 이를 받아들일 수 없다면, 우리는 이 연합에 가입하지 않을 것입니다."
+ rivercity.1917.a:0 "그녀의 초대에 흔쾌히 응한다."
+ rivercity.1917.b:0 "뭐라고? 이건 말도 안 돼!"
  
  rivercity.1918.t:0 "혁명이 반대세력을 부추기다"
- rivercity.1918.d:0 "Our law-keeping forces have arrested several individuals who are suspected of spreading propaganda and disrupting public order. After interrogations it became clear all of them were part of a larger underground socialist organization which continues to be active. If we do not act, we might have to deal with a red revolution."
- rivercity.1918.a:0 "Who is behind this? Nova?"
+ rivercity.1918.d:0 "우리의 치안유지군이 선전물을 퍼뜨리고 공공 질서를 어지럽힌 혐의를 받고 있는 여러 포니들을 체포했습니다. 심문을 통해 그들 모두가 현재 활동 중인 대규모 지하 사회주의 조직의 일부라는 것이 분명해졌습니다. 만약 우리가 행동하지 않는다면, 우리는 붉은 혁명에 대처해야 할지도 모릅니다."
+ rivercity.1918.a:0 "누가 배후에 있는 거지? 노바인가?"
  
  rivercity.1919.t:0 "혁명 의용군"
- rivercity.1919.d:0 "Our agents have informed us that weapons are being stockpiled in different locations across the country, both in the countryside and the cities. We have sent our military to confiscate the illegal weaponry and have made several arrests, but we fear it was only the tip of the icebergs and that numerous armed militia units are being organized in secret. The arrested individuals refuse to reveal who is supporting them but spouted several communist slogans."
- rivercity.1919.a:0 "This is outrageous!"
+ rivercity.1919.d:0 "우리 요원들은 시골과 도시 모두, 전국 각지에 무기가 반입되고 있다고 알려왔습니다. 불법 무기를 압수하기 위해 군이 파견되었으며, 여러 번의 체포가 있었지만, 이는 빙산의 일각에 불과하고 수많은 무장 민병대가 비밀리에 조직되고 있는 것이 아닌가 우려됩니다. 체포된 사람들은 지도자를 밝히는 것을 거부하지만 몇몇 다분히 공산주의적인 구호를 내뱉었습니다."
+ rivercity.1919.a:0 "이건 말도 안 돼!"
  
  rivercity.1920.t:0 "혁명이 일어나다"
- rivercity.1920.d:0 "Reports are coming from all over the country of ambushes and attacks on our military and lawkeeping forces. There have been dozens of deaths and a great amount of sabotage. It is clear that some kind of organization is trying to destroy us from within! The few captured prisoners were clearly radical socialists, judging by them calling our soldiers and lawkeepers "bootlickers"."
- rivercity.1920.a:0 "Curses!"
+ rivercity.1920.d:0 "우리 군과 치안유지군에 대한 매복 공격이 전국에서 보도되고 있습니다. 수십 명의 사망자와 엄청난 파괴가 있었습니다. 어떤 조직이 내부에서 우리를 파괴하려는 것은 분명합니다! 몇 안 되는 포로들은 분명히 급진적인 사회주의자들이었는데, 그들은 우리 군인과 법무관들을 '아첨꾼'이라고 부르고 있습니다."
+ rivercity.1920.a:0 "저주하노라!"
  
  rivercity.1921.t:0 "외국 스파이 발견"
- rivercity.1921.d:0 "Suspicious persons who have for a while been observed by our lawkeepers were now arrested and interrogated. They revealed little, but material confiscated from them contained encrypted messages, proving that they were doing something devious. Interestingly, the captured spies spoke in a Rijekan accent."
- rivercity.1921.a:0 "What?! Did Nova send them here?" 
+ rivercity.1921.d:0 "한동안 우리 치안유지군에게 수상했던 포니들은 이제 체포되어 심문을 받고 있습니다. 그들은 입을 거의 불지 않았지만, 그들로부터 압수한 자료에는 암호화된 메시지가 담겨 있어, 그들이 뭔가 기만적인 행동을 하고 있다는 것으로 보입니다. 흥미롭게도, 붙잡힌 스파이들은 리예카 사투리로 말하고 있습니다."
+ rivercity.1921.a:0 "뭐라고? 노바가 보낸 건가?" 
  
- rivercity.1922.t:0 "노바 휠의 연합 제안"
- rivercity.1922.d:0 "An envoy arrived from Rijekograd today and delivered us a message from Chancellor Nova Whirl. She proposes the unification of our two countries, with us becoming a federal state with its own legislation and government. She reasons that workers of the East should stand together because divided they are too weak to resist foreign reactionaries."
- rivercity.1922.a:0 "We gladly accept her proposal!"
- rivercity.1922.b:0 "We'd prefer to retain our sovereignty for now."
+ rivercity.1922.t:0 "노바 훨의 연합 제안"
+ rivercity.1922.d:0 "오늘 리예코그라드에서 한 특사가 도착해서 노바 훨 수상의 메시지를 전해왔습니다. 그녀는 우리 두 나라의 통일을 제안했습니다. 우리가 그들만의 법률과 정부를 가진 연방 국가가 되는 것입니다. 그녀는 분단된 노동자들이 외국 반동분자들에게 저항하기에는 너무 약하기 때문에 동부의 노동자들이 모두 함께 서야 한다고 생각하고 있습니다."
+ rivercity.1922.a:0 "그녀의 제안에 흔쾌히 응한다."
+ rivercity.1922.b:0 "일단은 우리의 주권을 유지하고 싶다."
  
  ### INVESTIGATION OF NOVA WHIRL CHAIN ###
  
  #Investigation succeeds
  rivercity.1923.t:0 "Evidence of Coltstream Tampering"
- rivercity.1923.d:0 "When [From.GetName] noticed that after recent additions to the treaties and regulations that make up the River Coalition, support for socialism gradually increased, they sent out a commission of bureaucrats and investigators to find out what was causing the changing attitudes amongst their populace. After a thorough investigation, they discovered that the River Republic had snuck in changes to the treaty of Coltstream. These directives went unnoticed by our diplomats and were hidden in the middle of a list of insignificant changes in an already massive mountain of paperwork. The additions`, made by the Rijekan chief representative at the last minute, seemed harmless at first sight, so that [From.GetAdjective] bureaucrats just followed directives without question as they were unable to see the bigger picture. However, the investigators found out that these innocently worded changes were in fact vehicles to increase socialist support throughout the Riverlands.\n\nIn a public press conference, [From.GetAdjective] officials named the culprit; Nova Whirl’s River Republic. The announcement was followed by angry reactions from most countries in the Riverlands, who accused the Rijekans of abusing their trust. Soon after, Nova Whirl sent a letter of apology, promising that they will not intervene with other members’ affairs again."
- rivercity.1923.a:0 "Hopefully she keeps her word."
+ rivercity.1923.d:0 "[From.GetName]은(는) 최근 리버 연합을 구성하는 조약과 규정들이 추가된 후, 사회주의에 대한 지지가 점차 증가했다는 것을 알게 되었고, 그들은 무엇이 대중들의 태도 변화를 야기시키고 있는지를 알아보기 위해 관료들과 조사관들로 구성된 위원회를 보냈습니다. 철저한 조사 후에, 그들은 리버 공화국이 콜트스트림 조약의 변경에 개입해 있다는 사실을 발견했습니다. 이런 지시들은 우리 외교관들이 눈치채지 못한 채 이미 산더미처럼 쌓여 있던 서류더미의 사소한 변화들 가운데 숨겨져 있었습니다. 리예칸 대표가 추가한 항목들은 첫눈에 보기에는 나쁜 건 없는 것 같았기에, [From.GetAdjective] 관료들은 큰 그림을 보지 못한 채 의문을 제기하지 않고 지시를 따랐던 것입니다.. 하지만 수사관들은 이러한 변화들이 사실 리버랜드 전역에서 사회주의자들의 지지를 증가시키기 위한 수단이었다는 것을 발견했습니다.\n\n공개 기자 회견에서 [From.GetAdjective] 관리들은 범인을 노바 훨의 리버 공화국으로 지목했습니다. 이 발표는 리버랜드의 대부분의 나라들로부터 분노한 반응들이 뒤따랐고, 그들은 리예카인들이 그들의 신뢰를 남용했다고 비난했습니다. 곧이어 노바 훨는 사과문을 보내 다시는 다른 회원국들의 일에 개입하지 않겠다고 약속했습니다."
+ rivercity.1923.a:0 "그녀가 약속을 지키기를 바란다."
  
  #Investigation Fails
  rivercity.1924.t:0 "성과 없는 조사결과"
- rivercity.1924.d:0 "After a thorough investigation of the recent increase of socialist popularity, our team of bureaucrats and investigators traced the cause to a new River Coalition directive. Churning through the heaps of paperwork that make up such a directive, they even found the exact changes that were responsible. The minutes of the meeting of diplomats show that these changes were made at the last minute, deep at night. Interviews show that every representative and staff member was eager to get to bed and none of them remember exactly who made the change. Vague memories from attending staff and incomplete minutes mean that we may never find who is responsible for spreading socialism through our nation."
- rivercity.1924.a:0 "Blast!"
+ rivercity.1924.d:0 "최근 사회주의 인기가 높아지고 있는 것에 대한 철저한 조사 후에, 우리 관료들과 수사팀은 그 원인을 새로운 리버 연합의 지침으로 추적했습니다. 그 결과로 명령문들을 구성하는 수많은 서류들을 뒤진 끝에 정확한 변경 내용까지 찾아내는데 성공했습니다. 외교관들의 회의록에는 이런 변화가 막판에, 깊은 밤에 이뤄졌다는 내용이 담겨 있습니다. 인터뷰 내용을 보면 모든 대표와 참모들이 잠자리에 들기를 간절히 원했기에, 누가 변경을 지시했는지 정확히 기억하는 사람은 한 명도 없다는 것을 알 수 있습니다. 참석자들의 희미한 기억과 불완전한 회의록은 누가 우리 나라에 사회주의를 확산시킬 책임이 있는지를 결코 찾을 수 없다는 것을 의미합니다."
+ rivercity.1924.a:0 "젠장할!"
  
  #Call for Nova Whirl (River Republic) Expulsion
  rivercity.1925.t:0 "긴급 회담"
- rivercity.1925.d:0 "[From.GetName] had called an emergency meeting of the leaders of the River Federation in [From.Capital.GetName]. Grim faced, [From.GetLeader] explained that the current situation left their government no choice but to activate an emergency protocol in the Treaty of Coltstream to expel countries that used subterfuge to try and topple a member state government.\n\n[From.GetLeader] had a long list of wrongdoings committed by the ostensibly peaceful Rijekan government. Most of them came down to Nova Whirl’s socialist government influencing the people of the Riverlands through secret changes in the treaties made between the River Coalition members. Of course Nova Whirl apologised again, blaming overzealous subordinates and bureaucratic errors. However, [From.GetLeader] was clearly done with Nova Whirl’s apologies and pushed through the emergency vote. It is now up to every leader of the coalition to cast a vote to either expel [RCT. GetName] or leave them in the coalition. The fate of the Rijekans would be decided by a majority vote."
- rivercity.1925.a:0 "The Rijekans must go."
- rivercity.1925.b:0 "The Rijekans can stay."
+ rivercity.1925.d:0 "[From.GetName]은(는) [From.Capital.GetName]에서 리버 연방 지도자들의 긴급 회의를 소집했습니다. [From.GetLeader]은(는) 어두운 표정으로 현 상황은 콜트스트림 조약에서 비상 의정서를 활성화하여 회원국 정부를 전복시키려 했던 나라들을 추방할 수 밖에 없게 만들었다고 설명했습니다.\n\n[From.GetLeader]은(는) 표면적으로 평화로워 보였던 리예칸 정부에 의해 저질러진 많은 잘못들의 목록을 제시했습니다. 목록의 대부분은 노바 훨의 사회주의 정부가 리버 연합 회원들 사이의 비밀 조약들을 통해 리버랜드 대중들에게 영향을 미쳤던 것들이었습니다. 노바 훨은 과욕적인 부하들과 관료적인 실수를 탓하며 다시 사과했습니다. 그러나, [From.GetLeader]은(는) 노바 훨의 사과를 묵살하고 긴급 투표를 강행했습니다. 이제 [RCT. GetName]을(를) 추방할지, 남겨둘 지는 연합의 모든 지도자들의 투표에 달려 있습니다. 리예카인들의 운명은 다수결로 결정될 것입니다."
+ rivercity.1925.a:0 "리예카인들은 떠나야 한다."
+ rivercity.1925.b:0 "리예카인들은 남아 있어도 된다."
 
  ## VOTE RESULTS ##
  #Results for the Accuser
@@ -924,9 +924,9 @@
  rivercity.1938.a:0 "[VoteResultButton]"
 
  # For the Accuser
- 1926WeEjectedNovaTitle:0 "노바 휠의 추방"
+ 1926WeEjectedNovaTitle:0 "노바 훨의 추방"
  1926WeEjectedNovaDesc:0 "One by one, the leaders of the River Coalition announced their decision. In the end, there was a clear majority in favour of expelling [RCT.GetNameDef]. The Rijekan public servants would be expelled from Riverwide institutions and Nova Whirl would be expelled from the Riverland’s leading council."
- 1926WeEjectedNovaButton:0 "Goodbye, Nova Whirl."
+ 1926WeEjectedNovaButton:0 "잘 가게, 노바 휠."
 
  1926NovaEjectedUsTitle:0 "Our accusation rejected!" 
  1926NovaEjectedUsDesc:0 "One by one, the leaders of the River Coalition announced their decision. In the end, there wasn’t a majority in favour of expelling the Rijekans. [From.GetLeader] took this as treason against the founding values of the River Coalition and announced that [From.GetNameDef] would leave the treaty of Coltstream."
@@ -934,94 +934,94 @@
  
  # For River Republic
  WeWereEjectedTitle:0 "리버 동맹에서의 축출"
- WeWereEjectedDesc:0 "The other nations, swept with hysteria and paranoia, have voted to expel us from the River Coalition."
- WeWereEjectedButton:0 "A disaster!"
+ WeWereEjectedDesc:0 "히스테리와 편집증에 휩쓸린 다른 나라들은 우리를 리버 연합에서 추방하기로 결정했습니다."
+ WeWereEjectedButton:0 "재잉이다!"
 
  WeWereNotEjectedTitle:0 "Accusations are Rejected"
- WeWereNotEjectedDesc:0 "The other nations have held firm in the face of this hysterical overreaction, wisely rejecting the accusations. In the wake of their overreach and their position untenable, [From.GetNameDef] has left the River Coalition." 
- WeWereNotEjectedButton:0 "Thank goodness." 
+ WeWereNotEjectedDesc:0 "다른 국가들은 현명하게도 이러한 히스테리적인 과민반응에 거부 반응을 보이며 강경하게 대응하기로 했습니다. [From.GetNameDef]은(는) 그들의 과민반응 때문에 더 이상의 지위를 유지할 수 없게 되자, 그들 스스로 리버 연합을 떠났습니다." 
+ WeWereNotEjectedButton:0 "십년감수했군." 
 
  # For Other River Coalition Members
- NovaEjectedTitle:0 "[RCT.GetNameDef] Expelled!"
+ NovaEjectedTitle:0 "[RCT.GetNameDef]의 축출"
  NovaEjectedDesc:0 "The vote carried in favour of the expulsion of [RCT.GetNameDef]'s expulsion from the River Coalition. Nova Whirl has denounced the result as a hysterical overreaction and clear sign of Capitalist oppression within the River Coalition."    
- NovaEjectedButton:0 "Our coalition dwindles..."     
+ NovaEjectedButton:0 "동맹이 줄어들고 있군..."     
  
- NovaSurvivedTitle:0 "[RCT.GetNameDef] Remains!" 
+ NovaSurvivedTitle:0 "[RCT.GetNameDef]의 잔류" 
  NovaSurvivedDesc:0 "The vote for expulsion was unsuccesful, and Nova Whirl and the [RCT.GetNameDef] will remain in the River Coalition. In the wake of the unsuccesful move, [From.GetNameDef]'s position has become untenable, and they have departed the River Coalition." 
- NovaSurvivedButton:0 "Our coalition dwindles..." 
+ NovaSurvivedButton:0 "동맹이 줄어들고 있군..." 
  ### END INVESTIGATION OF NOVA WHIRL CHAIN ###
  
  ### COMMUNIST INTEGRATION OF THE RIVER FEDERATION ###
- rivercity.1927.t:0 "Riverlands United!"
+ rivercity.1927.t:0 "통일 리버랜드"
  rivercity.1927.d:0 "We have struggled long and hard against those who doubted us and feared us. Reactionaries, monarchs and capitalists who oppressed the workers of the Riverlands have all been defeated. Now that our neighbours have embraced the way of progress, we are free to build a socialist future for all. However, many things still remain to be done if our nation is to become a shining beacon for the world to follow. In a speech broadcast to all corners of the Riverlands, [Getleader] laid out the plans for the future. Culture, economy and military would all be integrated, to ensure optimal cooperation between the Riverland people. We have come a long way, but the road ahead is longer still."
- rivercity.1927.a:0 "Socialists of the Riverlands, unite!"
+ rivercity.1927.a:0 "리버랜드의 사회주의자들이여, 단결하라!"
  
- rivercity.1928.t:0 "Resistance To Monoculturalization"
+ rivercity.1928.t:0 "단일 문화권 형성에 대한 저항"
  rivercity.1928.d:0 "It appears that our efforts to combat nationalist and reactionary elements amongst the differing cultures of the union has been met with much resistant. Strikes and protests have been ever more frequent as our friends cling to their backward traditions. However, the problems seem to be so severe that local governments may be unable to handle the outbreaks of nationalist sentiment. The central government must intervene. We can choose to give concessions to the strikers, but risk losing the progress we have made, or we can send in the army to enforce cultural unity."
  rivercity.1928.a:0 "Quell nationalist unrest!"
  rivercity.1928.b:0 "Concessions are necessary."
  
- rivercity.1929.t:0 "Resistance To Army Reformation"
+ rivercity.1929.t:0 "군대 개혁에 대한 저항"
  rivercity.1929.d:0 "Before our glorious union sprawled across the Riverlands, the armed forces of the nations now under our control were vestiges of national pride. The Nimbusian hoplite, the Monks from Pònaidhean and the army of Lake City were an integral part of their countries’ cultures, but their time has come. However, it has proven to be a huge undertaking to mould all these martial traditions into our own Union Army. Soldiers and officers from multiple provinces refuse our instructions, training their ancient doctrines or in some cases, refuse to train at all until the central government promises to preserve their military tradition. Do we concede to the soldiers’ demand, or do we whip them into shape?"
  rivercity.1929.a:0 "Discipline these deviants."
  rivercity.1929.b:0 "Let’s give them some time to get used to us."
  
- rivercity.1930.t:0 "Resistance To Economic Reorganisation"
+ rivercity.1930.t:0 "경제 재조직에 대한 저항"
  rivercity.1930.d:0 "`The road to a socialist economy is long and arduous. Some clans in the highlands of Pònaidhean still used bartering, while the dogs of Diamond Mountain have a hard time to build a slave-free economy. The abolishment of private property and sometimes moves against slavery and serfdom have led to a lack of some goods the people have grown accustomed to. This has led to complaints from our local governments, who say that they cannot explain to their citizens that socialism is not yet providing for everypony, unlike what the propaganda claims. We could give local governments some leeway to introduce some temporary privatisation to relieve the pressure, but doing so will set back our progress. Alternatively, we could use central government resources to support local collectivisation efforts and provide the most basic needs."
  rivercity.1930.a:0 "Continue collectivisation!"
  rivercity.1930.b:0 "We can allow some capitalism for now..."
  
- rivercity.1931.t:0 "Nationalism Persists"
+ rivercity.1931.t:0 "끈질긴 국가주의"
  rivercity.1931.d:0 "Despite the best efforts of our security forces and propagandists, nationalist resistance groups continue to be a threat to the revolution. The vast and rugged Riverlands provide excellent staging grounds for these organisations who operate in the shadows. When we close down an illegal printing press in one place, an armoury gets raided for guns somewhere else. We seem to be making little headway in uprooting the counterrevolutionary threat. In fact, some bureaucrats in the capital are suggestion that we stop our efforts and negotiate with these groups, so that we can stop the unrest. Of course that would cause us to lose all progress we did make."
  rivercity.1931.a:0 "We do not negotiate with terrorists."
  rivercity.1931.b:0 "We must step in before somepony gets hurt."
  ### END COMMUNIST INTEGRATION OF THE RIVER FEDERATION ###
 
- rivercity.1932.t:0 "Hector Leads A Revolt!"
+ rivercity.1932.t:0 "헥터의 반란!"
  rivercity.1932.d:0 "Ever since the socialist government assumed power over the Republic, reactionary forces have been mustering. At first they merely complained, then they protested, then they rioted. Each time, the police and armed forces urged them to to peacefully dissipate, and strife was avoided. However, after a radical Caramelite soldier attempted to assassinate Marshal Hector, something changed. Hector, galvanised by this brush with death, redoubled his efforts to unite the reactionaries, and they have attached to him like iron filings to an electromagnet. Today, in a broadcast heard widely throughout the countryside, he proclaimed the Socialist government illegitimate, and called on all patriotic riverponies to rally behind his flag, for the restoration of Rijekan Democracy."
- rivercity.1932.a:0 "They must be stopped at once!"
+ rivercity.1932.a:0 "그들을 즉시 멈추어야 한다!"
 
- rivercity.1933.t:0 "Caramel Leads A Revolt!"
+ rivercity.1933.t:0 "카라멜의 반란!"
  rivercity.1933.d:0 "After the Harmonists regained control of the Sabor, many socialists became bitter and abandoned Nova Whirl and her policy of peaceful revolution. General Caramel Haze, a devout socialist, has been disobeying orders of his superiors more and more, and divisions under his command seem to be utterly loyal to him. OHS agents reported that he was building up support in the towns and cities, but their reports came too late and they were unable to stop him. Caramel's soldiers have now seized control of several towns and a new socialist government has been formed with Caramel Haze as its leader. They are broadcasting radio propaganda claiming that they are the rightful rulers of River Republic."
- rivercity.1933.a:0 "They must be stopped at once!"
+ rivercity.1933.a:0 "그들을 즉시 멈추어야 한다!"
  
  ### RIVER GAMES ###
- rivercity.1934.t:0 "Invitation To The River Games!"
+ rivercity.1934.t:0 "리버 대회로의 초대장"
  rivercity.1934.d:0 "We have been invited to the River Games, the premier athletics event of the Riverlands, held every 4 years. This year's games are to be held in the River Republic. Traditionally, most nations of the Treaty of Coltstream have attended, and there is strong popular interest in the core events of sprint, sailing, jumping, javelin throwing and fencing."
- rivercity.1934.a:0 "Of course we will attend!"
- rivercity.1934.b:0 "It sounds like a waste of time."
+ rivercity.1934.a:0 "당연히 참가해야지!"
+ rivercity.1934.b:0 "시간 낭비처럼 들리는걸."
  
- rivercity.1935.t:0 "The Games Begin"
+ rivercity.1935.t:0 "대회의 시작"
  rivercity.1935.d:0 "The River Games have officially begun with the completion of the Opening Ceremony. A strange unity has swept the usually squabbling Riverlands, as ponies snap up newspapers, crowd around radios, and offer unfounded opinions. All eyes are watching the River Republic."
- rivercity.1935.a:0 "I can hardly wait!"
+ rivercity.1935.a:0 "빨리 시작했으면 좋겠군!"
  
- rivercity.1936.t:0 "The Results Are In!"
+ rivercity.1936.t:0 "대회의 끝"
  rivercity.1936.d:0 "[This.GetNewspaperHeader]As usual, the River Games delivered, with hoofbiting finishes, dramatic upsets, and inspirational accomplishments in nearly every field.\n\nThe various sprints and marathons were consistently dominated by [won_river_games_sprint.GetRGWinnerSprint]. A usual favourite for ocean nations, the sailing events were carried by [won_river_games_sailing.GetRGWinnerSailing]. Long jump, popular despite its simplicity, was won by [won_river_games_longjump.GetRGWinnerJump]. The javelin category, harkening back to ancient military traditions, was held by [won_river_games_javelin.GetRGWinnerJavelin]. Finally, the prize for the noble art of fencing went to [won_river_games_fencing.GetRGWinnerFencing]." 
- rivercity.1936.a:0 "A splendid display!"
+ rivercity.1936.a:0 "환상적인 경기였다!"
  
  river_games_get_owner_sprint:0 "[won_river_games_sprint.Owner.GetName]"
  river_games_get_owner_sailing:0 "[won_river_games_sailing.Owner.GetName]"
  river_games_get_owner_jump:0 "[won_river_games_longjump.Owner.GetName]"
  river_games_get_owner_javelin:0 "[won_river_games_javelin.Owner.GetName]"
  river_games_get_owner_fencing:0 "[won_river_games_fencing.Owner.GetName]"
- river_games_get_NIM:0 "Nimbusia"
- river_games_get_BAK:0 "Bakara"
- river_games_get_LCT:0 "Lake City"
- river_games_get_DMT:0 "Diamond Mountain"
- river_games_get_WIT:0 "Wittenland"
- river_games_get_RCT:0 "River Republic"
+ river_games_get_NIM:0 "님부시아"
+ river_games_get_BAK:0 "바카라"
+ river_games_get_LCT:0 "레이크 시티"
+ river_games_get_DMT:0 "다이아몬드 산"
+ river_games_get_WIT:0 "비텐란트"
+ river_games_get_RCT:0 "리버 공화국"
  river_games_get_FRE:0 "Pònaidhean"
  river_games_get_FIR:0 "Firtree Villages"
- river_games_get_FBK:0 "Farbrook"
- river_games_get_WAT:0 "Watertowns"
- river_games_get_NCH:0 "Greneclyf"
- river_games_get_GRY:0 "Gryphia"
+ river_games_get_FBK:0 "파브룩"
+ river_games_get_WAT:0 "워터타운즈"
+ river_games_get_NCH:0 "그레네클리프"
+ river_games_get_GRY:0 "그리피아"
 
- took_part_in_river_games:0 "Took part in River Games"
+ took_part_in_river_games:0 "리버 대회에 참여함"
 
- rivercity.1937.t:0 "Hosting the River Games!"
- rivercity.1937.d:0 "It has been nearly 4 years since the last River Games, and it is fast approaching again. Invitations have been sent out."
- rivercity.1937.a:0 "A lot has happened since the previous games..."
+ rivercity.1937.t:0 "리버 대회 주최"
+ rivercity.1937.d:0 "지난 리버 대회 이후 4년 가까이 지났으며, 다음 대회 날짜가 다가오고 있습니다. 모두에게 초대장이 발송되었습니다."
+ rivercity.1937.a:0 "마지막 대회 이후로 참 많은 일이 있었지..."
  ### END RIVER GAMES ###
  
  ### Harmonist Infiltration of Griffons ###
@@ -1137,7 +1137,7 @@
  ## DIAMOND MOUNTAIN HARMONIC COUP CHAIN ##
  
 #Let's ask Molly
- rivercity.300.t:0 "The Dog Problem"
+ rivercity.300.t:0 "개 문제"
  rivercity.300.d_fas:0 "King Rover has long been a bulwark against griffons, but it is fundamentally a relationship of convenience. He is a tyrant who enslaves dogs and ponies alike. They are no different from the Empire, and must be stopped.\n\nThere might be a solution. Slaves chafe under King Rover's rule, and his daughter Molly is heartbroken over his cruel behaviour.\n\nIf we promise no harm will come to King Rover, we may be able to convince Molly to aid us in fomenting a slave uprising..."
  rivercity.300.d_com:0 "Our once loyal ally King Rover was overthrown by Clifford the Red and his band of Communist agitators. They call us bourgeois oppressors even as the Griffons threaten us all. They must be brought back into the fold.\n\nThe former heir Princess Molly lives in exile with us and speaks wishfully of returning and creating a new Diamond Mountain of harmony, freedom and friendship. With our support, this dream could become reality."
  rivercity.300.a:0 "We will contact Molly."
@@ -1387,7 +1387,7 @@
  RCT_communism_prevails:0 "Nova Whirl has successfully blocked the Chancellorship."
  RCT_emergency_mesures_active:0 "Emergency Measures have been enacted."
  RCT_emergency_powers:0 "Desperate Times"
- RCT_invoke_emergency_powers:0 "Sign The Emergency Powers Bill"
+ RCT_invoke_emergency_powers:0 "비상권한법"
  RCT_gommies_tooltip:0 "Unlocks the §YSign The Emergency Powers Bill§! decision. This will allow you to §Roverrule§! your political enemies, but beware - misuse of Emergency Powers is a §Rslippery slope into tyranny.§!"
  RCT_support_socialism:0 "This will unlock §YDecisions§! that allow you to §Rincrease Communism support§! in other Riverlands nations with large, oppressed working or slave classes."
  RCT_partisan_support:0 "This will unlock §YDecisions§! that allow you to §Rfund Militant Socialists§! within other Riverland countries. This is unlikely to result in any governmental takeovers, but may §Yweaken them§! in the event that you §Ygo to war§! with them." 

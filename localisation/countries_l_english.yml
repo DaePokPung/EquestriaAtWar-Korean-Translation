@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 EQS_neutrality:0 "세 부족들"
 EQS_neutrality_DEF:0 "세 부족들"
 EQS_fascism:0 "이퀘스트리아국"
@@ -14,7 +14,7 @@ EQS_democratic_ADJ:0 "이퀘스트리아"
 EQS_neutrality_ADJ:0 "이퀘스트리아"
 EQS_communism_ADJ:0 "이퀘스트리아"
 EQS_COM_communism:0 "이퀘스트리아 사회주의 공화국"
-EQS_COMWAR_communism:0 "ESFSR"
+EQS_COMWAR_communism:0 "이퀘스트리아 소비에트 연방 사회주의 공화국"
 EQS_COMWAR_communism_DEF:0 "이퀘스트리아 소비에트 연방 사회주의 공화국"
 EQS_COM_communism_DEF:0 "이퀘스트리아 사회주의 공화국"
 EQS_SOL_fascism:0 "태양 제국"
