@@ -30,7 +30,7 @@
 
 Pony : 포니
 
-Griffion : 그리핀
+Griffion : 그리폰
 
 Harmony : 조화주의
 
