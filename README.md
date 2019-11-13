@@ -4,9 +4,9 @@
 # 번역 방법
 이퀘스트리아 앳 워 한국어 번역은 공개 번역으로 누구나 참여 가능합니다.
 
-깃허브에 가입한 다음, 번역할 문서에 들어가서 오른쪽 위의 연필 아이콘을 눌러 수정한 다음
+깃허브에 가입한 다음, 번역할 문서에 들어가서 오른쪽 위의 연필 아이콘(Edit this file)을 눌러 수정한 다음
 
-녹색 버튼(Propose file change → Create Pull request → Create Pull request)을 누르면 번역 요청이 가고, 관리자의 확인 뒤 적용됩니다.
+녹색 버튼(Propose file change → Create Pull request → Create Pull request)을 누르면 번역 요청이 가고, 관리자의 승인 후 적용됩니다.
 
 참고 : https://github.com/gyhs/EYWOR-Korean-translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95
 
