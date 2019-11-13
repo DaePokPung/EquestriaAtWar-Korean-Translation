@@ -1,7 +1,18 @@
-# EquestriaAtWar-Korean-Translation
+# Equestria At War Korean Translation
 하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워(Equestria at War) 모드의 한국어 패치 파일입니다.
 
+# 번역 방법
+이퀘스트리아 앳 워 한국어 번역은 공개 번역으로 누구나 참여 가능합니다.
+
+깃허브에 가입한 다음, 번역할 문서에 들어가서 오른쪽 위의 연필 아이콘을 눌러 수정한 다음
+
+녹색 버튼(Propose file change → Create Pull request → Create Pull request)을 누르면 번역 요청이 가고, 관리자의 확인 뒤 적용됩니다.
+
+localisation 폴더가 두 개인데, 위쪽의 (원본) 파일은 원문과 비교하기 위한 원문 파일입니다. 이 폴더는 번역하지 마시고 아래의 폴더에서 번역해 주세요!
+
 # 번역 규칙
+
+0. 번역하기 전 상단의 Pull requests 탭을 눌러 번역할 부분이 이미 다른 사람에 의해 번역 요청이 된 부분인지 확인해 주세요.
 
 1. 반드시 큰따옴표("")안의 내용만 번역합니다.
 
