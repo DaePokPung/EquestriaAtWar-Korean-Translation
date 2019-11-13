@@ -28,7 +28,7 @@
 
 # 단어장
 
-Pony : 포니
+Pony : 포니 (Alicorn:알리콘 / Unicorn:유니콘 / Pegasus:페가수스 / Earth pony:어스 포니)
 
 Griffon : 그리폰
 
