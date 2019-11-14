@@ -8,8 +8,6 @@
 
 녹색 버튼(Propose file change → Create Pull request → Create Pull request)을 누르면 번역 요청이 가고, 관리자의 승인 후 적용됩니다.
 
-참고 : https://github.com/gyhs/EYWOR-Korean-translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95
-
 localisation 폴더가 두 개인데, 위쪽의 localisation(원본) 폴더는 원문과 비교하기 위한 원문 파일입니다. 이 폴더는 번역하지 마시고 아래의 localisation 폴더에서 번역해 주세요!
 
 # 번역 규칙
