@@ -16,11 +16,11 @@
 
  ## PARTY NAMES ##
  RCT_democratic_party:0 "HSR"
- RCT_democratic_party_long:0 "리예카 조화당"
+ RCT_democratic_party_long:0 "리버 조화당"
  RCT_communism_party:0 "SKR"
- RCT_communism_party_long:0 "리예카 사회당"
+ RCT_communism_party_long:0 "리버 사회당"
  RCT_neutrality_party:0 "RKS"
- RCT_neutrality_party_long:0 "리예카 보수당"
+ RCT_neutrality_party_long:0 "리버 보수당"
  RCT_fascism_party:0 "NPF"
  RCT_fascism_party_long:0 "국가국민전선"
 
@@ -102,7 +102,7 @@
  RCT_KGB_2:0 "몇몇의 사회주의자 파괴공작원"
  RCT_KGB_3:0 "수많은 사회주의자 파괴공작원"
  RCT_OHS_divs:0 "OHS 사단" 
- RCT_OHS_detachments_idea:0 "OHS 파견대" 
+ RCT_OHS_detachments_idea:0 "조화사무국 파견대" 
  RCT_accept:0 "데포니아 지원"
  RCT_plane_production:0 "항공기 생산 확장"
  RCT_more_convoys:0 "수송선 대량생산"
@@ -545,7 +545,7 @@
  RCT_ask_allies:0 "동맹국의 원조"
  RCT_ask_allies_desc:0 "Our friends in the Coalition have their own army traditions and modernization programs. We should ask them about their art of war and exchange our knowledge. This way we not only find out what they are doing, but also learn new strategies, tactics and training methods."
  
- RCT_art_stuff:0 "먼 곳에서 온 "
+ RCT_art_stuff:0 "멀리서 온 죽음"
  RCT_art_stuff_desc:0 "Artillery is the foundation of modern warfare and has proven its usefulness time and time again. Only a fool would not thrive to make them better and better then they already are."
  
  RCT_moutain_guns:0 "산포"
@@ -724,11 +724,11 @@
  rivercity.8.t:0 "새 재무부 차관"
  rivercity.8.d:0 "공화국이 안정되고 금융부문이 다시 제 기능을 하기 시작하면서 재무부 차관실의 공석은 무시할 수 없을 정도로 중요해졌습니다. 그 자리에 앉을 새 행정관을 뽑아야 하는데, 정권에서 딱히 눈에 띄는 후보는 없습니다. 자그레프에 있는 당신의 할머니는 그 일을 당신의 사촌인 펌킨 스월에게 줄 것을 제안했습니다. 이렇게 되면 가족들한테도 확실히 고마움을 느낄 수 있을 것 같고, 게다가 인상적인 후보가 많은 것도 아닙니다. 하지만 가족을 공직에 앉히기 시작한다면 논란을 일으킬 수도 있습니다."
  rivercity.8.a:0 "배를 흔들 수는 없지..."
- rivercity.8.b:0 "펌킨 스월 사촌 정도면 잘 해내리라 믿는다."
+ rivercity.8.b:0 "펌킨 스월 정도면 잘 해내리라 믿는다."
 
  rivercity.9.t:0 "펌킨 스윌의 성과"
  rivercity.9.d:0 "리버 스월은 펌킨 사촌을 재무부의 중요한 직책에 임명하는 것에 대해 의심을 품어 왔었습니다. 그녀는 재정에는 딱히 관심이 없어 보였고 지역 경제대학 졸업장은 다른 경험들에 비하면 백지장에 가까웠습니다. 리버는 펌킨 사촌이 그녀의 인생에서 야망은 거의 없고 그녀의 친구들과 인생을 즐기는 것에 더 관심이 있었다는 걸 알고 있었습니다. 결국, 그녀는 할머니가 그녀의 가족을 무시하는 것에 대한 잔소리를 계속 듣기 싫었기 때문에 그 직장을 얻었을 뿐입니다. 다행히도 그녀의 결정은 헛되지 않았습니다. 펌킨의 점점 더 향상되는 성과에 대한 보고가 들어오고 있습니다. 아주 화려한 것은 아니었지만, 어쨌든 전임자보다는 나았습니다. 처음 몇 주에 비해 리버가 반박하기 힘들었던 정치적인 공격이 훨씬 적어졌습니다. 비록 원칙상으로 불법은 아니지만, 친족의 등용이 다른 이들의 눈살을 찌푸리게 한다는 사실을 굳이 전문가한테 물어볼 필요는 없었습니다. \n\n네, 펌킨 스월은 정말 잘 해냈습니다. 리버는 그녀를 멋진 가족 저녁식사에 초대하는 것이 적절하다고 결정했습니다. 게다가 그녀가 가장 좋아하는 것도 알고 있었습니다."
- rivercity.9.a:0 "해낼 수 있다고 생각했다, 펌킨 사촌."
+ rivercity.9.a:0 "해낼 수 있다고 생각했어, 펌킨 사촌."
 
  ## CABINET ISSUE 1 - POVERTY 
  rivercity.13.t:0 "가난 문제"
@@ -742,7 +742,7 @@
  rivercity.14.a:0 "[Root.ResultOfBillButton]"
 
  #Bill passes - Implementation is successful
- BillSuccessTitle:0 "산업, 부의 원천"
+ BillSuccessTitle:0 "산업 - 부의 원천"
  BillSuccessDesc:0 "좋은 소식입니다! 산업 지원금 법안 통과 후 초기 상황은 긍정적입니다. 전국의 기업가들과 산업가들이 자신감에 차있기 때문입니다. 공장들이 다시 한 번 일렁이기 시작했고, 원자재 주문은 더 활발한 사업의 기대 속에 기록적인 수를 기록했습니다. 이미 노동시장에 새로운 직책과 공석이 등장했고, 비록 적은 수지만 일부 대중들은 이것이 법안이 효과를 발휘하고 있다는 신호로 받아들였습니다."
  BillSuccessButton:0 "자유시장은 항상 신뢰할 수 있지."
 
@@ -848,11 +848,11 @@
  rivercity.24.b:0 "...카라멜의 열정적인 혁명이었습니다!"
  
  #Election Results
- rivercity.25.t:0 "임박한 선거 날짜"
+ rivercity.25.t:0 "선거 결과"
  rivercity.25.d:0 "[Root.ElectionResultsDesc]"
  rivercity.25.a:0 "[Root.ElectionResultsButton]"
  
- HarmonicElectionDesc:0 "D지난 몇 주간의 혼란에도 불구하고, 리버 스월이 이끄는 조화당이 투표에서 과반수를 확보했습니다. 그녀가 마침내 사회당을 무시할 수 있을 만큼 충분히 많은 표를 얻었기 때문에, 이번 조기 총선을 강요하며 정치적 자본을 쏟아부은 사회주의자들은 더 이상 리버 스월 대통령의 정책에 간섭할 수 없을 것입니다."
+ HarmonicElectionDesc:0 "지난 몇 주간의 혼란에도 불구하고, 리버 스월이 이끄는 조화당이 투표에서 과반수를 확보했습니다. 그녀가 마침내 사회당을 무시할 수 있을 만큼 충분히 많은 표를 얻었기 때문에, 이번 조기 총선을 강요하며 정치적 자본을 쏟아부은 사회주의자들은 더 이상 리버 스월 대통령의 정책에 간섭할 수 없을 것입니다."
  HarmonicElectionButton:0 "나는 민주주의가 좋다! 난 공화국을 사랑해!"
  
  CommunistElectionDesc:0 "노바 훨의 위험한 도박이 성과를 거두었습니다 - 유권자의 권태와 정부에 대한 불만이 사회당의 놀라운 승리로 바뀌었습니다. 부르주아 정치인들이 마침내 축출되었으니, 사회주의자들은 이제 사회를 완성하는 과업을 시작할 수 있게 되었습니다."
@@ -910,7 +910,7 @@
  rivercity.1925.t:0 "긴급 회담"
  rivercity.1925.d:0 "[From.GetName]은(는) [From.Capital.GetName]에서 리버 연방 지도자들의 긴급 회의를 소집했습니다. [From.GetLeader]은(는) 어두운 표정으로 현 상황은 콜트스트림 조약에서 비상 의정서를 활성화하여 회원국 정부를 전복시키려 했던 나라들을 추방할 수 밖에 없게 만들었다고 설명했습니다.\n\n[From.GetLeader]은(는) 표면적으로 평화로워 보였던 리예칸 정부에 의해 저질러진 많은 잘못들의 목록을 제시했습니다. 목록의 대부분은 노바 훨의 사회주의 정부가 리버 연합 회원들 사이의 비밀 조약들을 통해 리버랜드 대중들에게 영향을 미쳤던 것들이었습니다. 노바 훨은 과욕적인 부하들과 관료적인 실수를 탓하며 다시 사과했습니다. 그러나, [From.GetLeader]은(는) 노바 훨의 사과를 묵살하고 긴급 투표를 강행했습니다. 이제 [RCT. GetName]을(를) 추방할지, 남겨둘 지는 연합의 모든 지도자들의 투표에 달려 있습니다. 리예카인들의 운명은 다수결로 결정될 것입니다."
  rivercity.1925.a:0 "그들은 떠나야 한다."
- rivercity.1925.b:0 "들은 남아 있어도 된다."
+ rivercity.1925.b:0 "그들은 남아 있어도 된다."
 
  ## VOTE RESULTS ##
  #Results for the Accuser
@@ -1381,10 +1381,10 @@
  RCT_rebuild_armies:0 "This will allow you to begin coordinating §Ya true all-River Red Army§!"
  RCT_caramels_coup:0 "Caramel Haze has established the Proletarian Dictatorship"
  RCT_nova_remains:0 "Nova Whirl has held onto power"
- RCT_grand_union:0 "We will §Rdeclare the Riverland Union§! and unite the Riverlands. How precisely we do this §Ydepends on who is in power.§!"
- RCT_electioneering_active:0 "You can now activate §YElectioneering§! decisions from the decisions menu to influence the outcome of the election. §RThe outcome of the election will depend on which party has more support on election day.§!"
- RCT_harmony_prevails:0 "River Swirl has secured the Chancellorship."
- RCT_communism_prevails:0 "Nova Whirl has successfully blocked the Chancellorship."
+ RCT_grand_union:0 "이제 우리는 §R리버랜드 연방을 선언§!하고 리버랜드를 통합할 것입니다. 얼마나 제대로 하는지는 §Y누가 집권하느냐에 달려 있습니다.§!"
+ RCT_electioneering_active:0 "이제 결정 메뉴에서 §Y선거§! 결정을 활성화하여 선거 결과에 영향을 줄 수 있습니다. §R선거의 결과는 선거일에 어느 정당이 더 많은 지지를 받느냐에 따라 달라질 것입니다.§!"
+ RCT_harmony_prevails:0 "리버 스월이 수상직을 지켜냈습니다"
+ RCT_communism_prevails:0 "노바 훨이 수상직을 박탈하는데 성공했습니다"
  RCT_emergency_mesures_active:0 "Emergency Measures have been enacted."
  RCT_emergency_powers:0 "Desperate Times"
  RCT_invoke_emergency_powers:0 "비상권한법"
@@ -1409,7 +1409,7 @@
  Promoted_Cousin_Pumpkin:0 "Cousin Pumpkin has been given the job."
  Cousin_Pumpkin_timeout:0 "Baba would be very upset if you remove Cousin Pumpkin from her position. It's better to wait a while."
  pumpkin_swirl_trait:0 "Baba's Favorite"
- RCT_grovers_dead:0 "§YGrover V§! is dead"
+ RCT_grovers_dead:0 "§Y그로버 5세§!가 죽었습니다"
  RCT_caramel_will_be_stronger:0 "§RThis may backfire, and it will embolden any Socialist resistance that survives.§!"
  RCT_harmonist_electioneering:0 "Slander The Socialists"
  RCT_socialist_electioneering:0 "Undermine The Government"
