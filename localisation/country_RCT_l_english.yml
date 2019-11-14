@@ -41,10 +41,10 @@
  RCT_ohs_desc:0 "조화사무국은 내부와 외부의 위협으로부터 나라를 지키는 것이 목적인 정부의 비밀 기관입니다."
 
  RCT_unstable_government:0 "불안정한 정부"
- RCT_unstable_government_desc:0 "의회의 통제권은 리예카 조화당과 리예카 공산당한테 나뉘어져 있습니다. 두 당 모두 이념과 가치관이 매우 달라서 서로의 정책 제안에 반대하는 장면은 전혀 드문 현상이 아닙니다."
+ RCT_unstable_government_desc:0 "의회의 통제권은 리버 조화당과 리버 사회당한테 나뉘어져 있습니다. 두 당 모두 이념과 가치관이 매우 달라서 서로의 정책 제안에 반대하는 장면은 전혀 드문 현상이 아닙니다."
 
  RCT_the_left_assent:0 "떠오르는 좌파"
- RCT_the_left_assent_desc:0 "리예카 공산당의 인기도가 급속하게 높아지고 있으며 이들이 의회를 점령한 상태입니다. 이미 그들의 첫 번째 개혁이 시작되었습니다."
+ RCT_the_left_assent_desc:0 "리버 사회당의 인기도가 급속하게 높아지고 있으며 이들이 의회를 점령한 상태입니다. 이미 그들의 첫 번째 개혁이 시작되었습니다."
 
  RCT_minutemares:0 "소집병들"
 
@@ -282,7 +282,7 @@
  RCT_equestrian_exchange_desc:0 "Equestria is the most advanced nation of ponies in the world. They do not jealously guard their great knowledge, so all we need to do is ask them and we will surely receive scientific aid. If they desire, we can give them our studies as well and cooperate together to create a brighter tomorrow."
  
  RCT_social_security_act:0 "사회보장법"
- RCT_social_security_act_desc:0 "The rise of the 리예카 공산당 was partially caused by the poor conditions of our ponies. Indeed, the socialists were right: we need to aid the less fortunate in our society and ensure everyone gets a chance in life. An extensive and modern social security law must be passed to aid the elderly, the foals and the unemployed."
+ RCT_social_security_act_desc:0 "The rise of the 리버 사회당 was partially caused by the poor conditions of our ponies. Indeed, the socialists were right: we need to aid the less fortunate in our society and ensure everyone gets a chance in life. An extensive and modern social security law must be passed to aid the elderly, the foals and the unemployed."
  
  RCT_healthcare_reform:0 "의료서비스 개혁"
  RCT_healthcare_reform_desc:0 "There is more we can do to improve the lives of our ponies: A healthcare reform that improves both quality and availability of medical aid. Public insurances will be made afforable with slightly higher taxes and free vaccination programs will be started at once."
@@ -329,7 +329,7 @@
 
  #Gommie
  RCT_red_saturday:0 "붉은 토요일"
- RCT_red_saturday_desc:0 "It was like any other Saturday. The Sabor prepared for a meeting in Rijekograd to discuss recent political developments and the rapid rise of the 리예카 공산당. Then, something happened..."
+ RCT_red_saturday_desc:0 "It was like any other Saturday. The Sabor prepared for a meeting in Rijekograd to discuss recent political developments and the rapid rise of the 리버 사회당. Then, something happened..."
  
  RCT_proletarian_dictatorship:0 "프롤레테리안 독재"
  RCT_proletarian_dictatorship_desc:0 "Workers of Rijekograd, arise from your slumber! For too long have you suffered. Rise up and take up arms, for the time for revolution has come! The streets shall run red with the blood of the bourgeois scum! Bring Nova Whirl and her fellow traitors to justice!"
@@ -358,7 +358,7 @@
  
  
  RCT_independent_socialism:0 "만연한 민주주의"
- RCT_independent_socialism_desc:0 "Caramel's insidious plot has been stopped at the last minute, the traitors have been arrested and democracy has been saved. Now Nova Whirl and the 리예카 공산당 can finally begin reforms that will turn the River Republic into a true socialist utopia."
+ RCT_independent_socialism_desc:0 "Caramel's insidious plot has been stopped at the last minute, the traitors have been arrested and democracy has been saved. Now Nova Whirl and the 리버 당 can finally begin reforms that will turn the River Republic into a true socialist utopia."
  
  RCT_market_socialism:0 "시장사회주의 원칙"
  RCT_market_socialism_desc:0 "No one can deny the benefits of having a market economy. It drives development and growth better than anything else. However, individuals are prone to exploit it to their own advantage. By gradually abolishing private ownership and introducing cooperatives and syndicates, every worker will be an owner who will receive their fair share of the profits."
@@ -378,7 +378,7 @@
  RCT_control_the_unions:0 "정치 연합"
  RCT_control_the_unions_desc:0 "Now that we have introduced market socialism, the membership and power of labour unions has grown greatly. They are becoming increasingly active in politics, pushing for further social reforms and worker-friendly legislation. We should wholeheartedly welcome this development!"
  
- RCT_rijekan_socialism:0 "리예카 사회주의"
+ RCT_rijekan_socialism:0 "리버 사회주의"
  RCT_rijekan_socialism_desc:0 "Nova Whirl is finally fulfilling her dream of making the River Republic into a unique socialist state that retains a market economy. The economy is growing and life seems better now as exploitation and oppression are vanishing from society. But she has another dream as well: Spreading this utopia to the rest of the Riverlands."
  
  
@@ -490,7 +490,7 @@
  RCT_industry_all_in_one:0 "콜트스트림과 리제코그라드 연결"
  RCT_industry_all_in_one_desc:0 "While a regular road exists between Colstream and Rijekograd, a modern railroad should be constructed across the Griffking river. Colstream will become more tightly connected to the capital, allowing increased commerce and industrial cooperation between the two cities."
  
- RCT_industry_millitary_factories:0 "리예카 무기 산업"
+ RCT_industry_millitary_factories:0 "리버 무기 산업"
  RCT_industry_millitary_factories_desc:0 "Our military industry is average, but with the geopolitical situation changing it needs to improve. By imposing tariffs on foreign weapons and getting equipment for our army from domestic producers instead, we will encourage the growth of our arms industry."
  
  RCT_industry_reduce_poverty:0 "복지 프로그램"
@@ -886,7 +886,7 @@
  rivercity.1920.a:0 "저주하노라!"
  
  rivercity.1921.t:0 "외국 스파이 발견"
- rivercity.1921.d:0 "한동안 우리 치안유지군에게 수상했던 포니들은 이제 체포되어 심문을 받고 있습니다. 그들은 입을 거의 불지 않았지만, 그들로부터 압수한 자료에는 암호화된 메시지가 담겨 있어, 그들이 뭔가 기만적인 행동을 하고 있다는 것으로 보입니다. 흥미롭게도, 붙잡힌 스파이들은 리예카 사투리로 말하고 있습니다."
+ rivercity.1921.d:0 "한동안 우리 치안유지군에게 수상했던 포니들은 이제 체포되어 심문을 받고 있습니다. 그들은 입을 거의 불지 않았지만, 그들로부터 압수한 자료에는 암호화된 메시지가 담겨 있어, 그들이 뭔가 기만적인 행동을 하고 있다는 것으로 보입니다. 흥미롭게도, 붙잡힌 스파이들은 리버 사투리로 말하고 있습니다."
  rivercity.1921.a:0 "뭐라고? 노바가 보낸 건가?" 
  
  rivercity.1922.t:0 "노바 훨의 연합 제안"
@@ -898,7 +898,7 @@
  
  #Investigation succeeds
  rivercity.1923.t:0 "Evidence of Coltstream Tampering"
- rivercity.1923.d:0 "[From.GetName]은(는) 최근 리버 연합을 구성하는 조약과 규정들이 추가된 후, 사회주의에 대한 지지가 점차 증가했다는 것을 알게 되었고, 그들은 무엇이 대중들의 태도 변화를 야기시키고 있는지를 알아보기 위해 관료들과 조사관들로 구성된 위원회를 보냈습니다. 철저한 조사 후에, 그들은 리버 공화국이 콜트스트림 조약의 변경에 개입해 있다는 사실을 발견했습니다. 이런 지시들은 우리 외교관들이 눈치채지 못한 채 이미 산더미처럼 쌓여 있던 서류더미의 사소한 변화들 가운데 숨겨져 있었습니다. 리예칸 대표가 추가한 항목들은 첫눈에 보기에는 나쁜 건 없는 것 같았기에, [From.GetAdjective] 관료들은 큰 그림을 보지 못한 채 의문을 제기하지 않고 지시를 따랐던 것입니다.. 하지만 수사관들은 이러한 변화들이 사실 리버랜드 전역에서 사회주의자들의 지지를 증가시키기 위한 수단이었다는 것을 발견했습니다.\n\n공개 기자 회견에서 [From.GetAdjective] 관리들은 범인을 노바 훨의 리버 공화국으로 지목했습니다. 이 발표는 리버랜드의 대부분의 나라들로부터 분노한 반응들이 뒤따랐고, 그들은 리예카인들이 그들의 신뢰를 남용했다고 비난했습니다. 곧이어 노바 훨는 사과문을 보내 다시는 다른 회원국들의 일에 개입하지 않겠다고 약속했습니다."
+ rivercity.1923.d:0 "[From.GetName]은(는) 최근 리버 연합을 구성하는 조약과 규정들이 추가된 후, 사회주의에 대한 지지가 점차 증가했다는 것을 알게 되었고, 그들은 무엇이 대중들의 태도 변화를 야기시키고 있는지를 알아보기 위해 관료들과 조사관들로 구성된 위원회를 보냈습니다. 철저한 조사 후에, 그들은 리버 공화국이 콜트스트림 조약의 변경에 개입해 있다는 사실을 발견했습니다. 이런 지시들은 우리 외교관들이 눈치채지 못한 채 이미 산더미처럼 쌓여 있던 서류더미의 사소한 변화들 가운데 숨겨져 있었습니다. 리버 대표가 추가한 항목들은 첫눈에 보기에는 나쁜 건 없는 것 같았기에, [From.GetAdjective] 관료들은 큰 그림을 보지 못한 채 의문을 제기하지 않고 지시를 따랐던 것입니다.. 하지만 수사관들은 이러한 변화들이 사실 리버랜드 전역에서 사회주의자들의 지지를 증가시키기 위한 수단이었다는 것을 발견했습니다.\n\n공개 기자 회견에서 [From.GetAdjective] 관리들은 범인을 노바 훨의 리버 공화국으로 지목했습니다. 이 발표는 리버랜드의 대부분의 나라들로부터 분노한 반응들이 뒤따랐고, 그들은 리버인들이 그들의 신뢰를 남용했다고 비난했습니다. 곧이어 노바 훨는 사과문을 보내 다시는 다른 회원국들의 일에 개입하지 않겠다고 약속했습니다."
  rivercity.1923.a:0 "그녀가 약속을 지키기를 바란다."
  
  #Investigation Fails
@@ -908,7 +908,7 @@
  
  #Call for Nova Whirl (River Republic) Expulsion
  rivercity.1925.t:0 "긴급 회담"
- rivercity.1925.d:0 "[From.GetName]은(는) [From.Capital.GetName]에서 리버 연방 지도자들의 긴급 회의를 소집했습니다. [From.GetLeader]은(는) 어두운 표정으로 현 상황은 콜트스트림 조약에서 비상 의정서를 활성화하여 회원국 정부를 전복시키려 했던 나라들을 추방할 수 밖에 없게 만들었다고 설명했습니다.\n\n[From.GetLeader]은(는) 표면적으로 평화로워 보였던 리예칸 정부에 의해 저질러진 많은 잘못들의 목록을 제시했습니다. 목록의 대부분은 노바 훨의 사회주의 정부가 리버 연합 회원들 사이의 비밀 조약들을 통해 리버랜드 대중들에게 영향을 미쳤던 것들이었습니다. 노바 훨은 과욕적인 부하들과 관료적인 실수를 탓하며 다시 사과했습니다. 그러나, [From.GetLeader]은(는) 노바 훨의 사과를 묵살하고 긴급 투표를 강행했습니다. 이제 [RCT. GetName]을(를) 추방할지, 남겨둘 지는 연합의 모든 지도자들의 투표에 달려 있습니다. 리예카인들의 운명은 다수결로 결정될 것입니다."
+ rivercity.1925.d:0 "[From.GetName]은(는) [From.Capital.GetName]에서 리버 연방 지도자들의 긴급 회의를 소집했습니다. [From.GetLeader]은(는) 어두운 표정으로 현 상황은 콜트스트림 조약에서 비상 의정서를 활성화하여 회원국 정부를 전복시키려 했던 나라들을 추방할 수 밖에 없게 만들었다고 설명했습니다.\n\n[From.GetLeader]은(는) 표면적으로 평화로워 보였던 리버 정부에 의해 저질러진 많은 잘못들의 목록을 제시했습니다. 목록의 대부분은 노바 훨의 사회주의 정부가 리버 연합 회원들 사이의 비밀 조약들을 통해 리버랜드 대중들에게 영향을 미쳤던 것들이었습니다. 노바 훨은 과욕적인 부하들과 관료적인 실수를 탓하며 다시 사과했습니다. 그러나, [From.GetLeader]은(는) 노바 훨의 사과를 묵살하고 긴급 투표를 강행했습니다. 이제 [RCT. GetName]을(를) 추방할지, 남겨둘 지는 연합의 모든 지도자들의 투표에 달려 있습니다. 리버인들의 운명은 다수결로 결정될 것입니다."
  rivercity.1925.a:0 "그들은 떠나야 한다."
  rivercity.1925.b:0 "그들은 남아 있어도 된다."
 
