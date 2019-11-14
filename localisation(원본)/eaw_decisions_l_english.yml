@@ -1,6 +1,6 @@
 ﻿l_english:
-military_training_category:0 "군사 행동"
-military_training:0 "군사 훈련"
+military_training_category:0 "Military Actions"
+military_training:0 "Military Training"
 lessons_of_war_army:0 "Practical Doctrinal Experience on Land"
 lessons_of_war_air:0 "Practical Doctrinal Experience in Air"
 lessons_of_war_navy:0 "Practical Doctrinal Experience on Sea"
@@ -11,10 +11,10 @@ get_generic_CL_template:0 "Get Light Cruiser Template"
 get_generic_BB_template:0 "Get Early Battleship Template"
 get_generic_CA_template:0 "Get Heavy Cruiser Template"
 get_generic_SS_template:0 "Get Early Submarine Template"
-ban_neutral_party:0 "전통주의 금지"
+ban_neutral_party:0 "Ban Traditionalism"
 ban_neutral_party_desc:0 "The traditionalist and monarchist parties have been protesting against the government at every turn, sowing discontent and making it hard to govern. It is time to crack down on this."
 ban_neutrality_party_tt:1 "Change in popularity of Neutrality: §G-§![?.Root.party_popularity@neutrality|%0G].\n"
-anti_neutral_raids:0 "전통주의자 타도"
+anti_neutral_raids:0 "Anti-Traditionalist Raids"
 anti_neutral_raids_desc:0 "We must crack down on traditionalist and monarchist elements in our nation for the sake of long-term domestic stability. Their influence is too great, and may potentially become a problem to the government."
 
 ## RESOURCE PROSPECTS ####

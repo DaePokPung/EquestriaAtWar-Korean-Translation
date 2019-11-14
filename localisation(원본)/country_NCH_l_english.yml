@@ -3,56 +3,56 @@
 
  ### MAIN BRANCH ###
 
- NCH_assess_the_situation:0 "상황을 평가하다"
+ NCH_assess_the_situation:0 "Assess the Situation"
  NCH_assess_the_situation_desc:0 "The world is changing, and we must understand how. We can call upon the Council of Royals to deliberate the best course of action for our people."
 
- NCH_meet_with_the_outsiders:0 "외부인들과의 만남"
+ NCH_meet_with_the_outsiders:0 "Meet with the Outsiders"
  NCH_meet_with_the_outsiders_desc:0 "The Royals have spoken, and they are in agreement. We must mount an expedition to the world beyond to gain a better understanding of our world. We shall prepare immediately."
 
- NCH_beyond_the_continent:0 "대륙 너머로?"
+ NCH_beyond_the_continent:0 "Beyond the Continent?"
  NCH_beyond_the_continent_desc:0 "Much as we have come to know the griffons and ponies of the continent, there are rumours of another continent where the true world powers reside. We could mount an expedition to this continent instead."
 
- NCH_search_elsewhere:0 "다른 곳 탐색"
+ NCH_search_elsewhere:0 "Search Elsewhere"
  NCH_search_elsewhere_desc:0 "From what little we know, there is something brewing beyond the lands that we've kept in contact with. Perhaps it might be best to start our search there."
 
- NCH_contact_our_kind:0 "우리의 종족과 접촉"
+ NCH_contact_our_kind:0 "Contact our Kind"
  NCH_contact_our_kind_desc:0 "Our expedition has revealed something surprising: there are changelings on this other continent! Being closely related, they may be more inclined to assist us than other races. Be warned, however: there's something different about these changelings..."
  
- NCH_send_a_delegation_to_equestria:0 "이퀘스트리아에 대표단 파견"
+ NCH_send_a_delegation_to_equestria:0 "Send a Delegation to Equestria"
  NCH_send_a_delegation_to_equestria_desc:0 "Of the countries that we've learned about, Equestria seems to be the best candidate for us to meet with. They are powerful, peaceful and, purportedly, agents of the Harmonic principles. Let us establish relations with them."
 
  #### GOING WITH CHN ####
 
- NCH_foreign_advisors:0 "외국 조언가들"
+ NCH_foreign_advisors:0 "Foreign Advisors"
  NCH_foreign_advisors_desc:0 "Our kin from across the ocean are considerably more powerful than we had anticipated. Though both they and their methods are strange, there is much that they can teach us."
 
- NCH_united_in_race:0 "종족 통합"
+ NCH_united_in_race:0 "United in Race"
  NCH_united_in_race_desc:0 "After speaking at length with the hives in the new continent, one thing has become clear; even the supposedly peaceful Equestrians would reject our offers of friendship. Perhaps this Chrysalis character isn't off of her rocker after all..."
 
- NCH_intercontinental_contraband:0 "대륙간 밀수품"
+ NCH_intercontinental_contraband:0 "Intercontinental Contraband"
  NCH_intercontinental_contraband_desc:0 "Our allies have shown us much of what our kind can do. With their help, we can establish a large contraband network between our two continents, allowing for both of our countries to prosper."
 
- NCH_subterfuge_and_sabotage:0 "속임수와 파괴공작"
+ NCH_subterfuge_and_sabotage:0 "Subterfuge and Sabotage"
  NCH_subterfuge_and_sabotage_desc:0 "Why limit ourselves to mere black market trade? Our kind was made for duplicitous actions, and our allies will gladly share their secrets..."
 
- NCH_the_greneclyf_legion:0 "그레네클리프 지역"
+ NCH_the_greneclyf_legion:0 "The Greneclyf Legion"
  NCH_the_greneclyf_legion_desc:0 "We have worked with the Hives over on the other continent for some time, and Greneclyf is ready to step up to the plate. We shall stand with our allies, no matter the cost!"
 
- NCH_love_triumphs:0 "사랑 승리"
+ NCH_love_triumphs:0 "Love Triumphs"
  NCH_love_triumphs_desc:0 "Queen Chrysalis may be a powerful leader, but we shall not be swayed by her people's ways. Queen Gytha believes in the capacity of changelings everywhere to be open and accepted by other races."
 
- NCH_strictly_professional:0 "엄격한 전문성"
+ NCH_strictly_professional:0 "Strictly Professional"
  NCH_strictly_professional_desc:0 "We must make it clear to our 'partners' that we are not going to cave to their demands. We are working with them only because we must, nothing more."
 
- NCH_beacon_of_harmony:0 "동쪽의 조화 불빛"
+ NCH_beacon_of_harmony:0 "Beacon of Harmony in the East"
  NCH_beacon_of_harmony_desc:0 "We have severely underestimated our capacity to resist the Hives' influence over us. It is only a matter of time that they will try to break us, so let us show them that we won't be cowed!"
 
  ### GOING WITH CCN ###
 
- NCH_bound_by_harmony:0 "조화의 얽매임"
+ NCH_bound_by_harmony:0 "Bound by Harmony"
  NCH_bound_by_harmony_desc:0 "Surprisingly enough, our foreign kin are harmonic! Early reports about them were clearly wrong, and they, like us, are united by Harmony."
 
- NCH_exchange_of_citizens:0 "시민 교환"
+ NCH_exchange_of_citizens:0 "Exchange of Citizens"
  NCH_exchange_of_citizens_desc:0 "Despite being bound by race, the Free Hives over the ocean are significantly different from us. Our two people have much to teach one another, and we need only allow them to do so."
 
  NCH_stand_with_our_kin:0 "Stand with our Kin"
@@ -112,16 +112,16 @@
 
  ### CRISIS OF FAITH MAIN BRANCH ###
 
- NCH_crisis_of_faith:0 "신념의 위기"
+ NCH_crisis_of_faith:0 "Crisis of Faith"
  NCH_crisis_of_faith_desc:0 "They've all refuted our peaceful offers. Have we been wrong to trust in the idea of Harmony? Could it be the wrong path?"
 
- NCH_convene_the_council:0 "의회 소집"
+ NCH_convene_the_council:0 "Convene the Council"
  NCH_convene_the_council_desc:0 "With the Queen refusing to see anyone, the Council of Royals must meet to try and resolve the gap that Gytha has left in her absence.\n\nPerhaps a new Queen is in order?"
 
- NCH_maintain_the_status_quo:0 "현 상태를 유지"
+ NCH_maintain_the_status_quo:0 "Maintain the Status Quo"
  NCH_maintain_the_status_quo_desc:0 "The Hive is in a state of crisis, and loathe as we are to admit it, only the Queen can lead us out of it. If we can get through to her, perhaps she will come up with a strategy."
 
- NCH_a_new_path:0 "새로운 길"
+ NCH_a_new_path:0 "A New Path"
  NCH_a_new_path_desc:0 "It's clear that Gytha's way is no longer viable for the prolonged survival of the Hive. We must now seriously reconsider our traditions and way of life if we are to survive in this uncertain world."
 
  ### CRISIS OF FAITH HARMONY ###
