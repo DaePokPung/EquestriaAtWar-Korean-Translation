@@ -1,5 +1,5 @@
 # Equestria At War Korean Translation
-하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워(Equestria at War) 모드의 한국어 패치 파일입니다.
+하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워(Equestria at War)의 한국어 패치 파일입니다.
 
 # 번역 방법
 이퀘스트리아 앳 워 한국어 번역은 공개 번역으로 누구나 참여 가능합니다.
@@ -30,8 +30,9 @@ localisation 폴더가 두 개인데, 위쪽의 localisation(원본) 폴더는 �
 
    단 가급적이면 용어 통일을 위해 이미 번역된 경우가 있는지 확인해 주신 다음 번역해주시면 감사하겠습니다.
    
-1. 번역 관련해서 토론할 사항은 Issues탭에서 해주시면 되겠습니다.(아니면 임롬갤에다가 올려도 됨)
-
+   1. (추가) 단어들이 붙어있으면 음역, 떨어져있으면 의역 권장 ex) cloudhills - 클라우드힐즈, cloud hills - 구름 언덕
+   
+1. 번역 관련해서 토론할 사항은 Issues탭 혹은 임페라토르 롬 갤러리에서 해주시면 됩니다.
 
 # 단어장
 자신이 번역할 나라의 국가코드 3자리가 궁금하다면, [위키](https://equestria-at-war.fandom.com/wiki/Equestria_at_War_Wiki)를 보거나 인게임에서 콘솔창을 열어 tdebug를 쳐서 직접 확인하시면 됩니다.
