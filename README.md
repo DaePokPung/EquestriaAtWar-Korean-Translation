@@ -53,7 +53,7 @@ localisation 폴더가 두 개인데, 위쪽의 localisation(원본) 폴더는 �
 ## 국가
 > 국가 코드로 검색할 수 있습니다, 우리말이 아니라면 번역이 안된 것으로 [countries_l_english.yml](localisation/countries_l_english.yml) 파일에서 번역을 진행한 뒤 업데이트 해주세요.
 
-> 이 부분은 미리 작성된 [스크립트]()를 사용해 번역된 국가 이름만 수정해 쉽게 생성하실 수 있습니다.
+> 이 부분은 미리 작성된 `wordbook_countries.js` 스크립트를 사용해 번역된 국가 이름만 수정해 쉽게 생성하실 수 있습니다.
 
 - ![AET flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e9/County_of_Greifwald.png/revision/latest/scale-to-width-down/24?cb=20180922041222) `AET` -  County of Greifwald
 - ![ANG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e0/Barony_of_Angriver.png/revision/latest/scale-to-width-down/24?cb=20180826161742) `ANG` -  Barony of Angriver
