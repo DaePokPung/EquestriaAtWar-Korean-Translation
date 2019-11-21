@@ -277,19 +277,19 @@ BAN_battlecruiser_operational_desc:0 "The undisputed king of naval warfare. It i
 
 ### Ideas ###
 BAN_lawless_land:0 "무법지대"
-BAN_lawless_land_desc:0 "For anyone who isn't one of Blackrock's griffons, this land is a death trap. The civilians can barely live without being harassed by bandits, and no foreigners dare to visit, if they value they life and wealth. Just the way Blackrock likes."
+BAN_lawless_land_desc:0 "블랙락의 그리폰이 아닌 이들에게 이 땅은 죽음의 함정입니다. 민간인들이 도적들에게 당하지 않고 살 수 있는 방법은 없으며, 그 어떤 외지인도 생명과 부를 소중하게 여긴다면 이곳을 감히 찾아갈 수 없습니다. 바로 블랙락이 좋아하는 방식 그대로입니다."
 BAN_lawless_land2:0 "무법지대"
-BAN_lawless_land2_desc:0 "Recent efforts by Blackrock are slowly turning this land into a somewhat decent place for living. The peasants are robbed much less, and some semblance of order exists."
+BAN_lawless_land2_desc:0 "블랙락의 최근의 노력이 이 땅을 다소 살기 좋은 곳으로 서서히 바꾸고 있습니다. 농민들의 강탈 횟수도 훨씬 줄어들었고, 약간이나마 질서도 존재합니다."
 BAN_lawless_land3:0 "무법지대"
-BAN_lawless_land3_desc:0 "Blackrock's police force is curtailing the worst excesses of the marauders, and the population is mostly safe and protected. Provided they pay their protection fees, of course."
+BAN_lawless_land3_desc:0 "블랙락의 경찰들은 과잉 진압을 줄이고 있으며, 인구의 대부분이 안전하며 보호받고 있습니다. 물론 보호비를 지불한다는 가정 하에서 말입니다."
 BAN_economic_wasteland:0 "경제적 불모지"
-BAN_economic_wasteland_desc:0 "Economy is a foreign word around these parts, with everything needed being simply stolen from other nations. This severely limits the production of goods and industry."
+BAN_economic_wasteland_desc:0 "필요한 모든 것들은 다른 나라에서 훔쳐 오는 이곳에서 경제란 다른 나라 이야기입니다. 이것은 상품과 산업의 생산을 심각하게 제한하고 있습니다."
 BAN_economic_wasteland2:0 "경제적 불모지"
-BAN_economic_wasteland2_desc:0 "Seeing the merit in having a functional economy, the bandits have cleaned up their act. Limited economic investment is arriving from foreign nations, all from illicit sources."
+BAN_economic_wasteland2_desc:0 "경제 기능의 장점을 알아본 도적들은 행실을 바로잡고 있습니다. 불법 소식통을 통해 외국에서 제한된 경제 투자가 들어오고 있습니다."
 BAN_economic_wasteland3:0 "경제적 불모지"
-BAN_economic_wasteland3_desc:0 "Convinced by the front being put up, legitimate corporations and even national leaders are making cautious investment. We promise not to swindle them this time."
+BAN_economic_wasteland3_desc:0 "선발대에게 설득된 결과로 합법적인 기업, 심지어 국가 지도자들까지도 신중한 투자를 하고 있습니다. 우리는 이번에는 속임수를 쓰지 않겠다고 약속합니다."
 BAN_blackrocks_army:0 "블랙락의 군대"
-BAN_blackrocks_army_desc:0 "The raiders of Blackhollow have been fighting and pillaging for a long time, some even from the time the Empire collapsed. True veterans, these griffons fight ferociously, flee with their loot before a proper response can be organised, although they lack finer tactical sense and logistical plans."
+BAN_blackrocks_army_desc:0 "블랙할로우의 약탈자들은 오랜 기간 동안 싸우며 약탈을 해왔는데, 몇몇은 심지어 제국이 멸망할 때부터 활동했습니다. 이 베테랑 그리폰들은 전술적 감각과 보급 계획은 부족하지만, 적들의 대응책이 이루어지기 전에 전리품을 가지고 도망칩니다."
 BAN_professional_army:0 "전문 군대"
 BAN_professional_army_desc:0 "Bandit brutality combined with proper training makes for a shocking combination."
 BAN_I_blackrock_police:0 "블랙락의 경찰"
@@ -373,9 +373,9 @@ BAN_march_to_victory_idea_desc:0 "Equality in our army has been perfected, and n
 
 ### Events ###
 bandit.1.t:0 "프리웬 내전"
-bandit.1.d:0 ""그리폰 여러분." 블랙락은 그녀가 전쟁실이라고 즐겨 부르던, 커다란 지역 지도를 벽에 못박아 놓은 널찍한 곳에서 군중들에게 연설했습니다.  "아시는 바와 같이 프리웬에서는 내전이 몇 년째 계속되고 있고, 양측은 완전한 승리를 달성하기 위해 과감한 조치를 취하고 있습니다. 하지만, 이것은 그들이 약하다는 것을 의미하고, 만약 우리가 그들의 땅에 우리를 초대한 다음 약간의... 쇼핑을 해도 그들은 저항할 수 없을 것이라는 것을 의미합니다. 그래서 침략을 할까요, 말까요?"\n\n그녀가 예상했던 대로, 그리폰들은 즉각적으로 이 행동에 대해 서로 큰 소리로 다투기 시작했고, 어떤 그리폰들은 싸움을 벌이기도 했고, 어떤 사람들은 프라웬의 땅은 어떤 대가를 치르더라도 피해야 할 "지옥의 불구덩이"라고 소리쳤습니다. 신이시여, 그녀는 그들이 병아리처럼 말다툼하는 것을 싫어했습니다. 그녀는 권총을 꺼내 천장에 한 발을 쐈고, 천장에 새로운 구멍이 생겼습니다. 이게 처음 있는 일은 아닙니다. \n\n"철없는 애들마냥 으르렁거리지 말고 질서정연하고 비폭력적인 방식으로 여러분의 의견을 제시하세요. 프리웬을 침공해요, 말아요?""
-bandit.1.a:0 "그들은 나약하고 귀중한 존재이다! 우리는 다음 주중으로 침공할 것이다!"
-bandit.1.b:0 "프리웬은 불타는 만신창이일 뿐이다. 그냥 집에 있는게 좋을 것 같다."
+bandit.1.d:0 ""그리폰 여러분." 블랙락은 그녀가 작전실이라고 즐겨 부르던, 커다란 지역 지도를 벽에 못박아 놓은 널찍한 곳에서 군중들에게 연설했습니다.  "아시는 바와 같이 프리웬에서는 내전이 몇 년째 계속되고 있고, 양측은 완전한 승리를 달성하기 위해 과감한 조치를 취하고 있습니다. 하지만, 이것은 그들이 약하다는 것을 의미하고, 만약 우리가 그들의 땅에 우리를 초대한 다음 약간의... 쇼핑을 해도 그들은 저항할 수 없을 것이라는 것을 의미합니다. 그래서 침략을 할까요, 말까요?"\n\n그녀가 예상했던 대로, 그리폰들은 즉각적으로 이 행동에 대해 서로 큰 소리로 다투기 시작했고, 어떤 그리폰들은 싸움을 벌이기도 했고, 어떤 사람들은 프라웬의 땅은 어떤 대가를 치르더라도 피해야 할 "지옥의 불구덩이"라고 소리쳤습니다. 신이시여, 그녀는 그들이 병아리처럼 말다툼하는 것을 싫어했습니다. 그녀는 권총을 꺼내 천장에 한 발을 쐈고, 천장에 새로운 구멍이 생겼습니다. 이게 처음 있는 일은 아닙니다. \n\n"철없는 애들마냥 으르렁거리지 말고 질서정연하고 비폭력적인 방식으로 여러분의 의견을 제시하세요. 프리웬을 침공해요, 말아요?""
+bandit.1.a:0 "그들은 나약하고 귀중한 존재이다! 우리는 다음 주 중으로 침공할 것이다!"
+bandit.1.b:0 "프리웬은 불타는 만신창이일 뿐이다. 그냥 가만히 있는게 좋을 것 같다."
 
 bandit.2.t:0 "블랙락의 조공 요구"
 bandit.2.d:0 "Armed envoys arrived from [From.Capital.GetName] today, sent by their infamous boss Blackrock. They came to remind us of our status as a tributary and that it's time for us to pay, or else the raids will continue like before."
@@ -561,7 +561,7 @@ BAN_TT_civil_war_commie:0 "국가를 리브 블리에딘과 블락랙이 국가�
 
 BAN_TT_mountain_hold:0 "블랙할로우 산맥 전체에 숨겨진 다양한 공급품 은닉처를 수색하고 열 수 있는 결정을 해제합니다.\n"
 
-BAN_TT_border_guard:0 "§Y국경 정찰대 사단 6개§!를 나타납니다.\n"
+BAN_TT_border_guard:0 "§Y국경 정찰대 사단 6개§!이 나타납니다.\n"
 BAN_TT_arcturius:0 "§Y그리폰 기사 사단 4개§!이 나타납니다.\n"
 
 BAN_TT_queendom:0 "§Y블랙락 도적단§!은 이제 §Y블랙락 도적 여왕국§!으로 불릴 것입니다.\n"
@@ -591,7 +591,7 @@ BAN_don_adv:0 "Don Espadarte"
 
 ### Decisions ###
 BAN_mercs_and_blackmarket:0 "용병 회사와 암시장"
-BAN_mercs_and_blackmarket_desc:0 "암시장은 용병 회사를 고용하거나 대량의 무기를 획득, 또는 훔쳐온 설계도들을 구입하는 곳입니다.\n\n당신은 £loot_text  §Y전리품§! §Y[?loot]§!더미를 가지고 있습니다."
+BAN_mercs_and_blackmarket_desc:0 "암시장은 용병 회사를 고용하거나 대량의 무기를 획득, 또는 훔쳐온 설계도들을 구입하는 곳입니다.\n\n당신은 §Y[?loot]§! £loot_text §Y전리품§!을 가지고 있습니다."
 BAN_society_development_cat:0 "사회 개발도"
 BAN_raise_society:0 "사회 개발도 올리기"
 BAN_tributaries:0 "조공국"
