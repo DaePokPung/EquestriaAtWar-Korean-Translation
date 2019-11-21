@@ -373,48 +373,48 @@ BAN_march_to_victory_idea_desc:0 "Equality in our army has been perfected, and n
 
 ### Events ###
 bandit.1.t:0 "프리웬 내전"
-bandit.1.d:0 ""Gentlegriffs.", Blackrock adressed the crowd in what she liked to call the war room, which was merely a barren spacious room that had a large map of the region nailed to the wall. "As you may know, civil war has been going on for years now in Prywhen, and both sides are using drastic measures to achieve total victory. This means, however, that they are weak, and won't be able to resist if we were to invite ourselves to their lands and do some... shopping. What say you louts, shall we invade or not?"\n\nAs she expected, her griffons promptly started loudly arguing with one another over the course of action, some even engaging in improptu brawls, while others were screaming that the lands of Prywhen were a "Maar-blasted hellhole" that should be avoided at all costs. By the Gods, she hated when they started bickering like chicks. Taking out her pistol, she fired a shot to the ceiling, an another hole joining the others. Wasn't her first time.\n\n"Quit screeching like immature children and present your opinion in an orderly, nonviolent fashion. Do we raid Prywhen, or not?""
-bandit.1.a:0 "They're weak and vulnerable! We'll strike the next week!"
-bandit.1.b:0 "Prywhen is a burning wreck, we're staying home."
+bandit.1.d:0 ""그리폰 여러분." 블랙락은 그녀가 전쟁실이라고 즐겨 부르던, 커다란 지역 지도를 벽에 못박아 놓은 널찍한 곳에서 군중들에게 연설했습니다.  "아시는 바와 같이 프리웬에서는 내전이 몇 년째 계속되고 있고, 양측은 완전한 승리를 달성하기 위해 과감한 조치를 취하고 있습니다. 하지만, 이것은 그들이 약하다는 것을 의미하고, 만약 우리가 그들의 땅에 우리를 초대한 다음 약간의... 쇼핑을 해도 그들은 저항할 수 없을 것이라는 것을 의미합니다. 그래서 침략을 할까요, 말까요?"\n\n그녀가 예상했던 대로, 그리폰들은 즉각적으로 이 행동에 대해 서로 큰 소리로 다투기 시작했고, 어떤 그리폰들은 싸움을 벌이기도 했고, 어떤 사람들은 프라웬의 땅은 어떤 대가를 치르더라도 피해야 할 "지옥의 불구덩이"라고 소리쳤습니다. 신이시여, 그녀는 그들이 병아리처럼 말다툼하는 것을 싫어했습니다. 그녀는 권총을 꺼내 천장에 한 발을 쐈고, 천장에 새로운 구멍이 생겼습니다. 이게 처음 있는 일은 아닙니다. \n\n"철없는 애들마냥 으르렁거리지 말고 질서정연하고 비폭력적인 방식으로 여러분의 의견을 제시하세요. 프리웬을 침공해요, 말아요?""
+bandit.1.a:0 "그들은 나약하고 귀중한 존재이다! 우리는 다음 주중으로 침공할 것이다!"
+bandit.1.b:0 "프리웬은 불타는 만신창이일 뿐이다. 그냥 집에 있는게 좋을 것 같다."
 
 bandit.2.t:0 "블랙락의 조공 요구"
 bandit.2.d:0 "Armed envoys arrived from [From.Capital.GetName] today, sent by their infamous boss Blackrock. They came to remind us of our status as a tributary and that it's time for us to pay, or else the raids will continue like before."
-bandit.2.a:0 "This way no blood is shed..."
-bandit.2.b:0 "We are now strong enough to resist them!"
-bandit.2.c:0 "You will cease being a tributary.\n"
+bandit.2.a:0 "이것으로 더이상의 피가 흩뿌려지지 않겠군..."
+bandit.2.b:0 "우리는 그들과 대적할 만큼 충분히 강해졌다!"
+bandit.2.c:0 "당신은 더이상 조공국이 아니게 될 것입니다.\n"
 
 bandit.3.t:0 "[From.GetName]의 [Root.GetFactionName] 합류"
 bandit.3.d:0 "For months now we have secretly been aiding the rightful Countess of Blackhollow, Cyrille Bluecrest. Members of her dynasty were once loyal servants of the Kings of Griffonstone, relatives of the Emperor. We have supplied them weapons and advisors, and in return the Countess promised to join us in our struggle against traitors. Now she has finally seized power and is fulfilling the promise by formally joining the [Root.GetFactionName]."
-bandit.3.a:0 "Together to victory!"
+bandit.3.a:0 "승리를 위해 다함께!"
 
 bandit.4.t:0 "기이한 바자회"
-bandit.4.d:0 "The criminal underground is a host to many colourful types from across the entire Griffonia. Smugglers looking for a quick profit, dissatisfied soldiers selling their extra supplies, zebras selling slaves and so much more. Morality is a foreign word in these parts, and money is the only emperor here. With the spoils of our plunder, we've arrived here today to acquire modern weapon models... The choice remains in what sort should we look after. Anything can be found here, after all."
-bandit.4.a:0 "Rifles and submachine guns. Our guns are rusting."
-bandit.4.b:0 "Artillery pieces and improved shells. We could use an extra punch."
-bandit.4.c:0 "Support equipment. The griffons need their bandages and radios."
+bandit.4.d:0 "지하 범죄는 그리포니아 전역의 다양한 유형의 범죄자로 이루어져 있습니다. 빠른 이익을 추구하는 밀수꾼들 여분의 물자를 파는 병사들, 노예를 파는 얼룩말 등이 있습니다. 이곳에서 도덕이란 찾기 힘든 단어고, 오직 돈만이 유일한 황제입니다. 약탈의 전리품으로, 우리는 오늘 현대식 무기를 획득하기 위해 이곳에 도착했습니다... 남은 건 무엇을 고를지 선택하는 것입니다. 어쨌든, 여기서는 어떤 것이든 찾을 수 있습니다."
+bandit.4.a:0 "소총과 자동소총들. 우리 총이 녹슬고 있다."
+bandit.4.b:0 "포 몇개랑 고성능 포탄들. 주먹을 몇 번 더 날릴 수 있겠지."
+bandit.4.c:0 "지원 장비. 그리폰들은 자기 붕대와 라디오가 필요하다."
 
 bandit.5.t:0 "우리의 재고품 사용"
 bandit.5.d:0 "After an extensive search and decent amount of grumbling, Gaston and his griffons have located and retrieved all of our hidden rifle stashes. Some of the weapons found are of improved design compared to our standards, which we will put to good use. In summary, no bandit lacks a weapon now. We are prepared."
-bandit.5.a:0 "Excellent."
+bandit.5.a:0 "훌륭해."
 
 bandit.6.t:0 "블랙락의 제안"
-bandit.6.d:0 "A letter has arrived today from the neighbouring lawless land of Blackhollow. It would be more accurate to describe it as a open threat than as an offer - the notorious bandit leader Blackrock is demanding that our nation becomes a subservient tributary... Or else her vagabonds will continue to raid our lands."
-bandit.6.a:0 "If it keeps them off our backs, fine."
-bandit.6.c:0 "You will become a tributary. Blackrock will no longer raid you, but she can demand you to pay tribute.\n"
-bandit.6.b:0 "We don't negotiate with thugs and cutpurses."
-bandit.6.e:0 "Blackrock will continue to raid you.\n"
+bandit.6.d:0 "이웃의 무법천지 블랙할로우에서 온 편지가 오늘 도착했습니다. 사실 제안이라기 보다는 공개 위협이라고 표현하는 것이 더 정확할 것입니다. 악명 높은 도적 지도자인 블랙락은 우리나라가 그들의 조공국이 될 것을 요구하고 있습니다... 그렇지 않으면 그녀의 부랑자들이 계속해서 우리 땅을 습격할 것입니다."
+bandit.6.a:0 "우리를 가만히 내버려두게 해준다면, 좋다."
+bandit.6.c:0 "당신은 조공국이 될 것입니다. 블랙락은 더 이상 당신을 약탈하지 않지만, 조공을 바칠 것을 요구할 것입니다.\n"
+bandit.6.b:0 "우리는 깡패랑 소매치기 놈들과는 협상하지 않는다."
+bandit.6.e:0 "블랙락은 계속 당신의 땅을 약탈할 것입니다.\n"
 
 bandit.7.t:0 "우리의 제안이 거부되었습니다!"
 bandit.7.d:0 "Our best attempt to convince our neighbour into accepting a mutually beneficial relationship has been rejected. Blackrock will be furious, undoubtedly. She will likely blow off some steam by raiding the arrogant bastards."
 bandit.7.a:0 "Let's get ready for that."
 
 bandit.8.t:0 "그리폰스톤 강탈"
-bandit.8.d:0 "Blackrock smirked as she sat upon a bale of hay, just outside a village. The work was done, so the Queen of Bandits lit a cigarette as she watched the last of her birds leave the little hamlet they had chosen to raid tonight. Her raiding party gathered behind her, waiting with glee for what was to come. Each and every one of them had a large sack filled with loot of whatever they could find. The locals were long gone, well, the ones who didn’t get shot, anyhow. And now, after a night of stealing othergriffons’ hard work, it was time to let off some steam.\n\nBlackrock raised her voice, her cigarette almost up. "We’re gonna leave soon, you lousy penguins. The sack of potatoes Griffonstone calls a government will someday find out about our antics." The griffon looked down, taking in the air of petrol, which had made a nice puddle at her feet, a stream extending towards the few houses that made up this village. "Enjoy the show."\n\nA flick of her talon and the cigarette fell to the ground. A stream of light made its way to the houses and in an eyeblink, the village turned into a sea of flames. Their work in Griffonstone was done!"
-bandit.8.a:0 "Time to head home, folks."
+bandit.8.d:0 "블랙락은 마을 바로 바깥에 있는 건초 더미 위에 앉아 있으면서 스멀스멀 웃었습니다. 일은 마무리되었고, 도적 여왕은 오늘 밤 습격하기로 선택했던 작은 마을을 마지막으로 떠나는 새들을 보면서 담배에 불을 붙였습니다. 그녀의 약탈꾼 일행이 그녀의 뒤에 모여 무슨 일이 일어날지 기뻐하며 기다리고 있었습니다. 그들은 모두 찾을 수 있는 모든 것을 약탈물로 가득 채운 큰 자루를 가지고 있었습니다. 지역 주민들은 오래 전에 떠났습니다. 음, 그러니까 총에 맞지 않은 주민들만 말입니다. 그리고 지금, 하룻밤 동안 다른 그리폰들의 노고를 훔치고 왔으니 이제는 기운을 좀 낼 때입니다.\n\n블랙락은 담배를 거의 다 태운 상태에서 목소리를 높였습니다. "우리는 곧 떠날 거다, 이 형편없는 펭귄들아. 감자자루 그리폰스톤 정부라고 불리는 것들이 곧 우리의 익살스러운 일을 알게 될 거다." 그리폰은 그녀의 발치에 멋진 웅덩이를 만든 휘발유를 바라보고, 이 마을을 이루는 몇 채 안되는 집들을 향해 뻗어 있는 개울을 보며 아래를 내려다보았습니다. "쇼를 즐겨라."\n\n그녀가 발톱을 까딱거리자 담배가 땅에 떨어졌습니다. 한 줄기의 빛이 집들로 흘러갔고 눈깜짝할 사이에 마을은 불바다로 변했습니다. 그리폰스톤에서 할 일은 끝났습니다!"
+bandit.8.a:0 "집으로 갈 시간이다, 얘들아."
 
 bandit.81.t:0 "도적단 약탈"
 bandit.81.d:0 "It seems that Blackrock’s Bandits have crossed our borders. These scourges have descended upon our countryside like a swarm of locusts, leaving nothing standing and retreating home before the police or the army could react. Some griffons are angry and the lords demand retribution for these ungodly acts. Others say we are too poor and weak to retaliate and have no other option than to pray to Arcturius so he can protect us from further raids."
-bandit.81.a:0 "Criminals will pay the price."
+bandit.81.a:0 "범죄자들은 대가를 치르게 될 것이다."
 bandit.81.b:0 "Have faith in Arcturius..."
 
 bandit.9.t:0 "의기양양"
@@ -469,7 +469,7 @@ bandit.18.t:0 "마약의 "
 bandit.18.d:0 "The trafficking drug ring has lately had a surge of success, and perhaps, luck. The plants' yield has been higher than average, and with that, we were able to sell more. The boss will be pleased with the profits, she's been eyeing some fine jewelry lately..."
 bandit.18.a:0 "Life is good."
 
-bandit.19.t:0 "Missing Contraband"
+bandit.19.t:0 "사라진 밀수품"
 bandit.19.d:0 "Blackrock won't be happy with this, not one bit. We've been planning a large trade with one of the biggest Wingbardian mafias for a while - and these birds don't mess around - but few days before the trade was set to take place, we've discovered our stock of drugs has been significantly depleted. The guards swear by their lives that no thief got past them, nor did they indulge in vices - but the fact remains that the Wingbardians will be severely displeased if we renege on our deal. Replenishing our stock on such a quick notice will cut heavily into our profit margin."
 bandit.19.a:0 "Of all the..."
 
@@ -477,11 +477,11 @@ bandit.20.t:0 "Raiding the Poncy Nobles"
 bandit.20.d:0 "The old nobility that ruled this land long ago has been and still is a thorn in our side. They hide in their mountain holds, plotting their return. While their schemes are nothing but a flight of fancy, to say the least, they still contest our rule and rouse the peasants into committing acts of rebellion. Thus, to teach them a lesson, we've raided one of the weaker holds and depleted it of its inhabitants. The late noble was so kind to leave us a large amount of precious stones and ornaments."
 bandit.20.a:0 "I'd like some of that, yes."
 
-bandit.21.t:0 "Caravan Plundered"
+bandit.21.t:0 "대상 약탈"
 bandit.21.d:0 "Everygriff should know that pride marks your end. In a bold attempt, a trade caravan carrying various semi-precious goods, such as imported food, foreign texts, rare materials from Aquileia and so on, has attempted to take a shortcut through our country in order to secure a larger reward from their clients. Needless to say, while their escapade worked for a few days, after our patrols discovered them they were quickly seized and their puny protection was cut down. Should have known better than going through Blackrock's land."
 bandit.21.a:0 "Prey stepping into the trap willingly? Amusing."
 
-bandit.22.t:0 "Bandit Infighting"
+bandit.22.t:0 "도적단 내분"
 bandit.22.d:0 "Victory does not always guarantee success in the end, unfortunately. Following a successful raid on a Falconese port town, our raiders started squabbling over dividing the loot. Tensions flared up, rivalries were brought to light, and afterward a shootout occured in which most of our griffons perished. The survivors, driven by greed and fear, seized all of the spoils and have reneged on their oath to Blackrock."
 bandit.22.a:0 "They won't live for long."
 
@@ -489,11 +489,11 @@ bandit.23.t:0 "The Raid on Blackrock's Treasury"
 bandit.23.d:0 "Blackrock has always had a habit for keeping track of her victories. So much, that she has made a trophy room in her makeshift mansion, which she frequently visits and reminiscences about the good times. It is, of course, heavily guarded by her most loyal bandits.\n\nAnd yet, this did not deter a flock of foreign criminals who had immigrated here recently. Showing that there is no honour among thieves, these daring griffons have plotted to abscond with the boss' riches for a long time, and last night, their efforts came to success as they stole Blackrock's entire stash of stolen jewelry - which she enjoys taking from those stiff necked nobles - and fled as quickly as they came. The guards were stumped at being so egregiously duped, and did not have a good day once Blackrock found out..."
 bandit.23.a:0 "I will have their beaks for this! You are all incompetent cowards!"
 
-bandit.24.t:0 "An Uneventful Day"
+bandit.24.t:0 "특별할 일 없는 날"
 bandit.24.d:0 "Blackrock stood on her balcony, gazing proudly across the lands she called her own. It was good to be the Queen, certainly. Her followers were dedicated and loyal, for all their vices, and her spoils have been growing ever larger. And yet... she began feeling bored of the conventional extravagance. She's been sitting on her rear for long enough, it's time to do something productive instead of making coin castles or playing Stalliongradian roulette. With that, she took flight and headed for the local tavern."
 bandit.24.a:0 "A drink, to clear the ennui..."
 
-bandit.25.t:0 "Tribute from a Tributary"
+bandit.25.t:0 "조공국의 조공"
 bandit.25.d:0 "Carts full of gold, food and weapons have arrived today in Murkbeak. It is a result of our "diplomacy" working out in our favour. As long as we keep our tributaries cowering in fear of our retribution, we can expect more carts like these soon enough. At this rate, we might not even have to go out on raids anymore."
 bandit.25.a:0 "They know their place."
 
@@ -501,20 +501,20 @@ bandit.26.t:0 "Disobedient Whelps"
 bandit.26.d:0 "In a display of defiance, or what the boss thinks is more likely, imbecility, our tributary has refused to follow up on our agreement and deliver the payment. This will not stand and we shall show them in due time what happens to those who doublecross Blackrock."
 bandit.26.a:0 "Is that so? Time to prepare a raid."
 
-bandit.27.t:0 "The Fate of Blackhollow"
+bandit.27.t:0 "블랙할로우의 운명"
 bandit.27.d:0 "Blackrock's rule over the former County of Blackhollow has always been tenuous. Her claws are full with cracking down on peasant uprisings, agitated by the communist elements present in the country, and remainders of the old nobility, who hide in their mountain holds.\n\nThe following days will decide which rebellious faction in Blackhollow will emerge at the forefront. Life in these mountain shadowed lands will change, for better or for worse."
 bandit.27.a:0 "Countess Cyrille gathers enough support!"
 bandit.27.b:0 "Comrade Reeve rallies the peasants!"
 
-bandit.28.t:0 "The Blackhollow Civil War!"
+bandit.28.t:0 "블랙할로우 내전!"
 bandit.28.d_neutral:0 "Enough preparations have been made. We have received much aid from the Empire and they are hesitant to give us any more. The time to strike is now! Countess Cyrille will lead us to victory over the wicked scum and claim her rightful throne!"
 bandit.28.d_commie:0 "The griffons of Blackhollow eagerly await their liberation. Reeve thinks we have prepared long enough and have what is needed to overthrow Blackrock and beat her cruel lackeys. Sound the trumpets of revolution and sign the songs of equality!"
-bandit.28.a:0 "To freedom!"
+bandit.28.a:0 "자유를 향해!"
 
-bandit.29.t:0 "Battle of Blackhollow"
+bandit.29.t:0 "블랙할로우 전투"
 bandit.29.d_neutral:0 "In the dark and forested valley of Blackhollow lies the old seat of the County, in an old and dilapitated castle surrounded by a small town. Years ago the surrounding foreboding forests were infested with bandits who prepared occasional raids, but now those same vagabonds occupied the castle itself, having turned it into a ramshackle nest of debauchery and crime.\n\nNow the tables had turned and the nobles themselves prepared in the forest to retake Blackhollow, the former capital. First the town was surrounded with raiding parties emerging from the forest and cutting off any road connections to it, then some cannons were set up on the opposite side of the river. The bombardment began and drove the bandits into the castle, allowing the Countess' griffons to seize the town. The precious castle would not be damaged and was instead left alone. The criminal scum stuck inside would eventually starve and surrender. Countess Cyrille, who had led the attacking forces personally, sat on the old throne of the Bluecrest Counts and almost cried from joy. She was back home."
 bandit.29.d_commie:0 "In the dark and forested valley of Blackhollow lies the old seat of the County, in an old and dilapitated castle surrounded by a small town. Years ago the surrounding foreboding forests were infested with bandits who prepared occasional raids, but now those same vagabonds occupied the castle itself, having turned it into a ramshackle nest of debauchery and crime.\n\nReeve's liberators were now the ones who occupied the forest. There, they could prepare for their attack peacefully, unseen by Blackrock's scum. A series of surprise raids cut off all roads leading to the town of Blackhollow, and sharpshooters secured the riverbanks, shooting any bandit ships sailing down the river. As Reeve lead his followers to attack the town, the cowardly bandits retreated into the castle, the old symbol of feudal oppression. Reeve immediately ordered cannons to be set up for the complete demolishment of the building. After three days of bombardment, nothing remained except a pile of smouldering rubble and corpses."
-bandit.29.a:0 "Blackhollow is ours!"
+bandit.29.a:0 "블랙할로우는 우리의 것이다!"
 
 bandit.30.t:0 "Assault on Murkbeak"
 bandit.30.d_neutral:0 "The land of Blackhollow contains very little arable land, with most of it being around Lake Murk. Yet even here, perilous marshes are scattered everywhere. The capital of the region, Murkbeak, has grown after Blackrock's wicked reign began and is now the largest town in the country. It is a vile hive of scum and villainy, filled with the worst griffonkind has to offer. While Blackrock never stays in one place for long, the closest thing to her "home" is in the center of Murkbeak, where she stores her trophies.\n\nThe battle of Murkbeak would be hard, yet if the Countess took it, it would be a great victory that would shatter the morale of the bandit scum. Farmers around the town, who gave away most of their food as tribute to the criminals, eagerly joined the Countess when her forces arrived in the region. Soon enough bandit outposts had been destroyed and Murkbeak was surrounded by a large host of angry griffons. Cyrille was confident, but then she saw that Blackrock herself was leading the defenders and organized a solid defence, with many barricades on the streets and snipers on the roofs. The battle would be bloody.\n\nThree times the Countess' supporters attacked, and three times they were repulsed. Some machine guns stolen from Falcor had been set up and in the center of the town there was an artillery battery seized from Angriver. Hundreds died, mostly on the Countess' side. It was clear a direct assault could only end in failure, so instead the Countess tried a different approach. In the nearby marshes, packs of Hydras prowled. They could easily regenerate their wounds and did not fear the sound of gunshots. The Countess sent a group of her soldiers to harass and lure the Hydras away from the swamps into Murkbeak. The plan worked and soon the bandits fled in droves as massive hydras tore through their lines, still alive even as some of their heads were torn apart by artillery shells, constantly regenerating their wounds. The rampage lasted for several hours. After the Hydras were finally killed, some by Blackrock herself, it was followed by a swift attack by the Countess' forces. The bandits were utterly defeated and flew away, some being shot in mid-air. Blackrock managed to escape but her own fortress was looted bare."
@@ -531,22 +531,22 @@ bandit.32.d_neutral:0 "Banditplace is where it all began. For centuries these sp
 bandit.32.d_commie:0 "Banditplace is where it all began. For centuries these sparsely populated and tall mountains have been infested with criminals who prey on griffons of nearby regions. So infamous was this bandit infestation that the area was named after it. Civilization is a foreign concept here, with the largest settlements being crime-ridden gatherings of shacks nested in valleys or sprawled upon mountaintops. This is where Blackrock grew up and where her takeover began all those years ago. So fittingly, her reign of terror will now end where it began.\n\nTo Reeve, the fact that the Counts of Blackhollow had done nothing about the problem of Banditplace simply proved the decadence and laziness of the nobility. Now a new age would begin in the nation and it would be heralded with the purging of Banditplace. The criminal pockets and hideouts were many, but they were scattered, and in the end Reeve had more than enough angry peasants on his side who were tired of being raided, robbed and extorted. So he assembled a mighty host to march eastwards and fill the valleys like a feathered flood. The small and spread out settlements stood no chance on their own, and one by one they fell. In the end some organized resistance formed, but by then it was too little too late. The red tide washed over them and those who survived fled across the border."
 bandit.32.a:0 "Perhaps this place can be renamed soon."
 
-bandit.33.t:0 "Liberation of Naniwich"
+bandit.33.t:0 "나니위치 해방"
 bandit.33.d_neutral:0 "While most of Blackhollow is very mixed culturally, with Wingbardian, Sicamean and Prywhenian all being spoken, inhabitants of Naniwich strongly identify as Herzlander griffons and are fiercely independent, having been autonomous during the Counts' reign. They put up a stiff resistance against Blackrock before their militias were finally crushed and have been plotting a revolt.\n\nWhen news spread that the Countess' uprising had begun, Naniwich griffons finally put their plans into motion. Bandit garrisons were surrounded and attacked, with many of them being completely destroyed even before the Countess' soldiers entered the region. Then commanders of the two militia forces met and planned a combined offensive against the bandits. In return, Cyrille promised to reinstate Naniwich autonomy. The cooperation proved fruitful as the scattered bandits stood no chance against them. Soon enough Naniwich was free once more."
 bandit.33.d_commie:0 "While most of Blackhollow is very mixed culturally, with Wingbardian, Sicamean and Prywhenian all being spoken, inhabitants of Naniwich strongly identify as Herzlander griffons and are fiercely independent, having been autonomous during the Counts' reign. They put up a stiff resistance against Blackrock before their militias were finally crushed and have been plotting a revolt.\n\nWhile inhabitants of Naniwich hated bandits, they did not like communists either, and were hesitant to join them when Reeve launched his northern offensive. Only after the revolutionaries had shed much blood and defeated several bandit outposts and warbands did the Naniwich griffons finally launch their attack. With Blackrock's goons surprised from the flank, they could offer little resistance and were soon defeated. But after the victory Naniwich towns were still very hesitant about letting Reeve's forces come close and after some violent skirmishes Reeve signed an agreement with local leaders that granted them considerable autonomy."
 bandit.33.a:0 "Freedom for all!"
 
-bandit.34.t:0 "The Blackhollow Civil War!"
+bandit.34.t:0 "블랙할로우 내전!"
 bandit.34.d:0 "Lack of outside support has made preparations for the liberation of Blackhollow difficult, but nevertheless we have accomplished much and have rallied the griffons behind the Countess. Now it is time for her to reclaim her rightful throne from the bloody claws of Blackrock!"
 bandit.34.a:0 "We stand alone, but we persevere!"
 
-bandit.35.t:0 "Victory!"
+bandit.35.t:0 "승리!"
 bandit.35.d:0 "The brutal struggle has finally come to an end and order has been restored to Blackhollow. Thousands of outlaws lie dead and thousands more have fled the country, among them infamous Blackrock herself. She has been reduced from a mighty tyrant into a fugitive on the run. We shall offer a large price for her head!\n\nNow we must begin to rebuild all that was destroyed, which will take many months. May we be motivated by the reward waiting for us once we are done: Peaceful and prosperous life without fear."
 bandit.35.a:0 "Onwards to a brighter future!"
 
-bandit.36.t:0 "A New Queen"
+bandit.36.t:0 "새로운 여왕"
 bandit.36.d:0 "Today a grand coronation took place in the repaired palace of Griffonstone, for the first time in decades. Nobles and commoners alike were invited to the ceremony and a huge crowd gathered both inside and outside the building. When Cyrille Bluecrest arrived, all griffons erupted in cheers for the time of uncertainty, poverty and misery in the ancient home of Griffonkind had finally come to an end. She held a passionate speech promising to be a righteous and strong Queen who would take care of her subjects, both in Griffonstone and Blackhollow, and was then crowned by the Prelate of Griffonstone. The audience cheered and clapped, except for former councillor Grandpa Gruff who rolled his eyes. He did join the following feast rather eagerly and enjoyed the free food."
-bandit.36.a:0 "Long live the Queen!"
+bandit.36.a:0 "여왕이여 만수무강하소서!"
 
 ### Custom Tooltips ###
 BAN_TT_mercs:0 "§Y암시장§!에서 용병 회사를 고용할 수 있게 될 것입니다.\n"
@@ -559,7 +559,7 @@ BAN_TT_tribute:0 "다른 국가들에게 조공국이 될 것을 요구하는 �
 BAN_TT_civil_war_cyril:0 "국가를 시릴 블루크레스트와 블락랙이 국가의 지배권을 위해 싸우는 §R내전§!에 빠뜨릴 것입니다.\n"
 BAN_TT_civil_war_commie:0 "국가를 리브 블리에딘과 블락랙이 국가의 지배권을 위해 싸우는 §R내전§!에 빠뜨릴 것입니다.\n"
 
-BAN_TT_mountain_hold:0 "Unlocks decisions that allow you to search for and open the various caches of supplies hidden throughout the Blackhollow Mountain Range.\n"
+BAN_TT_mountain_hold:0 "블랙할로우 산맥 전체에 숨겨진 다양한 공급품 은닉처를 수색하고 열 수 있는 결정을 해제합니다.\n"
 
 BAN_TT_border_guard:0 "§Y국경 정찰대 사단 6개§!를 나타납니다.\n"
 BAN_TT_arcturius:0 "§Y그리폰 기사 사단 4개§!이 나타납니다.\n"
