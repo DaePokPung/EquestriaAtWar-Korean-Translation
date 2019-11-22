@@ -7,11 +7,11 @@
 
 ### FOCUS LOCALISATION ######
 Friendship_Games:0 "우정 게임"
-Friendship_Games_desc:0 "One of the oldest traditions of Equestria is the Friendship Games, where ponies, griffons and other folk participate in a number of sporting events. This event celebrates the friendship and understanding between all nations and peoples. The Princess has expressed excitement at spectating the finest sportponies competing against one another."
+Friendship_Games_desc:0 "이퀘스트리아의 가장 오래된 전통 중 하나인 우정 게임은 조랑말과 그리폰, 그 외 종족이 참여하는 스포츠 행사이다. 이 행사에선 모든 나라와 국민 사이의 우정과 배려를 기념한다. 공주들은 서로서로 경쟁하는 스포츠선수를 보며 행사를 즐긴다."
 examine_the_situation:0 "현 상황 조사"
-examine_the_situation_desc:0 "With tensions growing abroad, organising a commission to deliberate the efficacy of our foreign and internal policies and to propose improvements is of the utmost importance. Equestria cannot remain asleep against the approaching danger."
+examine_the_situation_desc:0 "타국에서 갈등이 고조되고 있으니, 외교와 내정의 효과를 심의하고 개선안을 제정하기 위한 위원회를 조직하는 것이 매우 중요하다. 이퀘스트리아는 다가오는 위험 앞에서 가만히 있어선 안 된다."
 increase_presense_inCRY:0 "크리스탈 왕국의 주둔군 증강"
-increase_presense_inCRY_desc:0 "The Crystal Ponies and their Royal Family are our most loyal allies, and it would be best to keep it that way. Princess Cadance and Shining Armour could use a helping hoof with administration, as well."
+increase_presense_inCRY_desc:0 "크리스탈 포니들과 그들의 왕실은 우리의 가장 충실한 동맹이며, 앞으로도 그런 관계를 맺는 것이 최선일 것이다. 케이던스 공주와 샤이닝 아머도 행정에 능력을 보탤 수 있을 것이다."
 increase_presense_inCRY_tt:0 "§Y[CRY.GetName]§! will be less likely to seek independence.\n"
 Crystal_Fair:0 "[Root.GetCrystalFairFocusName]"
 Crystal_Fair_desc:0 "[Root.GetCrystalFairFocusDesc]"
