@@ -147,15 +147,15 @@ KAT_katerintreue_popular:0 "Crushing Dissent"
 KAT_pony_collaborators_idea:0 "Pony Collaborators"
 
 ### Plague Ideas ##
-KAT_terrible_plague:0 "Plague Ravages the City"
-KAT_horrible_plague:0 "The Plague Worsens"
+KAT_terrible_plague:0 "도시를 휩쓴 전염병"
+KAT_horrible_plague:0 "악화되는 전염병"
 KAT_not_great_not_terrible_plague:0 "The Einfoort Plague"
-KAT_slightly_better:0 "The Plague Lingers"
-KAT_plague_recovering:0 "Recovering from the Plague"
-KAT_plague_gone_but_badly:0 "Picking up the Pieces"
-KAT_plague_gone_at_a_cost:0 "Picking up the Pieces"
-KAT_plague_better_than_nothing:0 "Plague is Eradicated"
-KAT_plague_gone:0 "Plague is Eradicated"
+KAT_slightly_better:0 "지속되는 전염병"
+KAT_plague_recovering:0 "전염병으로부터의 회복"
+KAT_plague_gone_but_badly:0 "사태 수습중"
+KAT_plague_gone_at_a_cost:0 "사태 수습중"
+KAT_plague_better_than_nothing:0 "전염병 근절됨"
+KAT_plague_gone:0 "전염병 근절됨"
                                       
 ### Advisors ###
 KAT_glitterhoof:0 "Glitterhoof"
@@ -199,7 +199,7 @@ KAT_electronics_concern:0 "Scheißwald Electronics"
 
 ### National Focuses ###
 
-KAT_do_own_work:0 "Reign of the Mad Princess"
+KAT_do_own_work:0 "미친 공주의 치세"
 KAT_do_own_work_desc:0 "Ever since the revolution ended, Diellza von Katerinburg, only surviving child of the previous regent, has reigned over the lands of Katerin. Ascending the throne at the age of 7 after her family's death, she was for many years guided by advisors and powerful nobles. These have not gone away, and they remember the power they had back then."
 KAT_assign_yesmen:0 "Expand The Katerintreue"
 KAT_assign_yesmen_desc:0 "The Katerintreue are still somewhat limited in power and influence, and if they are to be able to guide the nation more effectively they must make sure to attract likeminded griffons to take a seat at their table. Letting go of power is not in a good politician's nature, of course, but if the power gained outweighs the one lost then it would be foolish to not invite the more useful."
@@ -211,7 +211,7 @@ KAT_pocketed_yeogriffs:0 "Katerintreue Yeogriffs"
 KAT_pocketed_yeogriffs_desc:0 "As the infiltration of the knightly orders continues to its next phase, several of our agents have found themselves in line to be promoted to the position of Yeogriff. If promoted they would be in a much better position to report in on the activities of the guild. Needless to say, supporting these agents should be a priority in the coming weeks."
 KAT_armed_taxmen:0 "Armed Tax Collectors"
 KAT_armed_taxmen_desc:0 "The griffons of Katerin are, to put it bluntly, destitute. Extracting tax revenues from them is akin to drawing blood from a stone. The solution to this issue is, of course, to smash the stone with a hammer.  From this point onwards, the royal tax collectors of Katerin will carry arms wherever they go, in order to "incentivize" the proper payment of taxes by the populace."
-KAT_legalize_banditry:0 "Legalize Banditry"
+KAT_legalize_banditry:0 "도적질 합법화"
 KAT_legalize_banditry_desc:0 "None can call Diellza von Katerinburg an idle princess, and yet many a griffon has, at times, wished that maybe she was. If she had been, maybe schemes such as her last one would not rise up. There is, of course, something to be said for unorthodox solutions... but maybe this one goes a bit too far?"
 KAT_enforcers_of_her_will:0 "Get the Bandits in Line"
 KAT_enforcers_of_her_will_desc:0 "Though the bandits are running rampant, their actions being "legalized" has left them less prone to running away and our loyal enforcers might just have the opening they need to clasp the fetters of servitude around their necks. It is not going to be popular with neither the bandits, nor with the populace, but it will be made clear that they have no choice in the matter."
@@ -904,21 +904,21 @@ KAT_submarine_f_desc:0 "The potential to strike our enemies ships unseen, huntin
 
 ### Events ###
 
-katerin.1.t:0 "디에르자의 새해 무도회."
+katerin.1.t:0 "디에르자의 새해 무도회"
 katerin.1.d:0 "12월의 마지막 날에, 디에르자 폰 카테린버그 공주는 카테린부르크에서 열릴 웅장한 무도회를 요구했습니다. 하지만 그녀는 이미 있던 많은 홀에 큰 감명을 받지 않았습니다. 이에 그녀는 공국의 많은 그리폰들을 끌어내어 가장 오래된 홀을 헐고 새 그랜드 홀을 짓게 했습니다. 하지만, 프로젝트를 계획하고 완성할 시간이 거의 없기 때문에, 이 컨셉은 수년 전에 만들어진 디자인에 기초해야 했습니다. 노동자들은 디에르자 공주의 노여움을 사지 않기 위해 홀이 완성될 때까지 하루도 쉬지 않고 일했습니다. 마지막에는 수많은 노동자들이 사라지거나, 처형당했거나, 아니면 단순히 죽을 때까지 일했지만, 공주는 그녀의 무도회를 가지게 되었습니다."
 katerin.1.a:0 "댄스 플로어에서 이성을 잃지 마세요!"
 
-katerin.9.t:0 "Wingfried Elected in Hellquill"
-katerin.9.d:0 "News rarely reach Katerin quickly, but this time it only took a week. A messenger made his way down the Grifking river and then through the marshy roads to reach Katerinburg and deliver the news in person to the Princess. He had been sent by Wingfried von Katerinburg, the Princess' cousin who was a member of the Knights of Hellquill and the infamous Reformisten. Pompously and proudly he told that her cousin was now the Grandmaster of Hellquill. However, Diellza seemed to care little, merely smiling a bit. But then it's as if she remembered something and said: "Oh, I almost forgot! I need to invite Wingfried to my wedding as well! Now he has a high enough rank to be a prestigious guest worthy of my husband."\n\nNo one really knew what wedding she was talking about, before she revealed her plans to marry Glitterhoof, a unicorn skull which Wingfried had gifted her years ago. She ordered the messenger to deliver an invitation to the wedding to Wingfried and that it would be held in a week."
-katerin.9.a:0 "Well that was unexpected."
+katerin.9.t:0 "헬퀼의 기사단장 윙프리드"
+katerin.9.d:0 "카테린에게 소식이 빠르게 전달되는 일은 거의 없었지만, 이번에는 일주일 밖에 걸리지 않았습니다. 전령은 그리핑 강을 따라 내려가 늪지대를 통해 카테린부르크에 도착하여 공주에게 직접 소식을 전했습니다. 그를 보낸 이는 헬퀼 기사단의 일원이자 악명 높은 개혁주의자였던 공주의 사촌 윙프리드 폰 카테린부르크였습니다. 그는 그녀의 사촌이 이제 헬퀼의 단장이 되었다고 자랑스럽게 말했습니다. 하지만 디에르자는 약간의 웃음을 지었을 뿐 별로 신경쓰지 않는 것 같았습니다. 그러나 갑자기 그녀는 무언가를 기억해냈습니다 : "오, 제가 거의 잊을 뻔했네요! 윙프리드를 제 결혼식에 초대해야 해요! 이제 그는 내 남편과 잘 어울리는 명성있는 손님이 될만큼 높은 계급을 가지고 있으니까요."\n\n아무도 그녀가 무슨 결혼식을 말하는 건지 몰랐습니다. 그녀가 몇년 전에 윙프리드가 선물한 유니콘 두개골인 글리터후프와 결혼할 계획임을 밝히기 전까지는 말입니다. 그녀는 전령에게 일주일 후에 열릴 결혼식의 초대장을 윙프리드에게 전달하라고 명령했습니다."
+katerin.9.a:0 "이런 건 예상하지 못했는데."
 
-katerin.10.t:0 "An Invitation From Katerin"
-katerin.10.d:0 "Soon after assuming power, Grandmaster Wingfried sent a messenger to Katerin, to inform his cousin Diellza von Katerinburg that he was now a mighty Grandmaster. However, when the envoy returned, he delivered a message that wasn't a congratulations like Wingfried had expected, but an invitation.\n\nPrincess Diellza was inviting him to her wedding with Glitterhoof, who would become the Prince of Katerin. At first, Wingfried didn't recognize the name, before remembering it was a unicorn skull Wingfried had gifted to Diellza several years ago. He knew that his cousin had grown oddly fond of the trophy, but now she wanted to marry it? Truly, she had gone completely insane like he had feared.\n\nThe messenger asked if he would accept the invitation. While Wingfried felt sympathy for his cousin, he also found it despicable that she would love the remains of a filthy pony so much. He hoped her cousin wouldn't be too upset if he said no..."
-katerin.10.a:0 "Politely refuse the invitation."
+katerin.10.t:0 "카테린의 초대장"
+katerin.10.d:0 "권력을 잡은 직후, 윙프리드 단장은 카테린에게 전령을 보내 사촌인 디에르자 폰 카테린부르크에게 그가 이제 강력한 단장이라고 알렸습니다. 그러나 전령이 돌아 왔을 때, 그는 윙프리드가 예상했던 축하의 메세지가 아닌 초대장을 전달했습니다. 디에르자 공주는 글리터후프와의 결혼식에 그를 초대하여 카테린 왕자가 될 것을 제안했습니다. 한참 동안 글리터후프가 누군지 생각하던 윙프리드는 몇 년 전에 그가 디에르자에게 선물한 유니콘 두개골임을 기억해 냈습니다. 사촌이 선물을 이상할 정도로 좋아한다는 것은 알고 있었지만, 이제는 그것과 결혼하기를 원하고 있습습니다. 그가 걱정하던 대로 그녀는 완전히 미쳐 버렸습니다.\n\n전령이 초대를 받아들일 것인지를 물었습니다. 윙프리드는 사촌에게 동정심을 느꼈지만, 그녀가 더러운 포니 유골을 사랑한다는 것은 천한 일이었습니다. .그는 그가 싫어한다고 말하는 것이 사촌의 화를 크게 돋구지 않기를 바랬습니다..."
+katerin.10.a:0 "정중하게 초대를 거절해라."
 
-katerin.11.t:0 "Wingfried Refuses"
-katerin.11.d:0 "As the messenger returned to Katerinburg his earlier conviction was gone, replaced with fear. As he appeared before Diellza he was afraid, indeed terrified, and the glee with which the princess received him did not help. Diellza was bouncing from excitement as she asked when "Wingy", her childish nickname for her cousin, would arrive for the wedding. When the messenger finally managed to give the news - that Wingfried was not going to show up - the glee vanished, being replaced with silent, mounting rage. Quickly excusing himself, the messenger rushed out in order to be out of range when the princess' disbelief was traded for rage. \n\nRetreating to her personal quarters, Diellza grabbed the nearest piece of decoration - a princeless crystal vase - and threw it into the wall with all her might. The explosive display of rage continued for hours as Diellza thrashed every last piece of decoration in her chambers as well as many pieces of furniture. None of the servants in the castle entered until well after the screaming and crying had stopped, and they found Diellza sitting on the floor, whining to herself as she rocked back and forth, clutching Glitterhoof close to her. Quietly, they listened to her whispers before retreating, choosing to spread what she had raved about on instead of daring to challenge her. All friendly ties to Hellquill was to be cut off, with any Hellquillians within the nation's borders being treated as persona non grata from now on. Also, the expected wedding between Glitterhoof and the Princess was postponed for the forseeable future.\n\nIt was, after all, what the princess had commanded."
-katerin.11.a:0 ""I have you my love... even if the world betrays me... I have you...""
+katerin.11.t:0 "윙프리드의 거절"
+katerin.11.d:0 "전령이 카테린부르크로 돌아 왔을 때, 처음 그의 확신은 두려움으로 바뀌었습니다. 그가 디에르자 앞에 나타나자 그는 두려워했고, 정말로 두려워했고, 공주가 그를 기쁘게 맞이한 것은 도움이 되지 않았습니다. 디에르자는 사촌의 어릴 적 별명인 "윙기"가 결혼식에 올 때를 물었을 때 흥분을 참지 못하고 튀어 나왔습니다. 마침내 전령이 윙프리드가 나타나지 않을 것이라는 소식을 전했을 때, 기쁨은 사라졌고, 침묵 속에서 분노가 치솟았습니다. 공주의 불신이 분노로 바뀌자 전령은 분노의 범위에 포함되지 않기 위해 필사적으로 변명하면서 서둘러 뛰쳐나갔습니다.\n\n방으로 돌아온 디에르자는 가장 가까운 장식품인 무공 수정 꽃병을 움켜 잡고 벽에 집어던졌습니다. 디에르자가 방의 장식과 가구들을 뒤집어 엎어놓는 폭발적인 분노의 표출은 몇 시간 동안 계속되었습니다. 아무도 그녀의 비명과 울음소리가 멈추기 전까지 성에 들어올 엄두를 내지 못 했으며, 이후 성에 들어온 그들은 디에르자가 바닥에 앉아 앞뒤로 흔들리며 글리터후프를 꼭 끌어안고 흐느껴 우는 것을 보았습니다. 그들은 그녀의 속삭임에 귀를 기울이고 조용히 뒤로 물러나, 그녀에게 반박하는 대신 그녀가 말한 것을 퍼뜨리기로 했습니다. 헬퀼과의 모든 우호적인 관계는 중단되고 국경 안의 헬퀼인들은 환영받지 못하게 될 것입니다. .또한 글리터후프와 공주의 결혼식은 가까운 미래로 연기되었습니다.\n\n어찌 되었건, 이것이 공주가 명령한 것입니다."
+katerin.11.a:0 ""저에겐 내 사랑이 있어요.... 세상이 절 배신하더라도.. 저한테는 당신이 있어요...""
 
 katerin.16.t:0 "The Alchemist returns to the Princess"
 katerin.16.d:0 "Princess Diellza held court every single day to hear the pleas of her subjects, on paper that is. In reality the Princess' court, in the rare few days she decides to show up to it, is a strange and unnerving proceeding. Most of the nobles avoid making anything more than a token appearance at them, as any slight interaction with the Princess has the potential for a lethal result. There seems to be no rhyme or reason to her actions, and asking her to judge on anything was to invite disaster. To take a recent example, a griffon who had lost all of his belongings to bandits was sentenced to prison for not having protected his own property.\n\nOnly the truly desperate approached the mad princess when she presided over court, which made it all the stranger when a griffon fitting none of those descriptors approached her openly. The potion salesman hailed from Yale, and had operated within Katerin for a time many decades ago as the court alchemist for the Princess' father. The aged griffon carried with him a suitcase, and contained within were three vials which he hoped would, at the very least, soothe the princess for a while.\n\nThe alchemist proceeded to present the vials to the princess, and he made it clear to her that only one could be chosen, as mixing potions rarely had good results. Firstly, there was the vial that came from the north. It had the most brilliant aquamarine color the court had ever seen, and even still as the liquid was within the vial, strange patterns seemed to appear within the fluid if one looked at it long enough. \n\nThe next vial came from the south, concocted within the alchemist's laboratory within Angriver. The dark green liquid within seemed to move on its own, swirling around within the vial even when no outside force was acting upon it. The vial itself was hot to the touch, and it was clear that the liquid within was far from dormant, although the alchemist assured that it was safe to drink.\n\nLastly, there was the vial that hailed from the west. Unlike the others, the liquid within this vial seemed completely inert. It was completely clear, colorless and lacked any odor to speak of as well. No matter how long the vial was studied by the nobles, it seemed no different than normal drinking water. Perhaps that is what made it the most frightening of all the liquids to some. After all the liquids had been presented, the time had come for the Princess to choose which one she would drink."
@@ -931,16 +931,16 @@ katerin.17.d:0 "The news out of Griffenheim was yet another blow to the reeling 
 katerin.17.a:0 "Katerin is lost within the storm of the new age."
 
 katerin.18.t:0 "글리터후프와의 저녁식사"
-katerin.18.d:0 "디에르자 공주는 지난 며칠 동안 열심히 일해왔고, 공국을 관리하는 것은 쉬운 일이 아니었습니다. 그리고 그녀는 그녀의 연인 글리터후프와 함께 놀기 위해 그녀의 임무에서 하루를 쉬기로 결심했습니다. 이런 경우를 위해 궁전의 식당 홀은 예약되어 있었고, 그녀는 글리터후프에게 가장 좋은 진미만을 골라주었습니다. 그리고 만찬 준비가 끝나면서, 글리터후프와의 데이트가 시작될 시간이 왔습니다. 홀 자체는 벽을 장식하는 색깔의 현수막과 디에르자의 명예로운 조상들의 초상화로 가장 호화롭게 꾸며졌습니다. 오늘 저녁 식사의 전채요리는 이미 올려져 있었습니다. 디에르자의 명령대로 요리사들은 오늘밤의 잔치를 준비하는데 드는 비용을 아끼지 않았습니다. 공주는 식당으로 들어가 값비싼 드레스 하나를 입고 탁자 끝에 자리를 잡았습니다.\n\n그녀가 자리에 앉았을 때, 그녀는 반대편 끝에 있는 글리터후프를 보았습니다. 해골은 윤이 나고 있었으며, 심지어 꽤 비싸 보이는 모자를 쓰고 있었습니다. 공주는 식사를 하기 시작했고, 재빨리 데이트 상대와 대화를 시작하기로 결심했습니다. "그럼 글리터후프씨, 잔치를 어떻게 즐기고 계신가요? 모든 것이 당신에게 만족스러우리라 믿어요."\n\n해골은 말이 별로 없었습니다..\n\n글리터후프의 부족한 대꾸는 쾌활하게 말을 이어가는 공주를 단념시키는 데는 별 도움이 되지 않았습니다. "어머나, 당신은 아직 식사에 손도 대지 않았네요. 걱정 말아요, 요리사들이 당신의 입맛에 반하는 음식을 대접한 것에 대해 적절한 처벌을 받도록 할 거예요."\n\n데이트의 나머지 역시 공주가 해골과 대화할 수 있는 무한한 능력을 가지고 있는 것처럼 보이는 것과 거의 같은 방식으로 진행되었습니다. 궁전 경비원은 지켜보는 것 외에는 할 수 있는게 없었고, 요리사들에게 식사가 끝나기 전에 도망치는 것이 최선이라고 조용히 알렸습니다."
+katerin.18.d:0 "디에르자 공주는 지난 며칠 동안 열심히 일해왔고, 공국을 관리하는 것은 쉬운 일이 아니었습니다. 그리고 그녀는 그녀의 연인 글리터후프와 함께 놀기 위해 그녀의 임무에서 하루를 쉬기로 결심했습니다. 이런 경우를 위해 궁전의 식당 홀은 예약되어 있었고, 그녀는 글리터후프에게 가장 좋은 진미만을 골라주었습니다. 그리고 만찬 준비가 끝나면서, 글리터후프와의 데이트가 시작될 시간이 왔습니다. 홀 자체는 벽을 장식하는 색깔의 현수막과 디에르자의 명예로운 조상들의 초상화로 가장 호화롭게 꾸며졌습니다. 오늘 저녁 식사의 전채요리는 이미 올려져 있었습니다. 디에르자의 명령대로 요리사들은 오늘밤의 잔치를 준비하는데 드는 비용을 아끼지 않았습니다. 공주는 식당으로 들어가 값비싼 드레스 하나를 입고 탁자 끝에 자리를 잡았습니다.\n\n그녀가 자리에 앉았을 때, 그녀는 반대편 끝에 있는 글리터후프를 보았습니다. 해골은 윤이 나고 있었으며, 심지어 꽤 비싸 보이는 모자를 쓰고 있었습니다. 공주는 식사를 하기 시작했고, 재빨리 데이트 상대와 대화를 시작하기로 결심했습니다. "그럼 글리터후프씨, 잔치를 어떻게 즐기고 계신가요? 모든 것이 당신에게 만족스러우리라 믿어요."\n\n해골은 말이 없었습니다.\n\n글리터후프의 부족한 대꾸에도 쾌활하게 말을 이어가는 공주를 단념시키는 데는 별 도움이 되지 않았습니다. "어머나, 당신은 아직 식사에 손도 대지 않았네요. 걱정 말아요, 요리사들이 당신의 입맛에 반하는 음식을 대접한 것에 대해 적절한 처벌을 받도록 할 거예요."\n\n데이트의 나머지 역시 공주가 해골과 대화할 수 있는 무한한 능력을 가지고 있는 것처럼 보이는 것과 거의 같은 방식으로 진행되었습니다. 궁전 경비원은 지켜보는 것 외에는 할 수 있는게 없었고, 요리사들에게 식사가 끝나기 전에 도망치는 것이 최선이라고 조용히 알렸습니다."
 katerin.18.a:0 "이게 정말 그녀가 시간을 활용하는 최선의 방법인가?"
 
-katerin.19.t:0 "글리터후프와의 결투"
-katerin.19.d:0 "The invitations sent out for the ball had been at very short notice, but all the same the vast majority of the nobility had turned up. There were few safe reasons to ignore the princess, after all. Yet, at first it seemed that they were blessed with an evening of relative normality. The food was as lavish as it ever had been, the entertainment fine indeed and even Diellza seeming to be in one of her good moods, even if she had that skull close by at all times.\n\nAs the evening's entertainment was mentioned some of them noticed that Diellza had departed, and no one thought too much about it at first. As it turned out though, the entertainment was provided by the princess. Stepping onto the stage, she began to sing, accompanied by the string quartet next to the stage. She had a fine enough voice, few would question that, but the piece she sang was a duet and they saw no one else up on the stage with her. Unless one counted the skull of course, but surely she could not...\n\nOh Boreas...\n\nAs it turned out, she could. As Diellza's part ended she turned to look to her skull, holding it aloft to the crowd as silence settled over the entire hall except for the accompanying music that played through the second verse, with Diellza picking up at the third. If she was aware of the fact that she was performing in front of a mortified crowd of nobles that only wanted to sink through the floor and disappear she didn't show it, only carrying on through all eighteen of the verses." 
-katerin.19.a:0 "Please just let it end..."
+katerin.19.t:0 "글리터후프와의 듀엣"
+katerin.19.d:0 "무도회 초대장은 아주 촉박한 시간에 보내졌지만, 귀족의 대다수가 참석했습니다. 어찌 되었건 공주를 무시해도 될 정도로 안전한 이유는 거의 없었습니다. 처음에는 상대적으로 정상적인 저녁이라는 축복을 받은 것 같았습니다. 음식은 예전처럼 풍성했고, 오락은 괜찮았고, 심지어 디에르자까지도 기분이 좋아 보였습니다. 해골이 항상 그녀의 곁에 있지만 말이죠.\n\n저녁 엔터테인먼트에서 귀족들 중 일부는 디에르자가 떠났다는 것을 알아차렸지만, 처음에는 아무도 그것에 대해 너무 깊게 생각하지 않았습니다. 하지만 알고 보니, 그 엔터테인먼트는 공주가 제공한 것이었습니다. 무대에 올라선 그녀는 무대 옆의 현악 4중주단과 함께 노래하기 시작했습니다. 그녀는 충분히 훌륭한 목소리를 가지고 있었고 그에 대해 의심하는 이들은 없었지만, 그녀가 부른 작품은 듀엣이었고 귀족들은 그녀와 함께 무대에 있는 다른 그리폰을 보지 못했습니다. 물론 두개골을 제외한다면 말입니다. 하지만 그녀에게는 아니었을 겁니다...\n\n오... 보레아스시여...\n\n디에르자의 노래가 끝나자 그녀는 고개를 돌려 두개골을 바라보더니 그것을 군중들 앞에서 높이 들었습니다. 2절이 연주되는 동안 음악을 제외한 침묵이 홀 전체를 뒤덮었습니다. 그런 다음, 디에르자가 3절을 부르기 시작했습니다. 만약 그녀가 차라리 바닥을 뚫고 들어가 사라지고 싶어하는 귀족들 앞에서 공연하고 있다는 걸 알았다면, 그녀가 두개골을 보여줄 일은 없었을테고, 18절 전곡을 혼자서 불렀을 것입니다." 
+katerin.19.a:0 "제발 그만해줘..."
 
-katerin.20.t:0 "A trip to the Katerinburg Library"
-katerin.20.d:0 "The princess had been sitting in the library for most of the day, devouring books as she was wont to do in her more peaceful moments. It had turned into a ritual for the castle, a few hours of guaranteed peace as their capricious ruler was off invested in the books of distant lands or strange mysteries that could absorb her so. Today, this peace was shattered though as Diellza came striding out of the library and summoning the guards, ordering them to bring "everyone" to the library "to enjoy it as well".\n\nThe pattern was all too familiar: the princess had gotten an idea and wanted it executed. Unless you wanted to be the one executed, you obeyed, and soon hundreds, indeed thousands, of griffons all around Katerinburg were marched from their homes into the great library. There they were told to "read" the books by armed guards.\n\nDiellza, standing on the second floor, oversaw the entire crazed affair, randomly pointing out griffons who seemed insufficiently overjoyed by her gesture of kindness and ordering them whipped. In the end, the few literate commoners around hurried to grab the nearest book, forming impromptu reading circles, with others clustering around them to listen, hoping that they could satisfy their insane ruler."
-katerin.20.a:0 ""Isn't reading fun everyone? Everyone should do this!""
+katerin.20.t:0 "카테린부르크 도서관 여행"
+katerin.20.d:0 "공주는 하루의 대부분을 도서관에 앉아 평화로운 나날의 그녀의 습관대로 책을 읽고 있었습니다. 그녀가 책을 읽는 것은 곧 변덕스러운 통치자가 머나먼 땅이나 그녀를 삼킬 수 있는 신화에 매료되어 있는 몇 시간 동안 평화를 보장해주는 의식이 되었습니다. 오늘 이 평화는 산산조각났습니다. 디에르자가 도서관을 성큼성큼 걸어 나와 경비원을 소환하여 "모두들"을 도서관으로 데려와서 "같이 즐기자"고 명령했습니다.\n\n너무나도 고질적인 패턴이었습니다. 공주는 아이디어를 얻었고 그것을 실행하고 싶어했습니다. 처형당하고 싶지 않으면 순종해야 했고, 곧 카테린부르크 전역의 수백, 수천 마리의 그리폰이 그들의 집에서 거대한 도서관으로 행진했습니다.\n\n2층에 서 있던 디에르자는 이 모든 미친 짓을 감독하며, 친절한 몸짓으로 아직 충분히 즐기지 않는 것처럼 보이는 그리폰들을 가리키며 그들을 채찍질하라고 명령했습니다. 결국, 그리폰들은 빠르게 가장 가까운 책을 집어 들고 즉석 독서모임을 만들었으며, 다른 그리폰들이 그 주위로 모여들었습니다. 그들의 미친 통치자를 만족시키기를 희망하면서 말입니다."
+katerin.20.a:0 ""독서란 즐겁지 않나요, 여러분? 모두 독서를 합시다!""
 
 #Commie interwar tree
 katerin.21.t:0 "The Divine Pretender-Kings"
