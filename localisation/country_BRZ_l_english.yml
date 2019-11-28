@@ -316,22 +316,22 @@
  BRZ_local_powers_act:0 "백작령에게 권력을"
  BRZ_local_powers_act_desc:0 "The declining power of the Bronze Council has created some tension between our government and the counties who claim that their voice is no longer heard within Bronzekreuz. In order to elevate this civil strife, the Wise Council has granted the county governments a degree of autonomy and self-rule."
 
- BRZ_united_clan_society:0 "Federation of Counties"
+ BRZ_united_clan_society:0 "국가 연방"
  BRZ_united_clan_society_desc:0 "The Federation of Counties is a body overseen by the Wise Council where the various counties of Bronzehill come together in a forum and discuss the affairs of the nation. The goal of the council is to create a sense of unity amongst our various governments in order to drive them towards the common goal of bettering Bronzehill and the imperial cause."
 
- BRZ_the_county_of_the_bronze_cross:0 "Dismiss the Bronze Council"
+ BRZ_the_county_of_the_bronze_cross:0 "브론즈힐 의회 해산"
  BRZ_the_county_of_the_bronze_cross_desc:0 "With the crisis within our government finally coming to an end, Count Ignatius Bronzetail has formally dismissed the Bronze Council. The new government of Bronzehill stands ready for the conflict ahead, prepared to do everything in their power to protect Emperor Grover VI from his rebellious and self-interested vassals."
 
- BRZ_imperial_youth:0 "The Imperial Pups"
+ BRZ_imperial_youth:0 "제국 강아지들"
  BRZ_imperial_youth_desc:0 "The Imperial Pups are a volunteer organisation sponsored by our government. Their goal is to give the youth of Bronzehill a chance to help with the imperial cause, allowing them to assume supporting duties within the military and industry so that adult labour can be freed up and employed within the frontline."
 
- BRZ_industry_for_the_emperor:0 "Imperial Sponsorship"
+ BRZ_industry_for_the_emperor:0 "제국 후원사"
  BRZ_industry_for_the_emperor_desc:0 "Our land is rich in labour and minerals yet our industrial base has always lagged behind. By lobbying the governments of our allies, we can hopefully secure the investment necessary for the construction of additional industrial assets within our domains. These can then be used to better equip ourselves for the struggle ahead."
 
- BRZ_the_ture_dogs_of_griffonhime:0 "March on Griffenheim"
+ BRZ_the_ture_dogs_of_griffonhime:0 "그리폰하임으로 전진"
  BRZ_the_ture_dogs_of_griffonhime_desc:0 "We have done all we can to prepare ourselves for the struggle ahead. Our armies stand ready. Our industry stands ready. Our nation stands ready. It is now time to unleash the dogs of war and march upon the traitors in Griffenheim."
 
- BRZ_return_of_the_emperor:0 "All Hail Grover VI!"
+ BRZ_return_of_the_emperor:0 "그로버 6세 반세!"
  BRZ_return_of_the_emperor_desc:0 "The war is over and our armies now occupy the hallowed grounds of Griffenheim. We are prepared to receive Grover VI and make sure that the fledgling emperor can safely take the throne he so rightfully deserves. The time for conflict has come to an end and it is now time to heal the wounds this crisis has born."
  
  #Archon-Fascist
@@ -388,43 +388,43 @@
  BRZ_support_the_anti_imperial_movement:0 "좌파 동맹"
  BRZ_support_the_anti_imperial_movement_desc:0 "With the calling of the Bronze Council, a number of intellectuals, union bosses, and peasant leaders have come together to create a united socialist front. Their view is that the emperor's corrupt aristocracy plagues his Empire and is ushering in its ruin. In order to overcome this, they call for Bronzehill to rid the Empire of its aristocratic bureaucracy, replacing it with one based on merit."
  
- BRZ_communist_welfare_groups:0 "The Mineral Dividend"
+ BRZ_communist_welfare_groups:0 "분열된 광물"
  BRZ_communist_welfare_groups_desc:0 "Gems, ore, and minerals pour out of Bronzehill, making up the overwhelming majority of it exports. Currently, little of this wealth remains within our County, instead enriching the purses of foreign interests in Griffenheim. Representatives from our coalition have demanded that a small tax be levelled upon mineral exports, with the revenue being paid directly to our populace."
 
- BRZ_nationalise_struggaling_industries:0 "Nationalise Foreign Assets"
+ BRZ_nationalise_struggaling_industries:0 "외국 자산 국유화"
  BRZ_nationalise_struggaling_industries_desc:0 "A large amount of our industry is owned by firms located within regimes which our hostile to our cause. As such, we must seize these productive assets before they can undermine our nation, using them to help fuel our progress towards the betterment of the Empire and its subjects."
 
- BRZ_revolution_in_bronzehill:0 "March on Wiesetreffen"
+ BRZ_revolution_in_bronzehill:0 "비제트레펜 행진"
  BRZ_revolution_in_bronzehill_desc:0 "The Bronze Council has stalled, stricken by a miasma of infighting that can not be overcome. However, our coalition has grown stronger, with membership surging with each passing day of inaction. If the Council can not come to a solution on how to handle this crisis, then it must be replaced by a body which can."
  
- BRZ_communist_education:0 "Subsidise Tuition"
+ BRZ_communist_education:0 "교육 지원금"
  BRZ_communist_education_desc:0 "For generations, the benefits of higher education have been locked behind a barrier which only the wealthiest and most well-off dogs can afford. This has denied our nation access to some of our potentially brightest minds. To address this, our government has begun to subsidise tuition, allowing dogs access to these school based on merit and not class."
 
  # Rosey Communist
- BRZ_spoticus_league:0 "The Spoticus League"
+ BRZ_spoticus_league:0 "스팟티쿠스 동맹"
  BRZ_spoticus_league_desc:0 "Centuries ago, there was a slave revolt in the Diamond Mountains, which saw a grand army raised by a slave known as Spoticus. While the rebellion was crushed, they won many stunning victories and sparked a spirit of resistance which exists to this day. Rosey Luxembark has called upon Spoticus' legacy, forming a league of likeminded regimes to help end the slavery of capitalism and feudalism."
 
- BRZ_the_mountain_corridor:0 "A Pack Divided No More"
+ BRZ_the_mountain_corridor:0 "분열된 무리는 이제 없다"
  BRZ_the_mountain_corridor_desc:0 "Since Bronzehill's inception, our dogs have been separated from their ancestral homeland, a necessity due to the tyranny of the Diamondshield clan. However, with both our nations experiencing revolutions, the burdens of ideology no longer plague us. As such, we must move towards unifying with our brothers, and to accomplish this, the nations that buffer us must be dealt with."
 
- BRZ_spot_stability:0 "Establish the Council of Workers"
+ BRZ_spot_stability:0 "노동자 의회 설립"
  BRZ_spot_stability_desc:0 "With the fall of the Bronze Council, a new body is necessary to act as the legislative branch of our regime. Rosey Luxembark has called for the formation of the Council of Workers, which would gather together representatives elected by unions, peasant communes, military units, and various other organisation into a central committee which will debate and draft legislation."
 
- BRZ_spot_industry:0 "Cooperative Factories"
+ BRZ_spot_industry:0 "공장 협동조합"
  BRZ_spot_industry_desc:0 "Previously, workers were paid wages which represented only a fraction of the value of their labour. The bulk of their surplus went into the pockets of capitalists who grew fat off this tithe. However, the Council of Workers has passed the Cooperative Factory Act, allowing workers to pay into cooperatives which acquire and work industrial assets, before paying dividends to their members."
 
- BRZ_spot_crisis_1:0 "Price Controls on Food"
+ BRZ_spot_crisis_1:0 "식량 가격 통제"
  BRZ_spot_crisis_1_desc:0 "The Crisis within the Empire, and instability across Griffonia as a whole, have greatly impacted the continent's food supply, drastically inflating the price of basic staples. This has led to a great hunger among our impoverished populace. In order to address this suffering, Rosey Luxembark has initiated strict price controls on food, ensuring they remain affordable."
 
  BRZ_spot_crisis_2:0 "The Banner of Change"
  BRZ_spot_crisis_2_desc:0 "Some say that drastic times call for drastic measures. This has proven to be true for our dogs, who were forced to do away with centuries of engrained social order and regal bureaucracy in order to confront the crisis plaguing us. However, it would seem that such measures were effective, as our nation stands stronger than it has in decades."
 
- BRZ_spread_the_revolution:0 "Spread the Revolution"
+ BRZ_spread_the_revolution:0 "혁명 전파"
  BRZ_spread_the_revolution_desc:0 "There are many throughout Griffonia who support communist ideals. If we can contact these groups and provide them the support they need, they could prove to be useful in supporting our crusade against the corrupt aristocracy that threaten the Emperor and the citizens of Griffonia."
 
  # Kimball Communism
 
- BRZ_military_first_theory:0 "Kimball's Decree"
+ BRZ_military_first_theory:0 "킴볼의 칙령"
  BRZ_military_first_theory_desc:0 "With Kimball Barking-Sun's seizure of power from Rosey Luxembark, the philosophies of the Council of the Left have become heavily influenced by his philosophies. Instead of the more traditional views of the council, who see the monarch as a figurehead, he instead sees him as the head of the revolution, the guiding light of the nation, a nigh immortal and all powerful being."
 
  BRZ_kim_war_support:0 "Align the Generals"
@@ -433,166 +433,166 @@
  BRZ_self_reliance:0 "Unz-Kravakgash"
  BRZ_self_reliance_desc:0 "The ideals of Unz-Kravakgash are that imports make our nation weak, creating a reliance upon foreign goods in order to meet our own needs. In order to address this weakness, our government has called upon the nation to domestically produce all its goods, creating a self-reliant system that can not be bullied by threats of sanctions or trade war."
 
- BRZ_mass_production:0 "The Engine of War"
+ BRZ_mass_production:0 "전쟁의 동력"
  BRZ_mass_production_desc:0 "TFor too long our nation has been geared towards a pompous and bourgeois economy, more focused upon the production of baubles and trinkets than the things that are really important. This era of needless luxury must come to an end and our nation must be geared towards producing the necessities of the revolution."
 
- BRZ_ten_principals:0 "The Ten Principles"
+ BRZ_ten_principals:0 "열 가지 원칙"
  BRZ_ten_principals_desc:0 "1. We must give our all in the struggle to unify the entire society with the revolutionary ideology of the Great Leader Grover VI.\n2. We must honour the Great Leader comrade Grover VI with all our loyalty.\n3. We must make absolute the authority of the Great Leader comrade Grover VI."
 
- BRZ_kim_crisis_2:0 "Purge the Moderates"
+ BRZ_kim_crisis_2:0 "중도파 숙청"
  BRZ_kim_crisis_2_desc:0 "When the Council of the Left first formed it called upon a broad base of faction, looking to overthrow the oppressive crown of Count Bronzetail. However, some of these supposed 'revolutionaries' are little more than capitalists and reactionaries in disguise, hoping to use our suffering to further their own gains. As such, these dogs must be purged from our society."
 
- BRZ_prepare_for_the_war_of_libertation:0 "The Liberation War"
+ BRZ_prepare_for_the_war_of_libertation:0 "해방 전쟁"
  BRZ_prepare_for_the_war_of_libertation_desc:0 "Across Grover VI's domains, various petty nobles, fat merchants, and opportunistic warlords run rampant, raping his lands, plundering his treasure, and exploiting his populace. We, as the defenders of our glorious leader, must step in and liberate these domains, bringing them under proper administration."
 
  # Free Harmony
- BRZ_appeal_to_the_harmonists:0 "Hand Power to Barnaby"
+ BRZ_appeal_to_the_harmonists:0 "바나비에게 권력을"
  BRZ_appeal_to_the_harmonists_desc:0 "With the nation in chaos, Count Ignatius Bronzetail believes it is best he abdicates the throne in favour of his young and popular son, Barnaby. The Prince has many friends in the pro-harmony parties in Bronzehill and there is no doubt that they will come to influence the Bronze Council."
 
- BRZ_the_count_and_the_princess:0 "The Princess and the Count"
+ BRZ_the_count_and_the_princess:0 "공주와 백작"
  BRZ_the_count_and_the_princess_desc:0 "For years, Princess Molly of the Diamond Mountain and Sir Barnaby have been in secret correspondence, joined together by their common harmony-aligned interests. With both now holding leadership positions in their respective regimes, it is hoped that their friendship will foster a warming of relations."
 
- BRZ_seek_pony_support:0 "Cooperation with the River Coalition"
+ BRZ_seek_pony_support:0 "리버 동맹과의 협력"
  BRZ_seek_pony_support_desc:0 "As the various nations of Herzland stand ready to tear each other apart, it has become vital for Bronzehill to expand its diplomatic presence. For generations, our relationship to the lands of the River Federations have been strained under our vassalage to the empire. However, we both have much to gain from Grover VI gaining a sound-minded regent."
 
- BRZ_barnaby_reduce_crisis_1:0 "Industrial Subsidies"
+ BRZ_barnaby_reduce_crisis_1:0 "산업 보조금"
  BRZ_barnaby_reduce_crisis_1_desc:0 "The current crisis has greatly affected the stability of Bronzehill's economy, as our trade networks within the Griffon Empire are strained by conflict. This has led to the closure of factories and the unemployment of many dogs. By subsidises factories, not only can we increase employment, but we can also grow domestic demand and create a stable market for consumer goods."
 
- BRZ_barnaby_factories:0 "Negotiate wiht Foreign Firms"
+ BRZ_barnaby_factories:0 "외국 사업체와의 협상"
  BRZ_barnaby_factories_desc:0 "Much of Bronzehill's economy is owned by firms operated within Griffenheim and other parts of the empire, meaning that our shift in imperial policy has greatly undermined their willingness to operate within our borders. By reassuring these firms, we can begin to mend this broken trust and rebuild the soundness of investing within Bronzehill."
 
- BRZ_barnaby_output_bonus:0 "Import Foreign Industrial Methods"
+ BRZ_barnaby_output_bonus:0 "해외 산업수단 수입"
  BRZ_barnaby_output_bonus_desc:0 "Our industrial methodology is severely archaic when compared to some of our more developed neighbours. Factories are run more like farms, operating only for limited hours per day. To overcome this barrier, we must reform our methodology, seeking help from foreign experts in order to transition from an agricultural to industrial economy."
 
- BRZ_barnaby_research_slot:0 "Offer Refuge to Intellectuals"
+ BRZ_barnaby_research_slot:0 "지인의 피난처 제공"
  BRZ_barnaby_research_slot_desc:0 "As conflict brews in the Empire, many intellectuals, across its various domains, find themselves under harsh and oppressive governments. Many, wish to break free of this chaffing restriction and return to relative freedom. By opening our borders to these potential refugees, we could benefit greatly from the work of these scientists, engineers, and other trained professionals."
 
- BRZ_barnaby_defence_bonus:0 "In Defence of the County"
+ BRZ_barnaby_defence_bonus:0 "백작령의 방어"
  BRZ_barnaby_defence_bonus_desc:0 "With war looking increasingly likely, the popularity of Count Barnaby and his reforms have created a fighting spirit amongst our populace. Their newfound liberty has become something they cherish and they are prepared to sacrifice greatly in order to ensure that it endures through this coming conflict."
 
- BRZ_barnaby_reduce_crisis_2:0 "Democratise the Bronze Council"
+ BRZ_barnaby_reduce_crisis_2:0 "브론즈 의회 민주화"
  BRZ_barnaby_reduce_crisis_2_desc:0 "It is hard to claim that we are a pillar of harmony when our legislative branch is appointed from the nobility. With economic affairs finally sorted, Count Barnaby can now go about reforming the Bronze Council into a more democratic body and begin the process of setting up Bronzehill's first elections."
 
- BRZ_barnaby_harmony:0 "Universal Suffrage"
+ BRZ_barnaby_harmony:0 "보편적 선거권"
  BRZ_barnaby_harmony_desc:0 "With Bronzehill's first elections coming ever closer, Count Barnaby has mandated universal suffrage. Every stud and bitch will receive the right to vote, regardless of class or ownership of land. No longer will the affairs of state be exclusively run by the nobility."
 
- BRZ_barnaby_stability:0 "A Count for Everycreature"
+ BRZ_barnaby_stability:0 "모든 생명체를 위한 백작령"
  BRZ_barnaby_stability_desc:0 "Count Barnaby has fashioned himself a count for everycreature. He has beseeched his populace, asking for them to be tolerant in these intolerant times. After all, Bronzehill was born as a sanctuary from the tyranny of the Diamond Mountain and that legacy should be extended to refugees from all species attempting to flee similar conditions."
 
- BRZ_barnaby_remove_crisis:0 "The Grand Coalition"
+ BRZ_barnaby_remove_crisis:0 "위대한 동맹"
  BRZ_barnaby_remove_crisis_desc:0 "With the conclusion of elections, a number of new political parties have formed in the Bronze Council. While a vocal minority is made up of extremist voices, form both the left and right, a number of moderate parties have come together to form a grand coalition. The two most prominent voices are Winston Coppertail of the Conservatives and Greyhound Attlee of the Democratic Labour Union"
 
- BRZ_barnaby_manpower:0 "Prime Minster Coppertail"
+ BRZ_barnaby_manpower:0 "카퍼테일 총리"
  BRZ_barnaby_manpower_desc:0 "Winston Coppertail has come to dominate the grand coalition, assuming the title of Bronzehill's First Prime Minister. Under his leadership, he wishes to see the scope of our military increased in order to shore up our defences against foreign invasion. To do this, he has opened up military service to members of every species, stating that everycreature has a stake in our collective defence."
 
- BRZ_barnaby_better_industry:0 "Prime Minister Attlee"
+ BRZ_barnaby_better_industry:0 "아틀리 총리"
  BRZ_barnaby_better_industry_desc:0 "Greyhound Attlee has come to dominate the grand coalition, assuming the title of Bronzehill's First Prime Minister. Under his leadership, he wishes to see the strengthening of labour rights for Bronzehill's workers, ensuring they receive fair treatment and wages. In order to promote this mandate, he has legalised the formation of unions and established the Ministry of Labour."
 
  # Free Fascism
- BRZ_seek_national_union_support:0 "Meet with Loudbark"
+ BRZ_seek_national_union_support:0 "라우드바크와의 만남"
  BRZ_seek_national_union_support_desc:0 "Rufus Loudbark, the leader of the National Union party, has often been dismissed as a troublemaker, but it is clear that in these desperate times an iron paw is needed to guide the nation towards freeing the Emperor. The count will ensure the NU will have a prime spot in the Bronze Council."
 
- BRZ_nu_propaganda:0 "National Union Propaganda"
+ BRZ_nu_propaganda:0 "전국연맹 선전방송"
  BRZ_nu_propaganda_desc:0 "After Loudbark's admittance to the Bronze Council, many of the less patriotic factions within the nation began to protest, we should try as much as possible to keep a positive image of ourselves with the new power we have."
  
- BRZ_nu_restore_order:0 "Restoring Order"
+ BRZ_nu_restore_order:0 "질서의 회복"
  BRZ_nu_restore_order_desc:0 "Our nation is in chaos as the Count is coming under pressure to remove the NU from the Bronze Council, we must act fast and decisively to make sure that at thevery least our ship keeps floating!"
  
- BRZ_nu_military_loyalty:0 "Keep the Army Loyal"
+ BRZ_nu_military_loyalty:0 "군대의 충성심 유지"
  BRZ_nu_military_loyalty_desc:0 "The NU's greatest tool lies in that many generals are sympathetic to our cause, we must monopolise this and in this times of strife, use the military to keep order."
  
- BRZ_nu_fascist_democracy:0 "Limits of Freedom"
+ BRZ_nu_fascist_democracy:0 "자유의 제한"
  BRZ_nu_fascist_democracy_desc:0 "One belief that sets Loudbark apart from many other politicians in Bronezehill is his genuine belief in democracy, or at least people voting on which NU candidate they want... and never to replace him."
  
- BRZ_nu_free_state:0 "The Free Dogs"
+ BRZ_nu_free_state:0 "자유 개들"
  BRZ_nu_free_state_desc:0 "Bronezehill shall bow to none but the emperor! We are his true protectors and none shall stand in our way to true liberty from opression! We shall foster this feeling amongst the populace so they know that it is the NU who serves them, and truly serves the emperor. Not some stilly noble or stuffy priest!"
  
- BRZ_nu_chancellor_loudbark:0 "The Chancellor of the Nation"
+ BRZ_nu_chancellor_loudbark:0 "국가의 수상"
  BRZ_nu_chancellor_loudbark_desc:0 "Now that Loudbark has consolodated his position on the Bronze Council, and gotten enough support with the common folk and the army, he can finally make his bid to rule alongside his monarch, to free the Emperor.\nSlave to Chancellor, now that's a story."
  
- BRZ_nu_factories:0 "Industrialisation Programs"
+ BRZ_nu_factories:0 "산업화 프로그램"
  BRZ_nu_factories_desc:0 "The NU economic plan is a mix of light nationalisation, compromising with nobles and corporations and guaranteeing rights to workers. As well as codifying that none shall ever lie as chattel to another. Such a plan is sure to recieve support."
  
- BRZ_nu_industry_buff:0 "Industrial Re-calibration"
+ BRZ_nu_industry_buff:0 "산업 재교정"
  BRZ_nu_industry_buff_desc:0 "In order to better serve our interests, it is time we take a more direct role in the economy. Influencing the tides of the market in order to benefit the nation the most."
  
- BRZ_nu_military_pensions:0 "Military Pension Programs"
+ BRZ_nu_military_pensions:0 "군인 연금 프로그램"
  BRZ_nu_military_pensions_desc:0 "A key NU policy since its inception, was the belief that any dog who fights deserves an income to live on when he is done fighting. We should make sure that this is followed through with, for both the good of the populace, and all the new recruits who will sign up."
  
- BRZ_nu_smart_dogs:0 "Reign in Intellectuals"
+ BRZ_nu_smart_dogs:0 "지식인의 시대"
  BRZ_nu_smart_dogs_desc:0 "In the begining, the main opposition to our government was from the intellectual class, who called us barbaric for doing what was right. But now that Loudbark is the Chancellor, we will be sure to convince them to comply. And some may actually believe it!"
  
- BRZ_nu_nu_rule:0 "Complete Control"
+ BRZ_nu_nu_rule:0 "통제의 완성"
  BRZ_nu_nu_rule_desc:0 "With many of our promises sorted in ways many never thought we could, we can now declare our regime stable. And with that we can move on to our greater task of liberation!"
  
- BRZ_nu_we_are_number_one:0 "The Elite Army"
+ BRZ_nu_we_are_number_one:0 "엘리트 군대"
  BRZ_nu_we_are_number_one_desc:0 "Loudbark is a proponent of a small professional army that shall serve as the very backbone of our state, so much so it may seem there is no state without our army. This level of professionalism wi require cutting back on conscription but it could be well worth it!"
  
- BRZ_nu_leve_en_masse:0 "The Standing Army"
+ BRZ_nu_leve_en_masse:0 "상비군"
  BRZ_nu_leve_en_masse_desc:0 "Lassie Goldcoat, one of our prominent advisors and generals supports the idea of sacrificing dicipline in our ranks, to implement a complex bureaucracy of conscription to acquire as many dogs as possible with minimal effort. Of course many will be unwilling, damaging our preformance, but they will learn to fight for the emperor!"
 
  # Empire Expansion
  BRZ_alles_erdreich_ist_der_kaiser_untertan:0 "Alles Erdreich ist der Kaiser Untertan"
  BRZ_alles_erdreich_ist_der_kaiser_untertan_desc:0 "While the control over the Empire is secure, our work is not yet done. There are others in our surrounding that we've yet to regain control of. All belongs to the Emperor."
 
- BRZ_meetings_with_strawberry:0 "Meetings in Strawberry"
+ BRZ_meetings_with_strawberry:0 "스트로베리와의 만남"
  BRZ_meetings_with_strawberry_desc:0 "On the radar, we've Strawberry, our former vassal, we have to meet with them and negotiate the terms of them rejoining the Empire. While we have not forgotten the past, in the present they have but two possibilities, join, or be conquered. All belongs to the Emperor."
 
- BRZ_feathrisian_diplomacy:0 "Feathisian Diplomacy"
+ BRZ_feathrisian_diplomacy:0 "페디시아 외교"
  BRZ_feathrisian_diplomacy_desc:0 "An attempt at diplomacy with Feathisia will be made, but our goals are quite clear. Their lands belong to us, and we will have them, willingly or by force, such is the decree of our Emperor. They should meet our delegates with dignity. In the end, all belongs to the Emperor."
 
- BRZ_secure_the_northern_mountains:0 "Secure the Northern Mountains"
+ BRZ_secure_the_northern_mountains:0 "북부 산맥 보호"
  BRZ_secure_the_northern_mountains_desc:0 "Our neighbouring regions can still be useful to us, specifically the territories to the north are of particular interest to the Empire's expansion. We will secure the northern mountains at any cost, for the Empire claims all. In the end, all belongs to the Emperor."
 
- BRZ_deal_with_the_republicans:0 "Deal with the Republicans"
+ BRZ_deal_with_the_republicans:0 "공화주의자 처리"
  BRZ_deal_with_the_republicans_desc:0 "Those who oppose the rule of the Emperor are a threat and will be dealt with. The will of the Emperor is infallible, and it will be enforced. The pathetic republicans dare object the Empire's jurisdiction, and they will pay for it in the fullest. In the end, all belongs to the Emperor."
 
- BRZ_the_vedina_negotiations:0 "The Vedina Negotiations"
+ BRZ_the_vedina_negotiations:0 "베디나 협상"
  BRZ_the_vedina_negotiations_desc:0 "Vedina, the land of the free, will be the next on the end of our negotiations envoy. We expect them to use their choice wisely, for there will not be a second chance. It is time for them to decide, do they stand by our side, or will they be crushed under our might? In the end, all belongs to the Emperor."
 
- BRZ_the_romau_accords:0 "The Romau Accords"
+ BRZ_the_romau_accords:0 "로마우 합의"
  BRZ_the_romau_accords_desc:0 "There are some who must respect our former accords, we shall see where their loyalty disposes now. In the eyes of the Emperor, no one is forgotten, and nothing is forgotten. The envoys of the Emperor's will are to be be dispatched shortly, submit or be quelled, that is their message. In the end, all belongs to the Emperor."
 
- BRZ_subdue_the_southern_troublemakers:0 "Subdue the Southern Troublemakers"
+ BRZ_subdue_the_southern_troublemakers:0 "남쪽의 골칫거리 진압"
  BRZ_subdue_the_southern_troublemakers_desc:0 "Those troublemakers in the south have been a thorn in the Empire's side long enough, it's time to change that. They too will have the pleasure of meeting the Emperor's envoys to decide their fate, stand with us, or against us. In the end, all belongs to the Emperor."
 
- BRZ_deal_with_the_knights:0 "Deal with the Knights"
+ BRZ_deal_with_the_knights:0 "기사단 처리"
  BRZ_deal_with_the_knights_desc:0 "The knights of Hellquill and their allies cannot be left unchecked. They will be reminded of our former oaths, and they will be given a generous proposal from the Emperor to review them once more under new terms, where they may keep their autonomy. The Empire's might will be recognised, either by them submitting to us, or when our forces crush their opposition. In the end, all belongs to the Emperor."
 
- BRZ_bring_peace_to_the_lakeside:0 "Bring Peace to the Lakeside"
+ BRZ_bring_peace_to_the_lakeside:0 "호수가에 평화를 가져오다"
  BRZ_bring_peace_to_the_lakeside_desc:0 "The disturbance at the lakeside is not one to be ignored. The Emperor sees all, and his dictate is unwavering. The Empire will bring peace to their region, the negotiators are en route in order to spread the message of the Empire and our way of peace. In the end, all belongs to the Emperor."
 
- BRZ_the_home_of_griffon_kind:0 "The Home of Griffon Kind"
+ BRZ_the_home_of_griffon_kind:0 "그리폰 종족의 고향"
  BRZ_the_home_of_griffon_kind_desc:0 "Griffonstone, the home of the griffon kind, a sacred place for the Empire. It is long overdue that the birthplace of our first Emperor, no matter what they are now, are a part of the Empire. They will acknowledge our claim, oone way or the other. In the end, all belongs to the Emperor."
 
- BRZ_the_greifwald_ultimatium:0 "The Greifwald Ultimatum"
+ BRZ_the_greifwald_ultimatium:0 "그라이프발트 최후통첩"
  BRZ_the_greifwald_ultimatium_desc:0 "Greifwald and its regions have been at the event horizon of the Empire far too prolonged. The time of neutrality is gone, they will receive a simple ultimatum: yield to the Emperor, or face his wrath. The courier will be sent shortly, the Emperor's patience is running low. In the end, all belongs to the Emperor."
 
- BRZ_the_jewel_of_the_west_coast:0 "The Jewel of the West Coast"
+ BRZ_the_jewel_of_the_west_coast:0 "서쪽 해안의 보석"
  BRZ_the_jewel_of_the_west_coast_desc:0 "The prosperous lands of Skyfall and Fezera to the west have always been a shining jewel of economics on Griffonia. The Empire's expansion will not be stopped, and their resources will belong to the Emperor. Assemble our forces, the Empire marches at dawn. In the end, all belongs to the Emperor."
 
- BRZ_reach_out_to_haukland:0 "Reach Out to Haukland"
+ BRZ_reach_out_to_haukland:0 "하우크란트로 전진"
  BRZ_reach_out_to_haukland_desc:0 "Further west, lie the islands of Haukland. Once safe from the influence of others, the era of safety is over. The reach of the Empire knows no bounds, none will stand in our way. Everything will know the power and clout of our Emperor, the lands of Haukland will belong to the Empire. In the end, all belongs to the Emperor."
 
- BRZ_reclaim_the_western_colonies:0 "Reclaim the Western Colonies"
+ BRZ_reclaim_the_western_colonies:0 "서부 식민지 탈환"
  BRZ_reclaim_the_western_colonies_desc:0 "The western colonies of Nova Griffonia and Griffon Frontier were once part of our great Empire. Now is the hour of our full glory, the Empire will rise and the Empire will conquer all. These former colonies of ours will yet bend the knee to our great Emperor. In the end, all belongs to the Emperor."
 
- BRZ_the_southern_problem:0 "The Southern Problem"
+ BRZ_the_southern_problem:0 "남쪽의 문제"
  BRZ_the_southern_problem_desc:0 "Even more troubles are brewing in the south, our Emperor has no patience for such insolence. The Empire's shadow will swallow them whole, no place on Griffonia is safe from the Emperor's grasp. There will be peace and prosperity, once they relinquish their pride and stand under the Empire's banner. In the end, all belongs to the Emperor."
 
- BRZ_hunt_down_the_bandits:0 "Hunt Down the Bandits"
+ BRZ_hunt_down_the_bandits:0 "도적단 사냥"
  BRZ_hunt_down_the_bandits_desc:0 "The bandits of Blackrock have no place in our lands, their territory will belong to us. The petty scoundrels will feel the suppressing force that is the Empire. Savagery will be their downfall, once faced with the glorious might of the Emperor, the dominion of Blackrock will be part of the Empire! In the end, all belongs to the Emperor."
 
  BRZ_the_griffon_south:0 "The Griffon South"
  BRZ_the_griffon_south_desc:0 "The further territories to the south still did not join the Empire. Mischievous griffons will be disciplined by the Empire's iron clutch, when our banners will adorn their hearths. Every griffon in Griffonia will submit to the Emperor and his absolute authority. In the end, all belongs to the Emperor."
 
- BRZ_the_wild_east:0 "The Wild East"
+ BRZ_the_wild_east:0 "동쪽의 황무지"
  BRZ_the_wild_east_desc:0 "Many creatures in the east were outside of the Empire's grasp of power for a while, but times change. The Empire spreads the fire of dominion far and wide, it is the east's turn to accept the Emperor as their rightful ruler, or the war and destruction is all they will know. In the end, all belongs to the Emperor."
 
- BRZ_march_on_aquileia:0 "March on Aquileia"
+ BRZ_march_on_aquileia:0 "아퀼레이아로 전진"
  BRZ_march_on_aquileia_desc:0 "The Kingdom of Aquileia once rebelled against the rule of the Emperor, swaying from the Empire's rule for centuries. The Empire's glory and prosperity will shine on all the edges of Griffonia, as we match on the rebels and show them once more why they belong to the Emperor. In the end, all belongs to the Emperor."
 
- BRZ_restore_order_to_the_minotaurs:0 "Restore Order to the Minotaurs"
+ BRZ_restore_order_to_the_minotaurs:0 "미노타우로스의 질서 복구"
  BRZ_restore_order_to_the_minotaurs_desc:0 "Minotaurs are rare on Griffonia, they have secluded themselves in their lands of Asterion for centuries. It's high time that these creatures are subdued and are made to serve the Empire's needs. The Emperor's troops will raze them and claim was rightfully belongs to him. In the end, all belongs to the Emperor."
 
  BRZ_liberate_our_breathren:0 "Liberate Our Brethren"
