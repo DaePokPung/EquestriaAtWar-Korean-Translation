@@ -45,7 +45,7 @@ greifwald.10.a:0 "마침내."
 
 greifwald.11.t:0 "아퀼레이아의 경제적 구호"
 greifwald.11.d:0 "아퀼레이아와의 긴밀한 경제적 유대는 우리 경제를 서서히 회복시켰습니다. 그러나 많은 그라이프발트 국민들은 아퀼레이아와의 협력이 그라이프발트의 자립을 방해하는게 아니냐는 의문을 제기하고 있습니다."
-greifwald.11.a:0 "아무튼 돈은 좋은게 아니겠다..."
+greifwald.11.a:0 "아무튼 돈은 좋은게 아니겠나..."
 
 greifwald.12.t:0 "경제가 재건되다"
 greifwald.12.d:0 "그라이프발트 국민 모두와 아퀼레이아 동포들의 노력 덕분에 빈곤은 과거의 유산이 되었고, 미래는 밝아만 보입니다!"
@@ -86,7 +86,7 @@ greifwald.20.d:0 "그라이프발트의 경제와 산업은 계속 발전하고 
 greifwald.20.a:0 "우리가 무정부주의가 옳았음을 입증해낸거야!"
 
 greifwald.21.t:0 "엄격한 절약생활"
-greifwald.21.d:0 "그라이프발트의 빈곤은 계속 감소 중이며 실업률은 사상 최저 수준입니다. 할일이 많이 남아있긴 하지만 이정도 노력만으로 충분히 만족할만한 결과를 낼 수 있었습니다."
+greifwald.21.d:0 "그라이프발트의 빈곤층은 계속 감소 중이며 실업률은 사상 최저 수준입니다. 할일이 많이 남아있긴 하지만 이정도 노력만으로 충분히 만족할만한 결과를 낼 수 있었습니다."
 greifwald.21.a:0 "우린 이 시궁창에서 빠져나가고 말 것이다..."
 
 greifwald.22.t:0 "경제 재건"
@@ -248,7 +248,7 @@ AET_madness_calls_desc:0 "[Root.GetMadnessCallsFocusDesc]"
 AET_madness_calls_real:0 "어둠 속의 속삭임..."
 AET_madness_calls_real_desc:0 "복도는 그리폰 건축물이라기엔 너무 자연스럽게 휘어져있고, 벽은 보라색 피를 흘리며, 헛소리같지만 시간마저 거꾸로 흐르는것 같습니다... 마아르라는 자가 자신의 모습을 드러냈으며 오직 에본윙 주교만이 그의 목소리를 들을 수 있습니다. 이건 광기일까요? 혹은 다른 세계의 존재일까요? 사실, 그 둘이 달라보이지는 않습니다만..."
 AET_madness_calls_fake:0 "독립을 위한 투쟁"
-AET_madness_calls_fake_desc:0 "그리펜하임의 불신자들은 너무나 오랫동안 우리를 고통스럽게 했습니다! 우린 어떤 대가를 치루더라도 [Root.GetName]를 주교님 휘하의 자유롭고 경건한 국가로 만들 것입니다!"
+AET_madness_calls_fake_desc:0 "그리펜하임의 불신자들은 너무나 오랫동안 우리를 고통스럽게 했습니다! 우린 어떤 대가를 치르더라도 [Root.GetName]를 주교님 휘하의 자유롭고 경건한 국가로 만들 것입니다!"
 
 
 AET_kill_knights:0 "아크투리우스 기사단 박멸"
@@ -488,7 +488,7 @@ AET_helped_us_out:0 "Helped Us Out"
 sworn_enemies:0 "Sworn Enemies"
 
 ### Cosmetic Tags ###
-AET_makhno_communism:0 "그리포니아 "
+AET_makhno_communism:0 "그리포니아 자유 영토"
 AET_makhno_communism_DEF:0 "그리포니아 자유 영토"
 AET_makhno_communism_ADJ:0 "그리포니아 자유 영토
 AET_imperium_fascism:0 "마아르 제국"
@@ -524,7 +524,7 @@ AET_maarite_blessing_of_war:0 "전쟁의 축복"
 AET_maarite_blessing_of_production:0 "생산의 축복"
 changeling_friends_category:0 "새로운 친구"
 changeling_friends_category_desc:0 "체인질링 왕국의 패배로 인해 위대한 사상가와 장군들, 저명한 산업가들이 망명 길에 올랐습니다. 누군가는 그들을 방랑하는 범죄자 쯤으로 보겠지만... 우리는 기회를 보았습니다. 그들이 진리를 받아들이도록 돕기만 하면 됩니다."
-changeling_friends:0 "진리를 깨우치게끔 하자"
+changeling_friends:0 "진리를 깨우치게끔 하자."
 
 ###Advisors###
 AET_advisor_1:0 "사스키아 스카모이"
