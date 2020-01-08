@@ -119,7 +119,7 @@
 - ![HAU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/9b/Haukland.png/revision/latest/scale-to-width-down/24?cb=20191119214144) `HAU` - 하우크란트
 - ![HEL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/bb/County_of_Adelart.png/revision/latest/scale-to-width-down/24?cb=20191120013120) `HEL` - 아델라트 백국
 - ![HLQ flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/51/Knightly_Order_of_Hellquill.png/revision/latest/scale-to-width-down/24?cb=20180922040133) `HLQ` - 헬퀼 기사단
-- ![HLR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Arcturian_Order.png/revision/latest/scale-to-width-down/24?cb=20180922041522) `HLR` - 악투리언 기사단
+- ![HLR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Arcturian_Order.png/revision/latest/scale-to-width-down/24?cb=20180922041522) `HLR` - 아크투리우스 기사단
 - ![JAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/96/Jaki-Clan.png/revision/latest/scale-to-width-down/24?cb=20191114180721) `JAK` - 재키 부족
 - ![JEB flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Duchy_of_Rila.png/revision/latest/scale-to-width-down/24?cb=20191119204311) `JEB` - 릴라 공국
 - ![JER flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/1e/Kingdom_of_Aquileia.png/revision/latest/scale-to-width-down/24?cb=20180922051737) `JER` - 아퀼레이아 왕국
