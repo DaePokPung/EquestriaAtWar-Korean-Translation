@@ -52,17 +52,28 @@
   - `Earth pony` 어스 포니
 - `Griffon` 그리폰
 - `Changeling` 체인질링
+- `Dragon` 드래곤
 
-## 사상
+## 이념
 - `Harmony` 조화주의 (파시즘, 공산주의랑 구별되는 이념적 의미만으로 보기 애매할 경우 '조화'로 적어도 무방)
 - `Harmonist` 조화주의자
+
+## 국가
+- `Duchy` 공국
+- `County` 백국
+- `Barony` 남국
+- `Principality` 공국
+- `House` 가문
 
 ## 기타
 - `Elements of Harmony` 조화의 원소
 - `Crystal Empire` 크리스탈 왕국(제국 아님, 솜브라가 이끄는 경우 제외 번역 기준)
 
 ## 국가 및 국가코드
-> 국가 코드로 검색할 수 있습니다, 우리말이 아니라면 번역이 안된 것으로 [countries_l_english.yml](localisation/countries_l_english.yml) 파일에서 번역을 진행한 뒤 업데이트 해주세요.
+> 국가 코드로 검색할 수 있습니다, 우리말이 아니라면 번역이 안된 것으로 국가명이 들어있는 다음 파일에서 번역을 진행한 뒤 업데이트 해주세요.
+>- [countries_l_english.yml](localisation/countries_l_english.yml)
+>- [eaw_griffon_continent_countries_l_english.yml](localisation/eaw_griffon_continent_countries_l_english.yml)
+>- 국가별 파일(브론즈힐, 비텐란트, 핑랜드 왕국 등 일부 국가는 국가별 파일에 따로 들어있습니다.)
 
 > 이 부분은 미리 작성된 `wordbook_countries.js` 스크립트를 사용해 번역된 국가 이름만 수정해 쉽게 생성하실 수 있습니다.
 
