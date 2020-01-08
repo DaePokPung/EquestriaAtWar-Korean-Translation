@@ -59,6 +59,8 @@
 - `Harmonist` 조화주의자
 
 ## 국가
+- `State` ~국
+- `Commune` 코뮌
 - `Duchy` 공국
 - `County` 백국
 - `Barony` 남국
