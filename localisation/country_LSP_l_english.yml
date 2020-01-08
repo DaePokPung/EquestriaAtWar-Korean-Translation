@@ -1,9 +1,9 @@
 ﻿l_english:
 
- LSP_neutrality:0 "Las Pegasus"
- LSP_fascism:0 "State of Las Pegasus"
- LSP_communism:0 "Las Pegasus Commune"
- LSP_democratic:0 "Republic of Las Pegasus"
+ LSP_neutrality:0 "라스 페가수스"
+ LSP_fascism:0 "라스 페가수스국"
+ LSP_communism:0 "라스 페가수스 코뮌"
+ LSP_democratic:0 "라스 페가수스 공화국"
  LSP_neutrality_DEF:0 "Las Pegasus"
  LSP_fascism_DEF:0 "The State of Las Pegasus"
  LSP_communism_DEF:0 "The Las Pegasus Commune"
