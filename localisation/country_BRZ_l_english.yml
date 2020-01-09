@@ -1,11 +1,11 @@
 ﻿l_english:
  ### COUNTRYNAME ###
- BRZ_neutrality:0 "브론즈힐 백작령"
- BRZ_fascism:0 "브론즈힐 제국 백작령"
+ BRZ_neutrality:0 "브론즈힐 백국"
+ BRZ_fascism:0 "브론즈힐 제국"
  BRZ_communism:0 "브론즈 코뮌"
  BRZ_democratic:0 "브론즈힐"
- BRZ_neutrality_DEF:0 "브론즈힐 백작령"
- BRZ_fascism_DEF:0 "브론즈힐 제국 백작령"
+ BRZ_neutrality_DEF:0 "브론즈힐 백국"
+ BRZ_fascism_DEF:0 "브론즈힐 제국"
  BRZ_communism_DEF:0 "브론즈 코뮌"
  BRZ_democratic_DEF:0 "브론즈힐"
  BRZ_fascism_ADJ:0 "브론즈힐"
@@ -15,8 +15,8 @@
 
  BRZ_free_fascism:0 "브론즈힐 연방"
  BRZ_free_fascism_DEF:0 "브론즈힐 연방"
- BRZ_kim_communism:0 "브론즈힐 제국 개 백작령"
- BRZ_kim_communism_DEF:0 "브론즈힐 제국 개 백작령"
+ BRZ_kim_communism:0 "브론즈힐 제국 개 백국"
+ BRZ_kim_communism_DEF:0 "브론즈힐 제국 개 백국"
 
 
  ### LEADER DESCRIPTIONS ###
