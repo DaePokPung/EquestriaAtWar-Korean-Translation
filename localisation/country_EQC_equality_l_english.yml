@@ -1,21 +1,21 @@
 ﻿l_english:
  ### FOCUS ###
- EQC_memories_of_our_town:0 "Memories of Our Town"
- EQC_memories_of_our_town_desc:0 "Blueberry Frost was a loyal follower of Starlight Glimmer. Even after Starlight Glimmer was outed as a fraud, she still believed in true equality. With the true meaning of Our Town in our hearts and minds, let us march forwards as one and bring equality to all."
+ EQC_memories_of_our_town:0 "우리 마을의 추억"
+ EQC_memories_of_our_town_desc:0 "스타라이트 글리머의 충실한 추종자였던 블루베리 프로스트는 그가 사기꾼으로 밝혀지고 나서도 평등에 대한 신념을 마음속에 간직해왔습니다. 이제 때가 왔으니, 우리 마을의 참뜻을 가슴에 품고 하나 되어 전진해 평등을 이룩합시다."
  
- EQC_end_private_ownership:0 "End Private Ownership"
- EQC_end_private_ownership_desc:0 "Private Ownership is nothing less than a ruse to divide us, destroying these barriers would give everyone an equal standing. A perfect start to bringing conversation among one another."
+ EQC_end_private_ownership:0 "개인 소유의 종말"
+ EQC_end_private_ownership_desc:0 "개인 소유란 우리를 단절시키려는 책동에 불과합니다. 이를 철폐함으로써 모두가 평등한 지위를 얻음은 물론이고, 그로인해 서로 간의 소통 또한 활발해질 것입니다."
  
- EQC_empower_the_farmers:0 "Equalise the Farmers" 
- EQC_empower_the_farmers_desc:0 "The farmers and Station Owners of the Outback have long been known for their greed as they work many New Marelanders half to death for little pay. It is time we show them the error of their ways and guide them on the path to equality."
+ EQC_empower_the_farmers:0 "농축산업의 평등화" 
+ EQC_empower_the_farmers_desc:0 "오지의 지주와 거대 목장주들은 예로부터 욕심이 많아 다른 농부들을 착취하던 것으로 악명 높았습니다. 이제 우리는 그들에게 자신들의 과오를 목도하게하고, 평등의 길로 인도할 것입니다."
  
- EQC_abolish_the_bit:0 "Abolish the Bit"
- EQC_abolish_the_bit_desc:0 "We've tied our lives to pieces of metals and determine a creature's value with how loud their pouch jingles. The removal of this frivolous concept would free the burden off of creatures. We won't have anyone preyed upon."
+ EQC_abolish_the_bit:0 "화폐 제도 폐지"
+ EQC_abolish_the_bit_desc:0 "우리는 짤랑거리는 금속 조각 따위의 많고 적음이 존재의 가치를 정한다는 그 천박한 개념에 거부를 선언합니다. 이로인해 우리는 그것으로 인해 비롯된 모든 걱정과 부담으로부터 해방될 것입니다."
  
  EQC_equal_road_distribution:0 "Equal Road Distribution"
  EQC_equal_road_distribution_desc:0 "For too long the roads and bridges of New Mareland have served those who live in the cities. It is time we fix this by building roads to all the towns and villages across the nation. For every inch of city asphalt, an inch must be poured for everyone else."
  
- EQC_equal_work:0 "Equal Jobs"
+ EQC_equal_work:0 "직업의 평등화"
  EQC_equal_work_desc:0 "Everyone deserves an equal shot and we won't push aside creatures who's expertise aren't in the job specifications. We work for the same reasons and none will be looked down upon by the uniform they wear." 
  
  EQC_equality_within_reason:0 "Equality Within Reason"
