@@ -7,7 +7,7 @@
 
 #### The Starting Focus
 HLR_final_decree:0 "아크투리아 최후 결정"
-HLR_final_decree_desc:0 "행동해야 한다.\n토리그는 마침내 응당 경계를 취했어야 했던, 동쪽의 언데드 군단으로 구성된 대적의 국가에 대한 문제로 연설을 할 것이다. 토리그는 그의 결정이 드레드 리그의 완전한 종말과 함께 끝마쳐질 것이라 예상하고 있다.\n어두운 그림자가 도사리고 있다."
+HLR_final_decree_desc:0 "행동해야 한다.\n토리그는 마침내 응당 경계를 취했어야 했던, 동쪽의 언데드 군단으로 구성된 대적의 국가에 대한 문제로 연설을 할 것이다. 토리그는 그의 결정이 드레드 리그의 완전한 종말과 함께 끝마쳐질 것이라 예상하고 있다.\n어두운 그림자가 도사리고 있다"
 
 #### Political Tree
 HLR_ring_bells:0 "종이 울리다"
@@ -34,120 +34,120 @@ HLR_Force_Law_desc:0 "기반시설과 개발도 좋지만, 만일 드레드 리�
 HLR_People_Power:0 "대중의 힘"
 HLR_People_Power_desc:0 "아크투리아 기사단의 시민은 더 나은 기반시설과 고용 기회를 가질 자격이 있다.기사단의 추가적인 근대화를 위해, 원로원과 협상한 윌리엄은 시민들의 삶의 질 개선을 위한 네 개의 게획을 진행할 것이다. 아크투리아 시민의 미래가 밝아 보인다."
 
-HLR_Ostvold_Vlad:0 "Elect Headmaster Østwald Vind"
-HLR_Ostvold_Vlad_desc:0 "The time has come to elect the new Headmaster.\n\nØstwald Vind is the only viable candidate. He does not deliberate on the fate of necromancers, they get death and nothing else. His election will follow standard procedure and a parade will be held in the capital.\nMuch will change with the election of Østwald."
+HLR_Ostvold_Vlad:0 "오스트발트 빈트를 기사단장으로"
+HLR_Ostvold_Vlad_desc:0 "신임 기사단장을 뽑을 시간이 되었다.\n\n오스트발트 빈트만이 합당한 후보자이다. 그는 네크로맨서들의 운명에 대해 깊게 고민하지 않는데, 그들의 최후는 죽음 말고 없다 여기기 때문이다. 그의 당선은 일반적 절차를 따랐으며 곧 수도에서 행진이 열릴 것이다.\n오스트발트의 당선으로 많은 것들이 변할 것이다."
 
-HLR_Senate_Debate:0 "Senatorial Debates"
-HLR_Senate_Debate_desc:0 "The senate has been debating over the cabinet which will work along side Østwald Vind after his official election.\n\nIt is time to draw these debates to a close and finalise the positions in the new government. Østwald Vind will want to work alongside like-minded traditionalists when his election finally comes to pass."
+HLR_Senate_Debate:0 "원로원 회의"
+HLR_Senate_Debate_desc:0 "원로원은 오스트발트 빈트의 공신적인 당선 이후 그와 같이 일할 내각 구성에 대한 논의를 하고 있다.\n\n이제 이 논의를 끝마치고 새 정부 구성원의 면모를 확정지어야 한다. 오스트발트 빈트는 그가 당선되었을 때 부터 그와 비슷한 생각을 가진 전통주의자들과 같이 일하기를 원했을 것이다."
 
-HLR_Legacy_High_King:0 "Legacy of the High King"
-HLR_Legacy_High_King_desc:0 "To lead in the present, one must study the past.\n\nØstwald Vind seeks to study the history of the greatest leader the Arcturian Order has ever seen, the late Headmaster Torygg. From this, Østwald hopes continue his legacy of protecting the world from the Dread League, perhaps even deal with the problem himself."
+HLR_Legacy_High_King:0 "상왕의 유산"
+HLR_Legacy_High_King_desc:0 "현시대에서 앞서기 위해선, 과거를 익혀야 하는 법이다.\n\n오스트발트 빈트는 아크투리안 기사단이 맞은 가장 위대한 지도자인,고 토리그 전 기사단장의 과거를 배우려 하고 있다. 오스트발트는 이로써 드레드 리그로부터 이 세상을 지켜냈다는 그의 유산을 이어받고, 어쩌면 그 자신의 문제도 해결할 수 있으리라 기대하고 있다."
 
-HLR_Senate_Funding:0 "Senatorial Funding"
-HLR_Senate_Funding_desc:0 "The senate desires to push their growing concern over Rosa Maledicta of the Dread League to the east. They will support Østwald Vind in his bid to construct more militarily-purposed factories as part of the growing effort to combat the undead tides.\n\nIt will not be enough alone however, as more work needs to be done."
+HLR_Senate_Funding:0 "원로원의 지원"
+HLR_Senate_Funding_desc:0 "원로원은 동쪽에 있는 로자 말레딕타가 이끄는 드레드 리그에 대한 경계를 더 키우기 원한다. 그들은 언데드의 파도로부터 맞써 싸우기 위한 노력의 일환으로 더 많은 군수 공장을 설립하려는 오스트발트 빈트의 노력을 지원할 것이다.\n\n하지만 이것으론 부족할 것이며, 더 많은 노력이 필요할 것이다."
 
-HLR_Guilds:0 "The Guilds"
-HLR_Guilds_desc:0 "Østwald has thought of the benefits of establishing guilds to run production centres around the Holy lands of the Arcturian Order, and has put forth a proposal to see them through. The introduction of guilds into our economy will allow certain sectors to specialise in certain products, allowing for more efficient end results.\nThis will come at the cost of the senate's own idea."
+HLR_Guilds:0 "길드"
+HLR_Guilds_desc:0 "오스트발트는 길드를 설립하므로써 아크투리아 기사단의 성역에 중심 생산지를 구축해 따라올 이익을 생각해 냈고, 이를 진행하자는 제안을 건의했다. 길드 경제 체제의 도입으로 특정 분야의 제품들이 더욱 전문화되어, 더 효율적인 결과를 얻을 수 있을 것이다.\n이는 원로원들의 의견과 합치했다."
 
-HLR_Wiliam_Steel_Beak:0 "Elect Headmaster William Steel Beak"
-HLR_Wiliam_Steel_Beak_desc:0 "The time has come to elect the new Headmaster\n\nWilliam Steel Beak is the only viable candidate. He is a man of the people and believes that anyone can better themselves. His devotion to the people of Arcturia is greater than his devotion to tradition.\nMuch will change with the election of William."
+HLR_Wiliam_Steel_Beak:0 "윌리엄 스틸 빅을 기사단장으로"
+HLR_Wiliam_Steel_Beak_desc:0 "신임 기사단장을 뽑을 시간이 되었다.\n\n윌리엄 스틸 빅만이 합당한 후보자이다. 그는 민중의 대변자이며 누구나 그들 스스로 더 나아질 수 있다고 믿는다. 그의 아크투리아 시민들에 대한 헌신은 전통에 대한 그것보다 훨씬 더 크다.\n윌리엄의 당선으로 많은 것들이 변할 것이다."
 
-HLR_Fortify_The_Border:0 "Fortify The Border"
-HLR_Fortify_The_Border_desc:0 "The Dread League are coming. We must be ready to greet them with as much firepower as we can muster. Our ageing fortifications need to be rebuilt, an we must take advantage of new innovations such as landmines and heavy artillery batteries to further annihilate the undead hosts. Prepare and be ready..."
+HLR_Fortify_The_Border:0 "국경 요새화"
+HLR_Fortify_The_Border_desc:0 "드레드 리전이 오고 있다. 우리는 최대한 모은 화력으로 그들을 맞이할 준비를 해야 한다. 구식이 된 요새들은 재건되어야하고, 언데드들을 격멸하기 위해 지뢰와 대구경 야포 진지와 같은 새로운 혁신의 이점을 취해야 한다. 준비해야 한다..."
 
-HLR_Gather_War_Support:0 "Rally the Knights"
-HLR_Gather_War_Support_desc:0 "Enemies of life hear me. You have come here to be destroyed. The immortal gods are with us and we are invincible. Our soldiers, will strike you down. Our war machines will crush you, under their treads. Our mighty guns will bring the very sky crashing down upon you. You cannot win..."
+HLR_Gather_War_Support:0 "기사 소집"
+HLR_Gather_War_Support_desc:0 "생명의 적들은 들어라. 그대들은 부서지기 위해 이곳에 왔다. 불멸의 신들이 함께하니 우리는 무적일지어다. 우리의 전사들은, 그대를 섬멸할 것이다. 우리의 전쟁 기계들은 궤도로 그대들을 뭉개버릴 것이다. 우리의 포탄은 저 하늘에서부터 그대들을 덮칠 것이다. 그대들은 승리할 수 없을지니..."
 
-HLR_Technological_Investments:0 "Technological Investments"
-HLR_Technological_Investments_desc:0 "In order to ensure our order's survival, we must invest in new ideas and new innovations. We cannot defeat our enemies with nothing but swords and muskets. The world has moved on, and if we do not move with it, we will be left behind."
+HLR_Technological_Investments:0 "기술 투자"
+HLR_Technological_Investments_desc:0 "우리 기사단의 생존을 보장하기 위해, 우리는 새로운 사상과 혁신에 투자해야 한다. 머스켓과 검만으로 우리의 적을 패배시킬 수는 없다. 이 세상은 나아가고 있고 우리가 움직이지 않는다면, 우린 뒤쳐질 것이다."
 
-HLR_Stable:0 "Stable Foundations"
-HLR_Stable_desc:0 "Following the election of William Steel Beak, he called for a meeting with the senate over matters of the local economy. With the economy in tatters following the death of the last Headmaster, William has drawn plans to implement a new economic plan centred around the well-being of the citizens of the Arcturian Order.\nWhat is the point of surviving if you can't live?"
+HLR_Stable:0 "안정적인 기반"
+HLR_Stable_desc:0 "윌리엄 스틸 빅의 당선 이후, 그는 지역 경제에 관한 원로원과의 회의를 주재했다. 지난 기사단장의 죽음 이후로 경제는 엉망이 된 가운데, 윌리엄은 아크투리아 기사단 시민의 행복을 중심으로 한 새로운 경제 정책을 실행할 일련의 계획을 세웠다 .\n살 수 없으면 생존의 의미가 무엇인가?"
 
-HLR_War_Economy:0 "Desperate Measures"
-HLR_War_Economy_desc:0 "Following the election of Østwald Vind, a meeting with the senate and the highest ranking military officials was called. Østwald wishes to rebuild the tattered economy with a focus on the military. The Dread League poses a greater threat than it ever has before, and no chances can be taken. The Arcturian Order must mobilise for war, or face annihilation in the face of Death Itself."
+HLR_War_Economy:0 "극단적 정책"
+HLR_War_Economy_desc:0 "오스트발트 빈트의 당선 이후, 그는 최고위 장성들과 원로원으로 구성된 회의를 주재했다. 오스트발트는 엉망이 된 경제를 군사 우선인 경제로 재건하길 원한다. 드레드 리그는 그 어느 때 보다 거대해진 위협이 되었고, 다른 기회는 없다. 아크투리아 기사단은 전시체제로 전환되거나, 죽음을 직접 마주보며 파멸할 뿐이다."
 
-HLR_Dreads:0 "The Undead Menace"
-HLR_Dreads_desc:0 "The time has come, since the founding of the Arcturian Order the Dread League has plagued the north. War plans have been discussed and deliberated for countless years, these plans have finally been finished. All that is left is to to prepare the nation for war.\n\nFor the first time in history, the living march on the dead."
+HLR_Dreads:0 "언데드의 위협"
+HLR_Dreads_desc:0 "드레드 리그가 북부를 오염시키고, 아크투리안 기사단이 창설됬을 때 부터 예정되었던 시간이 도달했다. 전쟁 계획은 셀수 없는 시간동안 토의하고 고민되었고, 드디어 완성되었다. 남은 것은 이 나라를 전쟁에 대비하도록 준비하는 것 뿐이다.\n\n사상 처음으로, 산자가 죽은 자들을 향해 행진한다."
 
-HLR_Dynasty_Politics:0 "Dynastic Politics"
-HLR_Dynasty_Politics_desc:0 "Our Headmaster can establish a monarchy, the days of relying on the senate to approve of his major policies or actions will be over. The Arcturian Order will become a prospering kingdom, a shining star among those in the frozen north!\n\nOur leader will be the king of this grand new nation!"
+HLR_Dynasty_Politics:0 "왕조화 정책"
+HLR_Dynasty_Politics_desc:0 "기사단장이 왕정을 수립함으로써, 그의 핵심 정책과 활동이 원로원의 허락에 의존하는 시간은 끝났다. 아크투리아 기사단은 부흥하는 왕국이 될 것이며, 혹한의 북부에서 밝게 빛나는 별이 될 것이다!\n\n우리의 지도자는 이 새롭고 위대한 왕국의 왕이 될 것이다!"
 
-HLR_Senate_Negotiations:0 "Negotiate with the Senate"
-HLR_Senate_Negotiations_desc:0 "Our Headmaster can negotiate with the senate the terms of establishing a constitutional monarchy. The senate will not be happy with the surrendering of their powers this action will force upon them, but the days of the undead horde are coming to a close, a new chapter must be written in the long and ancient history of the Order.\nOne without the old Senate."
+HLR_Senate_Negotiations:0 "원로원과의 협상"
+HLR_Senate_Negotiations_desc:0 "기사단장은 원로원과 입헌군주국으로의 변화에 관한 것을 협상할 수 있다. 원로원은 이 행동이 그들에게 강요할 권력의 포기에 만족하지 않을 것이지만, 언데드들의 시대는 끝나가고 있으며, 기사단의 오래된 역사에 새로운 장이 쓰여져야 한다.\n그곳에 구닥다리 원로원은 쓰여지지 않을 것이다."
 
-HLR_A_New_Kingdom:0 "Towards a Brighter Future"
-HLR_A_New_Kingdom_desc:0 "The dust has settled upon the northern land of Arcturia and the Dread Peninsula, the dead having finally been laid to rest. Much needs to be done, the Arcturian Order's only purpose has been fulfilled. We must look towards the future now, as the ghosts of the past no longer defines the paths our future could take us down.\nWe must look down these paths to realise the future."
+HLR_A_New_Kingdom:0 "더 밝은 미래를 향해"
+HLR_A_New_Kingdom_desc:0 "아크투리아와 드레드 반도가 있는 북부 전역에 전화가 가라앉았고, 죽은 자들은 마침내 그들의 자리를 찾았다. 더 많은 것들이 행해져야 하지만, 기사단의 목적은 완수되었다. 과거의 유령들이 멸망이라는 길의 미래로 끌어들일 능력을 잃은 지금, 우리는 미래를 향해 나아가야 한다.\n우리는 훗날을 직시하기 위해 과거를 내려놓아야 한다."
 
 ### Questions
-HLR_questions_foreign_policy:0 "Questions: Foreign Policy"
-HLR_questions_foreign_policy_desc:0 "Though we are not a nation in the traditional sense of the word, diplomacy and a consistent foreign policy are even more important for the Order, considering the threat we face. It's time we figure out exactly what our foreign policy should be like."
+HLR_questions_foreign_policy:0 "질문들: 외교 정책"
+HLR_questions_foreign_policy_desc:0 "우리는 전통적인 의미의 국가는 아니지만, 우리가 직면하고 있는 위협을 고려할 때, 외교와 일관된 외교정책은 기사단에 중요하다. 우리의 외교정책이 어떻게 되어야 하는지 판단해야 할 때다.."
 
-HLR_questions_industrial_policy:0 "Questions: Industrial Policy"
-HLR_questions_industrial_policy_desc:0 "Our industrial situation is...unique, to say the least. With the threat of the Dread League looming over us, our focus has been set on weapons. Perhaps the time has come to change this, allowing greater economic freedom within the Order."
+HLR_questions_industrial_policy:0 "질문들: 산업 정책"
+HLR_questions_industrial_policy_desc:0 "우리의 산업 현황은... 좋게 말해 특이하다 할 정도일 뿐이다.드레드 리그의 위협이 우리를 향해 몰려오고 있으니, 우리의 중점은 무기에 놓여 있다. 어쩌면 기사단에 더 큰 경제적 자유를 동반하는, 변화의 시간이 왔을 지도 모른다."
 
-HLR_questions_peasants_and_nobility:0 "Questions: Peasants and Nobility"
-HLR_questions_peasants_and_nobility_desc:0 "Our Noble Knights have been the ruling class in the Order for centuries. Recently, some new concepts have come up in the senate. Delegating more power to the other classes may prove beneficial, though this must be debated further before we make a choice."
+HLR_questions_peasants_and_nobility:0 "질문들: 농노와 귀족제"
+HLR_questions_peasants_and_nobility_desc:0 "귀족 기사단은 수 세기 동안 기사단의 지배 계급이였다.. 최근, 새로운 개념이 원로원에 등장했다. 다른 계층에 더 많은 권한을 위임하는 것은 효과적이겠지만, 이 선택을 하기 전 더 많은 의논이 이루어져야 한다."
 
-HLR_questions_military:0 "Questions: Military"
-HLR_questions_military_desc:0 "Our military traditions are ancient, having served us well over the centuries. However, with the advent of firearms, it's time to re-examine our military as a whole. Particularly the question of who exactly shall serve is of great importance."
+HLR_questions_military:0 "질문들: 군사"
+HLR_questions_military_desc:0 "우리의 군사적 전통은 오래되었지만, 수 세기 동안 잘 해 왔다. 하지만 총기가 등장하면서 우리 군 전체를 재점검해야 할 시점이 되었다. 특히 누가 복무할 것인가가 가장 중요한 문제이다."
 
-HLR_questions_dread_league:0 "Questions: Dread League"
-HLR_questions_dread_league_desc:0 "The Dread League is the mortal enemy of the Arcturian Order. For centuries, we have stood strong, holding on to our walls and castles, not giving an inch. We will of course continue on this path, protecting all the world from the enemies of life itself. Though perhaps...a different approach is in order."
+HLR_questions_dread_league:0 "질문들: 드레드 리그"
+HLR_questions_dread_league_desc:0 "드레드 리그는 아크투리아 기사단의 최흉의 적이다. 수세기 동안 우리는 한 치의 양보도 하지 않고 벽과 성을 붙들고 사수하였다. 우리는 물론 생명 그 자체의 적들로부터 모든 세계를 보호하면서 이 길을 계속 갈 것이다. 하지만...다른 방법이 있을 수도 있을 것이다."
 
 
 ### A New Dawn
-HLR_New_Horizons:0 "Novum Aurora"
-HLR_New_Horizons_desc:0 "The undead defeated, the new kingdom established, The Kingdom of Arcturia will rise from the cradle of the Order. Gone are the days of fearing the undead, gone are the days of constant vigilance. A new dawn is coming, and our king will be at the head of it. The future is uncertain, but with the Dread League no more, it is the brightest future we could have wished for."
+HLR_New_Horizons:0 "Novum Aurora(새로운 새벽)"
+HLR_New_Horizons_desc:0 "언데드가 패배했고, 새로운 왕국, 아크투리아 왕국은 기사단이라는 요람 속에서 일어설 것이다. 죽은 자들을 두려워하는 날들은 가고, 끝없는 경계의 날도 사라졌다. 새로운 새벽이 오고 있으며, 우리 왕이 그 선두에 서게 될 것이다. 미래는 불확실하지만, 더 이상 드레드 리그가 없기 때문에, 그것은 우리가 원했던 가장 눈부신 미래이다."
 
-HLR_the_war_trials:0 "The War Trials"
-HLR_the_war_trials_desc:0 "Rosa Maledicta was captured after our victory over the Dread League. Her corruption abated by the use of the Shield of Hope. As a result, she is docile, and she seems to regret what she has done. She came to us willingly and allowed herself to be put under arrest. Now her fate is in our hands. Many advocate for her timely execution, but there are others who embrace the pony way and say she should be reformed."
+HLR_the_war_trials:0 "전쟁 재판"
+HLR_the_war_trials_desc:0 "로사 말레딕타는 드레드 리그로부터의 승전 후 붙잡혔다. 그녀의 타락은 희망의 방패의 사용으로 사그라들었다. 그 결과 그녀는 유순해졌고, 자신이 한 일을 후회하는 것 같다. 그녀는 제 발로 우리에게 와 자신을 체포하도록 허락했다. 이제 그녀의 운명은 우리 손에 달렸다. 많은 사람들이 그녀를 즉시 처형하기를 원하지만, 그녀를 포니 방식으로 포용해야 하고 그녀가 갱생할 수 있다 믿는 사람도 있다."
 
-HLR_redeem_rosa:0 "Everypony Can Change..."
-HLR_redeem_rosa_desc:0 "The council have concluded. For her crimes against all life, Rosa Maledicta is to be sentenced to purification. She will be redeemed and cleansed of unholy taint, and she will be taught the error of her ways."
+HLR_redeem_rosa:0 "모든 포니는 변할 수 있지..."
+HLR_redeem_rosa_desc:0 "평의회는 결론을 내렸다. 로사 말레딕타는 모든 생명을 상대로 한 범죄에 대해서 정화를 선고받을 것이다. 그녀는 속죄하고, 불경한 얼룩을 씻을 것이며, 그녀의 방식의 잘못된 점을 배울 것이다."
 
-HLR_kill_rosa:0 "Once a Villain, always a Villain"
-HLR_kill_rosa_desc:0 "The council have concluded. For her crimes against all life, Rosa Maledicta is to be sentenced to death. Her body will be destroyed using the holiest of magics so she may never again rise from her grave. May the gods have mercy on her soul."
+HLR_kill_rosa:0 "한번 악당은 영원한 악당"
+HLR_kill_rosa_desc:0 "평의회는 결론을 내렸다. 로사 말레딕타는 모든 생명을 상대로 한 범죄에 대해 사형을 선고받을 것이다. 그녀의 육신은 가장 성스러운 마법으로 파괴되어 다시는 무덤에서 일어나지 못하게 될 것이다. 신들이 그녀의 영혼에 자비를 베푸기를."
 
-HLR_lessons_of_the_war:0 "Lessons of the War"
-HLR_lessons_of_the_war_desc:0 "There are many lessons to be learnt from our victory over the Dread League. There were systemic failures in our organisation as well as our tools of war. Yet there were also successes that we should learn from. Our generals will begin to dissect every part of the war so we might be better prepared for conflict in the future."
+HLR_lessons_of_the_war:0 "전쟁의 교훈"
+HLR_lessons_of_the_war_desc:0 "드레드 리그로부터의 승리로 많은 교훈을 배웠다. 우리의 전쟁 병기뿐만 아니라 조직에서도 체계적 실패가 있었다. 하지만 우리가 배워야 할 성공도 있었다. 우리의 장군들은 전쟁의 모든 부분을 철저히 살피기 시작할 것이고, 그리하여 우리는 미래의 분쟁에 더 잘 대비할 수 있을 것이다."
 
-HLR_rapid_industrialisation:0 "Rapid Industrialisation"
-HLR_rapid_industrialisation_desc:0 "Our economy has recovered from decades of neglect. Yet, it is still firmly rooted in the past. It is time to construct new roads, invest in trains and large industrial complexes. That way we can call ourselves a proper modern kingdom."
+HLR_rapid_industrialisation:0 "신속한 산업화"
+HLR_rapid_industrialisation_desc:0 "우리 경제는 수십 년간의 무시에서 개선되었다. 그러나, 여전히 과거에 확고히 뿌리를 두고 있다. 이제는 새로운 도로를 건설하고, 기차와 대규모 산업단지에 투자해야 할 때다. 그렇게 해야 우리는 스스로를 진정한 현대 왕국이라고 부를 수 있다."
 
-HLR_science_growth:0 "Scientific Advancement"
-HLR_science_growth_desc:0 "New technologies cannot be completely created ourselves. We must take advantage of the wider world and invite experts from across the globe to instigate a new age of progress"
+HLR_science_growth:0 "과학적 진보"
+HLR_science_growth_desc:0 "새로운 기술은 우리 스스로 완전히 이루어질 수 없다. 우리는 더 넓은 세상을 활용하고 전 세계의 전문가들을 초청하여 새로운 진보의 시대로 나아가야 한다."
 
-HLR_new_heavy_industries:0 "New Heavy Industries"
-HLR_new_heavy_industries_desc:0 "Our lands are teeming with resources that we did not know existed before the modern era. We must take advantage of this and push these resources to market, for mutual profit and development"
+HLR_new_heavy_industries:0 "신식 중공업"
+HLR_new_heavy_industries_desc:0 "우리 땅에는 근대 이전에 존재했었는지 몰랐던 자원이 넘쳐나고 있다. 우리는 이것을 이용하여, 상호 이익과 발전을 위해 이러한 자원을 시장에 내놓아야 한다."
 
-HLR_firm_investments:0 "Firm Investments"
-HLR_firm_investments_desc:0 "It just so happens, due to our relative isolation, we have preserved some of the ancient crafts. These crafts have fallen into mystery for the rest of the world, however they are viewed as antiques and collectable items for those who can afford them. We can exploit this trend, and trade our genuine artisan 'antiques' for knowledge of more modern practices."
+HLR_firm_investments:0 "변치 않음에 투자"
+HLR_firm_investments_desc:0 "우리의 상대적인 고립으로 인해, 우리는 고대의 공예품 일부를 보존했다. 이 공예품들은 세계 대부분의 국가에서는 의문덩어리겠지만, 그 공예품을 살 여유가 있는 사람들에게는 골동품과 수집할 수 있는 물건으로 여겨지고 있다. 우리는 이러한 추세를 이용할 수 있고, 우리의 진정한 장인 '공예'를 보다 현대적인 지식과 교환할 수 있다."
 
 
 
 #### Military
 
-HLR_Reformation:0 "Reform the Armed Forces"
-HLR_Reformation_desc:0 "For the past few centuries, we have fought the undead and occasional raiding bandit group with local militias and landed knights. The world beyond our borders is changing, we must adapt. The requirements for joining the Order's military are being altered, the younger are now eligible for recruitment. Some tradition must be sacrificed to preserve the sacred land of the Twelve Temples."
+HLR_Reformation:0 "군사 개혁"
+HLR_Reformation_desc:0 "지난 몇 세기 동안 우리는 언데드들과 때때로 습격하는 도적떼들에지역 민병대와 지상 기사단으로 대항하였다. 국경 너머의 세계는 변하고 있고, 우리는 적응해야 한다. 기사단 군대의 입대 요건은 변화했고, 젊은이들도 가능하다. 12신전의 성지를 보존하기 위해서는 어떤 전통이 희생되어야 한다."
 
-HLR_Remember:0 "Remembrance of the Past"
-HLR_Remember_desc:0 "Our military history is important, this cannot be stressed enough. Countless years of defending our eastern border against the Dread League have allowed us to hone our skills on killing the undead scourge.\n\nOur military officials should read into both old and new conflicts, perhaps something can be gained from our long history."
+HLR_Remember:0 "과거의 기억"
+HLR_Remember_desc:0 "우리의 군사 전통은 중요하며, 이는 아무리 강조해도 부족하지 않다. 드레드 리그에 대항하여 우리의 동쪽 국경을 셀 수 없는 시간 동안 지켜온 것은 우리에게 죽지 않은 재앙을 죽이는 기술을 연마할 수 있게 해주었다.\n\n 우리 군 관계자들은 오래된 분쟁과 새로운 분쟁 모두를 익혀야 한다. 아마도 우리의 오랜 역사에서 뭔가 얻을 수 있을 것이다."
 
-HLR_Holy_Line:0 "Upon Which The Dead Do Not Cross"
-HLR_Holy_Line_desc:0 "Foul winds blow from the east. Old castles and ancient fortifications are all that lay between us and the Dread League. The senate has ordered the craftsmen and the military to renovate these decrepit buildings. We will stand tall over the walls that overlook the Dread Peninsula, as they are the first and last line of defence against the Dread League. Long may they stand!"
+HLR_Holy_Line:0 "죽은 자들은 넘을 수 없다"
+HLR_Holy_Line_desc:0 "동쪽에서부터 바람이 불어온다. 오래된 성과 고대 요새는 모두 우리와 드레드 리그 사이에 놓여 있다. 원로원은 장인들과 군부에 이 낡아빠진 구조물들을 개조하라고 명령했다. 우리는 드레드 반도를 내려다보는 성벽 위에서 굳건히 서 있을 것이며, 이는 그 성벽이 드레드 리그를 막는 최초이자 최후의 방어선이기 때문이다. 그들이 견뎌내기를!"
 
-HLR_Tap_Rock:0 "Open the Gates of the Tarpeian Rock"
-HLR_Tap_Rock_desc:0 "In the days of old, we could afford to turn away those who sought to journey to the holy lands of Arcturia. The Dread Hordes were always able to be pushed back, but today we face a different story. We must accept these people now, or face being overrun by the encroaching undead hordes now lead by Rosa Maledicta.\nOpen wide the gates of the Tarpeian!"
+HLR_Tap_Rock:0 "타르페이아 바위의 문 개방"
+HLR_Tap_Rock_desc:0 "옛날에는 아크투리아로의 성지순례객들을 돌려보낼 여유가 있었다. 드레드 호드들을 물러나게 할 수 있었지만, 오늘날은 이야기가 달라졌다. 우리는 지금 이 사람들을 받아들여야만 한다. 그렇지 않으면 지금 로사 말레딕타가 이끄는 도처에 매복한 무수한 무리들에 의해 압도당하는 상황에 직면해야 한다.\n타르페이아의 성문을 활짝 열어라!"
 
-HLR_Seal_Faith:0 "Seal Close the Gates of Tarpeian"
-HLR_Seal_Faith_desc:0 "We must not give up faith in ourselves! The Dread League may have hounded us for our entire history, but we need not falter!\n\nWe will always be able to stand against the hordes of the undead that lie to the east! We should close the Tarpeian Rock to all outsiders, as we do not need them to accomplish our sacred duty!"
+HLR_Seal_Faith:0 "타르페이아의 문 봉인"
+HLR_Seal_Faith_desc:0 "믿음이 흔들려서는 안 된다! 드레드 리그는 그동안 계속 우리를 괴롭혀 왔지만, 흔들릴 필요가 없다!\n\n 우리는 항상 동쪽에 존재하는 언데드의 무리들과 맞설 수 있을 것이다! 우리는 타르페이아 바위문을 모든 외부인에게 닫아야 한다. 왜냐하면 우리는 우리의 신성한 의무를 수행하는데 그들이 필요하지 않기 때문이다!"
 
-HLR_Will_Done:0 "In the Grace of the Divine"
-HLR_Will_Done_desc:0 "In the Gods we must trust, for the Gods to trust us.\nOur Holy Knights will be granted the highest of blessings from the Twelve Temples. Their might will be unwavering in the face of death, prowess unmatched by most of our soldiers.\n\nIn the grace of the divine, our soldiers will march upon the dead."
+HLR_Will_Done:0 "신의 은총으로"
+HLR_Will_Done_desc:0 "우리가 신들을 믿음으로써, 우리를 신뢰하실 것이다.\n 우리의 성기사단은 12개의 사원에서 최고의 축복을 받을 것이다. 그들의 힘은 죽음 앞에서 흔들리지 않을 것이고, 어떤 적들도 상대할 수 없을 것이다.\n\n 신의 은총으로 우리 병사들은 죽은 자들을 향해 진군할 것이다."
 
-HLR_For_Might:0 "For Glory!"
-HLR_For_Might_desc:0 "The time has come, brethren of The Holy Arcturian Order, the time to take the war to them!\n\nThe armies of the Arcturian Order will go through new training regimes designed around the sole idea of combating the the growing undead menace! Rosa will see her armies fall to the sword!"
+HLR_For_Might:0 "영광을 위해!"
+HLR_For_Might_desc:0 "신성 아크투리아 기사단의 동지들이여, 전쟁의 때가 왔다!!\n\n 아크투리안 기사단의 군단은 더 커지는 언데드 위협으로부터 대항할 새로운 훈련 방식을 거칠 것이다! 로사는 그녀의 군대가 베어 쓰러지는 것을 목도할 것이다!"
 
 HLR_For_Grace:0 "For the Order!"
 HLR_For_Grace_desc:0 "We must preserve the sanctity of our order! We will not charge blindly into the night when the dead come crawling up the walls! Any soldier of the Order will fight to the last breath, each soldier a bastion from which to defend the living. Each life spent will be a thousand saved.\n\nServe the Arcturian Order, and she shall serve you."
