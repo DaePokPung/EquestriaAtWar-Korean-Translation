@@ -6,33 +6,33 @@
 # Copy-Code: _desc
 
 #### The Starting Focus
-HLR_final_decree:0 "The Final Decree of Arcturia"
-HLR_final_decree_desc:0 "Action must be taken.\nTorygg will address the nation about the undead hordes to the east, the issue of the great enemy will finally receive the attention it deserves. Torygg will see through that his decree ends with the end of the Dread League once and for all.\nDark shadows lurk in the background."
+HLR_final_decree:0 "아크투리아 최후 결정"
+HLR_final_decree_desc:0 "행동해야 한다.\n토리그는 마침내 응당 경계를 취했어야 했던, 동쪽의 언데드 군단으로 구성된 대적의 국가에 대한 문제로 연설을 할 것이다. 토리그는 그의 결정이 드레드 리그의 완전한 종말과 함께 끝마쳐질 것이라 예상하고 있다.\n어두운 그림자가 도사리고 있다."
 
 #### Political Tree
-HLR_ring_bells:0 "The Bell Tolls"
-HLR_ring_bells_desc:0 "Torygg is dead, slain at the hooves of a foreign assassin.\nWe must see to it that the blame for his death does not divide the people, civil unrest this close to the great enemy will be our undoing.\nAll attention is drawn to the east, upon which where the Dread League lies. Headmaster Torygg would have wanted us to do this.\nThe bell tolls for death. To death we shall go."
+HLR_ring_bells:0 "종이 울리다"
+HLR_ring_bells_desc:0 "토리그는 외부의 암살자의 발굽에 살해당했다.\n우리는 이를 직시함으로써 그의 죽음에 대한 책임공방이 국민들을 분열시키지 않도록 해야 하는데, 이는 우리의 지척에 있는 대적 앞에서의 사회 불안은 치명적이기 때문이다.\n모든 관심이 드레드 리그가 있는 동쪽으로 쏠렸다. 토리그 기사단장은 이를 원했을 것이다.\n망자를 위해 종은 울린다. 망자를 위해 우리는 움직여야 한다."
 
-HLR_headmaster_succession:0 "A Matter of Succession"
-HLR_headmaster_succession_desc:0 "We must look to the future, two successors exist to take his place.\nØstwald Vind the Traditionalist, and William Steel Beak the man of the people. A choice must be made if we are to continue protecting these holy lands, each successor will define the Order decades to come.\n\nSpe Futuri Praepara Pessimus."
+HLR_headmaster_succession:0 "계승 문제"
+HLR_headmaster_succession_desc:0 "우리는 미래를 보아야 하며, 그의 자리에 두 후보가 있다.\n전통주의자인 오스트발트 빈트와, 민중의 대변자인 윌리엄 스틸 빅이 그 후보다. 우리가 이 성역을 수호하기 위해서 선택을 해야 하니, 각 후계자는 향후 수십년 간의 기사단을 정의해야 한다..\n\nSpe Futuri Praepara Pessimus."
 
-HLR_Pop_Choice:0 "Favour the People"
-HLR_Pop_Choice_desc:0 "Choosing to favour the people, the senate will favour William Steel Beak over Østwald Vind.\n\nThe popular choice William believes that the first concern of the Order is within. Strife must be quelled if death itself is to be held back."
+HLR_Pop_Choice:0 "민중의 뜻을 듣다"
+HLR_Pop_Choice_desc:0 "민중을 지지함으로써, 원로원은 오스트발트 빈트 대신 윌리엄 스틸 빅을 지지할 것이다 .\n\n전도유망한 윌리엄은 기사단이 먼저 신경써야 할 것은 기사단 내부라 믿는다. 죽음을 물러서게 하려면, 내부 갈등이 먼저 해소되어야 한다."
 
-HLR_Senate_Choice:0 "Favour the Senate"
-HLR_Senate_Choice_desc:0 "The Senate must look within if seeks to plan forward, Tradition and Justice must prevail over all else. Such a choice would favour Østwald Vind Over William Steel Beak.\n\nThe Stoic Traditionalist Østwald believes in the preservation of Arcturian Scripture, which a majority of the senate devoutly reveres."
+HLR_Senate_Choice:0 "원로원의 뜻을 듣다"
+HLR_Senate_Choice_desc:0 "원로원은 앞으로의 계획을 위해 자신을 돌아보았고, 전통과 정의가 최우선되어야 한다고 결론지었다. 그 결정은 윌리엄 스틸 빅 보다 오스트발트 빈트를 지지할 것이다.\n\n신실한 믿음을 지닌 원로원 구성원 다수는 금욕적 전통주의자인 오스트발트가 아크투리우스의 성전을 수호할 수 있다고 여긴다."
 
-HLR_People_Choice:0 "The People's Choice"
-HLR_People_Choice_desc:0 "Having favoured the people over the senate's drive to keep tradition, the populace has started supporting William Steel Beak as the candidate for Torygg's replacement. The senate is being pressured into electing William, or be faced with unneeded civil unrest.\n\nArcturian Traditions will still be preserved."
+HLR_People_Choice:0 "민중의 선택"
+HLR_People_Choice_desc:0 "전통을 지키려는 원로원의 의지를 꺾은 민중의 지지는, 대중이 토리그의 후임에 윌리엄 스틸 빅이 뽑히도록 지원하는 현상을 불러왔다. 원로원은 윌리엄을 뽑거나, 아니면 불필요한 사회적 불안에 직면할 것이란 압력을 받고 있다.\n\n아크투리아의 전통은 계속 유지될 것이다."
 
-HLR_Senate_Deliberate:0 "The Senate Deliberates"
-HLR_Senate_Deliberate_desc:0 "The senate is being pressured by the people to favour William Steel Beak. An effort can be made to force the senate to consider him as the next Headmaster. As William is liked among the military, this action would greatly improve their outlook on life.\n\nThe support for William Steel Beak grows."
+HLR_Senate_Deliberate:0 "원로원의 숙고"
+HLR_Senate_Deliberate_desc:0 "원로원은 윌리엄 스틸 빅을 뽑으라는 대중의 압박을 받고 있다. 그가 다음 기사단장으로 뽑히도록 원로원을 압박하는 활동이 가능해졌다. 군부가 윌리엄을 지지하므로, 이 행동은 그들의 영향력을 크게 강화시킬 것이다.\n\n윌리엄 스틸 빅에 대한 지지가 증가하고 있다."
 
-HLR_Force_Law:0 "The Word of Law"
-HLR_Force_Law_desc:0 "Infrastructure and development are nice, but ultimately fruitless should the Dread League succeed.\n\nTo prepare for the growing threat and reassure the senate, William Steel Beak has proposed a series of military reforms and exercises."
+HLR_Force_Law:0 "법문"
+HLR_Force_Law_desc:0 "기반시설과 개발도 좋지만, 만일 드레드 리그가 승리한다면 결론적으로 아무 의미가 없다.\n\n증가하는 위협에 대처하고 원로원을 안심시키기 위해, 윌리엄 스틸 빅은 일련의 군사 개혁과 훈련을 제안했다."
 
-HLR_People_Power:0 "Power of the People"
-HLR_People_Power_desc:0 "The citizens of the Arcturian Order deserve better infrastructure and employment. In an effort to further modernise the holy order, William in conjunction with the senate, will put forth plans to improve the lives of their people.\n\nThe future is looking bright for the citizens of Arcturia."
+HLR_People_Power:0 "대중의 힘"
+HLR_People_Power_desc:0 "아크투리아 기사단의 시민은 더 나은 기반시설과 고용 기회를 가질 자격이 있다.기사단의 추가적인 근대화를 위해, 원로원과 협상한 윌리엄은 시민들의 삶의 질 개선을 위한 네 개의 게획을 진행할 것이다. 아크투리아 시민의 미래가 밝아 보인다."
 
 HLR_Ostvold_Vlad:0 "Elect Headmaster Østwald Vind"
 HLR_Ostvold_Vlad_desc:0 "The time has come to elect the new Headmaster.\n\nØstwald Vind is the only viable candidate. He does not deliberate on the fate of necromancers, they get death and nothing else. His election will follow standard procedure and a parade will be held in the capital.\nMuch will change with the election of Østwald."
