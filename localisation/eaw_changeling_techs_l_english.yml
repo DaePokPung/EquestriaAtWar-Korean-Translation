@@ -5,7 +5,7 @@
  changeling_folder_desc:0 "체인질링 종족의 특수 마법 기술입니다."
  TITLE_CHANGELING_JAGER_SUBTITLE:0 "경보병"
  TITLE_CHANGELING_DEVELOPMENT_SUBTITLE:0 "전쟁 연구개발"
- ME_INFILTRATOR_TOOLTIP:0 "\n£unit_infiltrator_company_icon_small 침투 분대는 §Y보병 장비§W 대신 §Y마법 보병 장비§W를 필요로 합니다."
+ ME_INFILTRATOR_TOOLTIP:0 "\n£unit_infiltrator_company_icon_small 침투 중대는 §Y보병 장비§W 대신 §Y마법 보병 장비§W를 필요로 합니다."
  
  #### Changeling Race Title
  changeling_race:0 "체인질링 종족"
@@ -41,18 +41,18 @@
  tech_changeling_c3_desc:0 "마법탄의 발명은 막을 수 없는 흐름이었습니다. 이 흐름은 더 강한 폭발, 더 효율적인 포격, 더 위협적인 공군으로까지 이어집니다."
  
  #### Infiltrator Title
- infiltrator_company:0 "침투 분대"
+ infiltrator_company:0 "침투 중대"
  
  #### Infiltrator
- tech_infiltrators:0 "침투 분대"
- tech_infiltrators_desc:0 "침투 분대는 적진에 침투하기 위해 훈련된 소규모 체인질링 무리입니다. 이들은 적진에 혼란과 불신을 심고 다니며 그들의 정보를 캐는 일을 합니다."
+ tech_infiltrators:0 "침투 중대"
+ tech_infiltrators_desc:0 "침투 중대는 적진에 침투하기 위해 훈련된 소규모 체인질링 무리입니다. 이들은 적진에 혼란과 불신을 심고 다니며 그들의 정보를 캐는 일을 합니다."
  
  ## Strategic Path: Country modifiers
  tech_infiltrators_di:0 "전략적 침투"
- tech_infiltrators_di_desc:0 "Favouring large scale infiltration, the strategic infiltration doctrine will allow  infiltration companies to covertly suppress rebellious groups of individuals. It also details the proper way to scout the enemy."
+ tech_infiltrators_di_desc:0 "대규모 침투에 영향을 미치는 전략적 침투 교리는 침투 중대가 저항세력을 암암리에 억제할 수 있게 합니다. 또한 적을 정찰하기 위한 적합한 방법도 제시해 줍니다."
  
  tech_infiltrators_di2:0 "카멜레온 시계"
- tech_infiltrators_di2_desc:0 "침투 분대에게 보급할 마법 시계를 개발해 냈습니다. 이 물건에는 초보적인 수준의 투명화 기술이 적용되어 있어 공중 정찰로부터 몸을 숨길 수도 있습니다. 근거리의 적을 속이는 건 어렵겠지만요."
+ tech_infiltrators_di2_desc:0 "침투 중대에게 보급할 마법 시계를 개발해 냈습니다. 이 물건에는 초보적인 수준의 투명화 기술이 적용되어 있어 공중 정찰로부터 몸을 숨길 수도 있습니다. 근거리의 적을 속이는 건 어렵겠지만요."
  
  tech_infiltrators_di3:0 "첩보망"
  tech_infiltrators_di3_desc:0 "전 세계를 무대로 하는 첩보망을 구축해서 적국의 정보를 수집해야 합니다. 첩보망이 촘촘할수록 점령지를 관리하기도 용이해 질 것입니다."
@@ -62,16 +62,16 @@
  
  ## Tactical Path: Infiltrator improvements
  tech_infiltrators_si:0 "전술적 침투"
- tech_infiltrators_si_desc:0 "신속한 의사결정과 즉각적인 효과를 추구하는 침투 교리는 침투 분대가 하는 모든 활동의 효율을 증대시킬 것입니다."
+ tech_infiltrators_si_desc:0 "신속한 의사결정과 즉각적인 효과를 추구하는 침투 교리는 침투 중대가 하는 모든 활동의 효율을 증대시킬 것입니다."
  
  tech_infiltrators_si2:0 "표적 각인"
- tech_infiltrators_si2_desc:0 "침투는 빠르게, 표적은 정확하게, 수습은 깔끔하게. 침투 분대는 효율적으로 목표를 달성해야 합니다."
+ tech_infiltrators_si2_desc:0 "침투는 빠르게, 표적은 정확하게, 수습은 깔끔하게. 침투 중대는 효율적으로 목표를 달성해야 합니다."
  
  tech_infiltrators_si3:0 "혼돈, 혼란, 은폐"
- tech_infiltrators_si3_desc:0 "체인질링 침투 분대는 적들의 후방에 혼란을 뿌리는 법을 훈련받아야 합니다."
+ tech_infiltrators_si3_desc:0 "체인질링 침투 중대는 적들의 후방에 혼란을 뿌리는 법을 훈련받아야 합니다."
  
  tech_infiltrators_si4:0 "사회공학 훈련"
- tech_infiltrators_si4_desc:0 "침투 분대원들은 포니처럼 행동하고, 포니처럼 말하는 법을 배워야 합니다. 이 훈련은 임무 수행 중 어쩔 수 없이 포니들에게 이득이 되는 행동을 해야하는 상황이 오더라도 태연히 해내는 체인질링 침투 분대원을 키워내기 위한 훈련입니다."
+ tech_infiltrators_si4_desc:0 "침투 중대원들은 포니처럼 행동하고, 포니처럼 말하는 법을 배워야 합니다. 이 훈련은 임무 수행 중 어쩔 수 없이 포니들에게 이득이 되는 행동을 해야하는 상황이 오더라도 태연히 해내는 체인질링 침투 중대원을 키워내기 위한 훈련입니다."
  
  #### Infiltration Title
  infiltrator_tech:0 "침투 기술"
