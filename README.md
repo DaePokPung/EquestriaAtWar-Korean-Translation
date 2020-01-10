@@ -67,9 +67,14 @@
 - `Principality` 공국
 - `House` 가문
 
+## 장소
+- `Griffenheim` 그리펜하임
+- `Herzland` `Heartsland` 헤르츠란트
+- `Scheißwald` 샤이스발트
+
 ## 기타
 - `Elements of Harmony` 조화의 원소
-- `Crystal Empire` 크리스탈 왕국(제국 아님, 솜브라가 이끄는 경우 제외 번역 기준)
+- `Crystal Empire` 크리스탈 왕국(제국 아님, 솜브라가 이끄는 경우 제외. 번역 기준)
 
 ## 국가 및 국가코드
 > 국가 코드로 검색할 수 있습니다, 우리말이 아니라면 번역이 안된 것으로 국가명이 들어있는 다음 파일에서 번역을 진행한 뒤 업데이트 해주세요.
@@ -85,7 +90,7 @@
 - ![AVI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/57/House_Avian.png/revision/latest/scale-to-width-down/24?cb=20180826161919) `AVI` - 아비안 가문
 - ![BAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/5c/Bakara.png/revision/latest/scale-to-width-down/24?cb=20191119200720) `BAK` - 바카라
 - ![BAN flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b7/Blackrock_Bandits.png/revision/latest/scale-to-width-down/24?cb=20180922041957) `BAN` - 블랙락 도적단
-- ![BAR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/f/ff/Barrad_Magocracy.png/revision/latest/scale-to-width-down/24?cb=20181013051712) `BAR` -  Barrad Magocracy
+- ![BAR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/f/ff/Barrad_Magocracy.png/revision/latest/scale-to-width-down/24?cb=20181013051712) `BAR` -  바라드 마권정부
 - ![BOI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b1/Kingdom_of_Griffinstone.png/revision/latest/scale-to-width-down/24?cb=20180922040831) `BOI` - 그리핀스톤 왕국
 - ![BRF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/c9/Kingdom_of_Brodfeld.png/revision/latest/scale-to-width-down/24?cb=20180922044703) `BRF` - 브로드펠트 왕국
 - ![BRZ flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/ef/County_of_Bronzehill.png/revision/latest/scale-to-width-down/24?cb=20191119202042) `BRZ` - 브론즈힐 백국
@@ -110,8 +115,8 @@
 - ![FLO flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/66/City_of_Flowena.png/revision/latest/scale-to-width-down/24?cb=20191126194056) `FLO` - 플로웨나 시
 - ![FRE flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b5/Ponaidhean.png/revision/latest/scale-to-width-down/24?cb=20191119220124) `FRE` - 포나이드헨
 - ![FRN flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/c9/County_of_Franmistria.png/revision/latest/scale-to-width-down/24?cb=20191119202550) `FRN` - 프란미스트리아 백국
-- ![GFF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/cf/Griffon_Frontier.png/revision/latest/scale-to-width-down/24?cb=20180922043901) `GFF` - 그리핀
-- ![GRF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/0/06/Nova_Griffonia.png/revision/latest/scale-to-width-down/24?cb=20190905183249) `GRF` - 그리포니아
+- ![GFF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/cf/Griffon_Frontier.png/revision/latest/scale-to-width-down/24?cb=20180922043901) `GFF` - 그리폰 프론티어
+- ![GRF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/0/06/Nova_Griffonia.png/revision/latest/scale-to-width-down/24?cb=20190905183249) `GRF` - 노바 그리포니아
 - ![GRI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/18/Griffonian_Empire.png/revision/latest/scale-to-width-down/24?cb=20191120014612) `GRI` - 그리포니아 제국
 - ![GRU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/11/Free_Towns_of_Gryphus.png/revision/latest/scale-to-width-down/24?cb=20191119212351) `GRU` - 그리폰 프론티어
 - ![GRW flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/4/45/Griffon_Liberation_Army.png/revision/latest/scale-to-width-down/24?cb=20180922042358) `GRW` - 그리폰 해방군
