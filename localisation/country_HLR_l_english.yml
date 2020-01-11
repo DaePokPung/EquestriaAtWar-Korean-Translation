@@ -150,7 +150,7 @@ HLR_For_Might:0 "영광을 위해!"
 HLR_For_Might_desc:0 "신성 아크투리아 기사단의 동지들이여, 전쟁의 때가 왔다!!\n\n 아크투리안 기사단의 군단은 더 커지는 언데드 위협으로부터 대항할 새로운 훈련 방식을 거칠 것이다! 로사는 그녀의 군대가 베어 쓰러지는 것을 목도할 것이다!"
 
 HLR_For_Grace:0 "규율을 위해!"
-HLR_For_Grace_desc:0 우리는 규율의 신성함을 지켜야 한다! 우리는 망자들이 벽을 기어오를 때 어둠 속으로 맹목적인 돌격을 하지 않을 것이다! 기사단의 어떤 군인이라도 최후의 순간까지 싸울 것이며, 각 병사는 살아 있는 사람들을 방어하는 보루로 삼을 것이다. 하나의 생명이 천명의 목숨을 구할 수 있을 것이다.\n\n 아크투리안 기사단을 수호하면, 기사단 또한 그대들을 도울 것이다."
+HLR_For_Grace_desc:0 "우리는 규율의 신성함을 지켜야 한다! 우리는 망자들이 벽을 기어오를 때 어둠 속으로 맹목적인 돌격을 하지 않을 것이다! 기사단의 어떤 군인이라도 최후의 순간까지 싸울 것이며, 각 병사는 살아 있는 사람들을 방어하는 보루로 삼을 것이다. 하나의 생명이 천명의 목숨을 구할 수 있을 것이다.\n\n 아크투리안 기사단을 수호하면, 기사단 또한 그대들을 도울 것이다."
 
 HLR_For_Faith:0 "신앙을 위해!"
 HLR_For_Faith_desc:0 "우리의 위대한 종교는 드레드의 위협에 무너지고, 우리의 거룩한 신들은 로사 맬레딕타와 그녀의 자질구레한 책략에 의해 위협받을 것이다! 우리는 이런 일이 일어나도록 허락하지 않을 것이다. 우리는 망자들의 무리들이 가하는 어떤 강압 아래서도 믿음을 잃지 않을 것이다.\n\n 우리의 믿음을 지탱하는 그 신앙을 지킬 때가 왔다!"
@@ -225,7 +225,7 @@ HLR_Unification_desc:0 "우리는 많은 희생을 치루어 마침내 드레드
 
 ###PI Economic Focuses
 HLR_buildup_industry:0 "해외 전문가들"
-HLR_buildup_industry_desc:0 우리의 산업기반은 다른 나라보다 훨씬 뒤떨어져 있다. 다행히도, 우리가 바퀴를 재발명하지는 않아도 된다. 대신, 원로원은 은 산업화를 통한 신속한 도약을 위해 최근에 해방된 드레드 반도의 자산을 해외 인재들을 고용하는 데 사용할 것을 제안했다."
+HLR_buildup_industry_desc:0 "우리의 산업기반은 다른 나라보다 훨씬 뒤떨어져 있다. 다행히도, 우리가 바퀴를 재발명하지는 않아도 된다. 대신, 원로원은 은 산업화를 통한 신속한 도약을 위해 최근에 해방된 드레드 반도의 자산을 해외 인재들을 고용하는 데 사용할 것을 제안했다."
 
 HLR_new_industry:0 "반도 경제 재활성화"
 HLR_new_industry_desc:0 "리그의 몰락으로 드레드 반도의 많은 상점들이 비었고, 버려진 산업 자산들이 넘쳐난다.\n\원로원은 이런 버려진 재산을 확보하고 재활용을 위한 담당 부서를 [HLR.GetName]을 위해 설립하기로 결정했다."
@@ -273,153 +273,153 @@ HLR_infantry_modern_desc:0 "검은 대대로 군의 장비로 취급되었으며
 HLR_motorized:0 "차량화 혁명"
 HLR_motorized_desc:0 "우리의 엘리트 기사들조차 하루에 50킬로미터 이상을 기동할 수 없었다. 그러나, 트럭의 출현과 함께, 이 50킬로미터의 한계는 새로운 전쟁의 시대를 열면서 산산조각이 날 것이라는 큰 희망이 생겨 났다."
 
-HLR_artillery:0 "A New Bombard"
-HLR_artillery_desc:0 "Artillery has proven to be a devastating weapon of war and has been used to great effect by the industrial nations of the planet. However, before we can create a proper artillery doctrine, we must first upgrade our existing cannons into something more fitting for modern conflicts.\n\nFor starters, we should adopt shells. They are apparently all the rage."
+HLR_artillery:0 "신식 대포"
+HLR_artillery_desc:0 "포병대는 전쟁의 파괴적인 무기임이 증명되었고 산업화된 국가에서 큰 효과를 거두었다. 그러나 제대로 된 포병 교리를 만들기 전에 먼저 기존의 대포들을 현대 분쟁에 더 적합한 것으로 업그레이드해야 한다.\n\n 일단, 포탄의 채택부터 시작한다. 분명히 대유행이다."
 
-HLR_land_doctrine:0 "New Knightly Doctrines"
-HLR_land_doctrine_desc:0 "In the last war we used shield walls, archery volleys, and musket barrages.\n\nObviously, these tactics need to be revised before we find ourselves at war again."
+HLR_land_doctrine:0 "신식 기사단 전술"
+HLR_land_doctrine_desc:0 "지난 전쟁에서 우리는 방패 벽, 활쏘기, 머스킷 일제사를 사용했다.분명히, 이 전술들은 우리가 다시 전쟁에 돌입하기 전에 수정될 필요가 있다."
 
-HLR_scientific_breakthrough:0 "Establish the Torygg Military Academy"
-HLR_scientific_breakthrough_desc:0 "Our kingdom's research base is incredibly small, depressing what little scientific advancement we can muster. In order to address this, the senate has called for the establishment of a military academy which will both develop doctrine while supply research space to weapons and equipment development."
+HLR_scientific_breakthrough:0 "토리그 사관학교 설립"
+HLR_scientific_breakthrough_desc:0 "우리 왕국의 연구시설은 믿을 수 없을 정도로 작고, 우울할 정도로 적은 과학적 발전을 이뤄냈다. 원로원은 이를 해결하기 위해 무기와 장비 개발을 위한 연구 공간을 공급하는 동시에 교리를 발전시킬 사관학교 설립을 요구했다."
 
-HLR_mech:0 "Combined Claws"
-HLR_mech_desc:0 "It is hoped that with the development of half-tracks, we can finally create a proper armoured doctrine and adopt the advantages of Changeling war doctrine."
+HLR_mech:0 "컴바인드 클로"
+HLR_mech_desc:0 "하프 트랙의 개발로 마침내 적절한 기갑 교리를 만들어 체인질링 전쟁 교리의 장점을 채택할 수 있기를 희망한다."
 
-HLR_scientific_advancements:0 "A New General Staff"
-HLR_scientific_advancements_desc:0 "Our investment into the Torygg Military Academy is already paying dividends, producing the seeds of a new general staff.\n\nOur senate is incredibly impressed by this accomplishment and would like to provide further funding to expand the Academy and its research facilities."
+HLR_scientific_advancements:0 "신식 총참모부"
+HLR_scientific_advancements_desc:0 "토리그 사관학교에 대한 우리의 투자는 이미 성과를 보이고 있으며, 신식 총참모부의 기초를 구성하고 있다.\n\n 원로원은 이 성과에 놀라울 정도로 감명받았고, 사관학교 및 예하 연구 시설을 확장하기 위해 더 많은 자금을 제공하기를 원한다."
 
 ###PI Political - Harmony (AKA the one with the really hot gryphon.)
-HLR_Harmony:0 "The Holy Constitution"
-HLR_Harmony_desc:0 "It was through change and adaptation that we overcame our millennium of conflict. So, it is only fitting that we continue to cement the values of harmony by drafting a constitution supporting the freedoms of speech, assembly, politics, and expression. Though, unlike other harmony-leaning kingdoms, we should be conveniently silent on the freedom of worship."
+HLR_Harmony:0 "신성 헌법"
+HLR_Harmony_desc:0 "우리가 천년의 갈등의 세월을 극복한 것은 변화와 적응을 통해서였다. 그래서 우리가 연설, 집회, 정치, 표현의 자유를 지지하는 헌법을 입안함으로써 조화의 가치를 계속 공고히 하는 것은 당연한 결과이다. 그러나 다른 화합을 지향하는 왕국들과는 달리 우리는 예배의 자유에 대해서는 단순히 침묵을 유지해야 한다."
 
-HLR_Friend_neighbors:0 "Our Place in the World"
-HLR_Friend_neighbors_desc:0 "For generations we were left detached from the world at world. This left us completely isolated when we needed assistant in our struggle for survival.\n\nNow that we can stand firmly on our own four legs, it is time to return to the international community."
+HLR_Friend_neighbors:0 "세계에서의 우리의 위치"
+HLR_Friend_neighbors_desc:0 "대대로 우리는 세계로부터 고립되어 있었다. 이것은 우리가 생존을 위한 투쟁에서 지원이 필요했을 때 우리를 완전히 고립시켰다.\n\n이제 우리 스스로 네 발로 단단히 설 수 있게 되었으니 이제 국제사회에 복귀해야 할 때다."
 
-HLR_our_faction:0 "The Holy League"
-HLR_our_faction_desc:0 "Centuries ago, our Holy Order was under siege, driving us to our most desperate hour. However, when things looked bleakest an army crested the horizon and slammed into the Dread League's rear, shattering them.\n\nIt has been a long time since this victory, but the memory of the Holy League is still fresh in our minds."
+HLR_our_faction:0 "신성 동맹"
+HLR_our_faction_desc:0 "수세기 전, 기사단이 포위되어 가장 절망적인 시기가 왔었다. 그러나 가장 암울했던 때에 군대가 지평선에 올라 드레드 리그의 후방을 들이받으며 산산조각을 냈다.\n\n이 승리 이후 오랜 시간이 흘렀지만, 신성 동맹의 기억은 아직도 우리 마음속에 생생하다."
 
-HLR_sunstriker_peace:0 "Invitation to Sunstriker"
-HLR_sunstriker_peace_desc:0 "While the lands held by the Sunstriker Clan are modest in terms of population and industry, they hold several potential benefits. The first is the rich mineral and gem deposits in the north, which could fuel our industry in the event of blockade. The second, is the heavily mountainous terrain which, if brought in line with out faction, will be very helpful in defending against southern aggression."
+HLR_sunstriker_peace:0 "선스트라이커 초대"
+HLR_sunstriker_peace_desc:0 "선스트라이커 클랜이 보유하고 있는 땅은 인구와 산업 면에서는 소박하지만, 몇 가지 잠재적 이익을 가지고 있다. 첫째는 북쪽의 풍부한 광물과 보석 퇴적물로서, 봉쇄당했을 시에 산업의 연료가 되어 줄 수 있다. 둘째는, 만약 동지로써 같은 전선에서 싸우게 된다면, 남쪽의 침략을 방어하는데 매우 도움이 될 산악 지형이다."
 
-HLR_watertowns_peace:0 "Invitation to the Council"
-HLR_watertowns_peace_desc:0 "To our south lays the Watertowns, a confederation of small townships aligned under the banner of communism. While we have no love for this philosophy, it does leave Watertown in a precarious situation, wedged between unfriendly regimes. If we exploit this weakness we can pressure them into our alliance while also shoring up our south-eastern flank."
+HLR_watertowns_peace:0 "평의회 초대"
+HLR_watertowns_peace_desc:0 "우리 남쪽에는 공산주의라는 기치 아래 한데 모인 작은 마을들의 연합체인 워터타운이 있다. 우리는 이 철학에 대한 애정은 없지만, 그 철학은 워터타운을 비우호적인 적대 정권들에 끼어 있는 위태로운 상황으로 만들었다. 만약 우리가 이 약점을 이용한다면, 우리는 그들을 우리의 동맹으로 압박할 수 있을 뿐만 아니라 우리의 남동쪽 측면도 강화시킬 수 있을 것이다."
 
-HLR_northerntribes_peace:0 "Invitation to Fiana"
-HLR_northerntribes_peace_desc:0 "To our west lies the Northern Tribes, a kingdom ruled by [NTR.GetLeader]. An alliance with them would be highly attractive. Their capital, Everfrost, is the second largest city in the north, offering a wealth of industry. Their terrain is dense with forests and hills, offering a very defensible situation. Lastly, their monarch is aligned with harmonic values, meaning they are a natural ally."
+HLR_northerntribes_peace:0 "피아나 초대"
+HLR_northerntribes_peace_desc:0 "우리의 서쪽엔 [NTR.GetLeader]에 의해 통치되는 왕국인 북부 부족이 있다. 그들과의 동맹은 매우 매력적일 것이다. 그들의 수도인 에버프로스트(Everfrost)는 북쪽에서 두 번째로 큰 도시로, 풍부한 산업력을 제공한다. 그들의 지형은 숲과 언덕으로 빽빽해서 매우 방어하기 유리한 상황을 제공한다. 마지막으로 그들의 군주는 조화주의적 가치를 좋아하는데, 이는 그들이 타고난 동맹 대상이라는 것을 의미한다."
 
-HLR_convert_maar_supporters:0 "The Second Holy League"
-HLR_convert_maar_supporters_desc:0 "Now that our alliances are properly cemented, volunteers from abroad have begun to flood in. This fresh ponypower provides us the means to form a second Holy League in the image of the first.\n\nHowever, the new recruits also come from lands with a wide range of radically different ideologies, which is proving to be a problem."
+HLR_convert_maar_supporters:0 "2차 신성 동맹"
+HLR_convert_maar_supporters_desc:0 "우리의 동맹이 제대로 굳어진 지금, 해외에서 온 지원자들이 쇄도하기 시작했다. 이 신선한 포니파워는 1차의 이미지를 보존한 제2의 신성 동맹을 형성할 수 있는 의의를 우리에게 제공한다.\n\n하지만, 신병들은 급진적인 다른 이념을 가진 땅 출신이어서 문제가 되고 있다."
 
 ###PI Political - Non-Aligned (Aka the one with the less hot gryphon)
-HLR_Nonallign:0 "Re-Affirming Our Beliefs"
-HLR_Nonallign_desc:0 "It may have taken a millennium but we have finally done it. Our devotion to the holy text has allowed us to finally overcome the Dread League and instil complete control over their accursed peninsula.\n\nFor now, we will celebrate. However, what will the future hold for a military order with no foes to fight?"
+HLR_Nonallign:0 "우리의 믿음을 재확인하다"
+HLR_Nonallign_desc:0 "1천년이 걸렸을지 모르지만 우리는 마침내 그것을 해냈다. 복음에 대한 우리의 헌신은 마침내 우리가 드레드 리그를 극복하고 그들의 저주받은 반도에 대한 완전한 지배권을 심어줄 수 있게 해주었다.\n\n 일단, 우리는 축하할 것이다. 그러나 싸울 적도 없는 무장 기사단을 위해 앞으로 어떤 일이 벌어질 것인가?"
 
-HLR_rallying_for_war:0 "Revenge"
-HLR_rallying_for_war_desc:0 "In the past, the griffon world stood united in their support of our cause. However, as time crawled on, these kingdoms began to abandon us one by one, until we stood alone.\n\nIt is time to return to our former brothers and teach them the price of treason."
+HLR_rallying_for_war:0 "복수"
+HLR_rallying_for_war_desc:0 "과거에 그리폰 세계는 우리의 대의를 지지하기 위해 단결했다. 그러나 시간이 흐를수록 이 왕국들은 우리가 홀로 설 때까지 하나둘씩 우리를 버리기 시작했다.\n\n 이제 옛 형제들에게 돌아가 반역죄의 대가를 가르쳐야 할 때다."
 
-HLR_war_Sunstriker:0 "Mountain Expedition"
-HLR_war_Sunstriker_desc:0 "In 561, Erik Sunstriker fell in battle, aiding our knights against the Dread League. His son, also known as Erik, soon ascended to the throne and his reign would mark the end of all future support from his lands to our order.\n\nIt is now time to collect what we're owed."
+HLR_war_Sunstriker:0 "산악 원정"
+HLR_war_Sunstriker_desc:0 "561년 에릭 선스트라이커는 드레드 리그에 대항하여 우리 기사들을 도우며 전투 중에 쓰러졌다. 에릭으로도 알려진 그의 아들은 곧 왕위에 올랐고 그의 통치기간 동안 그들의 땅에서 기사단으로 왔어야 할 모든 지원은 종말을 맞았다 .\n\n 이제 우리가 빚진 것을 거둬들일 시간이다."
 
-HLR_war_Watertowns:0 "Ending the Council"
-HLR_war_Watertowns_desc:0 "To our southeast lies the Watertowns, a loose collection of townships aligned under the banner of communism. Communism as a philosophy is hostile to our noble nature and would stop at nothing to undermine our order.\n\nWe must strike and snuff out their supposed revolution."
+HLR_war_Watertowns:0 "평의회를 종결시키다"
+HLR_war_Watertowns_desc:0 "우리의 남동쪽에는 공산주의라는 기치 아래 한데 모인 느슨한 마을들의 집합체인 워터타운이 있다. 철학으로서의 공산주의는 우리의 고귀한 본성에 적대적이며 우리의 질서를 훼손하기 위해 어떤 일도 멈추지 않을 것이다.\n\n 우리는 그들의 예상된 혁명을 진압해야 한다."
 
-HLR_war_Northern_tribes:0 "Subjugating the Tribes"
-HLR_war_Northern_tribes_desc:0 "The Northern Tribes did not exist when our holy mission was first bestowed upon us. However, once the tribes had been unified they stood idle as our knights perished protecting them.\n\nNow that the League is finished, we have every right to occupy Fiana's lands and extract our payment."
+HLR_war_Northern_tribes:0 "부족들을 복종시키다"
+HLR_war_Northern_tribes_desc:0 "우리의 성스러운 임무가 처음으로 우리에게 주어졌을 때 북부 부족은 존재하지 않았다. 하지만, 부족들이 통일되고 나서, 그들은 우리 기사들의 보호를 받으며 지켜보기만 할 뿐이였다.\n\n 이제 동맹이 끝났으므로, 우리는 피아나의 땅을 점령하고 대가를 받을 수 있는 모든 권리를 갖게 되었다."
 
-HLR_purge_heratics:0 "Purge The Heretics"
-HLR_purge_heratics_desc:0 "The lands we've recently conquered hold a considerable population of Maar supporters, especially within the former lands of the Sunstriker Clan. This religion is an upfront to our order and can not be allowed to exist. For our own good, we must purge those who worship this false idol."
+HLR_purge_heratics:0 "이단 정화"
+HLR_purge_heratics_desc:0 "우리가 최근에 정복한 땅은 마아르의 지지자들, 특히 과거 선스트라이커 클랜의 땅 안에 상당한 신도가 존재하고 있다. 이 종교는 우리 질서의 대적자이며 존재하도록 허락할 수 없다. 우리의 대의를 위해, 이 가짜 우상을 숭배하는 자들을 숙청해야 한다."
 
-HLR_finish_north:0 "The Great Northern War"
-HLR_finish_north_desc:0 "While the Sunstrikers, Northern Tribes, and Watertowns all betrayed us, they were not alone in this.\n\nIt is now time to make a move against the largest of these traitors and bring them under our direct control. That way we can assure that there resources are properly managed."
+HLR_finish_north:0 "대북방 전쟁"
+HLR_finish_north_desc:0 "선스트라이커, 북부 부족, 워터타운이 모두 우리를 배신했지만, 그들은 이 일에서 혼자가 아니었다.\n\n 이제 이 반역자들 중 가장 큰 반역자들을 상대로 조치를 취해서 그들을 우리의 직접 통제하에 둘 차례다. 그렇게 함으로써 우리는 그곳의 자원이 적절하게 관리되고 있다는 것을 확신할 수 있다."
 
-HLR_gains_cores:0 "A Holy Empire"
-HLR_gains_cores_desc:0 "The lands we rule are recently conquered and their citizens show little loyalty to our authority. To address this, our senate wishes to federate the lands into a series of petty kingdoms. On paper, this sounds similar to what has ailed the Griffonian Empire for centuries. However, our petty kingdoms will act more lie governorships with kings appointed by the eEmperor rather than some hereditary system."
+HLR_gains_cores:0 "신성 제국"
+HLR_gains_cores_desc:0 "우리가 통치하는 땅은 최근에 정복되었고 그들의 시민들은 우리의 권위에 대한 충성심을 거의 보이지 않는다. 이 문제를 해결하기 위해, 원로원은 그 땅을 일련의 작은 왕국들로 연합체로 구성하기를 원한다. 서류상으로는, 이것은 수세기 동안 그리포니아 제국을 괴롭혔던 것과 비슷하게 들린다. 하지만, 우리의 소규모 왕국들은 세습 체계가 아닌 황제가 임명한 왕의 체제를 기반으로 더 많은 통제를 받을 것이다."
 
-HLR_Build_army:0 "An Imperial Army"
-HLR_Build_army_desc:0 "Our newly federated kingdoms find it easier to recruit from the local populace, due to the perception that these 'kingdom' armies are somehow autonomous of the Holy Imperial Army. However, this couldn't be farther from the truth. These recruits may believe they are serving a local lord, but in reality, they pledge allegiance to the Emperor and the Emperor alone."
+HLR_Build_army:0 "제국군"
+HLR_Build_army_desc:0 "우리의 새로 연합된 왕국들은 이 '왕실' 군대들이 어떻게든 신성 제국군과 독립적이라는 인식 때문에 지역 민중들로부터 모집하는 것이 더 쉽다는 것을 깨달았다. 하지만, 이것은 더 이상은 진실이 아니다. 이들 신병들은 현지 영주를 섬기고 있다고 생각할지 모르지만, 실제로는 황제와 황제에게만 충성을 맹세한다."
 
 ###PI Naval Tree (Snoreeeeee)
-HLR_dock_yards:0 "The Royal Shipyard"
-HLR_dock_yards_desc:0 "For centuries our order has ignored the potential benefits of a navy. However, with our victory we have now discovered how vulnerable we are to blockades and naval invasions.\n\nTo address this, our senate has called for the establishment of a Royal Shipyard in Magehold."
+HLR_dock_yards:0 "왕립 조선소"
+HLR_dock_yards_desc:0 "수세기 동안 기사단은은 해군의 잠재적인 이익을 무시해 왔다. 하지만 승리 이후 이제 우리가 얼마나 봉쇄와 해군의 침략에 취약한지 알게 되었다.\n\n 이것을 해결하기 위해, 원로원은 메이지홀드에 왕립 조선소를 설립할 것을 요구해 왔다."
 
-HLR_battleship:0 "Hofschroer Doctrine"
-HLR_battleship_desc:0 "Due to the limited scope of our naval infrastructure we need to focus our build up efforts either around battleships or carriers.\n\nMinister of Navy Agnis Hofschroer, favours the construction of battleships, believing that carrier plans cannot hold up under the harsh northern weather."
+HLR_battleship:0 "호프슈뢰어 계획"
+HLR_battleship_desc:0 "우리의 해군 기반 시설은 한정되어 있기 때문에 우리는 전함 혹은 항모 둘 중 하나에 집중해야 한다.해군 장관인 아그니스 호프슈뢰어는 혹독한 북방의 날씨에 항모 계획은 적합하지 않다고 믿고, 전함 건조에 찬성한다."
 
-HLR_carrier_focus:0 "Enterprise Doctrine"
-HLR_carrier_focus_desc:0 "Due to the limited scope of our naval infrastructure we need to focus our build up efforts either around battleships or carriers.\n\nAdmiral Lofty Enterprise, favours the construction of carriers, pointing towards their revolutionary role within the Equestrian Navy as a chief example of their benefits."
+HLR_carrier_focus:0 "엔터프라이즈 계획"
+HLR_carrier_focus_desc:0 "우리의 해군 기반 시설은 한정되어 있기 때문에 우리는 전함 혹은 항모 둘 중 하나에 집중해야 한다.\n\로프티 엔터프라이즈 제독은 항모를 선호하며, 이퀘스트리아 해군 내에서 그들의 혁명적인 역할을 항모의 이점의 주요 사례로 꼽았다."
 
-HLR_dock_yards2:0 "Expansion of the Royal Shipyard"
-HLR_dock_yards2_desc:0 "If we wish to have a navy which can rival our foes, then we must first construct the proper infrastructure to support it. In order to achieve this, our senate has released a sizeable chunk of emergency funding to help expand the existing naval facilities in Magehold."
+HLR_dock_yards2:0 "왕립 조선소 증축"
+HLR_dock_yards2_desc:0 "만약 우리가 적에 맞설 수 있는 해군을 갖기를 원한다면, 우리는 먼저 해군을 지원할 적절한 기반시설을 건설해야 한다. 이를 달성하기 위해 원로원은 기존의 메이지홀드 해군 시설을 확장하는 것을 돕기 위해 엄청난 규모의 긴급 예산 지출을 편성했다."
 
-HLR_doctrine_buff:0 "His Majesty's Naval Academy"
-HLR_doctrine_buff_desc:0 "We've built the facilities, we've selected a flagship, and now it's time to actually begin developing a combat effective doctrine.\n\nTo achieve this, the senate has called for the immediate establishment of a naval college in Magehold to train new officers and bring together the brightest minds in naval tactics."
+HLR_doctrine_buff:0 "왕립 해군사관학교"
+HLR_doctrine_buff_desc:0 "시설을 지었고, 기함을 선택했으니, 이제는 실제로 전투에 효과적인 교리 개발을 시작해야 할 시점이다.\n\n 이를 위해 원로원은은 새로운 장교들을 양성하고 해군 전술에서 가장 영리한 인재를 모으기 위해 즉각 메이지홀드에 해군사관학교을 설립할 것을 요구해 왔다."
 
 ###PI Air Tree
-HLR_air_training:0 "Rethinking the Wing"
-HLR_air_training_desc:0 "We're griffons, and griffons fly. However, the modern world has created machines which fly faster, carry more weapons, and dish our far more damage then any lone griffon could ever hope to muster.\n\nThis revolution in flying may seem jarring at first. However, if we wish to survive in this strange world, then we need to adapt."
+HLR_air_training:0 "날개를 다시 떠올리다"
+HLR_air_training_desc:0 "우린 그리폰이고 그리폰은 날아다닌다. 하지만, 현대 세계는 더 빨리 날고, 더 많은 무기를 운반하고, 훨씬 더 많은 피해를 주는 기계를 만들어냈으며, 그것은 단 한명의 그리폰이 최대한으로 힘을 모은 것 보다 더 큰 일을 해낼 수 있다.\n\n 이 비행에서의 혁명은 처음에는 거슬리는 것처럼 보일지도 모른다. 하지만, 만약 우리가 이 낯선 세계에서 살아남기를 원한다면, 우리는 적응할 필요가 있다."
 
-HLR_Bomber_effort:0 "Death from Above"
-HLR_Bomber_effort_desc:0 "It wasn't so long ago that death was a personal act, committed at the end of our knight's swords. However, bombers are a recent development which allow a small crew to kill from a very impersonal altitude of a few thousand metres.\n\nThis is the horror of modern war."
+HLR_Bomber_effort:0 "하늘에서의 죽음"
+HLR_Bomber_effort_desc:0 "죽음은 얼마 전까지만 해도 우리 기사의 칼끝에서 일어난 개인적인 행동이었다. 그러나 폭격기는 최근 몇 천 미터의 매우 비인격적인 고도에서 소수의 대원들이 실행할 수 있도록 한 개발품이다.\n\n 이것은 현대전의 공포다.."
 
-HLR_fighter_effort:0 "The New Knights"
-HLR_fighter_effort_desc:0 "Around our best pilots have risen a certain celebrity status, with people worshipping them like the heroes of folklore. Other kingdoms may call them aces but, to us, they are knights.\n\nAnd while many things change, our commitment to giving our knights the best equipment has stayed true."
+HLR_fighter_effort:0 "새로운 기사"
+HLR_fighter_effort_desc:0 "우리 최고의 조종사들은 주변의 사람들이 민담 속의 영웅처럼 그들을 숭배하는 덕에, 유명인의 범주에 올랐다. 다른 왕국들은 그들을 에이스라고 부를지 모르지만, 우리에게 그들은 기사들이다.\n\nn 많은 것들이 변화하고 있지만, 우리 기사들에게 최고의 장비를 제공하겠다는 우리의 약속은 지켜져 왔다."
 
-HLR_aiports:0 "Air Arcturian"
-HLR_aiports_desc:0 "Air Arcturian is a crown corporation established to provide flights between the major settlements of our kingdom. An extension of this mission is to construct, expand, and maintain runways across the land. While this mission is civilian in nature, these runways can be claimed during wartime and used by military craft."
+HLR_aiports:0 "아크투리안 항공"
+HLR_aiports_desc:0 "아크투리안 항공(Air Arcturian)은 우리 왕국의 주요 정착지 사이를 비행하기 위해 설립된 국영기업이다. 기업의 임무는 육지를 가로질러 활주로를 건설하고 확장하고 유지하는 것이다. 본래 민간 기업이지만, 이 활주로는 전시 중에 징발될 수 있고, 민항기는 군용기로 활용될 수 있다."
 
-HLR_CAS_effort:0 "Angels from Above"
-HLR_CAS_effort_desc:0 "A tank approaches an infantry unit on the plains near Chloeland. These foot soldiers are left helpless against the approaching brute. Yet a quick thinking officer uses his radio to call for help and within five minutes a buzzing can be heard. A moment passes before the angel breaks the fog and unleashes its payload upon our enemy."
+HLR_CAS_effort:0 "상공의 천사들"
+HLR_CAS_effort_desc:0 "탱크 한 대가 클로에랜드 인근 평원에 있는 보병부대에 접근한다. 이 보병들은 다가오는 짐승에게 속수무책으로 당하고만 있다. 그러나 생각이 빠른 장교는 그의 라디오를 사용하여 도움을 요청하고 5분 이내에 윙윙거리는 소리가 들린다. 찰나의 시간이 지나고 천사가 안개를 깨고 적에게 무장을 발사한다."
 
-HLR_Air_doctrine:0 "Spindle's Flying School"
-HLR_Air_doctrine_desc:0 "Our air force has grown greatly in the past few years, both in terms variety and size.\n\nIn order to address this change, our military has asked Air Marshall Ewe Spindle to establish a flight academy in Pondwatch, allowing for the training of future pilots and the development of doctrine."
+HLR_Air_doctrine:0 "스팽글의 비행학교"
+HLR_Air_doctrine_desc:0 "우리의 공군은 다양성과 규모 면에서 지난 몇 년 동안 크게 성장했다.\n\n 이런 변화를 다루기 위해 우리 군은 공군 장교인 에웨 스팽글에게 폰드워치에 비행학교를 설립해 미래의 조종사들의 훈련과 교리의 개발을 허용해 줄 것을 요청했다."
 
 ###Windigo Boss Fight
-HLR_boss_fight:0 "The Last Battle"
-HLR_boss_fight_desc:0 "The danger we face is enormous, so our own efforts must be enormous as well. To defeat the Wendigo menace once and for all, we will need help from outside our own borders. Until we can be reinforced, we must hold out against the Northern Storm."
+HLR_boss_fight:0 "최후의 전투"
+HLR_boss_fight_desc:0 "우리가 직면하는 위험은 거대하므로우리의 노력 또한 거대해야 한다. 웬디고의 위협을 완전히 물리치기 위해서는 국경 밖에서의 도움이 필요할 것이다. 우리가 강화될 수 있을 때까지, 우리는 북폭풍을 견뎌야 한다.."
 
-HLR_emergency_telegram:0 "Emergency Telegrams"
-HLR_emergency_telegram_desc:0 "Today we fight not for just one nation, one people, no. Today, we fight for all of Griffonia, and we cannot win this struggle on our own. It's time to call upon our neighbours and ask them for the help we so desperately need."
+HLR_emergency_telegram:0 "비상 전보"
+HLR_emergency_telegram_desc:0 "오늘날 우리는 단지 한 나라, 한 민족만을 위해 싸우는 것이 아니다. 전혀 아니다. 오늘날 우리는 그리포니아 모두를 위해 싸우며, 우리 스스로만으론 이 투쟁에서 이길 수 없다. 이제 우리 이웃들을 방문해서 우리가 절실히 필요로 하는 도움을 요청할 시간이다."
 
-HLR_emergency_reinforcements:0 "Emergency Reinforcements"
-HLR_emergency_reinforcements_desc:0 "We are in urgent need of more soldiers to man our garrison and hold the tide against the Wendigo menace. All our reserves must be sent to reinforce our army immediately, and an urgent conscription drive must be implemented for us to hold out."
+HLR_emergency_reinforcements:0 "긴급 충원"
+HLR_emergency_reinforcements_desc:0 "우리는 우리의 수비대를 무장시키고 웬디고의 위협에 대항하기 위해 더 많은 병사가 시급하다. 우리의 모든 비축물자를 즉시 보내어 아군을 보강해야 하며, 우리가 버티기 위해서는 긴급 징병이 시행되어야 한다."
 
-HLR_all_in_this_together:0 "Viribus Unitis!"
-HLR_all_in_this_together_desc:0 "We stand stronger and more united now than we ever have before. Now it is time for the last battle, for the ultimate test of our might, courage and discipline. We are all in this together, and with our force united we can finish the fight once and for all."
+HLR_all_in_this_together:0 "Viribus Unitis!(모두 단결하여!)"
+HLR_all_in_this_together_desc:0 "우리는 그 어느 때보다도 더 강하고 단결해 있다. 이제 우리의 힘, 용기와 규율의 궁극적인 시험을 위한 마지막 전투를 위한 시간이다. 우리는 모두 함께 이 일에 참여하고 있고, 우리의 힘이 하나로 뭉치면 우리는 한 번에, 그리고 영원히 싸움을 끝낼 수 있다.."
 
 
 ###Deal with the Devil
-HLR_Dealing_With_The_Devil:0 "A Deal with Death Itself"
-HLR_Dealing_With_The_Devil_desc:0 "The Dread League is our mortal enemy since time immemorial. It was always going to come down to a holy war between us and them...although there may yet be another option. Across the border, in the League's blighted lands live people...ponies, griffons...perhaps it may yet be possible to pacify the League peacefully."
+HLR_Dealing_With_The_Devil:0 "죽음과의 협상"
+HLR_Dealing_With_The_Devil_desc:0 "드레드 리그는 태고적부터 우리의 치명적인 적이다. 그것은 항상 우리와 그들 사이의 성전으로 귀결될 것이었다...아직 다른 방법이 있을지도 모른다. 국경을 넘어 리그의 황폐한 땅에 사는 존재들...포니, 그리폰...아마도 그것은 리그와의 평화가 아직은 가능하다는 증거일 지도 모른다."
 
-HLR_more_in_common_than_you_think:0 "Opposites attract?"
-HLR_more_in_common_than_you_think_desc:0 "For so long have we been focused on our rivalry with the Dread League, we never bothered to look deeper...in the end, we are not so dissimilar from each other. Especially the League's leader, Rosa Maledicta, is very intriguing in her views and style of leadership. We must seek some sort of accommodation with the League."
+HLR_more_in_common_than_you_think:0 "극과 극은 통하나?"
+HLR_more_in_common_than_you_think_desc:0 "오랫동안 우리는 드레드 리그와의 경쟁관계에 집중해왔고, 우리는 결코 더 깊이 들여다보려고 하지 않았다.결국, 우리는 서로 그렇게 다르지 않다. 특히 리그의 지도자인 로사 말레딕타의 견해와 지도 방식에 매우 흥미를 느낀다. 우리는 리그와의 어떤 형태이든지 간에 협상을 준비해야 한다."
 
-HLR_our_dread_soverign:0 "Our Dread Sovereign"
-HLR_our_dread_soverign_desc:0 "For two long have we suffered under the corrupt and decadent leadership of the so called Arcturian Order. Her Majesty Rosa Maledicta has so much more to offer us all...it's time for us to swear fealty to our new Dread Sovereign."
+HLR_our_dread_soverign:0 "드레드 자치령"
+HLR_our_dread_soverign_desc:0 "둘은 모두 소위 아크투리안 기사단이라는 부패하고 퇴폐적인 지도 하에서 고통을 받아왔다. 여왕 로사 말레딕타는 우리 모두에게 더 많은 것을 제안했다... 이제 우리가 우리의 새로운 드레드 자치령에게 충성을 맹세할 때이다."
 
-HLR_this_is_not_the_way_rosa:0 "A Better Way"
-HLR_this_is_not_the_way_rosa_desc:0 "The leader of the Dread League, Rosa Maledicta, is not a ghoul, a skeleton or some other unholy abomination. She is a pony, and ponies are known for their love of friendship and harmony...surely she can be no different? There must be a way to show her a better way..."
+HLR_this_is_not_the_way_rosa:0 "더 나은 방법"
+HLR_this_is_not_the_way_rosa_desc:0 "드레드 리그의 지도자인 로사 말레딕타는 구울도, 스켈레톤도, 다른 어떤 모독적인 이물도 아니다. 그녀는 포니이고, 포니는 우정과 조화에 대한 사랑으로 알려져 있다...확실히 그녀는 다를 수 없는가? 그녀에게 더 나은 방법을 보여줄 방법이 있을 것이다..."
 
-HLR_friendship_magic:0 "Friendship is Magic!"
-HLR_friendship_magic_desc:0 "Today, we have all learned that friendship truly is magic. The Dread League and its leader, Rosa Maledicta, have agreed to peacefully integrate into the Holy Order proper, giving themselves up for purification. This is truly a momentous occasion, never in a thousand years would anyone have seen this coming."
+HLR_friendship_magic:0 "우정은 마법같다!"
+HLR_friendship_magic_desc:0 "오늘날, 우리 모두는 우정이 정말 마술이라는 것을 배웠다. 드레드 리그와 지도자인 로사 말레딕타는 자신을 정화하면서 평화롭게 기사단에 통합하기로 합의했다. 이것은 정말 중대한 사건이다, 천 년 동안 아무도 이런 일이 일어나는 것을 보지 못했을 것이다.."
 
 ############################FLAGS.
 
-HLR_New_Economy_Flag:0 "The Arcturian order has rebuilt its economy"
-HLR_Dread_Attack_Flag:0 "Fighting has broken out among the Arcturian Order and the Dread League"
-HLR_Reformed:0 "The Arcturian Order has reformed into a kingdom"
-HLR_learned_from_the_war:0 "The Order has learned from it's experiences in the war"
-HLR_Industry_Getting_Up_To_Standard:0 "Industry has been brought up to modern standards"
-HLR_Science_Back_On_Track: "Science in the Order has been re-invigorated"
-HLR_Done_Trial:0 "The Trial of Rosa has been completed"
-HLR_Investigation_Sent:0 "The investigation has been launched"
-HLR_Dealing_With_The_Devil_Flag:0 "Diplomacy has been initiated"
-HLR_more_in_common_than_you_think_flag:0 "The Arcturians feel positive towards the Dread League"
-HLR_this_is_not_the_way_rosa_flag:0 "Rosa has doubts about herself"
-HLR_Windego_Attack_Flag:0 "The enemy of all life have revealed themselves"
-HLR_windego_defeated:0 "The Windigo menace has been crushed"
-HLR_rosa_sentenced:0 "Rosa has been sentenced to death"
-HLR_rosa_saved:0 "Rosa has been given a second chance"
+HLR_New_Economy_Flag:0 "아크투리아 기사단은 경제를 재건하고 있다"
+HLR_Dread_Attack_Flag:0 "아크투리아 기사단과 드레드 리그 간의 전쟁이 발발했다"
+HLR_Reformed:0 "아크투리안 기사단은 왕국으로 개혁되었다"
+HLR_learned_from_the_war:0 "기사단은 전쟁으로부터의 교훈을 배웠다"
+HLR_Industry_Getting_Up_To_Standard:0 "산업이 현대적으로 전환되었다"
+HLR_Science_Back_On_Track: "기사단의 과학이 재활성화되었다"
+HLR_Done_Trial:0 "로자의 재판이 종결되었다"
+HLR_Investigation_Sent:0 "조사가 시작되었다"
+HLR_Dealing_With_The_Devil_Flag:0 "외교가 시작되었다"
+HLR_more_in_common_than_you_think_flag:0 "아크투리아가 드레드 리그에 우호적이 되다"
+HLR_this_is_not_the_way_rosa_flag:0 "로자는 그녀 스스로 의심하고 있다"
+HLR_Windego_Attack_Flag:0 "모든 생명의 적이 모습을 드러내다"
+HLR_windego_defeated:0 "웬디고의 위협이 종결되다"
+HLR_rosa_sentenced:0 "로사가 처형되다"
+HLR_rosa_saved:0 "로사는 두번째 기회를 얻다"
 
 
 ############################################
@@ -428,90 +428,90 @@ HLR_rosa_saved:0 "Rosa has been given a second chance"
 
 ### advisors
 
-hlr_army_chief:0 "Desider Lance"
-hlr_high_command1:0 "Pine Cone"
-hlr_high_command2:0 "Dru Conian"
-hlr_high_command3:0 "Blade Edge"
-hlr_air_chief:0 "Ewe Spindle"
-hlr_navy_chief:0 "Agnis Hofschroer"
+hlr_army_chief:0 "디사이더 랜스"
+hlr_high_command1:0 "파인 콘"
+hlr_high_command2:0 "드루 코니안"
+hlr_high_command3:0 "블레이드 엣지"
+hlr_air_chief:0 "에웨 스팽글"
+hlr_navy_chief:0 "아그니스 호프슈레어"
 
 ### civilian advisors
 
-hlr_theorist:0 "Sansgwiet Demnaschen"
-hlr_political_1:0 "Pyrwetiat Eqolien"
-hlr_political_2:0 "Benschosch Harhmclaw"
-hlr_political_3:0 "Agnar Breakbeak"
+hlr_theorist:0 "장스그비에트 뎀나이쉔"
+hlr_political_1:0 "피르웨티아트 에콜리엔"
+hlr_political_2:0 "벤호슈 하름클로"
+hlr_political_3:0 "아그나르 브레이크빅"
 
 
 ####### Ideas
 
 ## political
-HLR_Anarchy_Idea:0 "Chaos"
-HLR_Anarchy_Idea_desc:0 "With Headmaster Torygg dead, the nation has erupted into anarchy."
+HLR_Anarchy_Idea:0 "혼돈"
+HLR_Anarchy_Idea_desc:0 "토리그 기사단장 사후, 나라는 무정부상태가 되었다."
 
-HLR_Recovery1_Idea:0 "A new Headmaster"
-HLR_Recovery1_Idea_desc:0 "With a new Headmaster in power, the Arcturian Order can finally start putting the country back together."
+HLR_Recovery1_Idea:0 "신임 기사단장"
+HLR_Recovery1_Idea_desc:0 "새로운 기사단장이 권력을 잡으면서 아크투리아 기사단은 마침내 나라를 다시 하나로 묶을 수 있게 되었다."
 
-HLR_Recovery2_Idea:0 "New Economic Plan"
-HLR_Recovery2_Idea_desc:0 "[HLR.GetLeader] has put forth a new economic plan. This is his defining policy and will shape the future."
+HLR_Recovery2_Idea:0 "새로운 경제 계획"
+HLR_Recovery2_Idea_desc:0 "[HLR.GetLeader] 은/는 새로운 경제 계획을 구성했다. 이것은 그의 확고한 정책이며 미래를 구성할 것이다."
 
-HLR_HighKingLegacy_Idea:0 "Torygg's Legacy"
-HLR_HighKingLegacy_Idea_desc:0 "The Headmaster has studied Torygg's legacy, from this he has learned of ides to apply."
+HLR_HighKingLegacy_Idea:0 "토리그의 유산"
+HLR_HighKingLegacy_Idea_desc:0 "기사단장은 토리그의 유산을 연구하였고, 이로써 적용할 만한 아이디어를 배웠다."
 
-HLR_PeoplePower_Idea:0 "The Power of the People"
-HLR_PeoplePower_Idea_desc:0 "Through the Headmaster's choices, the senate has felt pressured by the people to support their choices."
+HLR_PeoplePower_Idea:0 "민중의 힘"
+HLR_PeoplePower_Idea_desc:0 "기사단장의 선출에 대해서, 원로원은 민중의 선택을 지지하라는 압력을 받고 있다."
 
-HLR_Guilds_Idea:0 "The Guilds"
-HLR_Guilds_Idea_desc:0 "Guilds will oversee the functioning of factories. Thanks to the Headmaster's plan, they will aid us considerably."
+HLR_Guilds_Idea:0 "길드"
+HLR_Guilds_Idea_desc:0 "길드는 공장의 기능을 감독할 것이다. 기사단장의 계획 덕분에, 이는 우리를 상당히 도울 것이다."
 
-HLR_Dreads_Incoming_Idea:0 "Impending Doom - The Dread Tide"
-HLR_Dreads_Incoming_Idea_desc:0 "The Dread League is upon us, we must see to our defences and secure our eastern borders."
+HLR_Dreads_Incoming_Idea:0 "임박한 종말 - 드레드의 파도"
+HLR_Dreads_Incoming_Idea_desc:0 "드레드 리그가 다가오고 있다. 우리는 우리의 방어를 강화하고, 우리의 동쪽 경계를 확보해야 한다."
 
-HLR_new_kingdom_idea:0 "A New Kingdom Rises"
-HLR_new_kingdom_idea_desc:0 "From the ashes of war, Arcturia will be reborn as a new kingdom."
+HLR_new_kingdom_idea:0 "새로운 왕국의 부상"
+HLR_new_kingdom_idea_desc:0 "전쟁의 재로부터 아크투리아는 새로운 왕국으로 다시 태어날 것이다."
 
 ## military
-holy_order:0 "Holy Order"
-holy_order_desc:0 "Older than the Archons and even the idea of an united Griffonian Empire, the Arcturian Holy Order is a knightly brotherhood devoted exclusively towards containing the ghouls, necromancers and other horrors from the Dread League. Their skill in melee is unmatched, their knights are numerous and hardy, and their devotion is eternal."
+holy_order:0 "신성 기사단"
+holy_order_desc:0 "아르콘보다 오래되고 심지어 통합된 그리포니아 제국이라는 이념보다도 더 오래된 아크투리아 기사단은 드레드 리그에서 온 구울과 네크로맨서들 그리고 다른 공포들을 통제하는 데만 전념하는 형제 기사단이다. 그들의 근접전 솜씨는 비길 데 없고, 그들의 기사들은 무수하고 단단하며, 그들의 헌신은 영원하다."
 
-HLR_Fortify_Border_Idea:0 "Fortify The Border"
-HLR_Fortify_Border_Idea_desc:0 "The Dread League are coming. Our ageing fortifications need to be rebuilt, an we must take advantage of new innovations such as landmines and heavy artillery batteries to further annihilate the undead hosts. Prepare and be ready..."
+HLR_Fortify_Border_Idea:0 "국경 요새화"
+HLR_Fortify_Border_Idea_desc:0 "드레드 리그가 오고 있다. 우리의 노후된 요새는 재건되어야 하며, 우리는 지뢰나 중포 포대와 같은 새로운 혁신들을 이용하여 죽지 않은 무리들을 확실히 전멸시켜야 한다. 준비하고 준비하라..."
 
-HLR_Open_Tap_Rock_Idea:0 "Tarpeian Rock Open for Immigrants"
-HLR_Open_Tap_Rock_Idea_desc:0 "With the Tarpeian Rock opened to visitors, we will see an influx of new faces to our country."
+HLR_Open_Tap_Rock_Idea:0 "타르페이아 바위문이 이민을 위해 개방되다"
+HLR_Open_Tap_Rock_Idea_desc:0 "타르페이아 바위가 관람객들에게 개방되면서 우리 나라에 새로운 얼굴들이 쏟아져 들어오는 것을 볼 수 있을 것이다."
 
-HLR_Seal_Tap_Rock_Idea:0 "Closed Borders - The Gates are Sealed"
-HLR_Seal_Tap_Rock_Idea_desc:0 "The Tarpeian Rock is closed to outsiders. We will never be bothered by them again."
+HLR_Seal_Tap_Rock_Idea:0 "닫힌 국경 - 문이 봉인되다"
+HLR_Seal_Tap_Rock_Idea_desc:0 "타르페이아 바위문은 외부인 출입이 금지되었다 다시는 그들로 인해 귀찮아지지 않을 것이다."
 
-HLR_Reinforce_Line_Idea:0 "Reinforce the Eastern Walls"
-HLR_Reinforce_Line_Idea_desc:0 "The Walls and defences to the East are the only line of defence between us and the Dread League. They must not fall."
+HLR_Reinforce_Line_Idea:0 "동부의 벽들을 보강하다"
+HLR_Reinforce_Line_Idea_desc:0 "동부의 장벽과 방어선은 우리와 드레드 리그 사이의 유일한 방어선이다. 그들은 함락되서는 안 된다."
 
-HLR_Will_Done_Idea:0 "The Will of the Gods"
-HLR_Will_Done_Idea_desc:0 "Blessed by the Gods, our troops march, stronger than ever before."
+HLR_Will_Done_Idea:0 "신들의 의지"
+HLR_Will_Done_Idea_desc:0 "신들의 축복을 받으며, 아군은 그 어느 때보다도 강하게, 진군한다."
 
-HLR_Might_Idea:0 "Might I - Glory Be"
-HLR_Might_Idea_desc:0 "All must answer the call to battle! We will hold back the undead in a blaze of glory!"
+HLR_Might_Idea:0 "힘 I - 영광"
+HLR_Might_Idea_desc:0 "모두 전투에 응해야 한다! 우리는 영광의 불길 속에서 언데드를 제압할 것이다!"
 
-HLR_Might2_Idea:0 "Might II - The Sword"
-HLR_Might2_Idea_desc:0 "We serve, we live, and we die by the same thing. The sword is our greatest tool against the undead."
+HLR_Might2_Idea:0 "힘 II - 검"
+HLR_Might2_Idea_desc:0 "우리는 검으로 섬기고, 살고, 죽는다. 검은 언데드에 대항하는 우리의 가장 위대한 도구다."
 
-HLR_Grace_Idea:0 "Grace I - The Will of the Order"
-HLR_Grace_Idea_desc:0 "We must preserve our vows to the Twelve Temples. We will defend our land with integrity."
+HLR_Grace_Idea:0 "은혜 I - 기사단의 의지"
+HLR_Grace_Idea_desc:0 "우리는 열두 신전에 대한 맹세를 지켜야 한다. 우리는 신실함으로 우리 땅을 지킬 것이다."
 
-HLR_Grace2_Idea:0 "Grace II - In the Name of The Faith"
-HLR_Grace2_Idea_desc:0 "We fight for the Gods, and we fight for the Arcturian Order! We shall preserve the faith we hold!"
+HLR_Grace2_Idea:0 "은혜 II - 신앙의 이름으로"
+HLR_Grace2_Idea_desc:0 "우리는 신들을 위해 싸우고, 아크투리안 기사단을 위해 싸운다! 우리는 우리가 가지고 있는 믿음을 지킬 것이다!"
 
-HLR_Home_Holy_Idea:0 "Home I - Consecrated Lands"
-HLR_Home_Holy_Idea_desc:0 "Our home is the holy site that the Twelve Temples were founded. We must defend this at all costs."
+HLR_Home_Holy_Idea:0 "터전 I - 축성된 주택"
+HLR_Home_Holy_Idea_desc:0 "우리의 터전은 열두 신전이 창건된 성지다. 우리는 어떤 대가를 치르더라도 이것을 방어해야 한다."
 
-HLR_Home_Holy2_Idea:0 "Home II - The Most Holy of Rites"
-HLR_Home_Holy2_Idea_desc:0 "We shall purify the land of the taint which the Dread League spreads. No single person should live under the shadow of dark magic."
+HLR_Home_Holy2_Idea:0 "터전 II - 진실로 거룩한 의식"
+HLR_Home_Holy2_Idea_desc:0 "우리는 드레드 리그가 퍼뜨리는 오염된 땅을 정화시킬 것이다. 어느 누구도 암흑마법의 그늘에서 살아서는 안 된다."
 
-HLR_Slaughter_Idea:0 "Annihilate the Undead"
-HLR_Slaughter_Idea_desc:0 "The Dread Menace will not stop until we are all minions of their armies! We will fight to the last person! Glory or Death!"
+HLR_Slaughter_Idea:0 "언데드들을 말살하라"
+HLR_Slaughter_Idea_desc:0 "드레드의 위협은 우리가 그들 군대의 하수인이 될 때까지 멈추지 않을 것이다! 우리는 최후의 한 사람까지 싸울 것이다! 영광아니면 죽음을!"
 
-HLR_Reformation_Idea:0 "Reformed Military"
-HLR_Reformation_Idea_desc:0 "A reformed military structure allows for more flexibility when defending ourselves from the Dread League."
+HLR_Reformation_Idea:0 "개혁된 군대"
+HLR_Reformation_Idea_desc:0 "개혁적인 군사 구성은 드레드 리그로부터의 방어전에 많은 유연성을 제공한다."
 
 
 ## economic
