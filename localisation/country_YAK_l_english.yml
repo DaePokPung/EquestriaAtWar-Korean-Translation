@@ -1,86 +1,86 @@
 ﻿ l_english:
- Yak_YAK:0 "Yak"
- Yak_JAK:0 "Jak"
- Yak_YAK_lower:0 "yak"
- Yak_JAK_lower:0 "jak"
+ Yak_YAK:0 "야크"
+ Yak_JAK:0 "재키"
+ Yak_YAK_lower:0 "야크"
+ Yak_JAK_lower:0 "재키"
  #################### Karsakag is the real name of karsag ###################
  ####################################### Starting Path Pre JAK war ############
  
- YAK_elder_council:0 "The Council of Elders"
+ YAK_elder_council:0 "장로회"
 
- YAK_elder_council_desc:0 "Yakyakistan is divided. Many [This.YakOrJakLowercase]s fear that we are not as strong now with one clan gone. Only the Elders can guide us in dark days."
+ YAK_elder_council_desc:0 "야크야키스탄 두개 됐다. 많은 [This.YakOrJakLowercase]들 야크 부족 한개 아니라 약해질까봐 걱정한다. 이럴 때일수록 장로들 믿어야 한다."
  
- YAK_gearing_for_war:0 "On the Warpath"
+ YAK_gearing_for_war:0 "전장으로"
  
- YAK_gearing_for_war_desc:0 "The Council has spoken. There can be only one Yakyakistan! Jaki-clan traitors must go. They will not come back on their own, so [This.YakOrJakLowercase]s must SMASH until they see the error of their ways!"
+ YAK_gearing_for_war_desc:0 "장로 말했다. 야크야키스탄 무조건 하나 뿐이다! 배신자 재키 부족 말도 안된다. 배신자들 자기 발로 안 돌아온다. 그러니 [This.YakOrJakLowercase]들 잘못 깨달을 때까지 부순다!"
  
- YAK_rally_clans:0 "Rally the Clans"
+ YAK_rally_clans:0 "부족 집회"
 
- YAK_rally_clans_desc:0 "Before we can SMASH, we must first gather the clans. The jaks are strong and fortified, and only together can we break them."
+ YAK_rally_clans_desc:0 "부수기 전에 부족 모아야 한다. 재키들 강하고 요새도 있다. 뭉쳐야만 이길 수 있다."
  
- YAK_reopen_military_academies:0 "Lessons of the Last War"
+ YAK_reopen_military_academies:0 "저번 전쟁에서 배운다"
  
- YAK_reopen_military_academies_desc:0 "[This.YakOrJakUppercase]s are strong! But when we fought [This.YakOrJakLowercase] strength was not enough. [This.YakOrJakUppercase]s must learn from the past before the next war."
+ YAK_reopen_military_academies_desc:0 "[This.YakOrJakUppercase]들 강하다! 하지만 [This.YakOrJakLowercase]들 힘 부족하다. [This.YakOrJakUppercase]들 다음 전쟁 준비하려면 저번 전쟁에서 배울 거 배워야 한다."
  
- YAK_prepare_yakitown:0 "Drumming Up Support"
+ YAK_prepare_yakitown:0 "부자 야크 돕는다"
  
- YAK_prepare_yakitown_desc:0 "In Yakitown, there are many rich [This.YakOrJakLowercase]s who have gained their wealth from trade and agriculture. They must be persuaded to help the war effort!"
+ YAK_prepare_yakitown_desc:0 "야키타운에 농사랑 무역으로 돈 번 부자 [This.YakOrJakLowercase]들 많다. 부자 야크 전쟁 돕도록 설득해야 한다!"
  
- YAK_prepare_baradur:0 "Re-Invigorate Bara'dur"
+ YAK_prepare_baradur:0 "바라'듀르 살린다"
  
- YAK_prepare_baradur_desc:0 "In Bara'dur, there are veteran [This.YakOrJakLowercase]s who felt betrayed by peace between [This.YakOrJakUppercase] and Jak. Now that war is returning, they have put aside their feelings and enlisted in great numbers. Bara'dur knows [This.YakOrJakLowercase]s strong! Baradur will never fall!"
+ YAK_prepare_baradur_desc:0 "바라'듀르에 재키들한테 배신감 느끼는 퇴역 [This.YakOrJakLowercase]들 많다. 야크들 전쟁 다시 한다. 퇴역 군인들 많이 입대했다. 이 [This.YakOrJakLowercase]들 강하다! 바라'듀르 안 망한다!"
 
- YAK_prepare_karsag:0 "Rouse the Proles"
+ YAK_prepare_karsag:0 "야크 일한다"
  
- YAK_prepare_karsag_desc:0 "In Karsakag, there are rough [This.YakOrJakLowercase]s who know the value of working together. Their clan has come forward offering to build the weapons we need in this war."
+ YAK_prepare_karsag_desc:0 "카라사카그에 같이 일 할줄 아는 거친 [This.YakOrJakLowercase]들 있다. 우리한테 무기 만들어준다고 했다."
 
- YAK_yakitown_conscripts:0 "Raise Conscripts"
+ YAK_yakitown_conscripts:0 "야크 징집한다"
 
- YAK_yakitown_conscripts_desc:0 "In stories, small parties of heroes can save the day. But in modern war, many [This.YakOrJakLowercase]s are needed. We will recruit in the streets of Yakitown and in the valleys around it!"
+ YAK_yakitown_conscripts_desc:0 "영웅 몇 마리가 세상 구한다? 그건 동화다. 현대전 하려면 [This.YakOrJakLowercase]들 많이 필요하다. 야키타운 거리랑 근처 계곡에 사는 야크들 징집한다!"
  
- YAK_baradur_leadership:0 "Re-Organize Officer Corps"
+ YAK_baradur_leadership:0 "장교 야크"
  
- YAK_baradur_leadership_desc:0 "[This.YakOrJakUppercase]s failed to reclaim Jak land the first time. They will not fail again! Bara'dur veterans have learned many lessons, and their leadership will help all [This.YakOrJakLowercase]s SMASH the jaks to dust!"
+ YAK_baradur_leadership_desc:0 "[This.YakOrJakUppercase]들 재키 땅 되찾는거 처음에는 실패했다. 다신 실패 안 한다! 바라'듀르 장교들 리더쉽 많이 배웠다. 이제 [This.YakOrJakLowercase]들 재키 부순다!"
  
- YAK_expand_industry:0 "Redouble Efforts"
+ YAK_expand_industry:0 "노력 두 배로 한다"
  
- YAK_expand_industry_desc:0 "Karsakag has produced many fine weapons, but we must have many more! We shall build workshops in ever village. Every [This.YakOrJakLowercase] in Yakyakistan helps one way or another."
+ YAK_expand_industry_desc:0 "카르사카그 무기 많이 만들었다. 그래도 무기 더 필요하다! 모든 마을에 작업장 만들거다. 야크야키스탄 [This.YakOrJakLowercase]들 무기 만드는거 돕는다!"
  
- YAK_expand_academy:0 "The Art of War"
+ YAK_expand_academy:0 "야크병법"
  
- YAK_expand_academy_desc:0 "The military academy has already trained many officers in [This.YakOrJakUppercase] way of war. First, SMASH. Then SMASH again, but More This Time. Instructors tell us that this strategy will require many more [This.YakOrJakLowercase]s."
+ YAK_expand_academy_desc:0 "장교들 사관학교에서 [This.YakOrJakUppercase]처럼 싸우는 법 배웠다. 부수고 부수고 부순다! 교관들 이번 전쟁에서는 더 많은 [This.YakOrJakUppercase]들 필요하다고 말했다."
  
- YAK_baradur_elites:0 "Assembling a Vanguard"
+ YAK_baradur_elites:0 "전위대 조직한다"
  
- YAK_baradur_elites_desc:0 "In first Jak war, we learned that it is not enough to defend. We must attack! The veterans have riled up many [This.YakOrJakLowercase]s and formed a small, elite corps ready to break the Jaki lines."
+ YAK_baradur_elites_desc:0 "첫 번째 재키 전쟁에서 배웠다. 방어 재미없다. 공격 해야한다! 장교들 [This.YakOrJakLowercase] 많이 모아서 정예 군단 만들었다. 재키 전선 돌파한다!"
  
- YAK_karsag_factory_quotas:0 "Karsakag Factory Quotas"
+ YAK_karsag_factory_quotas:0 "카르사카그 공장 할당량"
  
- YAK_karsag_factory_quotas_desc:0 "Even with every [This.YakOrJakLowercase] in karsakag working day and night, we have not yet made enough weapons. Our Elders want strict quotas on the workers to ensure that they do not falter."
+ YAK_karsag_factory_quotas_desc:0 "카르사카그 [This.YakOrJakLowercase]들 밤낮없이 일해도 무기 부족하다. 장로들 노동자 흔들리는거 싫다. 할당량 엄격하게 지킨다!"
 
- YAK_rally_troops:0 "Rallying the Troops"
+ YAK_rally_troops:0 "병력 모집한다"
  
- YAK_rally_troops_desc:0 "The war is at our doorstep. There are only weeks now between us and those traitors. We will trample their forts and pull them back into Yakyakistan. Everyone waits for the Prince to give the order to muster."
+ YAK_rally_troops_desc:0 "전쟁 가까워졌다. 몇 주밖에 안 남았다. 배신자들 요새 부순다! 배신자들 야크야키스탄으로 끌고 갈거다! 왕자 소집 명령 내리는거 기다린다."
  
- YAK_prepare_boarder:0 "Prepare the Border"
+ YAK_prepare_boarder:0 "국경 대비한다"
 
- YAK_prepare_boarder_desc:0 "Let them come! Our borders are fortified, our [This.YakOrJakLowercase]s are ready to fight. They think they can smash us, but our walls shall smash THEM instead!"
+ YAK_prepare_boarder_desc:0 "국경에 요새 지었다. 오게 둬라! [This.YakOrJakLowercase]들 싸울 준비 다 했다. 배신자들 우리 부술 수 있을 거 같나? 우리 벽이 배신자들 부순다!"
 
- YAK_attack_jakis:0 "Reclaim Jakistan!"
+ YAK_attack_jakis:0 "재키스탄 수복한다!"
  
- YAK_attack_jakis_desc:0 "Yakyakistan is united and ready for war. The traitors must be punished and their country smashed! There can be only one kingdom of [This.YakOrJakLowercase]s!"
+ YAK_attack_jakis_desc:0 "야크야키스탄 뭉쳐서 전쟁 준비했다. 배신자들 혼내준다! 배신자 나라 부순다! [This.YakOrJakLowercase] 왕국 무조건 하나뿐이다!"
  
- YAK_reintegrate_jakiclan:0 "Bringing the Jaki home"
+ YAK_reintegrate_jakiclan:0 "재키들 집으로 데려온다"
 
- YAK_reintegrate_jakiclan_desc:0 "The Prince has decreed that no [This.YakOrJakUppercase] shall mock or injure the jaks. We are all [This.YakOrJakLowercase]s now, and no one laughs at [This.YakOrJakLowercase]s! We all hope it will be that easy..."
+ YAK_reintegrate_jakiclan_desc:0 "왕자 말했다. [This.YakOrJakUppercase]들 이제 재키 놀리거나 다치게 하면 안된다. 전쟁 끝났으니 모두 [This.YakOrJakUppercase]다. 더는 안 싸운다. 말처럼 쉬웠으면 좋겠다..."
  
- YAK_elections:0 "Post-War Elections"
+ YAK_elections:0 "전후 선거"
  
- YAK_elections_desc:0 "The war changed things, but it did not fix every problem. The jaks were wrong to leave, but were they wrong about the Prince? In the aftermath, the Elders have called a Council to discuss this."
+ YAK_elections_desc:0 "전쟁 모든 걸 바꿨다. 하지만 문제 해결은 못 했다. 따라간 재키들은 따라간 잘못밖에 없다. 그런데 이끈 브래드포드 왕자는 무슨 잘못했나? 장로들 논의한다. 의회 소집했다."
  
- YAK_fate_of_bradford:0 "The Final Question"
+ YAK_fate_of_bradford:0 "마지막 질문"
 
- YAK_fate_of_bradford_desc:0 "The final question must be decided by the Prince and Elders. What is to be done with Bradford? He tore our nation in half, but otherwise loyal [This.YakOrJakLowercase]s echo his concerns. Is he misguided patriot or criminal?"
+ YAK_fate_of_bradford_desc:0 "마지막 질문 해답 장로랑 왕자가 결정한다. 브래드포드 어떻게 해야하나? 브래드포드 야크 부족 두 개로 만들었다. 그런데 브래드포드 걱정하는 충성심 강한 [This.YakOrJakLowercase]들 많다. 브래드포드 범죄자인가? 아니면... 비뚤어진 애국자인가?"
  
  ###################### Harmonic YAKS ############# YAK SMASH ##################
  
