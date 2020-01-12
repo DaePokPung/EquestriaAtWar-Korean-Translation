@@ -516,35 +516,35 @@ HLR_Reformation_Idea_desc:0 "개혁적인 군사 구성은 드레드 리그로�
 
 ## economic
 
-HLR_Revitalised_Industry_Idea:0 "Revitalised Economy"
-HLR_Revitalised_Industry_Idea_desc:0 "Through the efforts of our Headmaster, the economy has been restored. We can now reap the benefits of a revitalised industry."
+HLR_Revitalised_Industry_Idea:0 "재활성화된 경제"
+HLR_Revitalised_Industry_Idea_desc:0 "기사단장의 노력으로 경제가 회복되었다. 우리는 이제 활성화된 산업의 혜택을 누릴 수 있다."
 
-HLR_tradition:0 "Tradition"
-HLR_tradition_desc:0 "Our history is our heart, and upholding who we are will give us the strength to survive. We have embraced this truth."
+HLR_tradition:0 "전통"
+HLR_tradition_desc:0 "우리의 역사는 우리의 심장이며, 우리가 누구인지 유지하는 것은 우리에게 생존할 힘을 줄 것이다. 우리는 이 진실을 인정했다."
 
-HLR_Research_Idea:0 "New laboratories"
-HLR_Research_Idea_desc:0 "Our investment into research is reaping steady returns, paving the way to our future"
+HLR_Research_Idea:0 "새로운 연구소들"
+HLR_Research_Idea_desc:0 "연구에 대한 우리의 투자는 결과를 얻고 있으며, 미래를 위한 길을 닦고 있다."
 
-HLR_Revitalised_Industry_Idea2:0 "Intense Mining"
-HLR_Revitalised_Industry_Idea2_desc:0 "Modern techniques paired with significant investment has pushed our resource extraction to new heights. Or depths, as the case may be."
+HLR_Revitalised_Industry_Idea2:0 "고강도 광업"
+HLR_Revitalised_Industry_Idea2_desc:0 "상당한 투자와 현대 기술의 조화는 우리의 자원 채굴를 새로운 단계로 끌어 올렸다. 경우에 따라서는 깊이가 될 수도 있다."
 
-HLR_Revitalised_Industry_Idea3:0 "Mass production"
-HLR_Revitalised_Industry_Idea3_desc:0 "Modern tools and techniques continue to be diffused across our economy, making it leaner by the day."
+HLR_Revitalised_Industry_Idea3:0 "대량 생산"
+HLR_Revitalised_Industry_Idea3_desc:0 "현대의 도구와 기술은 우리 경제 전반에 걸쳐 계속 보급되어 날이 갈수록 희박해진다."
 
-HLR_poison_attack_idea:0 "Famine"
-HLR_poison_attack_idea_desc:0 "Griffons and Ponies alike are starving in the streets, and even our troops at the front grow weak with hunger. The situation is catastrophic, but we have no choice but to endure."
+HLR_poison_attack_idea:0 "기아"
+HLR_poison_attack_idea_desc:0 "그리폰과 포니 모두 길거리에서 굶주리고 있고, 전선의 아군들도 굶주림으로 쇠약해진다. 재앙적이지만 우리는 견뎌낼 수밖에 없다."
 
-HLR_terror_attack_idea:0 "Terror"
-HLR_terror_attack_idea_desc:0 "Raw, animal terror grips the heart of the common Arcturian, robbing them of their sense of duty, honour, and even common sense"
+HLR_terror_attack_idea:0 "공포"
+HLR_terror_attack_idea_desc:0 "야만적이고, 동물적 공포가 아크투리안 시민의 정신에 영향을 끼쳐 그들의 의무감과 명예, 그리고 심지어 상식을 강탈한다."
 
-HLR_sabotage_attack_idea:0 "Sabotage"
-HLR_sabotage_attack_idea_desc:0 "Our production of saltpetre has been shattered, introducing a bottleneck which is crippling the production of ammunition and explosives."
+HLR_sabotage_attack_idea:0 "사보타주"
+HLR_sabotage_attack_idea_desc:0 "초석의 생산시설 붕괴로, 탄약과 폭발물 생산이 지연되는 병목현상이 발생했다."
 
-HLR_TheWindegoThreat_Idea:0 "Windigo threat"
-HLR_TheWindegoThreat_Idea_desc:0 "A new nightmare has emerged, even more horrific than the last. Can we survive?"
+HLR_TheWindegoThreat_Idea:0 "윈디고 위협"
+HLR_TheWindegoThreat_Idea_desc:0 "지난번보다 더 끔찍한, 새로운 악몽이 나타났다. 우리가 살아남을 수 있을까?"
 
-HLR_shield_idea:0 "Shield of Hope"
-HLR_shield_idea_desc:0 "Our sages are currently looking into unlocking the full potential of the Shield of Hope. However, the mere presence of this artifact has bolstered the moral of our armies across the entirety of the Arcturian Order."
+HLR_shield_idea:0 "희망의 방패"
+HLR_shield_idea_desc:0 "우리 현자들은 현재 희망의 방패의 잠재력을 최대한 발휘하는 방안을 검토하고 있다. 그러나 이 유물이 존재한다는 것만으로도 아크투리아 기사단 전체에 걸쳐 우리 군대의 사기가 증가하고 있다."
 
 ############################################
 ### EVENTS #################################
@@ -554,36 +554,36 @@ HLR_shield_idea_desc:0 "Our sages are currently looking into unlocking the full 
 ##    _desc
 
 ### succession
-arcturian.2.t:0 "The Mantle of Headmaster\nThe Future of the Arcturian Order"
-arcturian.2.d:0 "The senate is in chaos, not one person can make heads or feathers of the situation. Headmaster Torygg is dead, murdered at the hooves of a changeling from an unknown hive. The Arcturian Order mourns the loss of Torygg, he was seen an upstanding and benevolent leader, his actions always adhering to a sound moral code.\n\nThe senate must choose a new Headmaster. A group within the senate has been advocating for one William Steel Beak, whilst a group of traditionalists within the senate have shown interest in Østwald Vind.\n\nWilliam Steel Beak was Torygg's first choice, as he had all the values and characteristics that Torygg saw as what the Arcturian Order needed. William is devoted to the common citizen and the well-being of the inhabitants, he understands the plight of the common Arcturian and is doing his best to answer their pleas. He even believes that anyone has the right to redemption, even the most tainted of hearts have that right in his eyes.\n\nØstwald Vind is an Arcturian traditionalist and follows his faith by the very script they are written in, he gives no room for interpretation. The Arcturian order is a tool against the undead hordes to the east, a bastion against the dead and nothing more. He loves the Order as much as the next griffon does, but through deliberation and hard work, he will see through to the Order's plans. Østwald Vind believes that once you tread down the dark path, the only redemption you will find is that of the bladed edge of a sword.\n\nBoth griffons love the Order, both griffons will serve to their fullest, but they both have different views on what is right and what is necessary. The senate will need deliberate over this information."
-arcturian.2.a:0 "Both candidates are promising, but a choice must be made."
+arcturian.2.t:0 "기사단장의 역할\n아크투리안 기사단의 미래"
+arcturian.2.d:0 "원로원은 혼란에 빠졌고, 한 사람도 상황을 파악하지 못하고 있다.기사단장 토리그는 알려지지 않은 하이브에서 온 체인질링의 발굽에 살해되었다. 아크투리아 기사단은 토리그의 죽음을 애도했는데, 그는 항상 건전한 도덕적 규범을 고수하는 고결하고 자애로운 지도자의 모습을 보여 주였기 때문이다. 원로원은 새 기사단장을 선택해야 한다. 원로원 내의 한 단체는 윌리엄 스틸 비크를 지지해왔고, 상원 내의 전통주의자들은 오스트발트 빈트에 관심을 보였다.\n\n윌리엄 스틸 비크는 토리그의 첫 번째 선택이었는데, 토리그가 아크투리아 오더가 필요로 하는 것으로 보는 모든 가치와 특징을 가지고 있었기 때문이다. 윌리엄은 일반 시민과 주민들의 안녕을 위해 헌신하고 있으며, 아크투리안 평민들의 곤경을 이해하고 그들의 탄원에 답하기 위해 최선을 다하고 있다. 그는 심지어 누구든지 구원의 권리를 가지고 있다고 믿으며, 가장 타락한 자들조차도 가능성이 있다 믿는다.\n\n오스트발트 빈트는 아크투리아 전통주의자이며 문자 그대로 신앙을 따르기 때문에 해석의 여지를 주지 않는다. 아크투리아 기사단은 동쪽으로는 언데드에 대항하는 도구로, 죽은 자에 대한 보루일 뿐이다. 그는 다른 그리폰만큼 기사단을 사랑하지만, 심사숙고와 고된 일을 통해 기사단의 계획을 관철시킬 것이다. 오스트발트 빈트는 일단 어두운 길을 밟아 내려가면,찾을 수 있는 유일한 구원은 검의 날뿐이라고 믿는다.\n\n 두 그리폰 모두 기사단을 사랑하고, 두 그리폰은 최선을 다할 것이지만, 무엇이 옳고 무엇이 필요한지에 대한 견해는 둘 다 다르다. 원로원은 이 정보를 숙고할 필요가 있을 것이다."
+arcturian.2.a:0 "두 후보 모두 유망하지만, 선택은 반드시 해야 한다."
 
 ### economy
-arcturian.3.t:0 "The Economy is Restored\nAll Eyes now look to the East"
-arcturian.3.d:0 "After the assassination of Torygg, the economy fell apart. Uncertainty and fear had swept the nation, consuming all confidence among the citizenry. Smiths left their iron. Weavers left their looms and wardens left their posts at prisons. All progress towards modernisation was halted as the government descended into chaos. \n\nThe situation is untenable, especially with the Dreaded Necromancers of Magehold knocking on our walls across the Holy Line. New policies or not, the new government must get the people working again.\n\n[HLR.GetLeader]'s next actions must be swift so that we may now focus our energies east. The time is nigh, and as the clock strikes eleven, we know the time of battle draws near. There is no longer room for Error."
-arcturian.3.a:0 "Now we must focus on the real issue."
+arcturian.3.t:0 "경제가 회복되었다./n 이제 모두 동쪽을 바라본다."
+arcturian.3.d:0 "토리그 암살 이후 경제는 분열되었다. 불확실성과 공포가 전국을 휩쓸며 시민들 사이에 모든 신뢰를 앗아갔다. 대장장이는 철을 놓았다. 직공들은 그들의 근무지를 이탈했고 간수들은 감옥에서 떠났다. 정부가 혼란에 빠지면서 현대화를 향한 모든 진전은 중단되었다. \n\n특히 메이지홀드의 저주받은 네크로맨서들이 성스러운 방어선을 가로질러 우리의 벽을 두드리고 있는 상황에서 더 이상 악화되도록 방치할 수는 없다. 새로운 정책이 있든 없든 새 정부는 국민을 다시 일하게 해야 한다.\n\n[HLR.GetLeader]의 다음 행동은 우리가 이제 우리의 에너지를 동쪽으로 집중시킬 수 있도록 신속해야 한다. 시계는 11시를 가리키고 있으니, 얼마 남지 않았다. 더 이상의 오류는 없어야 한다."
+arcturian.3.a:0 "이제 우리는 실제적인 문제에 집중해야 한다."
 
 ### Dread Attack
-arcturian.4.t:0 "The Dread League Attacks!\nThe Arcturian Order Besieged!"
-arcturian.4.d:0 "Decades of foreboding dread and years of preparation have gone into readying ourselves against this event! We received our news when the horns of war sounded at the eastern walls and massive hordes of skeletons heralded the first wave. It was beaten back, but [DED.GetLeader] is persistent and will not give up on her crusade against us or life itself.\n\nThe War Council has been called into session to deliberate over our options regarding the eastern menace which is the Dread League. Our options are limited, as is our time to consider them."
-arcturian.4.a:0 "We knew this day would come\nWe must act quickly."
+arcturian.4.t:0 "드레드 리그의 공격!\n아크투리안 기사단이 수성하다!"
+arcturian.4.d:0 "십수 년의 예정된 두려움과 수년간의 준비는 이에 대적하기 위해 우리 스스로 준비하게 만들었다. 우리는 동쪽 벽에서 전쟁의 나팔이 울리고 대규모의 스켈레톤으로 구성된 제1의 파도를 예고했을 때 소식을 들었다. 곧 물러났지만 [DED.GetLeader]는 집요하며 우리나 생명 자체에 대한 그녀의 십자군 원정을 포기하지 않을 것이다.\n\n전시 내각은 동부의 드레드 리그 위협에 대한 우리의 선택을 심의하기 위해 모였다. 고민할 시간이 부족하며, 우리의 선택사항도 제한적이다."
+arcturian.4.a:0 "우리는 이 날이 올 것을 알고 있었다.\n신속히 행동해야 한다."
 
 ### Rosa Trial
 
-arcturian.7.t:0 "The Queen's Trial\nThe Fate of Rosa Maledicta"
-arcturian.7.d:0 "The War is over and Magehold is no more. Rosa Maledicta has been captured and awaits her trial. Tremendous effort is what lead us to this conclusion, and at great costs. The Dread Queen herself lies chained to the ground in the courtroom, her horn fitted with the strongest neutralisers available to the [HLR.GetName].\n\nOne side of the court supports her redemption, saying that Rosa Maledicta will be a great asset if she is redeemed. They can be heard discussing the terms of her reformation, some of the tasks sound rigorous, and rightfully so. The former Dread League Queen will need to work for her redemption, as restitution for all the suffering she has caused.\n\nAt the end of this 'redemption plan', she will have earned the right to live as a free mare. The right to determine her own place among those she would have previously cast into ruin, the Rosa Maledicta will be able to live amongst the living.\n\nThe other side of the court desires only one thing, the death of Rosa Maledicta. It is the only solution in their eyes for all the crimes she has committed against the living. They would not settle for any other answer.\n\nA choice must be made, does she get to live? Or is her salvation to be found on the bladed edge of the executioners axe?\n\nWhat choice will [HLR.GetLeader] make?"
-arcturian.7.a:0 "Her crimes are too much.\nShe will only find justice in execution."
-arcturian.7.b:0 "No one is beyond redemption, not even the former queen of the Dread League."
+arcturian.7.t:0 "여왕 재판\n로사 말레딕타의 운명"
+arcturian.7.d:0 "전쟁은 끝났고 메이지홀드는 더 이상 없다. 로사 말레딕타가 붙잡혀 재판을 기다리고 있다. 엄청난 노력의 결과가 이곳에 있다. 드레드의 여왕은 법정 안 바닥에 사슬로 묶여 있으며, 뿔에는 [HLR.GetName]에서 사용할 수 있는 가장 강력한 무력화제가 장착되어 있다.\n\n 재판부의 일부는 로사 말레딕타가 구원을 받으면 훌륭한 자산이 될 것이라며 그녀의 구원을 지지한다. 그들은 그녀의 개심을 위한 과업에 대해 논의하였고, 몇몇 과업들은 엄격하고, 이는 정당하게 들린다. 전 드레드 리그 여왕은 그녀가 초래한 모든 고통에 대한 속죄와 구원을 위해 일할 필요가 있을 것이다.\n\n 이 '정화 계획'이 끝나면 그녀는 자유로운 포니로서 살 권리를 얻게 될 것이다. 그녀가 이전에 파괴했었을 수도 있었던 공간 속에서, 로사 말레딕타는 살아 있는 사람들 사이에서 자신의 위치를 재정의하면서 다시 살아갈 수 있을 것이다.\n\n 법정의 다른 쪽은 로사 말레딕타의 죽음이라는 한 가지만을 원한다. 그것은 그녀가 살아 있는 사람들을 상대로 저지른 모든 범죄에 대한 유일한 해결책이다. 그들은 다른 어떤 대답에도 만족하지 않을 것이다.\n\nA 선택을 해야 한다, 그녀는 살아야 하나?아니면 처형자 도끼의 날에서만 그녀의 구원을 찾을 수 있나?\n\n [HLR.GetLeader]은(는) 어떤 선택을 할 것인가?"
+arcturian.7.a:0 "그녀의 죄는 너무 지나치다.\n오직 그녀의 처형으로만 정의를 집행할 수 있다."
+arcturian.7.b:0 "누구도 구원받을 수 없는 것은 아니며, 드레드 리그의 전 여왕도 가능하다."
 
 ### rose lives on
-arcturian.6.t:0 "The Queen of the Dread League Reformed!\nThe Turning of a New Leaf"
-arcturian.6.d:0 "Rosa Maledicta has proven her worth and reformed her ways, gone is the evil mad-mare who hates all life. What lies before us is a mare who worked for her freedom, who devoted her very soul to understanding friendship when we offered it to her.\n\nThe road was long an arduous, her worldview vastly different from that which any other pony would hold. Although the taint of dark magic will forever permeate her unnatural and twisted body, her mind now sings for all that is good in the world. She may be prone to some of her old habits from time to time, but they do not define her as a pony anymore.\n\nShe has a place within the [HLR.GetName] as a general in our military, where with her newfound appreciation for life, has expressed eagerness to serve us. Strange times are upon us, the Dread League is gone, and the greatest adversary to have ever come from there is now our greatest ally."
-arcturian.6.a:0 "As strange as everything may be.\nThe future can only get brighter."
-
+arcturian.6.t:0 "드레드 리그의 여왕이 회개하다!\n새로운 장의 시작."
+arcturian.6.d:0 "로사 말레딕타는 그녀의 가치를 증명하고 그녀의 방식을 변화시켰다. 모든 생명을 증오하는 사악한 미친 악몽은 사라졌다. 우리 앞에 놓여 있는 것은 그녀의 자유를 위해 노력했던 암말이고, 우리가 그녀에게 우정을 베풀 때 그녀의 영혼 모두를 바쳤다.\n\n 그녀의 과거는 다른 포니들과는 매우 다르고, 그녀의 세계관은 오랫동안 다른 포니들이 가진 것과는 큰 차이가 있다. 비록 흑마법의 흔적은 그녀의 부자연스럽고 일그러진 몸에 영원히 스며들겠지만, 그녀의 마음은 이제 이 세상에 좋은 모든 것을 위해 노래한다. 그녀는 때때로 그녀의 오래된 습관을 보일 수 있지만, 더 이상 그녀를 단순한 조랑말이라고 정의할 수는 없다.\n\n그녀는 [HLR.GetName] 내에 자리를 잡았다. 그녀가 새롭게 발견한 삶에 대한 감사와 함께, 우리에게 봉사하고 싶다는 열망을 표현해 온 우리는 그녀를 군대의 장군으로서 받아들였다. 낯선 시대가 오고 있다. 드레드 리그는 사라지고,그 곳에서 온 가장 큰 적수는 이제 우리의 가장 위대한 동맹이다."
+arcturian.6.a:0 "모든 것이 이상할 수도 있지만.\n미래는 더 밝아질 뿐이다."
+ 
 ### rosa wedding bells
-arcturian.51.t:0 "A Holy Union Between Life and Death\nBells Ring for [HLR.GetLeader] and Rosa Maledicta"
-arcturian.51.d:0 "Wedding bells ring throughout the capital, guests have gathered in the centre of the Twelve Temples. All attention in the [HLR.GetName] has converged on two individuals, [HLR.GetLeader] and Rosa Maledicta. Vows were exchanged under the watch of the Twelve, gazing lovingly into the eyes of the other as they did so.\n\nThe time came for them to kiss, and so they did. Forever united in holy matrimony, Rosa Maledicta and [HLR.GetLeader] are now lovers by law, and by love. This unbreakable union is now eternally recognised as the moment love conquered death."
-arcturian.51.a:0 "They will make the perfect couple."
+arcturian.51.t:0 "삶과 죽음 간의 성스러운 연합\n [HLR.GetLeader]와 로사 말레딕타는 종을 울리다"
+arcturian.51.d:0 "결혼 종소리가 수도 전역에 울려 퍼지면서, 하객들이 12수도원의 중앙에 모여들었다. [HLR.GetName]에 모든 관심은 [HLR.GetLeader]와 로사 말레딕타라는 두 개인의 관심으로 변화되었다. 수도원의 공증 아래 서약을 주고받으며, 그렇게 하면서 서로의 눈을 애정 어린 눈으로 바라보고 있었다.\n\n 그들이 키스할 시간이 왔고, 그렇게 했다. 성스러운 결혼생활로 영원히 하나가 된 로사 맬레딕타와 [HLR.GetLeader]는 이제 법과 사랑에 의해 연인이 되었다. 이 깨지지 않는 결합은 이제 사랑이 죽음을 정복하는 순간으로 영원히 알려질 것이다."
+arcturian.51.a:0 "완벽한 한 쌍이 될 거야."
 
 
 ### call for help
