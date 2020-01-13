@@ -41,8 +41,8 @@ function getCountries () {
     FLO: '플로웨나 시',
     FRE: '포나이드헨',
     FRN: '프란미스트리아 백국',
-    GFF: '그리핀',
-    GRF: '그리포니아',
+    GFF: '그리폰 프론티어',
+    GRF: '노바 그리포니아',
     GRI: '그리포니아 제국',
     GRU: '그리폰 프론티어',
     GRW: '그리폰 해방군',
@@ -87,7 +87,7 @@ function getCountries () {
     WIT: '비텐란트',
     WNG: '윙바르디 왕국',
     YAK: '야크야키스탄',
-    YAL: '',
+    YAL: '예일 학장국',
     ZES: '늄바 야 카스카지니',
   }
 
