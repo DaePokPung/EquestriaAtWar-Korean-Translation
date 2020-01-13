@@ -84,175 +84,175 @@
  
  ###################### Harmonic YAKS ############# YAK SMASH ##################
  
- YAK_harmony_win:0 "Support the Prince"
+ YAK_harmony_win:0 "왕자 섬긴다"
 
- YAK_harmony_win_desc:0 "The Prince, despite his mistakes and the War's losses, has emerged victorious. The elders and the people alike support him now."
+ YAK_harmony_win_desc:0 "왕자 실수했다. 전쟁 졌다. 그래도 여전히 장로랑 백성 야크들 모두 왕자 좋아한다."
  
- YAK_reunification_issues:0 "Leading [This.YakOrJakUppercase]s to Water"
+ YAK_reunification_issues:0 "[This.YakOrJakUppercase]들 물가로 끌고간다"
  
- YAK_reunification_issues_desc:0 "Reuniting the nation was never going to be easy. War has brought our borders together, but it has not healed the heart of Yakyakistan at all."
+ YAK_reunification_issues_desc:0 "나라 통일하는거 쉽지 않다. 전쟁 이겨서 국경 하나 만들었지만, 아직 마음은 하나 아니다."
  
- YAK_approach_baradur:0 "Placating the Veterans"
+ YAK_approach_baradur:0 "퇴역군인 잘 달랜다"
  
- YAK_approach_baradur_desc:0 "The disgruntled veterans of two wars grumble in Bara'dur. We should appeal to their national pride to keep grumbling from becoming something more."
+ YAK_approach_baradur_desc:0 "전쟁 두 번 한 퇴역군인 야크들 바라'듀르에서 투덜댄다. 이거 그냥 두면 안된다. 잘 달래서 안 투덜대게 해야 한다."
  
- YAK_approach_karsag:0 "Appeasing the Proleteriat"
+ YAK_approach_karsag:0 "백성들도 잘 달랜다"
  
- YAK_approach_karsag_desc:0 "The common [This.YakOrJakUppercase] made many sacrifices in our war of reunification. Now that peace is here, we should ease their many burdens."
+ YAK_approach_karsag_desc:0 "[This.YakOrJakUppercase]들 전쟁하느라 많이 힘들었다. 이제 평화 왔으니 백성들 짐 덜어준다."
  
- YAK_deal_with_jaki:0 "Appeal to the Vanquished"
+ YAK_deal_with_jaki:0 "전쟁 했어도 동족이다"
  
- YAK_deal_with_jaki_desc:0 "They may have lost the war, but the Jaki are [This.YakOrJakLowercase]s, and [This.YakOrJakLowercase]s must always value each other. "
+ YAK_deal_with_jaki_desc:0 "재키들 전쟁 졌다. 하지만 재키들도 [This.YakOrJakLowercase]다. [This.YakOrJakLowercase]들 항상 서로를 아낀다."
  
- YAK_ask_for_help:0 "Friendship with Equestria"
+ YAK_ask_for_help:0 "이퀘스트리아랑 친구한다"
  
- YAK_ask_for_help_desc:0 "The Prince admires Equestria's success, and our contacts with the Elements of Harmony have been mostly positive. Let us approach them in friendship."
+ YAK_ask_for_help_desc:0 "왕자 이퀘스트리아 칭찬 많이 했다. 조화의 요소 포니들 만났던 거도 결과 좋았다. 이퀘스트리아랑 친구 해야 한다."
  
- YAK_do_it_alone:0 "Relying On Ourselves"
+ YAK_do_it_alone:0 "야크 스스로 돕는다"
  
- YAK_do_it_alone_desc:0 "While the Prince admires Equestria, he knows that [This.YakOrJakLowercase]s are stubbornly isolationist. Friendly to all, but allies with none, let us look to Yakyakistan's recovery."
+ YAK_do_it_alone_desc:0 "왕자 이퀘스트리아랑 친구 하고싶다. 그런데 [This.YakOrJakLowercase]들 지독한 고립주의자다. 모두에게 친절하지만 누구랑도 동맹 안 맺는다. 야크야키스탄 외교 더 이상 이래서는 안된다."
  
- YAK_embassy_from_equestria:0 "Receive the Equestrians"
+ YAK_embassy_from_equestria:0 "포니들 온다"
  
- YAK_embassy_from_equestria_desc:0 "Equestria has sent us a formal embassy! We will show them just how superior Yakyakistan culture is, and how valuable we are as allies and friends."
+ YAK_embassy_from_equestria_desc:0 "이퀘스트리아 야크야키스탄에 공식 대사 보냈다! 좋은 야크 문화 보여준다. 야크들 얼마나 좋은 친구인지 보여 줄거다."
  
- YAK_pinkies_advice:0 "Pinkie's Advice"
+ YAK_pinkies_advice:0 "핑키파이의 조언"
  
- YAK_pinkies_advice_desc:0 "The small bouncing Pink Element of Harmony is wiser than she appears, and though we find her very un-Yaklike, a lot of her advice is actually sound."
+ YAK_pinkies_advice_desc:0 "여기저기 튀어다니는 작은 분홍포니, 보이는 것보다 더 현명하다. 별로 야크답지는 않아도 분홍포니 충고 괜찮은 것들 많다."
  
- YAK_talk_to_karsag:0 "Talk to Karsakag"
+ YAK_talk_to_karsag:0 "카르사카그랑 대화한다"
  
- YAK_talk_to_karsag_desc:0 "The mollified unionists of Karsakag are willing to talk, and have drawn up proposals for improvements we couuld make to our industry, helping state and worker."
+ YAK_talk_to_karsag_desc:0 "카르사카그 노조원들 중앙정부랑 대화 하고싶댔다. 노동자 도울 수 있는 산업 개선안 많이 준비했다고 말했다."
  
- YAK_talk_to_baradur:0 "Talk to Bara'dur"
+ YAK_talk_to_baradur:0 "바라'듀르랑 대화한다"
  
- YAK_talk_to_baradur_desc:0 "The Veteran's League has sent the government a message detailing their proposals for a reformation of our army, and the Elders find their suggestions compelling."
+ YAK_talk_to_baradur_desc:0 "퇴역군인회가 편지 보냈다. 편지에 군대 개혁안 자세히 써져 있었다. 장로들 제안 마음에 들어 했다."
  
- YAK_aid_karsag:0 "Build in Karsakag"
+ YAK_aid_karsag:0 "카르사카그 돕는다"
  
- YAK_aid_karsag_desc:0 "The Unionists in Karsakag have sent us represenatives, and Pinkie seems to have taken to them. She suggests that we listen to their proposals and commit to help them!"
+ YAK_aid_karsag_desc:0 "카르사카그 노조원들이 대표자 보냈다. 우리는 분홍포니 보냈다. 분홍포니 가서 우리가 카르사카그 도와준다 했다고 말했다."
  
- YAK_aid_baradur:0 "Build in Bara'dur"
+ YAK_aid_baradur:0 "바라'듀르 돕는다"
  
- YAK_aid_baradur_desc:0 "Pinkie's advice regarding Bara'dur is to, and I quote, maaaaaaybe ignore most of the Veteran peeps and just do the nice buildy parts of their plan."
+ YAK_aid_baradur_desc:0 "퇴역군인회가 보낸 편지 분홍포니가 읽었다. 대부분 쓸데 없는 말들이니까 몇 개만 실행하라고 말했다."
 
- YAK_use_karsag_ideas:0 "Finish Karsakag Recovery"
+ YAK_use_karsag_ideas:0 "카라사그 회복 끝났다"
  
- YAK_use_karsag_ideas_desc:0 "Our civilian industry is expanding, proving that listening to the Karsakag unionists was a good decision. While we should not let them gain too much power, it is good to keep them around."
+ YAK_use_karsag_ideas_desc:0 "카르사카그 노조원들 말 듣기를 잘했다. 야크 민간산업 호황기 맞았다! 노조원들 힘 너무 커지는 건 안 좋지만, 일단은 곁에 둬도 괜찮다."
 
- YAK_use_baradur_ideas:0 "Finish Bara'dur Recovery"
+ YAK_use_baradur_ideas:0 "바라'듀르 회복 끝났다"
  
- YAK_use_baradur_ideas_desc:0 "The Veteran's League's proposal to the government hinges on improving our production capabilities. We need more [This.YakOrJakLowercase]s to make guns, so that we are prepared for the next war!"
+ YAK_use_baradur_ideas_desc:0 "퇴역군인회 제안 마음에 들지만, 먼저 우리 생산능력부터 늘려야 한다. 더 많은 [This.YakOrJakLowercase]들이 더 많은 총 만든다. 다음 전쟁 준비한다!"
  
- YAK_aid_shattered_jaki:0 "Aid the Shattered Clan"
+ YAK_aid_shattered_jaki:0 "부서진 관계 회복한다"
  
- YAK_aid_shattered_jaki_desc:0 "Finally, Pinkie has already begun visiting the broken Jaki [This.YakOrJakLowercase]s and suggests that we send Elders to do the same. It's a big risk, but it might just work."
+ YAK_aid_shattered_jaki_desc:0 "드디어, 분홍포니 재키 [This.YakOrJakLowercase]들 만나러 갔다. 우리한테도 장로들 재키한테 보내라고 말했다. 위험할 수도 있지만... 효과 분명 있을거다."
  
- YAK_form_parliament:0 "Form a Parliament"
+ YAK_form_parliament:0 "의회 조직한다."
  
- YAK_form_parliament_desc:0 "The Unionists, the Veterans, the Elders, the Prince, the Jaki. Yakitown, Bara'dur, Karsakag, Jaki. All [This.YakOrJakLowercase]s are reperesented in a single parliament to advise the Prince."
+ YAK_form_parliament_desc:0 "카르사카그의 노조원들, 바라'듀르 퇴역군인회, 야키타운의 왕자와 원로들, 재키의 재키들 모두 모였다. 이제 모든 [This.YakOrJakLowercase]들 하나의 의회에서 일하며 왕자 돕는다."
  
- YAK_educated_population:0 "A Modern [This.YakOrJakUppercase]"
+ YAK_educated_population:0 "현대 [This.YakOrJakUppercase]"
  
- YAK_educated_population_desc:0 "[This.YakOrJakUppercase]s are not backwards, despite our traditionalist mindset. We have learned to look forward without losing the past."
+ YAK_educated_population_desc:0 "[This.YakOrJakUppercase]들 전통 사랑하지만 고칠건 고칠 줄 안다. [This.YakOrJakUppercase]들 과거를 잃지 않고 미래를 내다보는 법 안다."
  
- YAK_fully_unify:0 "One Yakyakistan"
+ YAK_fully_unify:0 "야크야키스탄 하나다"
  
- YAK_fully_unify_desc:0 "The Jaki-clan may be diminished, but they are one of us again. There is only one Yakyakistan."
+ YAK_fully_unify_desc:0 "재키 부족 이제 없다. 다시 야크야키스탄 됐다. 야크야키스탄 하나였고, 하나이며, 하나일 것이다!"
  
- YAK_finish_recovery:0 "A New Yakyakistan"
+ YAK_finish_recovery:0 "새 야크야키스탄"
  
- YAK_finish_recovery_desc:0 "With much of reconstruction effectively finished, our [This.YakOrJakLowercase]s begin to feel genuine pride in our nation and each other again. Look what we can do together!"
+ YAK_finish_recovery_desc:0 "재건 작업 거의 끝났다. [This.YakOrJakLowercase]들 이제 다시 야크야키스탄 자랑스럽게 여긴다. 야크들 함께하면 뭐든 할 수 있다!"
  
- YAK_memorial_to_karsag:0 "Memorializing the Worker"
+ YAK_memorial_to_karsag:0 "노동자 추모한다"
  
- YAK_memorial_to_karsag_desc:0 "The true hero of the war, and of Yakyakistan, is the common [This.YakOrJakLowercase] laborer. No guns could be built, fields planted and harvested, road paved, none of it could be down without them!"
+ YAK_memorial_to_karsag_desc:0 "노동자 [This.YakOrJakLowercase]들 없었으면 총 못 만들었다. 농사도 못 짓고 도로도 못 깔았을거다. 승전, 그리고 야크야키스탄의 진정한 영웅은 노동자다!"
  
- YAK_new_homes_in_jaki:0 "Settling the Lost"
+ YAK_new_homes_in_jaki:0 "집 갈 시간이다"
  
- YAK_new_homes_in_jaki_desc:0 "The war displaced many. We've taken care of much of the refugee population, but it is time to return those who wish to return to the lands that they lost to violence and war."
+ YAK_new_homes_in_jaki_desc:0 "전쟁때문에 난민 많이 생겼다. 야크들 어려울 때 서로 도우면서 살았다. 이제 재건 다 했으니 돌아가고 싶은 야크들 돌아갈 때 됐다."
  
- YAK_promote_war_hero:0 "Bara'durs Favored Son"
+ YAK_promote_war_hero:0 "바라'듀르의 아들"
  
- YAK_promote_war_hero_desc:0 "Is it cynical or genuine for us to promote the head of the Veteran's League? Perhaps it is both. It keeps them quiet, and it rewards him for service for which we are very grateful."
+ YAK_promote_war_hero_desc:0 "퇴역군인회 대표한테 훈장 준다. 이거 정치적 의도인가? 진심이기도 하다. 야크 헌신에 보답할 줄 안다."
  
- YAK_better_cities:0 "Improve Living Conditions"
+ YAK_better_cities:0 "삶의 질 개선한다"
  
- YAK_better_cities_desc:0 "With some tweaking to our outdated labor laws, there's never been a better time to be a city [This.YakOrJakLowercase]!"
+ YAK_better_cities_desc:0 "구닥다리 노동법 개정했다. 빨리 상경해서 도시 [This.YakOrJakLowercase] 돼라!"
  
- YAK_sneldarfest_in_baradur:0 "Celebrate Sneldarfest!"
+ YAK_sneldarfest_in_baradur:0 "스넬다르페스트 기념한다!"
  
- YAK_sneldarfest_in_baradur_desc:0 "In the midst of all of this reconstruction and modernization, we can't forget our roots. The Prince has planned the most [This.YakOrJakUppercase] celebration ever for Sneldarfest in Bara'dur."
+ YAK_sneldarfest_in_baradur_desc:0 "야크들 현대화 성공 했지만 뿌리를 잊어서는 안된다. 왕자 제일 성대한 [This.YakOrJakUppercase] 기념일 계획했다. 바라'듀르의 스넬다르페스트 기념한다!"
  
- YAK_hunt_for_allies:0 "Our Allies"
+ YAK_hunt_for_allies:0 "동맹들"
  
- YAK_hunt_for_allies_desc:0 "[This.YakOrJakUppercase]s are strong! We are always strong! But being strong doesn't mean that we can't have friends. The Prince weighs his options..."
+ YAK_hunt_for_allies_desc:0 "[This.YakOrJakUppercase] 강하다! 항상 강하다! 하지만 강하다고 친구 못 사귀는 건 아니다. 왕자 여러 외교 선택지들 두고 고민한다."
  
- YAK_kingdom_best:0 "Proclaim the Kingdom"
+ YAK_kingdom_best:0 "왕위 받는다"
  
- YAK_kingdom_best_desc:0 "Prince Rutherford wasn't really coronated in quite the most dignified way as leader of Yakyakistan. Now that we are at peace, it is time to make everything oficial."
+ YAK_kingdom_best_desc:0 "러더포드 왕자 사실 공식적으로 대관받은 적 없다. 상황이 상황이라 그랬다. 이제 모든게 안정됐으니 공식적으로 대관받을 수 있다."
  
- YAK_approach_equestria:0 "Send Envoys to the Ponies"
+ YAK_approach_equestria:0 "포니들한테 사절 보낸다"
  
- YAK_approach_equestria_desc:0 "Rutherford has chosen to approach Equestria with an offer of alliance. He has modeled Yakyakistan's modernization on Equestria, and ponies teach in our universities. This is just a formality."
+ YAK_approach_equestria_desc:0 "이퀘스트리아한테 동맹 제안한다. 사실 야크야키스탄 현대화 모델 이퀘스트리아였다. 이미 포니들 야크 대학에서 야크 가르친다. 그냥 형식적인 외교 제안일 뿐이다."
  
- YAK_go_alone:0 "Friend to All, Beholden to None"
+ YAK_go_alone:0 "모두와 친구지만..."
  
- YAK_go_alone_desc:0 "Sadly, Rutherford concludes that there are no potential friends for Yakyakistan at this time. To that end, we must make sure that we are secure until happier times."
+ YAK_go_alone_desc:0 "러더포드 왕자 생각했다. 슬프지만 아직 야크야키스탄과 동맹 맺을만한 국가 없다. 동맹 생기기 전까진 우리 행복 우리 손으로 지킨다."
  
- YAK_work_with_equestria:0 "Work With Equestria"
+ YAK_work_with_equestria:0 "이퀘스트리아랑 같이 일한다"
  
- YAK_work_with_equestria_desc:0 "Equestrian generals have sent one of their own as an attache to our high command. We have already welcomed him in proper [This.YakOrJakUppercase] fashion as a good friend! Hope his broken bones heal soon!"
+ YAK_work_with_equestria_desc:0 "장군 포니 우리 사령부 부관으로 왔다. 이미 [This.YakOrJakUppercase]식으로 엄청 환영해줬다! 뼈 부러진건... 빨리 낫기를 바란다!"
  
- YAK_share_tech:0 "Share Our Mountain Lore"
+ YAK_share_tech:0 "산지 경험 공유한다"
  
- YAK_share_tech_desc:0 "As they teach us, we should teach them. Equestrians know lots, but [This.YakOrJakLowercase]s know the true Mountain ways. Ponies are terrible in the mountains!"
+ YAK_share_tech_desc:0 "포니들 야크들한테 많은 거 가르쳐줬다. 우리도 포니들한테 많이 알려줘야 한다. 포니들 많은거 알지만 산은 야크가 전문가다. 포니들 산지에서 형편없다!"
  
- YAK_fortify_saihan_tolgod:0 "Fortify Sihan Tolgod"
+ YAK_fortify_saihan_tolgod:0 "시한 톨고드 요새화한다"
  
- YAK_fortify_saihan_tolgod_desc:0 "We've started building bunkers in every defensible place. A strange pony from the south has offered us his services, and so far his work is excellent!"
+ YAK_fortify_saihan_tolgod_desc:0 "방어할 수 있는 모든 곳에 벙커 만든다. 남쪽에서 온 이상한 포니가 짓는거 도왔다. 남쪽 포니 기술 훌륭하다!"
  
- YAK_homeland_advantage:0 "Behind Every Blade of Grass"
+ YAK_homeland_advantage:0 "수풀 속에서"
  
- YAK_homeland_advantage_desc:0 "Behind every blade of grass there shall be a [This.YakOrJakLowercase] ready to SMASH! Or something. [This.YakOrJakUppercase]s are actually terrible at hiding."
+ YAK_homeland_advantage_desc:0 "[This.YakOrJakLowercase]들 수풀 속에서 적들 부수려고 대기한다! 사실... [This.YakOrJakLowercase]들 숨는거 잘 못한다."
  
- YAK_crystal_education:0 "Cadance's Schoolmarms"
+ YAK_crystal_education:0 "케이던스가 교관 보냈다"
  
- YAK_crystal_education_desc:0 "Princess Cadance has sent a regiment's worth of cheerful crystal ponies to bolster our struggling schools. Somehow, we feel both charmed and intimidated by them."
+ YAK_crystal_education_desc:0 "케이던스 공주가 우리 훈련 도와줬다. 유능하고 명랑한 크리스탈 포니 교관 많이 보냈다. 크리스탈 포니들 예쁘지만 무섭다..."
  
- YAK_help_crystal:0 "[This.YakOrJakUppercase] Strength for Pretty Ponies"
+ YAK_help_crystal:0 "[This.YakOrJakUppercase] 예쁜 포니들 위해 힘쓴다"
  
- YAK_help_crystal_desc:0 "Cadence's aid has charmed all of Yakyakistan, and the upswell of public opinion has resulted in Rutherford making a personal gift of army engineers to prepare their city against any danger."
+ YAK_help_crystal_desc:0 "케이던스 공주가 보낸 포니들 모든 야크가 좋아한다. 포니들에 대한 여론도 엄청 좋다. 러더포드 왕자 크리스탈 포니 기술자들한테 개인적으로 선물 줄 거다!"
  
- YAK_fortify_karsag:0 "Fortify Karsakag"
+ YAK_fortify_karsag:0 "카르사카그 요새화한다"
  
- YAK_fortify_karsag_desc:0 "The odd engineer, Hocks something or other, has done it again! Karsakag and our industrial heartland will be much more secure now with his help."
+ YAK_fortify_karsag_desc:0 "이상한 남쪽 포니 또 해냈다! 카르사카그 산업 중심지 이제 안전하다!"
  
- YAK_fortify_baradur:0 "Fortify Bara'dur"
+ YAK_fortify_baradur:0 "바라'듀르 요새화한다"
  
- YAK_fortify_baradur_desc:0 "Though the Veterans in Bara'dur are distrusting of ponies, they have a grudging respect for Hocks-whats-his-name. [This.YakOrJakUppercase]s may be prideful, but we aren't fools."
+ YAK_fortify_baradur_desc:0 "바라'듀르 퇴역군인회 여전히 포니 못 믿는다. 하지만 남쪽 포니만큼은 믿는다. 자존심 강해도 인정할 건 인정한다."
  
- YAK_tech_trade:0 "Equestrian-[This.YakOrJakUppercase] Accords"
+ YAK_tech_trade:0 "이퀘스트리아-[This.YakOrJakUppercase] 협약"
  
- YAK_tech_trade_desc:0 "The final negotiations regarding the Equestrian-[This.YakOrJakUppercase] alliance and our place in the wider coalition have begun, and we will soon be full fledged members of a powerful bloc."
+ YAK_tech_trade_desc:0 "마지막 협상 진행 중이다. 야크들 곧 이퀘스트리아-[This.YakOrJakUppercase] 동맹이랑 연합군에서 지금보다 더 중요한 위치에 설거다!"
  
- YAK_fortify_yakitown:0 "Fortress Yakitown"
+ YAK_fortify_yakitown:0 "야키타운 요새"
  
- YAK_fortify_yakitown_desc:0 "Open to all in peace, and with not an inch given in war. We are the [This.YakOrJakLowercase]s, and the spirits of the mountains have no pity on intruders--the evil will be SMASHED."
+ YAK_fortify_yakitown_desc:0 "평시에 모두가 드나든다. 전시에 아무도 못 지나간다. 우리는 [This.YakOrJakUppercase]다! 산의 정령이 침입자 하나도 안 불쌍하댔다. 악당들 부순다!"
  
  ########################################## Communist YAKS ##################
  
- YAK_communism_win:0 "All Power to the Soviet!"
+ YAK_communism_win:0 "소비에트 모든 권력 가진다!"
  
- YAK_communism_win_desc:0 "A victory for the proleteriat! Today, there are no more masters! Every [This.YakOrJakLowercase] is a free [This.YakOrJakLowercase], and the State shall now serve the people."
+ YAK_communism_win_desc:0 "노동자 이겼다! 이제 주인도 왕도 없고 모든 [This.YakOrJakUppercase]가 자유 [This.YakOrJakUppercase]다! 국가 인민 위해 존재한다!"
  
- YAK_spread_ideas:0 "Educate the Masses"
+ YAK_spread_ideas:0 "보편교육"
  
- YAK_spread_ideas_desc:0 "Now free [This.YakOrJakLowercase]s must be educated. Theory cannot be kept in ivory towers for polite society to bicker about. The revolution is not a tea party!"
+ YAK_spread_ideas_desc:0 "자유 [This.YakOrJakLowercase]들 모두 교육받아야 한다. 사회 이론들 상아탑에서만 가르치면 안된다. 혁명이 장난인가?"
  
- YAK_plan_future:0 "Plan the Great Leap Forward"
+ YAK_plan_future:0 "대약진운동 계획한다"
  
- YAK_plan_future_desc:0 "The revolution must be secured through more than mere might. [This.YakOrJakUppercase]s are strong, but our strength must be about more than weapons and tanks. Let us plan a better Yakyakistan."
+ YAK_plan_future_desc:0 "혁명 지키려면 힘보다 강한 힘 필요하다. [This.YakOrJakLowercase] 강하지만 총이나 전차와는 다른 힘 필요하다. 더 나은 야크야키스탄 만들 계획 세운다!"
  
  YAK_sekrit_police:0 "Special Bodies of Armed [This.YakOrJakUppercase]s"
  
@@ -362,9 +362,9 @@
 
  YAK_global_revolution_desc:0 "Our Stalliongrad friends talk about a world that works like Stalliongrad and Yakyakistan. A world where everyone is equal and free, where everyone is fed and happy. But [This.YakOrJakLowercase]s don't dream. [This.YakOrJakUppercase]s Do--Let us Free the World!"
  
- YAK_communism_best_communism:0 "[This.YakOrJakUppercase] Communism Best Communism"
+ YAK_communism_best_communism:0 "[This.YakOrJakUppercase] 공산주의가 최고의 공산주의다"
  
- YAK_communism_best_communism_desc:0 "Comrade-Leader's wisdom is never wrong. The ponies are foolish! The Bears are strange! The bugs are Ugly! Only [This.YakOrJakLowercase]s can defend the revolution of the [This.YakOrJakLowercase]s! Only we freed ourselves. Let us always remember that."
+ YAK_communism_best_communism_desc:0 "지도자 동지 지혜 절대 안 틀린다. 조랑말 멍청하고 곰들 이상하다! 벌레는 못생겼다! [This.YakOrJakLowercase] 혁명 [This.YakOrJakLowercase]가 스스로 지킨다! 야크들 야크 발으로 자유로워졌다."
  
  ######################################## Fascist Yaks ######################
  
