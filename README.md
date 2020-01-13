@@ -161,7 +161,7 @@
 - ![WIT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Kingdom_of_Wittenland.png/revision/latest/scale-to-width-down/24?cb=20191119215332) `WIT` - 비텐란트
 - ![WNG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/3/38/Kingdom_of_Wingbardy.png/revision/latest/scale-to-width-down/24?cb=20180922044125) `WNG` - 윙바르디 왕국
 - ![YAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/90/Kingdom_of_Yakyakistan.png/revision/latest/scale-to-width-down/24?cb=20180922043947) `YAK` - 야크야키스탄
-- ![YAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/26/Yale_Rectorate.png/revision/latest?cb=20191201094136) `YAL` -  Yale Rectorate
+- ![YAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/26/Yale_Rectorate.png/revision/latest?cb=20191201094136) `YAL` -  예일 학장국
 - ![ZES flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Nyumba_ya_Kaskazini.png/revision/latest/scale-to-width-down/24?cb=20180922041904) `ZES` - 늄바 야 카스카지니
 
 ## 그 외
