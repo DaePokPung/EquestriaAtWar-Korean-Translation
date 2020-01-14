@@ -372,117 +372,117 @@
  
  YAK_fascism_win_desc:0 "재키도, 왕자도, 나약함도 없다! 이제 부족들 바라'듀르 말 무조건 따른다. 지금부터, 제국 다시 태어난다!"
  
- YAK_our_situation:0 "Assessing the Situation"
+ YAK_our_situation:0 "현재 상황 파악한다"
  
- YAK_our_situation_desc:0 "All Glory to Yakyakistan! War has taken many [This.YakOrJakLowercase]s from us, and left our country in shambles. Rutherford and the Elders were all too weak to avoid this, and now we must fix it all."
+ YAK_our_situation_desc:0 "야키야키스탄에 영광을! [This.YakOrJakLowercase]들 전쟁 때문에 많이 죽었다. 국가 난장판 됬다. 러더포드랑 장로들 이 문제 해결하기엔 너무 약했다. 이제 우리가 문제 고친다."
  
- YAK_rebuilding_shattered_nation:0 "Rebuilding..."
+ YAK_rebuilding_shattered_nation:0 "재건하고..."
  
- YAK_rebuilding_shattered_nation_desc:0 "Before we can make Yakyakistan a true empire again, we must first work to unite it. The war was only the beginning. Now we bind the clans into a single empire."
+ YAK_rebuilding_shattered_nation_desc:0 "야크야키스탄 진짜 제국 되려면 야크들 통합해야 한다. 전쟁 이제 막 시작했을 뿐이다. 부족들 하나로 묶는다!"
  
- YAK_reuniting_our_divided_nation:0 "...and Reuniting"
+ YAK_reuniting_our_divided_nation:0 "...하나 된다"
  
- YAK_reuniting_our_divided_nation_desc:0 "With the Jaki Clan back, all [This.YakOrJakLowercase]s now walk side by side. We will grow closer and stronger together and SMASH any who would doubt us!"
+ YAK_reuniting_our_divided_nation_desc:0 "[This.YakOrJakLowercase]들 이제 모두 하나다. 재키들까지 하나다. 야크 같이 가까워지고 강해진다! 야크 힘 의심하면 부순다!"
  
- YAK_create_projects:0 "Invest in Public Works"
+ YAK_create_projects:0 "공공사업에 투자한다"
  
- YAK_create_projects_desc:0 "[This.YakOrJakUppercase]s are Stronger and Better than others. Our ways are perfect, and it is high time we showed how superior we can truly be."
+ YAK_create_projects_desc:0 "[This.YakOrJakUppercase] 다른 종족보다 강하고 좋다. 우리 방식 언제나 최고였다. 이제 더 더 최고일 수 있다는 사실 보여줄 때 됐다."
  
- YAK_fund_militias:0 "Raise Militias"
+ YAK_fund_militias:0 "의용군 모은다"
  
- YAK_fund_militias_desc:0 "Our army is good, but it could be bigger. It could be a lot bigger. That starts now. More troops means more SMASH!"
+ YAK_fund_militias_desc:0 "우리 군대 강하지만 더 크면 좋겠다. 엄청 커야 된다. 병력 많으면 많이 부술수 있다!"
  
- YAK_return_life_to_normal:0 "Peace for Common [This.YakOrJakUppercase]s"
+ YAK_return_life_to_normal:0 "[This.YakOrJakUppercase]들 평화 필요하다
  
- YAK_return_life_to_normal_desc:0 "The Rebels have returned, and so for now the regular [This.YakOrJakLowercase]s should be free to feel like life is normal. Let them rest while we plan what next gets SMASHed."
+ YAK_return_life_to_normal_desc:0 "반란군 날뛰어서 [This.YakOrJakLowercase]들 삶 피폐해졌다. 반란군 지금은 승승장구하지만 곧 부순다!"
  
- YAK_more_trains:0 "Trains, Trains, And Also Trains"
+ YAK_more_trains:0 "기차, 기차, 더 많은 기차"
  
- YAK_more_trains_desc:0 "Who cares if they run on time? We just need lots. Many is more than almost none. If you kind of squint, trains sort of look like a charging [This.YakOrJakLowercase]."
+ YAK_more_trains_desc:0 "기차 제때제때 오긴 하는데 너무 안 온다. 기차 많이 필요하다! 기차 많은게 없는거보다 무조건 좋다. 실눈 뜨면 기차 달리는 [This.YakOrJakLowercase] 무리처럼 보인다." 
  
- YAK_military_is_essential:0 "Center the Military"
+ YAK_military_is_essential:0 "군대에 집중한다"
  
- YAK_military_is_essential_desc:0 "Complacent [This.YakOrJakLowercase]s are Dead [This.YakOrJakLowercase]s! We cannot be like Prince Whoever-He-Was. Only strength of arms can make our empire great again."
+ YAK_military_is_essential_desc:0 "현실에 안주하는 [This.YakOrJakLowercase] 죽은 [This.YakOrJakLowercase]다! 러더포드 실수 반복하면 안된다. 제국 다시 위대하게 만드려면 힘 필요하다!"
  
- YAK_more_jobs_for_yaks:0 "Get a Job!"
+ YAK_more_jobs_for_yaks:0 "직장 구해라!"
  
- YAK_more_jobs_for_yaks_desc:0 "Before we took over, the Clans had many [This.YakOrJakLowercase]s out of work. But now that we are strong again, let us put the people to work for the glory of Yakyakistan."
+ YAK_more_jobs_for_yaks_desc:0 "제국 세우기 전에 실업자 [This.YakOrJakLowercase]들 많았다. 이제 야크들 강해졌으니 [This.YakOrJakLowercase]들 야크야키스탄 영광 위해서 열심히 일한다!"
  
- YAK_reopen_schools:0 "Vacation Is Over"
+ YAK_reopen_schools:0 "방학 끝났다"
  
- YAK_reopen_schools_desc:0 "Many schools were closed during the War. Now that we have come together for the great glory of all [This.YakOrJakUppercase]-kind, they must be opened again. Smart [This.YakOrJakLowercase]s SMASH more effeciently, after all."
+ YAK_reopen_schools_desc:0 "전쟁 때문에 학교 휴교했다. 이제 [This.YakOrJakUppercase]들 승리하고 영광 아래 모두 모였다. 학교 다시 열어야 한다! 똑똑한 [This.YakOrJakUppercase]들 더 효율적으로 부순다!"
  
- YAK_work_for_the_cause:0 "Work For the Cause"
+ YAK_work_for_the_cause:0 "대의 위해 일한다"
  
- YAK_work_for_the_cause_desc:0 "The Empire is made out of you, every single [This.YakOrJakLowercase]! It is made out of our strength and our culture! We are the Best! Yakyakistan First and Only."
+ YAK_work_for_the_cause_desc:0 "제국 뭐로 만들어졌는지 아나? [This.YakOrJakLowercase]들 한마리 한마리 노력으로 만들어졌다! 우리 힘과 문화로 만들어졌다! 우리 최고다. 야크야키스탄 제일 최고다!"
  
- YAK_finish_unification:0 "Burying the Hatchet"
+ YAK_finish_unification:0 "싸움 끝내고 다시 친구한다"
  
- YAK_finish_unification_desc:0 "The scars of our unification war are healing. Perhaps it will take many years for the memories to fade entirely, but the traitors are mostly dead anyway, so bygones are bygones."
+ YAK_finish_unification_desc:0 "통일전쟁 상처 아물고 있다. 하지만 기억 완전히 희미해지려면 시간 많이 걸린다. 아무튼 반역자들 전부 죽였으니 이 문제 시간이 해결한다."
  
- YAK_baradur_university:0 "Bara'dur University"
+ YAK_baradur_university:0 "바라'듀르 대학"
  
- YAK_baradur_university_desc:0 "The homeland of our Leader should reflect his greatness. A University is pretty great, right? Build one, with statues and a stadium for thousands!"
+ YAK_baradur_university_desc:0 "지도자 위대하다. 지도자 고향도 위대해야 한다. 대학 짓자! 동상도 짓고 수천 마리 들어갈 스타디움도 짓는다!"
  
- YAK_plan_of_action:0 "Council of War"
+ YAK_plan_of_action:0 "전쟁 의회"
  
- YAK_plan_of_action_desc:0 "Now that we are well established, we must look beyond our borders. The Empire must expand to be Great again. But where shall we strike first?"
+ YAK_plan_of_action_desc:0 "국가 내부 일 전부 처리했다. 이제 국경 너머 바라봐야 한다. 제국 다시 위대하게 만든다! 그런데 어디부터 쳐야 하나?"
  
- YAK_strike_north:0 "Reclaim Lost Realms"
+ YAK_strike_north:0 "잃어버린 영토 다시 찾는다"
  
- YAK_strike_north_desc:0 "Once, we roamed all of the north. But Griffin colonization pushed us back into these valleys and the bears and penguins have kingdoms now. We must reclaim what was stolen from us."
+ YAK_strike_north_desc:0 "우리 옛날에는 넓은 북방 영토에서 뛰어다녔다. 하지만 그리폰들 자기 도시 세우고 우리 이 계곡으로 밀어넣었다. 곰이랑 펭귄은 독립 왕국 세웠다. 뺏긴 땅들 전부 찾는다!"
  
- YAK_prepare_changeling_war:0 "War Plan Black"
+ YAK_prepare_changeling_war:0 "검은 전쟁 계획"
  
- YAK_prepare_changeling_war_desc:0 "Before we can attack anyone else, we must first face the real threat. The Bugs threaten every living thing on Equus. We must strike now before they grow more powerful."
+ YAK_prepare_changeling_war_desc:0 "다른 국가 공격하기 전에 진짜 위협부터 처리해야 된다. 벌레들 에쿠스 대륙 모든 생명체 위협한다. 벌레들 더 강해지기 전에 공격해서 부숴야 한다!"
  
- YAK_improve_high_command:0 "Reshuffle General Staff"
+ YAK_improve_high_command:0 "참모진 개편한다"
  
- YAK_improve_high_command_desc:0 "Before we can truly make the empire great again, we must first make our generals great again. Let's boot out the old bastards and get some new bastards."
+ YAK_improve_high_command_desc:0 "제국 다시 위대하게 하려면 장군들부터 위대하게 만들어야 된다. 늙고 멍청한 놈들 쫓아내고 새로운 장군들 구한다!"
  
- YAK_rally_yaks:0 "The Muster of Yakitown"
+ YAK_rally_yaks:0 "야키타운 소집령"
  
- YAK_rally_yaks_desc:0 "Let every [This.YakOrJakUppercase] know that the hour has come for Yakyakistan to claim its inheritance of greatness. We were weak, but now we are strong. Divided, but now united. We shall SMASH until none can stand before us."
+ YAK_rally_yaks_desc:0 "모든 [This.YakOrJakUppercase]들한테 알려라. 야크야키스탄 이제 위대한 영광 이룰 때 왔다! 우리 약헀지만 이제 강하다. 갈라져 있었지만 이제 하나다. 우리 [This.YakOrJakUppercase] 앞길 막는 것들 전부 부순다!"
  
- YAK_final_war_preparations:0 "Final Preparations"
+ YAK_final_war_preparations:0 "최종 점검"
  
- YAK_final_war_preparations_desc:0 "Double check everything. Drill every division. SMASH every practice dummy! [This.YakOrJakUppercase]s will destroy EVERYTHING that is not [This.YakOrJakLowercase]s or [This.YakOrJakUppercase]-Ways! SMASH THE BUGS!"
+ YAK_final_war_preparations_desc:0 "준비 잘 했는지 두 번 확인한다. 모든 사단 훈련시키고 연습용 더미 부순다! [This.YakOrJakUppercase] [This.YakOrJakUppercase] 아닌 것들, [This.YakOrJakUppercase] 방식 안 따르는 것들 전부 부순다! 특히 벌레! 부순다!"
  
- YAK_attack_bugs:0 "Smash the Bugs"
+ YAK_attack_bugs:0 "벌레 부순다"
  
- YAK_attack_bugs_desc:0 "When the Elders gave command to the Veterans of Bara'dur, did they anticipate this moment? Did they see our glorious [This.YakOrJakUppercase]-Ways perfected? Did they know we would be Great?"
+ YAK_attack_bugs_desc:0 "부족 장로 야크들 바라'듀르 퇴역군인회 지휘하던 시절에 이런 일 가능했을 것 같나? [This.YakOrJakUppercase]들 [This.YakOrJakUppercase] 방식으로 영광 누릴 수 있었을 것 같나?"
  
- YAK_attack_penguins:0 "Punt the Penguins"
+ YAK_attack_penguins:0 "얼음새 이길거다"
  
- YAK_attack_penguins_desc:0 "Penguins? Don't remember those being around before. Probably missed them because of how small they are--but no matter! We'll trample them anyway!"
+ YAK_attack_penguins_desc:0 "펭귄 국가 언제 세웠나? 너무 작아서 눈치도 못 챘다. 그래도 상관없다! 어차피 다 부술거다!"
  
- YAK_attack_bears:0 "Break the Bears"
+ YAK_attack_bears:0 "곰 부순다"
  
- YAK_attack_bears_desc:0 "The Polar Bears are strong and large. We respect both. But [This.YakOrJakUppercase]s are obviously stronger, larger, and better. Lets show them just how stronger we really are! Push them back, [This.YakOrJakLowercase]s! SMASH!"
+ YAK_attack_bears_desc:0 "북극곰 강하고 크다. 야크 북극곰 힘과 덩치 존중한다. 하지만 [This.YakOrJakUppercase]들이 명백히 더 강하고, 더 크고, 더 낫다. 우리 얼마나 강한지 보여준다! [This.YakOrJakLowercase] 북극곰 부순다!"
  
- YAK_attack_birbs:0 "[This.YakOrJakUppercase] SMASH Pretty Catbirds"
+ YAK_attack_birbs:0 "[This.YakOrJakUppercase] 귀여운 고양이새 부순다!"
  
- YAK_attack_birbs_desc:0 "Nova Griffonia was a Mistake! If they didn't want a horde of [This.YakOrJakLowercase]s SMASHing everything, maybe they should have considered that before moving in! We'll burn our way to Weter!"
+ YAK_attack_birbs_desc:0 "[This.YakOrJakLowercase] 군단 노바 그리포니아 모든 것들 다 부순다! 그리폰들 실수했다. 부서지기 싫었으면 애초에 이 땅에 발 담그지 말았어야 했다. 바다로 가는 길 낼거다!"
 
- YAK_prepare_the_elites:0 "Marshalling Our Finest"
+ YAK_prepare_the_elites:0 "최종 목표 달성한다"
  
- YAK_prepare_the_elites_desc:0 "We know no fear! No bug or bear or Pony or Bird can stop us. Yakyakistan for the [This.YakOrJakLowercase]s! Everywhere else for us too! We are legion!"
+ YAK_prepare_the_elites_desc:0 "우리 두려움 모른다! 벌레, 곰, 포니, 새 아무도 우리 못 막는다. 야크야키스탄 [This.YakOrJakLowercase]거다. 다른 모든 땅들도 그렇다! 우리 군단이다!"
  
- YAK_war_preparations:0 "Prologue to War"
+ YAK_war_preparations:0 "전쟁의 프롤로그"
  
- YAK_war_preparations_desc:0 "Our leader rouses the unstoppable armies to frenzy every day, and despite everything we grow only more feverish. We will tear every one of them to shreds and then trample the pieces."
+ YAK_war_preparations_desc:0 "지도자 막을 수 없는 야크 군대 뿐만 아니라 모든 것들 성장하게 했다. 적들 우리 질투한다. 야크 적들 갈기갈기 찢고 부순다!"
  
- YAK_victory_penguins:0 "Punted Ice Birds"
+ YAK_victory_penguins:0 "얼음새 이겼다"
  
- YAK_victory_penguins_desc:0 "Was it cold? Very. But we've definitely punted enough penguins into early graves for them to get the hint about whose really in charge."
+ YAK_victory_penguins_desc:0 "날씨 엄청 춥다. 분명 펭귄들 잘못이다. 펭귄들 추운 날씨 책임 져야된다. 부순다!"
  
- YAK_victory_bears:0 "Couldn't Bear it"
+ YAK_victory_bears:0 "곰 정치 못한다"
  
- YAK_victory_bears_desc:0 "[This.YakOrJakUppercase]s may be bad at jokes, but we are good at bullying bears! They weren't smart enough to rule themselves anyway. We'll be taking all their things."
+ YAK_victory_bears_desc:0 "[This.YakOrJakUppercase] 농담 모르지만 곰 괴롭히는 건 잘 한다! 곰 스스로 다스리며 살기엔 너무 멍청하다. 우리가 대신 해준다!"
  
- YAK_victory_birbs:0 "SMASHED Catbirds"
+ YAK_victory_birbs:0 "고양이새 부쉈다!"
  
- YAK_victory_birbs_desc:0 "What is good in life, [This.YakOrJakLowercase]s? Stampede tracks with very unhappy griffins lying in them."
+ YAK_victory_birbs_desc:0 "[This.YakOrJakLowercase]들 뭐 좋아하는지 아나? 무한궤도로 불쌍한 그리핀 짓밟는거 제일 좋아한다!"
  
  ################################ Sekrit bug [This.YakOrJakLowercase] path #######################
  
