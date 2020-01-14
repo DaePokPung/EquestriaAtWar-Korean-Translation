@@ -254,113 +254,113 @@
  
  YAK_plan_future_desc:0 "혁명 지키려면 힘보다 강한 힘 필요하다. [This.YakOrJakLowercase] 강하지만 총이나 전차와는 다른 힘 필요하다. 더 나은 야크야키스탄 만들 계획 세운다!"
  
- YAK_sekrit_police:0 "Special Bodies of Armed [This.YakOrJakUppercase]s"
+ YAK_sekrit_police:0 "[This.YakOrJakUppercase] 무장단체"
  
- YAK_sekrit_police_desc:0 "Our little pony friends in Stalliongrad have talked about Reactionaries and Counter-revolutionaries, and we must be on our guard against both. Let us make special bodies of armed [This.YakOrJakLowercase]s to do just that."
+ YAK_sekrit_police_desc:0 "스탈리온그라드 포니 친구들이 반동분자랑 반혁명분자 얘기 해줬다. 둘 다 경계해야 한다. 경계할 특별한 무장단체 만든다."
  
- YAK_pioneer_organization:0 "Establish the Pioneer Programs"
+ YAK_pioneer_organization:0 "파이오니어 프로그램 시작한다"
  
- YAK_pioneer_organization_desc:0 "Childhood was very important in old Yakyakistan, and it is very important now. We have replaced the old rites of passage with new ones, like the Young Pioneers!"
+ YAK_pioneer_organization_desc:0 "야크들 어린시절 통과의례 엄청 중요하게 생각한다. 이제 혁명 성공했으니 낡은 통과의례 새거로 바꾼다. 어린 야크들 종족의 개척자다!"
  
- YAK_communist_manifesto:0 "Theory and Praxis"
+ YAK_communist_manifesto:0 "이론과 실천"
  
- YAK_communist_manifesto_desc:0 "The one other communist state has a manifesto. Shouldn't we have one too? How hard can it be for the [This.YakOrJakLowercase]s who SMASHED capitalism to write a bunch of words, really?"
+ YAK_communist_manifesto_desc:0 "다른 공산국가들 멋들어진 성명문 가지고 있다. [This.YakOrJakLowercase]도 하나 가져야 하지 않나? 단어 몇개 쓰는거 자본주의 부순 [This.YakOrJakLowercase]들한테는 식은 건초 먹기다!"
  
- YAK_abolish_unions:0 "Reform the Trade Unions"
+ YAK_abolish_unions:0 "노동조합 개혁한다"
  
- YAK_abolish_unions_desc:0 "Unions were fine when workers had to fight capitalism, but now they annoy us. We will SMASH these obvious reactionary plants who complain about our fair quotas."
+ YAK_abolish_unions_desc:0 "자본주의랑 싸울 때 노동조합 야크들 괜찮았다. 지금은 짜증난다! 맨날 할당량가지고 투덜대는 노동조합 야크들 분명 반동분자다. 반동분자 부순다!"
  
- YAK_collectivization:0 "Collectivization"
+ YAK_collectivization:0 "국가가 관리한다"
  
- YAK_collectivization_desc:0 "The food problem created by the foolish Boss-[This.YakOrJakUppercase]'s war against the jaks must be solved. We will solve it by pooling all of our resources and managing everything!"
+ YAK_collectivization_desc:0 "[This.YakOrJakUppercase]들 재키 자본가랑 전쟁하느라 식량 바닥났다. 해결 해야한다. 있는 자원 다 모으고 국가가 관리하면 해결할 수 있다!"
  
- YAK_new_school_system:0 "Insatiable in Learning"
+ YAK_new_school_system:0 "끊임 없이 배운다"
  
- YAK_new_school_system_desc:0 "The Elders and the Princes and the Bosses kept [This.YakOrJakLowercase]s down by keeping them stupid. The [This.YakOrJakUppercase] Way must change. We must grow Smarter and we will do it through free education for all young [This.YakOrJakLowercase]s."
+ YAK_new_school_system_desc:0 "장로, 왕자, 자본가들 [This.YakOrJakUppercase] 멍청하게 만들어서 지배했다. 이제 아니다. 어린 [This.YakOrJakUppercase]들 무상으로 교육시켜서 경쟁력 키운다!"
  
- YAK_every_yak_a_jerb:0 "Full Employment for All [This.YakOrJakUppercase]s"
+ YAK_every_yak_a_jerb:0 "[This.YakOrJakLowercase] 완전고용한다"
  
- YAK_every_yak_a_jerb_desc:0 "As our comrade-leader says, a [This.YakOrJakLowercase] without work is an unhappy [This.YakOrJakLowercase]. Let us guarentee jobs for every [This.YakOrJakLowercase] so that all may contribute to our glorious new society."
+ YAK_every_yak_a_jerb_desc:0 "지도자 동지 일 없는 [This.YakOrJakLowercase]가 불행한 [This.YakOrJakLowercase]라고 말했다. 모든 [This.YakOrJakLowercase]들 일할 수 있게 만들어야 한다. 그러면 영광스러운 사회에 기여 크게 할거다!"
  
- YAK_government_programs:0 "Mandatory Fun Cultural Activities"
+ YAK_government_programs:0 "의무 재미문화활동 한다"
  
- YAK_government_programs_desc:0 "While the Young Pioneers was an excellent start, there should be such things for grown [This.YakOrJakLowercase]s. How else will we SMASH and play our yovidaphones together?"
+ YAK_government_programs_desc:0 "파이오니어 프로그램 효과 엄청났다! 어른 [This.YakOrJakLowercase]들 위한 프로그램도 필요하다. 같이 부수고 요비다폰 연주하는거 어떤가?"
  
- YAK_solve_famine:0 "The Five Year Lunch Plan"
+ YAK_solve_famine:0 "5개년 점심 계획"
  
- YAK_solve_famine_desc:0 "Through trial and error, we have finally found the perfect balance to solve our food problems. A revolution that cannot feed the poor is no revolution, and now we can do just that!"
+ YAK_solve_famine_desc:0 "식량 문제 해결할 완벽한 방법 찾았다. 시행착오 엄청 많았다. 인민들 배부르게 못 해주는 혁명 혁명 아니다. 이제 혁명 완수할 수 있다!"
  
- YAK_expand_education_efforts:0 "Communists Must Study Harder"
+ YAK_expand_education_efforts:0 "공산주의자 공부 열심히 해야된다"
  
- YAK_expand_education_efforts_desc:0 "Our new schools are glorious! Our new schools absolutely do not need many more teachers or new roofs or entirely new curricula! Not at all! Can we get someyak on that?"
+ YAK_expand_education_efforts_desc:0 "새로 지은 학교들 훌륭하다! 새로 지은 학교에 좋은 교사, 좋은 커리큘럼, 튼튼한 건물 넘쳐난다! 계속 짓는다!"
  
- YAK_connect_nation:0 "Connect the Nation"
+ YAK_connect_nation:0 "국가 연결한다"
  
- YAK_connect_nation_desc:0 "Our comrade-leader has said that no [This.YakOrJakLowercase] is an island. To this end, the Party has decided to expand our primitive infastructure throughout Yakyakistan."
+ YAK_connect_nation_desc:0 "지도자 동지 [This.YakOrJakLowercase]들 섬 아니라고 말했다. 당 지도자 동지 말 따른다. 야크야키스탄 여기저기에 도로 깔러 다닌다!"
  
- YAK_military_youth:0 "From the Barrel of a Gun"
+ YAK_military_youth:0 "총열에서 나온다"
  
- YAK_military_youth_desc:0 "Comrade-leader also says--Political power grows from the barrel of a gun. The People must know what it is to have guns in their hooves as young as possible."
+ YAK_military_youth_desc:0 "지도자 동지 또 정치력은 총열에서 나온다고도 말했다. 인민들 가능한 한 어릴 때부터 총 다룰 줄 알아야 한다!"
  
- YAK_communist_education:0 "Tireless in Teaching"
+ YAK_communist_education:0 "지치지 않고 배운다"
  
- YAK_communist_education_desc:0 "In transforming backwards Yakyakistan into a glorious industrial powerhouse, we have had many challenges that our experience is not up to task for solving. We must learn to Learn."
+ YAK_communist_education_desc:0 "야키야키스탄 산업 강국 만들려고 노력 많이 했다. 그런데 야크들 경험 한참 부족하다. 야크들 계속 배워야 한다."
  
- YAK_yakitown_university:0 "Elevate Experience To Theory"
+ YAK_yakitown_university:0 "경험 이론으로 끌어올린다"
  
- YAK_yakitown_university_desc:0 "As Comrade-leader says, we must not only destroy the Old, but build the New world. Let us build a university far better than any before it!"
+ YAK_yakitown_university_desc:0 "지도자 동지 구시대적 잔재 부수고 그 자리에 새 세계까지 세워야 한다고 했다. 이제까지 없었던 최고의 대학 세운다!"
  
- YAK_continued_public_works:0 "Build Socialism, but More This Time"
+ YAK_continued_public_works:0 "사회주의 건설하고 건물도 건설한다"
  
- YAK_continued_public_works_desc:0 "Look how glorious our country is! Surely no one can doubt our revolution now! If they do we will SMASH them! But for now, we'll settle for building."
+ YAK_continued_public_works_desc:0 "야크야키스탄 얼마나 영광스러운지 봐라! 이제 아무도 우리 혁명 의심 못 한다! 의심하면 부순다! 그래도 일단 지금은 건물부터 지어야 한다."
  
- YAK_finish_jaki_integration:0 "Educate and Befriend Jaki-clan"
+ YAK_finish_jaki_integration:0 "재키랑 친하게 지낸다"
  
- YAK_finish_jaki_integration_desc:0 "The Bosses War against the Jaki is long over, but the scars are still there. All [This.YakOrJakLowercase]s are Free, and that means Jaki-clan same as every other [This.YakOrJakLowercase]."
+ YAK_finish_jaki_integration_desc:0 "재키 자본가들 부수는 전쟁 오래 전에 끝났지만 아직 상처 남아있다. 모든 [This.YakOrJakUppercase]들 자유로우니까 재키들도 [This.YakOrJakUppercase]처럼 대우해줘야 된다."
  
- YAK_industrial_build_up:0 "Big Socialism for Big [This.YakOrJakUppercase]s"
+ YAK_industrial_build_up:0 "[This.YakOrJakUppercase] 크니까 사회주의도 커야한다"
  
- YAK_industrial_build_up_desc:0 "The world is growing more dangerous all around us. Let us prepare to meet it with more factories. [This.YakOrJakUppercase] strength will outproduce everything soon!"
+ YAK_industrial_build_up_desc:0 "주변 정세 점점 위험해지고 있다. 공장 더 지어서 대비해야된다. [This.YakOrJakUppercase] 힘 조금 있으면 최고 될 거다!"
  
- YAK_workers_paradise:0 "The Workers Paradise"
+ YAK_workers_paradise:0 "노동자 낙원"
  
- YAK_workers_paradise_desc:0 "The revolution was always meant to create a Yakyakistan worth living in, and we have finally done it. "
+ YAK_workers_paradise_desc:0 "우리 혁명 목표 살만한 야크야키스탄 만드는거였다. 마침내 해냈다."
  
- YAK_every_yak_is_equal:0 "Every [This.YakOrJakUppercase] is Equal"
+ YAK_every_yak_is_equal:0 "모든 [This.YakOrJakUppercase] 평등하다"
  
- YAK_every_yak_is_equal_desc:0 "Comrade-Leader has said many times that Every [This.YakOrJakUppercase] is Equal, and after so many repetitions we finally believe it. Every [This.YakOrJakLowercase] is united behind the nation and our Leader. Glory to the People!"
+ YAK_every_yak_is_equal_desc:0 "지도자 동지 모든 [This.YakOrJakUppercase] 평등하다고 많이 말하고 실천했다. 야크들 전부 그 말 믿는다. [This.YakOrJakUppercase]들 지도자 동지와 국가 아래에 하나로 뭉쳤다. 인민에게 영광 있을거다!"
  
- YAK_more_steel:0 "Expand Our Mines"
+ YAK_more_steel:0 "광산 늘린다"
  
- YAK_more_steel_desc:0 "Steel makes guns, from which all power flows. Steel makes the tracks which pull the trains from which all the grain flows. Steel is the Future, and we will trample anything we have to seize our destiny."
+ YAK_more_steel_desc:0 "강철은 총을 만들고, 총은 힘을 만든다. 강철은 곡식 나를 선로 만든다. 강철은 미래다. 우리 미래 방해하는 것들 전부 부순다!"
  
- YAK_approach_stalliongrad:0 "The Envoy to Stalliongrad"
+ YAK_approach_stalliongrad:0 "스탈리온그라드에 사절 보낸다"
  
- YAK_approach_stalliongrad_desc:0 "The ponies of Stalliongrad were Comrade-Leaders first inspiration. We should approach them in friendship. With [This.YakOrJakUppercase] strength and whatever it is that ponies do, we will SMASH the Bourgouise!"
+ YAK_approach_stalliongrad_desc:0 "지도자 동지 스탈리온그라드 포니들 존경해 마지 않는다. 스탈리온그라드 포니들이랑 우정 쌓아야 한다. [This.YakOrJakUppercase] 힘이랑 포니 잡기술들 합쳐서 부르주아 부순다!"
  
- YAK_rejected:0 "Splitting the Revolutions"
+ YAK_rejected:0 "혁명 분열됬다"
  
- YAK_rejected_desc:0 "Stalliongrad will not talk to us. But it does not matter. [This.YakOrJakUppercase]s do not care if anyone objects to their Ways! [This.YakOrJakUppercase] ways are for the [This.YakOrJakLowercase]s, and they are always the best ways."
+ YAK_rejected_desc:0 "스탈리온그라드 우리랑 얘기 안한다. 상관 없다. [This.YakOrJakUppercase] 방식에 누가 뭐라해도 [This.YakOrJakUppercase]들 신경 안 쓴다! [This.YakOrJakUppercase] 방식 [This.YakOrJakUppercase]들 위한 거고 언제나 최고의 방식이었다!"
  
- YAK_spread_revolution_bears:0 "The Northern Revolt"
+ YAK_spread_revolution_bears:0 "북방 혁명"
  
- YAK_spread_revolution_bears_desc:0 "[This.YakOrJakUppercase]s respect strength and Hugeness. The Bears to the north have both! Let us send [This.YakOrJakLowercase]s north to find likeminded comrades and liberate the workers from their masters!"
+ YAK_spread_revolution_bears_desc:0 "[This.YakOrJakUppercase]들 힘과 거대함 존중한다. 북쪽 곰들 둘 다 가지고 있다! [This.YakOrJakUppercase] 몇 마리 북쪽으로 보내서 생각 비슷한 곰 찾는다. 찾아서 해방시킨다!"
  
- YAK_build_yaki_line:0 "Defend Yakitown!"
+ YAK_build_yaki_line:0 "야키타운 방어한다!"
  
- YAK_build_yaki_line_desc:0 "Our small pony friends advise us that Yakitown's defenses require modernizing. They have brought plans and materials to help us turn this city into a bastion of the People."
+ YAK_build_yaki_line_desc:0 "포니 친구들 야키타운 방어선 현대화 필요하다고 말했다. 우리한테 야키타운 인민의 보루로 만들 수 있는 계획서 가져왔다."
  
- YAK_defend_boarders:0 "Bunker Boys"
+ YAK_defend_boarders:0 "벙커 포니"
  
- YAK_defend_boarders_desc:0 "Stalliongrad has betrayed us, but a pony from Peterhoof named Hocks-Ha has offered his bunker-building services to us. He seems wise, yet also slightly Odd."
+ YAK_defend_boarders_desc:0 "스탈리온그라드 우리 배신했지만 페테르후프에서 온 포니는 배신 안하고 벙커 지어줬다. 이름 호크스 하라고 했다. 똑똑해보이기는 한데 좀 이상해보인다."
 
- YAK_fortress_yakistan:0 "None Shall Pass!"
+ YAK_fortress_yakistan:0 "절대 못 지나간다!"
  
- YAK_fortress_yakistan_desc:0 "Comrade-Leader says that the true bastion of Iron is the People! Our greatest defense has always been ourselves, our strength and our Bigness! But the concrete bunkers help too. Yakyakistan for the Workers!"
+ YAK_fortress_yakistan_desc:0 "지도자 동지 인민이 강철요새라고 말했다! 야크들 항상 우리 힘이랑 덩치 믿고 스스로 지켜왔다! 물론... 콘트리트 벙커도 조금 도왔다. 야크야키스탄 노동자 위한다!"
  
- YAK_global_revolution:0 "A Spectre Haunting the North"
+ YAK_global_revolution:0 "유령 하나 북방 배회한다"
 
- YAK_global_revolution_desc:0 "Our Stalliongrad friends talk about a world that works like Stalliongrad and Yakyakistan. A world where everyone is equal and free, where everyone is fed and happy. But [This.YakOrJakLowercase]s don't dream. [This.YakOrJakUppercase]s Do--Let us Free the World!"
+ YAK_global_revolution_desc:0 "스탈리온그라드 포니들 온세상이 야크야키스탄이나 스탈리온그라드처럼 돌아가기를 꿈꾼다. 모두 평등하고 자유롭다. 모두 배부르고 행복하다. 하지만 [This.YakOrJakLowercase]들 꿈 안꾼다. 실천한다! 온세상 자유롭게 만든다!"
  
  YAK_communism_best_communism:0 "[This.YakOrJakUppercase] 공산주의가 최고의 공산주의다"
  
@@ -368,9 +368,9 @@
  
  ######################################## Fascist Yaks ######################
  
- YAK_fascism_win:0 "Restoring the Empire"
+ YAK_fascism_win:0 "제국 부활했다"
  
- YAK_fascism_win_desc:0 "No more jaks, no more Prince, no more weakness! Now Bara'dur leads the way, and the clans shall follow. For now, we rebuild, but the Empire shall live again!"
+ YAK_fascism_win_desc:0 "재키도, 왕자도, 나약함도 없다! 이제 부족들 바라'듀르 말 무조건 따른다. 지금부터, 제국 다시 태어난다!"
  
  YAK_our_situation:0 "Assessing the Situation"
  
