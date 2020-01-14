@@ -372,37 +372,37 @@
  
  YAK_fascism_win_desc:0 "재키도, 왕자도, 나약함도 없다! 이제 부족들 바라'듀르 말 무조건 따른다. 지금부터, 제국 다시 태어난다!"
  
- YAK_our_situation:0 "Assessing the Situation"
+ YAK_our_situation:0 "현재 상황 파악한다"
  
- YAK_our_situation_desc:0 "All Glory to Yakyakistan! War has taken many [This.YakOrJakLowercase]s from us, and left our country in shambles. Rutherford and the Elders were all too weak to avoid this, and now we must fix it all."
+ YAK_our_situation_desc:0 "야키야키스탄에 영광을! [This.YakOrJakLowercase]들 전쟁 때문에 많이 죽었다. 국가 난장판 됬다. 러더포드랑 장로들 이 문제 해결하기엔 너무 약했다. 이제 우리가 문제 고친다."
  
- YAK_rebuilding_shattered_nation:0 "Rebuilding..."
+ YAK_rebuilding_shattered_nation:0 "재건하고..."
  
- YAK_rebuilding_shattered_nation_desc:0 "Before we can make Yakyakistan a true empire again, we must first work to unite it. The war was only the beginning. Now we bind the clans into a single empire."
+ YAK_rebuilding_shattered_nation_desc:0 "야크야키스탄 진짜 제국 되려면 야크들 통합해야 한다. 전쟁 이제 막 시작했을 뿐이다. 부족들 하나로 묶는다!"
  
- YAK_reuniting_our_divided_nation:0 "...and Reuniting"
+ YAK_reuniting_our_divided_nation:0 "...하나 된다"
  
- YAK_reuniting_our_divided_nation_desc:0 "With the Jaki Clan back, all [This.YakOrJakLowercase]s now walk side by side. We will grow closer and stronger together and SMASH any who would doubt us!"
+ YAK_reuniting_our_divided_nation_desc:0 "[This.YakOrJakLowercase]들 이제 모두 하나다. 재키들까지 하나다. 야크 같이 가까워지고 강해진다! 야크 힘 의심하면 부순다!"
  
- YAK_create_projects:0 "Invest in Public Works"
+ YAK_create_projects:0 "공공사업에 투자한다"
  
- YAK_create_projects_desc:0 "[This.YakOrJakUppercase]s are Stronger and Better than others. Our ways are perfect, and it is high time we showed how superior we can truly be."
+ YAK_create_projects_desc:0 "[This.YakOrJakUppercase] 다른 종족보다 강하고 좋다. 우리 방식 언제나 최고였다. 이제 더 더 최고일 수 있다는 사실 보여줄 때 됐다."
  
- YAK_fund_militias:0 "Raise Militias"
+ YAK_fund_militias:0 "의용군 모은다"
  
- YAK_fund_militias_desc:0 "Our army is good, but it could be bigger. It could be a lot bigger. That starts now. More troops means more SMASH!"
+ YAK_fund_militias_desc:0 "우리 군대 강하지만 더 크면 좋겠다. 엄청 커야 된다. 병력 많으면 많이 부술수 있다!"
  
- YAK_return_life_to_normal:0 "Peace for Common [This.YakOrJakUppercase]s"
+ YAK_return_life_to_normal:0 "[This.YakOrJakUppercase]들 평화 필요하다
  
- YAK_return_life_to_normal_desc:0 "The Rebels have returned, and so for now the regular [This.YakOrJakLowercase]s should be free to feel like life is normal. Let them rest while we plan what next gets SMASHed."
+ YAK_return_life_to_normal_desc:0 "반란군 날뛰어서 [This.YakOrJakLowercase]들 삶 피폐해졌다. 반란군 지금은 승승장구하지만 곧 부순다!"
  
- YAK_more_trains:0 "Trains, Trains, And Also Trains"
+ YAK_more_trains:0 "기차, 기차, 더 많은 기차"
  
- YAK_more_trains_desc:0 "Who cares if they run on time? We just need lots. Many is more than almost none. If you kind of squint, trains sort of look like a charging [This.YakOrJakLowercase]."
+ YAK_more_trains_desc:0 "기차 제때제때 오긴 하는데 너무 안 온다. 기차 많이 필요하다! 기차 많은게 없는거보다 무조건 좋다. 실눈 뜨면 기차 달리는 [This.YakOrJakLowercase] 무리처럼 보인다." 
  
- YAK_military_is_essential:0 "Center the Military"
+ YAK_military_is_essential:0 "군대에 집중한다"
  
- YAK_military_is_essential_desc:0 "Complacent [This.YakOrJakLowercase]s are Dead [This.YakOrJakLowercase]s! We cannot be like Prince Whoever-He-Was. Only strength of arms can make our empire great again."
+ YAK_military_is_essential_desc:0 "현실에 안주하는 [This.YakOrJakLowercase] 죽은 [This.YakOrJakLowercase]다! 러더포드 실수 반복하면 안된다. 제국 다시 위대하게 만드려면 힘 필요하다!"
  
  YAK_more_jobs_for_yaks:0 "Get a Job!"
  
@@ -476,13 +476,13 @@
  
  YAK_victory_penguins_desc:0 "Was it cold? Very. But we've definitely punted enough penguins into early graves for them to get the hint about whose really in charge."
  
- YAK_victory_bears:0 "Couldn't Bear it"
+ YAK_victory_bears:0 "곰 정치 못한다"
  
- YAK_victory_bears_desc:0 "[This.YakOrJakUppercase]s may be bad at jokes, but we are good at bullying bears! They weren't smart enough to rule themselves anyway. We'll be taking all their things."
+ YAK_victory_bears_desc:0 "[This.YakOrJakUppercase] 농담 모르지만 곰 괴롭히는 건 잘 한다! 곰 스스로 다스리며 살기엔 너무 멍청하다. 우리가 대신 해준다!"
  
- YAK_victory_birbs:0 "SMASHED Catbirds"
+ YAK_victory_birbs:0 "고양이새 부순다!"
  
- YAK_victory_birbs_desc:0 "What is good in life, [This.YakOrJakLowercase]s? Stampede tracks with very unhappy griffins lying in them."
+ YAK_victory_birbs_desc:0 "[This.YakOrJakLowercase]들 뭐 좋아하는지 아나? 무한궤도로 불쌍한 그리핀 짓밟는거 제일 좋아한다!"
  
  ################################ Sekrit bug [This.YakOrJakLowercase] path #######################
  
