@@ -12,7 +12,7 @@
   - [장소](#장소)
   - [기타](#기타)
   - [국가 및 국가코드](#국가%20및%20국가코드)
-- [그 외](#그%20외)
+- [외부링크](#외부링크)
 
 # 번역 방법
 이퀘스트리아 앳 워 한국어 번역은 공개 번역으로 누구나 참여하실 수 있습니다.
@@ -147,7 +147,7 @@
 - ![PLB flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/9a/Polar_Bear_Communities.png/revision/latest/scale-to-width-down/24?cb=20180826162334) `PLB` - 북극곰 공동체
 - ![PNG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/7/76/Kingdom_of_Pingland.png/revision/latest/scale-to-width-down/24?cb=20191114175041) `PNG` - 핑랜드 왕국
 - ![POM flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/90/Pomovarra.png/revision/latest/scale-to-width-down/24?cb=20191119220110) `POM` - 포모바라
-- ![PYT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/a/af/Greifenmarschen.png/revision/latest?cb=20191201094117) `PYT` - 그라이펜마르센 공국
+- ![PYT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/a/af/Greifenmarschen.png/revision/latest?cb=20191201094117) `PYT` - 그라이펜마르센 농민공화국
 - ![RCT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/7/71/River_Republic.png/revision/latest/scale-to-width-down/24?cb=20181111053131) `RCT` - 리버 공화국
 - ![ROU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/92/Free_City_of_Romau.png/revision/latest/scale-to-width-down/24?cb=20191119212158) `ROU` - 로마우 자유시
 - ![SIC flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/21/Sicameon.png/revision/latest/scale-to-width-down/24?cb=20191119212047) `SIC` - 시카메온 신성 연방
@@ -166,6 +166,6 @@
 - ![YAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/26/Yale_Rectorate.png/revision/latest?cb=20191201094136) `YAL` -  예일 학장국
 - ![ZES flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Nyumba_ya_Kaskazini.png/revision/latest/scale-to-width-down/24?cb=20180922041904) `ZES` - 늄바 야 카스카지니
 
-## 그 외
+## 외부링크
 - [호이4 한국어패치 단어장(docs.google.com)](https://docs.google.com/spreadsheets/d/1nu5sKDlIa11AMvNF7kq11RSu_a9ZKJsXtD8PB6u3KB8/edit#gid=0)
 - [이퀘스트리아 앳 워 위키(영문)](https://equestria-at-war.fandom.com/wiki/Equestria_at_War_Wiki)
