@@ -87,7 +87,7 @@ function getCountries () {
     WIT: '비텐란트',
     WNG: '윙바르디 왕국',
     YAK: '야크야키스탄',
-    YAL: '예일 학장국',
+    YAL: '예일 학술국',
     ZES: '늄바 야 카스카지니',
   }
 
