@@ -499,18 +499,18 @@ CZE_war_college_effect_2_tt:0 "이미 §Y5개§!의 §M연구 슬롯§!을 보�
 
  ### PROJECT MOONSHINE IDEAS ###
 
- EQS_bat_econ_reform_1:0 "Thestral Labour Crackdown"
- EQS_bat_econ_reform_1_desc:0 "Celestia and Luna have launched a serious crackdown on exploitation and abuse of Thestral workers, notably inflicting massive fines on offending businesses and making an example of several prominent businessponies in court. Productivity has dropped sharply as businesses rush to adjust."
- EQS_bat_econ_reform_2:0 "Thestral Labour Reforms"
- EQS_bat_econ_reform_2_desc:0 "Celestia and Luna have implemented reforms to reduce exploitation and abuse of Thestral workers, some of the worst offenders have received sizable fines. Productivity is reduced as businesses are adapting."
+ EQS_bat_econ_reform_1:0 "테스트라 노동 단속"
+ EQS_bat_econ_reform_1_desc:0 "셀레스티아와 루나는 테스트라 노동자를 착취하고 학대하는 것을 엄중히 단속하기 시작했습니다. 테스트라들을 동원한 불법적인 사업에 막대한 벌금을 부과하고 사업주들을 법정에 세웠는데, 기업들이 새 법에 서둘러 적응하려다 보니 생산성이 급격히 떨어졌습니다."
+ EQS_bat_econ_reform_2:0 "테스트라 노동 개혁"
+ EQS_bat_econ_reform_2_desc:0 "셀레스티아와 루나가 테스트라 노동자들의 권리를 보장하기 위한 개혁을 실시한 바, 여러 사업주들에게 어마어마한 양의 벌금이 부과되었습니다. 여전히 기업들이 새 법에 적응하지 못해 생산성이 저하되었습니다."
  EQS_bat_extremism_1:0 "Anti-Hate Crackdown"
  EQS_bat_extremism_1_desc:0 "Celestia and Luna are pursuing a serious anti-hate campaign targeting rascism against thestrals. Nationalist movements find themselves under intense negative publicity, several prominent hate speech cases have been tried and police are infiltrating various radical groups."
  EQS_bat_extremism_2:0 "Anti-Hate Initiative"
  EQS_bat_extremism_2_desc:0 "Celestia and Luna are pursuing a anti-radicalist campaign targeting racism against thestrals. Nationalist movements have been criticised, new hate speech laws publicised and police tasked with monitoring potential radical groups."
- EQS_bat_pr_campaign_1:0 "Pony-Thestral Friendship Campaign"
- EQS_bat_pr_campaign_1_desc:0 "Princess Twilight Sparkle has launched a large campaign to promote thestral-pony friendship. The campaign is far reaching, including festivals, education reform, support for grassroots activism, and government education campaigns."
- EQS_bat_pr_campaign_2:0 "Pony-Thestral Friendship Initiative"
- EQS_bat_pr_campaign_2_desc:0 "Princess Twilight Sparkle has launched an initiative to promote thestral-pony friendship. The campaign has reviewed educational syllabi, and worked with grassroots activist groups to educate ponies and celebrate thestral-pony friendship."
+ EQS_bat_pr_campaign_1:0 "포니-테스트라 우정 캠페인"
+ EQS_bat_pr_campaign_1_desc:0 "트와일라잇 스파클 공주는 테스트라와 포니 간의 우정 증진을 위한 대규모 캠페인을 진행했고, 이는 지금까지도 광범위하게 이루어 지고 있습니다. 이 캠페인에는 축제, 교육 개혁, 공무원 연수 등의 활동이 포함됩니다."
+ EQS_bat_pr_campaign_2:0 "P포니-테스트라 우정 이니셔티브"
+ EQS_bat_pr_campaign_2_desc:0 "트와일라잇 스파클 공주는 테스트라와 포니 간의 우호를 더욱 증진시키기 위한 이니셔티브를 발족했습니다. 어린 테스트라와 포니들이 배우는 교과목들을 검토하고, 시민단체들과 협력하여 우정 축제를 개최하기로 했습니다."
  EQS_bat_pony_divide_1:0 "잊혀진 부족"
  EQS_bat_pony_divide_1_desc:0 "이퀘스트리아는 세 부족, 어스 포니, 페가수스, 그리고 유니콘의 땅입니다. 하지만 네 번째 부족인 테스트라(박쥐 포니)도 있었습니다. 이퀘스트리아의 많은 산, 동굴 그리고 숨겨진 장소에 살고 있는 테스트라들은 나이트메어 문 시대부터 외면당하고 차별받았습니다. 전쟁이 일어나면 몇몇은 아군을 방해하거나 심지어는 적을 도울지도 모릅니다."
  EQS_bat_pony_divide_2:0 "잊혀진 부족"
@@ -777,7 +777,7 @@ equestria.233.a:0 ""
  
  #NLR FORCES DISCOVERED - EARLY WAR PATH
  equestria.232.t:0 "뜻밖의 도착"
- equestria.232.d:0 "시종이 왕궁의 대리적 바닥을 발굽으로 울려퍼지게 하며 급하게 왕실로 들어왔습니다.. 셀레스티아 공주는 혼란스러운 광경에 궁금해하며 고개를 들었습니다. “폐, 폐하, 병사 한 마리가 폐하를 만나러 왔습니다. 우리가 그녀를 발견했습니다... 음, 최근에 우리가 순찰을 강화한 이후 운 좋게도..."\n\n그는 뒷걸음치면서 문을 열었습니다."
+ equestria.232.d:0 "시종이 왕궁의 대리석 바닥을 발굽으로 때리며 급하게 왕실로 들어왔습니다. 셀레스티아 공주는 혼란스러운 광경에 궁금해하며 고개를 들었습니다. “폐, 폐하, 병사 한 마리가 폐하를 만나러 왔습니다. 우리가 그녀를 발견했습니다... 음, 최근에 우리가 순찰을 강화한 이후 운 좋게도..."\n\n그는 뒷걸음치면서 문을 열었습니다."
  equestria.232.a:0 "그곳에는 피투성이에 여기저기 멍든 퍼플 하트가 서 있었다."
  
  equestria.213.t:0 "대면"
