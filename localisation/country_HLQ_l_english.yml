@@ -4,11 +4,11 @@
 HLQ_knights_1:0 "헬퀼의 기사들"
 HLQ_knights_1_desc:0 "Offically the Order of Brothers of the Griffon House of Prelate Aloysious in Cloudbury the Knights of Hellquill have had a storied and bloody past.\n\nHaving been granted the ancient Frontier lands around Hellquill by Emperor Grover II himself, the Knights have continually proven themselves to be a bulwark of Griffonkind against the savage ponies of the East, even if said ponies claim otherwise..."
 HLQ_reformists:0 "개혁주의자들"
-HLQ_reformists_desc:0 "개혁주의자, 아니면 흔히 검은 망토단이라고 알려진 이들은, 일종의...현 시대 최악의 신념들을 가슴에 새긴 광신적인 기사들입니다.\n\n윙프레드 폰 카테린부르크가 이끄는, 검은 망토단은 윙프레드의 지휘 하에서 기사단을 올바른 상태로 개혁하는 동시에, 동방의 포니들을 희생시켜 그리폰족을 위한 더 많은 "생활 공간"을 확보하려 합니다.
+HLQ_reformists_desc:0 "개혁주의자, 아니면 흔히 검은 망토단이라고 알려진 이들은, 일종의...현 시대 최악의 사상들을 가슴에 새긴 광신적인 기사들입니다.\n\n윙프레드 폰 카테린부르크가 이끄는, 검은 망토단은 윙프레드의 지휘 하에서 기사단을 올바른 상태로 개혁하는 동시에, 동방의 포니들을 희생시켜 그리폰족을 위한 더 많은 "생활 공간"을 확보하려 합니다.
 HLQ_pony_minorities:0 "포니 소수민족"
-HLQ_pony_minorities_desc:0 "약 300여년에 걸친 식민화와 그리폰들의 이주에도 불과하고, 헬킬에는 여전히 많은 포니들이 그들의 옛 생활 방식과 전통을 고수하며 살고 있습니다."
-HLQ_equals:0 "한 깃발 아래의 두 종족"
-HLQ_equals_desc:0 "Pony or Griffon: 문제 없다, 결국엔 모두가 헬퀼리안(Hellquillians)이 될 테니까!"
+HLQ_pony_minorities_desc:0 "약 300여년에 걸친 식민화와 그리폰들의 이주에도 불구하고, 헬킬에는 여전히 많은 포니들이 그들의 옛 생활 방식과 전통을 고수하며 살고 있습니다."
+HLQ_equals:0 "한 깃발 아래 두 종족"
+HLQ_equals_desc:0 "Pony or Griffon: 문제 없다, 결국엔 모두 헬퀼리안(Hellquillians)이 될 테니까!"
 HLQ_free_press_idea:0 "언론의 자유"
 HLQ_free_press_idea_desc:0 "진정으로 자유롭고 평화로운 사회를 만들기 위해서, 언론의 자유는 반드시 보장되어야 합니다."
 HLQ_victim_memorial:0 "zinten 추모비"
@@ -48,7 +48,7 @@ HLQ_stormgriff_2_desc:0 "The SG have been integrated into the Army as Support un
 HLQ_build_squads:0 "Baubrigaden"
 HLQ_build_squads_desc:0 "Organised groups of workers have formed in order to better organise and lead construction efforts around our nation."
 HLQ_silver_mines:0 "은광"
-HLQ_silver_mines_desc:0 "최근 발견된 은 광상에서 채굴이 시작되었고, 우리 경제에 긍정적인 영향을 주고 있습니다."
+HLQ_silver_mines_desc:0 "최근 발견된 은 광상에서의 채굴이 시작되었고, 우리 경제에 긍정적인 영향을 주고 있습니다."
 HLQ_bankers:0 "Imperial Bankers"
 HLQ_bankers_desc:0 "We have gained influential support from bankers in the Empire, who are supporting us with valuable financial aid."
 HLQ_honourary_member:0 "Honourary Coalition Memersbhip"
@@ -122,7 +122,7 @@ HLQ_industrial_concern:0 "Zinten Plant"
 
 
 ### National Focuses ###
-HLQ_siegfrieds_retirement:0 "Siegfried's Retirement"
+HLQ_siegfrieds_retirement:0 "지그프리트의 은퇴"
 HLQ_siegfrieds_retirement_desc:0 "Siegfried's long reign has been successful and good for Hellquill. Under him, we continued to hold back the eastern invaders. And yet, his will to lead has faded over these long, trying years. He has now uttered the wish to resign and step down as Grandmaster of the Hellquillian Order. He will continue to support our cause, but this leaves us with a great power vacuum, one that many within the nation are eager to exploit..."
 HLQ_reconciliation:0 "Springtime in Hellquill"
 HLQ_reconciliation_desc:0 "The Council has made up their mind: August von Ortelsberg shall henceforth lead our nation. With his promising ideas and great charm, he shall finally bring peace to our land and unite ponies and griffons once and for all."
