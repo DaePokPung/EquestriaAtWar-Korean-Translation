@@ -120,7 +120,7 @@
 - ![GFF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/cf/Griffon_Frontier.png/revision/latest/scale-to-width-down/24?cb=20180922043901) `GFF` - 그리폰 프론티어
 - ![GRF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/0/06/Nova_Griffonia.png/revision/latest/scale-to-width-down/24?cb=20190905183249) `GRF` - 노바 그리포니아
 - ![GRI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/18/Griffonian_Empire.png/revision/latest/scale-to-width-down/24?cb=20191120014612) `GRI` - 그리포니아 제국
-- ![GRU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/11/Free_Towns_of_Gryphus.png/revision/latest/scale-to-width-down/24?cb=20191119212351) `GRU` - 그리폰 프론티어
+- ![GRU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/11/Free_Towns_of_Gryphus.png/revision/latest/scale-to-width-down/24?cb=20191119212351) `GRU` - 그리퍼스 자유마을
 - ![GRW flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/4/45/Griffon_Liberation_Army.png/revision/latest/scale-to-width-down/24?cb=20180922042358) `GRW` - 그리폰 해방군
 - ![GRY flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/25/Gryphian_Host.png/revision/latest/scale-to-width-down/24?cb=20191119213732) `GRY` - 그리피안 호스트
 - ![HAU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/9b/Haukland.png/revision/latest/scale-to-width-down/24?cb=20191119214144) `HAU` - 하우크란트
