@@ -5,25 +5,25 @@
 ### GetNameAdj
 ### GetName
 ### GetLeader
-GRW_Mandarin:0 "Mandarin Featherin"
-GRW_Cynthia:0 "Cyntia"
+GRW_Mandarin:0 "만다린 페더린"
+GRW_Cynthia:0 "신시아"
 GRW_Murkfeathers:0 "Murkfeathers"
-GRW_Dakaran_Begone:0 "Dakaran Begone"
-GRW_Theresa:0 "Theresa"
+GRW_Dakaran_Begone:0 "다카란 베곤"
+GRW_Theresa:0 "테레사"
 GRW_Witia:0 "Witia"
-GRW_Phanes:0 "Phanes"
-GRW_Andor:0 "Andor"
+GRW_Phanes:0 "파인"
+GRW_Andor:0 "앤도르"
 GRW_Duskfluffian:0 "Duskfluffian"
-GRW_Searaider:0 "Alyx Pines"
+GRW_Searaider:0 "알릭스 파인"
 GRW_Sailor_Pirate:0 "Sailor Pirate"
-GRW_Theresa_2:0 "Theresa"
-GRW_Brandon_Swift:0 "Brandon Swift"
+GRW_Theresa_2:0 "테레사"
+GRW_Brandon_Swift:0 "브랜든 스위프트"
 GRW_Finbol:0 "Final Bol"
 GRW_Bart_Herbs:0 "Bart Herbs"
 GRW_Iegov:0 "Iegov"
 GRW_Ludochka:0 "Ludochka"
-GRW_advisor18:0 "Rocket Scientist"
-GRW_tank_manufacturer:0 "Brodfeld Tank Polygon"
+GRW_advisor18:0 "로켓 과학자"
+GRW_tank_manufacturer:0 "브로드폴드 탱크 설계도"
 GRW_medium_tank_manufacturer:0 ""Prywhen Communal" Armour Concern"
 GRW_arty_manufacturer:0 "Cast Iron Cannons"
 GRW_inf_manufacturer:0 "PRYARM"
@@ -45,10 +45,10 @@ GRW_revolutionary_unity8:0 "Revolutionary Unity"
 GRW_revolutionary_unity9:0 "Revolutionary Unity"
 GRW_griffon_union:0 "Griffon Union"
 GRW_national_divides:0 "National Divides"
-GRW_national_divides2:0 "Language Barriers"
-GRW_national_divides3:0 "Language Barriers"
-GRW_national_divides4:0 "Language Barriers"
-GRW_national_divides5:0 "Little Misunderstandings"
+GRW_national_divides2:0 "언어 장벽"
+GRW_national_divides3:0 "언어 장벽"
+GRW_national_divides4:0 "언어 장벽"
+GRW_national_divides5:0 "약간의 오해"
 GRW_research_center:0 "Griffon Federation Research Centre"
 GRW_family_care_idea:0 "Family Care"
 GRW_family_care_idea2:0 "무상 의료 서비스"
@@ -58,7 +58,7 @@ GRW_victory_in_civil_war_bonus:0 "승리의 환호성"
 ########
 prywhen_not_selected_theresa:0 "§YTheresa§! is not already assigned"
 war_of_liberation:0 "해방 전쟁"
-war_of_liberation_desc:0 "우리는 저 쓰레기 같은 왕정주의자들을 몰아내고 인민들을 부르주아지들의 억압에서 해방시킬 것입니다!"
+war_of_liberation_desc:0 "우리는 저 쓰레기 같은 군주주의자들을 몰아내고 인민들을 부르주아지들의 억압으로부터 해방시킬 것입니다!"
 prywhen_civil_war:0 "프리웬 내전"
 prywhen_civil_war_desc:0 "프리웬 내전은 꽤 오랫동안 격렬하게 진행되었고, 말려든 모든 그리폰들에게 악영향을 끼쳤습니다. 갈등이 더 오래 지속 될수록, 우리 나라와 시민들이 입는 피해도 증가합니다." 
 the_final_push_GRW:0 "최후의 공세"
@@ -114,13 +114,13 @@ removing_desolation_effort_tt:0 "This will speed up §Ydesolation§W disappearan
 GRW_northern_pressure:0 "Northern Pressure"
 GRW_central_pressure:0 "Lissay Region Pressure"
 
-GRW_post_war_desolation:0 "Post-War Desolation"
-GRW_post_war_desolation2:0 "Post-War Desolation"
-GRW_post_war_desolation3:0 "Post-War Desolation"
-GRW_post_war_desolation4:0 "Post-War Desolation"
-GRW_post_war_desolation5:0 "Post-War Desolation"
-GRW_post_war_desolation6:0 "Post-War Desolation"
-GRW_post_war_desolation7:0 "Post-War Desolation"
+GRW_post_war_desolation:0 "전쟁 후 황폐화"
+GRW_post_war_desolation2:0 "전쟁 후 황폐화"
+GRW_post_war_desolation3:0 "전쟁 후 황폐화"
+GRW_post_war_desolation4:0 "전쟁 후 황폐화"
+GRW_post_war_desolation5:0 "전쟁 후 황폐화"
+GRW_post_war_desolation6:0 "전쟁 후 황폐화"
+GRW_post_war_desolation7:0 "전쟁 후 황폐화"
 
 GRW_post_war_stress:0 "Post-War Stress"
 GRW_post_war_stress2:0 "Post-War Stress"
@@ -168,7 +168,7 @@ GRW_partisans_desc:0 "We should make strides to integrate our fellow partisans o
 GRW_victory_in_civil_war:0 "내전에서의 승리"
 GRW_victory_in_civil_war_desc:0 "We have won the war for workers' independence! The civil war is finally over, and we are now able to look inwards at repairing our war-torn country, rather than fighting for our very lives and freedoms."
 
-GRW_fate_of_the_lord:0 "왕의 운명"
+GRW_fate_of_the_lord:0 "국왕의 운명"
 GRW_fate_of_the_lord_desc:0 "With the civil war won, we should find the old lord of the land, so that we may try him in a fair court of our laws, for his crimes against the people of the country."
 
 GRW_root_out_supporters:0 "왕실 지지자들을 뿌리뽑다"
@@ -192,16 +192,16 @@ GRW_civillian_needs_desc:0 "With the civil war over, we can focus on developing 
 GRW_secure_our_borders:0 "국경 방어"
 GRW_secure_our_borders_desc:0 "While the civil war is thankfully over, we should institute a border guard of lightly armed, small sized units, so as to serve as lookouts in case of a future war that we must defend ourselves during."
 
-GRW_defense_industry:0 "Defence Industry"
+GRW_defense_industry:0 "국방 산업"
 GRW_defense_industry_desc:0 "With our socialist victory over the monarchy upsetting the political balance of the entire continent, we must be prepared to defend ourselves from those looking to return things to the former status quo. As such, we must begin developing a weapons industry to aid in our defence against future aggression."
 
 GRW_enter_modern_age:0 "현대 시대로의 진입"
 GRW_enter_modern_age_desc:0 "With our industrial reforms complete, we are on the precipice of making our mark upon the world as a whole. To do so however, we must finish our efforts of modernisation, so that we may be a true beacon to other states on the continent; something to be looked up to, and respected as a proper nation."
 
-GRW_steel_works:0 "Steel Works"
+GRW_steel_works:0 "제철소"
 GRW_steel_works_desc:0 "We have the opportunity to improve upon our steel mills, should we find the time- something that will no doubt be helpful both in the civilian sector, and in the military sector. As such, to ignore this improvement would be rather silly."
 
-GRW_open_up_schools:0 "Eradicate Illiteracy"
+GRW_open_up_schools:0 "문맹 퇴치"
 GRW_open_up_schools_desc:0 "We must eradicate any and all signs of illiteracy from our peoples. Whilst we were at war for our freedom, such illiteracy was passable, but now that we have time and the will to change, such issues will not be accepted in our forward-thinking society."
 
 GRW_open_up_schools2:0 "자율 학교 설립"
@@ -210,61 +210,61 @@ GRW_open_up_schools2_desc:0 "With our initial education reforms making good prog
 GRW_open_up_schools3:0 "공립 학교"
 GRW_open_up_schools3_desc:0 "With our education reforms on the right track to fully eliminating any and all illiteracy amidst our people. Now that we've got some properly educated griffons willing to teach other griffons, we can institute a public school system, to begin exponentially educating every griffon who calls our new state their home."
 
-GRW_seek_support_in_lushi:0 "Support in Lushi"
+GRW_seek_support_in_lushi:0 "루시의 지원 "
 GRW_seek_support_in_lushi_desc:0 "There is a small but dedicated partisan group that supports our cause in the Lushian forest. We should make contact with this group and ask them to join us in the final push of the civil war."
 
-GRW_support_in_GRU:0 "Support in Gryphus"
+GRW_support_in_GRU:0 "그리퍼스의 지원"
 GRW_support_in_GRU_desc:0 "There are several partisan rebel groups hiding out in the forests of northern part of Gryphus. We must send an envoy and ask them to join us in the final push in the civil war."
 
-GRW_support_in_GRY:0 "Support in Gryphian Host"
+GRW_support_in_GRY:0 "그리피안 호스트의 지원"
 GRW_support_in_GRY_desc:0 "There are a few roving bandits in the foothills of the Gryphian host that have been known to be helpful to our cause. We should at least make the attempt to get them to join us in the final days of the civil war, whether they'll actually join or not."
 
-GRW_global_revolution_focus:0 "Global Revolution" #this shit is actually a national spirit
+GRW_global_revolution_focus:0 "세계 혁명" #this shit is actually a national spirit
 GRW_global_revolution_focus_desc:0 "We are now prepared to spread our revolution far and abroad, to bring the liberation of the workers that we have received, to their doorsteps. None shall stop us in our just mission, and the bright reds of revolution will soon find homes in all states across the globe."
 
-GRW_global_revolution:0 "Global Revolution" #and this shit is a focus
+GRW_global_revolution:0 "세계 혁명" #and this shit is a focus
 GRW_global_revolution_desc:0 "We are now prepared to spread our revolution far and abroad, to bring the liberation of the workers that we have received, to their doorsteps. None shall stop us in our just mission, and the bright reds of revolution will soon find homes in all states across the globe."
 
-GRW_political_line:0 "Our Foreign Policy"
+GRW_political_line:0 "우리의 대외 정책"
 GRW_political_line_desc:0 "With our civil war troubles finally at an end, we must now stop looking inwards, and begin to look outwards, towards the countries around us, and our plans for dealing with them."
 
-GRW_protectionism:0 "Isolationism"
+GRW_protectionism:0 "고립주의"
 GRW_protectionism_desc:0 "We should not concern ourselves with those around us, as they have no desire to follow our ways, and our people have no desire to spread our ways by force- especially so soon after our bloody civil war with the monarchists. We are quite content, instead, to isolate ourselves from our lesser neighbours, and focus on improving ourselves."
 
-GRW_infrastructure_effort:0 "Home Improvements"
+GRW_infrastructure_effort:0 "고향땅을 개선시키다"
 GRW_infrastructure_effort_desc:0 "We should now focus on improving our infrastructure at home, so as to make transportation between both ends of our state easier to accomplish, especially considering the not quite perfect ground."
 
 GRW_industry_effort:0 "Consumer Industry"
 GRW_industry_effort_desc:0 "Now that we have a proper civilian sector, and the consumers to go with it, we should develop a peacetime industry catering specifically to such people, to cement our prosperity to the world around us, and prove to our detractors that we are able to compete-and succeed- on a global scale."
 
-GRW_exansionism:0 "Expansionism"
+GRW_exansionism:0 "확장주의"
 GRW_exansionism_desc:0 "Now that we have secured our borders, we should focus on expanding our state and liberating the oppressed workers surrounding us. We even have a good place to begin, once we are prepared to do so."
 
-GRW_annex_cya:0 "South Expansion"
+GRW_annex_cya:0 "남부 확장"
 GRW_annex_cya_desc:0 "We should begin with our expansionist efforts by liberating the poor oppressed griffons of the County of Cyanolisia. Their country is ripe for the taking, and their workers and peasantry are frustrated and sick of the old regime. As such, they make an excellent first target for our new policy."
 
-GRW_annex_Lushi:0 "North Expansion"
+GRW_annex_Lushi:0 "북부 확장"
 GRW_annex_Lushi_desc:0 "Our next stop in our expansionist goals should be the principality of Lushi, who had, during the civil war, supportive partisans that were ready to die for our cause. Clearly, this proves that there are those in the country that share those sentiments, and as such, we should move to integrate them into our socialist state."
 
-GRW_demand_salt_markt:0 "Demand Saltmarkt"
+GRW_demand_salt_markt:0 "Saltmarkt 요구"
 GRW_demand_salt_markt_desc:0 "The province of Saltmarkt once belonged to us when we were subjugated under the Brodfield's Monarchy. However, with the rise of our civil war for liberation, the province was occupied unjustly by Cyanolisia. Now that we are in a position to demand it back, we should do so. The province is rightfully ours, and we should make every stride to reintegrate it into our country."
 
 GRW_GRU_infiltration:0 "Infiltration of Gryphus"
 GRW_GRU_infiltration_desc:0 "It is time to send our infiltrators to Gryphus, so as to begin operations towards the coming revolution."
 
-GRW_GRU_fate:0 "Fate of Gryphus"
+GRW_GRU_fate:0 "그리퍼스의 운명"
 GRW_GRU_fate_desc:0 "It is time to decide the fate of Gryphus. Will they come about to our way of thinking, or must we bring the revolution to their doorstep by force of arms?"
 
 GRW_LUS_infiltration:0 "Infiltration of Lushi"
 GRW_LUS_infiltration_desc:0 "It is time to send our infiltrators to the Principality of Lushi, so as to begin operations towards the coming revolution."
 
-GRW_LUS_fate:0 "Fate of Lushi"
+GRW_LUS_fate:0 "루시의 운명"
 GRW_LUS_fate_desc:0 "It is time to decide the fate of Lushi. Will they come about to our way of thinking, or must we bring the revolution to their doorstep by force of arms?"
 
 GRW_GRY_infiltration:0 "Infiltration of Gryphian Host"
 GRW_GRY_infiltration_desc:0 "It is time to send our infiltrators to the Gryphian Host, so as to begin operations towards the coming revolution."
 
-GRW_GRY_fate:0 "Fate of Gryphian Host"
+GRW_GRY_fate:0 "그리피안 호스트의 운명"
 GRW_GRY_fate_desc:0 "It is time to decide the fate of the Gryphian Host. Will they come about to our way of thinking, or must we bring the revolution to their doorstep by force of arms?"
 
 GRW_kivessin_university:0 "Kivessin University"
@@ -273,16 +273,16 @@ GRW_kivessin_university_desc:0 "The Kivessin University is to be a new centre fo
 GRW_army_training:0 "Push-Ups"
 GRW_army_training_desc:0 "We should begin to reform our revolutionary militia into a proper military force, and the best way to do that is to begin to institute the proper disciplinary measures that separate an army unit from a peoples' militia."
 
-GRW_kings_lab:0 "Lord's Labs"
+GRW_kings_lab:0 "국왕의 연구소"
 GRW_kings_lab_desc:0 "The late lord had several old research labs hidden away that we've come to discover upon our victory following the war. We should attempt to adapt these labs to our more modern purposes."
 
-Sydia_port:0 "The Port of Sydia"
+Sydia_port:0 "신시아의 항구"
 Sydia_port_desc:0 "The old port of Sydia is outdated and mostly useless for our aims. However, we should make attempts to modernise the ports there for more militaristic aims."
 
 GRW_climb_the_mountains:0 "Climb the Mountains"
 GRW_climb_the_mountains_desc:0 "With the massive amounts of mountains dotting our home continent, we would be wise to institute some form of high altitude training courses, so as to prepare our troops for such combat situations."
 
-GRW_red_knights:0 "Red Knights"
+GRW_red_knights:0 "붉은 기사단"
 GRW_red_knights_desc:0 "Whilst the knights are an institution of the old monarchy, there's no reason we cannot make our own knightly orders, loyal to our goals and aims, and the peoples of our socialist state. Such as force would be a boon to any army, and would heighten our military prestige."
 
 GRW_artillery_effort:0 "Focus on Big Guns"
@@ -425,88 +425,88 @@ GRW_final_solution:0 "Final Solution"
 GRW_final_solution_desc:0 "There's only one way this is going to go down."
 
 ### events ###
-prywhen.1.t:0 "The Civil War is Over!"
+prywhen.1.t:0 "내전이 끝나다!"
 prywhen.1.d:0 "The civil war is over, we are eternally thankful to our great comrade [GRW.GetLeader]. Let's rebuild and seek ways to spread the light of liberation to the rest of Griffonia! Now that the whole country is secured, we can move our high command to a proper city and set the capital for our nation."
 prywhen.1.a:0 "Let the capital stay in the countryside."
 prywhen.1.b:0 "Move capital to Kivessin."
 prywhen.1.c:0 "Move capital to Sydia."
 
 #### EVENT FOR BANDTIS
-prywhen.5.t:0 "Brodfeld Lost the War"
+prywhen.5.t:0 "브로드폴드가 패배하다"
 prywhen.5.d:0 "The Griffon Liberation Army has triumphed over the Loyalists. This may be the ideal moment to strike the GLA, while they are still recovering from the war. Should we launch an attack on the communists?"
 prywhen.5.a:0 "Destroy the egalitarian rabble!"
 prywhen.5.b:0 "We are not ready."
 
-prywhen.7.t:0 "Militia"
+prywhen.7.t:0 "민병대"
 prywhen.7.d:0 "Due to a recent surge in recruitment, new militia regiments have been formed and are ready to fight as of this moment."
 prywhen.7.a:0 "Great!"
 
-prywhen.8.t:0 "Partisans!"
+prywhen.8.t:0 "파르티잔들!"
 prywhen.8.d:0 "We can call a group of partisans for an uprising in the enemy territory, and secretly send a number of our weapons to them. The question is, which region of Brodfeld would be best for this operation?"
 prywhen.8.a:0 "The Ricefields!"
 prywhen.8.b:0 "The Capital, Kivessin!"
 prywhen.8.c:0 "The most important port, Sydia!"
 
-prywhen.9.t:0 "The Civil War is Over"
+prywhen.9.t:0 "내전이 끝나다"
 prywhen.9.d:0 "After years of war, we have finally managed to liberate all of Prywhen from the monarchists. There is much to be done now, as the war has left our nation devastated and our people starving. We must begin efforts to rebuild the country in order to secure a prosperous future for our people."
 prywhen.9.a:0 "Time to rebuild."
 
-prywhen.10.t:0 "Civil War Effect Fades Off"
+prywhen.10.t:0 "내전의 여파로부터 회복됨"
 prywhen.10.d:0 "Our nation is finally starting to recover from the civil war that tore the country asunder."
 prywhen.10.a:0 "Great."
 
-prywhen.11.t:0 "Civil War Effect Fades Off"
+prywhen.11.t:0 "내전의 여파로부터 회복됨"
 prywhen.11.d:0 "Our nation is finally starting to recover from the civil war that tore the country asunder."
 prywhen.11.a:0 "Great."
 
-prywhen.12.t:0 "Civil War Effect Fades Off"
+prywhen.12.t:0 "내전의 여파로부터 회복됨"
 prywhen.12.d:0 "Our nation is finally starting to recover from the civil war that tore the country asunder."
 prywhen.12.a:0 "Do you ever have that feeling of deja-vu?"
 
-prywhen.13.t:0 "Civil War Effect Fades Off"
+prywhen.13.t:0 "내전의 여파로부터 회복됨"
 prywhen.13.d:0 "Our nation is finally starting to recover from the civil war that tore the country asunder."
 prywhen.13.a:0 "Great."
 
-prywhen.14.t:0 "Civil War Recovery Complete"
+prywhen.14.t:0 "내전으로부터 완벽히 회복함"
 prywhen.14.d:0 "We have finally managed to fully rebuild Prywhen and recover from the effects of the civil war."
 prywhen.14.a:0 "At last!"
 
-prywhen.16.t:0 "Search for the Prince!"
+prywhen.16.t:0 "왕자를 찾아라!"
 prywhen.16.d:0 "We must not allow Prywhen to return to the oppression of a king ever again. To this end, we must hunt down and capture the heir to the throne of Brodfeld as soon as possible."
 prywhen.16.a:0 "The Hunt is on."
 
-prywhen.17.t:0 "The Prince has Escaped!"
+prywhen.17.t:0 "왕자가 도망치다!"
 prywhen.17.d:0 "After eluding our capture for weeks, we had finally managed to corner the Prince while attempting to leave the country. Unfortunately, his loyalist guards managed to delay the arrest, and his current whereabouts are unknown. It can be safely assumed, however, that he has left the country and has found shelter in the court of some other tyrannical regime. The Prince has eluded our grasp."
 prywhen.17.a:0 "Damn that blue-blooded swine!"
 
-prywhen.18.t:0 "The Prince was Killed!"
+prywhen.18.t:0 "왕자가 살해되다!"
 prywhen.18.d:0 "Our police finally managed to track down the prince in hideout near Twelt. Our special forces stormed the cave, and in the ensuring firefight, the Prince and all his loyalists were killed."
 prywhen.18.a:0 "So the bastard's dead? A shame we didn't capture him alive."
 
-prywhen.19.t:0 "The Prince was captured!"
+prywhen.19.t:0 "왕자가 생포되다!"
 prywhen.19.d:0 "After citizens reported seeing a griffon matching the Prince's description in the port of Sydia, our police managed to stop him from boarding a ship bound for Equestria in the last minute. The Prince was arrested and imprisoned immediately. What shall we do with him?"
 prywhen.19.a:0 "Hang him publicly in [GRW.Capital.GetName]!"
 prywhen.19.b:0 "Just execute him. No need for a show."
 prywhen.19.c:0 "Let him rot in jail."
 
-prywhen.20.t:0 "Find the King!"
+prywhen.20.t:0 "왕을 찾아라!"
 prywhen.20.d:0 "The crimes committed by the rulers of Brodfeld are unforgivable. It is of the utmost importance that the former King Kloseu be captured and put on trial for his crimes. We must not allow the tyrant to escape justice, and hence we shall immediately instruct all echelons of power in Prywhen to find and arrest him."
 prywhen.20.a:0 "We will find him."
 
-prywhen.21.t:0 "The King has Escaped!"
+prywhen.21.t:0 "왕이 도망치다!"
 prywhen.21.d:0 "After weeks of fruitless search, we believed that we had finally cornered King Kloseu in the home of a family sympathetic to the royalist cause. It was soon revealed however, that the individual our police was tracking was not, in fact, the King, but a double with striking similarities to Kloseu. Under torture, the double revealed that his sole purpose was to throw us off the King's trail, and that he was, in all likelihood, already far from [GRW.GetAdjective] territory. The King has eluded our grasp, most likely for good."
 prywhen.21.a:0 "Damned Fools! This is a disaster!"
 
-prywhen.22.t:0 "The Tyrant was Killed!"
+prywhen.22.t:0 "폭군이 살해되다!"
 prywhen.22.d:0 "After an intricate search of the royal palace, it was revealed that the King was still hiding in his secret chambers in the castle walls. Although he did not resist arrest, our soldiers soldiers could not contain their anger and beat the King to the brink of death. Sadly, he died hours later in the Kivessin Central Hospital."
 prywhen.22.a:0 "Good riddance anyway."
 
-prywhen.23.t:0 "The Tyrant was Captured!"
+prywhen.23.t:0 "폭군이 생포되다!"
 prywhen.23.d:0 "After weeks of hunting, our police forces finally caught a break in their search for King Kloseu. Apparently he was planning to flee the Continent and was all ready to leave via airplane, but because of poor weather his departure was delayed for a day. Police caught wind of his plans, and raided his hideout in Twelt. Though most of his guards were killed, the King himself surrendered without a struggle. He is now safely locked away and awaiting his fate."
 prywhen.23.a:0 "Death is the only option for him!"
 prywhen.23.b:0 "Imprison him for now."
 
-prywhen.24.t:0 "Find the Monarchist Supporters!"
+prywhen.24.t:0 "군주주의자를 색출하라!"
 prywhen.24.d:0 "We may have been victorious in the civil war, but monarchists and counter-revolutionaries still exist in Prywhen. If we wish to secure all that we have accomplished here, these reactionary elements must be dealt with. How big shall our effort to find these traitors be? "
 prywhen.24.a:0 "Find them at any cost!"
 prywhen.24.b:0 "A moderate effort should be enough."
@@ -514,11 +514,11 @@ prywhen.24.c:0 "We cannot spare much for this."
 prywhen.24.e:0 "They are not important."
 prywhen.24.f:0 "Counter-revolutionaries? What nonsense."
 
-prywhen.25.t:0 "The Revolution is Safe!"
+prywhen.25.t:0 "혁명은 안전하다!"
 prywhen.25.d:0 "After weeks of searching, we believe we have finally captured and imprisoned all reactionary elements within the nation. They will now be put to trial, and the worst of them shall never see the light of day again. At this point, it seems highly unlikely that counter-revolutionary forces will ever be able to organise a militia in Prywhen again."
 prywhen.25.a:0 "Great News!"
 
-prywhen.26.t:0 "Royalists in the Country!"
+prywhen.26.t:0 "나라 안의 군주주의자들!"
 prywhen.26.d:0 "Though the efforts of our police and military have been very great, we have not managed to capture all of the royalist filth that still remains in Prywhen. This will certainly cause problems for us in the future."
 prywhen.26.a:0 "Damn those traitors!"
 
