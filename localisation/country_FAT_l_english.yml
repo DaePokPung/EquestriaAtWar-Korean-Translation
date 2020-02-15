@@ -1,14 +1,14 @@
 ﻿l_english:
- RULE_OPTION_GRI_EMPIRE_REPUBLIC:0 "The Revolution Triumphant"
- RULE_OPTION_GRI_EMPIRE_REPUBLIC_DESC:0 "The Griffonian Republic will take control of the Griffonian Empire, with new opportunities and a new political system for the new government in Griffenheim."
+ RULE_OPTION_GRI_EMPIRE_REPUBLIC:0 "혁명의 승리"
+ RULE_OPTION_GRI_EMPIRE_REPUBLIC_DESC:0 "그리포니아 공화국이 그리펜하임의 새 정부를 위한 새 정치 체제와 기회를 가지고 그리포니아 제국을 지배할 것입니다."
 
- GRI_FAT_Puppet_democratic:0 "Griffonian Republic"
- GRI_FAT_Puppet_neutrality:0 "Griffonian Republic"
- GRI_FAT_Puppet_communism:0 "Griffonian Republic"
+ GRI_FAT_Puppet_democratic:0 "그리포니아 공화국"
+ GRI_FAT_Puppet_neutrality:0 "그리포니아 공화국"
+ GRI_FAT_Puppet_communism:0 "그리포니아 공화국"
 
- FAT_Monarchy_neutrality:0 "Duchy of Cloudbury"
- FAT_Kingdom_neutrality:0 "Kingdom of Cloudbury"
- FAT_Kingdom_neutrality_DEF:0 "the Kingdom of Cloudbury"
+ FAT_Monarchy_neutrality:0 "클라우드버리 공국"
+ FAT_Kingdom_neutrality:0 "클라우드버리 왕국"
+ FAT_Kingdom_neutrality_DEF:0 "클라우드버리 왕국"
 
  FAT_centrism_desc:0 "The right wing of the National Republican Party is an interesting development in the history of the Republic. Once a social-democratic, revolutionary movement, the majority of the Republic's ruling party now supports pragmatic policy, conservative economics, and integration of the Cloudburian natives into the ranks of the NRP. With a defensive-minded foreign policy, an internal policy built on unity and concessions, and an economic policy built on stability and security, the NRP-Right espouses much different principles than the revolutionaries of 978, but surely this is the right path for the Republic."
  FAT_liberalism_desc:0 "The center wing of the National Republican Party, made up mostly of the stalwarts of 978, has kept the principles of Republicanism in their hearts. Revolutionary pan-griffonian idealism, economic social-democracy and welfare programs, along with a militaristic and anti-monarchist view characterize the NRP-Centre. Its leadership, made up mostly of generals such as Schnabel Sunglider and Walter Emerich, has remained loyal to the Three Principles of Liberty, Demcocracy, and Prosperity - for all griffons!"
