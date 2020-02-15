@@ -8,15 +8,15 @@
  STW_pu_time:0 "두개의 국가, 하나의 통치자"
  STW_pu_time_desc:0 "지난 몇주간 왕실의 최고위층에서는 밀실 거래와 동맹 관계의 전환, 정치적 다툼이 난무했습니다. 어쨌든, 가브리엘라는 그로버 6세의 섭정이라는 자랑스러운 자리에 앉아있습니다. 이는 그녀가 사실상 두 국가의 통치자임을 의미하지만, 이는 그녀의 명성을 감안해도 너무 많은 일을 맡은 것 일수도 있습니다."
  
- STW_choose_a_regent:0 "Gabriela’s Regency"
- STW_choose_a_regent_desc:0 "Gabriela’s duties keep her locked within Griffenheim, denying her homeland of sound judgement and leadership. With this in mind, she begins the process of finding a regent for her griffons."
+ STW_choose_a_regent:0 "가브리엘라의 섭정"
+ STW_choose_a_regent_desc:0 "가브리엘라의 의무는 그녀를 그리핀헬름에 가두어두었고, 그녀의 조국에 대한 건전한 판단력과 지도력은 확립될 수 없을 것입니다. 이를 염두에 두고, 그녀는 자신의 백성들에 맞는 섭정을 찾기 위한 과정을 시작했습니다."
  
- STW_commie_boy:0 "Ravenbeak von Schimmelpenninck"
- STW_commie_boy_desc:0 "Ravenbeak von Schimmelpenninck is minor noble who owns a smattering of land throughout Strawberry. He is a close friend and confidant of Gabriela, always offering a lucrative avenue of advice in her relation towards the working-class populace of her duchy. While some have expressed concern towards his republican and leftist views, the Duchess expresses full faith in her friend."
- STW_pope_boy:0 "The Prelate of Osnabeak"
- STW_pope_boy_desc:0 "The Prelate of Osnabeak is currently filled by Julius Eagleclaw, Gabriela’s Uncle. While a staunchly religious griffon, he is an able administrator and has always showed great loyalty to his brother and later niece. However, some within our court question if this loyalty will continue to be upheld as Gabriela enters into direct conflict with the [GetGRIFascistLeaderName]."
- STW_loyalist:0 "Baroness Regina Eagleclaw"
- STW_loyalist_desc:0 "Baroness Regina Eagleclaw is a close cousin and friend of the Duchess, being a trusted ally for the entirety of her reign. The two of them are like-minded in their harmonic beliefs, and with her in charge, there would be no doubt that Gabriella’s vision for Strawberry will be carried out diligently and with no hesitation."
+ STW_commie_boy:0 "라펜베아크 폰 시멜페닝크"
+ STW_commie_boy_desc:0 "라펜베아크 폰 시멜페닝크은 딸기 전역에 걸쳐 약간의 땅을 소유하고 있는 작은 귀족입니다. 그는 가브리엘라의 절친한 친구로, 항상 가브리엘라에게 영지 내 노동자 계층에 대한 그녀의 관계에 있어서 유익한 조언의 길을 제공합니다. 몇몇은 그의 공화주의자와 좌파적 견해에 대해 우려를 표명했지만 여공작은 그녀의 친구를 전적으로 신뢰하고 있습니다."
+ STW_pope_boy:0 "오스나베아크의 주교"
+ STW_pope_boy_desc:0 "현재 오스나베아크의 주교는 가브리엘라의 삼촌인 율리우스 이글클로 입니다. 신앙심이 두터운 그리폰인 한편, 그는 유능한 행정가로서 항상 그의 형과 그 후임인 조카딸에게 큰 충성심을 보여왔습니다. 그러나 우리 궁정내 일부에서는 가브리엘라가 [GetGRIFascistLeaderName]과 직접 충돌함에 따라 이러한 충성도가 계속 유지될 것인가에 대해 의문을 제기하고 있습니다."
+ STW_loyalist:0 "여남작 레지나 이글클로"
+ STW_loyalist_desc:0 "레지나 이글클로 여남작은 공작부인의 절친한 사촌이자 친구로, 재위기간 내내 신뢰할 수 있는 동맹입니다. 두 사람은 조화로운 신념 속에서 같은 마음을 가지고 있으며, 그녀와 함께 스트로베리에 대한 가브리엘라의 비전이 조금도 주저하지 않고 부지런히 수행될 것이라는 데는 의심의 여지가 없을 것입니다."
  
  #Fash/Commie
  STW_forceful_cooperation:0 "For Strawberry"
