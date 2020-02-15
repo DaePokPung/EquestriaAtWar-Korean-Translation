@@ -1,7 +1,20 @@
 # Equestria At War Korean Translation
 하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워(Equestria at War)의 한국어 번역 프로젝트입니다.
 
+# 공지사항
+- 현재 번역 작업이 중구난방으로 진행된다는 지적에 따라 번역의 전체적인 방향을 잡고자 합니다.번역하시는 분들은 가급적이면 아래의 문서를 최우선으로 번역해 주시면 감사하겠습니다.
+
+  - [이퀘스트리아](localisation/country_EQS_l_english.yml)
+  - [루나 제국](localisation/country_NLR_l_english.yml)
+  - [태양 제국](localisation/country_SOL_l_english.yml)
+  - [체인질링 랜드](localisation/country_CHN_l_english.yml)
+  - [그리포니아 제국](localisation/country_GRI_l_english.yml)
+  - [그리포니아 공화국](localisation/country_FAT_l_english.yml)
+
+- 단어장의 일부 국가명 및 표현들의 변경 여부와 관련된 [토론](https://github.com/DaePokPung/EquestriaAtWar-Korean-Translation/issues/83)이 진행 중입니다.
+
 # 목차
+- [목차](#목차)
 - [목차](#목차)
 - [번역 방법](#번역%20방법)
 - [번역 규칙](#번역%20규칙)
