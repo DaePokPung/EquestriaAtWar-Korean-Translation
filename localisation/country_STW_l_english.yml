@@ -3,10 +3,10 @@
 ########## FOCUS
 
  ### Political
- STW_death_of_a_friend:0 "The Passing of Grover"
- STW_death_of_a_friend_desc:0 "With the passing of Grover V, events within the empire are about to unfold as the regency debate comes to the forefront of imperial politics. Still, this can wait as Gabriela take a moment to honour the passing of a close friend and family member. Backroom deals and power politics are for after she mourns the passing of a great Griffon."
- STW_pu_time:0 "Two Nations, One Ruler"
- STW_pu_time_desc:0 "The last few weeks have been a flurry of backroom deals, shifting alliances, and politics fought at the highest levels of imperial authority. However, Gabreila sits proud as the regent of Grover VI. Though, this does mean that she is de facto the ruler of two separate nations, a job that might be too much for even a griffoness of her stature."
+ STW_death_of_a_friend:0 "그로버의 죽음"
+ STW_death_of_a_friend_desc:0 "그로버 5세의 죽음과 함께, 수많은 사건들이 계승문제가 제국 정치의 전면으로 떠오르면서 전개될 것입니다. 그러나 여전히, 가브리엘라가 잠시 시간을 내어 가까운 친구이자 가족이였던 이의 죽음을 기릴 수는 있을 것입니다. 밀실 거래와 권력 다툼은 그녀가 위대한 그리폰의 죽음을 애도한 뒤에 할 일입니다."
+ STW_pu_time:0 "두개의 국가, 하나의 통치자"
+ STW_pu_time_desc:0 "지난 몇주간 왕실의 최고위층에서는 밀실 거래와 동맹 관계의 전환, 정치적 다툼이 난무했습니다. 어쨌든, 가브리엘라는 그로버 6세의 섭정이라는 자랑스러운 자리에 앉아있습니다. 이는 그녀가 사실상 두 국가의 통치자임을 의미하지만, 이는 그녀의 명성을 감안해도 너무 많은 일을 맡은 것 일수도 있습니다."
  
  STW_choose_a_regent:0 "Gabriela’s Regency"
  STW_choose_a_regent_desc:0 "Gabriela’s duties keep her locked within Griffenheim, denying her homeland of sound judgement and leadership. With this in mind, she begins the process of finding a regent for her griffons."
