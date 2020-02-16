@@ -12,14 +12,14 @@
  EQC_abolish_the_bit:0 "화폐 제도 폐지"
  EQC_abolish_the_bit_desc:0 "우리는 짤랑거리는 금속 조각 따위의 많고 적음이 존재의 가치를 정한다는 그 천박한 개념에 거부를 선언합니다. 이로인해 우리는 그것으로 인해 비롯된 모든 걱정과 부담으로부터 해방될 것입니다."
  
- EQC_equal_road_distribution:0 "Equal Road Distribution"
- EQC_equal_road_distribution_desc:0 "For too long the roads and bridges of New Mareland have served those who live in the cities. It is time we fix this by building roads to all the towns and villages across the nation. For every inch of city asphalt, an inch must be poured for everyone else."
+ EQC_equal_road_distribution:0 "기반시설의 평등화"
+ EQC_equal_road_distribution_desc:0 "다리와 도로가 뉴 메어랜드와 같은 도시인들의 전유물이었던 시대는 끝났습니다. 우리 모두가 서로를 위해 힘을 합해 1인치씩 지어나갈 것입니다."
  
  EQC_equal_work:0 "직업의 평등화"
  EQC_equal_work_desc:0 "Everyone deserves an equal shot and we won't push aside creatures who's expertise aren't in the job specifications. We work for the same reasons and none will be looked down upon by the uniform they wear." 
  
- EQC_equality_within_reason:0 "Equality Within Reason"
- EQC_equality_within_reason_desc:0 "Replacing everyone's cutie marks was a mistake. There's more to equality then the mark on your flank."
+ EQC_equality_within_reason:0 "평등 그리고 이성"
+ EQC_equality_within_reason_desc:0 "모두의 큐티 마크를 획일화한다는 생각은 낭비에 불과합니다. 우리는 그것 말고도 할 일이 많습니다."
  
  EQC_equal_healthcare:0 "Equal Healthcare"
  EQC_equal_healthcare_desc:0 "We can't put a price on a creature's life, denying them the help that they deserve would be a tremendous disservice to our cause."
@@ -70,8 +70,8 @@
  EQC_spread_equality_desc:0 "For Equalism to strive we must spread it across the globe. There are no such things as borders in an equal world."
 
  ### IDEAS ###
- EQC_memories_of_our_town_idea:0 "Memories of Our Town"
- EQC_equal_conscription_idea:0 "Equal Conscription"
+ EQC_memories_of_our_town_idea:0 "우리 마을의 추억"
+ EQC_equal_conscription_idea:0 "우리 군대"
  EQC_equal_for_all_idea:0 "Equality for All"
  EQC_empower_the_farmers_idea:0 "Empower the Farmers"
  EQC_equal_healthcare_idea:0 "Equal Helthcare"
