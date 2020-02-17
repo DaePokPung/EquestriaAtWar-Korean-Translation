@@ -1201,7 +1201,7 @@
  GRI_reaffirm_emperors_role_idea_desc:0 "The doctrine of imperial Prerogative or Vorrecht des Kaisers has now been clarified and codified without any room for traitorous interpretation. Briefly paraphrased, it states that the Emperor indeed does not serve but rules and may freely overrule any lower decision."
  GRI_local_collborators_idea:0 "Regional Collaborators"
  GRI_local_collborators_idea_desc:0 "The imperial administration has been reformed with more autonomies awarded to the provinces. Now, from Griffenheim to the furthest corners of the Empire, we can find loyalists to rely on for information and support and all of it in exchange for some token decentralised responsibilities."
- GRI_finalise_the_constitution_idea_2:0 "그로버 한법"
+ GRI_finalise_the_constitution_idea_2:0 "그로버 헌법"
  GRI_finalise_the_constitution_idea_2_desc:0 "The Empire is now governed under the rules established in the Verfassung des Griffonische Reiches. This constitution reaffirms the supremacy of traditional principles and rests on the pillars of Autocracy, Faith and the Griffonian National Spirit."
  
  ### Advisors ###
@@ -1372,8 +1372,8 @@
  GRI_new_navy_tp:0 "§G중점을 완료하고 365일이 지나면 새로운 해군을 받게 될 것입니다.§!\n\n"
  GRI_civilian_economy_tp:0 "§G이 중점을 완료하면 경제법은 민간 경제만 선택할 수 있게 될 것입니다.§!\n\n"
  GRI_limit_conscription_term_tp:0 "§G이 중점을 완료하면 징병법은 제한된 징병만 선택할 수 있게 될 것입니다.§!\n\n"
- GRI_abolish_conscription_tp:0 "§G이 중점을 완료하면 징병법은 지원자만 선택할 수 있게 될 것입니다.§!\n\n"
- GRI_ensure_free_trade_tp:0 "§G이 중점을 완료하면 무역법을 자유 무역 혹은 수출 중점만 선택할 수 있게 될 것입니다.\n\n"
+ GRI_abolish_conscription_tp:0 "§G이 중점을 완료하면 징병법은 모병자 한정만 선택할 수 있게 될 것입니다.§!\n\n"
+ GRI_ensure_free_trade_tp:0 "§G이 중점을 완료하면 무역법을 자유 무역 혹은 수출 중점만 선택할 수 있게 될 것입니다.§!\n\n"
  owns_frontier_states_tooltip:0 "그리폰 개척지 국가의 핵심 주를 소유하고 있습니다.\n"
  frontier_states_ceded_tooltip:0 "§G그리폰 개척지 국가가 소유한 모든 핵심 주가 우리에게 양도될 것입니다!§!\n"
  
