@@ -1,5 +1,5 @@
 # Equestria At War Korean Translation
-하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워(Equestria at War)의 한국어 번역 프로젝트입니다.
+하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워([Equestria at War](https://steamcommunity.com/sharedfiles/filedetails/?id=1826643372))의 한국어 번역 프로젝트입니다.
 
 ***
 
@@ -18,21 +18,21 @@
 ***
 
 # 목차
-- [번역 방법](#번역%20방법)
-- [번역 규칙](#번역%20규칙)
+- [번역 방법](#번역-방법)
+- [번역 규칙](#번역-규칙)
 - [단어장](#단어장)
   - [생명체](#생명체)
   - [이념](#이념)
   - [국가](#국가)
   - [장소](#장소)
   - [기타](#기타)
-  - [국가 및 국가코드](#국가%20및%20국가코드)
+  - [국가 및 국가코드](#국가-및-국가코드)
 - [외부링크](#외부링크)
 
 # 번역 방법
 이퀘스트리아 앳 워 한국어 번역은 공개 번역으로 누구나 참여하실 수 있습니다.
 
-깃허브에 가입하고 번역하고픈 문서를 [`localisation`](/localisation) 클릭해 우측 상단 연필 아이콘(`Edit this file`)을 눌러 수정한 뒤 녹색 버튼 녹색 버튼(`Propose file change` → `Create Pull request` → `Create Pull request`)를 눌러 수정 요청을 한 뒤 관리자의 승인을 기다리면 작업을 저장하실 수 있습니다.
+먼저 깃허브에 가입한 뒤 [`localisation`](/localisation)을 클릭하고 번역하고 싶은 문서에 들어가 우측 상단 연필 아이콘(`Edit this file`)을 눌러 수정한 뒤 녹색 버튼(`Propose file change` → `Create Pull request` → `Create Pull request`)을 눌러 수정 요청을 한 뒤 관리자의 승인을 기다리면 됩니다.
 
 `localisation` 폴더가 두 개인데, 위쪽 `localisation(원본)` 폴더는 원문과 비교하기 위한 원문 파일입니다. 이 폴더는 번역하지 마시고 아래의 `localisation` 폴더에서 번역해 주세요!
 
@@ -45,18 +45,18 @@
 
 - 파운드 기호(`£`) 다음에 오는 내용은 게임에서 아이콘으로 구현되는 부분으로 번역하지 않습니다.
 
-- 부분 기호(`§§!`) 사이의 내용은 글자 색상을 지정하는 것으로 첫 글자를 제외하고 번역합니다. (`예: Y:노랑색, R:빨강색`)
+- 부분 기호(`§§!`) 사이의 첫 대문자 알파벳은 글자 색상을 지정하는 것으로 번역하지 않습니다.
 ```
 번역 예시:
   §YTwilight Sparkle§! and the §YElements of Harmony§!
   §Y트와일라잇 스파클§!과 §Y조화의 원소§!
 ```
 
-- 개행 기호(`\n`)는 줄바꿈 기호로 새로 추가하거나 제거하지 않습니다.
+- 개행 기호(`\n`)는 줄바꿈 기호로 번역하지 않습니다.
 
-- 원작에서 나오지 않았거나 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주세요.
+- 원작에서 나오지 않았거나 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주세요. (필요시 Issue탭 활용)
    
-- 번역 관련해 토론하고 싶다면 상단 `Issues` 탭 혹은 [임페라토르 롬 갤러리](https://gall.dcinside.com/mgallery/board/lists/?id=rome)에 올려주세요.
+- 번역에 관련된 토론은 상단 `Issues` 탭 혹은 [임페라토르 롬 갤러리](https://gall.dcinside.com/mgallery/board/lists/?id=rome)에 올려주세요.
 
 # 단어장
 번역할 국가의 국가코드 3자리가 궁금하다면 [위키의 국가 문서](https://equestria-at-war.fandom.com/wiki/List_of_Countries) 또는 인게임에서 콘솔을 열어 `tdebug` 명령어를 입력해 직접 확인하실 수 있습니다.
@@ -86,18 +86,18 @@
 
 ## 장소
 - `Griffenheim` 그리펜하임
-- `Herzland` `Heartsland` 헤르츠란트
+- `Herzland` `Heartsland` 헤르츠란트 (그리포니아 중부 지역명으로 보기 힘든 경우 "심장부"도 가능)
 - `Scheißwald` 샤이스발트
 
 ## 기타
 - `Elements of Harmony` 조화의 원소
-- `Crystal Empire` 크리스탈 왕국(제국 아님, 솜브라가 이끄는 경우 제외. 번역 기준)
+- `Idol of Boreas` 보레아스의 성물
 
 ## 국가 및 국가코드
-> 국가 코드로 검색할 수 있습니다, 우리말이 아니라면 번역이 안된 것으로 국가명이 들어있는 다음 파일에서 번역을 진행한 뒤 업데이트 해주세요.
+> 국가 코드로 검색할 수 있습니다, 우리말이 아니라면 번역이 안 된 것이니 국가명이 들어있는 다음 파일에서 번역을 진행한 뒤 업데이트 해주세요.
 >- [countries_l_english.yml](localisation/countries_l_english.yml)
 >- [eaw_griffon_continent_countries_l_english.yml](localisation/eaw_griffon_continent_countries_l_english.yml)
->- 국가별 파일(브론즈힐, 비텐란트, 핑랜드 왕국 등 일부 국가는 국가별 파일에 따로 들어있습니다.)
+>- 국가별 파일(위 두 문서에 나오지 않은 국가명(브론즈힐, 비텐란트, 핑랜드 왕국 등)은 각자의 국가 파일에 따로 들어가 있습니다.)
 
 > 이 부분은 미리 작성된 `wordbook_countries.js` 스크립트를 사용해 번역된 국가 이름만 수정해 쉽게 생성하실 수 있습니다.
 
