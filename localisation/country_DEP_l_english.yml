@@ -3,23 +3,23 @@
  DEP_fascism:0 "그림자 나무 제국"
  DEP_communism:0 "나무 포니 코뮌"
  DEP_democratic:0 "데포니아 왕국"
- DEP_neutrality_DEF:0 "Deponya"
- DEP_fascism_DEF:0 "The Empire of the Shadow Trees"
- DEP_communism_DEF:0 "The Tree Pony Commune"
- DEP_democratic_DEF:0 "The Kingdom of Deponya"
- DEP_fascism_ADJ:0 "Deponian"
- DEP_democratic_ADJ:0 "Deponian"
- DEP_neutrality_ADJ:0 "Deponian"
- DEP_communism_ADJ:0 "Deponian"
+ DEP_neutrality_DEF:0 "데포니아"
+ DEP_fascism_DEF:0 "그림자 나무 제국"
+ DEP_communism_DEF:0 "나무 포니 코뮌"
+ DEP_democratic_DEF:0 "데포니아 왕국"
+ DEP_fascism_ADJ:0 "데포니아 국민"
+ DEP_democratic_ADJ:0 "데포니아 국민"
+ DEP_neutrality_ADJ:0 "데포니아 국민"
+ DEP_communism_ADJ:0 "데포니아 국민"
 
  #### IDEAS ####
- DEP_old_country:0 "Old Country"
- DEP_old_country_desc:0 "Deponya is an old country in with its own backwards ways. The rest of the Eastlands may laugh at us, but we are rooted in tradition and we believe in our King."
+ DEP_old_country:0 "낡은 국가"
+ DEP_old_country_desc:0 "데포니아는 후진적인 면이 꽤 존재하는 역사깊은 나라입니다. 동방의 국가들은 우리를 비웃겠지만, 우리는 깊은 전통에 뿌리를 두고 있고 우리의 왕을 믿습니다."
 
 
  #### Tooltips ####
 
- DEP_Advisors_rounds_1_tt:0 "Need At Least 1 Advisor Rounds finished"
- DEP_Advisors_rounds_2_tt:0 "Need At Least 2 Advisor Rounds finished"
- DEP_Advisors_rounds_3_tt:0 "Need At Least 3 Advisor Rounds finished"
- DEP_Advisors_rounds_4_tt:0 "Need All Advisor Rounds finished"
+ DEP_Advisors_rounds_1_tt:0 "최소 한 마리의 조언가가 차례를 마쳐야 합니다."
+ DEP_Advisors_rounds_2_tt:0 "최소 두 마리의 조언가가 차례를 마쳐야 합니다."
+ DEP_Advisors_rounds_3_tt:0 "최소 세 마리의 조언가가 차례를 마쳐야 합니다."
+ DEP_Advisors_rounds_4_tt:0 "모든 조언가가 차례를 마쳐야 합니다."
