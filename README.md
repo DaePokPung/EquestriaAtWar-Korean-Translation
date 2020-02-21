@@ -6,7 +6,7 @@
 # 공지사항
 - 현재 번역 작업이 중구난방으로 진행된다는 지적에 따라 번역의 전체적인 방향을 잡고자 합니다.번역하시는 분들은 가급적이면 아래의 문서를 최우선으로 번역해 주시면 감사하겠습니다.
 
-  - [이퀘스트리아](localisation/country_EQS_l_english.yml)
+  - [이퀘스트리아](localisation/country_EQS_l_english.yml) (번역 완료)
   - [루나 제국](localisation/country_NLR_l_english.yml)
   - [태양 제국](localisation/country_SOL_l_english.yml)
   - [체인질링 랜드](localisation/country_CHN_l_english.yml)
@@ -14,6 +14,14 @@
   - [그리포니아 공화국](localisation/country_FAT_l_english.yml)
 
 - 단어장의 일부 국가명 및 표현들의 변경 여부와 관련된 [토론](https://github.com/DaePokPung/EquestriaAtWar-Korean-Translation/issues/83)이 진행 중입니다.
+
+  - `principality` 공국 → 후국
+  - `prince` 후작
+  - `Arcturian Order` 아크투리우스 기사단 → 아크튜러스 기사단
+  - `Angriver` 안그리버 → 앵그리버
+  - `Blackrock` 블랙락 → 블랙록
+  - `Marcher-Lordship of Westkeep` 웨스트킵 변경백국
+  - `New Mareland` 뉴 메어랜드 → 뉴메어랜드
 
 ***
 
