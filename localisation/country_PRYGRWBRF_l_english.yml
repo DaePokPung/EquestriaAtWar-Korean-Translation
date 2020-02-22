@@ -85,10 +85,10 @@ opened_up_schools:0 "교육에 힘쓰다"
 opened_up_schools_desc:0 "우리는 문맹인 대중들을 교육하기 시작했습니다. 그들이 좋아하든 그렇지 않든, 그래야만 합니다."
 
 opened_up_schools2:0 "교육 캠페인"
-opened_up_schools2_desc:0 "We have begun to further our initial education reforms, to convince more of our people that education is not going to ruin their lives."
+opened_up_schools2_desc:0 "우리는 교육이 그들의 삶을 망치지 않을 것이라는 걸 더 많은 사람들에게 확신시키기 위해 우리의 초기 교육 개혁을 더욱 진전시키기로 결정했습니다."
 
-opened_up_schools3:0 "자율 학교"
-opened_up_schools3_desc:0 "Voluntary schools are an excellent way to finish our education reforms, and a good way to get our people invested in their educations, by making them voluntary and rewarding them, rather than making them required, and punishing them for not going to school."
+opened_up_schools3:0 "자율학교"
+opened_up_schools3_desc:0 "자율학교는 우리의 교육 개혁을 완수하는 완벽한 방법이며, 우리 국민들이 자발적으로 교육에 투자하도록 하는 좋은 방법입니다. 학교에 가는 것을 법으로 강제하고 보내지 않으면 처벌하는 것보다는요."
 
 GRW_risk_of_famine:0 "기근의 위험"
 GRW_risk_of_famine_desc:0 "우리의 현재 상태로는, 조만간 식량이 바닥날지도 모릅니다."
@@ -97,7 +97,7 @@ GRW_famine_start:0 "기근이 닥치다"
 GRW_famine_start_desc:0 "식량이 다 떨어졌습니다! 당연하게도, 이는 아주 큰 문제입니다."
 
 GRW_famine:0 "심각한 기근"
-GRW_famine_desc:0 "The people are starving, and eating any scraps of food they're able to dig up out of the dirt, trash, or wherever. Something must be done to fix this issue, before we all starve to death."
+GRW_famine_desc:0 "사람들은 굶주리고 있으며, 땅바닥이나 쓰레기 더미에서 음식물 찌꺼기들을 파내 먹고 있습니다. 우리 모두가 굶어죽기 전에, 사태를 해결하기 위한 조치가 필요합니다."
 
 pressure_ERI_and_EYR_and_ANG:0 "Pressure §Y[ERI.GetNameDef]§W, §Y[EYR.GetNameDef]§W and §Y[ANG.GetNameDef]§W."
 pressure_AVI_POM_FLO_HEL_PYT:0 "Pressure §Y[AVI.GetNameDef]§W,§Y[POM.GetNameDef]§W,§Y[FLO.GetNameDef]§W,§Y[HEL.GetNameDef]§W and §Y[PYT.GetNameDef]§W."
@@ -234,7 +234,7 @@ GRW_protectionism_desc:0 "We should not concern ourselves with those around us, 
 GRW_infrastructure_effort:0 "고향땅을 개선시키다"
 GRW_infrastructure_effort_desc:0 "We should now focus on improving our infrastructure at home, so as to make transportation between both ends of our state easier to accomplish, especially considering the not quite perfect ground."
 
-GRW_industry_effort:0 "Consumer Industry"
+GRW_industry_effort:0 "소비자 경제"
 GRW_industry_effort_desc:0 "Now that we have a proper civilian sector, and the consumers to go with it, we should develop a peacetime industry catering specifically to such people, to cement our prosperity to the world around us, and prove to our detractors that we are able to compete-and succeed- on a global scale."
 
 GRW_exansionism:0 "확장주의"
@@ -249,19 +249,19 @@ GRW_annex_Lushi_desc:0 "Our next stop in our expansionist goals should be the pr
 GRW_demand_salt_markt:0 "살트마크트 요구"
 GRW_demand_salt_markt_desc:0 "The province of Saltmarkt once belonged to us when we were subjugated under the Brodfield's Monarchy. However, with the rise of our civil war for liberation, the province was occupied unjustly by Cyanolisia. Now that we are in a position to demand it back, we should do so. The province is rightfully ours, and we should make every stride to reintegrate it into our country."
 
-GRW_GRU_infiltration:0 "Infiltration of Gryphus"
+GRW_GRU_infiltration:0 "그리퍼스에 잠입"
 GRW_GRU_infiltration_desc:0 "It is time to send our infiltrators to Gryphus, so as to begin operations towards the coming revolution."
 
 GRW_GRU_fate:0 "그리퍼스의 운명"
 GRW_GRU_fate_desc:0 "It is time to decide the fate of Gryphus. Will they come about to our way of thinking, or must we bring the revolution to their doorstep by force of arms?"
 
-GRW_LUS_infiltration:0 "Infiltration of Lushi"
+GRW_LUS_infiltration:0 "루시에 잠입"
 GRW_LUS_infiltration_desc:0 "It is time to send our infiltrators to the Principality of Lushi, so as to begin operations towards the coming revolution."
 
 GRW_LUS_fate:0 "루시의 운명"
 GRW_LUS_fate_desc:0 "It is time to decide the fate of Lushi. Will they come about to our way of thinking, or must we bring the revolution to their doorstep by force of arms?"
 
-GRW_GRY_infiltration:0 "Infiltration of Gryphian Host"
+GRW_GRY_infiltration:0 "그리피안 호스트에 잠입"
 GRW_GRY_infiltration_desc:0 "It is time to send our infiltrators to the Gryphian Host, so as to begin operations towards the coming revolution."
 
 GRW_GRY_fate:0 "그리피안 호스트의 운명"
@@ -361,14 +361,14 @@ GRW_first_griffon_in_space_desc:0 ""
 GRW_fight_counter_revolution:0 "반혁명과 싸우다"
 GRW_internal_issues_police:0 "그림자 경찰"
 GRW_begin_nationalizing_agriculture:0 "Griffon-wide Nationalisation of Agriculture"
-GRW_crush_the_oligarchs:0 "Crush the Oligarchs"
-GRW_grow_support:0 "Grow Support"
+GRW_crush_the_oligarchs:0 "올리가르히 분쇄"
+GRW_grow_support:0 "지원 확대"
 GRW_military_youth:0 "유소년 군사 조직"
 GRW_militarized_schools:0 "Militarised Schools"
 GRW_nationalization_of_coroporations:0 "Nationalisation of Corporations"
 GRW_family_care:0 "Family Care"
 GRW_free_healthcare:0 "무상 의료 서비스"
-GRW_nationwide_culture:0 "One Culture"
+GRW_nationwide_culture:0 "하나의 문화"
 GRW_standartize_language:0 "표준화된 언어"
 GRW_statewide_education_campaigns:0 "All Griffons to Read"
 GRW_statewide_education_campaigns2:0 "Statewide School Campaigns"
@@ -510,7 +510,7 @@ prywhen.24.t:0 "군주주의자를 색출하라!"
 prywhen.24.d:0 "We may have been victorious in the civil war, but monarchists and counter-revolutionaries still exist in Prywhen. If we wish to secure all that we have accomplished here, these reactionary elements must be dealt with. How big shall our effort to find these traitors be? "
 prywhen.24.a:0 "어떤 대가를 치르더라도 찾아내라!"
 prywhen.24.b:0 "적당한 노력으로 충분할 것이다."
-prywhen.24.c:0 "놈들을 많이 신경쓸 수는 없다."
+prywhen.24.c:0 "놈들을 지나치게 신경쓸 수는 없다."
 prywhen.24.e:0 "놈들은 중요하지 않다."
 prywhen.24.f:0 "반(反)혁명이라고? 터무니 없는 소리."
 
@@ -532,7 +532,7 @@ prywhen.31.a:0 "뿌린 대로 거두는 법."
 
 prywhen.32.t:0 "우리의 산업이 성장하다!"
 prywhen.32.d:0 "Our economy has improved a lot in the last years, and we are now almost at the industrial and economical level as the western Griffonia states. Through careful investments into our industrial sector, we should be able to improve our economy even further."
-prywhen.32.a:0 "The Revolution will prevail!"
+prywhen.32.a:0 "혁명은 전진할 것이다!"
 
 prywhen.33.t:0 "반(反)혁명이 실패하다!"
 prywhen.33.d:0 "After months of fighting, arrests and imprisonments, it seems we have finally managed to stop the counter-revolution in it's tracks. This will allow us to improve the ideological foundation of Prywhen and finally initiate a return to normality."
@@ -540,21 +540,21 @@ prywhen.33.a:0 "진작에 이랬어야지"
 
 prywhen.35.t:0 "우리의 산업이 성장하다!"
 prywhen.35.d:0 "After years of industrial and economical development and expansion, our industrial potential has finally reached the levels of the major western griffon states! This clearly shows that communist economics are the most efficient ever to be devised."
-prywhen.35.a:0 "Revolution will prevail!"
+prywhen.35.a:0 "혁명은 전진할 것이다!"
 
-prywhen.36.t:0 "Possible Support From the [LUS.GetName]"
+prywhen.36.t:0 "[LUS.GetName](으)로부터의 지원 가능성"
 prywhen.36.d:0 "Currently there are several communist groups in Lushi. We shall send our envoy and beg for their support in our final push in this civil war."
 prywhen.36.a:0 "Yes."
 
-prywhen.37.t:0 "Possible Support From Gryphus"
+prywhen.37.t:0 "그러퍼스로부터의 지원 가능성"
 prywhen.37.d:0 "There are several partisan rebel groups hiding out in the forests of the northern part of Gryphus. We must send an envoy and ask them to join us in the final push in our own civil war. It is a much better option than fighting in the forests endlessly with victory nowhere in sight."
 prywhen.37.a:0 "Yes."
 
-prywhen.38.t:0 "Possible Support From the Gryphian Host"
+prywhen.38.t:0 "그리피안 호스트로부터의 지원 가능성"
 prywhen.38.d:0 "There are many groups of griffons who are dead tired of the despotic government of the Gryphian Host and their endless and useless attacks on the River Federation. They will surely join us in our fight for freedom if we promise to liberate their nation next."
 prywhen.38.a:0 "Yes."
 
-prywhen.39.t:0 "Support For the Griffon Liberation Army"
+prywhen.39.t:0 "그리폰 해방군 지원"
 prywhen.39.d:0 "We may provide support for [GRW.GetNameDef] in their struggle for freedom, shall we? While this will obviously cost us manpower that could be used elsewhere, the experience gained by our volunteers could prove to be invaluable."
 prywhen.39.a:0 "Yes."
 prywhen.39.b:0 "No."
@@ -563,7 +563,7 @@ prywhen.40.t:0 "의용군이 도착하다!"
 prywhen.40.d:0 "[From.GetNameDef] has arranged for more volunteer brigades to help us in our struggle to spread the revolution."
 prywhen.40.a:0 "환상적이군!"
 
-prywhen.41.t:0 "Claims on Saltmarkt!"
+prywhen.41.t:0 "살트마크트 영유권 주장!"
 prywhen.41.d:0 "Saltmarkt is a rightful part of our nation, and if we have to use force to get it back, then so be it."
 prywhen.41.a:0 "It will be ours once more!"
 
@@ -571,15 +571,15 @@ prywhen.42.t:0 "기근이 닥치다!"
 prywhen.42.d:0 "With the civil war dragging on and on, the devastation has caused our agriculture to collapse. We are running out of stored supplies, and hunger slowly envelopes the countryside."
 prywhen.42.a:0 "빌어먹을!"
 
-prywhen.43.t:0 "Ravaging Hunger"
+prywhen.43.t:0 "굶주림이 만연하다"
 prywhen.43.d:0 "The ongoing famine continues to ravage the countryside. Many are dying, and there are reports of griffons resorting to cannibalism in order to stay alive. It is not expected that the situation will improve anytime soon."
-prywhen.43.a:0 "This is a disaster!"
+prywhen.43.a:0 "이건 재앙이야!"
 
-prywhen.44.t:0 "Open up the Lord's Cellars!"
+prywhen.44.t:0 "왕의 저장고를 열어라!"
 prywhen.44.d:0 "The former King of Brodfeld has a huge private larder. Opening it up and distributing it to the public will reduce the effects of the ongoing famine for some time. However we will need to reform our agriculture to be able to fully get rid of the famine."
-prywhen.44.a:0 "The Swine, hoarding food during a famine..."
+prywhen.44.a:0 "더러운 놈, 기근에 식량을 비축하다니..."
 
-prywhen.45.t:0 "The Famine is Over!"
+prywhen.45.t:0 "기근이 끝나다!"
 prywhen.45.d:0 "With our agriculture finally modernised, we are now able to centralise our food production and distribute it equally among the citizens. This will finally end this famine, but its effects will likely be felt for decades still."
 prywhen.45.a:0 "Good but...bad..."
 
