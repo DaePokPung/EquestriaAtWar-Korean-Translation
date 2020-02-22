@@ -40,7 +40,7 @@
  EQS_bring_back_puppet:0 "[From.GetName]에게 재종속화 요구"
 
  EQS_completed_advisors:0 "Has completed focus §YNew High Command§!"
- EQS_completed_Extreme_war_comittee:0 "Has completed focus §YUrgent War Committee§!"
+ EQS_completed_Extreme_war_comittee:0 "§Y긴급 전쟁 위원회§! 중점을 완료함"
  EQS_completed_EQS_WMD:0 "Has completed focus §YEquestrian Weapon of Mass Destruction§!"
  EQS_remove_fascism_decision:0 "Remove Wartime Measures"
  EQS_remove_fascism_decision_desc:0 "With peace back in [Root.GetName], it would be prudent to remove some of the more extreme wartime measures - lest the completely transform our society."
@@ -146,8 +146,8 @@
 
  cry_betrayal:0 "우리를 배신하다"
  cry_refused_to_negotiate:0 "협상을 거부하다"
- eqs_has_civil_war_tp:0 "Is in a civil war"
- eqs_not_has_civil_war_tp:0 "Is not in a civil war"
+ eqs_has_civil_war_tp:0 "내전 중"
+ eqs_not_has_civil_war_tp:0 "내전 중이 아님"
  eqs_civil_war_ended_tp:0 "내전이 끝나다"
  SOL_examine_the_situation:0 "상황을 검토하다"
  SOL_examine_the_situation_desc:0 "우리의 대내외 정책에 관한 위원회를 조직합니다."
@@ -157,7 +157,7 @@
  SOL_Crystal_Fair_desc:0 "Ever since Celestia's transformation, Princess Cadance has tried to distance herself and her fiefdom from the Empire. She has to be dealt with, in order to secure unity across Equestria. One way or another, she will bend."
  SOL_rainbow_falls_resort:0 "무지개 폭포 병기창"
  SOL_rainbow_falls_resort_desc:0 "Build a new Arsenal in Rainbow Falls, so that our subjects may prove themselves as more useful soldiers."
- SOL_crystalcity_university:0 "Universities\nin Crystal City"
+ SOL_crystalcity_university:0 "크리스탈 시티 대학들"
  SOL_transequestrian_raillines:0 "제국 횡단철도"
  SOL_transequestrian_raillines_desc:0 "With our new industrial capacities, and with conflict looming on the horizon, a new project to build a railway across all of Equestria would surely prove most beneficial to our cause."
  SOL_manehattan_line:0 "매인해튼 철로 개선"
