@@ -13,16 +13,6 @@
   - [그리포니아 제국](localisation/country_GRI_l_english.yml)
   - [그리포니아 공화국](localisation/country_FAT_l_english.yml)
 
-- 단어장의 일부 국가명 및 표현들의 변경 여부와 관련된 [토론](https://github.com/DaePokPung/EquestriaAtWar-Korean-Translation/issues/83)이 진행 중입니다.
-
-  - `principality` 공국 → 후국
-  - `prince` 후작
-  - `Arcturian Order` 아크투리우스 기사단 → 아크튜러스 기사단
-  - `Angriver` 안그리버 → 앵그리버
-  - `Blackrock` 블랙락 → 블랙록
-  - `Marcher-Lordship of Westkeep` 웨스트킵 변경백국
-  - `New Mareland` 뉴 메어랜드 → 뉴메어랜드
-
 ***
 
 # 목차
@@ -89,7 +79,7 @@
 - `Duchy` 공국
 - `County` 백국
 - `Barony` 남국
-- `Principality` 공국
+- `Principality` 후국
 - `House` 가문
 
 ## 장소
@@ -110,12 +100,12 @@
 > 이 부분은 미리 작성된 `wordbook_countries.js` 스크립트를 사용해 번역된 국가 이름만 수정해 쉽게 생성하실 수 있습니다.
 
 - ![AET flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e9/County_of_Greifwald.png/revision/latest/scale-to-width-down/24?cb=20191119202638) `AET` - 그라이프발트 백국
-- ![ANG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e0/Barony_of_Angriver.png/revision/latest/scale-to-width-down/24?cb=20191218200428) `ANG` - 안그리버 남국
+- ![ANG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e0/Barony_of_Angriver.png/revision/latest/scale-to-width-down/24?cb=20191218200428) `ANG` - 앵그리버 남국
 - ![ARA flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/0/0e/Barony_of_Arantiga.png/revision/latest/scale-to-width-down/24?cb=20191119225230) `ARA` - 아란티가 남국
 - ![AVI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/57/House_Avian.png/revision/latest/scale-to-width-down/24?cb=20180826161919) `AVI` - 아비안 가문
 - ![BAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/5c/Bakara.png/revision/latest/scale-to-width-down/24?cb=20191119200720) `BAK` - 바카라
-- ![BAN flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b7/Blackrock_Bandits.png/revision/latest/scale-to-width-down/24?cb=20180922041957) `BAN` - 블랙락 도적단
-- ![BAR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/f/ff/Barrad_Magocracy.png/revision/latest/scale-to-width-down/24?cb=20181013051712) `BAR` -  바라드 마권정부
+- ![BAN flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b7/Blackrock_Bandits.png/revision/latest/scale-to-width-down/24?cb=20180922041957) `BAN` - 블랙록 도적단
+- ![BAR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/f/ff/Barrad_Magocracy.png/revision/latest/scale-to-width-down/24?cb=20181013051712) `BAR` - 바라드 마권정부
 - ![BOI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b1/Kingdom_of_Griffinstone.png/revision/latest/scale-to-width-down/24?cb=20180922040831) `BOI` - 그리핀스톤 왕국
 - ![BRF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/c9/Kingdom_of_Brodfeld.png/revision/latest/scale-to-width-down/24?cb=20180922044703) `BRF` - 브로드펠트 왕국
 - ![BRZ flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/ef/County_of_Bronzehill.png/revision/latest/scale-to-width-down/24?cb=20191119202042) `BRZ` - 브론즈힐 백국
@@ -127,11 +117,11 @@
 - ![DEP flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/f/f2/Deponya.png/revision/latest/scale-to-width-down/24?cb=20191119204141) `DEP` - 데포니아
 - ![DMT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/a/a2/Diamond_Mountain.png/revision/latest/scale-to-width-down/24?cb=20191119203958) `DMT` - 다이아몬드 마운틴
 - ![DRG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e6/Dragon_Tribe.png/revision/latest/scale-to-width-down/24?cb=20191228053933) `DRG` - 드래곤 부족
-- ![EQC flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/24/Commonwealth_of_New_Mareland.png/revision/latest/scale-to-width-down/24?cb=20180922061032) `EQC` - 뉴 메어랜드 연방
+- ![EQC flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/24/Commonwealth_of_New_Mareland.png/revision/latest/scale-to-width-down/24?cb=20180922061032) `EQC` - 뉴메어랜드 연방
 - ![EQS flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/0/04/Equestria.png/revision/latest/scale-to-width-down/24?cb=20180922045431) `EQS` - 이퀘스트리아
 - ![ERI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e2/House_Erie.png/revision/latest/scale-to-width-down/24?cb=20191119214306) `ERI` - 에리에 가문
 - ![EYR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e5/House_Eyrie.png/revision/latest/scale-to-width-down/24?cb=20191119214518) `EYR` - 이리에 가문
-- ![FAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Falcor_Principality.png/revision/latest/scale-to-width-down/24?cb=20180922042324) `FAL` - 팔코르 공국
+- ![FAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Falcor_Principality.png/revision/latest/scale-to-width-down/24?cb=20180922042324) `FAL` - 팔코르 후국
 - ![FAR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/58/Farbrook.png/revision/latest/scale-to-width-down/24?cb=20191119205315) `FAR` - 파브룩
 - ![FAT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/bd/Griffonian_Republic.png/revision/latest/scale-to-width-down/24?cb=20191120013627) `FAT` - 그리포니아 공화국
 - ![FEA flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/ea/Grand_Duchy_of_Feathisia.png/revision/latest/scale-to-width-down/24?cb=20180922043233) `FEA` - 페디시아 대공국
@@ -154,12 +144,12 @@
 - ![JEB flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Duchy_of_Rila.png/revision/latest/scale-to-width-down/24?cb=20191119204311) `JEB` - 릴라 공국
 - ![JER flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/1e/Kingdom_of_Aquileia.png/revision/latest/scale-to-width-down/24?cb=20180922051737) `JER` - 아퀼레이아 왕국
 - ![JFT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e0/Barony_of_Pridea.png/revision/latest/scale-to-width-down/24?cb=20191119201437) `JFT` - 프리데아 남국
-- ![JRR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/3/35/Marcher-Lordship_of_Westkeep.png/revision/latest/scale-to-width-down/24?cb=20191119215803) `JRR` -  Marcher-Lordship of Westkeep
-- ![KAT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/54/Katerin_Principality.png/revision/latest/scale-to-width-down/24?cb=20191119214738) `KAT` - 카테린 공국
+- ![JRR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/3/35/Marcher-Lordship_of_Westkeep.png/revision/latest/scale-to-width-down/24?cb=20191119215803) `JRR` - 웨스트킵 변경백국
+- ![KAT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/54/Katerin_Principality.png/revision/latest/scale-to-width-down/24?cb=20191119214738) `KAT` - 카테린 후국
 - ![LAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/f/f5/Barony_of_Rumare.png/revision/latest/scale-to-width-down/24?cb=20191119201607) `LAK` - 루메어 남국
 - ![LCT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/d/d1/Lake_City.png/revision/latest/scale-to-width-down/24?cb=20181013051430) `LCT` - 레이크 시티
 - ![LNS flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/f/fa/County_of_Longsword.png/revision/latest/scale-to-width-down/24?cb=20191119202858) `LNS` - 롱소드 백국
-- ![LUS flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e3/Principality_of_Lushi.png/revision/latest/scale-to-width-down/24?cb=20180922042431) `LUS` - 루시 공국
+- ![LUS flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/e/e3/Principality_of_Lushi.png/revision/latest/scale-to-width-down/24?cb=20180922042431) `LUS` - 루시 후국
 - ![MIT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/7/71/Asterion.png/revision/latest/scale-to-width-down/24?cb=20190731104027) `MIT` - 아스테리온
 - ![MNC flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/a/a3/Sunstriker_Clan.png/revision/latest/scale-to-width-down/24?cb=20191119221306) `MNC` - 선스트라이커 부족
 - ![NCH flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/69/Greneclyf.png/revision/latest/scale-to-width-down/24?cb=20191119213059) `NCH` - 그레네클리프
@@ -186,7 +176,7 @@
 - ![WIT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Kingdom_of_Wittenland.png/revision/latest/scale-to-width-down/24?cb=20191119215332) `WIT` - 비텐란트
 - ![WNG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/3/38/Kingdom_of_Wingbardy.png/revision/latest/scale-to-width-down/24?cb=20180922044125) `WNG` - 윙바르디 왕국
 - ![YAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/90/Kingdom_of_Yakyakistan.png/revision/latest/scale-to-width-down/24?cb=20180922043947) `YAK` - 야크야키스탄
-- ![YAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/26/Yale_Rectorate.png/revision/latest?cb=20191201094136) `YAL` -  예일 학장국
+- ![YAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/26/Yale_Rectorate.png/revision/latest?cb=20191201094136) `YAL` - 예일 학술국
 - ![ZES flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Nyumba_ya_Kaskazini.png/revision/latest/scale-to-width-down/24?cb=20180922041904) `ZES` - 늄바 야 카스카지니
 
 ## 외부링크
