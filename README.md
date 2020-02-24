@@ -4,6 +4,7 @@
 ***
 
 # 공지사항
+- [테스트용 모드 (스팀 창작마당, 번역 검수용)](https://steamcommunity.com/sharedfiles/filedetails/?id=1912668247)
 - 현재 번역 작업이 중구난방으로 진행된다는 지적에 따라 번역의 전체적인 방향을 잡고자 합니다.번역하시는 분들은 가급적이면 아래의 문서를 최우선으로 번역해 주시면 감사하겠습니다.
 
   - [이퀘스트리아](localisation/country_EQS_l_english.yml) (번역 완료)
