@@ -32,7 +32,7 @@ function getCountries () {
     EQS: '이퀘스트리아',
     ERI: '에리에 가문',
     EYR: '이리에 가문',
-    FAL: '팔코르 공국',
+    FAL: '팔코르 후국',
     FAR: '파브룩',
     FAT: '그리포니아 공화국',
     FEA: '페디시아 대공국',
