@@ -2,14 +2,14 @@
 
  ### NATIONAL FOCUS ######
  # Reclaimed Land
- MIT_historic_claims:0 "오디세우스 작잔"
- MIT_historic_claims_desc:0 "십수간의 계획 끝에 마침내 오디세우스 작전을 개시해 아직도 외세의 점령 하에 있는 구 아스테리온 연방의 4개 주를 되찾을 때가 왔습니다. 국가의 총력을 다한 이 일을 해내고 나면, 다른 계획에도 착수할 수 있을 것입니다."
- MIT_begin_CYA_reintergration:0 "아스테리온 본도 수복"
+ MIT_historic_claims:0 "오디세우스 작전"
+ MIT_historic_claims_desc:0 "십 수년 간의 계획 끝에 마침내 오디세우스 작전을 개시해 아직도 외세의 점령 하에 있는 구 아스테리온 연방의 4개 주를 되찾을 때가 왔습니다. 국가의 총력을 다해 이 일을 해내고 나면, 다른 계획에도 착수할 수 있을 것입니다."
+ MIT_begin_CYA_reintergration:0 "아스테리온 본토 수복"
  MIT_begin_CYA_reintergration_desc:0 "마침내, 세기에 걸친 노력 끝에 우리는 본토를 수복해냈습니다. 하지만, 우리가 없는 동안 이곳에서는 많은 것이 변하거나, 정체해 있었습니다. 이제 우리가 나설 때 입니다."
  MIT_excecute_nobility:0 "귀족 재산 몰수"
- MIT_excecute_nobility_desc:0 "지난 십수년 간 시아노폴리스의 소위 귀족이라는 작자들든 이 땅을 더럽히고, 황폐화 해왔습니다. 이제 그들에게 되갚아 줄 차례입니다. 가장 혹독한 단 한번의 처벌로 말이죠."
- MIT_nobility_exile:0 "Exile the Nobility"
- MIT_nobility_exile_desc:0 "우리 국민들은 귀족이라는 작자들이 이 땅에서 벌인 온갖 악행에 충격을 받았습니다. 그들은 추방 될 것이며, 다시는 돟아올 수 없을 것입니다."
+ MIT_excecute_nobility_desc:0 "지난 십수년 간 시아노폴리스의 소위 귀족이라는 작자들은 이 땅을 더럽히고, 망가뜨렸습니다. 이제 그들에게 되갚아 줄 차례입니다. 가장 혹독한 단 한번의 처벌로 말이죠."
+ MIT_nobility_exile:0 "귀족 추방"
+ MIT_nobility_exile_desc:0 "우리 국민들은 귀족이라는 작자들이 이 땅에서 벌인 온갖 악행에 충격을 받았습니다. 그들은 추방 될 것이며, 다시는 돌아올 수 없을 것입니다."
  MIT_nobility_forgiveness:0 "The Hardest Choice"
  MIT_nobility_forgiveness_desc:0 "The crimes committed against the people of the mainland states by the nobility placed over them by The Empire are incalculable. We can not therefore assign specific blame, and so we must come to the hardest decision anyone can make. We must forgive them, and allow them to go free. They shall never again hold power, but life on the bottom is still life."
  MIT_uproot_institutions:0 "Reinstitute Asterionese Governance"
