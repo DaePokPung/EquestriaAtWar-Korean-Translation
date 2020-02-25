@@ -1202,7 +1202,7 @@
  GRI_local_collborators_idea:0 "지역 협력정부"
  GRI_local_collborators_idea_desc:0 "The imperial administration has been reformed with more autonomies awarded to the provinces. Now, from Griffenheim to the furthest corners of the Empire, we can find loyalists to rely on for information and support and all of it in exchange for some token decentralised responsibilities."
  GRI_finalise_the_constitution_idea_2:0 "그로버 헌법"
- GRI_finalise_the_constitution_idea_2_desc:0 "The Empire is now governed under the rules established in the Verfassung des Griffonische Reiches. This constitution reaffirms the supremacy of traditional principles and rests on the pillars of Autocracy, Faith and the Griffonian National Spirit."
+ GRI_finalise_the_constitution_idea_2_desc:0 "제국은 그리포니아 제국 헌법의 원칙 아래 통치되며, 헌법은 봉신국들에 대한 종주권 명시 및 군주, 신앙, 애국을 골자로 하고 있습니다."
  
  ### Advisors ###
  archon_proteus:0 "집정관 프로테우스 3세"
@@ -1422,12 +1422,12 @@
  ### Opinion Modifiers ###
 
  GRI_takeover_TRD_fleet:0 "[TRD.GetAdjective] 함대의 소유권을 주장함"
- GRI_takeover_TRD_fleet_desc:0 "After the collapse of the Empire, Skyfall has taken control of the Imperial Navy. With the Empire resurgent once more and [TRD.GetName] our subjects, it's high time the command of the Navy went back to Griffenheim."
+ GRI_takeover_TRD_fleet_desc:0 "제국의 몰락 이후 스카이폴은 제국 해군을 장악했습니다. 이제 제국이 재건되고. [TRD.GetName]가 다시 우리의 신하가 되었으니, 해군의 지휘권은 그리펜하임으로 복귀할 것입니디."
  GRI_banquet:0 "제국 연회에 참석함"
  GRI_banquet_refused:0 "제국 연회 참석을 거부함"
  GRI_demand_land:0 "[From.GetName]이 우리의 정당한 영토의 양도를 요구함"
- GRI_demand_land_desc:0 "It has come to our attention that [From.GetName], one of our allies, is in possesion of land that is rightfully a part of the Empire. We should issue a demand for it and clear up this misunderstanding as soon as possible."
- GRI_refused_land:0 "제국의 정당한 영토의 양도를 거부함"
+ GRI_demand_land_desc:0 "우리의 동맹인 [From.GetName]가 제국의 정당한 영토를 점거하고 있다는 사실이 논란이 되고 있습니다. 이로인한 갈등을 해소하기 위해서 그들에게 영토 반환을 요구할 것입니다."
+ GRI_refused_land:0 "제국 영토 반환을 거부함"
 
  ### Factions ###
  reichspakt:0 "제국 조약"
