@@ -32,7 +32,7 @@ GRW_industry_manufacturer:0 "Sydia Workers Committee"
 GRW_electronics_manufacturer:0 "키베신 대학"
 GRW_aircraft_manufacturer:0 "High-flying Birds"
 GRW_med_aircraft_manufacturer:0 "Industria Aeronautica Privenean"
-GRW_naval_manufacturer:0 "신디아 조선소"
+GRW_naval_manufacturer:0 "시디아 조선소"
 GRW_naval_manufacturer2:0 "솔트 아일랜드 조선소"
 GRW_revolutionary_unity:0 "혁명적 단결"
 GRW_revolutionary_unity2:0 "혁명적 단결"
@@ -159,7 +159,7 @@ GRW_aquire_modern_rifle_desc:0 "Our old muskets are fine weapons of liberation, 
 GRW_adopt_potatos:0 "감자 재배"
 GRW_adopt_potatos_desc:0 "If we are to prevent ourselves from going into a famine, we must adopt whatever eating methods are necessary, even if that means resorting to subsisting off of potatoes."
 
-GRW_ricefield_training:0 "논밭에서의 후련"
+GRW_ricefield_training:0 "논밭에서의 련"
 GRW_ricefield_training_desc:0 "Ricefields do not make the best areas to train our troops in, but we must make do with what we have. We need to train new soldiers as quickly as possible, and if we must do so in the midst of rice fields, then that is what we shall do."
 
 GRW_partisans:0 "파르티잔들"
@@ -276,7 +276,7 @@ GRW_army_training_desc:0 "We should begin to reform our revolutionary militia in
 GRW_kings_lab:0 "국왕의 연구소"
 GRW_kings_lab_desc:0 "The late lord had several old research labs hidden away that we've come to discover upon our victory following the war. We should attempt to adapt these labs to our more modern purposes."
 
-Sydia_port:0 "신시아의 항구"
+Sydia_port:0 "시디아의 항구"
 Sydia_port_desc:0 "The old port of Sydia is outdated and mostly useless for our aims. However, we should make attempts to modernise the ports there for more militaristic aims."
 
 GRW_climb_the_mountains:0 "Climb the Mountains"
@@ -349,7 +349,7 @@ GRW_the_griffon_union:0 "그리폰 연방"
 
 GRW_unite_the_rest:0 "Unite the Rest"
 
-GRW_rebase_the_capital:0 "수도를 차지하다"
+GRW_rebase_the_capital:0 "수도를 옮기다"
 GRW_rebase_the_capital_desc:0 "Now that we control the home of griffons we should move the capital to Griffonstone in order to have it in a more central location."
 GRW_issue_state_propaganda:0 "국영 프로파간다 문제"
 GRW_fight_post_war_stress:0 "전후 피로와 맞서다"
