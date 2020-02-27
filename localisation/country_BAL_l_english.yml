@@ -2,12 +2,12 @@
 ###########################################
 ### FOCUS LOCALISATION ####################
 ###########################################
-BAL_revolution:0 "Form The Baltimare Congress"
-BAL_revolution_desc:0 "If we wish to prevail in this conflict, we must stand united in purpose. To this end, we must establish a democratic government to replace the old one. Proper elections will have to wait for peace, so for now every party and union will get equal representation."
-BAL_anarchists_in_government:0 "Anarchists In The Government"
-BAL_anarchists_in_government_desc:0 "Though the anarchists of CAN have so far been hesitant about joining the congress, they have now mostly come to an agreement that cooperation with a statist entity is necessary. With representation in the Congress, they can oppose any proposals from PON or IU that infringe too much on their liberty."
-BAL_advisors_from_stg:0 "Advisors From Stalliongrad"
-BAL_advisors_from_stg_desc:0 "Our comrades in Stalliongrad have had years of experience from both struggle against the bourgeoisie as well as running a communist country. We would be foolish to not ask for their help. Their sharpest minds and most cunning commanders will be a great boon to our war effort... That is, if they agree to send them here."
+BAL_revolution:0 "발티메어 의회 창설"
+BAL_revolution_desc:0 "다가오는 위협에 맞서 승리하기 위해서 우리는 연합해 옛 체제를 대체할 새로운 민주정부를 수립할 것입니다. 당분간은 당과 노조가 협력해 국정을 운영할 것이며, 정식 선거는 평화시까지 연기될 것입니다."
+BAL_anarchists_in_government:0 "의회의 무정부주의자들"
+BAL_anarchists_in_government_desc:0 "CAN의 무정부주의자들은 그동안 의회 참여에 부정적이였지만, 작금의 상황에 그들 대부분은 국가와의 협력이 필요하다는 합의에 이르렀습니다. 무정부주의자들은 의회의 새로운 구성원으로서 PON이나 IU가 개인의 자유를 과도하게 제한하려 할 경우 반대할 것입니다."
+BAL_advisors_from_stg:0 "스탈리온그라드의 고문단"
+BAL_advisors_from_stg_desc:0 "스탈리온그라드의 동무들은 부르주아 계급에 맞선 다년간의 투쟁 경험이 있으며, 그들에게 도움을 청하지 않는 것은 어리석은 짓일 것입니다. 그들의 뛰어나며 교활한 지휘관들은 우리의 전쟁 수행 능력에 큰 도움이 될 것입니다... 물론 그들이 수락한다면 말이죠."
 BAL_workers_self_management:0 "Workers' Self-Management"
 BAL_workers_self_management_desc:0 "The means of production belong to the workers, so the workers themselves must be allowed to manage their own businesses freely with minimal interference. With increased autonomy in daily labour, morale will be boosted and exploitation by bosses and managers will be eliminated competely."
 BAL_nationalization:0 "State Interventionism"
