@@ -8,7 +8,7 @@
 - 현재 번역 작업이 중구난방으로 진행된다는 지적에 따라 번역의 전체적인 방향을 잡고자 합니다.번역하시는 분들은 가급적이면 아래의 문서를 최우선으로 번역해 주시면 감사하겠습니다.
 
   - [이퀘스트리아](localisation/country_EQS_l_english.yml) (번역 완료)
-  - [루나 제국](localisation/country_NLR_l_english.yml)
+  - [루나 제국](localisation/country_NLR_l_english.yml) (번역 완료)
   - [태양 제국](localisation/country_SOL_l_english.yml)
   - [체인질링 랜드](localisation/country_CHN_l_english.yml)
   - [그리포니아 제국](localisation/country_GRI_l_english.yml)
@@ -85,10 +85,11 @@
 
 ## 장소
 - `Griffenheim` 그리펜하임
-- `Herzland` `Heartsland` 헤르츠란트 (그리포니아 중부 지역명으로 보기 힘든 경우 "심장부"도 가능)
+- `Herzland` `Heartsland` 헤르츠란트 (중부 그리포니아를 가리킨다고 보기 힘든 경우 "심장부"도 가능)
 - `Scheißwald` 샤이스발트
 
 ## 기타
+- `Archon` 집정관
 - `Elements of Harmony` 조화의 원소
 - `Idol of Boreas` 보레아스의 성물
 
@@ -183,3 +184,4 @@
 ## 외부링크
 - [호이4 한국어패치 단어장(docs.google.com)](https://docs.google.com/spreadsheets/d/1nu5sKDlIa11AMvNF7kq11RSu_a9ZKJsXtD8PB6u3KB8/edit#gid=0)
 - [이퀘스트리아 앳 워 위키(영문)](https://equestria-at-war.fandom.com/wiki/Equestria_at_War_Wiki)
+- [한글라이즈(영어 이외의 외래어의 한글 변환 사이트)](https://hangulize.org/)
