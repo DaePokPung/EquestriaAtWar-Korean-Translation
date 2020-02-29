@@ -42,7 +42,7 @@
  EQS_completed_advisors:0 "§Y새로운 최고 사령부§! 중점을 완료함"
  EQS_completed_Extreme_war_comittee:0 "§Y긴급 전쟁 위원회§! 중점을 완료함"
  EQS_completed_EQS_WMD:0 "§Y이퀘스트리아의 대량 살상 무기§! 중점을 완료함"
- EQS_remove_fascism_decision:0 "전시 조치 "
+ EQS_remove_fascism_decision:0 "전시 조치 취소"
  EQS_remove_fascism_decision_desc:0 "[Root.GetName]에 평화가 찾아 왔으니, 우리 사회가 영영 변하기 전에 극단적인 전시 조치들을 신중히 취소하는 편이 현명할듯 싶습니다."
 
  equestria.139.t:0 "징병 문제"
