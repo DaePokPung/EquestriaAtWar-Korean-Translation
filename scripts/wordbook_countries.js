@@ -50,7 +50,7 @@ function getCountries () {
     HAU: '하우크란트',
     HEL: '아델라트 백국',
     HLQ: '헬퀼 기사단',
-    HLR: '아크투리우스 기사단',
+    HLR: '아크튜러스 기사단',
     JAK: '재키 부족',
     JEB: '릴라 공국',
     JER: '아퀼레이아 왕국',
