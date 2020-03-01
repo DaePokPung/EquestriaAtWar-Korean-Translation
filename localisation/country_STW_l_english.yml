@@ -422,7 +422,7 @@ STW_commie_boy_flag:0 "Chosen the griffon of the people!\n"
 STW_loyalist_chosen_flag:0 "Chosen the griffon loyal to the Empire!\n"
 STW_its_going_down:0 "Regina has sided with the Archon!\n"
 STW_reinstall_archon:0 "집정관이 섭정으로 재임명되었습니다!\n"`
-STW_reinstall_eagleclaw:0 "집정관이 섭정으로 재임명되었습니다!\n"
+STW_reinstall_eagleclaw:0 "이글클로가 섭정으로 재임명되었습니다!\n"
 
 ######### Designs Companies
 STW_fast_tank_manufacturer:0 "Osnabeak Rally"
