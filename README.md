@@ -50,10 +50,9 @@
   §YTwilight Sparkle§! and the §YElements of Harmony§!
   §Y트와일라잇 스파클§!과 §Y조화의 원소§!
 ```
-
 - 개행 기호(`\n`)는 줄바꿈 기호로 번역하지 않습니다.
 
-- 원작에서 나오지 않았거나 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주세요. (필요시 Issue탭 활용)
+- 원작에서 나오지 않았거나 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주세요. (필요시 [한글라이즈](https://hangulize.org)나 Issue탭을 활용해 주세요)
    
 - 번역에 관련된 토론은 상단 `Issues` 탭 혹은 [임페라토르 롬 갤러리](https://gall.dcinside.com/mgallery/board/lists/?id=rome)에 올려주세요.
 
@@ -69,6 +68,7 @@
 - `Griffon` 그리폰
 - `Changeling` 체인질링
 - `Dragon` 드래곤
+- `Diamond Dog` 다이아몬드 독
 
 ## 이념
 - `Harmony` 조화주의 (파시즘, 공산주의랑 구별되는 이념적 의미만으로 보기 애매할 경우 '조화'로 적어도 무방)
@@ -92,6 +92,8 @@
 - `Archon` 집정관
 - `Elements of Harmony` 조화의 원소
 - `Idol of Boreas` 보레아스의 성물
+- `Eyr` 아이르
+- `Arcturius` 아크투리우스
 
 ## 국가 및 국가코드
 > 국가 코드로 검색할 수 있습니다, 우리말이 아니라면 번역이 안 된 것이니 국가명이 들어있는 다음 파일에서 번역을 진행한 뒤 업데이트 해주세요.
@@ -141,7 +143,7 @@
 - ![HAU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/9b/Haukland.png/revision/latest/scale-to-width-down/24?cb=20191119214144) `HAU` - 하우크란트
 - ![HEL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/bb/County_of_Adelart.png/revision/latest/scale-to-width-down/24?cb=20191120013120) `HEL` - 아델라트 백국
 - ![HLQ flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/5/51/Knightly_Order_of_Hellquill.png/revision/latest/scale-to-width-down/24?cb=20180922040133) `HLQ` - 헬퀼 기사단
-- ![HLR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Arcturian_Order.png/revision/latest/scale-to-width-down/24?cb=20180922041522) `HLR` - 아크투리우스 기사단
+- ![HLR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/89/Arcturian_Order.png/revision/latest/scale-to-width-down/24?cb=20180922041522) `HLR` - 아크튜러스 기사단
 - ![JAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/96/Jaki-Clan.png/revision/latest/scale-to-width-down/24?cb=20191114180721) `JAK` - 재키 부족
 - ![JEB flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Duchy_of_Rila.png/revision/latest/scale-to-width-down/24?cb=20191119204311) `JEB` - 릴라 공국
 - ![JER flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/1e/Kingdom_of_Aquileia.png/revision/latest/scale-to-width-down/24?cb=20180922051737) `JER` - 아퀼레이아 왕국
@@ -184,4 +186,3 @@
 ## 외부링크
 - [호이4 한국어패치 단어장(docs.google.com)](https://docs.google.com/spreadsheets/d/1nu5sKDlIa11AMvNF7kq11RSu_a9ZKJsXtD8PB6u3KB8/edit#gid=0)
 - [이퀘스트리아 앳 워 위키(영문)](https://equestria-at-war.fandom.com/wiki/Equestria_at_War_Wiki)
-- [한글라이즈(영어 이외의 외래어의 한글 변환 사이트)](https://hangulize.org/)
