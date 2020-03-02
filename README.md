@@ -91,7 +91,7 @@
 ## 기타
 - `Archon` 집정관
 - `Elements of Harmony` 조화의 원소
-- `Idol of Boreas` 보레아스의 성물
+- `Boreas` 보레아스 `Idol of Boreas` 보레아스의 성물
 - `Eyr` 아이르
 - `Arcturius` 아크투리우스
 
@@ -164,7 +164,7 @@
 - ![PLB flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/9a/Polar_Bear_Communities.png/revision/latest/scale-to-width-down/24?cb=20180826162334) `PLB` - 북극곰 공동체
 - ![PNG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/7/76/Kingdom_of_Pingland.png/revision/latest/scale-to-width-down/24?cb=20191114175041) `PNG` - 핑랜드 왕국
 - ![POM flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/90/Pomovarra.png/revision/latest/scale-to-width-down/24?cb=20191119220110) `POM` - 포모바라
-- ![PYT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/a/af/Greifenmarschen.png/revision/latest?cb=20191201094117) `PYT` - 그라이펜마르센 농민공화국
+- ![PYT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/a/af/Greifenmarschen.png/revision/latest?cb=20191201094117) `PYT` - 그라이펜마르센
 - ![RCT flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/7/71/River_Republic.png/revision/latest/scale-to-width-down/24?cb=20181111053131) `RCT` - 리버 공화국
 - ![ROU flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/92/Free_City_of_Romau.png/revision/latest/scale-to-width-down/24?cb=20191119212158) `ROU` - 로마우 자유시
 - ![SIC flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/21/Sicameon.png/revision/latest/scale-to-width-down/24?cb=20191119212047) `SIC` - 시카메온 신성 연방
