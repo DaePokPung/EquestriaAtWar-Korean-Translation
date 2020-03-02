@@ -90,11 +90,11 @@ DED_New_Blood_desc:0 "로사 말레딕타는 열악한 위치에 놓인 인구�
 DED_Vamp_Club:0 "고위 뱀파이어"
 DED_Vamp_Club_desc:0 "집회는 뱀파이어 귀족정으로 구성되어 있는데, 상위 그리고 하위 두 계층으로 이루어져 있다. 계층을 엄밀히 정의하면, 하급 귀족들은 전쟁에 나서고, 상위 귀족들은 자금을 활용해 드레드 리그의 발전을 위해 일할 것이다. 그들은 여전히 전쟁을 배울 것이지만, 교리를 통해 배울 것이다."
 
-DED_Fact_Farm:0 "Industrialise the League"
-DED_Fact_Farm_desc:0 "Let it be said that the Coven of Blood is above the uncultured ways of the Society of Bones. We recognise that even with all of our thralls and vampires be they fledglings or purebloods, will need weapons of war to fight our future enemies. We will establish factories to aid in the growth of our war machine."
+DED_Fact_Farm:0 "리그 산업화"
+DED_Fact_Farm_desc:0 "피의 집회가 교양 없는 뼈의 협회 무식쟁이들 보다 우위에 있지만, 미래의 적들에 맞서기 위해서는 노예던 뱀파이어던 새로운 무기가 필요함을 인정해야합니다. 이를 위해 전쟁 기계를 생산해 낼 공장들이 설립될 것입니다."
 
-DED_Food_Ed_Nob:0 "To Teach the Masters"
-DED_Food_Ed_Nob_desc:0 "Unlike the times of old where technological changes were far and few between, it was the nobility of the Coven that taught their thralls to meet their requirements. In these coming times of war, it is the thralls and servants that teach us the modern ways of the world. Specifically how modern weapons work. Rosa Maledicta's plans will benefit us greatly."
+DED_Food_Ed_Nob:0 "주인 가르치기"
+DED_Food_Ed_Nob_desc:0 "기술적 변화랄 것이 거의 없던 과거에는 필요에 의해 집회의 귀족들이 노예들에게 뭔가를 가르치고는 했습니다. 그러나, 현대 사회에서는 반대로 노예와 하인들이 우리에게 현대 문물과 특히 현대 무기의 사용법을 가르칠 것입니다. 이러한 로사의 계획은 우리에게 큰 이득이 될 것입니다."
 
 DED_Blood_Elect:0 "To Elect Thine Leader"
 DED_Blood_Elect_desc:0 "Whilst the Dread League may be run by Rosa Maledicta. The Coven has a loose political structure, defined by the two echelons of Nobility. With a newly instituted law, both levels of the nobility will be required to vote for a leader of the Coven. This would be not only to represent the Coven, but to lead them on most internal matters."
@@ -103,8 +103,8 @@ DED_Blood_Soil:0 "Cursed be Thine Intruder"
 DED_Blood_Soil_desc:0 "The Coven despise intruders on their lands, they view them as sacred and holy. Only their thralls, themselves, and invited guests are permitted within the Coven's borders. To solve this abhorrent problem, the Coven will weave dark blood rituals into the land. The Dread League's land will be coated in vampyric spells, all of them designed to drain the life out of foreign invading armies."
 
 ##### The immortal blood
-DED_Blood_Queen:0 "Sanguis Immortalis"
-DED_Blood_Queen_desc:0 "The time has come at last Rosa Maledicta. You have consolidated your power and reformed the Dread League into a nation to be rightfully feared. However, tradition dictates that you must take the mantle of 'The Scarlet Queen' to be seen as a true leader amongst the Coven. To achieve this, you need to recover the fabled Chalice of Blood which has been lost for countless centuries."
+DED_Blood_Queen:0 "불멸의 피(Sanguis Immortalis)"
+DED_Blood_Queen_desc:0 "로사 말리딕타여 드디어 때가 왔다, 그대는 드레드 리그는 공포 그 자체로 개혁해냈으며 권력 또한 공고히 했다. 그러나, 전통에 의거해 '진홍 여왕'의 지위에 오르기까지는 집회의 진정한 지도자라고 할 수 없다. 이를 얻기 위해서는 지난 수세기간 상실된 피의 성배를 되찾아야만 할 것이다."
 
 ######## Ghouls
 
@@ -234,18 +234,18 @@ magehold:0 "Magehold"
 magehold_desc:0 "§WInfantry Width:§! §G-0.5§!\n§WMagical Infantry Width:§! §G-0.5§!\n\nThe haunted fortress of Magehold is a tenebrous location in which time does not flow, laws of nature are ignored and the very ground is cursed for an eternity. Its inhabitants are all ancient and powerful, having seen many historical events come and pass - and have participated in many battles as well. Yet their power has waned and they are now a remnant of their former terrible glory, but one can still fulfill their dread calling..."
 
 ### army
-ded_army_chief:0 "Warlord Rattlebones"
+ded_army_chief:0 "지도자 래틀본"
 
-ded_air_chief:0 "Swiftcarrion"
+ded_air_chief:0 "스위프트캐리온"
 
-ded_navy_chief:0 "Admiral K'tu A'dana"
+ded_navy_chief:0 "제독 크투 아다나"
 
 ### high command
-ded_high_command1:0 "Edhoof Schirlitz"
+ded_high_command1:0 "에드후프 슐라이어츠"
 
-ded_high_command2:0 "Ekaterina Buckernhiem"
+ded_high_command2:0 "예카테린 부켄헤임"
 
-ded_high_command3:0 "Aleksandyr Assenhoof"
+ded_high_command3:0 "알렉산드리 어센후프"
 
 ### theorist
 ded_theorist:0 "Somvas Nc. Aromancer"
