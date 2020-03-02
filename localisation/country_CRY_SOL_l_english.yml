@@ -1,20 +1,20 @@
 ﻿l_english:
- CRY_SOL_use_heretics_as_test_subjects:0 "Use Heretics as Test Subjects"
- CRY_SOL_use_heretics_as_test_subjects_desc:0 "The Grand Inquisitor has realised how wasteful the killing of heretics is. Instead, it would be much more beneficial to hand them over to our scientists, so that the sinners can redeem themselves for their sins by helping us test and experiment."
+ CRY_SOL_use_heretics_as_test_subjects:0 "이단들을 실험체로 사용하기"
+ CRY_SOL_use_heretics_as_test_subjects_desc:0 "대이단심문관은 이단을 그냥 죽이는 것은 낭비라는 것을 깨달았습니다. 놈들은 과학을 위해 더 유용하게 사용될 수 있을 것입니다. 또한 죄인들은 과학 발전을 위해 사용됨으로서 자신의 죄를 더는 것이니 상부상조가 될 것입니다."
  CRY_SOL_military_of_the_inquisition_tt:0 "Spawns an elite §YOrder Militant Division§! with full Ponypower and 30% equipment\n"
  CRY_SOL_magic_tech_share_name:0 "Inquisitorial R&D"
  
  #Leader desc
- evil_Twilight_desc:0 "Freed from her former delusions, Sunrise Sparkle is now the Empress' most obedient and competent underling. Anything her mind becomes set upon, is done in the name of her Empress. From creating an improved spell matrix to cleansing, Sunrise Sparkle is the Empress' will made manifest. She obeys, she does not question."
+ evil_Twilight_desc:0 "과거의 몽상으로부터 해방된 선라이즈 스파클은 여제의 가장 순종적이며 유능한 신하가 되었습니다. 발전된 주문 개발과 청소 작업 등 수많은 일들이 여제의 이름 하에 그녀에게서 행해집니다. 선라이즈 스파클은 여제의 의지의 실행자이며 복종하고, 어떠한 의구심도 가지지 않을 것입니다."
  
  #Focus tree
- CRY_SOL_new_management:0 "Under New Management"
- CRY_SOL_new_management_desc:0 "Our nation has been reborn. No more will the potential of the Crystal Ponies be wasted under Cadance. We are now part of something greater, proud and happy to obey our new Empress."
- CRY_SOL_show_them_the_light:0 "Show Them the Light"
+ CRY_SOL_new_management:0 "새로운 지배"
+ CRY_SOL_new_management_desc:0 "우리 국가는 재탄생 했다. 더이상 크리스탈 포니들의 잠재력이 케이던스 치하때처럼 썩어갈 일은 없을 것이다. 우리는 이제 위대한 여제 폐하의 일부가 되었으니, 이 얼마나 기쁘고 자랑스러운 일인가"
+ CRY_SOL_show_them_the_light:0 "빛을 보아라"
  CRY_SOL_show_them_the_light_desc:0 "Our ponies must be shown the glory and spirit of the new order. All within our reach will come to praise the light and obey the Empress, as it should be!"
  CRY_SOL_figurehead_cadence:0 "[This.GetFigureheadCadenceFocusName]"
- CRY_SOL_figurehead_cadence_flurry:0 "Use Flurry as a Figurehead"
- CRY_SOL_figurehead_cadence_cadence:0 "Use Cadance as a Figurehead"
+ CRY_SOL_figurehead_cadence_flurry:0 "플러리를 얼굴마담으로 내세우기"
+ CRY_SOL_figurehead_cadence_cadence:0 "케이던스를 얼굴마담으로 내세우기"
  CRY_SOL_figurehead_cadence_cadence_desc:0 "The old Princess, currently under house arrest, still acts as a strong unifying figurehead for our ponies. While not ideal, the Grand Inquisitor believes it will strongly help us stabilise our Province, at least until a more suitable solution is found."
  CRY_SOL_figurehead_cadence_flurry_desc:0 "The daughted of the old Princess can be easily used as a unifying figurehead for our ponies. While not ideal, the Grand Inquisitor believes it will strongly help us stabilise our Province, at least until a more suitable solution is found."
  CRY_SOL_quick_transition:0 "Quick and Smooth Transition"
