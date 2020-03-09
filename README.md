@@ -11,7 +11,7 @@
   - [루나 제국](localisation/country_NLR_l_english.yml) (번역 완료)
   - [태양 제국](localisation/country_SOL_l_english.yml)
   - [체인질링 랜드](localisation/country_CHN_l_english.yml)
-  - [그리포니아 제국](localisation/country_GRI_l_english.yml)
+  - [그리포니아 제국](localisation/country_GRI_l_english.yml) (번역 완료)
   - [그리포니아 공화국](localisation/country_FAT_l_english.yml)
 
 ***
@@ -54,7 +54,7 @@
 
 - 원작에서 나오지 않았거나 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주세요. (필요시 [한글라이즈](https://hangulize.org)나 Issue탭을 활용해 주세요)
    
-- 번역에 관련된 토론은 상단 `Issues` 탭 혹은 [임페라토르 롬 갤러리](https://gall.dcinside.com/mgallery/board/lists/?id=rome)에 올려주세요.
+- 그 외 번역에 관련된 토론은 상단 `Issues` 탭에 올려주세요.
 
 # 단어장
 번역할 국가의 국가코드 3자리가 궁금하다면 [위키의 국가 문서](https://equestria-at-war.fandom.com/wiki/List_of_Countries) 또는 인게임에서 콘솔을 열어 `tdebug` 명령어를 입력해 직접 확인하실 수 있습니다.
