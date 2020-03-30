@@ -1077,17 +1077,17 @@
  FAT_president_kogchel_desc:0 "Gerben Kogchel, former leader of the Feathisian Labour Party, is a fairly moderate griffon admired by many across the nation. He has pledged to work towards establishing social services for all and making the Republic a healthier democracy."
  FAT_president_astler_again:0 "A Second Astler Term" #see communist republic, idealist and demsoc
  FAT_president_astler_again_desc:0 "It was Rikard Astler who bravely led the Republic through the dangerous trials we have faced these past years, and it is Rikard Astler who will bring about a new socialist society, free from capitalist oppression. For a people's Griffonia!"
- FAT_direct_democracy:0 "Reinforce Democracy"
+ FAT_direct_democracy:0 "민주주의 재정비"
  FAT_direct_democracy_desc:0 "We must never give up on democracy, as it has shown us the way to prosperity. Through petitions and referenda, we will put even more power in the claws of the people."
  FAT_socialism_in_griffonia:0 "A Truly Grand Economic Plan"
  FAT_socialism_in_griffonia_desc:0 "All the conflicts that ravaged Griffonia have destroyed so much and left so many poorer off than before. To keep unemployment low and to kick-start the economy, we will start grand public works programme to improve the Republic. Nature herself will bend to our claw, as we shape her to better benefit griffonkind."
- FAT_socialized_healthcare:0 "Socialized Healthcare"
+ FAT_socialized_healthcare:0 "의료보험 사회화"
  FAT_socialized_healthcare_desc:0 "For too long have we ignored the sick, praying that we would not share their fate.  Now that we can, we must provide the best possible healthcare for all citizens. The sick and injured will receive care, as every life is invaluable. Furthermore, we will enshrine free healthcare as a being's right, showing the world our socialist prosperity."
  FAT_guarantee_a_job:0 "Guarantee Employment"
  FAT_guarantee_a_job_desc:0 "It is in the very nature of the capitalist mode of production to overwork some workers while keeping the rest as a reserve army of unemployed paupers. However, if we pool our wealth and stand in solidarity, everygriff can contribute according to their ability and receive according to their need."
- FAT_industrial_unionism:0 "Support Industrial Unions"
+ FAT_industrial_unionism:0 "산업노동조합 지원"
  FAT_industrial_unionism_desc:0 "All workers in the same industry should be organized into the same union—regardless of skill or trade—to ensure they have maximum leverage in bargaining or strike situations. Instead of emphasizing the divisions among workers and fostering a narrow interest in the affairs of each craft, we must stress the mutual dependence of the skilled and the unskilled."
- FAT_industry_for_the_workers:0 "The Urban Platform"
+ FAT_industry_for_the_workers:0 "도시 플랫폼"
  FAT_industry_for_the_workers_desc:0 "No longer will griffons be taken advantage of by greedy and scheming employers. New labour laws will empower workers and put industry in their claws, finally ending the days of gruelling slavery in the factories. Reasonable shifts and overtime laws, safety protocols and paid sick days will improve the lives of the everyday griffon."
  #Militarist Tree
  FAT_president_kemerskai_jr:0 "President Kemerskai Jr." #populist and militarist, kemer's son
@@ -1113,7 +1113,7 @@
  griffonRepublic.2.b.tt:0 "We cannot agree on a full alliance, but we will agree on mutual guarantees.\n"
  griffonRepublic.2.c:0 "We are better off on our own."
  
- griffonRepublic.3.t:0 "Republican Struggle"
+ griffonRepublic.3.t:0 "공화주의 투쟁"
  griffonRepublic.3.d:0 "Many years have passed since we have split from the Republican movement headed by [From.GetLeader]. During this time, our policies of socialism and equality have stalled, while the Griffonian Republic, is currently on its way to a prosperous new age, stronger than ever. Perhaps it is time to rethink our stance towards them?"
  griffonRepublic.3.a:0 "We will aid the Republic as a partner."
  griffonRepublic.3.b:0 "We must re-approach the Republican authorities and aid them where we can."
