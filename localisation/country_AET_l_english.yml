@@ -517,7 +517,7 @@ archon_maar_desc:0 "살인, 잔인함, 악을 관장하는 그리폰 신은 이�
 ### Decisions ###
 AET_maarite_sacrifice_category:0 "마아르의 은총"
 AET_maarite_sacrifice_category_desc:0 "마아르의 힘에 의해 영적 영역과 물질적 영역의 경계가 모호해 질때면, 우리는 아버지 마아르께 여러 은총을 요구할 수 있게 됩니다. 적절한 희생이 따라야 하겠지만요."
-AET_raise_dead:0 "죽은 자들의 소생"
+#AET_raise_dead:0 "죽은 자들의 소생"
 AET_hellfire_forge_guns:0 "마아르의 무기"
 AET_maarite_blessing:0 "대규모 희생"
 AET_maarite_blessing_of_war:0 "전쟁의 축복"
