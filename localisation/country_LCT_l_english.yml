@@ -1,37 +1,37 @@
 ﻿l_english:
- LCT_neutrality:0 "레이크 시티"
- LCT_fascism:0 "레이크 시티 국민전선"
- LCT_communism:0 "레이크 포니공화국"
- LCT_democratic:0 "레이크 시티 공화국"
- LCT_neutrality_DEF:0 "레이크 시티"
- LCT_fascism_DEF:0 "레이크 시티 국민전선"
- LCT_communism_DEF:0 "레이크 포니공화국"
- LCT_democratic_DEF:0 "레이크 시티 공화국"
- LCT_fascism_ADJ:0 "레이크 시티"
- LCT_democratic_ADJ:0 "레이크 시티"
- LCT_neutrality_ADJ:0 "레이크 시티"
- LCT_communism_ADJ:0 "레이크 시티"
+ LCT_neutrality:0 "Lake City"
+ LCT_fascism:0 "State of Lake City"
+ LCT_communism:0 "Ponies' Republic of the Lake"
+ LCT_democratic:0 "Republic of Lake City"
+ LCT_neutrality_DEF:0 "Lake City"
+ LCT_fascism_DEF:0 "The State of Lake City"
+ LCT_communism_DEF:0 "The Ponies' Republic of the Lake"
+ LCT_democratic_DEF:0 "The Republic of Lake City"
+ LCT_fascism_ADJ:0 "Lakeish"
+ LCT_democratic_ADJ:0 "Lakeish"
+ LCT_neutrality_ADJ:0 "Lakeish"
+ LCT_communism_ADJ:0 "Lakeish"
 
- LCT_prince_fascism:0 "레이크 시티 대공국"
- LCT_prince_fascism_DEF:0 "레이크 시티 대공국"
- LCT_prince_ally_fascism:0 "레이크 시티 대공국"
- LCT_prince_ally_fascism_DEF:0 "레이크 시티 대공국"
+ LCT_prince_fascism:0 "Grand Principality of Lake City"
+ LCT_prince_fascism_DEF:0 "The Grand Principality of Lake City"
+ LCT_prince_ally_fascism:0 "Grand Principality of Lake City"
+ LCT_prince_ally_fascism_DEF:0 "The Grand Principality of Lake City"
 
- LCT_prince_army_fascism:0 "레이크 시티 대공"
- LCT_prince_army_fascism_DEF:0 "레이크 시티 대공"
- LCT_prince_army_ally_fascism:0 "레이크 시티 대공"
- LCT_prince_army_ally_fascism_DEF:0 "레이크 시티 대공"
+ LCT_prince_army_fascism:0 "Princely Lake City"
+ LCT_prince_army_fascism_DEF:0 "Princely Lake City"
+ LCT_prince_army_ally_fascism:0 "Princely Lake City"
+ LCT_prince_army_ally_fascism_DEF:0 "Princely Lake City"
 
- LCT_riv_emp_fascism:0 "리버 제국"
- LCT_riv_emp_fascism_DEF:0 "리버 제국"
+ LCT_riv_emp_fascism:0 "River Empire"
+ LCT_riv_emp_fascism_DEF:0 "The River Empire"
 
- LCT_griff_empire_fascism:0 "신성 포니 제국"
- LCT_griff_empire_fascism_DEF:0 "신성 포니 제국"
- LCT_great_lake_city_fascism:0 "대 레이크 시티"
- LCT_great_lake_city_fascism_desc:0 "대 레이크 시티"
+ LCT_griff_empire_fascism:0 "Holy Pony Empire"
+ LCT_griff_empire_fascism_DEF:0 "The Holy Pony Empire"
+ LCT_great_lake_city_fascism:0 "Greater Lake City"
+ LCT_great_lake_city_fascism_desc:0 "The Greater Lake City"
 
 
- LCT_prince_faction:0 "대공 세력"
+ LCT_prince_faction:0 "Prince Faction"
  LCT_prince_faction_long:0 "Princely Restoration and National Renewal Faction"
 
  LCT_neutrality_party:0 "CDP"
@@ -68,7 +68,7 @@
  LCT_military_in_power2_desc:0 "Grand Prince Heavenly Snow has finally seized the reigns of the miltary away from its generals, assuring the loyalty of his troops to him and him alone. No longer will the military hold sway over the affairs of governance, but rather they will bow to his will."
  LCT_military_in_power3_desc:0 "The old guard of the Lake City army have shown great resistance to our administration, fighting Westerly tooth and nail in his drive towards reforms. By removing these individuals from the hig command, and promoting loyal officers, we can begin to lessen the military's pressure upon our regime."
  LCT_military_in_power4_desc:0 "A new generation of cadets are being educated at Jezeragrad's Military Academy, on a pro-Vanguard curriculum. As these officers join our rans, we will see a greater integration of the Vanguard's philosophy into the military high command."
- LCT_military_in_power5_desc:0 "The Vanguards and army are now a single organization, unified in their goal for a better Lake City. No longer will our generals hold us back from this dream as ever solider and officer has now pledged their allegience to Westerly Leeward and his vision."
+ LCT_military_in_power5_desc:0 "The Vanguards and army are now a single organization, unified in their goal for a better Lake City. No longer will our generals hold us back from this dream as ever soldier and officer has now pledged their allegience to Westerly Leeward and his vision."
  LCT_military_in_placated:0 "Military Placated"
  LCT_military_in_placated_desc:0 "The recent inclusion of military representatives into the Lake City council has lessened the volatile nature of Lake City's army in political affairs."
  LCT_princely_restoration_idea:0 "The Princely Restoration"
@@ -129,8 +129,8 @@
  LCT_air_focus:0 "Aluminum Prioritization"
  LCT_air_focus_desc:0 "By prioritizing the flow of aluminum towards aircraft, we can ensure that our manufacturers have the materials necessary to construct more planes."
  LCT_navy_air_supremacy:0 "First Air Fleet"
- the_long_lance:0 "The Long Lance"
- the_long_lance_desc:0 "The Long Lance is a torpedo specially designed by Jezeragrad Armaments, which has twice the range of its foreign counterparts. This greatly increases its efficiency."
+ #the_long_lance:0 "The Long Lance"# Identical duplicate from hoi4
+ #the_long_lance_desc:0 "The Long Lance is a torpedo specially designed by Jezeragrad Armaments, which has twice the range of its foreign counterparts. This greatly increases its efficiency."# Identical duplicate from hoi4
  LCT_anti_knight_weapons:0 "Tungsten Bullets"
  LCT_anti_knight_weapons_desc:0 "While expensive to make, Tungsten tipped bullets pack quite a punch, easily shattering the thick armour worn by Griffon knights."
  LCT_farming_modernised:0 "Modern Agriculture"
@@ -211,7 +211,7 @@
  LCT_DEP_research_desc:0 "Wayward Breeze was known in history as the scholar Prince, devoting much of his reign towards furthering the education of his subjects. To honour his memory, the army has contsructed Fort Breeze, a military research complex located in the heart of Deponya's Eygsic Forest. This instillation will do whatever it takes to better our understanding of the world, no matter how much damage is done to the landscape."
 
  LCT_anti_griff_research:0 "Anti-Griffon Warfare"
- LCT_anti_griff_research_desc:0 "The flames of war have finally arrived to Lake City, seeing our brave soliders engaged against their Griffon foes in a struggle for our very survival. As part of this conflict, we've seen an influx of Griffon POWs into our lands. With this in mind, we must convert Fort Breeze into a prision camp and change the focus of their research towards studying the weaknesses of our foes."
+ LCT_anti_griff_research_desc:0 "The flames of war have finally arrived to Lake City, seeing our brave soldiers engaged against their Griffon foes in a struggle for our very survival. As part of this conflict, we've seen an influx of Griffon POWs into our lands. With this in mind, we must convert Fort Breeze into a prision camp and change the focus of their research towards studying the weaknesses of our foes."
 
  LCT_divine_sacrifice:0 "Divine Sacrifice"
  LCT_divine_sacrifice_desc:0 "Death should be seen as an honourable sacrifice to make for your Grand Prince. It's also a sacrifice which will be greatly rewarded. For, as your mortal life ends, you'll soon discover that the next offers a whole new realm in which to serve His Majesty. Your mortal soul is merely a prolouge to an eternity of service and rewards."
@@ -226,7 +226,7 @@
  LCT_east_griffon_sphere_desc:0 "The River Coalition has become too bloated and bureaucratic, busying themselves with their quest towards integration and drafting useless social policies. By creating the East-Griffonia Co-Prosperity Sphere, we can offer an alternative for River Coalition members willing to distance themselves from the organization."
  
  LCT_for_the_prince:0 "For the Prince!"
- LCT_for_the_prince_desc:0 "Every solider should be prepared to sacrifice fully in the name of their Grand Prince. This is the benefit of a monarchy. In a monarchy, our army is not a collection of individuals, but rather a single mightly organic entity aligned in its admiration and devotion to its liege. If we militarize this philosophy fully, there will be few who can stand against us."
+ LCT_for_the_prince_desc:0 "Every soldier should be prepared to sacrifice fully in the name of their Grand Prince. This is the benefit of a monarchy. In a monarchy, our army is not a collection of individuals, but rather a single mightly organic entity aligned in its admiration and devotion to its liege. If we militarize this philosophy fully, there will be few who can stand against us."
  
  LCT_princely_divinity:0 "His Heavenly Presence"
  LCT_princely_divinity_desc:0 "The devotion expected of the army must be extended to the civil sector. The Ponies of Lake City should realize that they do not work for their personal benefit, but rather, towards the benefit of His Majesty, and his imperial ambitions. Once this has been achieved, there will be little hindering our economic hegemony."
@@ -279,7 +279,7 @@
  LCT_national_science_funding_desc:0 "Lake City is full of intelligent Ponies with great ambition. Unfortunately, the poverty of our nation has denied many of them access to proper research facilities. We can resolve this by creating a National Science Fund which will provide grants to Ponies and firms willing to innovate for our society."
  
  LCT_fan_fanaticism:0 "Fanaticism within our Ranks"
- LCT_fan_fanaticism_desc:0 "Those who serve within Lake City's army should not only be prepared, but eager, to lay down their lives in the name of their country. By bringing political officers to the front, we can better educate our soliders on the bravery, ferocity, and loyalty that is expected of every Lake City solider."
+ LCT_fan_fanaticism_desc:0 "Those who serve within Lake City's army should not only be prepared, but eager, to lay down their lives in the name of their country. By bringing political officers to the front, we can better educate our soldiers on the bravery, ferocity, and loyalty that is expected of every Lake City soldier."
  
  LCT_balustar_arms:0 "Bolster our Arms Industry"
  LCT_balustar_arms_desc:0 "The eve of our final struggle is upon us, yet our military is still woefully underequipped for the conflict ahead. To address this, we must push for our most comprehensive economic policy yet. Our steel mills must be nationalized, our arms industry expanded, and the flow of precious materials, out of our country, stopped."
@@ -326,7 +326,7 @@
  LCT_fortification_studies_desc:0 "Advisors have been sent across Griffonia in an effort to study the various defensive engineering projects of the continent. It is hoped that this information can be used to upgrade our defenses and halt future Griffon raids."
  
  LCT_propaganda:0 "Nationalistic Propaganda"
- LCT_propaganda_desc:0 "The Ponies of Lake City should be reminded of the sacrifice our soliders endure on a daily basis, in defense of their country. They should also be made aware of the valour and honour they'll earn through enlistment and service."
+ LCT_propaganda_desc:0 "The Ponies of Lake City should be reminded of the sacrifice our soldiers endure on a daily basis, in defense of their country. They should also be made aware of the valour and honour they'll earn through enlistment and service."
  
  LCT_militery_industrial_complex:0 "The Military-Industrial Complex"
  LCT_militery_industrial_complex_desc:0 "The military infastructure of Lake City is severly underdeveloped, leaving our armies inadequately equipped. We can partially address this issue by contracting the Guilds to produce our weapons and other military equipment."
@@ -375,7 +375,7 @@
  LCT_naval_air_f:0 "Establish Coltsuka"
  LCT_naval_air_f_desc:0 "Coltsuka is a proposed guild which would be tasked with taking existing aircraft designs, manufactured by JASA or Neighjima, and converting them into variants better suited for operating on aircraft carriers."
 
- LCT_navy_air_supremacy:0 "First Air Fleet"
+ #LCT_navy_air_supremacy:0 "First Air Fleet"# Identical duplicate from Eaw
  LCT_navy_air_supremacy_desc:0 "What Lake City lacks, in terms of technology and production, we make up for in terms of quality. With extensive training, we can ensure that our aircraft carrier pilots are some of the best in the world, allowing our limited equipment to be used to its fullest." 
  
  LCT_expand_naval_production:0 "Establish the Dockyard Guild"
@@ -783,13 +783,7 @@ lakecity.9.t:0 "The Election of 1007"
  lakecityflavor.10.t:0 "Griffking Land Dispute Erupts into Violence."
  lakecityflavor.10.d:0 "After days of fierce negotiations, the land dispute between the Blessedgrad Grain Commission and Republic Fruits has failed to reach a settlement.\n\nThe initially bargaining was especially rocky as the two rival legal teams were practically at each others throats. The tension between the two firms was so intense that it was reported that guild-sponsored military formations had been mobilized. Unfortunately, the threat of violence did not taper the hostility of the two legal teams.\n\nWithin an hour, the first act of violence was reported as a petrol bomb burst inside of a Republican Fruits warehouse, setting it ablaze. This was followed almost immediately by a platoon of Lake City soldiers stopping a convoy of Blessedgrad Grain Commission trucks and requisitioning them for ‘official’ military purposes.\n\nThe first death was reported ten minutes later as a Republican Fruits security officer shot a Pony he assumed was a rival saboteur. This was not the case.\n\nImmediately after this incident, the Lake City army was called in to stabilize the situation.\n\nThe press is already calling this incident a disaster and it is expected that the legal battle which will follow will take years and cost both firms millions. In response, both companies took a massive hit in the Jezeragrad stock exchange. (BGL – down 15.23%, RFT – down 18.68)."
  lakecityflavor.10.a:0 "We should've interfered when we had the chance!"
- 
- # Overconfident ponies in the military cause an issue in lake city because they think they can get away with it after the government merge
- lakecityflavor.11.t:0 "The Lilac Affair"
- lakecityflavor.11.d:0 "Days ago, Lilac Pedal was a relatively unknown mare in Jezeragrad. She owned a small flower shop near the dockyards, and sold a wide array of local flowers to the Ponies of the city. It wasn’t enough to make her rich but combined with her husband’s salary, as a sailor, it was enough for them, and their three foals to afford a comfortable living.\n\nSadly, the life of a sailor is one with many weeks spent away from home. This is where Captain Ruby Pendant of the Lake City Army enters the story. Approximately six months ago, she and Lilac Pedal entered into an affair.\n\nHowever, as is always the case with these situations, the affair was discovered when the husband returned home early from a voyage and found the two mares in the bedroom. He flew into a fit of rage and assaulted Ruby Pendant, ejecting her violently from their apartment.\n\nThat night, Ruby Pendant returned with four of her subordinates and knocked upon Lilac Pedal’s door. From here the story diverges down two paths.\n\nThe first is from Ruby Pendant, who claims that she heard Lilac scream and the impact of a blow. So, she forced her way into the apartment and discovered that Lilac was being savagely assaulted by her husband. She attempted to break apart the couple but the husband flew off in a fit of rage. In self defense, Ruby Pendant shot him in the head.\n\nThe second is from Lilac Pedal, who claims that after Ruby Pendant’s ejection, things had been tense in the apartment but not violent. That is, until Ruby broke in with her soliders. She then killed Lilac’s husband in cold blood, and proceeded to savagely beat the mare for disgracing her in public.\n\nWhose testimony should we support?"
- lakecityflavor.11.a:0 "Support Ruby Pendant's Testimony."
- lakecityflavor.11.b:0 "Support Lilac Pedal's  Testimony."
- 
+  
  # princes birthday prep, everyone likes this and is excited, think of emperor-era japan
  lakecityflavor.13.t:0 "A Royal Birthday"
  lakecityflavor.13.d:0 "During the First Principality of Lake City, the birthday of the Grand Prince or Princess was a national holiday that the entire nation celebrated. Across the land parades were planned, patriotic decorations adorned buildings, and the gates of Hoofboka Palace were opened for the public, a rarity considering the private nature of the monarch.\n\nAt noon, the Grand Prince or Princess would then stand upon one of the palace’s balconies, with their entire family, and address the public, thanking them for their well wishes and loyalty. This was then followed by a small speech.\n\nWhile Heavenly Snow has requested that his birthday not be celebrated, his senior advisors are attempting to consult him to do otherwise. This event could act as a much-needed morale boost for our Ponies as the celebrations would hopefully distract them from the worst of the restoration’s growing pains."
@@ -809,17 +803,17 @@ lakecity.9.t:0 "The Election of 1007"
  lakecityflavor.15.a:0 "Happy Birthday, Heavenly Snow."
  
  #### NEWS EVENTS ####
-lakecity_news.1.t:0 "레이크 시티에서의 쿠데타 시도"
- lakecity_news.1.d:0 "[This.GetNewspaperHeader]오늘 새벽, 와일드 트리 장군이 이끄는 레이크 시티 군부가 정부를 상대로 쿠데타를 일으켰습니다. 반군은 몇몇 주요 정부 관리들을 암살하는데 성공했고 의회와 궁전, 그리고 육군성을 장악했습니다. 와일드 트리는 국영 라디오에 출연해 국민 화합과 개편을 위한 새 정부를 발표했습니다.\n\n그러나 시장은 가까스로 탈출했으며 군부의 충성스런 구성원들의 도움으로 상황은 결국 무마되었고, 군대는 다음날 새벽까지 그들의 막사로 돌아갔습니다. 와일드 트리 장군과 다른 쿠데타 지도자들은 빠르게 체포되었습니다."
- lakecity_news.1.a:0 "다행이군."
+lakecity_news.1.t:0 "Coup Attempt in Lake City"
+ lakecity_news.1.d:0 "[This.GetNewspaperHeader]At dawn today, elements of the Lake City military lead by General Wild Tree attempted a coup against the government. The rebels managed to assassinate several key government officials and seized parliament, the Mayor’s palace and the War Ministry. Wild Tree appeared on national radio and announced the formation of a new military government to promote national harmony and renew.\n\nHowever, the Mayor himself was able to escape and with the help of loyal members of the military the situation was eventually defused and the troops returned to their barracks by dawn of the next day. General Wild Tree and other coup leaders where quickly arrested."
+ lakecity_news.1.a:0 "Thank goodness it's over."
 
-lakecity_news.2.t:0 "레이크 시티에서의 쿠데타"
- lakecity_news.2.d:0 "[This.GetNewspaperHeader]오늘 새벽, 와일드 트리 장군이 이끄는 레이크 시티의 군사들이 정부를 상대로 쿠데타를 일으켰습니다. 반군은 시장을 포함한 정부 핵심인사 몇 명을 암살하는데 성공했고 의회와 궁전, 육군성을 장악했습니다. 와일드 트리는 국영 라디오에서 국민 화합 및 개편을 위한 새 군정부를 발표했습니다.\n\n쿠데타에 대한 어떠한 형태의 저항도 아직 나오지 않았으며 와일드 트리 장군은 레이크 시티의 정당한 통치자인 대공의 자손에게 완전한 통치권을 넘겨줄 때까지 신속하게 그의 지휘하에 새 정부를 조직하고 있습니다."
- lakecity_news.2.a:0 "민주주의는 이렇게 죽어가는 것이다."
+lakecity_news.2.t:0 "Coup in Lake City"
+ lakecity_news.2.d:0 "[This.GetNewspaperHeader]At Dawn today, elements of the Lake City military lead by General Wild Tree attempted a coup against the government. The rebels managed to assassinate several key government officials including the Mayor and seized parliament, the Mayor’s palace and the War Ministry. Wild Tree appeared on national radio and announced the formation of a new military government to promote national harmony and renew.\n\nAny form of resistance to the coup has yet to show and General Wild Tree is quickly organising a new government under his command until they can give over full control to the rightful ruler of Lake City: The heir to the title of Grand Prince."
+ lakecity_news.2.a:0 "This is how democracy dies."
 
-lakecity_news.3.t:0 "레이크 시티에서의 쿠데타"
- lakecity_news.3.d:0 "[This.GetNewspaperHeader]오늘 새벽, 와일드 트리 장군이 이끄는 레이크 시티 군부가 정부를 상대로 쿠데타를 일으켰습니다. 반군은 주요 정부 관리 몇몇을 암살하는데 성공했고 의회와 궁전, 그리고 육군성을 장악했습니다. 와일드 트리는 국영 라디오에서 국민 화합과 개편을 위한 새 군정부를 발표했습니다.\n\n그러나 반군들은 정치인으로 전향한 전 장군 웨스털리 리워드를 제거하는데는 실패했습니다. 그는 직속 뱅가드에게 반란군을 물리칠 것을 명령했고 수도를 확보한 후 폭넓은 군대의 지원을 받아 새로운 임시 정부를 수립했습니다."
- lakecity_news.3.a:0 "쿠데타의 쿠데타다!"
+lakecity_news.3.t:0 "Coup in Lake City"
+ lakecity_news.3.d:0 "[This.GetNewspaperHeader]At dawn today, elements of the Lake City military lead by General Wild Tree attempted a coup against the government. The rebels managed to assassinate several key government officials and seized parliament, the Mayor’s palace and the War Ministry. Wild Tree appeared on national radio and announced the formation of a new military government to promote national harmony and renew.\n\nHowever, the rebels failed to take out the former General turn Politian Westerly Leeward. He called upon his loyal Vanguard to fight back the rebels and after securing the capital he had set up a new interim government with support of the wider military."
+ lakecity_news.3.a:0 "The Coup has been couped!"
 
  lakecity_news.4.d:0 "[This.GetNewspaperHeader]Fighting has broken out between Lake City and Longsword forces, with both side blaming the other for starting the confrontation. What is known is that the fighting started around the town of Buckrovic, a native pony town on the Longsword side of the border and both sides refused to deescalate tensions.\n\nThe two nations have often been at odds, with the Griffons slowly encroaching on Lake City lands. It appears that this confrontation has been the final straw."
  lakecity_news.4.t:0 "The Buckrovic Incident"
@@ -891,8 +885,8 @@ lakecity_news.3.t:0 "레이크 시티에서의 쿠데타"
  LCT_bribe_the_guilds:0 "Bribe the Guilds"
  LCT_bribe_the_guilds_desc:0 "The guilds have long seen the military as a threat to their existence, with many factions calling for nationalisation of industries. It wouldn’t take much to ensure that stay on our side."
 
- LCT_remove_NCH_trade_category:0 "Revoke our Trade Agreement with [GetName.NCH]"
- LCT_remove_NCH_trade_category_desc:0 "Our current trade agreement with the Changelings of [GetName.NCH] has been detrimental to our economy, security, and stability. It's about time that we do away with this disasterous agreement."
+ LCT_remove_NCH_trade_category:0 "Revoke our Trade Agreement with [NCH.GetName]"
+ LCT_remove_NCH_trade_category_desc:0 "Our current trade agreement with the Changelings of [NCH.GetName] has been detrimental to our economy, security, and stability. It's about time that we do away with this disasterous agreement."
 
  LCT_macb_raiding_cat:0 "MACB Command"
  LCT_hunt_macb:0 "Launch a Raid"
@@ -905,7 +899,7 @@ lakecity_news.3.t:0 "레이크 시티에서의 쿠데타"
  LCT_speed_demons:0 "Neighsan"
  LCT_oil:0 "Idemanesu Kosan"
  LCT_steel:0 "Watersaki"
- LCT_radio:0 "Pony Corporation"
+ LCT_radio_i:0 "Pony Corporation"
  LCT_light_air_man:0 "JASA"
  LCT_manesibishi:0 "Manesibishi"
  LCT_med_air_man:0 "Neighjima"
@@ -914,8 +908,8 @@ lakecity_news.3.t:0 "레이크 시티에서의 쿠데타"
  LCT_atlantic_manufacturer:0 "Lake Guard Arsenal"
  LCT_pacific_manufacturer:0 "Coltre Naval Arsenal"
  LCT_navy_manufacturer:0 "Griffking Freight Corporation"
- LCT_arty:0 "Jezeragrad Armaments"
- LCT_gun:0 "Blessedgrad Arsenal"
+ LCT_arty:0 "Jezeragrad Arsenal"
+ LCT_gun:0 "Blessedgrad Armaments"
  LCT_truck:0 "Trotoyta"
 
  #### TOOLTIPS ####
@@ -1106,7 +1100,7 @@ lakecity_news.3.t:0 "레이크 시티에서의 쿠데타"
  LCT_cv_fighter_equipment_3_short:0 "A7M Bura"
 
  #### OTHER ####
- LCT_reaffirm_the_treaty:0 "Reaffirmed the Treaty of Coltstream"
+ #LCT_reaffirm_the_treaty:0 "Reaffirmed the Treaty of Coltstream"# Different duplicate from Eaw
  LCT_prosperity_sphere:0 "East Griffonia Co-Prosperity Sphere"
  LCT_dam_built:0 "A dam has been built across the river Griffking."
 
