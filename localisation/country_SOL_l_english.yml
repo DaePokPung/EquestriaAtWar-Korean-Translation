@@ -139,8 +139,8 @@
  eqs_war_admin_extreme_desc:0 "모든 공무원에게 계급장이 부여됩니다."
  eqs_order_idea:0 "질서의 조화"
  eqs_order_idea_desc:0 "이퀘스트리아를 지키기 위해 모든 포니가 각자의 자리를 지켜야 합니다."
- war_plan_equestria_mild:0 "전쟁 계획"
- war_plan_equestria_extreme:0 "전쟁 계획"
+ #war_plan_equestria_mild:0 "전쟁 계획"
+ #war_plan_equestria_extreme:0 "전쟁 계획"
 
  EQS_blueblood_allowed:0 "계엄령 선포"
 
@@ -490,7 +490,7 @@
  SOL_Imperial_Investigative_Service_idea:0 "제국정보국"
  SOL_Imperial_Investigative_Service_idea_desc:0 "여제의 눈과 귀인 제국정보국은 부패와 말썽꾼들이 이퀘스트리아 전역을 오염시키기 전에 잡아내 뿌리뽑을 수 있습니다."
  SOL_Harmony_through_Order_idea:0 "조화"
- SOL_legion_of_labor_idea:0 "노동 군단"
+ #SOL_legion_of_labor_idea:0 "노동 군단"
  eqs_order_idea1:0 "질서를 통한 조화"
  eqs_order_idea1_desc:0 "이퀘스트리아를 지키기 위해서는 모두가 제자리에 있어야 합니다."
  SOL_Harmony_through_Order_idea0:0 "질서를 통한 조화"
