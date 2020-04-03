@@ -1,6 +1,6 @@
 ﻿l_english:
- TheAxisIndustry:0 "The Axis Industry"
- diff_custom_industry:0 "Custom Difficulty Industry"
+ #TheAxisIndustry:0 "The Axis Industry"
+ #diff_custom_industry:0 "Custom Difficulty Industry"
  custom_diff_strong_eqs:0 "이퀘스트리아 강화"
  custom_diff_strong_chn:0 "체인질링 강화"
  custom_diff_strong_stg:0 "스탈리온그라드 강화"
