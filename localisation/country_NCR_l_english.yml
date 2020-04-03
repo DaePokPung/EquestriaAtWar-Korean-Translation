@@ -1,9 +1,9 @@
 ﻿l_english:
  ### COUNTRYNAME ###
- NCR_neutrality:0 "New Californian Expedition"
- NCR_neutrality_DEF:0 "The New Californian Expedition"
- NCR_neutrality_ADJ:0 "New Californian"
- NCR_fascism:0 "New Californian Military Governorate"
+ NCR_neutrality:0 "뉴 캘리포니아 원정대"
+ NCR_neutrality_DEF:0 "뉴 캘리포니아 원정대"
+ NCR_neutrality_ADJ:0 "뉴 캘리포니아"
+ NCR_fascism:0 "뉴 캘리포니아 군사정부"
  NCR_fascism_DEF:0 "The New Californian Military Governorate"
  NCR_fascism_ADJ:0 "Californian"
  NCR_communism:0 "United Socialist Beings"
