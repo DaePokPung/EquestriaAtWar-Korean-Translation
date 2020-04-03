@@ -12,7 +12,7 @@
  TITLE_PONY_MAGICAL_HARMONY_SUBTITLE_TT:0 "적절하게 사용된다면, 마법은 우리의 군대의 전술적 능력을 향상시킬 수 있습니다."
  TITLE_PONY_MAGICAL_SUPREMACY_SUBTITLE:0 "마법의 우월"
  TITLE_PONY_MAGICAL_SUPREMACY_SUBTITLE_TT:0 "가끔은 희생이 필요할 때도 있습니다. 전시 상황에서, 금지된 지식이라는 것은 없습니다."
- pony_race:0 "포니 종족"
+ #pony_race:0 "Pony Race"# Different duplicate from Eaw
  tech_pony_misc:0 "어스포니 농업"
  tech_pony_misc_desc:0 "더 많은 어스포니들을 농업에 종사하게끔 한다면 식량 생산이 크게 늘 것입니다."
  tech_pony_misc2:0 "페가수스 날씨 조작"
@@ -90,5 +90,5 @@
  tech_pony_unicorns4_desc:0 "군대에 복무하는 모든 유니콘들에게 최소한의 전투용 마법을 가르쳐야 합니다."
  tech_pony_unicorns5:0 "응급 마법 치료"
  tech_pony_unicorns5_desc:0 "군대에 복무하는 모든 유니콘들은 치료 마법을 사용해 동료에게 최소한의 응급처치를 제공할 수 있어야 합니다."
- unicorn_tech:0 "유니콘 기술"
+ #unicorn_tech:0 "Unicorn Technology"# Different duplicate from Eaw
  pegasi_tech:0 "페가수스 기술"
