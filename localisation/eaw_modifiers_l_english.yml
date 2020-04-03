@@ -1,7 +1,14 @@
 ﻿l_english:
+  dd_tech_research:0 "Destroyers Research Speed"
+ ss_tech_research:0 "Submarines Research Speed"
+ naval_mines_research:0 "Mine Warfare Research Speed"
+ torpedo_tech_research:0 "Torpedoes Research Speed"
+ naval_light_artillery_research:0 "Light & Secondary Battery Research Speed"
+ trade_interdiction_tree_research:0 "Trade Interdiction Doctrine Research Speed"
+ 
  promote_equality:0 "조화주의의 장려"
- sent_equipment:0 "장비를 보냈음"
- sent_volunteers:0 "군사 사절단을 보냄"
+ #sent_equipment:0 "Sent Equipment"# Identical duplicate from Eaw
+ #sent_volunteers:0 "Sent a Military Mission"# Different duplicate from Eaw
  super_combat_abilities_tt:0 "\nAllows the use of the §HLast Stand§! and §HForce Attack§! command abilities at a greatly reduced cost.\n"
  made_friends:0 "우정을 수용함"
  refused_friends:0 "우정을 거부함"
@@ -9,11 +16,17 @@
  special_forces_research:0 "특수부대 연구시간"
  has_tribal_society_tt:0 "§Y부족 사회§!임"
  not_has_tribal_society_tt:0 "§Y부족 사회§!가 아님"
+ not_has_communal_society_tt:0 "§Y공동체 사회§!가 아님"
  has_agrarian_society_tt:0 "§Y농업 사회§!임"
  not_has_agrarian_society_tt:0 "§Y농업 사회§!가 아님"
+ has_pre_industrial_society_tt:0 "§Y전산업 사회§!임"
+ not_has_pre_industrial_society_tt:0 "§Y전산업 사회§!가 아님"
  has_outdated_industry_tt:0 "§Y오래된 산업 지구§!를 가짐"
  has_modern_society_tt:0 "§Y현대 사회§!를 가짐"
  research_pre_ironclad_modifier:0 "Research adjustment to pre-1.6 values (workaround, ignore)"
+ de_facto_non_core_state:0 "Insignificant number of citizenship holders"
+ particulary_core_state:0 "Small number of citizenship holders"
+ power_for_the_strongest:0 "Power for the strongest"
  
  modifier_army_sub_unit_magical_infantry_attack_factor:0 "마법 보병 공격"
  modifier_army_sub_unit_magical_infantry_defence_factor:0 "마법 보병 방어"
@@ -51,3 +64,6 @@
  modifier_army_sub_unit_category_all_aa_attack_factor:0 "대공포 공격"
  modifier_army_sub_unit_category_all_aa_defence_factor:0 "대공포 방어"
  modifier_army_sub_unit_category_all_aa_speed_factor:0 "대공포 이동속도
+
+ sabotage_crystals:0 "Sabotage Crystal Resources"
+ 
