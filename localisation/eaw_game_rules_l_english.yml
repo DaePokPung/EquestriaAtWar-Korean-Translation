@@ -43,8 +43,16 @@
  DIPLOMACY_NOT_DETACHED_COUNTRY:0 "§R우리 혹은 상대방이 §! §HDetached Country§!§R입니다.§!"
  DIPLOMACY_UNAVAILABLE_US_SUBJECT:0 "§R종속국인 상태에서는 할 수 없습니다.§!"
  REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R그들의 자치도가 너무 높습니다.§!"
- 
+ DIPLOMACY_WT_ACCEPTANCE_LEND_LEASE:0 "§RWith their acceptance of our ideology, we need higher world tension to Lend-Lease them.§!"
+
   INFUNSTRUCTURE:0 "시작 기반시설"
  RULE_OPTION_DEFAULT_INFUNSTRUCTURE_DESC:0 "각 국가들은 다양한 표준 기반시설들을 가지고 시작합니다."
  RULE_OPTION_PSODY_MODE:0 "기반시설 제거"
  RULE_OPTION_PSODY_MODE_DESC:0 "\"보급을 없애면 게임이 더 나아진다.\"\n   - Psody, 2019."
+
+ NCR_EXISTS_STATUS:0 "뉴 캘리포니아 원정대"
+ RULE_OPTION_DEFAULT_NCR_DESC:0 "이 세계에 인간은 존재하지 않습니다.\n\n£eaw_text  §Y이퀘스트리아 앳 워§! 기본 설정입니다. 권장됨."
+ RULE_OPTION_NCR_ACTIVE:0 "포탈을 열다"
+ RULE_OPTION_NCR_ACTIVE_DESC:0 "캘리포니아의 새 원정대가 서부 이퀘스트리아에 존재할 것입니다.\n\n이 컨텐츠는 £eaw_text  §Y이퀘스트리아 앳 워§!, 올드 월드 블루스, 그리고 카이저라이히 팀에서 기획한 2020년 공동 만우절 이벤트의 일부입니다."
+ RULE_OPTION_NCR_PLAY_AS:0 "포탈을 열다 - 인간"
+ RULE_OPTION_NCR_PLAY_AS_DESC:0 "캘리포니아의 새 원정대가 서부 이퀘스트리아에 존재할 것이며 플레이어는 이 국가로 플레이할 것입니다.\n\n이 컨텐츠는 £eaw_text  §Y이퀘스트리아 앳 워§!, 올드 월드 블루스, 그리고 카이저라이히 팀에서 기획한 2020년 공동 만우절 이벤트의 일부입니다."
