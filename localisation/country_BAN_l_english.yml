@@ -80,7 +80,7 @@ BAN_speak_with_the_empire:0 "루시 후작과의 접촉"
 BAN_speak_with_the_empire_desc:0 "The Whitecrests of Lushi have always had warm relations with the Bluecrests, and share much common blood. Now in our time of need, we should ask them for help. Together, we can end Blackrock's rule once and for all!"
 BAN_imperial_military_aid:0 "루시 군사 원조"
 BAN_imperial_military_aid_desc:0 "Our initial attempts in contacting the Prince of Lushi for aid has been successful. He is going to send us a military attaché to help train our loyal griffons. This will be invaluable in the conflict to come."
-BAN_imperial_rifles:0 "루시 소충"
+BAN_imperial_rifles:0 "루시 소총"
 BAN_imperial_rifles_desc:0 "To assist us in our ongoing struggle, Lushi has seen fit to send us a shipment of their finest firearms. They are not the most modern weapons, but we have received a great number of them. If we train our griffons to use them properly, they'll be as good as proper rifles."
 BAN_empire_strikes_back:0 "반 도적 연합"
 BAN_empire_strikes_back_desc:0 "The time is right. We've gathered support from Lushi and recruited many loyalists. Now it is time to strike hard and cast down the cruel tyranny of the bandits!"
@@ -121,7 +121,7 @@ BAN_never_another_bandit_desc:0 "The blight of the bandits has been wiped out, a
 ## Oh god it's the terrible Communist Path ##
 BAN_the_extreme_revolutionary:0 "극단적인 혁명"
 BAN_the_extreme_revolutionary_desc:0 ""My friends, for too long has this land languished in inequality. Bandits stealing from the people, nobles oppressing the people as well, has nobody ever considered the common griffon? In my time outside of Blackhollow, I've learned of a wonderful way of life... If you wish to see an utopia become a reality, then join me.""
-BAN_murkbeak_rebellion:0 "Murkbeak Rebellion"
+BAN_murkbeak_rebellion:0 "무르크빅 반란"
 BAN_murkbeak_rebellion_desc:0 ""Rise up, griffons! You have been oppressed long enough, it is time to resist and bite against the inequality!""
 BAN_hollow_rebels:0 "할로우 반군들"
 BAN_hollow_rebels_desc:0 ""Our first revolt was a success, my friends. A glimmer of hope is seen in the people's eyes... Now, it spreads across the country, and soon everygriff will be smiling as our dream will be realised!""
@@ -160,9 +160,9 @@ BAN_true_equality_desc:0 ""My friends, we've done it. We act as one, work as one
 ## Industry ##
 BAN_bandit_rifles:0 "신형 소총"
 BAN_bandit_rifles_desc:0 "Guns, guns, we need more guns! But more importantly, we need better guns. Success of our way of living is based solely on the fact how well armed we are compared to our victims."
-BAN_fruits_of_unpaid_labor:0 "Fruits of Our Unpaid Labour"
+BAN_fruits_of_unpaid_labor:0 "보상받지 못한 노동의 결실"
 BAN_fruits_of_unpaid_labor_desc:0 "One big advantage in having guns is that we can point them at griffons without them and force them to work for us."
-BAN_murkbeak_arms:0 "Murkbeak Arms"
+BAN_murkbeak_arms:0 "무르크빅 무기"
 BAN_murkbeak_arms_desc:0 "To produce our shiny new rifle models in decent amounts, we'll need a far larger production base than we currently have. Set up a few military workshops and get them to work, we need those guns for the next raid."
 BAN_roads_and_trains:0 "산악 도로"
 BAN_roads_and_trains_desc:0 "Our land is difficult to traverse, even for our best mountaineers. To make it easier to prepare for raids and transport loot, we shall put the peasants to work and invest our plunder into the construction of basic roads."
@@ -174,7 +174,7 @@ BAN_civilized_banditry_desc:0 "Like a well-oiled machine, our economy is running
 
 BAN_energize_the_economy:0 "경제 활력"
 BAN_energize_the_economy_desc:0 "Without a functioning industrial sector our country won't be able to produce supplies and trade with neighbours. It is time we remedy this post-haste, so let's get to work."
-BAN_industry_in_murkbeak:0 "Industry in Murkbeak"
+BAN_industry_in_murkbeak:0 "무르크빅 산업"
 BAN_industry_in_murkbeak_desc:0 "Murkbeak shall be transformed from a teeming hive of illegal activities into the proud industrial center of our nation."
 BAN_clear_the_forests:0 "숲 개간"
 BAN_clear_the_forests_desc:0 "With Blackhollow on the rise, more griffons are starting to migrate to our lands. We best cut down some trees, both to make some room for new farms and to secure an ample supply of building materials."
@@ -215,7 +215,7 @@ BAN_blackrocks_land_desc:0 "This country we took over has become quite dear to u
 BAN_lightning_raids:0 "번개같은 약탈"
 BAN_lightning_raids_desc:0 ""I don't care how - our forces need to be faster, better and coordinated. Give no time for our victims to flee, have the battle be over before it even started.""
 
-BAN_cyrils_retinue:0 "Cyrille's Retinue"
+BAN_cyrils_retinue:0 "시릴의 수행원"
 BAN_cyrils_retinue_desc:0 "At last, we've done good work and retaken our nation from those vicious thugs. Now we must ensure our armed forces are ready to prevent any bandit stragglers from making a comeback."
 BAN_our_mountains:0 "우리의 산"
 BAN_our_mountains_desc:0 "We have had decades to hone the skills required to effectively rage war in the mountains. It's time we put it to use."
@@ -404,7 +404,7 @@ bandit.6.c:0 "당신은 조공국이 될 것입니다. 블랙록은 더 이상 �
 bandit.6.b:0 "우리는 깡패랑 소매치기 놈들과는 협상하지 않는다."
 bandit.6.e:0 "블랙록은 계속 당신의 땅을 약탈할 것입니다.\n"
 
-bandit.7.t:0 "우리의 제안이 거부되었습니다!"
+bandit.7.t:0 "우리의 제안이 거부되다!"
 bandit.7.d:0 "Our best attempt to convince our neighbour into accepting a mutually beneficial relationship has been rejected. Blackrock will be furious, undoubtedly. She will likely blow off some steam by raiding the arrogant bastards."
 bandit.7.a:0 "Let's get ready for that."
 
@@ -556,8 +556,8 @@ BAN_TT_expand_market:0 "§Y암시장§!에서 노동자들을 "구매"하고 연
 BAN_TT_fix_economy:0 "사회 개발도를 올릴 수 있는 결정을 해제할 것입니다.\n"
 BAN_TT_tribute:0 "다른 국가들에게 조공국이 될 것을 요구하는 결정을 해제할 것입니다.\n"
 
-BAN_TT_civil_war_cyril:0 "국가를 시릴 블루크레스트와 블락랙이 국가의 지배권을 위해 싸우는 §R내전§!에 빠뜨릴 것입니다.\n"
-BAN_TT_civil_war_commie:0 "국가를 리브 블리에딘과 블락랙이 국가의 지배권을 위해 싸우는 §R내전§!에 빠뜨릴 것입니다.\n"
+BAN_TT_civil_war_cyril:0 "국가를 시릴 블루크레스트와 블랙록이 국가의 지배권을 위해 싸우는 §R내전§!에 빠뜨릴 것입니다.\n"
+BAN_TT_civil_war_commie:0 "국가를 리브 블리에딘과 블랙록이 국가의 지배권을 위해 싸우는 §R내전§!에 빠뜨릴 것입니다.\n"
 
 BAN_TT_mountain_hold:0 "블랙할로우 산맥 전체에 숨겨진 다양한 공급품 은닉처를 수색하고 열 수 있는 결정을 해제합니다.\n"
 
@@ -624,7 +624,7 @@ BAN_fight_for_blackhollow:0 "블랙할로우 전투"
 BAN_fight_for_blackhollow_desc:0 ""
 BAN_fight_for_murkbeak:0 "Assault On Murkbeak"
 BAN_fight_for_murkbeak_desc:0 ""
-BAN_fight_for_creeper_mountains:0 "소규모 충돌 In Creeper Mountains"
+BAN_fight_for_creeper_mountains:0 "크리퍼 산맥에서의 소규모 충돌"
 BAN_fight_for_creeper_mountains_desc:0 ""
 BAN_fight_for_banditplace:0 "Clearing Out Banditplace"
 BAN_fight_for_banditplace_desc:0 ""
