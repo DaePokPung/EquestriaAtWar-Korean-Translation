@@ -1,8 +1,8 @@
 ﻿l_english:
- EAW_MENU_MODDB:0 "Equestria at War on MODDB"
- EAW_MENU_DISCORD:0 "Equestria at War, Discord Server"
- EAW_MENU_STEAMWORKSHOP:0 "Equestria at War on Steam Workshop"
- EAW_MENU_VK:0 "Equestria at War on VK"
+ EAW_MENU_MODDB:0 "이퀘스트리아 앳 워 MODDB"
+ EAW_MENU_DISCORD:0 "이퀘스트리아 앳 워 디스코드 서버"
+ EAW_MENU_STEAMWORKSHOP:0 "이퀘스트리아 앳 워 스팀 창작마당"
+ EAW_MENU_VK:0 "이퀘스트리아 앳 워 VK"
  maintheme:0 "Radiarc - Carry On"
  NOT_EXIST:0 "무작위 국가로 플레이합니다."
 
@@ -22,7 +22,7 @@
  nuclear_reactor_desc:0 "이 건물은 해당 주에 핵무기 제조를 위한 농축 크리스탈-우라늄 혼합물 생산 시설을 제공합니다.\n\n각 원자로들은 §R12§! £resources_strip|7을 소모합니다.\n만약 사용 가능한 £resources_strip|7 이 없다면, 핵폭탄은 생산되지 않을 것입니다."
 
  #combat_l
- COMBAT_LOG_BATTLE_LOST_MANPOWER:0 "Ponypower: $MP|*R$"
+ COMBAT_LOG_BATTLE_LOST_MANPOWER:0 "마력: $MP|*R$"
  COMBAT_LOG_LOSSES_IN_MP:0 "§HPonypower lost:§! $NUM|*$"
  COMBAT_LOG_MP_LOST_DESC:0 "§HPonypower lost§!\nLosses to enemy ground forces: $GND|R$\nLosses to enemy airplanes: $AIR|R$"
  COMBAT_LOG_MP_LOST_WITH_NAVY_DESC:1 "§HPonypower lost§!\nLosses to enemy ground forces: $GND|R$\nLosses to enemy airplanes: $AIR|R$\nLosses to enemy navy: $NAVY|R$"
@@ -119,11 +119,11 @@ FE_HISTORICAL_TOOLTIP:0 "AI countries will, where applicable, pick §HNational F
  EFFECT_MANPOWER_ADD_STATE:0 "Ponypower: $VAL|+=0$."
 
  #events_l
- political.4.d:0 "The communist revolutionary movement, once a fringe popular among radical students and troublemakers, has seen increased support among the [Root.GetAdjective] working class. The fact that even more people choose to identify themselves with a 'class' at all implies that Socialist ideas are spreading beyond those who actively seek to overthrow the government.\n\n[Root.GetRulingParty] members lament this development, longing for a time when '[Root.GetAdjective]' was what people identified as first and foremost. Their concerns are not unfounded. It could be argued that a revolution is already underway, occurring on several levels of society, and it may be too late to stop it."
- political.4.a:0 "They may call themselves whatever they want."
- political.5.t:0 "Soldiers Desert to Communist Militias"
- political.5.d:0 "'Capitalists and nationalists would have you spill your blood for them on the front lines, turning worker against worker over disputes that do not concern the true socialist! Instead of taking up arms against workers who struggle abroad, raise them against the oppressors and overthrow the tyrants!'\n\nThe army, usually a bastion of loyalty and national pride, has proven not to be immune to the communist propaganda spreading rapidly in [Root.GetName]. Soldiers are deserting, refusing to fight for their country, sometimes going as far as joining militia movements that claim to be preparing for revolution."
- GAME_OVER_TT:0 "§RThe game will end for you.§!\n"
+ political.4.d:0 "공산주의 혁명 운동은, 실제로는 급진적인 학문 이론과 말썽꾼들 사이 주변에 인기가 되어, [Root.GetAdjective] 노동 계급 사이에 증가된 지지를 보이고 있습니다. 사실은 더 많은 사람들이 조금도 '계급'과 함께 스스로를 식별하기 위해 선택하는 것이 마르크스주의 이념으로 정부를 전복시키기 위해 적극적으로 찾는 자들을 넘어 확산되고 있다는 것을 의미합니다.\n\n[Root.GetAdjective]가 다른 무엇보다도 사람들과 같이 하던 시간을 갈망하는, [Root.GetRulingParty] 구성원들은 이러한 발전에 애통해 하고 있습니다. 이들의 우려는 근거가 없지 않습니다. 혁명이 이미 진행됨에 따라, 사회의 여러 층에서 발생하고 있어, 혁명을 멈추는데 너무 늦었을지도 모른다고 주장 할 수 있습니다."
+ political.4.a:0 "사람들은 자신을 그들이 원하는대로 부르는 것이다."
+ political.5.t:0 "군인들이 공산주의 저항세력에 투항"
+ political.5.d:0 "'노동자가 관여하지 않는 분쟁들로 형제를 형제에게 돌려서게 해, 자본가와 민족주의자들을 위해 최전선에서 당신이 당신의 피를 흘려야 할 것입니다\! 대신에 해외에서 투쟁하는 노동자들에 대해 무기를 들게 해서, 폭군을 전복하고 압제자에 대항하게 그들을 일으킵시다\!'\n\n군대, 보통 애국심과 충성의 수호자는, [Root.GetName]에 빠르게 확산하는 공산주의 선전에 면역이 아니란 것이 증명되었습니다. 병사들은 탈영하여, 그들의 국가를 위해 싸우기를 거부하고, 때로는 혁명을 준비해야 한다고 주장하는 파르티잔 운동에까지 합류했습니다."
+ GAME_OVER_TT:0 "§R당신으로 인해 게임이 종료될 것입니다.§!\n"
 
  #focus_l
  RAJ_revive_the_screw_guns_effect:0 "Enables §HMountain Gun§!\n£unit_artillery_brigade_icon_small §HArtillery§!\n    §HHills§!: Movement: §G+10%§!\n    §HMountain§!: Movement: §G+15%§!\n£unit_anti_tank_brigade_icon_small §HAnti-Tank§!\n    §HHills§!: Movement: §G+10%§!\n    §HMountain§!: Movement: §G+15%§!"
@@ -242,6 +242,6 @@ FE_HISTORICAL_TOOLTIP:0 "AI countries will, where applicable, pick §HNational F
  peoples_army:0 "People's Army"
  peoples_army_desc:0 "The People's Army believes in the primacy of people over weapons, with superior motivation compensating for inferior technology, and enjoys widespread support from the civilian population.\n\n"
 
-MANAGE_OCCUPIED_TERRITORIES:0 "Occupied Territories"
-MANAGE_SUBJECTS:0 "Subjects"
+MANAGE_OCCUPIED_TERRITORIES:0 "점령지"
+MANAGE_SUBJECTS:0 "속국 관리"
 MODIFIER_WEEKLY_MANPOWER:0 "주간 마력"
