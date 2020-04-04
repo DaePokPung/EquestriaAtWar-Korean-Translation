@@ -115,8 +115,8 @@ FE_HISTORICAL_TOOLTIP:0 "AI countries will, where applicable, pick §HNational F
 
  #effect_l
  EFFECT_MAKE_PUPPET:1 "$TARGET|UY$은(는) $COUNTRY|Y$의 괴뢰국이 될 것입니다."
- EFFECT_MANPOWER_ADD_COUNTRY:0 "Ponypower: $VAL|+=0$."
- EFFECT_MANPOWER_ADD_STATE:0 "Ponypower: $VAL|+=0$."
+ EFFECT_MANPOWER_ADD_COUNTRY:0 "마력: $VAL|+=0$."
+ EFFECT_MANPOWER_ADD_STATE:0 "마력: $VAL|+=0$."
 
  #events_l
  political.4.d:0 "공산주의 혁명 운동은, 실제로는 급진적인 학문 이론과 말썽꾼들 사이 주변에 인기가 되어, [Root.GetAdjective] 노동 계급 사이에 증가된 지지를 보이고 있습니다. 사실은 더 많은 사람들이 조금도 '계급'과 함께 스스로를 식별하기 위해 선택하는 것이 마르크스주의 이념으로 정부를 전복시키기 위해 적극적으로 찾는 자들을 넘어 확산되고 있다는 것을 의미합니다.\n\n[Root.GetAdjective]가 다른 무엇보다도 사람들과 같이 하던 시간을 갈망하는, [Root.GetRulingParty] 구성원들은 이러한 발전에 애통해 하고 있습니다. 이들의 우려는 근거가 없지 않습니다. 혁명이 이미 진행됨에 따라, 사회의 여러 층에서 발생하고 있어, 혁명을 멈추는데 너무 늦었을지도 모른다고 주장 할 수 있습니다."
