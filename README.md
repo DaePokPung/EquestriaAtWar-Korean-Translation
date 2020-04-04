@@ -1,11 +1,10 @@
 # Equestria At War Korean Translation
-하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워([Equestria at War](https://steamcommunity.com/sharedfiles/filedetails/?id=1826643372))의 한국어 번역 프로젝트입니다.
+하츠 오브 아이언 4의 모드 이퀘스트리아 앳 워([Equestria at War](https://steamcommunity.com/sharedfiles/filedetails/?id=1826643372))의 [한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=1912668247) 프로젝트입니다.
 
 ***
 
 # 공지사항
-- 20.04.02 현재 바닐라 1.9.1 호환패치 작업 중입니다. 이틀 정도 소요될 것으로 보고 있습니다...
-- [테스트용 모드 (스팀 창작마당, 번역 검수용)](https://steamcommunity.com/sharedfiles/filedetails/?id=1912668247)
+- 20.04.04 1.7.4.3버전 한패 업데이트 완료되었습니다.
 - 현재 번역 작업이 중구난방으로 진행된다는 지적에 따라 번역의 전체적인 방향을 잡고자 합니다.번역하시는 분들은 가급적이면 아래의 문서를 최우선으로 번역해 주시면 감사하겠습니다.
 
   - [이퀘스트리아](localisation/country_EQS_l_english.yml) (번역 완료)
