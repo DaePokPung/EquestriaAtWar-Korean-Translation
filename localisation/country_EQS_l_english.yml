@@ -334,15 +334,15 @@ EQS_south_east_militia_tt:0 "라스 페가수스, 락빌, 애플루사에 민병
 EQS_south_west_militia_tt:0 "발티메어, 스테이블사이드, 테노치틀란에 민병대 사단이 조직됩니다."
 
 EQS_construction_projects:0 "건설 계획"
-EQS_develop_canterlot_fillydelphia_railroad:0 "캔틀롯-필리델피아 간 철도를 개발합니다."
-EQS_develop_fillydelphia_manehattan_railroad:0 "필리텔피아-메인해튼 간 철도를 개발합니다."
-EQS_develop_west_coast_to_canterlot:0 "서해안과 캔틀롯을 연결합니다."
+EQS_develop_canterlot_fillydelphia_railroad:0 "캔틀롯-필리델피아 철도망 개발"
+EQS_develop_fillydelphia_manehattan_railroad:0 "필리텔피아-메인해튼 철도망 개발"
+EQS_develop_west_coast_to_canterlot:0 "서해안과 캔틀롯 연결"
 
-EQS_end_truce:0 "휴전의 끝"
-EQS_end_truce_from:0 "이퀘스트리아의 휴전이 종료됩니다."
+EQS_end_truce:0 "휴전 종료"
+EQS_end_truce_from:0 "이퀘스트리아와의 휴전 종료"
 
 EQS_foreign_affairs:0 "곤경에 처한 조화"
-EQS_call_yakyakistan_to_war_CHN:0 "야크야키스탄의 지원 요청"
+EQS_call_yakyakistan_to_war_CHN:0 "야크야키스탄에게 지원 요청"
 EQS_annex_darkwing:0 "[From.GetNameDef] 합병"
 
 EQS_rename_stalliongrad_decision:0 "스탈리온그라드 개명"
