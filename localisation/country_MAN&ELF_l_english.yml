@@ -3023,7 +3023,7 @@ MAN_light_tank_equipment_2_desc:0 "The Panzer II was originally designed as a st
  #MAN_light_tank_equipment_3:0 "VK 16.02 Leopard"# moved to replace folder
 MAN_light_tank_equipment_3_desc:0 "The VK1602 Leopard was a planned Changeling reconnaissance vehicle designed in 1012. It was planned to arm the vehicle with the 75mm Kwk 41, although that was changed to a smaller 50mm cannon. The VK 1602 had sloped frontal armour, influenced by the Panther medium tank. In order to increase cross-country performance, the VK 1602 was fitted with 350mm wide tracks."
  #MAN_light_tank_equipment_3_short:0 "VK1602 Leopard"# moved to replace folder
-MAN_medium_tank_aa_equipment_1:0 "3호 대공전차 "
+MAN_medium_tank_aa_equipment_1:0 "3호 대공전차 뫼벨바겐"
 MAN_medium_tank_aa_equipment_1_desc:0 "Nicknamed Möbelwagen because of its boxy turret when closed, it was a self-propelled anti-aircraft gun built from the chassis of the Panzer III tank and armed with a 20mm quad-gun."
 MAN_medium_tank_aa_equipment_1_short:0 "뫼벨바겐"
 MAN_medium_tank_aa_equipment_2:0 "4호 대공전차 오스트빈트"
