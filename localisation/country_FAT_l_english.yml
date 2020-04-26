@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  RULE_OPTION_GRI_EMPIRE_REPUBLIC:0 "혁명의 승리"
  RULE_OPTION_GRI_EMPIRE_REPUBLIC_DESC:0 "그리포니아 공화국이 그리펜하임의 새 정부를 위한 새 정치 체제와 기회를 가지고 그리포니아 제국을 지배할 것입니다."
 
@@ -588,7 +588,7 @@
  FAT_the_task_ahead:0 "과업을 이끌다"
  FAT_the_task_ahead_desc:0 "악당들이 이 땅을 돌아다니며 그들의 백성을 노예로 만들고 그들의 자유를 빼앗는 동안 공화국은 한가롭게 앉아 있어서는 안 됩니다. 우리는 우리의 궁극적인 과제에 대비해야 합니다. 드디어 그리펜하임으로 집으로 돌아갑니다!"
  FAT_pan_griffonian_cause:0 "공화주의 협약"
- FAT_pan_griffonian_cause_desc:0 "그리포니아 전역의 그리폰은 우리처럼 군주제의 땅을 없애기를 원합니다. 그들은 우리의 우방이자 친구입니다. 우리는 그들과 친구가 되어 그들과 함께 대륙 해방을 위한 우리의 위대한 노력에 동참하도록 노력할 것입니다.
+ FAT_pan_griffonian_cause_desc:0 "그리포니아 전역의 그리폰은 우리처럼 군주제의 땅을 없애기를 원합니다. 그들은 우리의 우방이자 친구입니다. 우리는 그들과 친구가 되어 그들과 함께 대륙 해방을 위한 우리의 위대한 노력에 동참하도록 노력할 것입니다."
  FAT_reach_out_to_equestria:0 "공주의 인정"
  FAT_reach_out_to_equestria_desc:0 "셀레스티아 공주와 이퀘스트리아는 오랜 시간 자유를 지지합니다. 우리의 새로운 정치 체제가 갖춰진 상황에서 그들은 우리를 직접적으로 지원하는 것을 고려할 수도 있습니다."
  FAT_a_republican_coalition:0 "세계 공화주의"
@@ -707,13 +707,13 @@
  FAT_navy_investment:0 "윙하겐 항구 확장"
  FAT_navy_investment_desc:0 "윙하겐의 도시 항구는 공화국에서 가장 큰 도시 중 하나이며, 항구들과 조선소들이 그리포니아 북부에서 가장 큰 도시 중 하나이기도 하다. 그럼에도 불구하고, 그곳에 사용된 대부분의 장비가 구식이기 때문에 명백한 문제가 있습니다. 만약 우리가 자금 일부를 아끼고 그곳에 있는 모든 조선소를 국유화시킨다면, 윙하겐을 북 그리포니아의 가장 위대한 항구로 쉽게 만들 수 있을 것입니다."
  FAT_navy_doctrine:0 "완벽한 해군 교리"
- FAT_navy_doctrine_desc:0 "해군 특수화에 관해 어떻게 진행할지 결정하지 못하면서 우리의 신임 제독은 지금까지 가장 오랫동안 논쟁에 빠져 있었습니다. 이제 우리가 해군 교리를 어디로 향하고 있는지 그들에게 분명한 방향을 제시해야 할 때입니다.
+ FAT_navy_doctrine_desc:0 "해군 특수화에 관해 어떻게 진행할지 결정하지 못하면서 우리의 신임 제독은 지금까지 가장 오랫동안 논쟁에 빠져 있었습니다. 이제 우리가 해군 교리를 어디로 향하고 있는지 그들에게 분명한 방향을 제시해야 할 때입니다."
  FAT_new_battleships:0 "전함 연구"
  FAT_new_battleships_desc:0 "전함은 의심할 여지 없이 해전의 지배자입니다. 우리는 그녀가 모든 해전을 결정할 것이 분명하며, 따라서 우리는 우리의 해전을 얻기 위해 노력해야 합니다. 윙헤븐에 있는 새로운 조선소를 이용하여 새로운 전함을 건설하는 것이 좋은 시작 방법입니다. 그곳에서 우리가 개발할 수 있는 두 가지 유망한 프로젝트, 즉 드레드노트급과 아트레우스급에 대한 이야기가 있습니다."
  FAT_new_destroyers:0 "구축함 연구"
  FAT_new_destroyers_desc:0 "구축함은 전 세계 모든 해군력의 중추 역할을 하며, 이는 금방 바뀌지 않을 것입니다. 이미 많은 유형의 군함이 사용되고 있으며, 이들 중 많은 유형이 우리가 만들 수 있는 것보다 기술적으로 더 진보되어 있습니다. 그런 만큼, 우리는 그것들 중 몇 가지를 그다지 좋은 조건이 아닌 상태로 구입하고, 그것들을 분해하고, 그들에게서 우리가 할 수 있는 모든 것을 배운 다음, 그 지식을 이용하여 우리 자신의 프로젝트를 기초로 삼아야 합니다."
  FAT_new_submarines:0 "실험용 잠수함 모델"
- FAT_new_submarines_desc:0 "'잠수함'는 인식조차 되지 않은 채 물밑과 어뢰정 밑으로 들어갈 수 있는 비교적 새로운 선박 시제품입니다! 우리 해군 제독은 이퀘스트리아와 같은 나라의 외국 모델들을 검사하고 결국 우리 자신의 잠수함을 건조해야 합니다."
+ FAT_new_submarines_desc:0 "'잠수함'은 인식조차 되지 않은 채 물밑과 어뢰정 밑으로 들어갈 수 있는 비교적 새로운 선박 시제품입니다! 우리 해군 제독은 이퀘스트리아와 같은 나라의 외국 모델들을 검사하고 결국 우리 자신의 잠수함을 건조해야 합니다."
  FAT_more_navy_investment:0 "A Second Port On Sky Bay"
  FAT_more_navy_investment_desc:0 "Our only port on Sky Bay is in the city of Winghaven. However, if Winghaven gets destroyed by an enemy or even by a natural disaster, we would have no naval port to dock our ships. A port on the Feathisian border would work well to intimidate the Griffonian Empire and establish another port more south than Winghaven."
  FAT_perfect_the_saxhagen_plumenjar_doctrine:0 "Perfect The Saxhagen-Plumenjar Doctrine"
@@ -751,7 +751,7 @@
  FAT_superior_5:0 "로켓포"
  FAT_superior_5_desc:0 "제국과 그리포니아 주변의 다른 나라들은 "네벨베르퍼"와 로켓포들에 대해 특별히 집착하는 것 같습니다. 케머스카이의 특기의 새로운 형태로서, 우리는 이 새로운 기술을 받아들여 즉시 공장으로 들여올 것입니다."
  FAT_superior_4:0 "포병의 힘"
- FAT_superior_4_desc:0 "우리가 축적한 화기로, 우리는 이제 진격 전에 그들의 은신처에서 적들을 농락할 수 있는 이른바 '크라이핑 바리지' 전술을 활용할 수 있는 능력을 갖게 되었습니다.
+ FAT_superior_4_desc:0 "우리가 축적한 화기로, 우리는 이제 진격 전에 그들의 은신처에서 적들을 농락할 수 있는 이른바 '크라이핑 바리지' 전술을 활용할 수 있는 능력을 갖게 되었습니다."
  FAT_mass_1:0 "선테일 원수의 지혜"
  FAT_mass_1_desc:0 "수백만 개의 추가 포탄을 생산하거나 광범위한 전단을 그리는 것은 좋은 일이지만, 이것은 또한 시간이 많이 걸리기 때문에 노력할 가치가 없습니다. 대신, 우리는 모든 신체 건강한 그리폰들을 징발하고 그에게 총을 주고 그를 전선으로 보내야 합니다. 그래야 병력이 부족하지 않고, 사실상 무패가 될 것입니다."
  FAT_mass_2:0 "민병대가 참여하도록 설득"
