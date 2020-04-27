@@ -1,6 +1,6 @@
 ﻿l_english:
-integration_occupation:0 "Integration"
-compliance_40_core:0 "Full Integration"
-add_to_ROOT_potential_original_cores_TT:0 "Can be cored by [Root.GetName] if average §Hcompliance§! of occupied states reaches §H40%§!."
-add_to_ROOT_potential_cores_TT:0 "Can be cored by [Root.GetName] if average §Hcompliance§! of occupied states reaches §H40%§!."
-resistance_boosted:0 "Resistance already strengthened"
+integration_occupation:0 "합병"
+compliance_40_core:0 "완전 합병"
+add_to_ROOT_potential_original_cores_TT:0 "점령지의 평균 §H순응§!이 §H40%§!가 되면 [Root.GetName]의 핵심 주가 될 수 있습니다."
+add_to_ROOT_potential_cores_TT:0 "점령지의 평균 §H순응§!이 §H40%§!가 되면 [Root.GetName]의 핵심 주가 될 수 있습니다."
+resistance_boosted:0 "저항이 이미 강화됨"
