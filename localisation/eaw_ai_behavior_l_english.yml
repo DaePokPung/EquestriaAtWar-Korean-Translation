@@ -97,7 +97,7 @@
  CYA_AI_BEHAVIOR:0 "@CYA 사이아놀리시아"
  RULE_OPTION_CYA_NEUTRAL_HISTORICAL:0 "비동맹주의 - 역사적"
  RULE_OPTION_CYA_NEUTRAL_HISTORICAL_AI_DESC:0 "사이아놀리시아는 아스테리온에 대한 소극적 방어 정책을 추구합니다."
- RULE_OPTION_CYA_NEUTRAL_ALTERNATE:0 - 비동맹주의 - 대체역사"
+ RULE_OPTION_CYA_NEUTRAL_ALTERNATE:0 - "비동맹주의 - 대체역사"
  RULE_OPTION_CYA_NEUTRAL_ALTERNATE_AI_DESC:0 "사이아놀리시아는 아스테리온 침공을 선제공격으로 물리치려 합니다."
  RULE_OPTION_CYA_COMMUNIST:0 "공산주의 - 대체역사"
  RULE_OPTION_CYA_COMMUNIST_AI_DESC:0 "사이아놀리시아는 혁명을 겪으며 공산주의 국가가 됩니다."
@@ -131,7 +131,7 @@
  RULE_OPTION_BAN_COMMUNIST:0 "공산주의 - 리브 블레딘"
  RULE_BAN_COMMUNIST_AI_DESC:0 "모두를 위한 평등, 평등을 위한 모든 것! 우리가 영광스러운 승리를 향해 전진하듯이 미소 지으세요!\n공산주의 블랙할로우는 소극적 자세로 모두가 평등하고 이전처럼 다른 그리폰을 억압하지 않는 진정한 평등주의 유토피아 구축에 주력합니다."
  RULE_OPTION_BAN_NEUTRALITY:0 "비동맹주의 - 시릴 여백작"
- RULE_OPTION_NEUTRALITY_BAN_AI_DESC:0 "귀족들이 적법한 왕위 계승자의 밑에 백성들을 규합해서 도적 악당으로부터 블랙할로우를 탈환할 것입니다.\n비동맹 블랙할로우는 그들이 군주를 선출하지 않았다면 그리폰스톤을 공격할 것이고, 그렇지 않으면 완전히 소극적으로 남아 이웃을 그냥 내버려 둘 것입니다.
+ RULE_OPTION_NEUTRALITY_BAN_AI_DESC:0 "귀족들이 적법한 왕위 계승자의 밑에 백성들을 규합해서 도적 악당으로부터 블랙할로우를 탈환할 것입니다.\n비동맹 블랙할로우는 그들이 군주를 선출하지 않았다면 그리폰스톤을 공격할 것이고, 그렇지 않으면 완전히 소극적으로 남아 이웃을 그냥 내버려 둘 것입니다."
  
  BRF_AI_BEHAVIOR:0 "@BRF 브로드펠트"
  RULE_OPTION_BRF_NICER_FASCIST:0 "Fascist - Gambit Refused"
