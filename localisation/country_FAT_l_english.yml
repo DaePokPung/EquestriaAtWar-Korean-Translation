@@ -1467,32 +1467,32 @@ l_english:
  griffonRepublic.209.d:0 "오스카 플루멘자르 공작이 수년간의 공화국 통치가 지난 뒤 군주제를 회복시킨 클라우스 로즈윙 총통과 눈부신 군 수행단과 함께 클라우드버리 거리를 행진하자 트럼펫이 펑펑 울리고 나팔이 울렸습니다. 큰 돈을 받고 스카이폴에서 온 전문 밴드가 축하 공연을 마쳤을 때 밴드 단원들은 공작들보다 더 화려한 옷을 입고 있었습니다. 공작이 국회의사당에 도착하자 클라우드버리 공국군이 21발의 예포를 발사했습니다.\n\n그러나 대부분의 시민들의 분위기는 많이 달랐습니다. 공화국 국민들은 불신과 회의감을 드러냈습니다. 혁명이 오토 플루멘자르 공작과 그의 아내 프레자를 린치한 지 몇 년이 지난 지금 군주제가 다시 회복된 것입니다. 트럼펫이 울리고 그리폰 군대가 거리 곳곳을 행진했지만 박수를 치는 군중의 수는 적었고, 박수를 친 자들조차 새 왕정에는 거의 관심이 없었습니다. 공화국이 건설된 모든 이유를 거스르는 듯한 새 정권에 국민들이 익숙해지려면 긴 시간이 걸릴 것입니다.\n\n지역 주민들을 향한 연설에서 오스카 공작은 "왕정주의 사상을 이 타락한 그리폰들의 마음에 되살려내야 한다"며 "공화국 혁명은 지난 세기에 일어난 가장 끔찍한 사건이자 그리포니아의 가장 큰 재앙이었고, 이 땅을 완전한 무정부 상태에 빠뜨렸다"고 주장했습니다. 베디나 왕국에 망명 중인 공화당 지도자 하인리히 킹페더는 오스카에게 "당신의 쓰레기 아버지처럼 린치를 당하기 전에 당신의 근친 교배된 염소 무리들을 이끌고 이 나라에서 떠나라"라는 강력한 언사를 보냈습니다."
  griffonRepublic.209.a:0 "공작이여 만수무강하소서!"
 
- griffonRepublic.210.t:0 "The Fate of the Republic"
- griffonRepublic.210.d:0 "The Republic has certainly come far from the days of 1007, where no one was confident that the Republic would ever be able to liberate Griffenheim again. Due to the actions of Kemerskai, however, our social instability has been mended, our banditry problem has been eradicated, and our soldiers are beginning to have faith in the Republican dream again.\n\n But the question arises, should we pursue the dream and reclaim Griffenheim? Or should we bide our time and take up a defensive position against the Empire, and avoid the failures of the revolution of 978?"
- griffonRepublic.210.a:0 "We must go on the offensive."
- griffonRepublic.210.b:0 "We must defend in the case of a Griffonian attack."
+ griffonRepublic.210.t:0 "공화국의 운명"
+ griffonRepublic.210.d:0 "공화국은 그리펜하임을 다시 해방시킬 수 있을지를 확신하지 못했던 1007년에서 확실히 멀어진 것 같습니다. 케머스카이의 행동 덕분에 우리의 사회 불안이 해소되었고, 도적 문제는 근절되었으며, 우리의 병사들은 다시 공화국의 꿈에 대한 믿음을 가지기 시작했습니다.\n\n하지만 한편으로는 의문도 생깁니다. 우리는 그 꿈을 계속 추구해서 그리펜하임을 되찾아야 할까요, 아니면 시간을 벌어서 제국에 대한 방어적 자세로 978년 혁명의 실패의 반복을 피해야 할까요?"
+ griffonRepublic.210.a:0 "우리는 공격적으로 나가야 한다."
+ griffonRepublic.210.b:0 "우리는 그리포니아의 공격을 대비하기 위해 방어해야 한다."
 
 
- griffonRepublic.211.t:0 "Kemerskai Declares A National Emergency"
- griffonRepublic.211.d:0 "The President-Marshal has declared a national emergency, citing the chaotic conditions in the nation, "imperial agitation", and the need to assume full control until the imperial menace is defeated. Civilian movement will be strictly controlled, the sale of firearms is banned, and the parliament is temporarily suspended. In a radio address to the people, Kemerskai emphasized that the nation would return to civilian rule after the Imperial threat was contained, but also claimed he would not attack the Empire directly, saying that would be "suicide". Given that Kemerskai's emergency both lasts until the Imperial threat is contained but also given that he does not plan to attack the Imperials directly, it appears that the emergency will be almost indefinite."
- griffonRepublic.211.a:0 "Stability, at all costs!"
+ griffonRepublic.211.t:0 "국가 비상사태를 선포한 케머스카이"
+ griffonRepublic.211.d:0 "총통은 "제국적 동요"라는 혼란스러운 국가 여건과 제국의 위협을 물리칠 때까지 전권을 장악해야 한다는 점을 들어 국가 비상사태를 선포했습니다. 시민운동은 엄격히 통제되고 총기류 거래는 금지되며 의회는 잠정 중단되었습니다. 케머스카이는 국민들을 향한 라디오 연설에서 제국의 위협이 진압된 뒤 다시 민간 통치로 돌아갈 것을 강조하면서도 제국을 직접 공격하는 행위는 "자살행위"라고 주장했습니다. 케머스카이의 비상사태는 제국의 위협이 억제될 때까지 지속됨과 동시에 그들을 직접 공격할 계획은 없다는 점에서 이 비상사태는 거의 무기한으로 보입니다."
+ griffonRepublic.211.a:0 "모든 대가를 치러서라도 안정이 먼저다!"
 
  griffonRepublic.212.t:0 "필요한 조치"
  griffonRepublic.212.d:0 "총통이 말했습니다. "동포 여러분," 케머스카이가 시작했습니다. "저는 지금의 상태로는 공화국의 꿈을 이룰 수 없다고 생각합니다. 우리에게는 힘이 필요합니다. 우리에게는 순수하고 합리적인 정책이 필요합니다. 이것이 바로 우리가 영구적인 비상사태를 시작해야 하는 이유입니다. 당분간 모든 의회는 폐쇄될 것이며 공화국은 우리 나라의 반역자들과 대륙 전역의 제국주의자들을 대상으로 최고 수준의 경계령을 내릴 것입니다."\n\n케머스카이의 공화국 방위를 위한 국가비상사태 선포가 있자 많은 이들은 그가 이것을 공화국의 권력과 영광을 위해 숙청, 피, 그리고 철의 기회로 사용할 것이라 믿었습니다. 이것은 권위주의 정권의 시작인 걸까요? 아니면 우리나라의 반역자들로부터 국가를 방어하고 맞서 싸우기 위해 필요한 중대한 비상사태의 시작일까요?"
  griffonRepublic.212.a:0 "공화국이여 영원하라...?"
 
 
- griffonRepublic.213.t:0 "Astler's Recovery Plan"
- griffonRepublic.213.d:0 "Rikard Astler's office has announced a new recovery plan to rebuild the Heartlands after the fall of the Empire and the taking of Griffenheim. With the Heartlands racked by bombings, sieges, and vicious acts of revenge that damaged many of the greatest cities in the region, Astler has seen it as his duty to recover from the Second Griffonian Revolution. With areas such as Angriver and Katerin already in ruin due to the actions of their vicious monarchs, it is imperative that we rebuild these lands, and establish local cooperatives and collectives to heal the nation and implement worker's control of the means of production."
- griffonRepublic.213.a:0 "The Heartlands will be democratized, socialized, and rebuilt!"
+ griffonRepublic.213.t:0 "아스틀러의 재건 계획"
+ griffonRepublic.213.d:0 "리카드 아스틀러의 집무소에서는 제국의 멸망과 그리펜하임 함락 이후 헤르츠란트를 재건하기 위한 새로운 재건 계획을 발표했습니다. 헤르츠란트 일대가 폭탄 테러, 공방전, 그리고 많은 대도시에 피해를 입힌 복수의 악행으로 몸살을 앓고 있는 가운데 아스틀러는 제 2차 그리포니아 혁명으로부터 빠르게 회복하는 것을 목표로 삼았습니다. 앙그리버나 카테린 같은 지역이 이미 악랄한 군주들로 인해 폐허가 된 상황에서 이 곳을 재건하고 국가를 치유하고 노동자의 생산 수단에 대한 통제를 이행하기 위해서는 지역 협동조합과 세금 징수 시설들을 설립하는 것이 급선무일 것입니다."
+ griffonRepublic.213.a:0 "헤르츠란트는 민주화되고, 사회주의화되고, 재건될 것이다!"
  
- griffonRepublic.214.t:0 "Against All Oligarchs"
- griffonRepublic.214.d:0 "Astler has always been a firebrand - a populist and revolutionary through and through. Now that he is in power, he has set his major goal to destroy all the hierarchies of old Griffonia. The nobility, the trade and industrial barons who oppressed the people under their boot, and the vile monarchic structures of old governance, Astler announced, shall be destroyed completely.\n\nNoble titles of even the smallest caliber have been annuled, from Baron to Prince to Lord, and the now-former nobles have had most of their ill-gotten gained seized by the Republic, to fully distribute to the people."
- griffonRepublic.214.a:0 "Justice for the people!"
+ griffonRepublic.214.t:0 "모든 과두정에 대항하여"
+ griffonRepublic.214.d:0 "아스틀러는 항상 포퓰리스트이자 혁명 선동가였습니다. 이제 그가 집권한 만큼 그는 옛 그리포니아의 위계질서를 모두 무너뜨리겠다는 주요 목표를 세웠습니다. 아스틀러의 발표에 따르면 인민들을 억압해 온 무역과 산업 귀족들과 낡은 통치제레를 가진 비도덕적인 군주제는 완전히 파괴될 것입니다.\n\n남작에서 백작까지 귀족들은 가장 조그마한 직위들까지 빼앗겼고, 불법적으로 얻은 땅들은 공화국이 압수해서 대부분을 국민들에게 완전히 분배해 주었습니다."
+ griffonRepublic.214.a:0 "국민들을 위한 정의다!"
 
- griffonRepublic.215.t:0 "The New Coalition"
- griffonRepublic.215.d:0 "Rikard Astler has annouced a coalition with both democrats and socialists, including Feathisian political Kogchel, who Astler took a particular admiration too after reading his works in Cloudbury. Along with Kogchel, Astler shook claws with the Republican and Anarchist opposition in Angriver, claiming he has "united the fractured Angriverian left for the first time in history", although many have doubted the posibility of allying conservatives with anarchists. Kogchel and Astler also made alliances with Erich Mühschnabel and Cyrusval university, a radical but quite "armchair" group of socialists. It is unknown if this rag-tag group of moderates, democrats, anti-statists and theorists will ever stand together long enough to gain political power, but at least it is a step in the right direction to uniting the left."
- griffonRepublic.215.a:0 "Left Unity? In this time and day!"
+ griffonRepublic.215.t:0 "새로운 동맹"
+ griffonRepublic.215.d:0 "리카드 아스틀러는 페디시아 정치가 코흐헐을 포함한 민주주의자들 및 사회주의자들의 연합을 선언했습니다. 코흐헐은 아스틀러가 클라우드버리에서 그의 저서를 읽은 뒤 그의 극찬을 받은 바 있습니다. 아스틀러는 앙그리버의 공화주의자와 아나키스트 야당에게도 발톱을 흔들며 "역사상 처음으로 앙그리버 좌파를 통합했다"고 주장했습니다. 단 많은 그리폰들은 보수파와 아나키스트의 연합 가능성에 의문을 제기했습니다. 코흐헐과 아스틀러는 급진적이지만 사회주의자의 버팀목인 에리히 뮌슈나벨과 사이러스발 대학과도 동맹을 맺었습니다. 온건파, 민주주의자, 반통치주의자, 이론가들로 구성된 이 누더기 모임이 정치 권력을 얻을 수 있을 만큼 오랫동안 함께 할지는 미지수이지만 적어도 좌파를 결집시키는 데 있어서는 올바른 방향의 첫걸음인것 같습니다."
+ griffonRepublic.215.a:0 "좌파 연합? 이 시대에 필요한 일이다!"
  
  griffonRepublic.216.t:0 "Peace, Land, and Bread"
  griffonRepublic.216.d:0 "Astler's economics are built upon the platform of peace, land, and bread. Each worker will be entitled to peace, both in his community and in the broader context of the nation. Each worker will be entitled to land, so that there is no boss overhead to opress them in a system of wage slavery. Each worker is entitled to bread, so that they can feed their family, and work without fear of starvation and death. In addition to the principles of liberty, democracy, and prosperity, these three priciples of socialism will also guide us to a greater future."
