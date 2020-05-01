@@ -11,7 +11,7 @@ l_english:
  FAT_Kingdom_neutrality_DEF:0 "클라우드버리 왕국"
 
  FAT_centrism_desc:0 "국민공화당 우파는 공화국 정치사에 있어서 흥미로운 발전사를 지니고 있습니다. 한때는 사회민주주의와 혁명을 부르짖던 이들이었으나, 이제는 안정을 중시하는 보수적 경제정책, 방어적 외교정책을 지지하는 등의 실용주의적 정책을 추구하여 978년 혁명 원년에 비하면 다른 길을 걷고있는 것이나 다름 없습니다. 그러나, 이들은 그것이 공화국을 위한 올바른 길이라고 믿고있습니다."
- FAT_liberalism_desc:0 "국민공화당 중도파는 혁명적 대그리핀주의, 복지를 중시하는 사회민주주의힉 경제정책, 군국주의 그리고 반군주주의로 대표되는 978년 혁명의 공화주의 원칙의 충직한 이들입니다. 중도파의 지도부는 슈나벨 선글라이더, 월터 에머리히 등 장성딘으로 구성되어있으며, 이들은 모든 그리핀을 위한 자유, 민주주의, 번영을 추구하는 삼원칙에 충실합니다."
+ FAT_liberalism_desc:0 "국민공화당 중도파는 혁명적 대그리폰주의, 복지를 중시하는 사회민주주의힉 경제정책, 군국주의 그리고 반군주주의로 대표되는 978년 혁명의 공화주의 원칙의 충직한 이들입니다. 중도파의 지도부는 슈나벨 선글라이더, 월터 에머리히 등 장성딘으로 구성되어있으며, 이들은 모든 그리폰을 위한 자유, 민주주의, 번영을 추구하는 삼원칙에 충실합니다."
  FAT_democratic_socialism_desc:0 "국민공화당 좌파는 지난 몇년새에 대두한 신규 파벌로 이상주의에 경도된 젊은이들로 구성되어있습니다. 이들은 978년 혁명원칙을 이어나가 사회민주주의나 반공주의 대신 노동자들의 주체성과 이웃 국가 스키나비아의 해방에 중점을 두어야 한다고 주장합니다. 또한 이들은 구세대와 케머스카이의 우상화에 대해 격렬한 비판을 일삼는데, 젊고 거친 이들의 행보에 탓에 '권위주의적이다', '존재가 자유주의에 대한 모욕' 등의 비난을 받고는 합니다."
 ### National Focus ###
  fatass_the_task_ahead_focus:0 "공격적 외교 정책 중점"
@@ -516,7 +516,7 @@ l_english:
  FAT_banking_reform:0 "은행개혁"
  FAT_banking_reform_desc:0 "우리는 무너진 우리의 금융 시스템을 상당 부분 바로잡기 위해 은행 개혁에 착수할 것입니다. 이것은 우리 나라와 국민이 번영할 수 있도록 도울 것입니다."
  FAT_balance_the_books:0 "자급자족경제"
- FAT_balance_the_books_desc:0 "우리 나라의 시민들은 더 이상 클라우드베리의 예전 공국처럼 가난에 빠져서는 안 됩니다! 우리는 이전의 공국과는 달리 자급자족해야 하고, 농사와 자신의 것 그리고 우리 자신을 위해 일해야 합니다."
+ FAT_balance_the_books_desc:0 "우리 나라의 시민들은 더 이상 클라우드버리의 예전 공국처럼 가난에 빠져서는 안 됩니다! 우리는 이전의 공국과는 달리 자급자족해야 하고, 농사와 자신의 것 그리고 우리 자신을 위해 일해야 합니다."
  FAT_improve_roads:0 "도로들 개선"
  FAT_improve_roads_desc:0 "우리는 물자, 상품, 그리폰을 우리 나라 전역에 운송할 수 있어야 합니다. 이를 위해서는 대형 고속도로 시스템 공사를 시작해야 합니다. 그리포니아 대륙에서 고속도로 종류 중 첫 번째입니다!"
  FAT_infranstructure_effort_1:0 "케이브그로브 연결"
@@ -530,9 +530,9 @@ l_english:
  FAT_literacy_campaign:0 "클라우드버리 교육계획"
  FAT_literacy_campaign_desc:0 "클라우드버리 교육 계획이라고도 알려진 CEI는 총통과 그의 가장 가까운 조언자들에 의해 완성된 새로운 프로그램입니다. 이 프로그램은 특히 토착 인구가 많은 공화국 북부의 문맹을 근절할 것입니다."
  FAT_new_schools:0 "북부학교들 확장"
- FAT_new_schools_desc:0 "CEI의 일환으로, 우리는 우리나라의 교육과 식자율을 높이기 위해 더 많은 학교를 열 것입니다. 끊임없는 군벌주의와 클라우드베리의 공국의 유산으로 인해 많은 북방 토착민들이 독서를 할 능력이 부족한 가운데 이런 학교들에게 북부는 더할 나위 없이 좋은 장소입니다."
+ FAT_new_schools_desc:0 "CEI의 일환으로, 우리는 우리나라의 교육과 식자율을 높이기 위해 더 많은 학교를 열 것입니다. 끊임없는 군벌주의와 클라우드버리의 공국의 유산으로 인해 많은 북방 토착민들이 독서를 할 능력이 부족한 가운데 이런 학교들에게 북부는 더할 나위 없이 좋은 장소입니다."
  FAT_engineering_expertise:0 "더이상 문맹은 없다"
- FAT_engineering_expertise_desc:0 "CEI가 거의 끝나가고 있기 때문에, 우리 위대한 나라의 모든 그리폰은 곧 읽고 쓰고 간단한 산수를 할 수 있게 될 것입니다. 우리의 새로운 학교들은 클라우드베리에서 윙하겐, 로스트게이트까지 역사, 과학, 전쟁을 가르칠 것이고, 우리 나라는 점점 어두워지는 세상에서 지식과 빛의 봉화로 우뚝 설 것입니다."
+ FAT_engineering_expertise_desc:0 "CEI가 거의 끝나가고 있기 때문에, 우리 위대한 나라의 모든 그리폰은 곧 읽고 쓰고 간단한 산수를 할 수 있게 될 것입니다. 우리의 새로운 학교들은 클라우드버리에서 윙하겐, 로스트게이트까지 역사, 과학, 전쟁을 가르칠 것이고, 우리 나라는 점점 어두워지는 세상에서 지식과 빛의 봉화로 우뚝 설 것입니다."
  FAT_cement_factories:0 "스쿼크 산업센터"
  FAT_cement_factories_desc:0 "스쿼크 시는 지난 1년 동안 급속한 산업화가 이루어졌습니다. 정부 자금이 추가로 투입되면 이는 더욱 가속화되어 진정한 산업 센터를 만들 수 있습니다."
  FAT_heavy_industry:0 "중공업"
@@ -614,7 +614,7 @@ l_english:
  FAT_core_swedes:0 "베디나 통합"
  FAT_core_swedes_desc:0 "베디나는 앞뒤가 맞지 않는 언어를 구사하며 군주제와 반동이라는 가치를 소중히 간직하고 있지만, 어떤 어려움이 있더라도 공화국에 통합시켜야 합니다."
  FAT_wait_out_the_inevitable:0 "이상 수호"
- FAT_wait_out_the_inevitable_desc:0 "그리펜하임의 폭군들은 곧 공격할 것입니다. 우리는 우리 나라를 지키고, 다가오는 제국 군대의 무리를 공격해야 합니다. 그렇다면 제국 영토의 중심부를 공격해야 하고, 모든 그리핀에게 더 큰 미래를 가져다 주어야 합니다."
+ FAT_wait_out_the_inevitable_desc:0 "그리펜하임의 폭군들은 곧 공격할 것입니다. 우리는 우리 나라를 지키고, 다가오는 제국 군대의 무리를 공격해야 합니다. 그렇다면 제국 영토의 중심부를 공격해야 하고, 모든 그리폰에게 더 큰 미래를 가져다 주어야 합니다."
  FAT_finish_revolution:0 "혁명 완료"
  FAT_finish_revolution_desc:0 "이제 때가 됐습니다, 동지들! 그리펜하임으로의 행진이 시작되면서 우리의 그리포니아 공화국의 꿈은 오늘 현실로 만들어질 것입니다. 여러분, 앞으로 행진합시다! 평화와 번영을 향해서!"
  FAT_tricolor_over_griffenheim:0 "그리펜하임의 삼색기"
@@ -1101,7 +1101,7 @@ l_english:
  FAT_socialism_in_griffonia:0 "진정한 거대경제계획"
  FAT_socialism_in_griffonia_desc:0 "그리포니아를 황폐화시킨 모든 갈등은 너무나 많은 것을 파괴하고 많은 사람들을 전보다 더 가난하게 만들었습니다. 실업률을 낮추고 경제를 활성화시키기 위해, 우리는 공화국을 개선하기 위한 대규모 공공 사업 프로그램을 시작할 것입니다. 우리가 그리폰족을 더 이롭게 하기 위해 그녀를 구체화시키듯이 자연 자신도 우리의 발톱으로 구부러질 것입니다."
  FAT_socialized_healthcare:0 "의료보험 사회화"
- FAT_socialized_healthcare_desc:0 "너무 오랫동안 우리는 아픈 사람들을 무시했고, 그들의 운명을 함께 하지 않기를 기도했습니다.  이제 할 수 있게 되었으니, 우리는 모든 시민들에게 가능한 최고의 의료 서비스를 제공해야 합니다. 모든 삶이 소중하기 때문에, 아프고 다친 사람들은 보살핌을 받을 것입니다. 나아가 우리의 사회주의 번영을 세계에 보여주면서 무상보건을 존재의 권리로서 봉안할 것입니다
+ FAT_socialized_healthcare_desc:0 "너무 오랫동안 우리는 아픈 사람들을 무시했고, 그들의 운명을 함께 하지 않기를 기도했습니다.  이제 할 수 있게 되었으니, 우리는 모든 시민들에게 가능한 최고의 의료 서비스를 제공해야 합니다. 모든 삶이 소중하기 때문에, 아프고 다친 사람들은 보살핌을 받을 것입니다. 나아가 우리의 사회주의 번영을 세계에 보여주면서 무상보건을 존재의 권리로서 봉안할 것입니다."
  FAT_guarantee_a_job:0 "고용 보장"
  FAT_guarantee_a_job_desc:0 "자본주의적 생산방식의 본질은 일부 노동자들을 혹사시키고 나머지는 실업자들의 예비군으로 유지하는 것입니다. 그러나 우리가 부를 모아 결속력을 갖추면 모든 그리폰은 그들의 능력에 따라 기여하고 그들의 필요에 따라 받을 수 있습니다."
  FAT_industrial_unionism:0 "산업노동조합 지원"
@@ -1110,15 +1110,15 @@ l_english:
  FAT_industry_for_the_workers_desc:0 "그리폰은 더 이상 탐욕스럽고 계획적인 고용주들에게 이용당하지 않을 것입니다. 새로운 노동법은 노동자들에게 힘을 실어주고 산업계를 그들의 발톱으로 몰아넣을 것이며, 마침내 공장에서 노예를 칭송하던 시대는 막을 내릴 것입니다. 합리적인 교대근무와 시간외 근무법, 안전수칙, 유급병일 등은 그리폰의 일상 생활을 개선해 줄 것입니다."
  #Militarist Tree
  FAT_president_kemerskai_jr:0 "케머스카이 주니어 총통" #포퓰리스트이자 군국주의자, 케머스카이의 아들
- FAT_president_kemerskai_jr_desc:0 "대중의 지지를 받으며, 알렉산더 케머스카이 주니어가 의기양양하게 승리했습니다. 그의 강령은 더 강력한 중앙정부와 공화국과 시민들을 보호하기 위해 기꺼이 과감한 행동을 취할 수 있는 강력한 대통령의 필요성을 강조합니다.
+ FAT_president_kemerskai_jr_desc:0 "대중의 지지를 받으며, 알렉산더 케머스카이 주니어가 의기양양하게 승리했습니다. 그의 강령은 더 강력한 중앙정부와 공화국과 시민들을 보호하기 위해 기꺼이 과감한 행동을 취할 수 있는 강력한 대통령의 필요성을 강조합니다."
  FAT_continue_industrialization:0 "시골 지역 산업화 지속"
  FAT_continue_industrialization_desc:0 "우리나라의 안보를 유지하기 위해서는 새로운 산업경제의 창출이 필요합니다. 현대 기술은 우리의 토지와 자원을 최대한 활용하기 위해 더 큰 효율성을 요구합니다. 진보는 진군하고, 우리는 뒤쳐질 여유가 없습니다."
  FAT_redistribute_noble_wealth:0 "귀족들의 부 재분배"
  FAT_redistribute_noble_wealth_desc:0 "그리포니아의 부와 권력은 너무 오랫동안 부패한 귀족들에 의해 독점되어 왔습니다. 사회에 대한 그들의 정치적 독점은 깨졌지만, 이 귀족들은 그들의 부당함에 대해 아직 제대로 대가를 지불하지 않았습니다. 그들의 부는 이제 몰수당하고, 인민들 사이에서 분배됩니다."
  FAT_guarantee_prosperity:0 "뒤처지는 그리폰이 없게"
- FAT_guarantee_prosperity_desc:0 "공화국의 땅은 풍요롭고 풍족하며, 우리 시민들은 덕이 있고 부지런합니다. 그런 풍요로움을 누린 나라가 국민을 위해 봉사하지 않는 것은 용서할 수 없는 일이 될 것입니다. 그것은 모든 시민의 번영을 보장하는 우리의 의무입니다.'
+ FAT_guarantee_prosperity_desc:0 "공화국의 땅은 풍요롭고 풍족하며, 우리 시민들은 덕이 있고 부지런합니다. 그런 풍요로움을 누린 나라가 국민을 위해 봉사하지 않는 것은 용서할 수 없는 일이 될 것입니다. 그것은 모든 시민의 번영을 보장하는 우리의 의무입니다."
  FAT_antagonize_equestria:0 "이퀘스트리아 대적"
- FAT_antagonize_equestria_desc:0 "이퀘스트리아 사람들은 자유와 평등을 믿는다고 주장하면서 그들의 "신성한" 공주를 숭배합니다. 비록 그들이 역사적으로 자유를 위한 싸움에 대해 입에 발린 말을 했지만, 그들의 위선은 모든 사람들이 볼 수 있도록 항상 명백했습니다. 이제부터 우리는 이퀘스트리아에 대한 진실을 말하는 것을 더 이상 자제하지 않을 것입니다
+ FAT_antagonize_equestria_desc:0 "이퀘스트리아 포니들은 자유와 평등을 믿는다고 주장하면서 그들의 "신성한" 공주를 숭배합니다. 비록 그들이 역사적으로 자유를 위한 싸움에 대해 입에 발린 말을 했지만, 그들의 위선은 모든 사람들이 볼 수 있도록 항상 명백했습니다. 이제부터 우리는 이퀘스트리아에 대한 진실을 말하는 것을 더 이상 자제하지 않을 것입니다."
  FAT_reach_out_to_nova_griffonia:0 "노바 그리포니아에 접근"
  FAT_reach_out_to_nova_griffonia_desc:0 "바다 건너에 사는 우리의 사촌들은 폭정과 군주제에 맞서 싸우는 우리의 투쟁을 함께 합니다. 동맹에 대한 제안을 그들에게 전달하는 것이 현명할 것입니다. 그러한 동맹은 공화주의가 대륙에 힘을 유지하도록 보장해 줄 것입니다."
  FAT_bolster_the_military:0 "군대 강화"
@@ -1283,7 +1283,7 @@ l_english:
  griffonRepublic.55.d:0 "제국의 미숙함에서 탄생한 많은 예비국가들 중 하나가 우리에게 공화국의 회원국으로 가입하고, 우리는 그들에게 제한된 자치권을 부여하고, 그들 자신의 선출된 지도자를 갖기로 동의했지만, 그들은 우리의 동맹국이며, 외교 정책, 군사, 과학, 경제에 관한 한 우리와 함께 합니다. "
  griffonRepublic.55.a:0 "아주 좋아, 하나의 잠재적인 독재 정권이 줄어들었어."
  
- griffonRepublic.56.t:0 "권리를 가진 주들이 통합을 거부함
+ griffonRepublic.56.t:0 "권리를 가진 주들이 통합을 거부함"
  griffonRepublic.56.d:0 "우리와 함께 서 있는 가식적인 국가 중 한 곳이 우리에게 무릎을 꿇기를 거부합니다. 만약 우리가 주요 국가로서의 명성을 유지하기를 원한다면, 우리는 그것을 처벌받지 않고 내버려 두어서는 안 됩니다. "
  griffonRepublic.56.a:0 "그들을 우리 세력에서 추방하라, 그것이 더 좋을 것이다, 우리는 그들을 더 처벌하기로 결정하지 않았습니다."
  griffonRepublic.56.b:0 "지금은 필요하지만 우리는 기억할 것입니다, 하지만 그러지 않는 한..."
@@ -1377,7 +1377,7 @@ l_english:
  griffonRepublic.83.t:0 "베라니와 실패한 혁명"
  griffonRepublic.83.d:0 "역사상 두 번째로 아퀼레이아의 그리폰들이 자유와 민주주의를 위해 싸웠고, 두 번째로 그들의 노력이 허사가 됐습니다. 아퀼레이아 공화국은 다시 부패한 귀족들의 먹잇감으로 전락했고, 영웅적이고 용감한 많은 전사들이 죽었습니다.\n\n공화국의 패배 이후 모든 아퀼레이아 혁명가들이 잡힌 것은 아닙니다. 혁명의 지도자 테오도라 베라니는 바다로 탈출해서 간신히 적군을 피했습니다. 그는 우리 항구 중 하나에 도착했고, 그의 용맹한 마음속에서는 여전히 혁명의 불길이 타오르고 있습니다. 그는 우리에게 피난처를 허락해 달라고 부탁하며 여기서 민주주의와 자유를 위한 싸움을 계속하게 해달라고 요청했습니다. 의심할 여지 없이 그런 노련하고 용감한 혁명가는 우리 공화국에 훌륭한 보탭이 될 것이고, 군대를 이끌기 더 좋은 지도자가 될 것입니다."
  griffonRepublic.83.a:0 "우리는 그를 두 팔 벌려 환영한다!"
- griffonRepublic.83.b:0 "그의 혁명은 실패했어. 왜 우리가 그를 상대해야 하지??"
+ griffonRepublic.83.b:0 "그의 혁명은 실패했어. 왜 우리가 그를 상대해야 하지?"
 
  griffonRepublic.85.t:0 "그리펜하임을 요구하는 그리포니아 공화국"
  griffonRepublic.85.d:0 "옛 그리포니아 제국의 평화조약으로 그리펜하임을 합병한 이후, 그리포니아 공화국은 그리펜하임을 그들에게 돌려줄 것을 요구하는 외교 메세지를 보냈습니다. 그들의 주장에 의하면 도시는 원래 그들의 수도였고 혁명이 처음 결실을 맺은 상징적인 도시라고 합니다. 둘 다 아주 짧은 기간만이었지만 말입니다. 만약 우리가 그리펜하임을 그들에게 넘겨준다면 분명 우리와 그들 간의 상당한 관계 증진이 이루어질 것입니다. 하지만 우리가 정말 그럴 필요가 있을까요?"
@@ -1584,17 +1584,17 @@ l_english:
  griffonRepublic.235.d:0 "어린 황제 그로버 6세. 혁명의 파괴자 집정관 에로스 7세. 스트로베리 공작인 가브리엘라 이글클로. 공국의 후계자 에드무레 이글클로. 귀족 장군 엘리아스 브론즈테일. 브론즈힐의 황제의 개 이그나티우스. 모두가 단두대로 불려갔고 그들에게 정의가 구현되었습니다.\n\n놀랍게도 국민들은 그리포니아 공화국을 무너뜨리고 퇴폐적인 과두정의 군주정치에 의지한 최악의 반역자들에게 정의가 내려지자 환호성과 환희의 외침을 건넸습니다. 그리펜하임의 구석구석에 주황, 노랑, 주황의 삼색선인 그리포니아 공화국의 국기가 꽃혀 있었고, 옆에는 라인하르트 선테일의 조직인 그리포니아 민족혁명전선의 상징이 있었습니다.\n\n오늘은 선테일의 생애 최고의 날이었습니다. 마침내 그는 자신의 위대한 공화국에 대한 범죄를 복수했습니다. 알렉산더 케머스카이의 약한 통치를 타도하고, 공화국을 범그리포니아와 반왕당파로 탈바꿈했고, 이제 그는 케머스카이가 하지 못했던 일을 완수했습니다. 반혁명 세력은 파괴되었고, 집정관, 어린 황제, 스트로베리의 음흉한 귀족들, 브론즈힐의 개들 모두 신과 그리폰에게 저지른 범죄들의 대가를 받았습니다. 승리가 이루어졌습니다."
  griffonRepublic.235.a:0 "보레아스의 뜻으로..."
 
- griffonRepublic.236.t:0 "The Fate Of Bronzehill"
- griffonRepublic.236.d:0 "The diamond dogs. The traitors. The imperial puppets. In the Second and the First Revolutions, they slaughtered thousands upon thousands of Republican soldiers for the misguided goal of protecting their Emperor - it is time for them to pay for their heinous crimes. The dogs have shown no loyalty for the principles of liberty, democracy, and prosperity, and there are little among their ranks that have ever cared for a free Griffonian republic. Established as a nation of freed slaves, they have become slaves by a different name - slaves to the will of the despotic and decadent Griffonian Emperors.\n\nSuntail has decreed that thousands of diamond dog nobles would be exiled to Diamond Mountain and the River Federation, along with numerous generals who had participated against the Republicans. "The Decree on the Rights of the Diamond Dogs" was passed in the Republican parliament unanimously, forcing Diamond Dogs in Bronzehill into segregated systems controlled by the Griffon population. Despite an official condemnation by the River Federation and Diamond Mountain, Suntail has continued Diamond Dog segregation and exile, stating that "the Federation does not understand the magnitude of the crimes that these godless dogs have committed upon us."."
- griffonRepublic.236.a:0 "Excellent."
+ griffonRepublic.236.t:0 "브론즈힐의 운명"
+ griffonRepublic.236.d:0 "다이아몬드 독. 배신자들. 황제의 꼭두각시들. 첫번째와 두번째 혁명에서 그들은 그들의 황제를 보호하겠다는 잘못된 목표를 위해서 수천 명의 공화군을 학살했습니다. 이제 그들의 극악무도한 범죄의 대가를 치를 때입니다. 개들은 자유, 민주주의, 번영의 원칙에 충성심을 보이지 않았고, 그들의 계급 중 거의 누구도 그리포니아 자유공화국에 관심을 가지지 않았습니다. 해방된 노예들은 전제적이고 퇴폐적인 그리포니아 황제들의 뜻에 따라 또다시 노예가 되었습니다.\n\n선테일은 수천 명의 다이아몬드 독 귀족들은 공화국에 대항한 수많은 장군들과 함께 다이아몬드 마운틴과 리버 연방으로 추방시키기로 했습니다. 공화국 의회에서 만장일치로 통과된 "다이아몬드 독의 권리에 관한 법령"은 브론즈힐의 다이아몬드 독들을 그리폰이 통제하는 분리 체제로 밀어넣었습니다. 리어 연방과 다이아몬드 마운틴의 공식적인 비난에도 불구하고 선테일은 "연방이 이 신을 저버린 개들이 우리에게 저지린 범죄의 심각성을 이해하지 못한다"며 다이아몬드 독의 분리 및 유배를 지속해 왔습니다."
+ griffonRepublic.236.a:0 "훌륭해."
 
- griffonRepublic.237.t:0 "Griffonian National Republic Exiles Bronzehill Nobility"
- griffonRepublic.237.d:0 "Disturbing knowledge has arrived from the Griffonian National Republic, now in control of the Imperial City and the Diamond Dog Duchy of Bronzehill. The National Republic, which is fiercely pro-Griffon and detests the Diamond Dogs for their actions in preventing Republican victory in the Griffonian Revolution, where they sided with the Imperials, has exiled thousands and thousands of prominent diamond dogs and nobles, which have now arrived in the Diamond Mountain, where they were once exiled from years before.\n\nAlthough it is ironic that the dogs have come back to us after so long, is is more disturbing that the griffons would even do such a thing to our brethren. We must stay ever-vigilant in the fight against this new "National Republic", which is no different from that of Hellquill or Longsword. They are genocidal maniacs, and they must be stopped."
- griffonRepublic.237.a:0 "These crimes will not be forgiven."
+ griffonRepublic.237.t:0 "그리포니아 국가공화국이 브론즈힐 귀족들을 추방하다"
+ griffonRepublic.237.d:0 "그리포니아 국가공화국에서 충격적인 소식이 날아왔습니다. 이제 제국 도시와 다이아몬드 독의 브론즈힐 공국을 통치하는 국가공화국은 강력한 친그리폰 성향이자 그리포니아 혁명에서 공화국의 승리를 막은 다이아몬드 독에 강한 혐오를 가지고 있었고, 이번에 그들은 수천 명의 저명한 다이아몬드 독들과 귀족들을 추방해 한때 유배당했던 다이아몬드 산에 도착했습니다.\n\n비록 개들이 그렇게 오랜 시간 후에 우리에게 돌아왔다는 게 아이러니하긴 하지만, 그리폰들이 우리의 형제들에게 그런 짓을 한다는 게 더 불안합니다. 헬퀼이나 롱스워드와 다를 바가 없는 이 새로운 국가공화국과의 싸움에서 우리는 끊임없이 투쟁해야 합니다. 그들은 집단 학살광들이고, 우리는 반드시 막아야 합니다."
+ griffonRepublic.237.a:0 "이 범죄는 절대 잊혀지지 않으리라."
 
- griffonRepublic.238.t:0 "The New Dream"
- griffonRepublic.238.d:0 "Claus Rosewing had finally done it. The constitutional monarchy thought impossible by the revolutionaries of 978 had been brought to Cloudbury and the Republic, and the nation has prospered under Rosewing's capable statsministership and Oskar's benevolent reign.\n\nKemerskai always told Rosewing that a constitutional monarchy would always result in the same corrupt hierarchy of the Griffonian Empire, but he was wrong - he had always been wrong. The parliamentary system - with Sivenhof's Natives' Rights Party, Rosewing's Constitutionalist Party, and Saxhagen's Traditionalist Party, was in a better state than the Republic's one-party dictatorship, where only the NRP reigned supreme. There was no socialism, no vicious fascism of Suntail and Stormfeather, only democracy and liberty, and the people truly loved the monarchy that had returned the principles to them. While at first they had booed Oskar Plumenjar, now, they saluted at his every step, and cheered when Claus Rosewing walked by with him.\n\n The three principles had truly been brought to the Republic, but this time, under the banner of the people's monarch and his loyal statsminister, not a charismatic but ruthless dictator who shattered the Republic beneath his iron fist and corrupt Republican ideology."
- griffonRepublic.238.a:0 "Liberty, democracy, prosperity, and monarchy!"
+ griffonRepublic.238.t:0 "새로운 꿈"
+ griffonRepublic.238.d:0 "클라우스 로즈윙이 마침내 해냈습니다. 978년 혁명가들에 의해 불가능하다고 생각되던 입헌군주제가 클라우드버리 공국에게 주어졌고, 국가는 로즈윙의 유능함과 오스카의 자비로운 통치 하에 번영했습니다.\n\n케머스카이는 항상 로즈윙에게 입헌군주제는 그리포니아 제국의 부패한 위계질서를 초래한다고 말했지만, 그는 틀렸습니다. 그는 항상 틀렸습니다.  지벤호프의 토착민권리당, 로즈윙의 헌법주의당, 작센의 전통주의당 등 의회제도는 국민공화당만이 최고로 군림하던 일당독재보다 더 나은 상태였습니다. 사회주의도 없고, 선테일과 스톰페더의 악랄한 파시즘도 없고, 오직 민주주의와 자유만이 있을 뿐이었고, 국민들은 그들에게 원칙을 돌려준 군주제를 진정으로 사랑했습니다. 처음에 그들은 오스카 플루멘자르에게 야유를 보냈지만, 이제 그들은 그가 가는곳마다 경례를 했고, 로즈윙이 그와 함께 지나갈 때마다 환호를 보냈습니다.\n\n삼원칙이 공화국에게 전해졌지만, 이번에는 철혈통치로 공화국을 산산조각낸 무자비한 독재자가 아닌 카리스마 넘치는 국민의 왕정이자 충실한 장관의 국가에게 전해졌습니다."
+ griffonRepublic.238.a:0 "자유, 민주주의, 번영, 그리고 왕정!"
  
  griffonRepublic.239.t:0 "의회를 재개하다"
  griffonRepublic.239.d:0 "986년 알렉산더 케머스카이 총통이 헌법을 정지시킨 이후 처음으로 클라우드버리에서 의회 선거가 시작되었고, 공화국 전역의 정치가들과 운동가들이 좌파, 우파, 중도파를 가리지 않고 지역적 지위를 위해 출마했습니다.\n\n심지어는 비 국민공화당 출신 정당들, 예를 들면 자유민주당, 친이퀘스트리아 조화정당, 그리고 클라우드버리 그리폰들이 이끄는 토착민권리당도 약간의 의석을 얻었지만, 당연하게도 국민공화당이 의회 의석의 과반수를 차지했습니다.\n\n그러나 이 의석들은 국민공화당 내부의 서로 다른 파벌들로 나누어져 있었기에, 안정된 정치 상황을 만들기 위해서는 당 내에서 연합이 이루어져야 할 것입니다. 좌파, 중도파, 우파 모두가 연합 협상에 참여함에 따라 공화국은 곧 연립여당 체제를 갖추게 될 것으로 보입니다."
@@ -2107,9 +2107,9 @@ FAT_republican_pact_desc:0 "If one country in the Pact is attacked by [GRI.GetNa
  #FAT_mandatory_military_service:0 "Mandatory Military Service"# Identical duplicate from Eaw
  FAT_autonomous_reform:0 "자치주의"
  FAT_no_griff_left_behind:0 "모두를 위한 고용"
- FAT_skepticism_on_all_sides:0 "모든 방면의 회의감"
- FAT_skepticism_on_all_sides2:0 "모든 방면의 회의감"
- FAT_skepticism_on_all_sides3:0 "모든 방면의 회의감"
+ FAT_skepticism_on_all_sides:0 "모든 방면으로의 회의감"
+ FAT_skepticism_on_all_sides2:0 "모든 방면으로의 회의감"
+ FAT_skepticism_on_all_sides3:0 "모든 방면으로의 회의감"
  FAT_lower_taxes:0 "로즈윙의 감세"
  FAT_new_identity:0 "클라우드버리-헤르츠란트 정체성"
 ### Country Flags ###
