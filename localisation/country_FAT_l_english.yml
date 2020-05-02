@@ -1044,7 +1044,7 @@
  FAT_the_first_griffonian_elections:0 "첫 번째 범그리포니아 선거"
  FAT_the_first_griffonian_elections_desc:0 "그리포니아를 가로지르는 우리의 정복은 이제 끝났으니, 스카이나비아에서 그리폰스톤에 이르는 후보들이 경쟁할 수 있는 공화국의 두 번째 선거를 발표하는 것이 급선무입니다. 사회민주당과 자유주의자, 조화주의자, 보수주의자, 사회주의자 모두 허심탄회한 입장을 밝혔습니다. 역사상 처음으로 그리포니아 국민의 50% 이상이 자유선거에서 투표할 수 있게 됩니다."
  #socdem-liberal paths, 여기에는 여러 명의 대통령이 있을 수 있기 때문에 일반적인 어조로 글을 쓴다.
- FAT_president_guildedwing:0 "총통 길데윙" ##사회민주주의, 스카이폴 조화주의자
+ FAT_president_guildedwing:0 "길데윙 총통" ##사회민주주의, 스카이폴 조화주의자
  FAT_president_guildedwing_desc:0 "놀라운 결과입니다, 스카이폴에서 나온 제네비브 길데윙이 의기양양하게 승리했습니다. "보편적인 그리폰의 처우 개선은 물론 고착된 국민공화당 우위에 맞설 것을 약속하면서, 그녀는 확실히 그녀의 일을 잘 해내고 있습니다."
  FAT_share_our_wealth:0 "부를 공유하다"
  FAT_share_our_wealth_desc:0 "정부가 우리 땅 전역에 식량, 옷, 피난처가 남아 있을 때 그렇게 많은 시민들이 비참한 가난 속에서 고통 받도록 허용하는 것은 도덕적으로 잘못된 것입니다. 모든 시민들에게 적절한 생활수준을 제공하는 것이 절실합니다."
@@ -1060,7 +1060,7 @@
  FAT_open_up_the_political_system_desc:0 "비록 공화국의 이전 지도자들이 항상 자유를 숭상한다고 주장해왔지만, 그것이 그들이 지속적으로 불편하게 여겨온 유일한 자유가 사상의 자유인 것 같습니다. 반대하는 사람들은 더 이상 침묵하거나 특정 정당을 형성하는 것이 금지되지 않을 것입니다. 모든 목소리가 들리게 하세요!"
  FAT_a_second_sunglider_term:0 "선글라이더의 두번째 임기" ##이상적이고 군국적 사회민주주의, 공화국 조화주의자
  FAT_a_second_sunglider_term_desc:0 "슈나벨 선글라이더의 용기 있는 관리력은 자유를 위한 정의로운 성전을 통해 공화국을 지켜봤지만, 그의 일은 아직 끝나지 않았습니다. 두번째 임기, 그리고 모든 것이 우리 국민들을 위해 올바르게 설정될 수 있습니다. 자유, 민주주의, 번영을 위해서!"
- FAT_president_verany:0 "베라니 총통" #자유주의자, 아퀼레이아 조화주의자
+ FAT_president_verany:0 "베라니 총통" ##자유주의자, 아퀼레이아 조화주의자
  FAT_president_verany_desc:0 "아킬레이아 혁명의 영웅인 테오도르 베라니는 보다 공정하고 정의로운 민주주의를 향한 영감을 주는 비전 덕분에 인기가 치솟았습니다. 가난한 사람들을 돕겠다는 그의 약속이 그를 승리로 이끈 것이지만, 이러한 약속들을 끝까지 따르는 것은 어려운 일이 될 것입니다."
  FAT_helping_the_little_griffons:0 "그리폰들을 돕기"
  FAT_helping_the_little_griffons_desc:0 "시민들을 돌보고 그들이 건강관리, 음식, 주택에 접근할 수 있도록 보장하는 것은 국가의 책임입니다. 사회보장 프로그램은 신분과 상관없이 모든 그리폰이 기본적인 욕구를 충족시킬 수 있도록 보장해 줄 것입니다."
@@ -1109,7 +1109,7 @@
  FAT_industry_for_the_workers:0 "도시 플랫폼"
  FAT_industry_for_the_workers_desc:0 "그리폰은 더 이상 탐욕스럽고 계획적인 고용주들에게 이용당하지 않을 것입니다. 새로운 노동법은 노동자들에게 힘을 실어주고 산업계를 그들의 발톱으로 몰아넣을 것이며, 마침내 공장에서 노예를 칭송하던 시대는 막을 내릴 것입니다. 합리적인 교대근무와 시간외 근무법, 안전수칙, 유급병일 등은 그리폰의 일상 생활을 개선해 줄 것입니다."
  #Militarist Tree
- FAT_president_kemerskai_jr:0 "케머스카이 주니어 총통" #포퓰리스트이자 군국주의자, 케머스카이의 아들
+ FAT_president_kemerskai_jr:0 "케머스카이 주니어 총통" ##포퓰리스트이자 군국주의자, 케머스카이의 아들
  FAT_president_kemerskai_jr_desc:0 "대중의 지지를 받으며, 알렉산더 케머스카이 주니어가 의기양양하게 승리했습니다. 그의 강령은 더 강력한 중앙정부와 공화국과 시민들을 보호하기 위해 기꺼이 과감한 행동을 취할 수 있는 강력한 대통령의 필요성을 강조합니다."
  FAT_continue_industrialization:0 "시골 지역 산업화 지속"
  FAT_continue_industrialization_desc:0 "우리나라의 안보를 유지하기 위해서는 새로운 산업경제의 창출이 필요합니다. 현대 기술은 우리의 토지와 자원을 최대한 활용하기 위해 더 큰 효율성을 요구합니다. 진보는 진군하고, 우리는 뒤쳐질 여유가 없습니다."
@@ -1428,9 +1428,9 @@
  griffonRepublic.97.d:0 "Outrage! [From.GetLeader] has declined us our rightful place in the alliance. We have, naturally, promptly left that "group"."
  griffonRepublic.97.a:0 "We will make our own faction! With blackjack!"
 
- #griffonRepublic.200.t:0 "The Counter-Revolution"
- #griffonRepublic.200.d:0 "There were some reactionaries who refused to let the regime be taken by the socialists. Among them was Maximillian Valstus Whitefeather, one of the most prominent members of the Old Guard and staunch constitutionalist, believing that the government needed a strong ruler to lead it into the Republican future. Whitefeather's troops seized most of the northern Republic, allying with conservative leader Heinrich Kingfeather. The rebellion is also thought to have spread into areas of Skynavia, where Governor Asper Sickleclaw has pledged his full loyalty to the Republic in the troubles against the Whitefeather regime. Kemerskai has delivered a speech to the people of the nation, declaring that the Republic will never perish from this earth, and ended his speech with the line "While cowards flinch and traitors sneer, we'll keep the tricolour flying here!", a reference to a popular patriotic song, "The Tricolour." The government has claimed the revolutionaries will be crushed, but much of the populace is not so sure."
- #griffonRepublic.200.a:0 "Rev up the engines. We're going to war."
+ #griffonRepublic.200.t:0 "역혁명"
+ #griffonRepublic.200.d:0 "사회주의자들에 정권을 빼앗기는 것을 거부하는 반동도 있었습니다. 그 중에는 보수파의 가장 저명한 멤버이자 확고한 입헌주의자 중 한 명인 막시밀리안 발스투스 화이트페더가 있었는데, 그는 정부가 공화당의 미래로 이끌 강력한 통치자가 필요하다고 믿습니다. 화이트페더의 부대는 보수적인 지도자 하인리히 킹페더와 함께 북부 공화국의 대부분을 점령했습니다. 반란은 또한 스카이나비아 지역까지 번진 것으로 생각되는데, 아스퍼 시클클로 주지사는 화이트페더 정권에 대항하는 문제에서 공화국에 대한 완전한 충성을 맹세했습니다. 케머스카이는 이 땅에서 공화국이 결코 멸망하지 않을 것이라고 선언하는 연설을 한 뒤, 인기있는 애국적 노래인 "삼색기"를 지칭하는 "비겁한 배신자들이 비웃는 동안, 우리는 여기서 삼색기를 계속 휘날릴 것입니다!"라는 말로 연설을 끝냈다. 정부는 혁명가들이 진압될 것이라고 주장했지만, 많은 대중들은 그다지 확신하지 못하고 있습니다."
+ #griffonRepublic.200.a:0 "엔진을 회전시켜라. 우리는 전쟁을 할 것이다"
 
  griffonRepublic.201.t:0 "국민공화당 우파의 운명"
  griffonRepublic.201.d:0 "케머스카이 정부에 대한 불신임 투표와 국민공화당 우파에 충성하는 장군들의 지속적인 행동 이후, 실용주의 정책을 지지하며 적대적인 통일 전쟁을 피하고 가급적 클라우드버리에 머무르며 위험을 무릅쓰지 않으려는 권위주의적인 우파 의원들을 어떻게 할 것인가에 대한 문제가 대두되었습니다. 그들을 이끄는 자는 하인리히 킹페더로, 그는 케머스카이의 헌법 중단과 전제정치를 지지했습니다.\n\n그들이 우리의 정부에서 숙청되지 않으면 우리의 새 민주사회주의 정부에 위협이 될 수도 있습니다. 하지만 이들과 동맹을 맺어 국민공화당을 전국 유일당으로 확보하고 이 어려운 시기에 국민들을 통합시키는 것이 더 유용할 수도 있습니다."
@@ -1494,54 +1494,54 @@
  griffonRepublic.215.d:0 "리카드 아스틀러는 페디시아 정치가 코흐헐을 포함한 민주주의자들 및 사회주의자들의 연합을 선언했습니다. 코흐헐은 아스틀러가 클라우드버리에서 그의 저서를 읽은 뒤 그의 극찬을 받은 바 있습니다. 아스틀러는 앙그리버의 공화주의자와 아나키스트 야당에게도 발톱을 흔들며 "역사상 처음으로 앙그리버 좌파를 통합했다"고 주장했습니다. 단 많은 그리폰들은 보수파와 아나키스트의 연합 가능성에 의문을 제기했습니다. 코흐헐과 아스틀러는 급진적이지만 사회주의자의 버팀목인 에리히 뮌슈나벨과 사이러스발 대학과도 동맹을 맺었습니다. 온건파, 민주주의자, 반통치주의자, 이론가들로 구성된 이 누더기 모임이 정치 권력을 얻을 수 있을 만큼 오랫동안 함께 할지는 미지수이지만 적어도 좌파를 결집시키는 데 있어서는 올바른 방향의 첫걸음인것 같습니다."
  griffonRepublic.215.a:0 "좌파 연합? 이 시대에 필요한 일이다!"
  
- griffonRepublic.216.t:0 "Peace, Land, and Bread"
- griffonRepublic.216.d:0 "Astler's economics are built upon the platform of peace, land, and bread. Each worker will be entitled to peace, both in his community and in the broader context of the nation. Each worker will be entitled to land, so that there is no boss overhead to opress them in a system of wage slavery. Each worker is entitled to bread, so that they can feed their family, and work without fear of starvation and death. In addition to the principles of liberty, democracy, and prosperity, these three priciples of socialism will also guide us to a greater future."
- griffonRepublic.216.a:0 "A new, socialist, society."
+ griffonRepublic.216.t:0 "평화,토지 그리고 빵"
+ griffonRepublic.216.d:0 "아스틀러의 경제학은 평화, 토지, 그리고 빵의 기반 위에 세워집니다. 모든 노동자들은 그의 지역 사회와 국가의 더 넓은 맥락에서 평화를 누릴 자격이 있습니다. 각 노동자들은 땅을 가질 권리가 있습니다. 그래서 임금 노예 제도에서 노동자들이 부양해야 할 주인도 없습니다. 각노동자들의 가족을 먹여 살릴 수 있고, 굶주림과 죽음의 두려움 없이 일을 할 수 있습니다. 자유, 민주주의, 번영의 원칙에 더해 이 세 가지 사회주의 원칙도 우리를 더 큰 미래로 인도해 줄 것입니다."
+ griffonRepublic.216.a:0 "새로운, 사회주의자, 사회"
 
- griffonRepublic.217.t:0 "Harmony For The Modern Era"
- griffonRepublic.217.d:0 "In a radio address heard by millions across the nation, President Schnabel Sunglider announced his new plan for the nation - harmony with republican characterists. In his address, Sunglider denounced the Equestrian monarchy for its inherently autocratic nature, where the two ruling ponies were not limited by any constitution and were even treated like deities by the common populace. The only thing preventing the immortal alicorns from abusing power was their benevolent nature, but that could easily change, and any successor to the throne was not guaranteed to be as kind as them. He then compared this to the system of divine right which the Griffonian Empire used to justify its legitimacy. In Sunglider's eyes, these two monarchies were one and the same - they were both unconstitutional empires that used religious undertones to convince the people into supporting them.\n\nSunglider's new plan, harmony with republican characteristics, would solve this by implementing "true democracy". A constitution would guarantee the right to free national elections and would implement a separation of powers, preventing abuse of power by any single body of government. Harmonic values themselves would be integral to the constitution as well, securing basic rights for all sentient beings in the republic and forbidding unharmonic things such as hate speech and sowing of dissent among the populace. Instead of a decentralized system of local democracies overseen by a ruler who can intervene at will, the new modern harmony would mean a strong, united republic founded on rule of law alone."
- griffonRepublic.217.a:0 "Equestria is a failed state. We can do better."
+ griffonRepublic.217.t:0 "현대 시대의 조화"
+ griffonRepublic.217.d:0 "전국 수백만 명이 청취한 라디오 연설에서 슈나벨 성라이더 대통령은 국가를 위한 새로운 계획, 즉 열정적 공화주의 들과의 화합을 발표했습니다. 선글라이더는 연설에서 이퀘스트리아 왕정이 본질적으로 독재적인 성격이라고 맹비난했는데, 두 지배적 알리콘은 어떤 헌법에 의해서도 제한되지 않았고 심지어 일반 대중들로부터 신처럼 취급받기도 했습니다. 불멸의 알리콘들이 권력을 남용하는 것을 막는 유일한 것은 그들의 자애로운 성격이었지만, 그것은 쉽게 변할 수 있고, 어떤 왕위 계승자도 그들처럼 친절할 것이라고 보장되지 않았습니다. 그리고 그는 이것을 그리포니아 제국이 그것의 합법성을 정당화하기 위해 사용했던 신성한 권리의 체계와 비교했습니다. 선글라이더의 눈에, 이 두 군주제는 하나이고 똑같습니다 - 그들은 둘 다 종교적인 저의를 사용하여 사람들을 설득하여 그들을 지지하도록 하는 위헌적인 제국이었다.\n\선글라이더의 새로운 계획, 공화주의 특성과의 조화, "진정한 민주주의"를 구현함으로써 이 문제를 해결할 것입니다. 헌법은 자유 선거권을 보장하고 삼권 분립을 실시하여 어떤 단일 정부 기관에 의한 권력 남용을 방지합니다. 조화적 가치 자체는 헌법에도 필수적이며, 공화국의 모든 지각 있는 존재들에게 기본권을 보장하고, 혐오 발언이나 민중들 사이에 반대의 씨를 뿌리는 것과 같은 비파적 행위를 금지할 것입니다. 마음대로 개입할 수 있는 통치자가 감독하는 지방 민주주의의 분권형 제도 대신, 새로운 근대적 조화는 법치주의에 입각한 강력하고 통일된 공화국을 의미할 것입니다."
+ griffonRepublic.217.a:0 "이퀘스트리아는 실패한 국가다. 우리는 더 잘할 수 있다."
 
- griffonRepublic.218.t:0 "Prosperity For The Griffons"
- griffonRepublic.218.d:0 "The third but arguably the most important Republican principle is prosperity. The principle of prosperity states that no griffon will be left to the dogs or oppressed by feudal masters at work - every griffon is entitled to a home, a living wage, and a life free from servitude. Any griffon should be able to start their own business and achieve their own dream, but in recent years, this has been sorely lacking, and poverty has only increased. To rectify this, we must continue welfare programs and tax cuts on former Griffonian peasants, ensuring them a living wage and a life free from the poverty the Imperials imposed on them. To pay for these ambitious new social programs, we will hike taxes on the former nobles of the lands, and conduct land reform and even seizure on underworked lands controlled by Griffonian oligarchs. Only then can we liberate our people, and truly achieve prosperity for all griffons."
- griffonRepublic.218.a:0 "Our people shall no longer know poverty."
+ griffonRepublic.218.t:0 "그리폰들을 위한 번영"
+ griffonRepublic.218.d:0 "세 번째이지만 틀림없이 가장 중요한 국민공화당의 원칙은 번영입니다. 번영의 원칙은 어떤 그리폰도 개들에게 맡겨지거나 직장에서 봉건적 주인들에게 억압당하지 않을 것이라고 명시하고 있습니다 - 모든 그리폰은 집, 생활임금, 그리고 비굴함이 없는 삶을 누릴 자격이 있습니다. 어떤 그리폰이라도 창업해서 꿈을 이룰 수 있어야 하는데, 최근 몇 년 사이 이마저도 턱없이 부족해졌고 빈곤만 늘어났습니다. 이를 바로잡기 위해, 우리는 전 그리포니아 농민들에 대한 복지 프로그램과 감세를 계속하여, 제국주의자들이 그들에게 가한 생활임금과 빈곤으로부터 자유로운 삶을 보장해야 합니다. 이러한 야심찬 새로운 사회 프로그램에 대한 비용을 지불하기 위해, 우리는 이 땅의 옛 귀족들에게 세금을 인상하고, 그리포니아 과두 정치인들이 통제하는 과소노동된 땅에 대한 토지 개혁과 압류까지도 실시할 것입니다. 그래야 우리 국민을 해방시킬 수 있고, 모든 그리폰의 번영을 진정으로 이룰 수 있습니다."
+ griffonRepublic.218.a:0 "우리 인민은 더 이상 가난을 알지 못할 것입니다."
 
- griffonRepublic.219.t:0 "Divisions in the NRP"
- griffonRepublic.219.d:0 "The National Republican Party was once a unified faction, back when the only thing on most politicians' minds was the survival of the Republic. But with the Republic in control of Griffenheim, NRP divides have only strengthened. Socialists believe that the NRP's principle of prosperity is incompatible with the conservative wing of the party, while the conservatives believe the socialists are undermining the principle of liberty with their anti-free market stance. With harmonists and democrats mostly in the middle, they have tried hard to mend the divide and assure both sides that the values of the Republic are being protected, but to no avail. Sometimes, parliament members even brawled with their fellow partygriffs due to conflicts in economic stances! With the climate growing more polarized by the day, we risk a splinter wing forming off the NRP, and undermining our legitimacy. Some griffons claim that it is necessary to favor one wing and let the other go to stabilize the party, but others claim it is imperative that the party is unified, whatever the cost may be."
- griffonRepublic.219.a:0 "Cooperate with the conservatives."
- griffonRepublic.219.b:0 "Cooperate with the socialists."
- griffonRepublic.219.c:0 "Keep both factions in the party, at all costs!"
+ griffonRepublic.219.t:0 "국민공화당의 분열"
+ griffonRepublic.219.d:0 "국민공화당은 한때 통합되었고, 대부분의 정치인들이 생각하는 것은 공화국의 생존뿐이었습니다. 하지만 공화국이 그리펜하임을 장악하면서 국민공화당의 분열만 강화되었습니다. 사회주의자들은 국민공화당의 번영의 원칙이 당내 보수 진영과 양립할 수 없다고 보는 반면, 보수 진영에서는 반자유 시장 기조로 자유주의 원칙을 훼손하고 있다고 보고 있습니다. 조화주의자와 민주주의자들이 대부분 중도에 있는 상황에서, 그들은 분열을 바로잡고 양쪽에 공화국의 가치가 보호되고 있다는 것을 확신시키기 위해 열심히 노력했지만 소용이 없었습니다. 때때로, 국회의원들은 경제적 입장에서의 충돌로 인해 그들의 동료 당원들과 말다툼을 하기도 했습니다! 상태가 날로 양극화되면서, 국민공화당에서 떨어져 나온 가시가 있는 날개가 우리의 합법성을 해칠 위험이 있습니다. 어떤 그리폰은 한쪽 날개에 유리하게 대하고 다른 한쪽 날개는 놔둬야 당의 안정을 꾀할 수 있다고 주장하지만, 어떤 그리폰은 어떤 대가를 치르더라도 당의 단일화가 절실하다고 주장합니다."
+ griffonRepublic.219.a:0 "보수주의자와 협력하자"
+ griffonRepublic.219.b:0 "사회주의자와 협력하자."
+ griffonRepublic.219.c:0 "무슨 수를 써서라도 두 계파를 모두 당에 묶어라!"
  
- griffonRepublic.220.t:0 "The Pan-Griffonian Dream"
- griffonRepublic.220.d:0 "Sunglider is no stranger to the death of harmonic regimes - he saw the fledgeling republic die at Griffenheim, and participated in the long march north to the Duchy of Cloudbury. He has seen the death of his comrades, the lie of "peaceful harmony". "Peaceful harmony" has only given Sunglider the glory of seeing monarchist boots trample over his comrades, his friends. No. He will not stand and watch as dictatorships still rule in Griffonia. Now that he has the resources to attack the monarchies of the land, he will do so, and the brave Republican people will march on in pursuit of the three principles. Harmony will reign in Griffonia, and Kemerskai's dream will live on, through a united, Pan-Griffon state. It will not be under an empire any longer, but a free, republican state, where all griffons are created equal."
- griffonRepublic.220.a:0 "We shall liberate Griffonia!"
+ griffonRepublic.220.t:0 "범그리포니아 이상"
+ griffonRepublic.220.d:0 "선글라이더는 조화파 정권의 죽음에 낯설지 않습니다 - 그는 그리펜하임에서 이 신생 공화국이 죽는 것을 보고, 클라우드베리의 공국까지 북쪽으로 긴 행진에 참여했습니다. 동지들의 죽음, '평화로운 화합'의 거짓을 본 것입니다. '평화로운 조화'는 선글라이더에게 군주론자 군화가 동지, 친구들을 짓밟는 것을 보는 영광을 안겨주었을 뿐입니다. 아뇨, 그는 그리포니아에서 독재자들이 여전히 통치하고 있는 것을 좌시하지 않을 것입니다. 이제 그는 이 땅의 군주들을 공격할 재원을 확보했으니 그렇게 할 것이고, 용감한 공화주의 국민들은 세 가지 원칙을 좇아 전진할 것입니다. 그리포니아에서는 조화주의가 지배할 것이고, 케머스카이의 꿈은 연합된 범그리폰 주의를 통해 살아 남을 것입니다. 더 이상 제국이 아니라 모든 그리폰이 평등하게 탄생하는 자유 공화주의 국가가 될 것입니다."
+ griffonRepublic.220.a:0 "우리는 그리포니아를 해방 할 것이다!"
  
- griffonRepublic.221.t:0 "The Republic Forever"
- griffonRepublic.221.d:0 "Our Griffonian Republic faces many threats - even from within. On the international level, Wingbardy, Aquileia, Prywhen, and Griffonstone lurk in the south, all waiting to strike at our republic. The socialists and monarchists of the south plot in secret, making alliances and forging pacts against the Republic, wanting the vast riches of the Heartlands for themselves. Within our nation, socialists strike at our decade-old democracy, disregarding the principle of liberty with their beliefs in broad nationalizations and destruction of our free market, capitalist system. Their policies would no doubt collapse our economy and weaken our democracy, allowing their smily, charismatic leaders to sully our Republic and abolish republican rule under the false pretense of "restoring order". We, the NRP, understand what this Republic must become - a constitutional Republic, free from the evils of socialism, monarchy, or dictatorship."
- griffonRepublic.221.a:0 "For constitution and liberty!"
+ griffonRepublic.221.t:0 "공화국이여 영원하라"
+ griffonRepublic.221.d:0 "우리 그리포니아 공화국은 내부에서조차 많은 위협에 직면해 있습니다. 국제적으로는 윙바르디, 아퀼레이아, 프리웬, 그리폰스톤 등이 남쪽에 숨어있으며 모두 우리 공화국을 공격하기 위해 기다리고 있습니다. 남쪽의 사회주의자들과 군주론자들은 비밀리에 음모를 꾸미고, 동맹을 맺고 공화국에 대항하여 활동하며, 헤르츠란트의 막대한 부를 스스로 원했습니다. 우리 나라에서는 사회주의자들이 자유시장인 자본주의 체제의 광범위한 국유화와 파괴에 대한 그들의 신념으로 자유의 원칙을 무시한 채 10년 된 우리의 민주주의를 공격합니다. 그들의 정책은 틀림없이 우리 경제를 붕괴시키고 민주주의를 약화시킬 것이며, 그들의 매끄럽고 카리스마 있는 지도자들이 "질서 회복"이라는 거짓된 가식 아래 공화국을 모욕하고 공화정 통치를 폐지할 수 있게 할 것입니다. 국민공화당인 우리는 이 공화국이 사회주의, 군주제, 또는 독재의 폐해로부터 자유로운 입헌 공화국이라는 것을 이해합니다."
+ griffonRepublic.221.a:0 "헌법과 자유를 위해서!"
 
- griffonRepublic.222.t:0 "The Principles of Capitalism"
- griffonRepublic.222.d:0 "The economy of the Griffonian Republic has long been based on social-democratic principles. One of Kemerskai's major goals was to create a Griffonian welfare state, that would care for all griffons and guarantee them a home, food, and family. However, conservative economists in the government of Heinrich Kingfeather predict that our nation will fall into economic collapse with too much welfare spending, and that interest rates on Griffonian currency across the nation will spike! We cannot have this, and must roll back welfare reforms, instead relying on the meritocratic forces on the free market, which would ensure that griffons all had a chance to achieve as much wealth as possible. There will be no more burdensome regulations on the people of the Republic, nor welfare programs that condemn griffons to lives of decadence as they scrounge off government benefits. No! We will have a free market, capitalist economy, without the meddlings of socialism!"
- griffonRepublic.222.a:0 "Where any griffon can achieve his own dream."
+ griffonRepublic.222.t:0 "자본주의의 원칙"
+ griffonRepublic.222.d:0 "그리포니아 공화국의 경제는 오랫동안 사회 민주주의 원칙에 기초해 왔습니다. 케머스카이의 주요 목표 중 하나는 그리포니아 복지 국가를 만드는 것입니다. 그리폰은 모든 그리폰을 돌보고 그들에게 집, 음식, 가족을 보장해 줄 것입니다. 하지만, 하인리히 킹페더 정부의 보수적인 경제학자들은 우리나라가 너무 많은 복지 지출로 인해 경제 붕괴에 빠질 것이며, 전국의 그리포니아 통화에 대한 금리가 급등할 것이라고 예측하고 있습니다! 우리는 이것을 피할 수 없으며, 복지 개혁을 뒤로 물러야 합니다. 대신에 자유 시장의 성과주의 세력에 의존해야 합니다. 그리폰은 가능한 한 많은 부를 성취할 수 있는 기회를 가질 수 있습니다. 더 이상 공화국의 국민에 대한 부담스러운 규제도 없을 것이며 그리폰을 정부의 혜택에서 벗어나게하면서 퇴폐적 삶으로 몰아가는 복지 정책도 없을 것입니다. 안 됩니다! 우리는 사회주의 간섭꾼 없이 자유시장, 자본주의 경제를 갖게 될 겁입니다!"
+ griffonRepublic.222.a:0 "어떤 그리폰이라도 자신의 꿈을 이룰 수 있는 곳."
 
- griffonRepublic.223.t:0 "Expelling the NRP-Left"
- griffonRepublic.223.d:0 "Today, President Heinrich Kingfeather, protector of the Griffonian Republic and member of the right-wing of the National Republican Party, has today announced the expelling of the socialist faction of the party from the NRP. This faction, after finding themselves independent from the most powerful political party in all of Griffonia, initially splintered into many different warring factions. Eventually, days later, Rikard Astler formed the Socialist Party of Griffonia, uniting syndicalists, democratic socialists, and even disaffected social democrats in a large, big-tent, socialist party. With socialists purged from the party, the NRP has shifted to the right, and it will be much easier for us to pass our capitalist reforms. With a legal opposition, we can also begin further democratization of the Republic. The creation of a socialist opposition will be a stepping stone to the eventual building of a multi-party system."
- griffonRepublic.223.a:0 "Perfect."
+ griffonRepublic.223.t:0 "국민공화당 좌파 제명"
+ griffonRepublic.223.d:0 "오늘, 그리포니아 공화국의 수호자이자 국민 공화당의 우파 의원인 하인리히 킹페더 대통령은 국민공화당에서 당내 사회주의 계열의 제명을 발표했습니다. 이 파벌은 그리포니아 전체에서 가장 강력한 정당으로부터 독립한 후 처음에는 서로 다른 여러 파벌로 분열되었습니다. 결국 며칠 후, 리카드 애스틀러는 그리포니아 사회당을 결성하여 생디칼리스트들과 민주사회주의자들을 단결시켰고, 심지어 거대하고 큰 규모의 사회주의 정당에서 사회민주주의를 훼손하기도 했습니다. 사회주의자들이 당에서 숙청되면서 국민공화당은 우파로 옮겨갔고, 우리가 자본주의 개혁을 통과시키는 것이 훨씬 쉬워질 것입니다. 법적 반대가 있으면 공화국의 추가적 민주화도 시작할 수 있습니다. 사회주의 야당 창당은 궁극적인 다당제 구축의 디딤돌이 될 것입니다."
+ griffonRepublic.223.a:0 "완벽해."
  
- griffonRepublic.224.t:0 "The Necessary Sacrifices"
- griffonRepublic.224.d:0 "Hundreds of pardons were granted to nobles, soldiers, and citizens across the nation who had once served with the Griffonian Empire, even more than were granted by President-Marshal Kemerskai after his democratic reforms. Civil servants from the Empire were quickly re-assigned all across the Republic in the nations they had once served, instead of rotting in the dungeons that the radicals would have them in for the rest of their lives. From Angriver to Feathisia, remaining nobles were freed, given a slap on the claw, and welcomed into the Griffonian Republic in the name of unity, healing, and progress.\n\nIn response to criticism from radical leftist elements in the National Republican Party, Kingfeather stated that "their blind lust for vengeance has clouded their judgement for a better Griffonia." According to Kingfeather and numerous politicians associated with the Right-NRP, "Plan Unity" would restore progress to Griffonia through systematic reconciliation efforts with Imperial politicians, along with industrial development aided by contacts with nobles and industrialists across the former Empire.\n\nTruly, unity has been restored to the fragile Republic - and rational policy has triumphed over the vengeance of Sunglider and Astler."
- griffonRepublic.224.a:0 "Excellent work, President Kingfeather!"
+ griffonRepublic.224.t:0 "꼭 필요한 희생"
+ griffonRepublic.224.d:0 "그리포니아 제국과 함께 일했던 전국의 귀족, 군인, 시민들에게 수백 건의 사면이 내려졌는데, 이는 그의 민주화 개혁 이후 케머스카이 총통이 내린 사면보다 훨씬 더 많은 것입니다. 제국 출신의 공무원들은 급진주의자들이 평생 동안 그들을 수용하게 될 지하감옥에서 썩지 않고, 그들이 한때 섬겼던 국가들에 재빨리 다시 배치되었습니다. 엥그리버에서 페데시아까지 남은 귀족들은 해방되어 발톱을 한 대 얻어맞고, 통합, 치유, 진보라는 이름으로 그리포니아 공화국으로 환영을 받았습니다.\n\nN 국민 공화당의 급진좌파분자들의 비판에 대해 킹페더는 "복수에 대한 맹목적인 욕구가 더 나은 그리포니아에 대한 판단을 흐리게 했다"고 말했습니다. 우판 국민공화당과 관련된 킹페더와 수많은 정치인에 따르면, "통합 계획"은 옛 제국을 가로지르는 귀족과 산업가들과의 접촉에 의해 도움을 받는 산업 발전과 함께 제국 정치인들과의 체계적인 화해 노력을 통해 그리포니아의 진보를 회복할 것이라고 합니다.\n\n정말로, 단결력이 연약한 공화국에 회복되었습니다. 그리고 이성적인 정책은 선글라이더와 아스틀러의 복수를 승리로 이끌었습니다."
+ griffonRepublic.224.a:0 "완벽합니다 킹페더 총통"
 
- griffonRepublic.225.t:0 "The First Pan-Griffonian Elections"
- griffonRepublic.225.d:0 "The first pan-griffonian elections have been the most contested in the history of the Republic - with parties other than the National Republican Party allowed to participate, many candidates have created new parties and cast their lot in to become the next President of the Republic.\n\nThe most left-wing groups have attracted major support from labour unions, workers, and the unemployed. With a democratic socialist policy, they advocate for major welfare reforms, expansion of cooperatives, and industrial democracy. Rikard Astler espouses these same values while being a member of the NRP, but there is also Gerben Kogchel - whose life in the Grand Duchy of Feathisia has given him a devotion to democratic values, though his connections with anarchists and revolutionary socialists during the Empire's regency crisis have not been overlooked.\n\nThe social democrats, led by Genevieve Guildedwing, a Skyfall-based social democrat and populist, have also gained critical support from the workers. Her experiences with the unregulated capitalism of Skyfall's oligarchy will make her a candidate who understands the plight of the common folk. She will no doubt establish progressive taxes and transform the Republic into a welfare state, although if she is already ruling Skyfall, there is a low chance she will actually come close to the presidency.\n\nThe Centre-NRP is led by Theodore Verany and Schnabel Sunglider, both griffons very similar to the President-Marshal. An Aquileian revolutionary who fought in multiple revolutions against the corrupt Discret dynasty, Verany is dedicated to the principles of republicanism and harmony, and Schnabel, the famed general and idealist of the Republic, is perhaps as well-renowned. \n\nOf course, there are always those of the capitalist parties and the Right-NRP. Gallo Ventriglio, a Wingbardian liberal and capitalist, who is a major proponent of laissez-faire economics and friendship with Equestria, has taken a stand as a prominent liberal-democrat, while Heinrich Kingfeather, a member of the Right-NRP, has staunchly aligned himself with Gallo's new movement.\n\nThe final group of politicians, the Militarists, are led by Kemerskai's own son, Alexander Kemerskai Jr., a staunch Republican. Alexander supports centralizing the Republic, strengthening the positions of the president, and making sure that the government is efficient and populist. Opponents say his government would be dictatorial, though he laughs off those accusations."
- griffonRepublic.225.a:0 "Gerben Kogchel, the socialist!"
- griffonRepublic.225.b:0 "Genevieve Guildedwing, the progressive!"
- griffonRepublic.225.c:0 "Theodore Verany, the populist!"
- griffonRepublic.225.e:0 "Gallo Ventriglio, the liberal!"
- griffonRepublic.225.f:0 "Alexander Kemerskai Jr., son of the great leader!"
- griffonRepublic.225.g:0 "Schnabel Sunglider, the veteran!"
- griffonRepublic.225.h:0 "Heinrich Kingfeather, the pragmatist!"
- griffonRepublic.225.i:0 "Rikard Astler, the idealist!"
+ griffonRepublic.225.t:0 "첫번째 범그리포니아 선거"
+ griffonRepublic.225.d:0 "첫 번째 범그리포니아 선거는 공화국 역사상 가장 경쟁이 치열했습니다. 국민공화당이 아닌 다른 정당들이 참여하도록 허용되면서, 많은 후보들이 새로운 정당을 만들고 공화국의 차기 대통령이 되기 위해 자신의 몫을 쏟아 부었습니다.\n\n대부분의 좌파 단체들은 노조, 노동자, 실업자들로부터 큰 지지를 끌어냈습니다. 민주사회주의 정책으로 주요 복지개혁, 협동조합 확대, 산업민주주의를 표방하고 있습니다. 리카드 아스틀러는 국민공화당의 일원으로 있으면서 이러한 같은 가치를 지지하지만, 또한 게르벤 코첼도 있는데, 그는 페디시아의 대공국에서의 삶이 그에게 민주주의 가치에 대한 헌신을 주었지만, 제국의 섭정 위기 동안 무정부주의자들과 혁명 사회주의자들과의 연관은 간과되지 않았습니다.\n\n스카이폴에 기반을 둔 사회 민주주의자이자 민중주의자인 제네비브 귈데윙이 이끄는 사회 민주주의자들은 또한 노동자들로부터 비판적인 지지를 받습니다. 스카이폴의 과두정치의 규제받지 않은 자본주의에 대한 그녀의 경험은 그녀를 서민들의 곤경을 이해하는 후보로 만들 것입니다. 그녀가 이미 스카이폴을 통치하고 있다면, 그녀가 실제로 대통령직에 근접할 가능성은 낮지만, 그녀는 틀림없이 진보적인 세금을 제정하고 공화국을 복지 국가로 변화시킬 것입니다.\n\n국민공화당 중도파는 테오도로 베라니와 슈나벨 선글라이더가 주도하고 있으며, 둘 다 케머스카이 총통과 매우 유사한 그리폰입니다. 부패한 디스크렛 왕조에 맞서 2차 혁명에 싸운 아퀼레이아 혁명가, 베라니는 공화주의와 화합의 원리에 전념하고, 공화국의 유명한 장군이자 이상주의자 슈나벨은 아마도 그 못지않게 유명할 것입니다. \n\n물론, 자본주의 정당과 국민공화당 우파의 정당들은 항상 있습니다. 자유방임주의 경제 및 이퀘스트리아와의 우정의 주요 지지자인 윙바르드 자유주의자이자 자본주의자인 갈로 벤그릴리오가 저명한 자유민주주의자로 우뚝 선 반면, 우익 국민공화당의 일원인 하인리히 킹페더는 갈로의 새로운 운동에 확고히 동조합니다.\n\n 마지막 정치적 집단인 군국주의자들은 케머스카이의 친아들 알렉산더 케머스카이 주니어가 이끌고 있습니다. 알렉산더는 공화국의 중앙집권화와 대통령의 권한 강화, 그리고 정부가 효율적이고 포퓰리즘적이 되도록 지지합니다. 반대론자들은 비록 그가 그러한 비난을 비웃지만, 그의 정부는 독재적일 것이라고 말합니다."
+ griffonRepublic.225.a:0 "게르벤 코첼, 사회주의자!"
+ griffonRepublic.225.b:0 "제네비브 귈데윙, 진보주의자!"
+ griffonRepublic.225.c:0 "테오도로 베라니, 민중주의자!"
+ griffonRepublic.225.e:0 "갈로 벤그릴리오, 자유주의자!"
+ griffonRepublic.225.f:0 "알렉산더 케머스카이 주니어., 위대한 총통의 아들!"
+ griffonRepublic.225.g:0 "슈나벨 선글라이더, 베테랑!"
+ griffonRepublic.225.h:0 "하인리히 킹페더, 실용주의자!"
+ griffonRepublic.225.i:0 "리카드 아스틀러, 이상주의자!"
  FAT_we_will_reform_military:0 "§G우리는 군대를 개혁할 것입니다§!. 그러나 §R이것은 군벌들을 화나게 할 것입니다§!.\n"
  FAT_we_will_placate_generals:0 "§G우리는 군대를 달랠 것입니다§!. 그러나 §R우리는 그들에게 많은 것을 양보해야 할 것입니다§!.\n"
 
