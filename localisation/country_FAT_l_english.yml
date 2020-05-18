@@ -11,7 +11,7 @@
  FAT_Kingdom_neutrality_DEF:0 "클라우드버리 왕국"
 
  FAT_centrism_desc:0 "국민공화당 우파는 공화국 정치사에 있어서 흥미로운 발전사를 지니고 있습니다. 한때는 사회민주주의와 혁명을 부르짖던 이들이었으나, 이제는 안정을 중시하는 보수적 경제정책, 방어적 외교정책을 지지하는 등의 실용주의적 정책을 추구하여 978년 혁명 원년에 비하면 다른 길을 걷고있는 것이나 다름 없습니다. 그러나, 이들은 그것이 공화국을 위한 올바른 길이라고 믿고있습니다."
- FAT_liberalism_desc:0 "국민공화당 중도파는 혁명적 대그리폰주의, 복지를 중시하는 사회민주주의힉 경제정책, 군국주의 그리고 반군주주의로 대표되는 978년 혁명의 공화주의 원칙의 충직한 이들입니다. 중도파의 지도부는 슈나벨 선글라이더, 월터 에머리히 등 장성딘으로 구성되어있으며, 이들은 모든 그리폰을 위한 자유, 민주주의, 번영을 추구하는 삼원칙에 충실합니다."
+ FAT_liberalism_desc:0 "국민공화당 중도파는 혁명적 대그리폰주의, 복지를 중시하는 사회민주주의힉 경제정책, 군국주의 그리고 반군주주의로 대표되는 978년 혁명의 공화주의 원칙의 충직한 이들입니다. 중도파의 지도부는 슈나벨 선글라이더, 월터 에머리히 등 장성단으로 구성되어있으며, 이들은 모든 그리폰을 위한 자유, 민주주의, 번영을 추구하는 삼원칙에 충실합니다."
  FAT_democratic_socialism_desc:0 "국민공화당 좌파는 지난 몇년새에 대두한 신규 파벌로 이상주의에 경도된 젊은이들로 구성되어있습니다. 이들은 978년 혁명원칙을 이어나가 사회민주주의나 반공주의 대신 노동자들의 주체성과 이웃 국가 스키나비아의 해방에 중점을 두어야 한다고 주장합니다. 또한 이들은 구세대와 케머스카이의 우상화에 대해 격렬한 비판을 일삼는데, 젊고 거친 이들의 행보에 탓에 '권위주의적이다', '존재가 자유주의에 대한 모욕' 등의 비난을 받고는 합니다."
 ### National Focus ###
  fatass_the_task_ahead_focus:0 "공격적 외교 정책 중점"
@@ -322,11 +322,11 @@
  FST_alliance_of_northern_monarchs:0 "북쪽 왕국과의 동맹"
  FST_alliance_of_northern_monarchs_desc:0 "북방 부족은 공주의 통치를 존중하고 베디나 왕국은 수세기 동안 평화로운 군주국가로 우뚝 서왔습니다. 우리는 이러한 고대 군주국들과 동맹을 맺고, 한 왕국이 아니라 많은 왕국들과 함께 서야 합니다."
  FST_finalize_the_partition:0 "분열을 끝내다"
- FST_finalize_the_partition_desc:0 "Skynavia has been defeated, and now it is time to divide the territory among our loyal allies. The Northern Tribes shall receive their true territory, and our nation shall stand with them against any threats that befall the North."
+ FST_finalize_the_partition_desc:0 "스카이나비아는 패배했고, 이제 우리의 충성스러운 동맹에게 영토를 나눌 때입니다. 북방 부족들은 원하던 영토를받을 것이며, 우리는 그들과 함께 위협에 맞설 것입니다."
  FST_ally_vedina:0 "공주와의 협약"
- FST_ally_vedina_desc:0 "Vedina has stood as a chivalrous, prosperous, and harmonic monarchy for hundreds of years. It would be wise to create an alliance with them."
+ FST_ally_vedina_desc:0 "베디나는 지난 수세기간 기사도를 지켜온 번영하는 조화로운 군주국으로 그들과의 동맹은 현명한 처사일 것입니다. "
  FST_ally_northern_tribes:0 "부족과의 대화"
- FST_ally_northern_tribes_desc:0 "Fiana II of the Northern Tribes is the monarch of a harmonious pony community that would gladly ally with other monarchies if it meant guaranteeing their independence and prosperity."
+ FST_ally_northern_tribes_desc:0 "북방 부족의 피아나 2세는 조화로운 포니 공동체의 수장으로써 독립과 번영을 위해서라면 다른 군주와 기꺼이 힘을 합칠 포니입니다."
  FST_ally_the_sane_sunstriker:0 "온당한 선스트라이커의 편에 서다"
  FST_ally_the_sane_sunstriker_desc:0 "Eriviar Sunstriker, the former bandit king of the Sunstriker Clan, is reported to have regained his sanity and has stopped raiding other nations completely. With such a change in the griffon's behavior, he would be more susceptible to entering in an alliance with us."
  FST_strike_at_skynavia:0 "스카이나비아 공격"
