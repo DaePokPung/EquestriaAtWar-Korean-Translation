@@ -65,5 +65,16 @@
  modifier_army_sub_unit_category_all_aa_defence_factor:0 "대공포 방어"
  modifier_army_sub_unit_category_all_aa_speed_factor:0 "대공포 이동속도
 
- sabotage_crystals:0 "Sabotage Crystal Resources"
- 
+ killed_pop_by_nuclear_attack_factor:0 "Casualties from Nuclear Strikes"
+
+ sabotage_crystals:0 "크리스탈 광산 사보타주"
+ state_resource_crystals:0 "크리스탈"
+ temporary_state_resource_crystals:0 "크리스탈"
+ country_resource_crystals:0 "크리스탈"
+ state_resource_cost_crystals:0 "크리스탈 소비"
+ country_resource_cost_crystals:0 "크리스탈 소비"
+
+ scheisswald_forest:0 "샤이스발트 숲"
+ eygsic_forest:0 "Eygsic Forest"
+
+ empowered_state_resistance:0 "Empowered Resistance"
