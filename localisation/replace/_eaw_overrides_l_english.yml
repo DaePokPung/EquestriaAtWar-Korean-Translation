@@ -138,9 +138,29 @@ FE_HISTORICAL_TOOLTIP:0 "AI countries will, where applicable, pick §HNational F
  the_long_lance:0 "The Long Lance"
  the_long_lance_desc:0 "The Long Lance is a torpedo specially designed by Jezeragrad Armaments, which has twice the range of its foreign counterparts. This greatly increases its efficiency."
  
+ #intel_ledger_l
+ INTEL_LEDGER_MANPOWER_TOOLTIP:0 "Available Ponypower: $RANGE|H$"
+ INTEL_LEDGER_FIELDED_MANPOWER_TOOLTIP:0 "Fielded Ponypower:"
+ INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT:0 "Deployed Army Ponypower: $AMOUNT|H$"
+ INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT_WITH_CAP:0 "Deployed Army Ponypower: $AMOUNT|H$ (Requires Army Intel: $MIN|H.0%$)"
+ INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT:0 "Deployed Navy Ponypower: $AMOUNT|H$"
+ INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT_WITH_CAP:0 "Deployed Navy Ponypower: $AMOUNT|H$ (Requires Navy Intel: $MIN|H.0%$)"
+ INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT:0 "Deployed Airforce Ponypower: $AMOUNT|H$"
+ INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT_WITH_CAP:0 "Deployed Airforce Ponypower: $AMOUNT|H$ (Requires Air Intel: $MIN|H.0%$)"
+ CIV_LEDGER_THRESHOLD_FUZZY_TOTAL_MANPOWER:1 "Approximate Total Available Ponypower"
+ CIV_LEDGER_THRESHOLD_MANPOWER:0 "Total Available Ponypower"
+ ARMY_LEDGER_THRESHOLD_DEPLOYED_MANPOWER:0 "Fielded Army Ponypower"
+ ARMY_LEDGER_THRESHOLD_FUZZY_DEPLOYED_MANPOWER:1 "Approximate Fielded Ponypower"
+ NAVY_LEDGER_THRESHOLD_FIELDED_MANPOWER:0 "Deployed Naval Ponypower"
+ NAVY_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER:1 "Approximate Deployed Naval Ponypower"
+ AIR_LEDGER_THRESHOLD_FIELDED_MANPOWER:0 "Fielded Air Ponypower"
+ AIR_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER:1 "Approximate Fielded Air Ponypower"
+
  #modifiers_l
  democratic_drift:0 "일일 조화주의 지지"
  democratic_acceptance:0 "조화주의 외교 수용"
+ fascism_drift:1 "일일 우월주의 지지"
+ fascism_acceptance:1 "우월주의 외교 수용"
  MODIFIER_LOCAL_MANPOWER:0 "현지 마력"
  MODIFIER_CONSCRIPTION_FACTOR_DESC:0 "Modifies how much your ponypower you can access from states."
  MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC:0 "Modifies how much your ponypower you can access from states."
@@ -172,6 +192,7 @@ FE_HISTORICAL_TOOLTIP:0 "AI countries will, where applicable, pick §HNational F
  democratic_reformer:0 "친조화주의 개혁가"
  democratic_reformer_desc:0 "A firm believer in the people's right to rule themselves, this politician sees empowering them as the first priority and aims for the country to be ruled with their mandate."
  silent_workhorse:0 "조용한 일꾼"
+ dealbroker_desc:0 "People don't like to see how sausages and laws get made. This person knows why."
  army_cavalry_1:1 "Motorized\n(Specialist)"
  army_cavalry_2:1 "Motorized\n(Expert)"
  army_cavalry_3:1 "Motorized\n(Genius)"
@@ -185,6 +206,7 @@ FE_HISTORICAL_TOOLTIP:0 "AI countries will, where applicable, pick §HNational F
  cavalary_ratio_over_40:1 "Motorized and mechanized ratio > §H40%§!"
  compassionate_gentleman:0 "Compassionate Grandee"
  head_of_intelligence:0 "Illusive Gentlestallion"
+ fascist_sympathies:0 "Supremacism Sympathies"
 
  #triggers_l
  TRIGGER_HAS_ARMY_MANPOWER_AT_LEAST:0 "전개된 사단의 병력이 적어도 $AMOUNT|*2H$"
@@ -209,7 +231,14 @@ FE_HISTORICAL_TOOLTIP:0 "AI countries will, where applicable, pick §HNational F
  #wtt_decisions_l
  ban_democratic_party:1 "조화주의와 민주주의 금지"
  anti_democratic_raids:0 "조화주의자 타도"
- 
+ anti_fascist_raids:0 "우월주의자 타도"
+ anti_fascist_raids_desc:0 "우리는 장기적인 국내 안정을 위해 우리나라의 우월주의자들을 타도해야 합니다. 그들의 영향력은 너무 커서 잠재적으로 정부에 문제가 될 수 있습니다."
+ ban_fascist_party:0 "우월주의 금지"
+ ban_fascist_party_desc:0 "현 상황에서, 우월주의 정당들이 계속해서 조직화하도록 허용하는 것은 우리의 통치 효율을 약화시킬 것입니다. 과감한 조치가 필요할 것입니다."
+ ban_fascist_party_tt:1 "우월주의의 인기도 변화: §G-§![?.Root.party_popularity@fascism|%0G].\n"
+ anti_fascist_raids:1 "우월주의자 타도"
+ anti_fascist_raids_desc:1 "우리는 장기적인 국내 안정을 위해 우리나라의 우월주의자들을 타도해야 합니다. 그들의 영향력은 너무 커서 잠재적으로 정부에 문제가 될 수 있습니다."
+
  #mtg
  RULE_OPTION_DEMOCRATIC:0 "조화주의자"
  RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "조화주의자 - 역사적"
