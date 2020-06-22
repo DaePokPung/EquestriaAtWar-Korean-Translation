@@ -202,7 +202,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_school_for_gifted_unicorns:0 "재능있는 유니콘들을 위한 학교"
  EQC_school_for_gifted_unicorns_desc:0 "Most Unicorns with a talent for magic leave New Mareland for Canterlot, to go to one of the prestigious schools there. This causes an unfortunate brain drain for us. Establishing our own academy for the study of the arcane would help our scientifically and magical foundation tremendously."
  
- EQC_school_of_friendship:0 "뉴 메랜드 우정의 학교"
+ EQC_school_of_friendship:0 "뉴 메어랜드 우정의 학교"
  EQC_school_of_friendship_desc:0 "A School of Friendship, similar to the one near Ponyville in Equestria, could help to improve our relations with different countries tremendously. Such a school would also not be exclusive to Unicorns, unlike the other option currently on the table."
 
 
@@ -309,7 +309,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_embrace_neutrality:0 "중립 선언"
  EQC_embrace_neutrality_desc:0 "New Mareland has no interest in foreign squabbles. So long as you enjoy our parities and buy our goods, you're a friend to us. Uh-huh-huh!"
 
- EQC_build_the_wall:0 "벽을 세우다"
+ EQC_build_the_wall:0 "벽을 세우자"
  EQC_build_the_wall_desc:0 ""We will build a great wall along the eastern border, and the griffons will pay for the wall. Uh-huh-huh!\n\nThey don't know it yet, but they're going to pay for it. And they're great creatures and great leaders but they're going to pay for the wall." - Gladmane's inaugural speech."
 
  EQC_national_work_act:0 "국가노동법"
@@ -367,7 +367,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_token_reforms:0 "형식적인 개혁"
  EQC_token_reforms_desc:0 "Though the Griffons have cried out for equal rights with the rest of New Mareland, we are now forced to admit that the current ideas just don't cut it with Parliament. Even if Executive Orders can do a lot, we are still missing a law to get things into shape. Even if it is nothing but a show of good faith, we will make some token reforms where we can and get on with our agenda."
 
- EQC_imperial_presidency:0 "황제적 대통령직"
+ EQC_imperial_presidency:0 "제왕적 대통령직"
  EQC_imperial_presidency_desc:0 "Since Kingfisher took office, all politics have radiated out, not from the Mareland Congress, but rather from the Lodge nearby. The former Governor-Generalship, now Presidency, though invested with powers have never been used like Kingfisher has used it. Indeed, in a hundred years, they will say that the modern Presidency began with him."
  
  EQC_perfect_democracy:0 "완벽한 민주주의"
@@ -392,7 +392,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_the_duke_wins:0 "공작의 승리"
  EQC_the_duke_wins_desc:0 "The true defender of Harmony, Duke Erbus Haygle has been elected the head of our nation. He argues that only military might and a focus on the purity of our nation can truly protect us from our enemies, both inside and outside the state."
 
- EQC_build_now_play_later:0 "일단 짓고; 나중에 지불하자"
+ EQC_build_now_play_later:0 "일단 짓고, 나중에 지불하자"
  EQC_build_now_play_later_desc:0 "It is imperative that we quickly build up our industry and for that we will need money and resources. For this, our industrial ministers have come up with the BNPL program, although it wasn't intended to fund arms productions at first. We shall promise to pay the notes back later, after the economy has improved. Or when the Duke decides we have no need of our creditors' support anymore."
 
  EQC_autarky:0 "경제 자립 국가"
@@ -438,7 +438,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_regulated_capitalism:0 "경제적 규제"
  EQC_regulated_capitalism_desc:0 "Though entrepreneurial spirit made our nation what it is, it can also lead to ruin if left unchecked. Capitalism, as it is, must be regulated for the smaller pony on the street. They are those that were hurt the most by Black Wednesday, and it is them that we must strive to defend."
  
- EQC_break_the_bankers:0 "뱅크스터들은 꺼져!"
+ EQC_break_the_bankers:0 "불법적인 은행가들을 쫓아내자!"
  EQC_break_the_bankers_desc:0 "One needn't look further for the primary culprits of the Depression than the perfidious and reckless bankers of New Mareland. Their runaway speculation and insidious gambling with the futures of our citizens ruined lives and livelihoods. We will make sure that this will never happen again. Even if we have to break a thousand banks and jail thousands of bankers, the little ponies must be defended against this madness."
  
  EQC_defend_democracy:0 "민주주의 보존"
@@ -453,13 +453,13 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_implement_segregation:0 "오늘도, 내일도, 영원히 분리시키자!"
  EQC_implement_segregation_desc:0 "Griffons and Ponies are naturally unsuited to mix together in society. Though some may grumble and protest, this is the natural order of things. We were given, by right and gain, this land and we will make sure that it is our land alone. The griffons will stay here, but we shall make a doctrine of 'Separate but Equal'"
  
- EQC_accept_the_bats:0 "우린 모두 적절한 이퀘스트리아인들이다"
+ EQC_accept_the_bats:0 "우리 모두 이퀘스트리아인들이다"
  EQC_accept_the_bats_desc:0 "Across the sea, in the Motherland, they have talked about Thestrals being lesser than the other three tribes. That is wholly untrue. We are all proper Equestrian Equines of proper Equestrian stock. We are all united against the Griffonian Hordes right across our borders. This we must defend as one."
  
  EQC_encourage_them_to_leave:0 "티지나카틀리아 계획"
  EQC_encourage_them_to_leave_desc:0 "Though the thestrals aren't suited to mix with us, that doesn't mean they're on the same level as the griffons. While the griffons shall toil for the betterment of the Pony, we shall find a homeland for the thestrals, free of our interference, or any interference by foreign powers that aren't, of course, suitably Equine."
  
- EQC_model_communities:0 "Model Pony Communities 모델 포니 커뮤니티"
+ EQC_model_communities:0 "모델 포니 커뮤니티"
  EQC_model_communities_desc:0 "All across New Mareland, ponies have taken to our ideals. They have gathered in neighbourhoods, showing their own dedication to the modern New Mareland. They have become the very model of a New Marelandian. We will show off our smiling examples of the new society around our nation, promoting the success stories that will inspire us all."
  
  EQC_tuitions_for_ponies:0 "교사법"
@@ -493,7 +493,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_unite_the_left:0 "좌파 연합"
  EQC_unite_the_left_desc:0 "Now that the workers have chosen which faction they wish to lead them into the revolution, we must make sure to bridge the gap between those who still doubt our leadership. Only a United Front can stand against the other parties in the upcoming elections. Overthrowing the capitalists is surely more important than doctrinal differences."
 
- EQC_burn_celestias_portrait:0 "셀레스티아의 초상화를 태우자"
+ EQC_burn_celestias_portrait:0 "셀레스티아의 초상화를 불태우자"
  EQC_burn_celestias_portrait_desc:0 "The people have chosen! We are a workers' state for the people! No longer will we sit down and be oppressed by distant monarchs! Burn the portrait of those who live in palaces while we suffer overseas! It is time ponies; our liberation is nigh."
 
  EQC_join_stalliongrad:0 "포니 인터네셔널 연합"
@@ -505,7 +505,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_true_workers_paradise:0 "진정한 노동자들의 천국"
  EQC_true_workers_paradise_desc:0 "This land belongs to those who live on it! Those who plow the fields, those who work the factories and build her cities. Now that we are free, we will make sure every worker gets what they deserve for their labour. We will commit to a workers' paradise for all ponies and griffons. With our sweat and tears, a brighter tomorrow is within our reach."
 
- EQC_commie_griffon_ally:0 "그리폰 노동자들과의 연합"
+ EQC_commie_griffon_ally:0 "그리폰 노동자들과 연합"
  EQC_commie_griffon_ally_desc:0 "The workers of New Mareland do not march alone! Some of our griffon comrades have taken up arms to overthrow their corrupt capitalist regimes as well. We shall prepare a formal request to ally with our griffon brothers and sisters. The continent is full of elitist nobles and fat bankers, but together, we can make a grand continental revolution for all of Griffonia!"
 
  EQC_brothers_in_arms:0 "그리폰 혁명가들 통합"
@@ -533,82 +533,82 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_crusade_for_communism_desc:0 "From every corner of our planet, workers cry out for us to end their oppression. It is up to us, comrades, to answer the call of those who were never allowed to speak. The final act of world history is about to unfold, the ultimate goal of the revolution is within our grasps! We shall never stop, never falter, never back down, until the world is covered in a beautiful shade of red!"
 
  #Industry
- EQC_industral_support_fund:0 "Industrial Support Fund"
+ EQC_industral_support_fund:0 "산업 지원 기금"
  EQC_industral_support_fund_desc:0 "Our industry is lacking in many sectors, partially because of the current economic depression. Setting up a dedicated fund to help industrial development through strategic investment could prove to be a step in the right direction."
 
- EQC_national_census:0 "National Census"
+ EQC_national_census:0 "국세조사"
  EQC_national_census_desc:0 "The population of New Mareland has never been accurately determined. Up until this point, we made do with estimates and rough figures. Doing a full census of the nations population, listing everypony's birth date, occupation etc. would benefit us greatly in administrative matters."
 
- EQC_littlehoof_small_arms:0 "Littlehoof Small Arms Factory"
+ EQC_littlehoof_small_arms:0 "리틀후프 소형 무기 공장"
  EQC_littlehoof_small_arms_desc:0 "The Littlehoof Small Arms Factory is the biggest private weapons manufacturer in New Mareland. Though a rather controversial business at the moment, it could become very important in the future. Investing into Littlehoof Small Arms and allowing them to establish more factories could be very helpful, should war ever come."
 
- EQC_the_flare_plan:0 "The Flare Plan"
+ EQC_the_flare_plan:0 "플레어 계획"
  EQC_the_flare_plan_desc:0 "The prominent industrialist and economist Sunny Flare has proposed a plan for the development of new and more advanced industrial methods. This 'Flare Plan' would increase our industrial capacities in the long run, as it could significantly improve our know-how."
 
- EQC_new_mareland_railway:0 "Expand the New Mareland Railways"
+ EQC_new_mareland_railway:0 "뉴 메어랜드 철도 확장"
  EQC_new_mareland_railway_desc:0 "New Mareland is a sizeable country, and infrastructure connections are notoriously bad, especially in the countryside. Increased funding to the New Mareland Railways could help to improve the general infrastructure all over the countryside."
 
- EQC_new_hoofington_steelworks:0 "New Hoofington Steelworks"
+ EQC_new_hoofington_steelworks:0 "뉴 호핑턴 제철소"
  EQC_new_hoofington_steelworks_desc:0 "We have come across a sizeable deposit of iron in the area near New Hoofington some years ago. The iron is being mined, but it would be a good idea to construct large steel mills and smelters in New Hoofington proper, to allow us to make the most of the iron deposits there."
 
- EQC_expand_new_manehatten:0 "East-Side Industrial Expansion"
+ EQC_expand_new_manehatten:0 "동부 산업 확장"
  EQC_expand_new_manehatten_desc:0 "New Manehattan has become an industrial and economic centre for New Mareland. The eastern outskirts located in New South Bales are underdeveloped, and could see a significant improvement to their industrial capacity, if we invest carefully and in the right projects."
 
- EQC_resource_resuse_act:0 "Resource Reuse Act"
+ EQC_resource_resuse_act:0 "재활용 법"
  EQC_resource_resuse_act_desc:0 "Strategic resources are very precious, and we can't allow to let any of them go to waste. To this end, we should set up dedicated recycling facilities, and make sure that we exploit all our resources to the maximum."
 
- EQC_economic_recovery:0 "Economic Recovery"
+ EQC_economic_recovery:0 "경제가 회복되다"
  EQC_economic_recovery_desc:0 "After our recent Economic reforms, we have come far and have almost returned to levels of economic stability from before our economic depression. Let us finish our reform and end this depression once and for all."
 
- EQC_expand_sunset_university:0 "Expand the University of Sunset"
+ EQC_expand_sunset_university:0 "선셋대학 확장"
  EQC_expand_sunset_university_desc:0 "The smartest ponies of New Mareland have visited the University of Sunset, making it a valuable institution without a doubt. Further expanding its capacities and capabilities will undoubtedly aid us in recruiting additional eggheads from their ranks."
 
- EQC_uranium_mine:0 "Glowhorn Uranium Mines"
+ EQC_uranium_mine:0 "글로우혼 우라늄 광산"
  EQC_uranium_mine_desc:0 "The Uranium Mines of Glowhorn have been established for some time now, though we have used only a fraction of the uranium, not knowing quite what to do with it. Now, our scientists have approached us with plans to use this resource for a weapon. A weapon of greater destructive capabilities than anyone has ever seen before."
 
- EQC_connect_the_reservations:0 "Connect the Reservations"
+ EQC_connect_the_reservations:0 "보호 구역 연결"
  EQC_connect_the_reservations_desc:0 "For the longest time, we have ignored the native griffon reservations within our borders, including the land around them. While we do risk upsetting these natives, we cannot simply ignore connecting our lands with one another."
 
- EQC_griffon_affairs_act:0 "The Griffon Affairs Act"
+ EQC_griffon_affairs_act:0 "그리폰 토지법"
  EQC_griffon_affairs_act_desc:0 "Much of the land owned by native griffons is economically unproductive. If we can consolidate it and bring it more under government control, we can turn these barren locations into fruitful sites of industry and commerce."
 
  #Wartime industry
  EQC_commonwealth_defence:0 "[Root.GetEQCCommonwelthDefenceName]"
- EQCCommonwelthDefenceName_normal:0 "Defence of the Commonwealth Act"
- EQCCommonwelthDefenceName_equalist:0 "Defence of Equality Act"
+ EQCCommonwelthDefenceName_normal:0 "연방법 보호"
+ EQCCommonwelthDefenceName_equalist:0 "평등법 보호"
  EQC_commonwealth_defence_desc:0 "It is time we acknowledge our vulnerability in the face of this foreign Continent. As a pony nation, we face many adversaries and threats here, and we must make sure that we are prepared to defend our home."
 
- EQC_national_mobilisation_act:0 "National Mobilisation Act"
+ EQC_national_mobilisation_act:0 "국가 동원법"
  EQC_national_mobilisation_act_desc:0 "New Mareland is a nation of peace and harmony, but with the dire situation around the world, we may soon find ourselves subjects of a cruel and merciless power. It stands upon every able-bodied New Marelander to be ready to defend our great nation and the New Marelandian way of life."
 
- EQC_every_little_helps:0 "Every Little Helps"
+ EQC_every_little_helps:0 "티끌 모아 태산"
  EQC_every_little_helps_desc:0 "Our Ponies must realise that everything they do impacts the fate of our nation. No matter what, every small little bit helps us defend against foreign invasion."
 
- EQC_national_defence_company:0 "National Defence Company"
+ EQC_national_defence_company:0 "국방 기업"
  EQC_national_defence_company_desc:0 "Through this new National Defence Company, we can make sure to retain more of our native resources for ourselves, as well as gaining control over more open land which we can use for expanding our industry."
 
  EQC_defence_of_x:0 "[Root.GetInDefenceOfX]"
  EQC_defence_of_x_desc:0 "We cannot sit idle while the world around us burns. New Marelanders will not watch evil consume the good in this world. We will fight!"
 
- EQC_invest_in_victory:0 "Invest in Victory"
+ EQC_invest_in_victory:0 "우리 승리에 투자"
  EQC_invest_in_victory_desc:0 "Our Citizens must be rallied to our National cause of Defence. Investing in our Victory means investing in their Future. Together we are strong, together we will stand!"
 
- EQC_squish_the_parasprites:0 "Squash the Parasprites"
+ EQC_squish_the_parasprites:0 "패러스프라이트 분쇄"
  EQC_squish_the_parasprites_desc:0 "New Mareland is a land of plenty, but we squander our riches like a devouring swarm of Parasprites. The ponies of New Mareland must learn that every bit of food and scrap of metal is vital for our survival."
 
- EQC_full_economic_commitment:0 "Full Economic Commitment"
+ EQC_full_economic_commitment:0 "깊은 경제적 결속"
  EQC_full_economic_commitment_desc:0 "It is time every New Marelander realised the importance he plays in our economic survival. From his labour all the way to his day-to-day diet, we must value all that we have and maximise our production."
 
- EQC_expand_conscription:0 "Expand Conscription"
+ EQC_expand_conscription:0 "징병법 확대"
  EQC_expand_conscription_desc:0 "We cannot survive on industry alone. Everypony, young and old, must stand side-by-side in battle for the salvation of our great nation."
 
- EQC_griffon_workers:0 "Griffon Working Regulations"
+ EQC_griffon_workers:0 "그리폰 작업 규정"
  EQC_griffon_workers_desc:0 "Not only our ponies must know the importance of regulation. It's time we imposed working regulations on our griffon minorities, as to truly maximise our industrial capacity and productivity."
 
- EQC_force_griffon_conscription:0 "Force Griffon Conscription"
+ EQC_force_griffon_conscription:0 "그리폰 징병"
  EQC_force_griffon_conscription_desc:0 "In the face of invasion, no creature, whether pony or griffon, can be allowed to sit idle. griffons, too, must be forced to fight if needed, whether they want it or not."
 
- EQC_negotiate_with_griffon_clans:0 "Negotiate with the Griffon Clans"
+ EQC_negotiate_with_griffon_clans:0 "그리폰 일족과 협상"
  EQC_negotiate_with_griffon_clans_desc:0 "With a bit of diplomacy, we might be able to make a deal with the various griffon clans. Griffon volunteers could help us expand the ranks of the army, without running the risk of upsetting the various griffons within our borders."
 
 #Air Force
@@ -1507,8 +1507,8 @@ eqc_news.14.t:0 "Communists Seize Power in New Mareland"
  EQC_light_tank_equipment_3_short:0 "뱁스 시드"
  EQC_light_tank_equipment_x:0 "M5 크로스 타이거"
  EQC_light_tank_equipment_x_short:0 "크로스 타이거"
- EQC_light_tank_equipment_x_2:0 "M6 플라붑스"
- EQC_light_tank_equipment_x_2_short:0 "플라붑스"
+ EQC_light_tank_equipment_x_2:0 "M6 프레티붑스"
+ EQC_light_tank_equipment_x_2_short:0 "프레티붑스"
 
  #EQC_light_tank_artillery_equipment_1:0 "Sparrow Oak Local Pattern"
  #EQC_light_tank_artillery_equipment_1_short:0 "Sparrow Oak LP"
