@@ -548,7 +548,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_new_mareland_railway:0 "뉴 메어랜드 철도 확장"
  EQC_new_mareland_railway_desc:0 "New Mareland is a sizeable country, and infrastructure connections are notoriously bad, especially in the countryside. Increased funding to the New Mareland Railways could help to improve the general infrastructure all over the countryside."
 
- EQC_new_hoofington_steelworks:0 "뉴 호핑턴 제철소"
+ EQC_new_hoofington_steelworks:0 "뉴 후핑턴 제철소"
  EQC_new_hoofington_steelworks_desc:0 "We have come across a sizeable deposit of iron in the area near New Hoofington some years ago. The iron is being mined, but it would be a good idea to construct large steel mills and smelters in New Hoofington proper, to allow us to make the most of the iron deposits there."
 
  EQC_expand_new_manehatten:0 "동부 산업 확장"
@@ -613,129 +613,129 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
 
 #Air Force
  EQC_rnmaf_stratus_springs:0 "[Root.GetEQCStratusSpringsName]"
- GetEQCStratusSpringsName_loyalist:0 "RNMAF Stratus Springs"
- GetEQCStratusSpringsName_free:0 "NMAF Stratus Springs"
+ GetEQCStratusSpringsName_loyalist:0 "RNMAF 스트라투스 스프링스"
+ GetEQCStratusSpringsName_free:0 "NMAF 스트라투스 스프링스"
  EQC_rnmaf_stratus_springs_desc:0 "To start modernising our airforce, we must first make sure we can control all our airspace. Stratus Springs has been chosen as the location for new airstrips. Attached to the military airfields will be a training centre for new pilots and to test new doctrines for large scale aerial warfare. This way we invest in the security of our airspace today and a better air force tomorrow."
 
- EQC_a_new_fighter:0 "Fighter Competitions"
+ EQC_a_new_fighter:0 "전투기 경쟁"
  EQC_a_new_fighter_desc:0 "New Mareland is a nation full of innovators and on the aerial front Star Hunter is by far the most talented. On his own initiative he has held competitions for new fighter designs. These contests have resulted in blueprints that are very much ahead of their time. With the proper government funding for their ideas, we could gain an advantage over our opponents in the sky."
 
- EQC_new_south_bales_air_warning_system:0 "New South Bales Air Warning System"
+ EQC_new_south_bales_air_warning_system:0 "뉴 사우스 발레 항공 경보 시스템"
  EQC_new_south_bales_air_warning_system_desc:0 "New South Bales lies but a few miles from Aquileia. They have resented our presence since the first ponies landed in New Mareland so long ago. In an event of attack, it is imperative that we have intelligence on enemy troop movements and plane formations. In order to achieve this, we shall install new radar systems near the straight to keep an eye on our northern neighbours."
 
- EQC_expand_air_defence:0 "Expand the Air Defence Network"
+ EQC_expand_air_defence:0 "방공체계 확장"
  EQC_expand_air_defence_desc:0 "In the event of an aerial threat, our major cities will be the biggest targets for enemy bombing raids. In order to secure our skies, we must expand our weak air defence network to include up to date anti-air guns. With these we can secure the citizenry and important industrial centres from attack by air."
 
- EQC_long_air_patrols:0 "Long Range Air Patrol"
+ EQC_long_air_patrols:0 "롱 레인지 항공 정찰대"
  EQC_long_air_patrols_desc:0 "One plane that turns up to the battle is more useful than a thousand planes that can't reach the mission area. Therefore we shall divert our research efforts into long range tactics for our air force. More efficient engines and the cutting of any unnecessary weight will mean our birds can fly farther on one tank of fuel."
 
- EQC_scout_seas:0 "Scout the Seas"
+ EQC_scout_seas:0 "해역 정찰"
  EQC_scout_seas_desc:0 "Our possible enemies could very well outclass us out in the Ocean, posing a threat to our coastal cities. Now that we invested in better engines, it will become viable to cover the oceans with specialised naval strike craft. This will improve our spotting of the enemy fleets and give us a unique home advantage. This might just give us the edge we need to win the high seas for New Mareland."
 
- EQC_fly_or_die:0 "Fly or Die"
+ EQC_fly_or_die:0 "날거나 죽거나"
  EQC_fly_or_die_desc:0 "All of our citizens must know that if the air battle is lost, so is the war. We must have factories specialised for fighter production and fill them with eager mares and stallions. Every plane that rolls out of the assembly line is one step closer to victory. Likewise, every slacker brings us closer to defeat. If our workers keep them flying, our pilots will do the rest. All shall know the strength and glory of our Air Force!"
 
- EQC_advanced_air_tactics:0 "United Air Command"
+ EQC_advanced_air_tactics:0 "연합 항공 사령부"
  EQC_advanced_air_tactics_desc:0 "Command and Control technology has progressed far enough that we can merge our regional commands into the United Air Command. Centralising the command will allow us to develop more complex air tactics and implement them across all our air wings while streamlining communications to allow for more rapid changes. "
 
- EQC_bombardier_focus:0 "Fund Bombardier"
+ EQC_bombardier_focus:0 "붐바디어 지원"
  EQC_bombardier_focus_desc:0 "Bombardier is a plan drawn up some of our radical air theorists. They posit that success in warfare is mainly based on industry. Therefore, it is imperative that we design aircraft to specifically target the enemy's production. This numbers approach to warfare was called 'cynical' by some commanders, who were afraid that it may lead to large civilian casualties. No matter."
 
- EQC_special_air_fund:0 "Project Eldoran"
+ EQC_special_air_fund:0 "엘로란 프로젝트"
  EQC_special_air_fund_desc:0 "On the island of Eldoran, far removed from the mainland and any prying eyes, is our secret weapons testing ground. One of the projects developed involve special propelled explosives that can be flown through the air and aimed at targets. This new weaponry could be used to launch  long-range aerial attacks on cities and other installations without risking pony loss of life."
 
- EQC_eastern_wonderbolts:0 "Wonderbolts from Across the Sea"
+ EQC_eastern_wonderbolts:0 "바다를 가로지르는 원더볼트"
  EQC_eastern_wonderbolts_desc:0 "The Wonderbolts are Equestria's elite flying force, with only the best of the best being accepted. Setting up our own branch of the Wonderbolts will give every Pegasus serving in the air forces something to strive for, serving their nation with even greater distinction."
  
- EQC_eastern_shadowbolts:0 "Shadowbolts from Across the Sea"
+ EQC_eastern_shadowbolts:0 "바다를 가로지르는 쉐도우볼트"
  EQC_eastern_shadowbolts_desc:0 "The Shadowbolts are Lunar Empire's elite flying force, with only the best of the best being accepted. Setting up our own branch of the Shadowbolts will give every Thestral and Pegasus serving in the air forces something to strive for, serving their nation with even greater distinction."
 
 
  #Army
- EQC_legacy_of_the_cockatrice_war:0 "Legacy of the Cockatrice War"
+ EQC_legacy_of_the_cockatrice_war:0 "코카트리스 전쟁의 유산"
  EQC_legacy_of_the_cockatrice_war_desc:0 "Two years ago, the New Mareland Army Corps was truly humiliated in a disastrous 'war' against the local cockatrice population. Those birds turned over 100 brave [Root.GetAdjective] to stone and our own bullets and bombs caused more damage than the cockatrices ever did!\n\nClearly we have much to learn from these mistakes."
 
- EQC_a_mobile_army:0 "New Mareland Military Pattern Trucks"
+ EQC_a_mobile_army:0 "뉴 메어랜드 군용트럭 표준화"
  EQC_a_mobile_army_desc:0 "Our army needs to modernise if we are to stand a chance in the upcoming conflicts. Trucks are essential to moving troops and supplies in areas without railroads. To properly standardise the production of motorised vehicles, we'll push a design for our own military trucks. This will allow mass production of trucks, the first step to a truly mobile army."
 
- EQC_bits_gun:0 "The Bits Gun"
+ EQC_bits_gun:0 "비트스 건"
  EQC_bits_gun_desc:0 "We have never had the resources of many of the world's larger nations so many of our firearms were imported from overseas, especially from Equestria. A locally developed and produced primary firearm would drastically cut the cost of arming our troops. We will collect and examine a collection of foreign guns we have acquired, to put together our own rifle, made to be efficient in both resource and labour cost."
 
- EQC_new_mareland_catering_corps:0 "New Mareland Army Catering Corps"
+ EQC_new_mareland_catering_corps:0 "뉴 메어랜드 육군 배식단"
  EQC_new_mareland_catering_corps_desc:0 "They say a pony marches on his stomach. Then surely an army marches on a thousand stomachs. To make sure our army never goes hungry, we shall establish an official branch of our army whose job it is to procure food for the troops. The New Mareland Army Catering Corps will cater to all our soldiers' needs, so that they only have to focus on fighting the actual battle."
 
- EQC_sentinel_project:0 "The Sentinel Project"
+ EQC_sentinel_project:0 "센티넬 프로젝트"
  EQC_sentinel_project_desc:0 "The future of warfare is clearly the tank. Tanks are armoured weapon platforms that can outmanoeuvre the enemy. If we devote extra resources to developing new models and variants of tanks, we might gain a cutting edge in the battles ahead. With dedicated tank divisions, our armies will waltz over the plains victoriously. The griffons may have their knights, but New Mareland will have its Sentinels."
 
  EQC_new_mareland_artillery:0 "[Root.GetEQCArtilleryName]"
- EQC_new_mareland_artillery_loyalist:0 "Royal New Mareland Artillery Command"
- EQC_new_mareland_artillery_free:0 "New Mareland Artillery Command"
+ EQC_new_mareland_artillery_loyalist:0 "뉴 메어랜드 왕립 포병 사령부"
+ EQC_new_mareland_artillery_free:0 "뉴 메어랜드 포병 사령부"
  EQC_new_mareland_artillery_desc:0 "Artillery is an old concept of warfare, but the increased complexity of the battlefield requires new tactics. Mobile warfare, massed troop formations and shifting fronts require expert management for the big guns. In order to effectively handle the use of our artillery, we will establish a new Command centre to assist with this."
 
  EQC_marine_assault_tactics:0 "[Root.GetEQCMarineTechName]"
- GetEQCMarineTechName_loyalist:0 "Royal Colonial Marines"
- GetEQCMarineTechName_free:0 "Marine Assault Tactics"
+ GetEQCMarineTechName_loyalist:0 "왕립 식민지 해병대"
+ GetEQCMarineTechName_free:0 "해병대 공격 전술"
  EQC_marine_assault_tactics_desc:0 "We are a nation almost exclusively of islands and coasts. This means we need to expand the regiment that specialises in amphibious tactics. The marines are instrumental to our attack and defence strategies. They are a cut above the rest of the army and if we train and learn tactics to effectively use them during naval landings, we will be able to gain a foothold on any shore."
 
- EQC_the_walkie_talkie:0 "The Walkie-Talkie"
+ EQC_the_walkie_talkie:0 "워키토키"
  EQC_the_walkie_talkie_desc:0 "In the few wars that have been fought, our troops have quickly come to appreciate the use of Walkie-Talkies. The short-range portable radios make coordinating attacks that much easier, with their continuous design process giving us valuable insights into electronics. By extending its use to most of our military, this new technology will prove useful in all branches of our army."
 
- EQC_unconventional_warfare:0 "Unconventional Warfare"
+ EQC_unconventional_warfare:0 "비 정규전"
  EQC_unconventional_warfare_desc:0 "Our army has never been a normal one. From its unofficial beginnings when we first set foot here, New Mareland has always been keen to adopt new and experimental tactics. We shall embody and embrace this fact. We are different! Let our enemies fear our unorthodox strategies.  Thinking creatively might help us win, even if the enemy has more ponypower than us."
 
- EQC_section_z:0 "Section Z"
+ EQC_section_z:0 "섹션 Z"
  EQC_section_z_desc:0 "The battle may be hard. It will bleed us 'til we are dry. The enemies will be arduous. But we shall adapt and we shall overcome. For the glory of New Mareland!\nThe Special Operations Department, better known as Section Z, runs our special forces. They will see us through until the end, be it a sweet or a bitter one."
- EQC_section_z_tech:0 "Section-Z Training"
+ EQC_section_z_tech:0 "섹션 Z 모의전"
  EQC_section_z_tech_effect:0 "Enables §HSection-Z Training§!\n§HAll Special Forces\n    Jungle§!\n      Attack: §G+5%§!\n      Movement: §G+10%§!\n    §HForest§!\n      Attack: §G+2%§!\n      Movement: §G+5%§!\n    §HUrban§!\n      Attack: §G+5%§!\n      Movement: §G+5%§!\n"
 
  EQC_royal_military_academy_sunset:0 "[Root.GetEQCSunsetAcademyName]"
- EQC_royal_military_academy_sunset_loyalist:0 "Royal Military Academy Sunset"
- EQC_royal_military_academy_sunset_free:0 "Sunset Military Academy"
+ EQC_royal_military_academy_sunset_loyalist:0 "선셋 왕립 육군 사관학교"
+ EQC_royal_military_academy_sunset_free:0 "선셋 육군 사관학교"
  EQC_royal_military_academy_sunset_desc:0 "The Military Academy at Sunset is our pride and joy. Its excellent facilities and teacher staff will train the next generation of Mareland's finest to serve us for a long time to come. Putting more funds into the academy here will certainly serve us well. If all our officers learn the classics of warfare, they will certainly learn from past mistakes."
 
- EQC_catering_corps:0 "New Mareland Army Catering Corps"
+ EQC_catering_corps:0 "뉴 메어랜드 육군 배식단"
  EQC_catering_corps_desc:0 ""
 
- EQC_nmac_spirit:0 "NMAC Spirit"
+ EQC_nmac_spirit:0 "NMAC의 정신"
  EQC_nmac_spirit_desc:0 "The New Mareland Army Corps is special. Whether it be griffon bandits or hordes of wild animals, they face them with a laugh. We should embrace this spirit and let it guide our fighting ponies long into the future."
 
- EQC_hackhoof_shovel:0 "Hackhoof Shovel"
+ EQC_hackhoof_shovel:0 "핵후프 삽"
  EQC_hackhoof_shovel_desc:0 "The Hackhoof Shovel is a shovel design invented in the New Mareland. But it is much more than that, it is also our strategy for fortification and engineering. Rolling out these tactics to all our engineer companies will improve the speed in which they will be able to build field fortifications and other structures. This will surely help our army to stand its ground."
 
  #Navy
- EQC_expand_manehatten_harbour:0 "Expand New Manehattan Harbour"
+ EQC_expand_manehatten_harbour:0 "뉴 맨해튼 항만 확장"
  EQC_expand_manehatten_harbour_desc:0 "The Naval Harbour at New Manehattan has served us well since the nation's establishment and served as our very first dedicated fleet hub. By expanding its dockyards and deepening the harbour, its output will increase. We will make sure our shipbuilding capacity is up to the challenges of the new millennium."
 
- EQC_commerce_protection:0 "Commerce Protection"
+ EQC_commerce_protection:0 "무역 보호"
  EQC_commerce_protection_desc:0 "New Mareland exists of several islands and to defend our economic interests, we must allow safe passage of merchant shipping between them. To facilitate this aim we must expand our naval office to develop new tactics to keep our shipping save. We must be ready for the naval war that could come to our very shore."
 
- EQC_seawolves:0 "Seawolves"
+ EQC_seawolves:0 "바다늑대"
  EQC_seawolves_desc:0 "Some daring ponies argue that our naval efforts should focus on the new tactic of the destruction of our enemies means of shipping and the transport of troops and materials. This will be accomplished by developing tactics and communications for our submarines. If we destroy the enemy transports the naval war will never come to our very shore."
 
- EQC_modernise_the_fleet:0 "Modernise the Fleet"
+ EQC_modernise_the_fleet:0 "함대 현대화"
  EQC_modernise_the_fleet_desc:0 "Whether we go on the offence or defence, we must always ensure that our surface fleet is kept in top-condition. We should develop new models of destroyers and cruisers, that way New Mareland's fleet will always be a force to be reckoned with."
 
  EQC_royal_new_marelander_submarine_service:0 "[Root.GetEQCSubmarineFocusName]"
- EQC_royal_new_marelander_submarine_service_loyalist:0 "Royal New Mareland Submarine Service"
- EQC_royal_new_marelander_submarine_service_free:0 "New Mareland Submarine Service"
+ EQC_royal_new_marelander_submarine_service_loyalist:0 "뉴 메어랜드 왕립 잠수 함대"
+ EQC_royal_new_marelander_submarine_service_free:0 "뉴 메어랜드 잠수 함대"
  EQC_royal_new_marelander_submarine_service_desc:0 "We will form a dedicated branch of the navy that is concerned with submarines. The development of new models that can stay submerged for longer, with stronger hulls, torpedoes and defences, will help us on our mission to interdict enemy shipping."
 
- EQC_merchant_navy:0 "The Merchant Navy"
+ EQC_merchant_navy:0 "상선 호위 함대"
  EQC_merchant_navy_desc:0 "For the longest time, our Admiralty had the power to commandeer our merchant fleet in wartime. We will set up a separate branch of the navy that will deal with these issues. Its objectives will be twofold, increasing the tonnage of our merchant fleet, while also ramping up the production of the destroyers that patrol the coastal waters to protect them. We will win the battle against the submerged threat!"
 
- EQC_wingbardy_arms_race:0 "The Worbert Hoofup"
+ EQC_wingbardy_arms_race:0 "윌버트 후프업"
  EQC_wingbardy_arms_race_desc:0 "The pompous Wingbardians think their fleet is better than ours. Hah, we will build battleships that will make the Regia Marina look like a bunch of rubber boats! This is a matter of national prestige."
 
- EQC_degauss_ship_hulls:0 "Degauss Ship Hulls"
+ EQC_degauss_ship_hulls:0 "선체 자성 제거"
  EQC_degauss_ship_hulls_desc:0 "Now that we possess a good understanding of submarine tactics, we now also know how to counter enemy submarines. A process called degaussing can weaken the magnetic field of metallic objects. If we degauss our ship hulls that will make it harder for torpedoes to detect our ships. The enemy submariners won't expect this little trick."
 
- EQC_project_kununurra:0 "Project Kununurra"
+ EQC_project_kununurra:0 "쿠눈누라 프로젝트"
  EQC_project_kununurra_desc:0 "Kununurra means 'Big Water' in a native griffon language. Using this word will proclaim our intent to dominate the seas and skies of the large oceans of Griffonia. The most effective way to control both are Aircraft Carriers, which will be a new focus for our naval development. It will be a huge investment, but even just one of these can project a staggering amount of power."
 
- EQC_secure_the_centeral_sea:0 "Secure the Middle Sea"
+ EQC_secure_the_centeral_sea:0 "중부 해역 색적"
  EQC_secure_the_centeral_sea_desc:0 "Pirates, Wingbardians, sea monsters and the occasional hurricane think they control the oceans. They claim the Middle Sea as their own, believing we are too weak to contest their claim. This cannot stand, we will show all ocean-goers the might of our armada. And soon our Proud Naval Flag will be held in respect on every distant shore!"
 
- EQC_naval_auxiliary_patrol:0 "Naval Auxiliary Patrol"
+ EQC_naval_auxiliary_patrol:0 "예비 함대 순찰"
  EQC_naval_auxiliary_patrol_desc:0 "In order to defend our own shores from foreign aggression, we must establish the Naval Auxiliary Patrol. Its purpose will be to establish coastal defence batteries in and around port locations. This will deter foreign invaders and, in the unlikely case of invasion, drastically increase our chance of fighting the invaders off. As long as they cannot set foot on our soil, they cannot conquer us."
 
  EQC_solarist_rise:0 "For Celestia"
