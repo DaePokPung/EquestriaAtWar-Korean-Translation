@@ -5,14 +5,16 @@
 
 # 공지사항
 - 20.06.15 1.7.6.2버전 한패 업데이트 완료되었습니다.
-- 현재 번역 작업이 중구난방으로 진행된다는 지적에 따라 번역의 전체적인 방향을 잡고자 합니다.번역하시는 분들은 가급적이면 아래의 문서를 최우선으로 번역해 주시면 감사하겠습니다.
 
-  - [이퀘스트리아](localisation/country_EQS_l_english.yml) (번역 완료)
-  - [루나 제국](localisation/country_NLR_l_english.yml) (번역 완료)
+# 번역 추천 국가
+- 현재 번역이 이루어지고 있는 국가 문서들입니다. 번역하고 싶은 문서가 없으시다면 아래 국가들의 번역에 참가해 주세요!
+
   - [태양 제국](localisation/country_SOL_l_english.yml)
   - [체인질링 랜드](localisation/country_CHN_l_english.yml)
-  - [그리포니아 제국](localisation/country_GRI_l_english.yml) (번역 완료)
   - [그리포니아 공화국](localisation/country_FAT_l_english.yml)
+  - [스카이나비아 사회주의 공화국](localisation/country_SRS_l_english.yml)
+  - [뉴메어랜드 연방](localisation/country_EQC_l_english.yml)
+  - [이퀘스트리아 해방전선](localisation/country_MAN&ELF_l_english.yml)
 
 ***
 
