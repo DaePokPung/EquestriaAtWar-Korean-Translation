@@ -480,7 +480,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_the_13th_state:0 "13번째 주"
  EQC_the_13th_state_desc:0 "Wrobert, though filled with griffons also holds a small Pony minority. Even if they have been downtrodden by the griffons, we know that any equine, once given the opportunity to rise above their station and to the occasion will perform better as a ruler than any brutish griffon."
  
- EQC_the_14th_state:0 "카이온 해역"
+ EQC_the_14th_state:0 "온 해역"
  EQC_the_14th_state_desc:0 "The islands in the Kion Sea, though they are lacking in resources, are also prime settlement land. Even if we will need to grant certain concessions to the inhabitants already there, collaborators and helpers can go a long way to make sure that once it is calm, it will stay calm for a long time."
 
  #Communism!
@@ -1020,7 +1020,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  mareland.17.t:0 "파시즘에 대해 당신이 생각하고 있는 모든 것"
  mareland.17.d:0 "A book by Duke Haygle, the leader of the controversial New Mareland Republican Fascist Party, was published today. A political treatise on Fascism, it shocked most of the population. The duke bluntly lays out his plans for New Mareland in just under 300 pages. The core of his argument is that only absolute unity in the state and military pride can save New Mareland from economic collapse and the threat of communism. One of his more controversial points, saying that New Mareland should get rid of anypony that isn't absolutely dedicated to New Mareland and her government, has caused many to openly call for a ban on his writings. Some of the more desperate and patriotic ponies, however, think that his plans are just what we need to get our nation back on track. The government now faces a decision to either ban or allow the duke’s book."
  mareland.17.a:0 "좋은 읽은거리군, 보관해두자고."
- mareland.17.b:0 "순수성 검사? 이건 그냥 잘못됐어! 출판금지해!"
+ mareland.17.b:0 "순수성 검사? 이건 그냥 잘못됐어! 출판금지시켜!"
 
  mareland.18.t:0 "킹피쉬가 암살당하다!"
  mareland.18.d:0 "This morning, the divisive politician Kingfisher was shot whilst leaving a session of Congress. His attacker, Caramel Chock, was restrained by the police, but he was able to fire three shots of his revolver.\n\nKingfisher was rushed to Sunset University Hospital where he later died of his injuries.\n\nKingfisher's popularity was second only to his controversy. He was known as a bully and a tyrant and often had legal challenges thrown against him from politicians and businessponies. However, during his time as governor of Celestia, he radically changed the face of the state, changing it from one of the poorest and least developed into a vibrant community on its way to recovery."
@@ -1154,7 +1154,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
 
  mareland.48.t:0 "붉은 행진"
  mareland.48.d:0 "Factory workers, the unemployed and the homeless took to the streets of Sunset today demanding the government to bring an end to our economic woes. Thousands of ponies marched up Commonwealth Avenue to the Commonwealth Congress only to stop peacefully in front of the police line. Several ponies were reported to have given flowers to the police officers as they sang communist folk songs and chanted for change."
- mareland.48.a:0 "우리는 이 세상을 더 좋게 만들어야 한다."
+ mareland.48.a:0 "우리는 이 세상을 더 좋게 만들어야만 한다."
 
  mareland.49.t:0 "공산주의자들이 푸드 뱅크를 열다"
  mareland.49.d:0 "The Socialist Alliance has set forth an initiative to open food banks for the poor in many major cities. This initiative has been welcomed with open hooves as ponies, even from the middle classes flock to the banks to feed their starving families. However, some argue that this is not an act of kindness, but one of malice designed to undermine [Root.GetAdjective] society. They even argue that the communist shouldn't have enough money for all that food."
@@ -1196,11 +1196,11 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  mareland.57.b:0 "비용을 지불한다면... 도와줄수도."
  mareland.57.c:0 "우린 이 문제와 아무런 상관이 없다."
 
- mareland.58.t:0 "[From.GetName]가 우리를 돕다"
+ mareland.58.t:0 "[From.GetName](이)가 우리를 돕다"
  mareland.58.d:0 "The griffons come to our aid, they have decided that the nightmare of MARESOC has to end. We can count on our friends."
  mareland.58.a:0 "훌륭하군!"
 
- mareland.59.t:0 "[From.GetName]가 땅을 반환하길 원하다"
+ mareland.59.t:0 "[From.GetName](이)가 땅을 반환하길 원하다"
  mareland.59.d:0 "The griffons want to help us, but they cite the imminent loss of life and money as reason that might concern their citizens. To quell opposition against the military intervention, they need the promise of land. This is of course nonsense, but they did formulate it in such a way that it doesn't look like an insult. Do we accept their demands?"
  mareland.59.a:0 "그들이 원하는 것을 줘."
  mareland.59.b:0 "그럴 일은 없을껄."
@@ -1213,15 +1213,15 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  mareland.61.d:0 "The fools in Canterlot refuse our most fair demands. Guess they didn't need the help of our griffons. We'll see how it plays out then."
  mareland.61.a:0 "녀석들만 손해지."
 
- mareland.62.t:0 "[From.GetName]가 우리의 영토를 요구하다!"
+ mareland.62.t:0 "[From.GetName](이)가 우리의 영토를 요구하다!"
  mareland.62.d:0 "It seems the forces of evil don't even want to fight us one versus one. Trying to secure every unfair advantage they can find, they have invited the griffons across our borders to join them in their crusade against the truth. All citizens must be ready to fight."
- mareland.62.a:0 "우린 언제나 [From.GetName]과(와) 전쟁을 해왔다."
+ mareland.62.a:0 "우린 언제나 [From.GetName]과(와) 전쟁을 치려왔다."
 
  mareland.63.t:0 "자유의 일출 작전"
  mareland.63.d:0 "Equestria has send us the encoded message to prepare our troops. The war against MARESOC is about to begin. We shall strike down this soulless tyranny and liberate the ponies of New Mareland together."
  mareland.63.a:0 "전쟁이다!"
 
- mareland.64.t:0 "[From.GetName]가 우리를 돕지 않기로 하다"
+ mareland.64.t:0 "[From.GetName](이)가 우리를 돕지 않기로 하다"
  mareland.64.d:0 "The griffon state has refused our offer. They sympathised with our cause, but simply didn't dare spend the manpower and effort to fight such a battle. They wished us the best of luck in our endeavour, however."
  mareland.64.a:0 "이해한다."
 
@@ -1238,7 +1238,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  
  mareland.67.t:0 "[From.GetNameDef](이)가 우리를 독립보장하기로 하다"
  mareland.67.d:0 "Our envoy has returned from [From.GetName], the leading nation of the River Coalition. She has good news: They have formally guaranteed our independence and warned our neighbours from making any aggressive actions against us or our sovereignty."
- mareland.67.a:0 "우리는 그리폰의 위협에 맞써 함께 설 것이다.."
+ mareland.67.a:0 "우리는 그리폰의 위협에 맞써 함께 설 것이다..."
  
  mareland.68.t:0 "[From.GetNameDef](이)가 우리를 독립보장하지 않기로 하다"
  mareland.68.d:0 "Our envoy has returned from [From.GetName], the leading nation of the River Coalition. She has bad news: They have refused to guarantee our independence, stating that it would do nothing to dissuade our enemies because they are too far away. While they are not wrong, it also means they are not interested in developing our relationship further."
@@ -1289,37 +1289,37 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
 
 
  ### NEWS EVENTS ###
-eqc_news.1.t:0 "New Mareland Seeks Patriation"
+eqc_news.1.t:0 "뉴 메어랜드 연방이 결별을 선언하다"
  eqc_news.1.d:0 "[This.GetNewspaperHeader]An emergency session of New Mareland's Commonwealth Congress came to a close this morning with a vote of 150 to 76 in favour of seeking immediate separation of government from Equestria. This follows the collapse in negotiations between Equestria and New Mareland on the subject of New Mareland sovereignty and the poor economic situation that ravages the nation. The vote has been applauded by many as the first true step on the path of independence. The Governor-General and many in the ruling UEP have remained mute on the matter."
- eqc_news.1.a:0 "We stake our own path!"
- eqc_news.1.b:0 "We can only blame ourselves."
- eqc_news.1.c:0 "Interesting."
+ eqc_news.1.a:0 "우린 우리들만의 길을 걸어나갈 것이다!"
+ eqc_news.1.b:0 "우리 잘못이로군."
+ eqc_news.1.c:0 "흥미롭군."
 
-eqc_news.2.t:0 "New Mareland Declares Independence"
+eqc_news.2.t:0 "뉴 메어랜드 연방이 독립을 선언하다"
  eqc_news.2.d:0 "[This.GetNewspaperHeader]After months of negotiations, debates in congress and mass rallies in the streets, New Mareland has officially announced its declaration of independence from Equestria. The treaty was ratified this morning after a near unanimous vote in congress and was signed by the Governor-General and the Equestrian ambassador.\n\n\"It is the right for every New Marelander to decide their own fate. The future is now in our own hooves and our will is not to be dictated by a foreign monarch,\" Governor-General [EQC.GetLeader] said on national radio.\n\nIt was followed by an announcement that new elections shall be held in the upcoming months after a period of political campaigning."
- eqc_news.2.a:0 "Long live New Mareland!"
- eqc_news.2.b:0 "The Princess will miss her little ponies."
- eqc_news.2.c:0 "Equestria is not as unified as it seemed."
+ eqc_news.2.a:0 "뉴 메어랜드여 영원하라!"
+ eqc_news.2.b:0 "공주는 그녀의 작은 포니들을 그리워 하겠구만."
+ eqc_news.2.c:0 "이퀘스트리아는 보이는 것보단 통합되진 않았군."
 
-eqs_election_win.t:0 "[EQC.GetLeader] Wins in New Mareland"
+eqs_election_win.t:0 "[EQC.GetLeader](이)가 뉴 메어랜드에서 승리하다"
  #eqc_news.3 to eqc_news.6 are the news events that happen when each candidate is elected 3 = Jet Set 4 = Gladmane 5 = Kingfisher 6 = The Duke
 
  eqc_news.3.d:0 "[This.GetNewspaperHeader]This morning, [From.GetLeader] was sworn in as the first President of an independent New Mareland. The old Governor-General had put himself on a new platform of not just the same but a keeping of New Mareland tradition and pride. As he was sworn in he promised the ponies that he would maintain their democratic traditions and preserve the commonwealth. Despite his record, the ponies cheered him on as he took the oath of office."
- eqc_news.3.a:0 "We are united and free!"
- eqc_news.3.b:0 "Has anything really changed?"
+ eqc_news.3.a:0 "우린 자유롭고 단결한다!"
+ eqc_news.3.b:0 "정말 바뀐게 있는거 맞아?"
 
  eqc_news.4.d:0 "[This.GetNewspaperHeader]This morning, [From.GetLeader] was sworn in as the first President of an independent New Mareland. As [From.GetLeader] took the stand he made a riveting and slightly understandable speech about how great the nation would become under his leadership. He promised the masses wealth by allowing the many the corporations of New Mareland to flourish with little government oversight. Despite his record, the people cheered him on as he took the oath of office."
- eqc_news.4.a:0 "Let's make New Mareland great!"
- eqc_news.4.b:0 "This sounds like a bad idea..."
+ eqc_news.4.a:0 "뉴 메어랜드를 위대하게 만들자고!"
+ eqc_news.4.b:0 "그닥 좋은 생각은 아닌 것 같은데..."
 
  eqc_news.5.d:0 "[This.GetNewspaperHeader]This morning, [From.GetLeader] was sworn in as the first President of an independent New Mareland. During his inauguration, [From.GetLeader] caused alarm among his new security team after he stepped down from the podium and walked amongst cheering crowds of ponies, personally telling them that all New Marelanders should have a right to their own wealth and land. Always a populist, he roused the ponies to an ecstatic frenzy of cheers for him and boos against the big corporations that control their lives. Despite corporate opposition the nation cheered him on as he took the oath of office."
- eqc_news.5.a:0 "Every pony a princess!"
- eqc_news.5.b:0 "He may be harsh, but he gets the job done."
+ eqc_news.5.a:0 "모든 포니가 여왕이다!"
+ eqc_news.5.b:0 "그가 좀 가혹할진 몰라도, 결국 일은 해내지."
 
  eqc_news.6.d:0 "[This.GetNewspaperHeader]This morning, [From.GetLeader] was sworn in as the first President of an independent New Mareland. The former army general and political philosopher was a surprise victory with many of his opponents calling for a recount at the last moment. The police were on high alert has his supporters filled the streets of Sunset.\n\nThe Duke gave a passionate speech about the future of New Mareland and its place in the world. Calling it a sleeping nation that had just awoken to find itself surrounded by sharks and vultures. His promise to make New Mareland and all New Marelanders strong was met by cheers from the crowd and cries of, 'Long live the Duke! Long live New Mareland!'"
- eqc_news.6.a:0 "Let us march forwards as one!"
- eqc_news.6.b:0 "This is worrying."
- eqc_news.6.c:0 "Let's see what he does."
+ eqc_news.6.a:0 "함께 전진하자!"
+ eqc_news.6.b:0 "걱정되는군."
+ eqc_news.6.c:0 "그가 뭘 할지 한번 봐보자고."
 
 eqc_news.7.t:0 "New Mareland Recognises [STG.GetNameDef]"
  eqc_news.7.d:0 "[This.GetNewspaperHeader]In a complete disregard on will of the Equestrian government, New Mareland has formally announced that it will fully recognise Stalliongrad as its own independent state. Diplomatic relations between the two countries shall be officially established in the upcoming weeks, with a sight for the new Stalliongrad embassy having already been selected in Sunset.\n\nThe Equestrian ambassador has issued an official protest and has demanded that the New Mareland government retracts the announcement. Even going as far as threatening to relinquish the Governor-General from his office."
