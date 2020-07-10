@@ -3,7 +3,7 @@
  inspiration_leader:0 "고무된 지도자"
  royal_guard_commander:0 "Royal Guard Commander"
  royal_guard_commander_desc:0 "Shining Armour is the current Captain of the Royal Guard, and his presence inspires ponies to greater bravery, knowing that he's watching them, with a barrier spell ready."
- pioneer_activist:0 "Pioneer Activist"
+ pioneer_activist:0 "개척자 활동가"
  princess_of_ponies:0 "포니들의 공주"
  princesses_of_ponies:0 "포니들의 공주들"
  dislikes_griffon_empire:0 "제국 혐오자"
@@ -70,7 +70,7 @@
  secret_police_chief_desc:0 "이 개인은 어느 시점에 또는 여전히 스파이 기관장을 맡고 있습니다."
  cult_leader:0 "Cult Leader"
  red_admiral:0 "The Red Admiral"
- hero_of_the_revolution:0 "Hero of the Revolution"
+ hero_of_the_revolution:0 "혁명의 영웅"
  friendly_priest:0 "친절한 설교가"
  friendly_priest_desc:0 "순수한 선의와 약간의 형평성을 통해 신도와 비신도 모두에게 사랑받고 있습니다."
  employee:0 "Model Employee"
@@ -129,7 +129,7 @@
  serene_monarch:0 "Serene Monarch"
  serene_monarch_desc:0 "Celestia has reconciled with her ponies and accepted the reforms demanded of her government, and thus they have accepted her back."
  #nightmare_of_solomon_desc:0 "After almost single-hoofedly turning around a naval battle in the middle of the night against a much larger enemy force Evening Squall was first given the nickname "Nightmare of Solomon" by enemy forces but it was soon adopted by Equestrian naval personnel. Ever since she has a reputation of being second to none when it comes to naval warfare, especially at night."# Identical duplicate from Eaw
- nuclear_concern:0 "Nuclear Concern"
+ nuclear_concern:0 "원자력 회사"
  research_center:0 "Research Centre"
  forest_deer:0 "Forest Deer"
  forest_deer_desc:0 "Forest deer know their forests very well and can guide their troops to advance faster."
@@ -183,8 +183,8 @@
  silent_workgriffon1:0 "조용한 일꾼"
  silent_workgriffon:0 "조용한 일꾼"
  silent_workgoat:0 "조용한 일꾼"
- popular_figurehead1:0 "Popular Figurehead"
- popular_leader:0 "Popular Leader"
+ popular_figurehead1:0 "유명인사"
+ popular_leader:0 "유명한 지도자"
  ideological_crusaders1:0 "Ideological Crusaders"
  ideological_crusaders:0 "Ideological Crusaders"
  smooth_talking_charmers1:0 "Smooth-Talking Charmers"
@@ -193,7 +193,7 @@
  determined_innovator_desc:0 "This commander uses the most modern means of warfare. Improvise. Adapt. Overcome!"
  warrior_chief:0 "Warrior Chief"
 
- agricultural_concern:0 "Agricultural Concern"
+ agricultural_concern:0 "농업 "
  
  agrarian_concern:0 "Agrarian Concern"
  signal_expert_trait:0 "Signal Expert"
@@ -274,8 +274,8 @@
  welfare_reformer:0 "Welfare Reformer"
  socialist_grandmother:0 "Socialist Grandmother"
  socialist_director:0 "Socialist Director"
- head_of_intelligence_pony_f:0 "Illusive Gentlemare"
- head_of_intelligence_griffon:0 "Illusive Gentlebird"
+
+ head_of_intelligence_griffon:0 "환상의 신사"
  
  vengful_ex_slave:0 "Vengeful Ex-Slave"
  
@@ -291,6 +291,8 @@ Yal_skeleton_king_army_leader_desc:0 "Fighting for the great Grover II inspires 
 
  pony_race_trait:0 "포니"
  pony_race_trait_desc:0 "Ponies are small, colourful and sentient equines. The term “pony” traditionally encompasses three subgroups which are the earth ponies, the pegasi and the unicorns. Earth ponies are characterized by their sturdier physic. The pegasi are somewhat lighter than their earthbound cousins and have a pair of wings that allows them to fly. The unicorns are also lighter but have a distinctive horn on their forehead which allows them to practice magic and use spells. An extremely rare subgroup called the Alicorns have features of all three: strong physique, wings and a magical horn. Finally, every pony has a cutie mark, a magical symbol upon their flanks that appears during the latter phase of their development. The cutie mark is a not well-understood phenomenon and illustrates a special talent or personality trait of the pony who bears it. It has therefore a significant cultural importance to many pony societies throughout the world."
+ unspecified_race_trait:0 "미스터리한 존재"
+ unspecified_race_trait_desc:0 "이 종에 대해서 기록된 바는 없습니다."
  thestral_race_trait:0 "테스트라"
  thestral_race_trait_desc:0 "The thestral ponies are a subgroup of ponies identifiable by their leathery bat-like wings and sharp fangs. Like ponies, their flanks have a cutie mark. They have the ability to see in the dark but have no magical abilities beyond those of earth ponies and pegasi. While it is not an absolute rule, many thestrals behave as nocturnal creatures. They are sometimes called bats, even among themselves though it is sometimes seen as derogatory compared to the more neutral term of thestral, and has historically been associated to the figure of Nightmare Moon, though the truth is much more complex."
  zebra_race_trait:0 "얼룩말"
