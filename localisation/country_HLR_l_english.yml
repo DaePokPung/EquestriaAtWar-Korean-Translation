@@ -191,7 +191,7 @@ HLR_Slaughter_desc:0 "희망의 방패는 모든 악을 정화시키는 힘을 �
 HLR_New_Economy:0 "경제 재활성화"
 HLR_New_Economy_desc:0 "기사단은은 형편없는 체계의 계획 경제로 고통받고 있다. 우리가 이웃들과 함께 북쪽에서 살아남으려면 필요하다. 정부는 아크투리안 기사단을 산업화할 더 나은 방법을 찾기 위한 정책을 시작했다.\n\n 이것은 우리에게 필요한 힘을 줄 것이다."
 
-HLR_Civilian_Investment:0 민간 분야에 투자"
+HLR_Civilian_Investment:0 "민간 분야에 투자"
 HLR_Civilian_Investment_desc:0 "역동하는 세계에서 이 북쪽에 있는 우리의 인구를 지원하기 위해, 우리는 그들을 부양할 공장을 건설해야 한다. 우리는 기사단에 있는 최고의 장인들에게 이 공장들을 짓도록 명령하여, 구제책이 시민들에게 더 빨리 효과가 보이도록 해야 한다.이 나라가 다시 네 발로 서려면 더 많은 일을 해야 한다"
 
 HLR_Infrastructure_Projects:0 "개발 계획"
@@ -200,7 +200,7 @@ HLR_Infrastructure_Projects_desc:0 "아크투리안 기사단의 기반 시설�
 HLR_Military_Investment:0 "군대 재건"
 HLR_Military_Investment_desc:0 "증강되는 군사력를 지원하려면, 군사 장비에 대한 수요가 증가하는 것을 충족해야 한다. 이에 대응하기 위해 군수공장과 장비공장 건설을 최우선 과제로 추진하기로 했다. 아크투리아 기사단은 성장하는 군대를 지원해야 한다.\n\n동쪽의 언데드는 쉬지 않는다."
 
-HLR_Military_Access_Rights:0 "군사 기반시설 "
+HLR_Military_Access_Rights:0 "군사 기반시설"
 HLR_Military_Access_Rights_desc:0 "아크투리아 기사단의 군대는 산업화 이후 배치될 새로운 장비를 지원하기 위한 적절한 기반시설이 필요하다. 더 크고 더 내구성이 좋은 도로를 건설하고, 해외에서 수입한 철도와 증기 열차를 배치해야 한다. 만약 우리가 드레드 리그의 새로운 위협에 맞서 방어하려면, 우리는 우리의 성스러운 땅을 통해 우리 군대를 움직일 수 있도록 해야 한다."
 
 HLR_Revitalised_Industry:0 "산업 분야의 재건"
@@ -209,7 +209,7 @@ HLR_Revitalised_Industry_desc:0 "기초가 마련되어 신성 아크투리아 �
 HLR_Continued_Developement:0 "지속적인 개발"
 HLR_Continued_Developement_desc:0 "기반시설의 추가 개발은 심지어 우리 땅의 가장 먼 곳에도 쉽게 도달할 수 있게 될 것이다. 우리의 땅의 모든 구역에 손길이 닿을 것이며, 모든 자원은 개발될 것이다."
 
-HLR_Resource_Access_Initiative:0 "자원 개발 이니셔티브"
+HLR_Resource_Access_Initiative:0 "자원 개발 계획"
 HLR_Resource_Access_Initiative_desc:0 "농촌에는 미개척 자원매장지가 많지만, 우리의 철도망은 대량의 물자를 육지로 수송하기에 이상적이지 않다. 우리의 인프라를 개선하면 분명히 기사단의 영역 내에 있는 모든 자원에 대한 우리의 접근과 이용을 극대화하는 데 도움이 될 것이다."
 
 HLR_Factory_Modernization:0 "공장 현대화"
