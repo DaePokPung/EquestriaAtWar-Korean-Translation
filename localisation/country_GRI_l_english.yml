@@ -1365,7 +1365,7 @@
  GRI_capitals_tp:0 "모든 §Y리버랜드 국가의 수도§!들이 §Y제국§!의 통제 하에 있습니다\n\n"
  release_EQC_tp:0 "슈투텐슈타트 위임통치령 설립"
  release_NCH_tp:0 "그렌클리프 위임통치령 설립"
- release_RIV_tp:0 "플루스란트 위임통치령 설립"
+ release_RIV_tt:0 "플루스란트 위임통치령 설립"
  release_DED_tp:0 "북부 위임통치령 설립"
  you_monster:0 "§R당신은 무정한 괴물입니다.§!\n"
  GRI_further_cooperation_tp:0 "이 중점을 완료하면 §Y체인질링 주재무관§!과 상호작용할 수 있는 §Y결정§!을 해제할 것입니다.\n"
