@@ -437,7 +437,7 @@
  BRZ_mass_production_desc:0 "TFor too long our nation has been geared towards a pompous and bourgeois economy, more focused upon the production of baubles and trinkets than the things that are really important. This era of needless luxury must come to an end and our nation must be geared towards producing the necessities of the revolution."
 
  BRZ_ten_principals:0 "열 가지 원칙"
- BRZ_ten_principals_desc:0 "1. We must give our all in the struggle to unify the entire society with the revolutionary ideology of the Great Leader Grover VI.\n2. We must honour the Great Leader comrade Grover VI with all our loyalty.\n3. We must make absolute the authority of the Great Leader comrade Grover VI."
+ BRZ_ten_principals_desc:0 "1. We must give our all in the struggle to unify the entire society with the revolutionary ideology of the Great Leader comrade Grover VI.\n2. We must honour the Great Leader comrade Grover VI with all our loyalty.\n3. We must make absolute the authority of the Great Leader comrade Grover VI."
 
  BRZ_kim_crisis_2:0 "중도파 숙청"
  BRZ_kim_crisis_2_desc:0 "When the Council of the Left first formed it called upon a broad base of faction, looking to overthrow the oppressive crown of Count Bronzetail. However, some of these supposed 'revolutionaries' are little more than capitalists and reactionaries in disguise, hoping to use our suffering to further their own gains. As such, these dogs must be purged from our society."
@@ -1105,6 +1105,11 @@
  bronzehill.33.d:0 "The junior emissary sent to [BRZ_mountain_pass_target.GetNameDef] came back with news of our latest offer. Apparently, our ultimatum was met with such hostility that our ambassador was arrested for arriving without permission.\n\nWhile no formal communications have arrived to the council, reports from the border show that the military of [BRZ_mountain_pass_target.GetNameDef] has begun to mobilise, preparing themselves for war.\n\nThe outlook for solving this conflict diplomatic looks impossibly bleak, and our generals are asking for permission to respond to this hostile mobilisation."
  bronzehill.33.a:0 "They think they can arrest a representative of the workers and get away with it?"
 
+ bronzehill.34.t:0 "The Ten Principles"
+ bronzehill.34.d:0 "1. We must give our all in the struggle to unify the entire society with the revolutionary ideology of the Great Leader comrade Grover VI.\n\n2. We must honour the Great Leader comrade Grover VI with all our loyalty.\n\n3. We must make absolute the authority of the Great Leader comrade Grover VI.\n\n4. We must make the Great Leader comrade Grover VI's revolutionary ideology our faith and make his instructions our creed.\n\n5. We must adhere strictly to the principle of unconditional obedience in carrying out the Great Leader comrade Grover VI's instructions.\n\n6. We must strengthen the entire party's ideology and willpower and revolutionary unity, cantering on the Great Leader comrade Grover VI.\n\n7. We must learn from the Great Leader comrade Grover VI and adopt the communist look, revolutionary work methods and people-oriented work style.\n\n8. We must value the political life we were given by the Great Leader comrade Grover VI, and loyally repay his great political trust and thoughtfulness with heightened political awareness and skill.\n\n9. We must establish strong organizational regulations so that the entire party, nation and military move as one under the one and only leadership of the Great Leader comrade Grover VI.\n\n10. We must pass down the great achievement of the revolution by the Great Leader comrade Grover VI from generation to generation, inheriting and completing it to the end."
+ bronzehill.34.a:0 "We love the Great Leader!"
+ 
+ 
  BRZ_infiltration_event.1.t:0 "Looking for commie cell"
  BRZ_infiltration_event.1.desc:0 "If you see this shit, you a cheating bastard."
  BRZ_infiltration_event.1.a:0 "Don't deny it."
