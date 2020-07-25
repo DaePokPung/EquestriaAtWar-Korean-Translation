@@ -773,7 +773,7 @@
  FAT_mass_4:0 "죽음에서의 구원"
  FAT_mass_4_desc:0 "우리는 사면 프로그램을 모든 죄수, 포로, 끔찍한 범죄자, 또는 우리 나라의 평범한 도둑들에게로 확대할 수 있습니다. 그들이 우리 대열에서 싸우기로 동의하는 한, 무슨 죄를 지었든지 간에, 우리는 그들에게 모든 속죄의 기회를 줄 것입니다."
  FAT_an_academy_in_the_north:0 "로스트게이트 군사학교"
- FAT_an_academy_in_the_north_desc:0 "클라우드버리에는 많은 군사학교가 있지만, 북쪽은 군사전략을 가르치는 학원이 매우 부족합니다. 이 문제를 해결하기위해 [Root.GetName]은 북방의 장군들과 연구자들에게 전술과 전략에 대한 훈련을 제공하는 "로스트게이트 사관학교"를 만들었습니다
+ FAT_an_academy_in_the_north_desc:0 "클라우드버리에는 많은 군사학교가 있지만, 북쪽은 군사전략을 가르치는 학원이 매우 부족합니다. 이 문제를 해결하기위해 [Root.GetName]은 북방의 장군들과 연구자들에게 전술과 전략에 대한 훈련을 제공하는 "로스트게이트 사관학교"를 만들었습니다."
  FAT_marshal_rifle:0 "재고품 통제권 탈환"
  FAT_marshal_rifle_desc:0 "우리나라에 총기의 물량이 많을 것입니다. 최근에 일어난 모든 분쟁들, 그리고 또한 일반적으로 증가하는 군국화 때문에, 그것들을 비보호적으로 비축해 둔 장소를 찾는 것은 그리 어렵지 않습니다. 이 방대한 양의 비축물량을 다시 장악함으로써, 우리는 그 무기를 사용하여 육군 대열을 강화하고 무장시킬 수 있었습니다."
  FAT_marshal_rifle_quality:0 "수량 초과 품질"
@@ -828,9 +828,9 @@
  FAT_police_on_the_streets:0 "거리에서의 경찰"
  FAT_police_on_the_streets_desc:0 "만약 우리가 야당에 대항하여 거리에서 더 많은 힘을 발휘한다면, 그들은 공화국에 맞서 무기를 들고 우리의 정당한 정부에 맞서 싸우는 것이 덜 장려될 것입니다. 이 문제는 정말 그렇게 간단합니다."
  FAT_end_the_winghagen_republic:0 "반정부군대 격파"
- FAT_end_the_winghagen_republic_desc:0 "완전한 미치광이 코넬리우스 빈케와 그의 미친 지지자들은 도시들을 진정시키기 위한 우리의 최선의 노력에도 불구하고 여전히 정부에 대항하고 있습니다. 우리 정부가 스스로 블랙스파이어에 가서 그의 작은 혁명 실험에 종지부를 찍어야 할 때가 왔습니다.
+ FAT_end_the_winghagen_republic_desc:0 "완전한 미치광이 코넬리우스 빈케와 그의 미친 지지자들은 도시들을 진정시키기 위한 우리의 최선의 노력에도 불구하고 여전히 정부에 대항하고 있습니다. 우리 정부가 스스로 블랙스파이어에 가서 그의 작은 혁명 실험에 종지부를 찍어야 할 때가 왔습니다."
  FAT_reverse_986:0 "986년의 배신의 복수"
- FAT_reverse_986_desc:0 "스카이나비아의 개들은 986년에 우리를 떠났고, 케머스카이는 공화국과 새로운 민주주의를 지키기 위해 헌법을 중단했습니다. 그들이 떠나면서, 우리 공화국은 불안정과 혼란으로 내몰렸고, 스카이나비아인들은 북쪽에 그들의 "유토피아"를 건설했습니다. 공화국은 그렇지 않다는 것을 그들에게 상기시켜야 할 때입니다.
+ FAT_reverse_986_desc:0 "스카이나비아의 개들은 986년에 우리를 떠났고, 케머스카이는 공화국과 새로운 민주주의를 지키기 위해 헌법을 중단했습니다. 그들이 떠나면서, 우리 공화국은 불안정과 혼란으로 내몰렸고, 스카이나비아인들은 북쪽에 그들의 "유토피아"를 건설했습니다. 공화국은 그렇지 않다는 것을 그들에게 상기시켜야 할 때입니다."
  FAT_the_marshals_last_days:0 "총통의 마지막 나날들"
  FAT_the_marshals_last_days_desc:0 "상상도 할 수 없는 일이 일어났습니다. 우리 총통은 스카이나비아인들이 패배한 후 병에 걸렸고, 그의 아들인 알렉산더 케머스카이 주니어와 함께 그의 가장 가까운 보좌관들에게 마지막으로 그와 대화할 것을 손짓했습니다. 공화국의 운명이 걸려 있습니다."
  FAT_the_marshal_knows_best:0 "독재정 지속"
@@ -2291,11 +2291,11 @@ FAT_rename_cloudbury_desc:0 "위대한 총통을 기리기 위해서 공화주�
  #FAT_making_speeches_category:0 "Executive Orders"
  #FAT_making_speeches_category_desc:0 "The 986 Act For The Salvation of the Republic gave the president sweeping powers over the armed forces, politics, and the Republic as a whole. We can use this executive order to our advantage, passing measures such as pardons, holding speeches across the nation, and in general bypassing the bureaucracy of the Republican Congress."
  FAT_eulogy_for_grover_v:0 "연설: 그로버 5세를 위한 "추도""
- FAT_eulogy_for_grover_v_desc:0 ""그리폰의 황제 그로버 5세는 죽었다. 우리는 그의 실패와 독재 통치를 국민들에게 상기시킴으로써 이것을 이용해야 한다.
+ FAT_eulogy_for_grover_v_desc:0 ""그리폰의 황제 그로버 5세는 죽었다. 우리는 그의 실패와 독재 통치를 국민들에게 상기시킴으로써 이것을 이용해야 한다."
  FAT_react_to_the_aquileian_revolution:0 "연설: 아퀼레이아 공화국"
- FAT_react_to_the_aquileian_revolution_desc:0 "테오도르 베라니는 아킬레이아에서 혁명을 일으켜 공화국을 다시 한번 선포했다. 우리는 이 새로운 운동을 찬양하고 국제공화당과의 연대를 선언해야 한다.
+ FAT_react_to_the_aquileian_revolution_desc:0 "테오도르 베라니는 아킬레이아에서 혁명을 일으켜 공화국을 다시 한번 선포했다. 우리는 이 새로운 운동을 찬양하고 국제공화당과의 연대를 선언해야 한다."
  FAT_react_to_the_skyfall_revolution:0 "연설: 스카이폴의 민주주의 전환"
- FAT_react_to_the_skyfall_revolution_desc:0 "제네비브 귈데윙은 과두정치 체제를 종식시켰고, 자유선거로 인한 지도자의 통치하에 진실하고 진보적인 민주주의를 확립했다. 우리는 그녀의 노력에 축하를 해야 한다.
+ FAT_react_to_the_skyfall_revolution_desc:0 "제네비브 귈데윙은 과두정치 체제를 종식시켰고, 자유선거로 인한 지도자의 통치하에 진실하고 진보적인 민주주의를 확립했다. 우리는 그녀의 노력에 축하를 해야 한다."
  FAT_condemn_beakolini:0 "연설: 남쪽의 파시스트들"
  FAT_condemn_beakolini_desc:0 "귈로 비콜리니 국무장관은 윙바르디를 장악해 왕정이 가장 위협받을 때 파시즘에 굴복할 것임을 증명했다. 케머스카이는 확실히 이 남부의 새로운 파시스트, 군주제에 대해 할 말이 많다."
  FAT_condemn_sickleclaw_dictatorship:0 "연설: 피할 수 없는 사회주의의 결과"
