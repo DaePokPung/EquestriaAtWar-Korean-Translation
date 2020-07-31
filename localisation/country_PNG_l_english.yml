@@ -1,17 +1,17 @@
 ﻿l_english:
 ### Country Name
  #PNG_neutrality:0 "핑랜드 왕국"# moved to replace folder
- #PNG_fascism:0 "Black and White Storm"# moved to replace folder
- #PNG_communism:0 "Democratic Republic of Pingland"# moved to replace folder
- #PNG_democratic:0 "Pinguin Republic"# moved to replace folder
- #PNG_neutrality_DEF:0 "Kingdom of Pingland"# moved to replace folder
- #PNG_fascism_DEF:0 "Black and White Storm"# moved to replace folder
- #PNG_communism_DEF:0 "Democratic Republic of Pingland"# moved to replace folder
- #PNG_democratic_DEF:0 "Pinguin Republic"# moved to replace folder
- #PNG_fascism_ADJ:0 "Pinglands"# moved to replace folder
- #PNG_democratic_ADJ:0 "Pinglands"# moved to replace folder
- #PNG_neutrality_ADJ:0 "Pinglands"# moved to replace folder
- #PNG_communism_ADJ:0 "Pinglands"# moved to replace folder
+ #PNG_fascism:0 "남극 제국"# moved to replace folder
+ #PNG_communism:0 "펭귄 인민 공화국"# moved to replace folder
+ #PNG_democratic:0 "핑랜드 공화국"# moved to replace folder
+ #PNG_neutrality_DEF:0 "핑랜드 왕국"# moved to replace folder
+ #PNG_fascism_DEF:0 "남극 제국"# moved to replace folder
+ #PNG_communism_DEF:0 "펭귄 인민 공화국"# moved to replace folder
+ #PNG_democratic_DEF:0 "핑랜드 공화국"# moved to replace folder
+ #PNG_fascism_ADJ:0 "핑랜드"# moved to replace folder
+ #PNG_democratic_ADJ:0 "핑랜드"# moved to replace folder
+ #PNG_neutrality_ADJ:0 "핑랜드"# moved to replace folder
+ #PNG_communism_ADJ:0 "핑랜드"# moved to replace folder
 PNG_CHN_fascism:0 "핑랜드 보호국"
 PNG_CHN_fascism_DEF:0 "핑랜드 보호국"
 PNG_CHN_fascism_ADJ:0 "핑랜드 보호국"
@@ -22,12 +22,12 @@ PNG_EMP_fascism_def:0 "남극 제국"
 
 
 ### Misc
-PNG_anti_griff_law:0 "Anti Griffon Laws"
-PNG_aberg:0 "Aberg Chosen"
-PNG_njordin:0 "Njordin Chosen"
+PNG_anti_griff_law:0 "그리폰 추방법"
+PNG_aberg:0 "애버그의 선택"
+PNG_njordin:0 "노르딘의 선택"
 PNG_commie:0 "Commie"
 
-PNG_empire1:0 "The Black and White Storm will become the §YArctic Empire§!\n"
+PNG_empire1:0 "검고 하얀 폭풍은 §YArctic Empire§!이 될 것입니다\n"
 
 ### ideas
 PNG_military_support:0 "Military Support"
@@ -64,81 +64,80 @@ PNG_winter_warriors:0 "Arctic Warriors"
 PNG_winter_warriors_desc:0 "Penguins are well suited to fighting in extreme cold environments. Wherever it's frozen and covered in ice, penguins will excel there."
 
 ### Events
-penguin.1.t:0 "The Summit at Dachaigh"
-penguin.1.d:0 "After almost 4 years in power, King Lolo is nearing the end of his lifespan. The particular breed of penguin he belongs to is a short lived and weak one, but despite this Lolo has proved himself as an amazing and capable leader. Sadly, his time is fast approaching, and before he sets off to join our ancestors in the great beyond, he must first make a decision. Who shall rule after his death? King Lolo has produced no heirs, so he and his council must decide on who shall inherit the throne after he is gone."
-penguin.1.a:0 "Show me the list of Candidates."
+penguin.1.t:0 "다차이 회담"
+penguin.1.d:0 "로로왕은 생의 막바지에 접어들고 있습니다. 그가 속한 특별한 종은 약하고 수명이 짧지만, 그는 계속 유능한 리더임을 증명해 왔습니다. 애석하게도, 그의 시대는 빠르게 지나가고 있습니다. 로로왕이 위대한 저 너머에서 우리의 조상들을 만나기 전에, 그는 결정을 내려야 합니다. 그의 사후에는 누가 다스릴 것인지 로로왕과 그의 그회는 결정을 해야합니다."
+penguin.1.a:0 "후보목록을 주거라."
 
-penguin.2.t:0 "The Candidates"
-penguin.2.d:0 "The great list of candidates has been pulled out and shown to the council, and together they have decided on the best two candidates they could find. The first candidate is Hindrik Aberg, a relatively young penguin hailing from the Nithean province. The second candidate is Orvar Njordin, a radical from the inner city of Dachaigh. "
-penguin.2.a:0 "Show me more about Hindrik Aberg."
-penguin.2.b:0 "Show me more about Orvar Njordin."
+penguin.2.t:0 "후보자들"
+penguin.2.d:0 "훌륭한 후보자 명단이 뽑혀 의회에 보내졌고, 최고의 후보자 두 명을 결정했습니다. 첫 번째 후보는 힌드릭 애버그로 니테안 출신의 비교적 어린 펭귄입니다. 두 번째 후보는 오버 노르딘으로 다차이 출신 급진파입니다."
+penguin.2.a:0 "힌드릭 애버그에 대해 더 알고 싶구나"
+penguin.2.b:0 "오버 노르딘에 대해 더 알고 싶구나"
 
-penguin.3.t:0 "Hindrik Aberg"
-penguin.3.d:0 "Hindrek Aberg was born in the Nithean province to a small noble family, he received the best education he could possibly get, even being sent to a school in the Crystal Empire to get his education. Your council members inform you that he is a rather hopeful and naive penguin, believing in the Equestrians ideal of peace and harmony. "
-penguin.3.a:0 "He shall be the new King."
-penguin.3.b:0 "Bring me the  list again."
+penguin.3.t:0 "힌드릭 애버그"
+penguin.3.d:0 "힌드렉 애버그는 니테안의 작은 귀족 가정에서 태어났습니다. 그는 핑랜드 최고의 교육을 받았으며, 크리스탈 왕국의 학교에 보내져 다른 교육도 받았습니다. 당신의 의회원들은 그가 평화와 조화의 이퀘스트리아인들의 사상을 믿으면서 희망적이고 순진한 펭귄이라는 것을 알려줍니다."
+penguin.3.a:0 "그가 새로운 왕이 될 것이니라"
+penguin.3.b:0 "후보목록을 다시 가져오거라"
 
-penguin.4.t:0 "Orvar Njordin"
-penguin.4.d:0 "Orvar Njordin is a rather peculiar choice from the council. He is an excellent statesmen and has brought prosperity to the city of Dachaigh many times by introducing new reforms and such, on the downside he is perhaps one of the most radical penguins in the kingdom. He has been seen attending fascist groups, a recent thing in Dachaigh, and has even been heard saying rather racist remarks regarding the polar bears and even the griffons."
-penguin.4.a:0 "He shall be the new King."
-penguin.4.b:0 "Bring me the list again."
+penguin.4.t:0 "오버 노르딘"
+penguin.4.d:0 "오버 노르딘은 의회의 꽤 특이한 선택였습니다. 그는 훌륭한 정치가로서, 새로운 개혁 등을 도입하여 다차이에 큰 번영을 가져다 주었습니다, 단점으로는 그는 아마도 왕국에서 가장 급진적인 펭귄 중 한 명일 것입니다. 그는 최근에 있었던 다차이파 우월주의 모임에 참석하는 것을 보았고, 심지어 북극곰과 그리폰에 인종차별적인 발언을 하는 것이 목격되었습니다"
+penguin.4.a:0 "그가 새로운 왕이 될 것이니라"
+penguin.4.b:0 "후보목록을 다시 가져오거라"
 
-penguin.5.t:0 "Request from Pingland"
-penguin.5.d:0 "Fellow Communists up north have asked for a guarantee from us, in order to protect themselves from the Nova Griffonian threat."
-penguin.5.a:0 "Grant their request."
-penguin.5.b:0 "Decline."
+penguin.5.t:0 "공산주의자들의 요청"
+penguin.5.d:0 "북쪽의 공산주의자들이 노바 그리포니아의 위협으로부터 우리에게 도움을 요청했습니다."
+penguin.5.a:0 "그들의 요구를 들어주어라"
+penguin.5.b:0 "안됀다!"
 
-penguin.6.t:0 "Stalliongrad Accepted"
-penguin.6.d:0 "Stalliongrad has accepted our request and now guarantee's us. We are now safe from any non-communist threat!"
-penguin.6.a:0 "Wonderful."
+penguin.6.t:0 "스탈리온그라드의 동맹 수락"
+penguin.6.d:0 "스탈리온그라드는 우리의 요청을 받아들였고 이제 우리와 뜻을 같이하게되었습니다. 우리는 이제 어떠한 위협으로부터 안전할 것입니다."
+penguin.6.a:0 "공산주의 만세!"
 
-penguin.7.t:0 "Stalliongrad Declined"
-penguin.7.d:0 "Stalliongrad has sadly declined our request, and we are left unprotected against the Griffon threat. Our future is now uncertain."
-penguin.7.a:0 "Damn."
+penguin.7.t:0 "스탈리온그라드의 동맹 거절"
+penguin.7.d:0 "슬프게도 스탈리온그라드는 우리의 요청을 거절했고, 우리는 그리폰의 위협에 무방비 상태로 남겨지게되었습니다. 우리의 미래는 어떻게될지 불확실합니다."
+penguin.7.a:0 "이런"
 
-penguin.8.t:0 "Invitation to the Northern Pact"
-penguin.8.d:0 "The penguins in the north have asked us to join their newly created faction, the Northern Pact. Should we join?"
-penguin.8.a:0 "Join." 
-penguin.8.b:0 "Decline."
+penguin.8.t:0 "북방 조약으로의 초대"
+penguin.8.d:0 "북쪽 펭귄들은 우리에게 그들이 새로만든 북방 조약에 동참해 달라고 부탁했습니다. 참여하시겠습니까?"
+penguin.8.a:0 "참여한다" 
+penguin.8.b:0 "거절한다"
 
-penguin.9.t:0 "Yaks Join the Pact"
-penguin.9.d:0 "The Yaks have agreed to join the Northern Pact. "
-penguin.9.a:0 "Great!"
+penguin.9.t:0 "야크야키스탄 왕국의 북방 조약 참여"
+penguin.9.d:0 "야크야키스탄 왕국과 우리는 북방 조약으로 하나가 되었습니다!"
+penguin.9.a:0 "좋아!"
 
-penguin.10.t:0 "Yaks Decline"
-penguin.10.d:0 "The Yaks have politely declined to join the Northern Pact."
-penguin.10.a:0 "Damn."
+penguin.10.t:0 "야크야키스탄 왕국의 거절"
+penguin.10.d:0 "야크야키스탄 왕국은 북방 조약에 가입하기를 정중히 거절하였습니다."
+penguin.10.a:0 "이런"
 
-penguin.11.t:0 "Invitation to the Northern Pact"
-penguin.11.d:0 "The penguins in the north have asked us to join their newly created faction, the Northern Pact. Should we join?"
-penguin.11.a:0 "Join."
-penguin.11.b:0 "Decline."
+penguin.11.t:0 "북방 조약으로의 초대"
+penguin.11.d:0 "북쪽 펭귄들은 우리에게 그들이 새로만든 북방 조약에 동참해 달라고 부탁했습니다. 참여하시겠습니까?"
+penguin.11.a:0 "참여한다"
+penguin.11.b:0 "거절한다"
 
-penguin.12.t:0 "Polar Bears Join the Pact"
-penguin.12.d:0 "The Polar Bears have agreed to join the Northern Pact!"
-penguin.12.a:0 "Great!"
+penguin.12.t:0 "북극곰 공동체의 북방 조약 참여"
+penguin.12.d:0 "북극곰 공동체는 이제부터 우리와 같은 길을 걸을 것입니다!"
+penguin.12.a:0 "좋아!"
 
-penguin.13.t:0 "Polar Bears Decline"
-penguin.13.d:0 "The Polar Bears have politely declined to join the Northern Pact."
-penguin.13.a:0 "Damn."
+penguin.13.t:0 "북극곰 공동체의 거절"
+penguin.13.d:0 "북극곰 공동체는 우리와의 조약을 거절하였습니다."
+penguin.13.a:0 "이런"
 
-penguin.14.t:0 "Invitation to the Northern Pact"
-penguin.14.d:0 "The penguins in the north have asked us to join their newly created faction, the Northern Pact. Should we join?"
-penguin.14.a:0 "Join."
-penguin.14.b:0 "Decline."
+penguin.14.t:0 "북방 조약으로의 초대"
+penguin.14.d:0 "북쪽 펭귄들은 우리에게 그들이 새로만든 북방 조약에 동참해 달라고 부탁했습니다. 참여하시겠습니까?"
+penguin.14.a:0 "참여한다"
+penguin.14.b:0 "거절한다"
 
-penguin.15.t:0 "Nova Griffonia Joins the Pact"
-penguin.15.d:0 "Nova Griffonia has agreed to join the Northern Pact!"
-penguin.15.a:0 "Great!"
+penguin.15.t:0 "노바 그리포니아의 북방 조약 참여"
+penguin.15.d:0 "노바 그리포니아는 우리의 북방 조약에 참여하기로 한것 같습니다!"
+penguin.15.a:0 "좋아!"
 
-penguin.16.t:0 "Nova Griffonia Declines"
-penguin.16.d:0 "Nova Griffonia has politely declined to join the Pact."
-penguin.16.a:0 "Damn."
+penguin.16.t:0 "노바 그리포니아의 거절"
+penguin.16.d:0 "노바 그리포니아 북방 조약에 가입하지 않는다는 의견이 많은것 같습니다."
+penguin.16.a:0 "이런"
 
-penguin.17.t:0 "Request from Pingland"
-penguin.17.d:0 "The penguins in the north have requested a guarantee from us, claiming that they aren't able to properly defend against the many threats up north. Guaranteeing them would protect one of the few bastions of Harmony in the frozen north."
-penguin.17.a:0 "Grant their Request."
-penguin.17.b:0 "Decline."
+penguin.17.t:0 "북쪽 펭귄들의 요청"
+penguin.17.d:0 "북쪽 펭귄들이 북쪽에 있는 많은 위협으로부터 제대로 방어할 수 없다고 주장하면서 우리에게 보장을 요청했습니다, 그들의 주장은 얼어붙은 북쪽에 있는 하모니 요새 중 하나를 보호하는 것입니다."
+penguin.17.b:0 "거절한다"
 
 penguin.18.t:0 "[From.GetName] Guarantees us!"
 penguin.18.d:0 "Today is a great day, for the [From.GetAdjective] government has granted us our request and have guaranteed us."
@@ -196,7 +195,7 @@ PNG_peacetime_policies:0 "평화 정책"
 PNG_peacetime_policies_desc:0 "예로부터 우리 나라는 왕과 의회가 모든 것을 결정한 곳이었습니다. 하지만 오늘 이것이 바뀔것입니다. 행정의 분권화를 위한 새로운 법을 시행하고, 의회를 민주적인 입법기구로 바꿀것입니다."
 PNG_dissolve_kings_court:0 "킹스 코트 해산"
 PNG_dissolve_kings_court_desc:0 "킹스코트는 우리 나라의 미래를 결정하는 회의를 여는 부패한 집단이기 때문에 우리는 이러한 법정의 농단을 즉시 없에야해야합니다, 이 부패한 펭귄들이 음모를 꾸미는 것이 더이상 허용해서는 안됩니다."
-PNG_remove_kings_power:0 "테오 말름비스트 쿠데타"
+PNG_remove_kings_power:0 "테오 말름비스트 "
 PNG_remove_kings_power_desc:0 "[PNG.GetName]의 왕들의 시대는 끝났습니다! 이제는 왕이 가진 모든 권력을 없에야할 때입니다. 우리가 왕정을 몰락시키면, 새로운 기회가 우리를 기다릴것입니다."
 PNG_forge_our_own_path:0 "우리만의 길을 개척하리"
 PNG_forge_our_own_path_desc:0 "우리는 독재로부터 독립하여 우리만의 길로 나아가야 합니다. 우리는 자유로운 국민이고 우리는 우리의 자유가 다시 한 개인에 의해 짓밟히는 것을 용납하지 않을 것입니다!"
@@ -210,10 +209,10 @@ PNG_equestrian_guarantee:0 "이퀘스트리아의 독립 보장"
 PNG_equestrian_guarantee_desc:0 "우리는 북쪽의 나라들로부터 우리만의 조화의 가치를 지킬 능력이 없습니다. 그러므로 우리는 [EQS.GetName]에 독립 보장을 요청해야합니다. 분명 [EQS.GetName]의 [EQS.GetLeader]는 우리의 사정을 이해할것입니다."
 PNG_pact_against_griffonia:0 "북방 조약"
 PNG_pact_against_griffonia_desc:0 "[GRF.GetName]는 항상 작은 우리 나라를 주시해왔습니다. 우리는 그들이 정복해야할 땅으로 밖에 보이지 않았을것입니다. 이제는 [GRF.GetName]과 조약을 맺어 현재상황을 바꿀 때입니다."
-PNG_invite_the_yaks:0 "야크족 초대"
-PNG_invite_the_yaks_desc:0 "서남부의 야크족은 남쪽의 많은 나라들과 의견이 맞지 않습니다. 아마도 북방 동물들과 북방의 이익을 수호하기 위한 북방 조약에 그들을 초대하는 것이 그들의 관심을 흔들것입니다."
-PNG_invite_the_bears:0 "북극곰족 초대" 
-PNG_invite_the_bears_desc:0 "서부 국경으로 가는[GHN.GetName]는 우리의 독립을 위협하는 거대하고 강력한 국가입니다. 우리가 그들을 우리의 조약에 초대해야 우리가 우리를 지배하에 있는 자들에 대항할 수 있다."
+PNG_invite_the_yaks:0 "야크야키스탄 왕국 초대"
+PNG_invite_the_yaks_desc:0 "서남부의 [YAK.GetName] 남쪽의 많은 나라들과 의견이 맞지 않습니다. 아마도 북방 동물들과 북방의 이익을 수호하기 위한 북방 조약에 그들을 초대하는 것이 그들의 관심을 흔들것입니다."
+PNG_invite_the_bears:0 "북극곰 공동체 초대" 
+PNG_invite_the_bears_desc:0 "서부 국경으로 가는[GHN.GetName]는 우리의 독립을 위협하는 거대하고 강력한 국가입니다. 우리가 그들을 우리의 조약에 초대해야 그들에 대항할 수 있습니다."
 PNG_friendship_with_griffonia:0 "그리포니아와의 우정"
 PNG_friendship_with_griffonia_desc:0 "우리는 [GRF.GetName]을 우리의 조약에 초대 할 수 있습니다. 그래서 우리 나라들이 미래에 관한 문제에 협력한다면 훨씬 많은 것을 얻을 수 있을 것입니다."
 
@@ -238,7 +237,7 @@ PNG_power_to_the_king:0 "꼭두각시 의회"
 PNG_power_to_the_king_desc:0 "이젠, 의회는 완전히 황제의 지휘하에 있습니다. 우리는 마침내 황제에게 받아야 할 마땅한 권력을 주고 의회를 외적인 역할을 하게 만들어야 합니다. 진정한 힘은 모두 왕에게로 갈 것입니다!"
 PNG_outlaw_communism:0 "공산주의 타도"
 PNG_outlaw_communism_desc:0 "지금까지도 황제는 공산주의 세력들에게 골머리를 앓고 있습니다. 아직 인지도는 없지만, 지금 현재 그의 새로운 급진적인 법률로 권력을 잡고 있다. 그들은 민중들을 쉽게 흔들 수 있었고 그들의 사상을 통해 공산당원으로 만들것입니다. 우리는 그런 일이 일어나도록 내버려 둘 수 없으며, 우리 제국에서 활동하는 공산당을 불법하여, 공산당원들이 체포당할 수 있도록 해야 합니다."
-PNG_mountain_work_camps:0 "공산당원을 아오지로!"
+PNG_mountain_work_camps:0 "공산당을 아오지로!"
 PNG_mountain_work_camps_desc:0 "우리 제국의 공산당은 우리가 생각했던것보다 큰 조직이였습니다. 그리고 현재 교도소에 공산당원들을 모두 수용할지라도, 그들이 다른 죄수들을 포섭할 위험이 있습니다. 니테안의 마시프지역는 풍부한 양의 강철을 가지고 있지만 사고가 일어날 위험이 도사리고 있습니다. 그곳으로 평범한 시민들을 보내는 것보다는 그곳에 죄수들을 보내는 것이 현명할 것 같습니다.."
 PNG_emperor_of_the_ice:0 "얼음의 제국"
 PNG_emperor_of_the_ice_desc:0 "마침내, 불안정한 의회, 공산세력, 그리폰들이 사라졌습니다. 위대한 우리 황제의 통치하에 우리나라는 꽃피는 제국이 될 것 입니다."
