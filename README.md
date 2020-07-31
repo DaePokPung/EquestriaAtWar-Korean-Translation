@@ -15,6 +15,7 @@
   - [스카이나비아 사회주의 공화국](localisation/country_SRS_l_english.yml)
   - [뉴메어랜드 연방](localisation/country_EQC_l_english.yml)
   - [이퀘스트리아 해방전선](localisation/country_MAN&ELF_l_english.yml)
+  - [핑랜드 왕국](localisation/country_PNG_l_english.yml)
 
 ***
 
