@@ -315,7 +315,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_national_work_act:0 "국가노동법"
  EQC_national_work_act_desc:0 "Why would anypony not want to work? We should make unemployment illegal to ensure that everyone is productive. Now get back to work!"
 
- EQC_cut_red_tape:0 "붉은 테이프 자르기"
+ EQC_cut_red_tape:0 "규제 철폐"
  EQC_cut_red_tape_desc:0 "The red tape of government is cluttered and confusing. It stands in the way of progress. We should remove as many restrictions and regulations that we can to ensure that all businesses can make a profit and money flows into our casinos."
 
  EQC_open_banks_to_griffons:0 "우리의 은행을 운영하자"
@@ -382,7 +382,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_join_the_concordant:0 "칸코어던트 가입"
  EQC_join_the_concordant_desc:0 "To the east, we stand before the Concordat. Both are democratic nations that have taken a stand against tyranny, wherever it might be. Sicameon and Asterion, both united for Freedom and Liberty. Just like we are. We shall seek to join their agreement and strengthen our bastion of Democracy."
  
- EQC_join_the_research:0 "남부 기술 그룹에 가입"
+ EQC_join_the_research:0 "남부 기술 그룹에 합류"
  EQC_join_the_research_desc:0 "Though we have joined with the griffons in Sicameon and the Minotaurs in Asterion, we have much to learn from each other still. The Concordat, even though it is fine as a military alliance can be taken further. We will join the already existing cooperation between the two founding nations and create something larger for all of us."
  
  #The Duke's Government
@@ -499,7 +499,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_join_stalliongrad:0 "포니 인터네셔널 연합"
  EQC_join_stalliongrad_desc:0 "The revolution is completed. The workers are in charge of the means of production now. Thus, we must set out on our new course. A proposal has been drafted to join the workers of Stalliongrad in the United Ponies International. Now on both shores of the great ocean, a beacon of socialism will light the way to world revolution. Workers of all nations unite!"
 
- EQC_share_tech_stalliongrad:0 "JSSI를 찾자"
+ EQC_share_tech_stalliongrad:0 "JSSI 설립"
  EQC_share_tech_stalliongrad_desc:0 "The socialist scientists of Stalliongrad have made great advancements, proof that socialism truly is the way of the future. We can learn from them by engaging in active scientific exchange for the benefit of both of our nations. After all, real comrades share, for the good of all."
 
  EQC_true_workers_paradise:0 "진정한 노동자들의 천국"
@@ -706,7 +706,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_expand_manehatten_harbour:0 "뉴맨해튼 항만 확장"
  EQC_expand_manehatten_harbour_desc:0 "The Naval Harbour at New Manehattan has served us well since the nation's establishment and served as our very first dedicated fleet hub. By expanding its dockyards and deepening the harbour, its output will increase. We will make sure our shipbuilding capacity is up to the challenges of the new millennium."
 
- EQC_commerce_protection:0 "무역 보호"
+ EQC_commerce_protection:0 "무역보호"
  EQC_commerce_protection_desc:0 "New Mareland exists of several islands and to defend our economic interests, we must allow safe passage of merchant shipping between them. To facilitate this aim we must expand our naval office to develop new tactics to keep our shipping save. We must be ready for the naval war that could come to our very shore."
 
  EQC_seawolves:0 "바다늑대"
@@ -744,7 +744,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  EQC_equestrian_guns_desc:0 "You get free guns out of nowhere."
  EQC_equestrian_volunteers:0 "이퀘스트리아 자원병"
  EQC_equestrian_volunteers_desc:0 "Some volunteers come from Equestria"
- EQC_free_industry:0 "자유로운 공장"
+ EQC_free_industry:0 "무료 공장"
  EQC_free_industry_desc:0 "Free factories cause of freedom?"
  EQC_punish_traitors:0 "반역자 처벌"
  EQC_punish_traitors_desc:0 "You execute some traitors. Or maybe you burn them."
@@ -959,7 +959,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  mareland.4.a:0 "셀레스티아 공주님을 위한 여름 태양 축제를 개최하자."
  mareland.4.b:0 "루나 공주님을 위해 악몽의 밤을 개최하자."
  mareland.4.c:0 "트와일라잇 공주님의 강의를 들어보자."
- mareland.4.e:0 "케이던스 공주님이 자선단체 직원과 만남을 가지시게 하자."
+ mareland.4.e:0 "케이던스 공주님께서 자선단체 직원과 만남을 가지시게 하자."
 
  mareland.5.t:0 "흰발톱 도적단"
  mareland.5.d:0 "Just before dawn, an explosion echoed through Sunset. The source was a toaster factory at the edge of the city. Firefighters worked through the day to tackle the blaze but that didn't stop the police from beginning their investigations. It was indeed sabotage, and it wasn't long until the culprits where identified. Hours after the blast, a letter appeared on the desk of the New Mareland Chronicler's chief editor. It was from a group that called themselves the United Griffon Freedom Front, although the name White Claw Bandits has already been popularised by the tabloids.\n\nThese bandits claim that they object to the forced conscription of griffons into New Mareland's armies with the justification that they want no part in a pony's war and that it is in breach of the Native Freedoms Act of 912.\n\nJustified or not, these criminals have sworn to strike again and there is no knowing when they will stop."
@@ -1080,7 +1080,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  mareland.31.a:0 "훌륭한 생각이군!"
  mareland.31.b:0 "그들은 우리에게서 단 한푼도 얻지 못할 것이다!"
 
- mareland.32.t:0 "[From.GetNameDef]이(가) 계좌를 만들다"
+ mareland.32.t:0 "[From.GetNameDef](이)가 계좌를 만들다"
  mareland.32.d:0 "The griffons seem more open to business than we first believed. One of their states has decided to stock their reserves with us. They're actually giving us their money!"
  mareland.32.a:0 "자본주의 최고!"
 
@@ -1172,7 +1172,7 @@ anja_snow_desc:0 "Anja originated from Fillydelphia and always had problems fitt
  mareland.52.d:0 "The Socialist Alliance has called for a general strike today in protests of the government's lack of action to resolve or worsening economic issues. Across the nation, ponies have taken to the streets waving sings and red flags. So far, the protests have been peaceful, but it has brought the country to a standstill."
  mareland.52.a:0 "파업이다! 파업이다! 파업이다!"
 
- mareland.53.t:0 "[factory_state.GetName]의 공장에서 화재가 발생하다"
+ mareland.53.t:0 "[factory_state.GetName]에서 공장에 화재가 발생하다"
  mareland.53.d:0 "Last night, a toaster factory in [factory_state.GetName] burned to the ground in what the police believe was an act of arson. Firefighters worked through the night to control the blaze, but little could be done. The attack has been met with quiet joy among its employees who have often called upon the government to shut it down amid reports of mistreatment and illegal working conditions. The police have yet to find the culprits and the investigation is ongoing."
  mareland.53.a:0 "공장주인은 난감하겠구만."
 
@@ -1324,7 +1324,7 @@ eqs_election_win.t:0 "[EQC.GetLeader](이)가 뉴 메어랜드에서 승리하�
 eqc_news.7.t:0 "뉴메어랜드가 [STG.GetNameDef](을)를 인정하다"
  eqc_news.7.d:0 "[This.GetNewspaperHeader]In a complete disregard on will of the Equestrian government, New Mareland has formally announced that it will fully recognise Stalliongrad as its own independent state. Diplomatic relations between the two countries shall be officially established in the upcoming weeks, with a sight for the new Stalliongrad embassy having already been selected in Sunset.\n\nThe Equestrian ambassador has issued an official protest and has demanded that the New Mareland government retracts the announcement. Even going as far as threatening to relinquish the Governor-General from his office."
  eqc_news.7.a:0 "우리 새 친구들하고 함께 잘 일해보자고."
- eqc_news.7.b:0 "아마 이제 그만둬야 할 때이다..."
+ eqc_news.7.b:0 "아마 이제 그만둬야 할 때일 것이다..."
  eqc_news.7.c:0 "포니들은 더이상 셀레스트아를 사랑하지 않는건가?"
 
 eqc_news.8.t:0 "뉴메어랜드를 장악한 공산주의자들"
@@ -1335,7 +1335,7 @@ eqc_news.8.t:0 "뉴메어랜드를 장악한 공산주의자들"
 eqc_news.9.t:0 "셀레스트아를 비판한 뉴메어랜드"
  eqc_news.9.d:0 "[This.GetNewspaperHeader]For some time now, communist movements have been growing in Equestria's griffonian dependency. This was largely fuelled by an economic downturn and separatist sentiments. And now the communists have finally grown powerful enough to take over the country. Many ponies and griffons took to the street and Princess Celestia's portraits were burned in public. Cheering crowds flying red flags toppled statues of the pony monarch, without the police intervening. The Communist Party of New Mareland, who seemed to be behind the unrest announced that they were now the representatives of the ponies and griffons of New Mareland and hours later, they unilaterally announced their independence from Equestria, calling Celestia an oppressive tyrant."
  eqc_news.9.a:0 "공주를 끌어내리자! 혁명 만세!"
- eqc_news.9.b:0 "왜 나의 작은 포니들이 나를 싫어하는걸까?"
+ eqc_news.9.b:0 "왜 나의 작은 포니들이 날 싫어하는걸까?"
  eqc_news.9.c:0 "이퀘스트리아는 보이는 것처럼 조화롭진 않군."
 
 eqc_news.10.t:0 "뉴맨해튼에서의 폭발"
@@ -1349,7 +1349,7 @@ eqc_news.11.t:0 "뉴메어랜드 내전"
 
 eqc_news.12.t:0 "뉴메어랜드 내전이 끝나다"
  eqc_news.12.d:0 "[This.GetNewspaperHeader]The New Mareland Civil War has come to an end as the loyalist forces occupy New Manehattan. The government has announced that they have defeated the last of the MARESOC movement. Their leadership was found dead in their headquarters, they seemingly preferred death over a trial. What exactly the rebels were planning remains a mystery and New Mareland has released no comment on what else they have found in the city. Nevertheless, many ponies in the country are celebrating the end of the oppressive regime and many outside the country breathe a sigh of relief that MARESOC was never allowed to fully roll out their plans."
- eqc_news.12.a:0 "다함께 하나되어 재건하자고."
+ eqc_news.12.a:0 "모두 하나되어 재건하자고."
  eqc_news.12.b:0 "이제 평화롭길 바란다."
 
 eqc_news.13.t:0 "뉴메어랜드 내전이 끝나다"
@@ -1360,7 +1360,7 @@ eqc_news.13.t:0 "뉴메어랜드 내전이 끝나다"
 eqc_news.14.t:0 "뉴메어랜드를 장악한 공산주의자들"
  eqc_news.14.d:0 "[This.GetNewspaperHeader]The Equalists have taken control of the New Mareland government. The united left had grown in popularity recently, under the leadership of Blueberry Frost, a pony who preaches radical equality based on Our Town. A series of peaceful demonstrations and strikes finally led Jet Set to assess that the current government could not maintain its position. Rather than let it turn to a violent revolution, he allowed the Equalists to assume power. Blueberry Frost immediately announced the independence of New Mareland, in a speech in which she also outlined that her government would work to make every pony equal."
  eqc_news.14.a:0 "이제 진정한 평등을 찾아오게 할 때군!"
- eqc_news.14.b:0 "적어도 혁명에 피를 흘리진 않았군."
+ eqc_news.14.b:0 "적어도 혁명에 피흘리진 않았군."
  
  eqc_news.15.t:0 "피켓 펜스가 뉴메어랜드 대통령에 당선되다!"
  eqc_news.15.d:0 "[This.GetNewspaperHeader]This morning, [From.GetLeader] was sworn in as the first President of an independent New Mareland.\n\nWith his opinions on the relations between ponies and griffons spreading beyond the borders of New Mareland, the reactions around the world have ranged from jubilation to downright horror. In one comment, a highly-placed and experienced source within New Mareland, who wished to remain anonymous stated 'This is the end of Marelander Harmonism as we know it'. No matter what, the newly-inaugurated President has announced a wide-ranging flagship program to be passed during his term in office"
