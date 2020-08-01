@@ -1,11 +1,11 @@
 ﻿l_english:
 ### Country Name
  #PNG_neutrality:0 "핑랜드 왕국"# moved to replace folder
- #PNG_fascism:0 "남극 제국"# moved to replace folder
+ #PNG_fascism:0 "흑백의 폭풍"# moved to replace folder
  #PNG_communism:0 "펭귄 인민 공화국"# moved to replace folder
  #PNG_democratic:0 "핑랜드 공화국"# moved to replace folder
  #PNG_neutrality_DEF:0 "핑랜드 왕국"# moved to replace folder
- #PNG_fascism_DEF:0 "남극 제국"# moved to replace folder
+ #PNG_fascism_DEF:0 "흑백의 폭풍"# moved to replace folder
  #PNG_communism_DEF:0 "펭귄 인민 공화국"# moved to replace folder
  #PNG_democratic_DEF:0 "핑랜드 공화국"# moved to replace folder
  #PNG_fascism_ADJ:0 "핑랜드"# moved to replace folder
@@ -27,7 +27,7 @@ PNG_aberg:0 "애버그의 선택"
 PNG_njordin:0 "노르딘의 선택"
 PNG_commie:0 "코민"
 
-PNG_empire1:0 "블랙화이트스톰은 §YArctic Empire§!이 될 것입니다\n"
+PNG_empire1:0 흑백의 폭풍은 §YArctic Empire§!이 될 것입니다\n"
 
 ### ideas
 PNG_military_support:0 "군대의 충성"
@@ -36,8 +36,8 @@ PNG_communism_outlawed:0 "불법화된 공산주의"
 PNG_communism_outlawed_desc:0 "공산주의는 우리 제국으로부터 금지되었고, 공산주의 또는 사회주의 정당들은 국가 내에서 허용되지 않게 되었으며, 공산주의자들은 감옥에 갇혔습니다."
 PNG_anti_griffon:0 "그리폰 추방법"
 PNG_anti_griffon_desc:0 "그리폰들은 권리를 강탈당했고, 현재는 이류 시민으로 간주되고 있다."
-PNG_penguin_storm:0 "블랙화이트스톰"
-PNG_penguin_storm_desc:0 "새로운 우월주의 정당인 블랙화이트스톰은 정부의 모든 계층에 당원들을 두고 있다. 우리의 황제는 당의 대표자입니다."
+PNG_penguin_storm:0 "흑백의 폭풍"
+PNG_penguin_storm_desc:0 "새로운 우월주의 정당인 흑백의 폭풍은 정부의 모든 계층에 당원들을 두고 있다. 우리의 황제는 당의 대표자입니다."
 PNG_reeducation:0 "인민 재교육"
 PNG_reeducation_desc:0 "우리 공화국을 더욱 단결시키기 위해, 모든 인민들이 진정한 공산주의 사상을 따르도록 하는 재교육 프로그램이 시행되었습니다."
 PNG_workers_council:0 "노동위원회"
@@ -51,7 +51,7 @@ PNG_griffon_rights_desc:0 "그리폰들은 오랫동안 이류 시민이었지�
 PNG_equestrian_advisors:0 "이퀘스트리아 조언자들"
 PNG_equestrian_advisors_desc:0 "이퀘스트이아 조언자들이 우리 법정에 초청되었고, 그들과 함께 나라를 운영할 새로운 아이디어와 방법을 토론합니다."
 PNG_recruitment_campaign:0 "군 모집 캠페인"
-PNG_recruitment_campaign_desc:0 "블랙화이트스톰의 미래를 위해서는 그리폰 제국주의자들과 맞설 강력하고 강력한 군대가 있어야 합니다."
+PNG_recruitment_campaign_desc:0 "우리 제국의 미래를 위해서는 그리폰 제국주의자들과 맞설 강력하고 강력한 군대가 있어야 합니다."
 
 PNG_penguin_republic:0 "핑랜드 공화국"
 PNG_penguin_republic_desc:0 ""
@@ -61,7 +61,7 @@ PNG_idea_penguin_harmony:0 "투게더 인 하모니"
 PNG_idea_penguin_harmony_desc:0 ""
 
 PNG_winter_warriors:0 "남극의 전사"
-PNG_winter_warriors_desc:0 "펭귄은 극한의 추운 환경에서 아주 잘 싸울수 있습니다. 얼음이 얼고 얼음이 덮인 곳이라면, 그곳은 펭귄들의 사냥터가 될 것입니다."
+PNG_winter_warriors_desc:0 "펭귄은 극한의 추운 환경에서 아주 잘 싸울수 있습니다. 얼음이 얼고 얼음이 덮인 곳이라면, 그곳은 펭귄만의 사냥터가 될 것입니다."
 
 ### Events
 penguin.1.t:0 "다차이 회담"
@@ -241,7 +241,7 @@ PNG_mountain_work_camps:0 "공산당을 아오지로!"
 PNG_mountain_work_camps_desc:0 "우리 제국의 공산당은 우리가 생각했던것보다 큰 조직이였습니다. 그리고 현재 교도소에 공산당원들을 모두 수용할지라도, 그들이 다른 죄수들을 포섭할 위험이 있습니다. 니테안의 마시프지역는 풍부한 양의 강철을 가지고 있지만 사고가 일어날 위험이 도사리고 있습니다. 그곳으로 평범한 시민들을 보내는 것보다는 그곳에 죄수들을 보내는 것이 현명할 것 같습니다.."
 PNG_emperor_of_the_ice:0 "얼음의 제국"
 PNG_emperor_of_the_ice_desc:0 "마침내, 불안정한 의회, 공산세력, 그리폰들이 사라졌습니다. 위대한 우리 황제의 통치하에 우리나라는 꽃피는 제국이 될 것 입니다."
-PNG_black_and_white_storm:0 "블랙화이트스톰"
+PNG_black_and_white_storm:0 "흑백의 폭풍"
 PNG_black_and_white_storm_desc:0 "우리의 위대한 황제는 우리 국민 모두에게 그의 위대하고 현명한 지도력에 얼마나 많은 신세를 지고 있는지 보여주고, 우리에게서 빼앗은 모든 것을 다시 찾아야한다고 말해야합니다."
 PNG_remove_polar_bears:0 "서부 제국 탈환"
 PNG_remove_polar_bears_desc:0 "과거에 우리는 이퀘스트리아 대륙의 북부의 거의 모든 땅을 지배했지만, 이후로 북극곰들이 우리 제국의 서쪽 대부분을 차지하였습니다. 이제는 우리의 것을 되찾을 시간입니다."
