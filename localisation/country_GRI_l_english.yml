@@ -1356,7 +1356,7 @@
  GRI_core_FAT_SRS_MNC_VED_HAU_tp:0 "§Y그리폰 공화국§!은 분쇄되었으며, §Y스카이나비아§!, §Y화이트테일§!, §Y베디나§! 그리고 §Y하우크란트§!가 §Y제국§! 통차 하에 있습니다\n"
  GRI_core_AVI_BAN_EYR_ERI_LAK_BOI_tp:0 "§Y아비안§!, §Y블랙록§!, §Y에리에§!, §Y이리에§!, §Y루메어§! 그리고 §Y그리폰스톤§!이 §Y제국§! 통차 하에 있습니다\n"
  GRI_core_TRD_FEZ_AET_HEL_POM_FLO_JRR_JER_JEB_JFT_VIN_tp:0 "§Y스카이폴§!, §Y페제라§!, §Y그라이프발트§!, §Y아델라트§!, §Y포모바라§!, §Y플로웨나§!, §Y아퀼레이아§!, §Y릴라§!, §Y프리데아§! 그리고 §Y비노비나§!가 §Y제국§! 통차 하에 있습니다\n"
- GRI_core_ARA_FRN_TAL_WNG_FAL_SIC_CYA_tp:0 "§Y아란티가§!, §Y프란미스트리아§!, §Y탈로스§!, §Y윙바르디§!, §Y팔코르§!, §Y시카메온§! 그리고 §Y시아놀리시아§!가 §Y제국§! 통차 하에 있습니다\n"
+ GRI_core_ARA_FRN_TAL_WNG_FAL_SIC_CYA_tp:0 "§Y아란티가§!, §Y프란시스트리아§!, §Y탈로스§!, §Y윙바르디§!, §Y팔코르§!, §Y시카메온§! 그리고 §Y시아놀리시아§!가 §Y제국§! 통차 하에 있습니다\n"
  GRI_core_HLQ_LNS_LSM_LSC_LUS_GRW_BRF_GRY_GRU_tp:0 "§Y프리웬§!이 무너졌으며, §Y헬퀼§!, §Y롱소드§!, §Y루시§!, §Y브로드펠트§!, §Y그리푸스§! and §Y그리피아§!가 §Y제국§! 통차 하에 있습니다\n"
  GRI_atlas_stats_tp:0 "§R공격§!: §Y2§!\n§Y방어§!: §Y3§!\n§C이동§!: §Y3§!\n§G보급§!: §Y1§!\n"
  GRI_kronos_stats_tp:0 "§R공격§!: §Y2§!\n§Y방어§!: §Y1§!\n§C이동§!: §Y3§!\n§G보급§!: §Y2§!\n"
@@ -1678,6 +1678,8 @@ NCH_mandate_fascism_DEF:0 "그렌클리프 위임통치령"
 NCH_mandate_fascism_ADJ:0 "그렌클리프 위임통치령"
  
 ### Debug Tech Stuff ###
+magical_weapons:0 "마법 무기"
+early_fighter:0 "초기 전투기"
 fighter1:0 "전투기 I"
 CAS1:0 "근접지원 항공기 I"
 naval_bomber1:0 "뇌격기 I"
