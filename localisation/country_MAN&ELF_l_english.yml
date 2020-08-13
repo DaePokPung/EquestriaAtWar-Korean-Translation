@@ -1,8 +1,8 @@
 ﻿l_english:
 
-#################################
-############ PARTIES ############
-#################################
+
+#PARTIES
+
 MAN_collaborator_establishment:0 "Collaborationist Establishment"
 MAN_collaborator_establishment_long:0 "Business and Professionals' Front for the Progress and Betterment of Manehattan"
 MAN_changeling_administration:0 "체인질링 행정부"
@@ -29,13 +29,13 @@ ELF_harmonic_monarchists:0 "HMMLCPH"
 CHN_ELF_occ:0 "군사 행정부"
 CHN_ELF_occ_long:0 "체인질링 랜드의 이퀘스트리아 군사 행정부"
 
-#################################
-############ LEADERS ############
-#################################
-LYSIA_DESC:0 "라일락은 명망 있는 베살리폴리스 사관 학교에서 훈련 받았음에도 불구하고 이퀘스트리아와의 전쟁 동안 크리살리스 여왕의 참모부로 밀려나 행정 업무를 맡게 되었습니다. 그녀가 베살리폴리스에 갇혀 크리살리스 여왕에게 굽신거리는 동안, 그녀의 동기들은 체인질링 영토의 전투에서 영광을 쟁취하고 있었습니다.\n\n 그러나 라일락의 크리살리스 여왕에 대한 헌신은 여왕의 이퀘스트리아 정복 이후 메인해튼의 대도시를 넘어선 영토의 보호자라는 칭호를 얻었기 때문에 충분한 보상을 받은 것처럼 보였습니다.\n\n§Y포트레잇§!: Drake Drachenlicht\n§Y포트레잇 수정§!: Rich May"
-LYSIA_GENERAL_DESC:0 "라일락은 명망 있는 베살리폴리스 사관 학교에서 훈련 받았음에도 불구하고, 이퀘스트리아와의 대전 동안 크리살리스 여왕의 참모부에서 일하게 되었습니다. 메인해튼의 보호자로써, 현지 장교단의 부재로 라일락은 마침내 야전에서 그녀의 군대를 지휘할 수 있게 되었습니다. 라일락의 장교 유니폼은 그녀의 지위인 보호자에 걸맞는 야회복처럼 화려하지는 않지만, 그녀의 군대와 함께 군사작전을 진행하는 것이 그녀가 가장 편안하게 여기는 부분이었습니다.\n\n§Y포트레잇§!: Drake Drachenlicht\n§Y포트레잇 수정§!: Rich May"
+
+#LEADERS
+
+LYSIA_DESC:0 "라일락은 명망 있는 베살리폴리스 사관 학교에서 훈련 받았음에도 불구하고 이퀘스트리아와의 전쟁 동안 크리살리스 여왕의 참모부로 밀려나 행정 업무를 맡게 되었습니다. 그녀가 베살리폴리스에 갇혀 크리살리스 여왕에게 굽신거리는 동안, 그녀의 동기들은 체인질링 영토의 전투에서 영광을 쟁취하고 있었습니다.\n\n 그러나 라일락의 크리살리스 여왕에 대한 헌신은 여왕의 이퀘스트리아 정복 이후 메인해튼의 대도시를 넘어선 영토의 보호자라는 칭호를 얻었기 때문에 충분한 보상을 받은 것처럼 보였습니다.\n§Y포트레잇§!: Drake Drachenlicht\n§Y포트레잇 수정§!: Rich May"
+LYSIA_GENERAL_DESC:0 "라일락은 명망 있는 베살리폴리스 사관 학교에서 훈련 받았음에도 불구하고, 이퀘스트리아와의 대전 동안 크리살리스 여왕의 참모부에서 일하게 되었습니다. 메인해튼의 보호자로써, 현지 장교단의 부재로 라일락은 마침내 야전에서 그녀의 군대를 지휘할 수 있게 되었습니다. 라일락의 장교 유니폼은 그녀의 지위인 보호자에 걸맞는 야회복처럼 화려하지는 않지만, 그녀의 군대와 함께 군사작전을 진행하는 것이 그녀가 가장 편안하게 여기는 부분이었습니다.\n§Y포트레잇§!: Drake Drachenlicht\n§Y포트레잇 수정§!: Rich May"
 STARTRIX_DESC:0 "When Equestria fell, Starlight Glimmer was a reformed cult leader and Trixie Lulamoon a less than scruplous travelling magician, and yet it was these talents that saw them rise to become the leaders of the Equestrian Liberation Front. Having worked since the first days of the occupation, they used misdirection, deceit and - at times - simple ruthlessness to contest the changeling occupiers. Unlike their erstwhile (and in Trixie's case, reluctant) mentor, Twilight Sparkle, they had no notions of fighting fair. Still, Equestria needs whatever heroes it can get, and if they are what is available, then that is what they must be.\n\nThough their friendship is a tempestuous one, it has remained steadfast, and they have learned to play off each other. Starlight Glimmer has established herself as the strategist and the planner whereas Trixie has become (in)famous as an able tactician and guerilla commander. Their unorthodox backgrounds have informed their methods, and they managed to carry their efforts this far through these tricks.\n\nIt takes more than just tricks to lead a rebel army, however, and beyond the trickery and creativity stands two mares who, when all other heroes seemed to have failed, saw themselves called to step up and take over the fight. If they should fail, they know that other ponies will step up as well, because that is the Equestria they remember and will fight for.\n\n§YPortrait by§!: Scroup"
-ELF_BLUEBLOOD_DESC:0 "Prince Blueblood of Canterlot was born into wealth, prestige and privilege as a member of Equestria's absolute elite. Indeed, due to a judicial adoption of his ancestor a century ago, he could even be counted as a "nephew" of Celestia. This fact did not go unmentioned for long by Blueblood, whose wealth meant he could become a full time socialite and a fixture in the Canterlot social scene. Over time, as ennui sat in, his proclivities turned more sour and he began to amuse himself by tormenting the various mares who tried to approach him, dismissing them all as golddiggers, and starting various ridiculous trends to see who caught on.\n\nHis military career started nigh on a whim after his boredom with life became too much. Using his wealth and an archaic law to purchase a high commission, Blueblood landed as Field Marshal of Equestria within a few years, and it was only when the changeling invasion approached that the gravity of his position sunk in. Though he did what he could to prepare, especially using his connections to appoint the best people he could find to the best positions, it was not enough, and he ended up overseeing the worst defeat Equestria had suffered in centuries. He fled to Griffonia and remained there for years, studying the griffonian way of war and building up as many contacts as he could in the vain hope that Equestria would rise one day again.\n\nWith the rise of the ELF and his subsequent return home, he began working tirelessly to aid the cause and to wipe away his old shame. Yet, as it turned out it was after the war that his true rise would begin. Becoming a perfect foil to the more radical Starlight Glimmer and Trixie Lulamoon in the eyes of nobility, he could have become their puppet to keep the old order intact, but his time in Griffonia had opened his eyes in more ways than one. When he assumed leadership, it was under his own program. Equestria should remember its traditions and customs, but he will burn before he allows the nobility to ignore the responsibilities that come with their status.\n\n§YPortrait by§!: Scroup"
+ELF_BLUEBLOOD_DESC:0 "Prince Blueblood of Canterlot was born into wealth, prestige and privilege as a member of Equestria's absolute elite. Indeed, due to a judicial adoption of his ancestor a century ago, he could even be counted as a "nephew" of Celestia. This fact did not go unmentioned for long by Blueblood, whose wealth meant he could become a full time socialite and a fixture in the Canterlot social scene. Over time, as ennui sat in, his proclivities turned more sour and he began to amuse himself by tormenting the various mares who tried to approach him, dismissing them all as golddiggers, and starting various ridiculous trends to see who caught on.\n\nHis military career started nigh on a whim after his boredom with life became too much. Using his wealth and an archaic law to purchase a high commission, Blueblood landed as Field Marshal of Equestria within a few years, and it was only when the changeling invasion approached that the gravity of his position sunk in. Though he did what he could to prepare, especially using his connections to appoint the best people he could find to the best positions, it was not enough, and he ended up overseeing the worst defeat Equestria had suffered in centuries. He fled to Griffonia and remained there for years, studying the griffonian way of war and building up as many contacts as he could in the vain hope that Equestria would rise one day again.\n\nWith the rise of the ELF and his subsequent return home, he began working tirelessly to aid the cause and to wipe away his old shame. Yet, as it turned out it was after the war that his true rise would begin. Becoming a perfect foil to the more radical Starlight Glimmer and Trixie Lulamoon in the eyes of nobility, he could have become their puppet to keep the old order intact, but his time in Griffonia had opened his eyes in more ways than one. When he assumed leadership, it was under his own program. Equestria should remember its traditions and customs, but he will burn before he allows the nobility to ignore the responsibilities that come with their status.\n§YPortrait by§!: Scroup"
 
 #################################
 ############# IDEAS #############
@@ -148,9 +148,9 @@ MAN_special_free_trade:0 "자유 무역"
 changeling_garrison:0 "체인질링 주둔군"
 changeling_garrison_desc:0 "이 정치조직은 §Y[CHN.GetName]§!의 군사 보호국, 속국 또는 종속국 상태이고, §Y체인질링 주둔군§!에게 통치받고 있습니다.\n\n"
 
-#################################
-############ ADVISORS ###########
-#################################
+
+# ADVISORS
+
 MAN_advisor_2:0 "텐탈루스"
 MAN_advisor_2_desc:0 "텐탈루스는 퀸스가드의 장교이고, 크리살리스 여왕에게만 충성을 바칩니다. 메인해튼 판무관부의 행정을 감독하기 위해 메인해튼에 파견되어 라일락에게 크리살리스에 대한 충성을 확증시키는 임무를 맡았습니다.\n\n"
 MAN_advisor_3:0 "티리안 "
@@ -348,7 +348,7 @@ trait_lunatic_desc:0 "This creature is a committed lunatic, whose deranged antic
 MAN_cctv_surveillance:0  "CCTV 감시 네트워크"
 MAN_cctv_surveillance_desc:0  "비디오 감시 시스템으로도 알려진 폐쇄회로 텔레비전(CCTV)은 특정 장소의 제한된 일련의 모니터로 신호를 전송하기 위해 비디오 카메라를 사용하는 것입니다. 강력한 CCTV 네트워크는 대중을 집단으로 감시할 수 있어 보안 부대가 평화를 유지하기 위한 임무 중 반체제적인 활동을 감시할 수 있습니다."
 MAN_unlock_cctv_tech_tooltip:0  "§Y효과§!:\n    Garrison Penetration Chance: §G-25%§!\n    Enemy operative detection chance factor: §G+25%§!\n"
-CHN_manehattan_protectorate_railway_gun_tech:0 "Rail/Railway Gun/Cannon"
+CHN_manehattan_protectorate_railway_gun_tech:0 "Railway Gun"
 CHN_manehattan_protectorate_railway_gun:0 "소리스급 열차포"
 CHN_manehattan_protectorate_railway_gun_desc:0 "소리스급 열차포는 메인해튼의 보호자이며 체인질링인 라일락이 체인질링 패권의 군사력을 나타낼 강력한 상징을 위해 명령하여 제작되었습니다. 소리스급 열차포는 1,350톤이 나가고, 직경이 80cm이고 포탄이 7톤이며 사거리가 47km인 공성포를 탑재하고 있습니다. 수백만 체인질링 마르크의 비용이 든 이 열차포는 메인해튼 군공업단지에 큰 이득이 되었습니다.\n\n소리스급은 지금까지 전투에서 사용된 무기 중 가장 구경이 큰 무기이며, 전체적인 무게로 보아 여태까지 제조된 이동식 포 한 문중 가장 큰 중량을 가지고 있습니다. 크리살리스 여왕이 열차포를 점검할 때, 크리살리스 여왕은 소리스급 열차포와 같은 공학 기술의 놀라움에 경외감을 느꼈다고 기록했습니다."
 trait_timberwolf_companion:0 "Timberwolf Companion"
@@ -1554,6 +1554,16 @@ ELF_ask_for_states_back:0 "The Restoration of Equestria"
 ELF_ask_for_states_back_desc:0 "We were not alone in the struggle to defeat the Changeling menace; many other nations of the world have aided us in our liberatory endeavour. Some Equestrian territories emancipated from Changeling occupation remain under the control of such allies, however, and must be returned to us forthwith."
 ELF_ask_for_states_back_decision:0 "The Restoration Negotiations"
 ELF_ask_for_states_back_decision_desc:0 "We had been united against a common enemy, but our allies must be given recompense for their losses sustained in the fight to free Equestria and its ponies from under the Changeling jackboot. The debts we owe them shall be a heavy burden on our nascent freedom, but ultimately, it was an acceptable cost to pay."
+MAN_ELF_event_600_effect_tooltip:0 "This state will be §Yceded§! and returned to §YEquestrian§! sovereignty."
+MAN_ELF_event_600_effect_ANNEX_tooltip:0 "Since all of our core states are also §YEquestrian§! core states, taking this option will result in our being de-facto §Yannexed§! by [From.GetName].\n"
+ELF_EQS_returned_our_core_states:0 "Returned our Core States"
+MAN_ELF_new.600.t:0 "[From.GetName] Requests Return of Territory"
+MAN_ELF_new.600.d:0 "Following the Equestrian victory over the Changelings, the leadership of [From.GetNameDef], represented by [From.GetLeader], has formally requested that we return to their sovereignty the territory under our control that they consider to be integral and unalienable parts of [From.GetNameDef]. Equestria is no longer a pacifistic nation, with their antebellum adversion to foreign diplomacy through military aggression now thoroughly stripped away by the horrors of the Great War. We should now consider carefully whether or not the benefits of holding on to the territory [From.GetNameDef] has claimed truly outweigh the potential consequences of doing so."
+MAN_ELF_new.600.a:0 "We'll acquiesce to the Equestrians."
+MAN_ELF_new.600.b:0 "No."
+MAN_ELF_new.601.t:0 "[From.GetName] Refuses our Request"
+MAN_ELF_new.601.d:0 "The leadership of [From.GetNameDef] has refused our request to cede to us the Equestrian core states under their control. This is an unfortunate turn of events, and we should now consider alternate means of reclaiming our territory."
+MAN_ELF_new.601.a:0 "Regrettable."
 
 ###################################################
 ## SPECIAL SECTION FOR STATE UNREST LOCALISATION ##
@@ -3135,8 +3145,14 @@ MAN_strat_bomber_equipment_3:0 "Carapace Areonautics 400"
 MAN_strat_bomber_equipment_3_short:0 "Ca.400"
 MAN_jet_fighter_equipment_1:0 "Svarm Aircraft 262 'Schwalbe'"
 MAN_jet_fighter_equipment_1_short:0 "Sv.262 'Schwalbe'"
-MAN_jet_fighter_equipment_2:0 "Svarm Aircraft 329 A-0"
-MAN_jet_fighter_equipment_2_short:0 "Sv.329"
+MAN_jet_fighter_equipment_2:0 "Svarm Aircraft 262 HG"
+MAN_jet_fighter_equipment_2_short:0 "Sv.262-HG"
+MAN_jet_fighter_equipment_x:0 "Svarm Aircraft 262 HG V"
+MAN_jet_fighter_equipment_x_short:0 "Sv.262-HG V"
+MAN_jet_strat_bomber_equipment_x:0 "Vespidae EF 132"
+MAN_jet_strat_bomber_equipment_x_short:0 "Vs.132"
+MAN_jet_tac_bomber_equipment_x:0 "Svarm Aircraft P.1108"
+MAN_jet_tac_bomber_equipment_x_short:0 "Sv.1108"
 MAN_jet_strat_bomber_equipment_1:0 "Carapace Areonautics XVIII"
 MAN_jet_strat_bomber_equipment_1_short:0 "Ca.XVIII"
 MAN_jet_strat_bomber_equipment_1_desc:0 "The experimental flying wing design is the future of stealth bombing planes. Combined with intercontinental range, this bomber can strike even our most distant enemies before they are able to respond."
