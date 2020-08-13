@@ -179,7 +179,7 @@
  RCT_Nuclear_Water:0 "Nuclear Water"
  RCT_Hoover_Balls:0 "Sunny Sands"
  RCT_Jolly_River:0 "Jolly River"
- RCT_Wet_Water:0 "Dubrovneigh Academy"
+ RCT_Wet_Water:0 "Coltovac Academy"
  RCT_arclight:0 "Arclight"
  
  #### FOCUSES ####
@@ -467,7 +467,7 @@
  RCT_secure_northern_border_desc:0 "The north is uncivilized and poor. It is our duty to bring socialism to the hillponies and bring them to modernity, so all of them can live long, prosperous and healthy lives together with us!"
  
  RCT_secure_southern_border:0 "남쪽 경계 보호"
- RCT_secure_southern_border_desc:0 "The south is truly unruly: insane mages who have enslaved their people, Zebrican pirates and primitive deer tribes. It is a disgrace on our doorstep. Our armies must march south and free the poor ponies of Barrad, zebras of Nyumba and deer of Cervasia who have suffered for far too long."
+ RCT_secure_southern_border_desc:0 "The south is truly unruly: insane mages who have enslaved their people, a capitalist puppet state and primitive deer tribes. It is a disgrace on our doorstep. Our armies must march south and free the poor ponies of Barrad, zebras of Kása and deer of Austurland who have suffered for far too long."
  
  RCT_stalliongrad_of_the_east:0 "동쪽의 스탈리온그라드"
  RCT_stalliongrad_of_the_east_desc:0 "Comrade Steel Stallion of Equestria was our original inspiration and showed us how workers can overcome any opposition to overthrow their oppressors. We have followed in his hoofsteps and have created a Stalliongrad of our own! Let us now rejoice and breathe free at last."
@@ -579,8 +579,8 @@
  RCT_special_ops:0 "특수부대"
  RCT_special_ops_desc:0 "We need to establish a unit dedicated to fulfilling special missions, during both war and peace. They will receive extensive, even dangerous training and be given our finest equipment to ensure they are the best of the best. All are invited, few are chosen."
  
- RCT_expand_officer_academy:0 "두브로네이 사관학교 확장"
- RCT_expand_officer_academy_desc:0 "If we wish to expand our army, we need to expand our officer training as well. Dubrovneigh Military Academy shall receive more funding from us, more student applications will be approved and more officers will be sent to teach the cadets."
+ RCT_expand_officer_academy:0 "콜토박 사관학교 확장"
+ RCT_expand_officer_academy_desc:0 "If we wish to expand our army, we need to expand our officer training as well. The Coltovac Military Academy shall receive more funding from us, more student applications will be approved and more officers will be sent to teach the cadets."
  
  RCT_promote_best:0 "최고를 후원"
  RCT_promote_best_desc:0 "Some of our new cadets have proven to be very promising. Once they finish their training, we should not force them to climb the ladders of ranks but instead immediately promote them to higher positions. We are lacking talented senior officers, and this will solve the issue."
@@ -1367,8 +1367,8 @@
  RCT_guns_in:0 "Harmonist groups have had weapons shipped in"
  RCT_officers_in:0 "Officers have begun to train Harmonist groups"
  RCT_will_calm_commies:0 "The Socialists will be §Ydefanged§! and will §Yno longer be a threat.§!" 
- RCT_cherry_party_tooltip:0 "Unlocks §YStage Coups in the Southern Griffons§! decisions."
- RCT_op_magic_star:0 "Unlocks §YStage Coups in the Western Knights§! decisions."
+ RCT_cherry_party_tooltip:0 "Unlocks §YStage Coups in the Southern Griffons§! decisions/operations."
+ RCT_op_magic_star:0 "Unlocks §YStage Coups in the Western Knights§! decisions/operations."
  RCT_GRI_wargoal_tooltip:0 "If you have less than §Y50% War Support§!, this will cost you §YStability§! - the lower your War Support, the more Stability lost.\n"
  RCT_west_wargoal_tooltip:0 "If you have less than §Y30% War Support§!, this will cost you §YStability§! - the lower your War Support, the more Stability lost.\n" 
  RCT_can_justify:0 "Allows you to §Yjustify wargoals§! on nations that §Yhave not generated World Tension§!"
@@ -1383,10 +1383,12 @@
  RCT_proof_nova_is_a_traitor:0 "Nova Whirl is subverting our institutions!" 
  RCT_commie_crash:0 "We are dealing with the aftershocks of integrating the Riverlands" 
  RCT_fight_communists:0 "This will unlock §Ydecisions§! that allow you to fight against the insurgents and, in time, punish the one responsible for supporting them." 
- RCT_overcome_cultural_barriers:0 "This will slowly allow you to remove the §RCultural Divides§! National Spirit."
- RCT_suppress_terrorists:0 "Allows you to gradually §Rdeal with anti-Socialist militants§!"
- RCT_rebuild_economies_tooltip:0 "We will begin the slow and arduous process of §Yrebuilding§! and §Yintegrating§! the Riverland economies with our Socialist model."
- RCT_rebuild_armies:0 "This will allow you to begin coordinating §Ya true all-River Red Army§!"
+ RCT_overcome_cultural_barriers:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us to begin creating one united §CRiverlander§! §Yculture§!\n\n"
+ RCT_suppress_terrorists:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us dispose of the various §RAnti-Socialist militants§! infesting the §CRiverlands§!\n\n"
+ RCT_rebuild_economies_tooltip:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us to §Yrebuild§! and §Yintegrate§! the various §CRiverlander§! economies into our §RSocialist economic model§!\n\n"
+ RCT_rebuild_economies_tooltip_2:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us to §Yrebuild§! and §Yintegrate§! the various §CRiverlander§! economies into our §gFascist economic model§!\n\n"
+ RCT_rebuild_armies:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us to coordinate a true §RRiverpony Red Army§!\n\n"
+ RCT_rebuild_armies_2:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us to coordinate a true §gRiverlands National Army§!\n\n"
  RCT_caramels_coup:0 "Caramel Haze has established the Proletarian Dictatorship"
  RCT_nova_remains:0 "Nova Whirl has held onto power"
  RCT_grand_union:0 "이제 우리는 §R리버랜드 연방을 선언§!하고 리버랜드를 통합할 것입니다. 얼마나 제대로 하는지는 §Y누가 집권하느냐에 달려 있습니다.§!"
@@ -1402,7 +1404,7 @@
  RCT_KGB_campaign:0 "This will unlock §YDecisions§! that allow you to send spies to §Rinfiltrate the enemy§! and spread disinformation among them, weakening their intelligence efforts." 
  RCT_fabian:0 "This will allow you to make §Rsubtle socialist indoctrination§! a key part of Federation policy. If you are the first to implement a §YReform§! from the §Yshared Federation focus tree§!, that idea will §Rslowly convert anyone who accepts it to Socialism§!. " 
  RCT_solidarity_tooltip:0 "This will unlock decisions allowing you to §Ypeacefully integrate§! any Riverlands nations with more than 50% §RCommunist§! popularity."
- RCT_owns_the_riverlands:0 "The capitals of each §Yoriginal Federation Member§! must be controlled either by us or by one of our puppets."
+ RCT_owns_the_riverlands:0 "The §Yoriginal§! §Ccapitals§! of §YLake City§!, §YDiamond Mountain§!, §YDeponya§!, §YRiver Republic§!, §YNimbusia§!, §YWittenland§! and §YPonadhain§! are controlled by either us or by one of our §Csubject states§!\n\n"
  RCT_army_special_forces_tt:0 "Gain 3 units with §Y6 Paratrooper§! battalions and §YRecon§!, §YArtillery§!, and §YEngineer§! companies.\n"
  RCT_sfodr_tt:0 "Gain an elite unit with §Y6 Paratrooper§! battalions, a §YRecon§! company and an §YUnicorn§! company.\n"
  RCT_ranger_regiment_tt:0 "Gain a unit with §Y9 Mountaineer§! battalions and §YRecon§!, §YArtillery§!, §YEngineer§! and §YUnicorn§! companies.\n"
@@ -1412,7 +1414,7 @@
  RCT_force_recon_tt:0 "Gain a unit with §Y6 Marine§! battalions and §YRecon§!, §YEngineer§! and §YUnicorn§! companies.\n"
  RCT_dep_aid:0 "Aid from Deponya received"
  RCT_babushka:0 "Baba will be very happy!\n"
- RCT_babushka_mad:0"Baba will be disappointed but she still loves you.\n"
+ RCT_babushka_mad:0 "Baba will be disappointed but she still loves you.\n"
  RCT_idiot:0 "You will find some low level administrator to fill the position.\n"
  Promoted_Cousin_Pumpkin:0 "Cousin Pumpkin has been given the job."
  Cousin_Pumpkin_timeout:0 "Baba would be very upset if you remove Cousin Pumpkin from her position. It's better to wait a while."
@@ -1439,6 +1441,8 @@
 
  RCT_influence_tooltip:0 "§RIf support for Harmony rises over 30%, [RCT.GetName] will be able to stage a coup, causing a civil war!§!\n"
 
+ RCT_unlock_golden_curtain_decisions:0 "Unlocks decisions to §Yguarantee§! nations neighbouring the Coalition.\n"
+ 
  ## SCRIPTED LOC ##
  CaramelProclamation:0 "It is time to abolish the River Coalition, the despicable alliance of capitalist scum all united in oppression of their workers. This shall be Comrade Caramel's final reform: a new Union in place of the old alliance, with a constitution that embeds socialist values in every single member state. If the reactionary pigs are wise, they will bend and accept this turn of events!"
  NovaProclamation:0 "It is time for Nova Whirl to fulfill her last dream and unite the Riverlands under a single red banner of socialism and solidarity. The River Coalition will be reformed and all current members will be formally asked to sign the new Treaty of Rijekograd, which establishes socialist values as the foundation of a new Union."
@@ -1447,8 +1451,12 @@
  #### Politics ####
  POLITICS_RIVERSWIRL_DESC:0 "River Swirl is a former teacher from Rijekograd who studied abroad in Celestia's School For Gifted Unicorns. She later entered politics and quickly rose through the ranks of the Rijeka Harmony Party. She was elected Chancellor of the River Republic in 1001 and her term was mostly successful, allowing her to win the elections for the second time. However, continued modernization has led to growing social issues in cities which in turn has greatly increased the popularity of the left. Her second term is unlikely to be as unproblematic as the first."
  POLITICS_NOVAWHIRL_DESC:0 "Nova Whirl is a rising star in the political scene of the River Republic, having entered it only in 1004. She grew in the factory district of Rijekograd, where conditions were far from ideal, which influenced her political values greatly. Soon enough she joined a socialist youth club where she discussed the Stalliongrad revolution with others and eventually developed her own ideology: A mixture of market socialism, gradualism and internationalism. She finally entered politics to turn her socialist dreams into a reality."
+ POLITICS_CARAMELHAZE_DESC:0 "Some consider him a bold hero of the revolution, others a dangerous tyrannical lunatic. To say the least, Caramel Haze is a controversial figure. He joined the ranks of the army at a young age, being attracted by wages which were above those of common labourers. At this time, he cared little for politics, but meeting a Bakaran economic advisor called Bray Foam would give his life new purpose. Caramel read the writings of his namesake, Caramel Marks, and then learned of Steel Stallion and his more radical principles. Soon he was filled with revolutionary fervour and joined the SKR, rising through the ranks rapidly.\n\nWhile Nova Whirl never trusted him, she realized his usefulness and so the two cooperated closely. But Caramel was not fond of Whirl either, thinking she was a revisionist and a social fascist. Ever since he has patiently waited for the time to seize control of SKR from her."
  
- lewd_dane_nerd:0 "A bit of an oddball in the military, Arcane’s talent doesn’t actually lie in military matters, rather, it lies in technology and magic.\n\nHe originally joined the Army as an engineer, before climbing the ranks through supply and logistics. Pioneering a computerized system for keeping track of both divisions and armies, he has since taken the offer to lead in a more direct role, rather than the behind-the-curtains role he occupied until now."
+ lewd_dane_nerd:0 "A bit of an oddball in the military, Arcane's talent doesn't actually lie in military matters, rather, it lies in technology and magic.\n\nHe originally joined the Army as an engineer, before climbing the ranks through supply and logistics. Pioneering a computerized system for keeping track of both divisions and armies, he has since taken the offer to lead in a more direct role, rather than the behind-the-curtains role he occupied until now."
+
+ GEAR_TAIL_DESC:0 "§YBio:§! Supportive of equipping of the army with technology, Gear, like his sister, was a small industrialist, following socialist workers' movements.\n\nGood knowledge of military equipment and weapons led him into the army, where he could better understand what kind of equipment is needed by the soldiers. All while the worker support and contacts Two Tail had helped to promote his ideas and set up effective production.\n\n§YPortrait By:§! Two Tail"
+ TWO_TAIL_DESC:0 "§YBio:§! The necessary connections helped Two Tail rise through the service ladder.  Like her brother, she was a small industrialist supporting socialist workers' movements.\n\nWhile Gear created and improved new designs of arms, Two led the propaganda of socialist ideas in military circles, and provided communication and support of politicians and industry.\n\n§YPortrait By:§! Two Tail"
  
  #### EQUIPMENT ####
  
@@ -1461,18 +1469,24 @@
  
  RCT_infantry_equipment_0:0 "Rijeka Rifles"
  RCT_infantry_equipment_0_short: "Rijeka Rifles"
+ RCT_infantry_equipment_0_desc: "As the Arquebuses became widespread and the Coltstream Coalition solidified around Rijekograd, the experience in fighting the griffons was put to use. Of course, they didn't forget to also import weapons from abroad. These rifles have served the Republic long. But their time is fading too."
  RCT_infantry_equipment_1:0 "HS Produkt VHS1"
  RCT_infantry_equipment_1_short:0 "VHS1"
+ RCT_infantry_equipment_1_desc:0 "The Era of Rifles are fading. With the quiet armaments program being set in place, ostensibly as a 'stimulus effort', HorSe has been given a large budget in this year's money bill to develop a new standard rifle for the Army of the Republic to phase out the mish-mash of random, personal, antiquitated hand-me-downs that we are currently arming our soldiers with."
  RCT_infantry_equipment_2:0 "HS Produkt VHS2"
  RCT_infantry_equipment_2_short:0 "VHS2"
+ RCT_infantry_equipment_2_desc:0 "As the International 'Volunteers' travelled to Longsword to take part, they brought with them their VHS1 rifles. While they served them well in the Battle of Haarsingnen and the Battle of Varéna, they lacked the ability to uphold a constant fire while on the move. HorSe reacted to these complaints by the General Staff by using the VHS1 as a base to develop the first domestic submachine gun kit in the VHS2"
  RCT_infantry_equipment_3:0 "HS Produkt VHS3"
  RCT_infantry_equipment_3_short:0 "VHS3"
+ RCT_infantry_equipment_3_desc: "As Equestria came under siege, and the Riverlands Technology Exchange was increasingly used to evacuate technology valuable to Equestria to avoid it falling into Changeling hooves, part of the price was allowing the Republic access to the technology. Based off a prototype Equestrian concept married with a Rijekan design, the VHS3 would remain the most commonly used rifle in the Republic for a decade."
  RCT_infantry_equipment_x:0 "HS Produkt VHS3-1"
  RCT_infantry_equipment_x_short:0 "VHS3-1"
+ RCT_infantry_equipment_x_desc:0 "As the Federation marched off to war, bound by the 1018 Cloudbury Protocols, the VHS3-1 was rushed into service to alleviate fears of a Griffonian invasion through Longsword. Despite many initial problems, including the tendency for the magazine to jam at the most unfortunate of times, the lack of claws on Federal soil meant that only Griffonian soldiers would experience this dreadful fate. When they finally were fixed, it would stay a steady hoof in war."
  RCT_infantry_equipment_x_2:0 "HS Produkt VHS4"
  RCT_infantry_equipment_x_2_short:0 "VHS4"
- 
+ RCT_infantry_equipment_x_2_desc:0 "With the Second Griffonian Revolutionary War over, the lessons learned in the costly battles of Katerinburg and Mirabelle, there were clear problems with the VHS3-1 that couldn't quite cut the mustard against reality. To alleviate this, even as some VHS2s were still being phased out in favor of the VHS3-1, captured Imperial weapons were studied and some of their innovations, most notably a new, more resilient firing pin would be paired with a domestic design to create the VHS4"
  RCT_motorized_equipment_1:0 "TAM"
+ RCT_motorized_equipment_1_desc:0 "With the automobile having a bigger and bigger role in the civillian life, it has come to the attention of the General Staff that these vehicles, if built to the correct specificiations and resilience to terrain may substitute the old pony-drawn carriages"
  RCT_mechanized_equipment_1:0 "BVP M-1012"
  RCT_mechanized_equipment_1_short:0 "BVP M-1012"
  RCT_mechanized_equipment_2:0 "BVP M-1014"
@@ -1482,8 +1496,10 @@
  
  RCT_magical_equipment_1:0 "Cari Puska M11"
  RCT_magical_equipment_1_short:0 "CP M11"
+ RCT_magical_equipment_1_desc:0 "The recent development of precision engraving using a mix of hornbane and especially clear crystals has made it possible to launch spells such as fire and pain without needing a direct way to tap into the Amity field. The engraver Cari Puska has stepped up to the task with a prototype ready to be set in production, even if mass-engraving will need some time to develop from scratch with our industrial base."
  RCT_magical_equipment_2:0 "Cari Puska M13"
  RCT_magical_equipment_2_short:0 "CP M13"
+ RCT_magical_equipment_2_desc:0 "Just as the Internationals took their VHS1s to Longsword, the secretive OHS agents also brought their CP M11s with them to Diamond Mountain to help Molly take the throne. In comparison to the VHS1, their complaint was not as much rate of fire, as it was a lack of flexibility to fire more spells. This has now been rectified by the introduction of a liquid solution to suspend the hornbane and crystal in the engraved crystal casing."
  RCT_magical_equipment_3:0 "Cari Puska M20"
  RCT_magical_equipment_3_short:0 "CP M20"
  RCT_magical_equipment_4:0 "Cari Puska M35"
@@ -1583,9 +1599,19 @@
  RCT_CAS_equipment_2_short:0 "SOKO J-11"
  RCT_CAS_equipment_3:0 "SOKO J-15 Orao"
  RCT_CAS_equipment_3_short:0 "SOKO J-15"
+ 
+ ### General Descriptions ###
+ RCT_brilliant_specter_desc:0 "Born moments after his twin sister Brilliant Shade, Brilliant Specter was raised in Rijekograd. His childhood was fairly unremarkable, with the colt taking to the books and learning through the magic of words and images about the world, and improving on his illusion magic in the process as well. Stories of Equestria with its immortal Princess inspired him to pursue a career in the military, hoping to make a positive impact on the River Republic's standing in east Griffonia. An ardent supporter of Harmony, he will do all that he can to defend his homeland."
+ RCT_brilliant_shade_desc:0 "Born moments before her twin brother Brilliant Specter, Brilliant Shade was raised in Rijekograd, her childhood filled with adventure and exploration. She went through every nook and cranny she could, using her burgeoning talent with illusion magic to stay out of trouble. Tales of the once-powerful Griffonian Empire inspired her to pursue a career in the Republic's armed forces, hoping to one day bring the fight to what's left of the Empire. An avid proponent of Harmony, she will do all she can to protect the integrity of her homeland."
 
  ####Tech Sharing Group####
  Equestria_exchange_mission_name:0 "The Equestrian Exchange"
  Equestria_exchange_mission_desc:0 "Rijekan and Equestrian scientists coordinate together, to help the harmonic Riverland nation to catch up to latest developments in Canterlot. Although the distant between the countries is vast, modern communication means that knowledge can still be shared effectively."
 
  Riverland_Socialist_Union:0 "Riverland Socialist Union"
+
+ RCT_EQS_Helped:0 "Equestrian Exchange"
+ RCT_EQS_Helped_a_Lot:0 "Equestrian Exchange"
+ RCT_EQS_Exchange_mission_buddies:0 "Equestrian Exchange"
+ RCT_EQS_didnt_Helped:0 "Refused Equestrian Exchange"
+ RCT_EQS_didnt_Helped_in_Exchange:0 "Refused Equestrian Exchange"
