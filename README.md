@@ -4,7 +4,8 @@
 ***
 
 # 공지사항
-- 20.07.25 기준 한패 업데이트되었습니다.
+- 20.08.13 기준 한패 업데이트되었습니다. (1.8업뎃 대응)
+ - 일부 국가명 변경에 유의해 주세요. (외이스튀르란드(Austurland), 카사 자유국(Kása Free State), 프란시스트리아(Francistria), 헬퀼 기사단국(Ordensstaat Hellquill))
 
 # 번역 추천 국가
 현재 번역이 진행중인 국가 문서들입니다. 어떤 나라를 번역해야 할지 모르겠다면 아래 국가들의 번역에 참여해 주세요!
@@ -15,7 +16,6 @@
   - [스카이나비아 사회주의 공화국](localisation/country_SRS_l_english.yml)
   - [뉴메어랜드 연방](localisation/country_EQC_l_english.yml)
   - [이퀘스트리아 해방전선](localisation/country_MAN&ELF_l_english.yml)
-  - [핑랜드 왕국](localisation/country_PNG_l_english.yml)
 
 ***
 
@@ -141,7 +141,7 @@
 - ![FIR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/8/81/Firtree_Villages.png/revision/latest/scale-to-width-down/24?cb=20191119212127) `FIR` - 피어트리 마을
 - ![FLO flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/66/City_of_Flowena.png/revision/latest/scale-to-width-down/24?cb=20191126194056) `FLO` - 플로웨나 시
 - ![FRE flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b5/Ponaidhean.png/revision/latest/scale-to-width-down/24?cb=20191119220124) `FRE` - 포나이드헨
-- ![FRN flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/c9/County_of_Franmistria.png/revision/latest/scale-to-width-down/24?cb=20191119202550) `FRN` - 프란미스트리아 백국
+- ![FRN flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/c9/County_of_Franmistria.png/revision/latest/scale-to-width-down/24?cb=20191119202550) `FRN` - 프란시스트리아 백국
 - ![GFF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/c/cf/Griffon_Frontier.png/revision/latest/scale-to-width-down/24?cb=20180922043901) `GFF` - 그리폰 프론티어
 - ![GRF flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/0/06/Nova_Griffonia.png/revision/latest/scale-to-width-down/24?cb=20190905183249) `GRF` - 노바 그리포니아
 - ![GRI flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/1/18/Griffonian_Empire.png/revision/latest/scale-to-width-down/24?cb=20191120014612) `GRI` - 그리포니아 제국
@@ -168,7 +168,7 @@
 - ![NIM flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/b9/Nimbusia.png/revision/latest/scale-to-width-down/24?cb=20181107174106) `NIM` - 님부시아
 - ![NTR flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/a/a2/Northern_Tribes.png/revision/latest/scale-to-width-down/24?cb=20191119215835) `NTR` - 북부 부족
 - ![OLE flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/b/be/Kingdom_of_Olenia.png/revision/latest/scale-to-width-down/24?cb=20180922041327) `OLE` - 올레니아
-- ![OLV flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/d/d1/Nytt_Radjur_Land.png/revision/latest/scale-to-width-down/24?cb=20191119200422) `OLV` - 네트 래유어 랜드
+- ![OLV flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/d/d1/Nytt_Radjur_Land.png/revision/latest/scale-to-width-down/24?cb=20191119200422) `OLV` - 외이스튀르란드
 - ![PLB flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/9a/Polar_Bear_Communities.png/revision/latest/scale-to-width-down/24?cb=20180826162334) `PLB` - 북극곰 공동체
 - ![PNG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/7/76/Kingdom_of_Pingland.png/revision/latest/scale-to-width-down/24?cb=20191114175041) `PNG` - 핑랜드 왕국
 - ![POM flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/90/Pomovarra.png/revision/latest/scale-to-width-down/24?cb=20191119220110) `POM` - 포모바라
@@ -189,7 +189,7 @@
 - ![WNG flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/3/38/Kingdom_of_Wingbardy.png/revision/latest/scale-to-width-down/24?cb=20180922044125) `WNG` - 윙바르디 왕국
 - ![YAK flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/9/90/Kingdom_of_Yakyakistan.png/revision/latest/scale-to-width-down/24?cb=20180922043947) `YAK` - 야크야키스탄
 - ![YAL flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/2/26/Yale_Rectorate.png/revision/latest/scale-to-width-down/24?cb=20191201094136) `YAL` - 예일 학술국
-- ![ZES flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Nyumba_ya_Kaskazini.png/revision/latest/scale-to-width-down/24?cb=20180922041904) `ZES` - 늄바 야 카스카지니
+- ![ZES flag](https://vignette.wikia.nocookie.net/equestria-at-war/images/6/63/Nyumba_ya_Kaskazini.png/revision/latest/scale-to-width-down/24?cb=20180922041904) `ZES` - 카사 자유국
 
 ## 외부링크
 - [호이4 한국어패치 단어장(docs.google.com)](https://docs.google.com/spreadsheets/d/1nu5sKDlIa11AMvNF7kq11RSu_a9ZKJsXtD8PB6u3KB8/edit#gid=0)
