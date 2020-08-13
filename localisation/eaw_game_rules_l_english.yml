@@ -49,7 +49,12 @@
  RULE_OPTION_DEFAULT_INFUNSTRUCTURE_DESC:0 "각 국가들은 다양한 표준 기반시설들을 가지고 시작합니다."
  RULE_OPTION_PSODY_MODE:0 "기반시설 제거"
  RULE_OPTION_PSODY_MODE_DESC:0 "\"보급을 없애면 게임이 더 나아진다.\"\n   - Psody, 2019."
-
+ 
+ GREAT_WAR_AI_BUFFS:0 "대전쟁 AI 보너스"
+ RULE_OPTION_DEFAULT_BUFFS_DESC:0 "체인질링과의 전쟁 동안 이퀘스트리아는 AI가 통제할 경우 다양한 보너스를 얻을 것입니다.\n\n 권장되는 £eaw_text  §Y이퀘스트리아 앳 워§! 기본 설정입니다."
+ RULE_OPTION_BUFFS_REMOVED:0 "AI 보너스 없음"
+ RULE_OPTION_BUFFS_REMOVED_DESC:0 "이퀘스트리아 AI는 체인질링과의 싸움에서 보너스를 받지 않을 것입니다."
+ 
  NCR_EXISTS_STATUS:0 "뉴 캘리포니아 원정대"
  RULE_OPTION_DEFAULT_NCR_DESC:0 "이 세계에 인간은 존재하지 않습니다.\n\n£eaw_text  §Y이퀘스트리아 앳 워§! 기본 설정입니다. 권장됨."
  RULE_OPTION_NCR_ACTIVE:0 "포탈을 열다"
