@@ -303,7 +303,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_gladmane_wins:0 "글레드메인의 승리"
  EQC_gladmane_wins_desc:0 "The successful businesspony Gladmane has been elected president. His detractors remain skeptical and confounded, but he promises to make New Mareland great again!"
 
- EQC_gambling_freedom_act:0 "도박자유법"
+ EQC_gambling_freedom_act:0 "자유도박법"
  EQC_gambling_freedom_act_desc:0 "It's time to lift all gambling restrictions.\nWe shall build our own Las Pegasus with blackjack and showponies! State owned casinos will provide outlets of the citizens to gamble their hard-earned money and win big. They shall have flashy names like "The Velvet Pegasus" and beings from around the world shall marvel at their grandeur."
 
  EQC_embrace_neutrality:0 "중립 선언"
@@ -620,7 +620,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_a_new_fighter:0 "전투기 경쟁"
  EQC_a_new_fighter_desc:0 "New Mareland is a nation full of innovators and on the aerial front Star Hunter is by far the most talented. On his own initiative he has held competitions for new fighter designs. These contests have resulted in blueprints that are very much ahead of their time. With the proper government funding for their ideas, we could gain an advantage over our opponents in the sky."
 
- EQC_new_south_bales_air_warning_system:0 "뉴 사우스 발레 항공 경보 시스템"
+ EQC_new_south_bales_air_warning_system:0 "뉴 사우스 베일스 항공 경보 시스템"
  EQC_new_south_bales_air_warning_system_desc:0 "New South Bales lies but a few miles from Aquileia. They have resented our presence since the first ponies landed in New Mareland so long ago. In an event of attack, it is imperative that we have intelligence on enemy troop movements and plane formations. In order to achieve this, we shall install new radar systems near the straight to keep an eye on our northern neighbours."
 
  EQC_expand_air_defence:0 "방공체계 확장"
@@ -661,7 +661,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_bits_gun:0 "비트스 건"
  EQC_bits_gun_desc:0 "We have never had the resources of many of the world's larger nations so many of our firearms were imported from overseas, especially from Equestria. A locally developed and produced primary firearm would drastically cut the cost of arming our troops. We will collect and examine a collection of foreign guns we have acquired, to put together our own rifle, made to be efficient in both resource and labour cost."
 
- EQC_new_mareland_catering_corps:0 "뉴메어랜드 육군 배식단"
+ EQC_new_mareland_catering_corps:0 "뉴메어랜드 육군 보급단"
  EQC_new_mareland_catering_corps_desc:0 "They say a pony marches on his stomach. Then surely an army marches on a thousand stomachs. To make sure our army never goes hungry, we shall establish an official branch of our army whose job it is to procure food for the troops. The New Mareland Army Catering Corps will cater to all our soldiers' needs, so that they only have to focus on fighting the actual battle."
 
  EQC_sentinel_project:0 "센티넬 프로젝트"
@@ -693,7 +693,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_royal_military_academy_sunset_free:0 "선셋 육군 사관학교"
  EQC_royal_military_academy_sunset_desc:0 "The Military Academy at Sunset is our pride and joy. Its excellent facilities and teacher staff will train the next generation of Mareland's finest to serve us for a long time to come. Putting more funds into the academy here will certainly serve us well. If all our officers learn the classics of warfare, they will certainly learn from past mistakes."
 
- EQC_catering_corps:0 "뉴메어랜드 육군 배식단"
+ EQC_catering_corps:0 "뉴메어랜드 육군 보급단"
  EQC_catering_corps_desc:0 ""
 
  EQC_nmac_spirit:0 "NMAC의 정신"
@@ -771,7 +771,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_commonwelth_congress_idea:0 "통합된 연방 의회"
  EQC_commonwelth_congress_idea_desc:0 "The divided Commonwealth Congress has put aside their squabbles and interests into pursuing a common goal: formal and complete independence from Equestria."
 
- EQC_school_for_unicorns:0 "재능있는 유니콘을 위한 뉴 메어랜드 학교"
+ EQC_school_for_unicorns:0 "재능있는 유니콘을 위한 뉴메어랜드 학교"
  EQC_friendship_school:0 "뉴메어랜드 우정의 학교"
  EQC_national_defence_company_idea:0 "국방 회사"
  EQC_eastern_wonderbolts_id:0 "다운 언더에서 온 원더볼트"
@@ -797,7 +797,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_griffon_money:0 "그리폰의 황금"
  EQC_griffon_money_desc:0 "Thanks to our strong banks and lax laws, we have many griffons entrusting our banks with their money. We shall make good use of it."
  EQC_hydro_power_idea:0 "수력발전"
- EQC_nuke_power_idea:0 "핵무기"
+ EQC_nuke_power_idea:0 ""
  EQC_malls_idea:0 "쇼핑 몰 개장"
  EQC_malls_idea_desc:0 "Grocery stores are nothing new to ponies, but a full fledged shopping mall, where they can buy anything their hearts desire, from furniture to clothing, is encouraging them to spend their hard earned Bits."
  EQC_griffon_experiment:0 "비윤리적인 기준"
@@ -1290,18 +1290,18 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
 
  ### NEWS EVENTS ###
 eqc_news.1.t:0 "뉴메어랜드 연방이 결별을 선언하다"
- eqc_news.1.d:0 "[This.GetNewspaperHeader]An emergency session of New Mareland's Commonwealth Congress came to a close this morning with a vote of 150 to 76 in favour of seeking immediate separation of government from Equestria. This follows the collapse in negotiations between Equestria and New Mareland on the subject of New Mareland sovereignty and the poor economic situation that ravages the nation. The vote has been applauded by many as the first true step on the path of independence. The Governor-General and many in the ruling UEP have remained mute on the matter."
+ eqc_news.1.d:0 "[This.GetNewspaperHeader]오늘 아침, 뉴메어랜드 연방 의회 긴급회의에서 시행된 즉각적으로 독립된 정부를 구성할 것을 결정하는 투표가 150 대 76으로, 지지하는 쪽이 승리하며 막을 내렸습니다. 이는 뉴메어랜드 주권을 주제로 한 이퀘스트리아와의 협상 실패와 동시에 나라를 황폐화시키는 열약한 경제 상황 때문이라 보고 있습니다. 이 투표는 많은 이들에게 독립을 향한 첫걸음이라 여겨지며 많은 박수를 받았습니다. 식민지 총독과 여당인 UEP의 많은 이들은 이 문제에 침묵을 지키고 있다고 합니다."
  eqc_news.1.a:0 "우린 우리들만의 길을 걸어나갈 것이다!"
  eqc_news.1.b:0 "우리 잘못이로군."
  eqc_news.1.c:0 "흥미롭군."
 
 eqc_news.2.t:0 "뉴메어랜드 연방이 독립을 선언하다"
- eqc_news.2.d:0 "[This.GetNewspaperHeader]After months of negotiations, debates in congress and mass rallies in the streets, New Mareland has officially announced its declaration of independence from Equestria. The treaty was ratified this morning after a near unanimous vote in congress and was signed by the Governor-General and the Equestrian ambassador.\n\n\"It is the right for every New Marelander to decide their own fate. The future is now in our own hooves and our will is not to be dictated by a foreign monarch,\" Governor-General [EQC.GetLeader] said on national radio.\n\nIt was followed by an announcement that new elections shall be held in the upcoming months after a period of political campaigning."
- eqc_news.2.a:0 "뉴 메어랜드여 영원하라!"
+ eqc_news.2.d:0 "[This.GetNewspaperHeader]수개월에 걸친 협상과, 의회 내에서의 토론 그리고 거리에서의 대규모 집회 끝에, 뉴메어랜드는 독립을 선언함을 공식적으로 발표하였습니다. 이 조약은 의회에서 만장일치에 가까운 표를 받으며 오늘 아침, 비준되었으며 동시에 총독과 이퀘스트리아 대사의 서명을 받았습니다.\n\n\"모든 뉴메어랜드인들은 자신의 운명을 스스로 결정할 권리를 가지고 있습니다. 미래는 지금, 우리 발굽에 있으며 우리는 더 이상 외국의 군주의 결정에 따르지 않을 것입니다.\" 전국 라디오 에서 총독 [EQC.GetLeader](이)가.\n\n이어, 유세 기간을 거친 후 다음 달에 새로운 선거가 실시될 것임을 발표했습니다."
+ eqc_news.2.a:0 "뉴메어랜드여 영원하라!"
  eqc_news.2.b:0 "공주는 그녀의 작은 포니들을 그리워 하겠구만."
  eqc_news.2.c:0 "이퀘스트리아는 보이는 것보단 통합되진 않았군."
 
-eqs_election_win.t:0 "[EQC.GetLeader](이)가 뉴 메어랜드에서 승리하다"
+eqs_election_win.t:0 "[EQC.GetLeader](이)가 뉴메어랜드에서 승리하다"
  #eqc_news.3 to eqc_news.6 are the news events that happen when each candidate is elected 3 = Jet Set 4 = Gladmane 5 = Kingfisher 6 = The Duke
 
  eqc_news.3.d:0 "[This.GetNewspaperHeader]This morning, [From.GetLeader] was sworn in as the first President of an independent New Mareland. The old Governor-General had put himself on a new platform of not just the same but a keeping of New Mareland tradition and pride. As he was sworn in he promised the ponies that he would maintain their democratic traditions and preserve the commonwealth. Despite his record, the ponies cheered him on as he took the oath of office."
@@ -1322,10 +1322,10 @@ eqs_election_win.t:0 "[EQC.GetLeader](이)가 뉴 메어랜드에서 승리하�
  eqc_news.6.c:0 "그가 뭘 할지 한번 봐보자고."
 
 eqc_news.7.t:0 "뉴메어랜드가 [STG.GetNameDef](을)를 인정하다"
- eqc_news.7.d:0 "[This.GetNewspaperHeader]이퀘스트리아 정부의 요구를 무시한 채, 뉴메어랜드는 스탈리온그라드를 독립적인 국가로서 완정히 인정하겠다고 발표하였습니다. 선셋에 새로운 스탈리온그라드 대사관이 선정됨에 따라, 다음 주에 양국 간의 국교가 공식적으로 수립될것 입니다.\n\n이퀘스트리아 대사는 공식으로 항의하며, 뉴메어랜드 정부가 이 발표를 철회하길 요구했습니다. 총독을 공적인 자리에서 내쫓겠다는 협박까지 하며 말입니다."
+ eqc_news.7.d:0 "[This.GetNewspaperHeader]이퀘스트리아 정부의 요구를 무시한 채, 뉴메어랜드는 스탈리온그라드를 독립적인 국가로서 완정히 인정하겠다고 발표하였습니다. 선셋에 새로운 스탈리온그라드 대사관이 선정됨에 따라, 다음 주에 양국 간의 국교가 공식적으로 수립될것 입니다.\n\n이퀘스트리아 대사는 공식적으로 항의하며, 뉴메어랜드 정부가 이 발표를 철회하길 요구했습니다. 총독을 공적인 자리에서 내쫓겠다는 협박까지 하며 말입니다."
  eqc_news.7.a:0 "우리 새 친구들하고 함께 잘 일해보자고."
  eqc_news.7.b:0 "아마 이제 그만둬야 할 때일 것이다..."
- eqc_news.7.c:0 "포니들은 더이상 셀레스트아를 사랑하지 않는건가?"
+ eqc_news.7.c:0 "포니들은 더이상 셀레스티아를 사랑하지 않는건가?"
 
 eqc_news.8.t:0 "뉴메어랜드를 장악한 공산주의자들"
  eqc_news.8.d:0 "[This.GetNewspaperHeader]The little-known MARESOC movement launched a successful coup against the government of New Mareland. They seem to have risen in the shadows, coercing and bribing their way into a position to strike. When the government loyalists realised what was going on, they were already too late to stop the Communists. The MARESOC movement promises huge changes to society and has already started to close their borders. The world watches on."
