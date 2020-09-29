@@ -47,7 +47,7 @@
  RCT_the_left_assent_desc:0 "리버 사회당의 인기도가 급속하게 높아지고 있으며 이들이 의회를 점령한 상태입니다. 이미 그들의 첫 번째 개혁이 시작되었습니다."
 
  RCT_minutemares:0 "소집병들"
- RCT_minutemares_desc:0 "To protect our interests abroad, our forces must always be prepared at a moment's notice to deploy where they are needed."
+ RCT_minutemares_desc:0 "해외에서의 우리의 이익을 보호하기 위해서, 우리 군대는 항상 필요한 곳에 배치되기 위해 즉각적으로 대비해야 합니다."
 
  RCT_election_spending:0 "무거운 선거 빚"
  RCT_election_spending_desc:0 "우리는 선거에서 이기기 위해 엄청난 돈을 쓰고 빚을 졌습니다. 이 모든 것을 갚는 데는 상당한 시간이 걸릴 겁니다."
@@ -58,7 +58,7 @@
  RCT_commissars:0 "정치 내각"
  RCT_comm_riled_up:0 "Rile Up The Troops"
  RCT_market_socialism_idea:0 "시장사회주의"
- RCT_market_socialism_idea_desc:0 "Nova's sweeping reforms have abolished private ownership while keeping the market economy in place."
+ RCT_market_socialism_idea_desc:0 "노바의 전면적인 개혁은 시장 경제를 유지하면서 사유권을 폐지했습니다."
  RCT_autarky_idea:0 "Rijekan Autarky"
  RCT_autarky_idea_desc:0 "If Rijeka is ever isolated by foreign enemies, it must be able to survive on its own."
  RCT_union_control:0 "정치 연합"
@@ -102,7 +102,7 @@
  RCT_KGB_1:0 "적은 사회주의자 파괴공작원"
  RCT_KGB_2:0 "몇몇의 사회주의자 파괴공작원"
  RCT_KGB_3:0 "수많은 사회주의자 파괴공작원"
- RCT_OHS_divs:0 "OHS 사단" 
+ RCT_OHS_divs:0 "조화사무국 사단" 
  RCT_OHS_detachments_idea:0 "조화사무국 파견대" 
  RCT_accept:0 "데포니아 지원"
  RCT_plane_production:0 "항공기 생산 확장"
@@ -223,7 +223,7 @@
  RCT_OHS_divisions:0 "조화사무국 사단"
  RCT_OHS_divisions_desc:0 "The Office of Harmonic Services will need to form special military units to keep the regular soldiers in check. These units will an example for our frontline units by showing their willingness to die for our harmonic cause. Of course, these units will be able to take over regular army units if they perform below expectations. "
 
- RCT_OHS_detachments:0 " 파견단"
+ RCT_OHS_detachments:0 "조화사무국 파견단"
  RCT_OHS_detachments_desc:0 "The Office of Harmonic Services is an intelligence agency first and foremost and it should focus on that task. But, to advance the war effort, we can attach especially courageous and loyal agents to our divisions. These agents will oversee our soldiers and especially our officers, to ensure high morale and absolute conviction of our harmonic cause."
 
  RCT_recruitment_drive:0 "모병 운동"
@@ -341,7 +341,7 @@
  RCT_the_commissars:0 "정치 위원"
  RCT_the_commissars_desc:0 "Civilian control of the military must be ensured, lest counter-revolution destroys the Republic. We will introduce supervisory officers to our army, responsible for political education, discipline and loyalty of the unit they are assigned to." 
  
- RCT_show_trials:0 "OHS 선임"
+ RCT_show_trials:0 "조화사무국 이용"
  RCT_show_trials_desc:0 "The Office of Harmonic Services can still be of use to us. We shall reform it into the Committee for State Security and change it from a cruel torture device of the bourgeoisie into a just guillotine of the proletariat!"
  
  RCT_military_industrial_complex:0 "산업단지 방어"
@@ -515,7 +515,7 @@
  RCT_industry_improve_society_1:0 "산업화의 진전"
  RCT_industry_improve_society_1_desc:0 "The growth of our economy continues even stronger than before. Our policies have been successful and new factories are opened every month. Our nation will be truly prosperous and advanced, a true forerunner of the East!"
  
- RCT_industry_research_slot:0 "리제코그라드 대학"
+ RCT_industry_research_slot:0 "리예코그라드 대학"
  RCT_industry_research_slot_desc:0 "The university of Rijekograd is among the oldest ones in the East. Now it will become one of the largest ones as well. More teachers, more subjects, more students from all across the Riverlands, along with increased student exchange with our western pony relatives."
  
  RCT_industry_jets:0 "로켓 엔진 실험"
@@ -939,7 +939,7 @@
  # For River Republic
  WeWereEjectedTitle:0 "리버 동맹에서의 축출"
  WeWereEjectedDesc:0 "히스테리와 편집증에 휩쓸린 다른 나라들은 우리를 리버 연합에서 추방하기로 결정했습니다."
- WeWereEjectedButton:0 "재잉이다!"
+ WeWereEjectedButton:0 "재앙이다!"
 
  WeWereNotEjectedTitle:0 "고발의 기각"
  WeWereNotEjectedDesc:0 "다른 국가들은 현명하게도 이러한 히스테리적인 과민반응에 거부 반응을 보이며 강경하게 대응하기로 했습니다. [From.GetNameDef]은(는) 그들의 과민반응 때문에 더 이상의 지위를 유지할 수 없게 되자, 그들 스스로 리버 연합을 떠났습니다." 
@@ -1455,8 +1455,8 @@
  
  lewd_dane_nerd:0 "A bit of an oddball in the military, Arcane's talent doesn't actually lie in military matters, rather, it lies in technology and magic.\n\nHe originally joined the Army as an engineer, before climbing the ranks through supply and logistics. Pioneering a computerized system for keeping track of both divisions and armies, he has since taken the offer to lead in a more direct role, rather than the behind-the-curtains role he occupied until now."
 
- GEAR_TAIL_DESC:0 "§YBio:§! Supportive of equipping of the army with technology, Gear, like his sister, was a small industrialist, following socialist workers' movements.\n\nGood knowledge of military equipment and weapons led him into the army, where he could better understand what kind of equipment is needed by the soldiers. All while the worker support and contacts Two Tail had helped to promote his ideas and set up effective production.\n\n§YPortrait By:§! Two Tail"
- TWO_TAIL_DESC:0 "§YBio:§! The necessary connections helped Two Tail rise through the service ladder.  Like her brother, she was a small industrialist supporting socialist workers' movements.\n\nWhile Gear created and improved new designs of arms, Two led the propaganda of socialist ideas in military circles, and provided communication and support of politicians and industry.\n\n§YPortrait By:§! Two Tail"
+ GEAR_TAIL_DESC:0 "§YBio:§! Supportive of equipping of the army with technology, Gear, like his sister, was a small industrialist, following socialist workers' movements.\n\nGood knowledge of military equipment and weapons led him into the army, where he could better understand what kind of equipment is needed by the soldiers. All while the worker support and contacts Twotail Tail had helped to promote his ideas and set up effective production.\n\n§YPortrait By:§! Twotail813"
+ TWOTAIL_TAIL_DESC:0 "§YBio:§! The necessary connections helped Twotail Tail rise through the service ladder.  Like her brother, she was a small industrialist supporting socialist workers' movements.\n\nWhile Gear created and improved new designs of arms, Two led the propaganda of socialist ideas in military circles, and provided communication and support of politicians and industry.\n\n§YPortrait By:§! Twotail813"
  
  #### EQUIPMENT ####
  
