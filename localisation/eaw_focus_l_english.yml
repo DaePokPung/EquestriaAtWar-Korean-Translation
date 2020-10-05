@@ -1,5 +1,5 @@
 ﻿l_english:
  remove_tribal_society:0 "Transform"
- remove_agrarian_society:0 "Agrarian Society"
- remove_pre_industrial_society:0 "Early Industrial Society"
- remove_outdated_industry:0 "Modern Society"
+ remove_agrarian_society:0 "농업사회"
+ remove_pre_industrial_society:0 "초기 산업화 사회"
+ remove_outdated_industry:0 "현대사회"
