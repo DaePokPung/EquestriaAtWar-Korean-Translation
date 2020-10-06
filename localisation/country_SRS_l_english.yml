@@ -510,8 +510,8 @@ SRS_FAT_conquer_skynavia:0 "스카이나비아 정복"
 NTR_VED_conquer_skynavia:0 "스카이나비아 정복"
 SRS_special_province_modifiers_projects:0 "기반시설 건설 계획"
 SRS_construct_the_dinkau_lighthouse:0 "딘카우 등대 건설"
-SRS_construct_the_dinkau_lighthouse_desc:0 "스카이나비아 앞바다의 차가운 물 위를 항해하는 배들을 안내하기 위해 지어진 단카우 등대는 스카이나비아 공화국의 정신을 구현하고 있습니다. - 어두운 세상을 비추는 희망의 등불."
-SRS_construct_the_old_dragon_gardens:0 "고룡 식물원 설입"
+SRS_construct_the_dinkau_lighthouse_desc:0 "스카이나비아 앞바다의 차가운 물 위를 항해하는 배들을 안내하기 위해 지어진 딘카우 등대는 스카이나비아 공화국의 정신인 어두운 세상을 비추는 희망의 등불을 구현하고 있습니다."
+SRS_construct_the_old_dragon_gardens:0 "고룡 식물원 설립"
 SRS_construct_the_old_dragon_gardens_desc:0 "The wild beauty of the Old Dragon countryside should be protected from the industrialisation of our country. We can start by establishing a Botanical Garden that functions as a wildlife preserve and country park."
 SRS_construct_the_skynavian_peoples_archives:0 "Construct the Skynavian People's Archives"
 SRS_construct_the_skynavian_peoples_archives_desc:0 "Knowledge, as a means of production, belongs to the people. The construction of a great archive and library open to the Skynavian public will be a pivotal step towards achieving the total democratisation of knowledge."
@@ -560,7 +560,7 @@ SRS_light_inf_division_tech:0 "경보병 훈련"
 SRS_winter_warfare_tech:0 "동계전 훈련"
 SRS_winter_warfare_tech_tt:0 "Cold acclimatization gain factor: §G+50%§!\n"
 SRS_deal_with_the_undead_threat:0 "언데드의 위협"
-SRS_deal_with_the_undead_threat_desc:0 "북방 영토가 우리의 보호하에 들어왔습니다. 우리의 집단 안전에 대한 가장 큰 위협은 자본주의 제국주의의 속임수가 아니라 동쪽에 있는 미스터리한 드레드 리그의 모호하고 불길한 거래에서 발견될 수 있습니다.\n\n우리는 먼 옛날부터 고조되고 있는 이 위협으로부터 보호하기 위한 조치를 취해야 합니다. 그렇지 않으면 우리는 모두 언데드로 변하게 될 것입니다.
+SRS_deal_with_the_undead_threat_desc:0 "북방 영토가 우리의 보호하에 들어왔습니다. 우리의 집단 안전에 대한 가장 큰 위협은 자본주의 제국주의의 속임수가 아니라 동쪽에 있는 미스터리한 드레드 리그의 모호하고 불길한 거래에서 발견될 수 있습니다.\n\n우리는 먼 옛날부터 고조되고 있는 이 위협으로부터 보호하기 위한 조치를 취해야 합니다. 그렇지 않으면 우리는 모두 언데드로 변하게 될 것입니다."
 SRS_eastern_fortresses:0 "연대 방어선 구축"
 SRS_eastern_fortresses_desc:0 "북방 영토에 대한 우리 보호대의 최동단에 있는 벙커, 참호, 포병 진지로 이루어진 방어선은 드레드 리그의 진격을 저지하기 위한 것입니다."
 SRS_raise_socialist_knights:0 "사회주의 십자군-기사단 선동"
@@ -1026,7 +1026,7 @@ SRS_internationalist_communalist_electoral_support_var_equal_to:0 "is currently 
 
 #### MODIFIERS ###
 dinkau_lighthouse:0 "딘카우 등대"
-old_dragon_gardens:0 "고룡 식물원
+old_dragon_gardens:0 "고룡 식물원"
 skynavian_peoples_archives:0 "스카이나비아 인민 기록보관소"
 great_hall_of_the_proletariat:0 "프롤레타리아 대전당"
 hail_forest_monolith:0 "하일 숲 오벨리스크"
