@@ -359,7 +359,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_public_works_projects:0 "공공사업 프로그램"
  EQC_public_works_projects_desc:0 "With unemployment rife after the Great Depression, we will need to find jobs for them, in part to gather votes and in part for the bettement of the ponies. Roads and railways will be built and harbors will be deepened to ensure a new framework on which a new Mareland can grow with a new life for all."
 
- EQC_the_bat_vote:0 "더스트랄 시민권법"
+ EQC_the_bat_vote:0 "테스트라 시민권법"
  EQC_the_bat_vote_desc:0 "Thestrals, long forgotten by the rule of law, have always been a tribe living under the snouts of all of us. But we are a government of the ponies, by the ponies and for the ponies. This means all ponies, and though cowards flinch and traitors sneer, we will keep our ideals flying here."
 
  EQC_for_the_poor_pony:0 "가난한 포니들을 일으켜 세우자!"
@@ -429,7 +429,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_section_13:0 "섹션 13"
  EQC_section_13_desc:0 "We cannot withstand an attack by a united Griffonia. Our only hope is to find new ways of fighting wars and killing the outside menace. A new research taskforce should be set up to investigate biological, chemical and other means of eliminating our enemies."
 
- EQC_expand_the_stormponies:0 "하이갈리안 변증법"
+ EQC_expand_the_stormponies:0 "헤이겔 변증법"
  EQC_expand_the_stormponies_desc:0 "When two ideals conflict, the Synthesis is created. It is where the ideals mix and become a new idea to solve the dispute. And for the griffons, they are not beneath ponies and ponies are not beneath them. They all serve a higher purpose in life, serving their country and their flag."
 
  EQC_work_for_the_nation:0 "국가를 위해 일하자"
@@ -515,40 +515,40 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_burn_celestias_portrait:0 "셀레스티아의 초상화를 불태우자"
  EQC_burn_celestias_portrait_desc:0 "The people have chosen! We are a workers' state for the people! No longer will we sit down and be oppressed by distant monarchs! Burn the portrait of those who live in palaces while we suffer overseas! It is time ponies; our liberation is nigh."
 
- EQC_liquidate_bourgouise_assets:0 "Liquidate the Bourgeois' Assets"
+ EQC_liquidate_bourgouise_assets:0 "부르즈아들의 재산 청산"
  EQC_liquidate_bourgouise_assets_desc:0 "Though the Revolution is still young, no one can eat and live off air alone. This is a rather nagging problem in general for all ponykind. Fortunately, there are many, many ponies who do not deserve their own estates, having stolen their wealth from the workers."
  
- EQC_the_great_trot_forward:0 "The Great Canter Forward"
+ EQC_the_great_trot_forward:0 "거대한 발걸음"
  EQC_the_great_trot_forward_desc:0 "We are lagging behind the rest of the world as the creatures around us hurry forward into their own future. Their industries are rushing into the future while we are stuck in the slump from the old capitalist class before the Revolution. We have to make good this setback in a few years or be destroyed."
  
- EQC_implement_democratic_centralism:0 "Implement Democratic Centralism"
+ EQC_implement_democratic_centralism:0 "민주 집중제 구현"
  EQC_implement_democratic_centralism_desc:0 "The Party must move forward with a united voice. Though ponies around us may consider it to be an act of dictatorial overreach, we know that the united front must stay united, come Tartarus or high water. Criticism may be allowed, but it must stay behind closed doors."
  
- EQC_bat_communes:0 "Thestral Revolutionary Integration"
+ EQC_bat_communes:0 "테스트라 혁명가 통합"
  EQC_bat_communes_desc:0 "There is a simple maxim that we all live with. Creatures of the World, Unite! And though a lot of work needs to be done, there can be no unity without equality. And we can take the first steps now. The bat ponies, long repressed and hidden in the shadows will be lifted up and granted the same rights and priviledges as any other pony in New Mareland."
  
- EQC_found_the_RES:0 "Found the RES"
+ EQC_found_the_RES:0 "RES 설립"
  EQC_found_the_RES_desc:0 "There are many places that are ripe for Revolution in Griffonia. Though they are largely a backwater, they have several places where the workers cry out for liberation. A new department, one that needs to investigate the possibilities of such will be created, and it will be given the necessary needed for it to work effectively."
  
- EQC_racial_harmony:0 "Racial Harmony"
+ EQC_racial_harmony:0 "인종간의 조화"
  EQC_racial_harmony_desc:0 "There will be no such things as racial divisions in the New Mareland. The griffons are as equal comrades and travellers with us as the ponies are. There are no idea or nonsense of five different species or five different people, but only one people united under the red star of Socialism."
  
- EQC_griffon_enfranchisment:0 "Minority Enfranchisement Act"
+ EQC_griffon_enfranchisment:0 "소수자 선거권 법"
  EQC_griffon_enfranchisment_desc:0 "The Griffons have long lived in the shadows of the rest of society. A shame. They are a plucky people with a spirit unmatched. Opening up for them to work with ponies on an equal footing following up from our campaign may yet help us in our endeavour to push New Mareland ever further."
  
- EQC_socialise_education:0 "Socialise the Education System"
+ EQC_socialise_education:0 "교육 시스템 사회화"
  EQC_socialise_education_desc:0 "Though many reactionaries chose to flee New Mareland in the aftermath of the Revolution, others remained quiet and at their posts as the bunting changed. Of those, the most remain in academia where they are educating the next generation of leaders and scientists. We must get to work in rooting out these subversives for the good of Equinity"
  
- EQC_purge_the_reactionaries:0 "The Anti-Fascist Manifesto"
+ EQC_purge_the_reactionaries:0 "반-파시스트 선언"
  EQC_purge_the_reactionaries_desc:0 ""When undertaking an endeavour of the ideological class as supremacism, the ponies advocating for one such regime must have forgotten a similar and infamous manifesto that, when published in the Aquilean Kingdom led to a bloody revolution that led to the overthrow of the King."\n\nAs for the Aquilean King those years ago, so for the reactionaries of now."
  
- EQC_centralize_unions:0 "Found the Union Coordination Committee"
+ EQC_centralize_unions:0 "연방 조정 위원회 설립"
  EQC_centralize_unions_desc:0 "All around New Mareland, the unions played a powerful and key role in the downfall of the reactionaries. And they will once more have a role to play in the new communist utopia that we will make in New Mareland. Once the independent agencies able to be influenced by reactionaries, they will now be gathered under one roof to better serve the People."
  
- EQC_collectivize_agriculture:0 "Voluntary Agricultural Collectivisation"
+ EQC_collectivize_agriculture:0 "자발적 농업 집산화"
  EQC_collectivize_agriculture_desc:0 "One of the things everycreature needs is food. From hay to beans, they are what everyone needs. And after the now-destroyed bastion of academia, only the farmers remain as a large group of reactionaries ready to strike.\n\nIt is time to swat two flies at once. Collectivizing agriculture with the right 'encouragement' will secure us now and in the future."
  
- EQC_the_vanguard_of_the_griffonian_revolution:0 "The Vanguard Of the Griffonian Revolution"
+ EQC_the_vanguard_of_the_griffonian_revolution:0 "그리포니아 혁명의 선봉"
  EQC_the_vanguard_of_the_griffonian_revolution_desc:0 "We stand as a homegrown revolution without the aid from ponies nor griffons abroad. We have the power of the revolution with us, and we can bring it to others. We are at the forefront of a movement that will soon sweep Griffonia and the World after that.\n\nWorkers of the World, Unite!"
 
  #Industry
@@ -725,10 +725,10 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_expand_manehatten_harbour:0 "뉴맨해튼 항만 확장"
  EQC_expand_manehatten_harbour_desc:0 "The Naval Harbour at New Manehattan has served us well since the nation's establishment and served as our very first dedicated fleet hub. By expanding its dockyards and deepening the harbour, its output will increase. We will make sure our shipbuilding capacity is up to the challenges of the new millennium."
 
- EQC_commerce_protection:0 "무역보호"
+ EQC_commerce_protection:0 "무역보호 전술"
  EQC_commerce_protection_desc:0 "New Mareland exists of several islands and to defend our economic interests, we must allow safe passage of merchant shipping between them. To facilitate this aim we must expand our naval office to develop new tactics to keep our shipping save. We must be ready for the naval war that could come to our very shore."
 
- EQC_seawolves:0 "바다늑대"
+ EQC_seawolves:0 "바다늑대 전술"
  EQC_seawolves_desc:0 "Some daring ponies argue that our naval efforts should focus on the new tactic of the destruction of our enemies means of shipping and the transport of troops and materials. This will be accomplished by developing tactics and communications for our submarines. If we destroy the enemy transports the naval war will never come to our very shore."
 
  EQC_modernise_the_fleet:0 "함대 현대화"
@@ -807,9 +807,9 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_found_the_RES_idea_desc:0 "Revolutionary Exportation Service"
  EQC_found_the_RES_idea_lar:0 "RES" #Revolutionary Exportation Service
  EQC_found_the_RES_idea_lar_desc:0 "Revolutionary Exportation Service"
- EQC_purge_the_reactionaries_idea:0 "The Anti-Fascist Manifesto"
+ EQC_purge_the_reactionaries_idea:0 "반-파시스트 선언"
  EQC_purge_the_reactionaries_idea_desc:0 ""
- EQC_centralize_unions_idea:0 "Union Coordination Committee"
+ EQC_centralize_unions_idea:0 "연방 조정 위원회"
  EQC_centralize_unions_idea_desc:0 ""
  EQC_bnpl_bills:0 "BNPL 어음"
  EQC_bnpl_bills_desc:1 "BNPL bills were the brainchild of Sour Sweet and Sunny Flare as a way to rapidly build up the nation's industry by promising investors that they will receive payment later. While the idea had honest origins, we can use it to build up the nation's military industry. These bills must be extended for six-month periods, or their recipients will have to be paid when they fall due."
@@ -824,7 +824,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_griffon_money:0 "그리폰의 황금"
  EQC_griffon_money_desc:0 "Thanks to our strong banks and lax laws, we have many griffons entrusting our banks with their money. We shall make good use of it."
  EQC_hydro_power_idea:0 "수력발전"
- EQC_nuke_power_idea:0 ""
+ EQC_nuke_power_idea:0 "핵전력"
  EQC_malls_idea:0 "쇼핑 몰 개장"
  EQC_malls_idea_desc:0 "Grocery stores are nothing new to ponies, but a full fledged shopping mall, where they can buy anything their hearts desire, from furniture to clothing, is encouraging them to spend their hard earned Bits."
  EQC_griffon_experiment:0 "비윤리적인 기준"
@@ -849,7 +849,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_accept_the_bats_idea_desc:0 ""
  EQC_accept_the_bats_idea_2:0 "테스트라 시민권 법"
  EQC_accept_the_bats_idea_2_desc:0 ""
- EQC_accept_the_bats_idea_3:0 "Thestral Revolutionary Integration"
+ EQC_accept_the_bats_idea_3:0 "테스트라 혁명가 통합"
  EQC_accept_the_bats_idea_3_desc:0 ""
  EQC_encourage_them_to_leave_idea:0 "티지나카틀리아 계획"
  EQC_encourage_them_to_leave_idea_desc:0 ""
@@ -875,7 +875,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_economic_exploitation_idea_desc:0 ""
  EQC_expand_the_stormponies_idea:0 "헤이겔 변증법"
  EQC_expand_the_stormponies_idea_desc:0 ""
- EQC_communist_unions3:0 "Democratic Centralism"
+ EQC_communist_unions3:0 "민주집중제"
  EQC_communist_unions2_desc:0 ""
  
  ### EQUALITY IDEAS
@@ -971,11 +971,11 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_integrate_2_desc:0 ""
  
  ### Commie Diplomacy ###
- EQC_join_stalliongrad:0 "United Ponies' International"
+ EQC_join_stalliongrad:0 "국제 포니 연합"
  EQC_join_stalliongrad_desc:0 "The revolution is completed. The workers are in charge of the means of production now. Thus, we must set out on our new course. A proposal has been drafted to join the workers of Stalliongrad in the United Ponies International. Now on both shores of the great ocean, a beacon of socialism will light the way to world revolution. Workers of all nations unite!"
- EQC_share_tech_stalliongrad:0 "Found the JSSI"
+ EQC_share_tech_stalliongrad:0 "JSSI 설립"
  EQC_share_tech_stalliongrad_desc:0 "The socialist scientists of Stalliongrad have made great advancements, proof that socialism truly is the way of the future. We can learn from them by engaging in active scientific exchange for the benefit of both of our nations. After all, real comrades share, for the good of all."
- EQC_commie_griffon_ally:0 "Unite With the Griffon Workers"
+ EQC_commie_griffon_ally:0 "그리폰 노동자들과 연합"
  EQC_commie_griffon_ally_desc:0 "The workers of New Mareland do not march alone! Some of our griffon comrades have taken up arms to overthrow their corrupt capitalist regimes as well. We shall prepare a formal request to ally with our griffon brothers and sisters. The continent is full of elitist nobles and fat bankers, but together, we can make a grand continental revolution for all of Griffonia!"
 
 
