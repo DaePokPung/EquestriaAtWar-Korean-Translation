@@ -1,167 +1,167 @@
 ﻿l_english:
  ### IDEAS ###
- EQC_anarchy:0 "Anarchy"
- EQC_anarchy_desc:0 "For the new order, sacrifices must be made."
- EQC_the_purge_idea:0 "The Purge"
- EQC_MARE_loyalist_officers_idea:0 "Officer Loyalty Tests"
- EQC_MARE_two_min_hate:0 "Two Minutes Hate"
- EQC_MARE_thought_police_idea:0 "Thought Police"
+ EQC_anarchy:0 "무정부 상태"
+ EQC_anarchy_desc:0 "신질서를 위해선 희생이 이뤄저야만 합니다."
+ EQC_the_purge_idea:0 "숙청"
+ EQC_MARE_loyalist_officers_idea:0 "장교 충성심 테스트"
+ EQC_MARE_two_min_hate:0 "2분간 증오"
+ EQC_MARE_thought_police_idea:0 "사상경찰"
  EQC_MARE_economic_idea:0 "MiniPlenty Quotas"
- EQC_MARE_balefire_idea:0 "Balefire Bombs"
- EQC_MARE_sea_of_death_idea:0 "Sea of Death"
- EQC_unrestricted_experiment:0 "Unrestricted Experimentation"
- EQC_MARE_freedom_is_slavery_idea:0 "Freedom is Slavery"
- EQC_MARE_war_is_peace_idea:0 "War is Peace"
- EQC_MARE_mass_combat_idea:0 "Mass Combat"
- EQC_MARE_mass_production_idea:0 "Mass Production"
- maresoc_leader_trait:0 "International Pariah"
- EQC_MARE_newspeak:0 "Newspeak"
- EQC_MARE_prolefeed:0 "Prolefeed"
- EQC_MARE_hate:0 "Hate Campaigns"
- EQC_MARE_doublethink:0 "Doublethink"
- EQC_MARE_joycamps_idea:0 "Joycamps"
- EQC_MARE_junior_spies:0 "The Junior Spies"
- EQC_MARE_poverty:0 "Widespread Poverty"
+ EQC_MARE_balefire_idea:0 "봉화 폭탄"
+ EQC_MARE_sea_of_death_idea:0 "죽음의 바다"
+ EQC_unrestricted_experiment:0 "제한 없는 실험"
+ EQC_MARE_freedom_is_slavery_idea:0 "자유는 예속"
+ EQC_MARE_war_is_peace_idea:0 "전쟁은 평화"
+ EQC_MARE_mass_combat_idea:0 "대량전투"
+ EQC_MARE_mass_production_idea:0 "대량생산"
+ maresoc_leader_trait:0 "국제 파리아"
+ EQC_MARE_newspeak:0 "신어"
+ EQC_MARE_prolefeed:0 "프롤레피트"
+ EQC_MARE_hate:0 "혐오 캠페인"
+ EQC_MARE_doublethink:0 "이중사고"
+ EQC_MARE_joycamps_idea:0 "조이캠프"
+ EQC_MARE_junior_spies:0 "꼬마 스파이"
+ EQC_MARE_poverty:0 "널리 퍼진 가난"
  
  ### Decision
- EQC_maresoc_surprise_war:0 "Declare Surprise War On [From.GetName]"
+ EQC_maresoc_surprise_war:0 "[From.GetName]에 기습전쟁 선포"
  EQC_maresoc_surprise_war_desc:0 "Marelandia has always been at war with [From.GetNameDef]."
- EQC_maresoc_rename_mareland:0 "Rename Mareland"
+ EQC_maresoc_rename_mareland:0 "메어랜드 개명"
  EQC_maresoc_rename_mareland_desc:0 "Now that we have secured control of Mareland, we must erase all records that contradict the fact that New Mareland was always called Marelandia, and that there is no other place called Mareland in the world."
  
  ### FOCUSES ###
- EQC_seize_the_opportunity:0 "Entrench The Revolution"
+ EQC_seize_the_opportunity:0 "혁명 고착화"
  EQC_seize_the_opportunity_desc:0 "We have successfully overthrown the corrupt and capitalist regime of the old, but our grasp of the nation is tenuous at best. Reforms must begin which will restore order and ensure our total control of all."
  
- EQC_the_purge:0 "The Great Purge"
+ EQC_the_purge:0 "대숙청"
  EQC_the_purge_desc:0 "No one can be trusted. Not even those within the Party. We must vaporize those who could threaten the revolution before they cause any issues: The celestial loyalists, the capitalists and those who are too intelligent. Any mentions of their names will be removed from all records. It will be like they never existed in the first place."
  
- EQC_seize_the_ecomony:0 "Collectivize the Economy"
+ EQC_seize_the_ecomony:0 "집단경제"
  EQC_seize_the_ecomony_desc:0 "The markets are our markets. We must uproot capitalism from our nation and burn it to ashes. The Party will own everything. Foreign trade must end too; any interaction with those outside our nation will be punishable by death. We can't have any influences entering the minds of our citizens that isn't strictly authorised by the state itself."
  
- EQC_reclass_the_population:0 "Reclass the Population"
+ EQC_reclass_the_population:0 "인구 재분류"
  EQC_reclass_the_population_desc:0 "All societies across the world, throughout history, have been divided into three groups: The High, the Middle, and the Low. Our society, too, will have such a structure. The Inner Party will be the High, the Outer Party will be the Middle, and the Proletariat will be the Low. This new meritocratic order must be entrenched permanently."
  
- EQC_begin_mind_control:0 "Big Sister Is Watching You"
+ EQC_begin_mind_control:0 "빅 시스터가 당신을 지켜보고 있다"
  EQC_begin_mind_control_desc:0 "To embody the Party and its values, an individual is needed. This person will be the public face of the Party, for emotions of love and fear are more easily focused on a single relatable pony. Her face will soon be displayed across the nation, with posters plastered on every wall with the slogan "Big Sister is Watching You.""
  
  #Ministry of Truth#
- EQC_found_minitrue:0 "Ignorance Is Strength"
+ EQC_found_minitrue:0 "무지는 힘"
  EQC_found_minitrue_desc:0 "Who controls the past controls the future; who controls the present controls the past. As long as the Party retains control of the past, the truth is whatever the Party wants it to be. If we say that black is white, then everyone must say that it is so, and believe that it is so, and know that black has always been white."
  
- EQC_alter_the_past:0 "Alter The Past"
+ EQC_alter_the_past:0 "과거 수정"
  EQC_alter_the_past_desc:0 "The past exists only in memory and records, and both are mutable. Therefore Marelandia has always been called Marelandia, and it was never a colony. There is no place called "Mareland" in the world. We have always been at war with Equestria. All this is truth, and everything that contradicts truth must be rectified or erased. The Party is infallible."
  
- EQC_prolefeed:0 "Prolefeed"
+ EQC_prolefeed:0 "프롤레피드"
  EQC_prolefeed_desc:0 "Like all cattle, proles require sustenance to remain content. Prolesec, a department of Minitrue, will provide them with prolefeed, superficial entertainment that shall also shape their worldview to our liking. Produced en masse with versificators and other such devices, it consists of newspapers, novelettes, films, songs and radio plays, filled with nothing of substance."
  
- EQC_newspeak:0 "Introduce Newspeak"
+ EQC_newspeak:0 "신어 소개"
  EQC_newspeak_desc:0 "Language is the foundation of thought. If we want to prevent heretical thoughts, then we must clearly modify the language. It will be simplified, its vocabulary greatly reduced and any nuance or innuendo made impossible. Every word will have only one meaning, and if that meaning cannot be orthodox, then the word will be erased. The new language will be simplified, so it can be used without thinking."
  
- EQC_hate_campaigns:0 "Hate Campaigns"
+ EQC_hate_campaigns:0 "혐오 캠페인"
  EQC_hate_campaigns_desc:0 "The low quality of life and our harsh rule make citizens subconsciously frustrated and angry. However, this emotion can be directed at our foes, both existent and non-existent, away from MARESOC. By dedicating two minutes each day and one week a year to hate, we can allow the citizens to vent their bottled up anger. They will learn to despise the enemies of state."
  
- EQC_doublethink:0 "Doublethink"
+ EQC_doublethink:0 "이중 사고"
  EQC_doublethink_desc:0 "Doublethink is the refined art of having two contradictory beliefs simultaneously, yet genuinely thinking both of them are true. Yet it is not simply the control of one's beliefs, but also the mastery of one's memories and the ability of unconscious thought. While newspeak is the method for controlling the mind through language, doublethink is the method of directly controlling the mind."
  
  #Control#
- EQC_found_miniluv:0 "Freedom Is Slavery"
+ EQC_found_miniluv:0 "자유는 예속"
  EQC_found_miniluv_desc:0 "Power is in tearing minds to pieces and putting them back together in new shapes of your own choosing. Ponies of Marelandia will not know the "magic" of friendship, nor will they know honesty, generosity or kindness. They will only know love of Big Sister. We shall squeeze them empty of harmony, and fill them with ourselves."
 
- EQC_MARE_extradite_griffons:0 "Expulse The Griffons"
+ EQC_MARE_extradite_griffons:0 "그리폰 추방"
  EQC_MARE_extradite_griffons_desc:0 "The griffon minority in our country cannot be trusted. They are a potential fifth column that our eastern foes are eager to use to their advantage when they eventually seek to destroy us. Not only that, but their race is inherently capitalistic, with many of them refusing to integrate into our society and serving in the army. We have tolerated their dissident behaviour long enough."
  
- EQC_MARE_transrads:0 "A Transrad In Every Home"
+ EQC_MARE_transrads:0 "모든 가정에 트랜스라드를"
  EQC_MARE_transrads_desc:0 "The Transrad is a new invention created by the finest MARESOC engineers. It is similar to the radio, but in addition to acting as a receiver it can also transmit audio as well as visual data, hence the name. Equipped with a sensitive microphone and a miniature camera, it will allow us to closely monitor every party member."
  
- EQC_MARE_joycamps:0 "Open Joycamps"
+ EQC_MARE_joycamps:0 "조이캠프 개방"
  EQC_MARE_joycamps_desc:0 "We have tens of thousands of prisoners languishing in custody, and their number grows each day. But now we are finally opening correctional facilities where the prisoners will be forced to work for the state. This serves two purposes: To punish the prisoners and to extract labour from them."
  
- EQC_MARE_the_spies:0 "The Junior Spies"
+ EQC_MARE_the_spies:0 "꼬마 스파이"
  EQC_MARE_the_spies_desc:0 "We cannot allow citizens to remain more loyal to family than to the party. The bonds must be broken from within, by having the foals join the Junior Spies, a nation-wide youth organization promoting patriotism and party values. After the offspring are indoctrinated, they will become fanatically loyal to the party, eagerly spy on their parents and report any divergent behaviour."
  
- EQC_MARE_thought_police:0 "Thought Police"
+ EQC_MARE_thought_police:0 "사상경찰"
  EQC_MARE_thought_police_desc:0 "In Marelandia, we are free from oppressive laws. There is only one crime that can be committed, from which all other devious deeds derive from: Thoughtcrime. To prevent it, the Thought Police shall be established, dedicated to monitoring Outer Party members and their behaviour for any signs of dissidence. Those who are found guilty will then be cleansed of heresy in Room 84."
  
  #MiniPlenty#
- EQC_MARE_found_miniplenty:0 "Poverty Is Prosperity"
+ EQC_MARE_found_miniplenty:0 "가난은 번영"
  EQC_MARE_found_miniplenty_desc:0 "The Ministry of Plenty, the Ministry responsible not only for agriculture, but also for manufacturing goods the masses may think they want, and for goods that we know we will need. A loyal group of ponies dedicated to ensuring numbers are met and that the populace is kept in a permanent state of absolute poverty."
  
- EQC_MARE_war_rations:0 "War Rationing"
+ EQC_MARE_war_rations:0 "전시 배급제"
  EQC_MARE_war_rations_desc:0 "The populace believes us to be at war, and we are. We are at war with the system of capitalism. This permanent state of emergency means resources must be redirected away from senseless civilian consumption into the vital war economy. The records, of course, will state that rations have in fact been increased, and that the standard of living keeps rising."
 
- EQC_MARE_command_economy:0 "Command Economy"
+ EQC_MARE_command_economy:0 "명령경제"
  EQC_MARE_command_economy_desc:0 "MiniPlenty must have complete and total control over our economy. It is their duty to impose quotas on the hordes of proles so they produce an excessive amount of bullets, guns, rockets, tanks and more. By forcing the populace to spend most of their time working, they won't have leisure time that can potentially be used for thoughtcrime."
  
- EQC_MARE_repurpose_factories:0 "Enforced Destitution"
+ EQC_MARE_repurpose_factories:0 "극빈 강요"
  EQC_MARE_repurpose_factories_desc:0 "We cannot allow the proles to have any wealth or access to the means of production. If they are kept in a state of abject poverty, they will rely on the Party for survival and cannot afford education. A poor, ignorant populace is far easier to dominate, after all. Thus we will repurpose facilities used for civilian production into military use."
  
- EQC_MARE_state_lotteries:0 "State Lotteries"
+ EQC_MARE_state_lotteries:0 "국립 복권"
  EQC_MARE_state_lotteries_desc:0 "MARESOC can afford to give the proles a sliver of false hope, to improve their morale and to provide us funding. National lotteries will be regularly held, promising huge prizes for the participants. However, no awards will ever be given to anyone. The Ministry of Truth will of course publish news about lottery winners, but they will not be real. The only one who wins is Big Sister."
  
- EQC_MARE_live_long_and_prosper:0 "Live Long And Prosper"
+ EQC_MARE_live_long_and_prosper:0 "장수와 번영을"
  EQC_MARE_live_long_and_prosper_desc:0 "Annual reports claim production is ever increasing. In truth it is ever decreasing in every sector except the military one. Reports claim rations are increased, quotas surpassed, that each generation of Marelandians is more prosperous and healthy than the last. It is all lies, of course, and the only ones enjoying wine and chocolate are Inner Party members."
  
  #Ministry of Peace
- EQC_found_minipax:0 "War Is Peace"
+ EQC_found_minipax:0 "전쟁은 평화"
  EQC_found_minipax_desc:0 "The Ministry of Peace will be responsible for maintaining a state of perpetual state forever. It is vital that we are strong enough to survive, yet not too strong to end our wars too quickly. Constant war preserves the special mental atmosphere that a hierarchical society needs."
 
- EQC_MARE_loyalist_officers:0 "MARESOC Officers"
+ EQC_MARE_loyalist_officers:0 "MARESOC 장교"
  EQC_MARE_loyalist_officers_desc:0 "Prior to MARESOC's coup, many officers remained loyal to such abhorrent things as democracy and Equestria. Now those officers never existed. New ones are needed to restore order in the leaderless army. Promising and orthodox party members will thus be rewarded with positions of command in the military."
 
- EQC_MARE_army_work_placements:0 "Marelandia, 'Tis For Thee"
+ EQC_MARE_army_work_placements:0 "메어란디아, '그대를 위해('Tis For Thee)"
  EQC_MARE_army_work_placements_desc:0 "It is the patriotic duty of every party member and prole to safeguard their country from counter-revolutionary aggression and despicable foreigners. Military training will be mandatory and everypony must be ready to serve in the army if necessary."
 
- EQC_MARE_peace_forces:0 "The Military Reborn"
+ EQC_MARE_peace_forces:0 "군 재탄생"
  EQC_MARE_peace_forces_desc:0 "The old army of New Mareland has been moulded in our image. Heretics have been culled and discipline restored. Every soldier is willing to die for Big Sister. This is the embryo of a mighty army that will one day crush all our rivals and enemies."
 
  #Minipax Army
- EQC_MARE_land:0 "The New Army of Marelandia"
+ EQC_MARE_land:0 "메어란디아의 새로운 군대"
  EQC_MARE_land_desc:0 "An army, loyal to the whims of the Party, is the only way to truly hold territory gained, and to defend MARESOC against any external threats. Their task is to ensure war can be maintained for as long as possible, and to waste surplus production on warfare."
 
- EQC_MARE_new_ways_to_kill:0 "Technology of Death"
+ EQC_MARE_new_ways_to_kill:0 "죽음의 기술"
  EQC_MARE_new_ways_to_kill_desc:0 "Technological progress is only allowed to happen when innovations can be used for oppression or conquest. Improved rifles and heavy guns contribute to the latter and strengthen our army. Such innovations must be encouraged, for they will eventually allow MARESOC to overcome all its enemies."
 
- EQC_MARE_war_machines:0 "Marelandia Is Indestructible"
+ EQC_MARE_war_machines:0 "메어린디아는 불멸"
  EQC_MARE_war_machines_desc:0 "Already, nopony is allowed to cross the border. It must be fortified even further in preparation for enemy aggression. Thousands of workers shall labour ceaselessly, to the death if need be, to turn our nation into an unassailable, invincible fortress. Nothing can threaten the rule of MARESOC."
  
- EQC_MARE_mass_combat:0 "A Wave of Flesh"
+ EQC_MARE_mass_combat:0 "살의 물결"
  EQC_MARE_mass_combat_desc:0 "Marelandia is small and weak. If we wish to accomplish our goal of total world conquest, we must become strong. Our army must rival that of our neighbours despite our lesser population and industry. We will forcefully conscript as many ponies as we need to drown our enemies in the blood of our soldiers."
 
- EQC_MARE_mass_production:0 "Mass Production"
+ EQC_MARE_mass_production:0 "대량생산"
  EQC_MARE_mass_production_desc:0 "Our army is always in need of more tools of slaughter. The proles shall be sent into the arms factories to labour ceaselessly and fill the production quotas. Sacrifices will have to be made in regards to quality, but several soldiers dying from malfunctioning weaponry is an acceptable loss."
 
- EQC_MARE_extermination_research:0 "Unrestricted Experimentation"
+ EQC_MARE_extermination_research:0 "제한 없는 실험"
  EQC_MARE_extermination_research_desc:0 "In Marelandia science, in the old sense, has almost ceased to exist. Methods of empiricism and rationality, which contradict the principles of MARESOC, are only applied where necessary, such as development of new weapons. As morality is whatever the Party wants it to be, this research can now be unshackled."
 
  #Minipax Airforce
- EQC_MARE_air:0 "The New Airforce of Marelandia"
+ EQC_MARE_air:0 "메어란디아의 새로운 공군"
  EQC_MARE_air_desc:0 "We are the rightful inheritors of the New Mareland Airforce, and we will repurpose it into a tool of destruction. Whoever rules the skies rules the battlefield, and whoever rules the battlefield will eventually rule the world. Our ample supply of aluminium and experienced pilots allow us to wield the mightiest airforce on the continent."
 
- EQC_MARE_fighters:0 "Aerial Supremacy"
+ EQC_MARE_fighters:0 "공중우세"
  EQC_MARE_fighters_desc:0 "Our aircraft need to be ever faster, nimbler and more lethal. Each new model must surpass the previous one. Yet quantity must not be sacrificed for quality. If we not only outclass the enemy, but outnumber them, we will achieve total domination of the sky. Engineers and factory workers must get to work!"
 
- EQC_MARE_bombers:0 "Death From Above"
+ EQC_MARE_bombers:0 "하늘에서 죽음이"
  EQC_MARE_bombers_desc:0 "If we wish to bound our foes into complete submission, we need to bombard the civilians and destroy the factories. When we show them how vulnerable they are, strike at their dearest monuments and massacre helpless civilians, their morale will be devastated, and they will become weak from fear."
 
- EQC_MARE_atomic_purges:0 "Weapons of Mass Destruction"
+ EQC_MARE_atomic_purges:0 "대량파괴무기"
  EQC_MARE_atomic_purges_desc:0 "The ultimate show of force is the only way to guarantee MARESOC's rise and the utter eradication of capitalism, and what better way than a mixture of science and magic so dangerous it should not be used bar the most extraordinary of circumstances?"
 
  #Minipax Navy
- EQC_MARE_sea:0 "The New Navy of Marelandia"
+ EQC_MARE_sea:0 "메어란디아의 새로운 해군"
  EQC_MARE_sea_desc:0 "The ships of the Royal Mareland Navy have been collectivized by the state. They shall now be put to use to defend our long coastline and to control the ocean around us, cutting off any maritime supply lines and trade links of our enemies."
 
- EQC_MARE_convoy_raiding:0 "Choke Them"
+ EQC_MARE_convoy_raiding:0 "그들의 목을 졸라라"
  EQC_MARE_convoy_raiding_desc:0 "Any Equestrian force that invades Marelania would have to bring supplies across the seas to keep their troops supplied. Hunting and sinking these logistics ships will leave any invaders stranded and starving, making them easy prey for our soldiers."
 
- EQC_MARE_terror_ships:0 "Floating Fortresses"
+ EQC_MARE_terror_ships:0 "플로팅 포트리스"
  EQC_MARE_terror_ships_desc:0 "It is inevitable that our navy will have to fight in direct combat with another navy, and ensuring our capital ships are top of the line will prevent us from being defeated. Constructing huge mobile behemoths of steel armed to the brim with weaponry will guarantee naval dominance."
 
- EQC_MARE_sea_of_death:0 "Sea of Death"
+ EQC_MARE_sea_of_death:0 "죽음의 바다"
  EQC_MARE_sea_of_death_desc:0 "Filling the seas with submarines will bring death to all merchant shipping, as well as surface fleets our enemies will inevitably send after us."
  
  ### OTHER ###
- eqc_prepare_the_maresoc_coupe:0 "§RMARESOC will prepare a coup.§!"
+ eqc_prepare_the_maresoc_coupe:0 "§RMARESOC는 쿠데타를 준비하고 있습니다.§!"
  
  ##I cannot fucking believe maresoc did not have any events whatsoever, really shows how poorly done this path was
  ##anyways yes here's event loc
