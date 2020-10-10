@@ -6,8 +6,8 @@
  EQC_MARE_loyalist_officers_idea:0 "장교 충성심 테스트"
  EQC_MARE_two_min_hate:0 "2분간 증오"
  EQC_MARE_thought_police_idea:0 "사상경찰"
- EQC_MARE_economic_idea:0 "MiniPlenty Quotas"
- EQC_MARE_balefire_idea:0 "봉화 폭탄"
+ EQC_MARE_economic_idea:0 "할달량부"
+ EQC_MARE_balefire_idea:0 "베일파이어 붐스"
  EQC_MARE_sea_of_death_idea:0 "죽음의 바다"
  EQC_unrestricted_experiment:0 "제한 없는 실험"
  EQC_MARE_freedom_is_slavery_idea:0 "자유는 예속"
@@ -25,9 +25,9 @@
  
  ### Decision
  EQC_maresoc_surprise_war:0 "[From.GetName]에 기습전쟁 선포"
- EQC_maresoc_surprise_war_desc:0 "Marelandia has always been at war with [From.GetNameDef]."
+ EQC_maresoc_surprise_war_desc:0 "메어랜디아는 언제나 [From.GetNameDef](과)와 전쟁중 이였습니다."
  EQC_maresoc_rename_mareland:0 "메어랜드 개명"
- EQC_maresoc_rename_mareland_desc:0 "Now that we have secured control of Mareland, we must erase all records that contradict the fact that New Mareland was always called Marelandia, and that there is no other place called Mareland in the world."
+ EQC_maresoc_rename_mareland_desc:0 "이제 메어랜드를 장악하게 되었으니, 우리는 메어랜드가 항상 메어랜디아로 불렸다는 사실과 모순되는 기록을 지워야만 합니다. 그리고 이 세상에 메어랜드라 불렸던 장소는 없었습니다."
  
  ### FOCUSES ###
  EQC_seize_the_opportunity:0 "혁명 고착화"
@@ -109,20 +109,20 @@
  EQC_MARE_loyalist_officers:0 "MARESOC 장교"
  EQC_MARE_loyalist_officers_desc:0 "Prior to MARESOC's coup, many officers remained loyal to such abhorrent things as democracy and Equestria. Now those officers never existed. New ones are needed to restore order in the leaderless army. Promising and orthodox party members will thus be rewarded with positions of command in the military."
 
- EQC_MARE_army_work_placements:0 "메어란디아, '그대를 위해('Tis For Thee)"
+ EQC_MARE_army_work_placements:0 "메어랜디아, '그대를 위해('Tis For Thee)"
  EQC_MARE_army_work_placements_desc:0 "It is the patriotic duty of every party member and prole to safeguard their country from counter-revolutionary aggression and despicable foreigners. Military training will be mandatory and everypony must be ready to serve in the army if necessary."
 
  EQC_MARE_peace_forces:0 "군 재탄생"
  EQC_MARE_peace_forces_desc:0 "The old army of New Mareland has been moulded in our image. Heretics have been culled and discipline restored. Every soldier is willing to die for Big Sister. This is the embryo of a mighty army that will one day crush all our rivals and enemies."
 
  #Minipax Army
- EQC_MARE_land:0 "메어란디아의 새로운 군대"
+ EQC_MARE_land:0 "메어랜디아의 새로운 군대"
  EQC_MARE_land_desc:0 "An army, loyal to the whims of the Party, is the only way to truly hold territory gained, and to defend MARESOC against any external threats. Their task is to ensure war can be maintained for as long as possible, and to waste surplus production on warfare."
 
  EQC_MARE_new_ways_to_kill:0 "죽음의 기술"
  EQC_MARE_new_ways_to_kill_desc:0 "Technological progress is only allowed to happen when innovations can be used for oppression or conquest. Improved rifles and heavy guns contribute to the latter and strengthen our army. Such innovations must be encouraged, for they will eventually allow MARESOC to overcome all its enemies."
 
- EQC_MARE_war_machines:0 "메어린디아는 불멸"
+ EQC_MARE_war_machines:0 "메어랜디아는 불멸"
  EQC_MARE_war_machines_desc:0 "Already, nopony is allowed to cross the border. It must be fortified even further in preparation for enemy aggression. Thousands of workers shall labour ceaselessly, to the death if need be, to turn our nation into an unassailable, invincible fortress. Nothing can threaten the rule of MARESOC."
  
  EQC_MARE_mass_combat:0 "살의 물결"
@@ -135,7 +135,7 @@
  EQC_MARE_extermination_research_desc:0 "In Marelandia science, in the old sense, has almost ceased to exist. Methods of empiricism and rationality, which contradict the principles of MARESOC, are only applied where necessary, such as development of new weapons. As morality is whatever the Party wants it to be, this research can now be unshackled."
 
  #Minipax Airforce
- EQC_MARE_air:0 "메어란디아의 새로운 공군"
+ EQC_MARE_air:0 "메어랜디아의 새로운 공군"
  EQC_MARE_air_desc:0 "We are the rightful inheritors of the New Mareland Airforce, and we will repurpose it into a tool of destruction. Whoever rules the skies rules the battlefield, and whoever rules the battlefield will eventually rule the world. Our ample supply of aluminium and experienced pilots allow us to wield the mightiest airforce on the continent."
 
  EQC_MARE_fighters:0 "공중우세"
@@ -148,7 +148,7 @@
  EQC_MARE_atomic_purges_desc:0 "The ultimate show of force is the only way to guarantee MARESOC's rise and the utter eradication of capitalism, and what better way than a mixture of science and magic so dangerous it should not be used bar the most extraordinary of circumstances?"
 
  #Minipax Navy
- EQC_MARE_sea:0 "메어란디아의 새로운 해군"
+ EQC_MARE_sea:0 "메어랜디아의 새로운 해군"
  EQC_MARE_sea_desc:0 "The ships of the Royal Mareland Navy have been collectivized by the state. They shall now be put to use to defend our long coastline and to control the ocean around us, cutting off any maritime supply lines and trade links of our enemies."
 
  EQC_MARE_convoy_raiding:0 "그들의 목을 졸라라"
@@ -166,26 +166,26 @@
  ##I cannot fucking believe maresoc did not have any events whatsoever, really shows how poorly done this path was
  ##anyways yes here's event loc
  
- mareland.69.t:0 "Rocket Bombs Hit Sunset!"
+ mareland.69.t:0 "선셋을 강타한 로켓 폭탄!"
  mareland.69.d:0 "At midday a loud shriek could be heard above Sunset, moments before the sound of a booming explosion echoed in the streets. A grey trail of smoke pierced the sky, left by a rocket that had travelled faster than sound. It had landed near the city center, in an industrial district during the busiest working hours. A large factory had been reduced to a huge, smoking crater, with bits of flesh scattered around it.\n\nIt did not take long for propaganda to spread news of the event. Equestria had launched a rocket across the sea and killed 156 innocent civilians and wounding several hundred others. It was clear to all now that Celestia was a callous tyrant who was not above murdering helpless ponies to break Marelander morale. More rocket bombs were to be expected, but the citizens of Marelandia were not afraid. No, they were emboldened, and more willing than ever to fight against the despicable, immoral foe! Young ponies flocked to the recruitment centers and enthusiastically joined the army and airforce, eager to defend their homes from such strikes."
- mareland.69.a:0 "Death to Equestrian scum!"
+ mareland.69.a:0 "이퀘스트리아 쓰레기놈들에게 죽음을!"
  
- mareland.70.t:0 "Two Minutes Hate"
+ mareland.70.t:0 "2분간 증오"
  mareland.70.d:0 "The entire department had come to a halt as every worker gathered in a hall with a large projection screen. There were hundreds of seats, but soon they were all filled. There was excited chatter in the air as the ponies waited for the Two Minutes Hate to begin. They went silent as a large black-and-white face appeared on the screen.\n\nIt was Jet Set, the former governor of New Mareland, the primary enemy of Marelandia. His face was sorrowful, and he began to plead to the audience, saying that they had made a grave error and that it was not too late to turn back. Several ponies in the audience responded with angry shouts. Jet Set continued, his voice increasingly brittle, as he spoke about the magic of friendship, and Princess Celestia, and how she still loved them and would forgive them if they embraced her again. But as he spoke, grim Equestrian soldiers began marching forth from behind him. The audience gasped and began shouting more and more. As the soldiers' boots stamped on the ground, Jet Set continued to whimper, tears coming from his eyes. He was so miserably pathetic that it was impossible to not despise him.\n\nThen, Jet Set's face faded, and Celestia herself appeared, shaking the filthy claw of a griffon barbarian. Now the pony soldiers marched alongside griffons towards the audience, wielding rifles and guns and knives, with a murderous look in their eyes. The audience screamed and yelled, some began to panic while one pony threw a Newspeak Dictionary at the screen.\n\nBut then the screen went black and silent. Slowly, Big Sister's calming face appeared, quietly staring at the viewers. They responded with praise, relieved that she had saved them from the tyrant Princess and her savage allies, and began chanting her name in joy."
  mareland.70.a:0 "B--S! B--S! B--S!"
  
- mareland.71.t:0 "Griffon Refugees From Marelandia"
+ mareland.71.t:0 "메어랜디아에서 온 그리폰 난민들"
  mareland.71.d:0 "Our border guards report that thousands of destitute griffons have been crossing the border day and night, coming from the neighbouring country of Marelandia. They are part of the griffon minority in the nation, but now it seems like the ruling party of MARESOC has decided to extradite all griffons living inside their borders. The refugees say that they were suspected of being spies, saboteurs and potential members of a fifth column.\n\nWe have no option but to let the masses of poor griffons enter our country. Sending them back into the dystopian nightmare of Marelandia is clearly out of the question. This means we have to figure out what to do with all the refugees pouring in."
- mareland.71.a:0 "Those ponies have gone too far..."
+ mareland.71.a:0 "저 포니놈들은 선을 넘어버렸군..."
  
- mareland.72.t:0 "We Can Hear You"
+ mareland.72.t:0 "우리는 너의 목소리를 들을 수 있다"
  mareland.72.d:0 "Paper Pusher, a member of the Outer Party, glanced to his sides as he neared his home. He had to make sure no one was following him before he entered the apartment building. His saddlebags contained an item which would result in capital punishment if discovered, but thankfully no one had a reason to check its contents.\n\nHe climbed up the creaking, dilapidated stairs and quietly opened the door of his apartment, trying not to attract attention. He slipped inside, closed the door and breathed a sigh of relief. The transrad in his room was playing patriotic songs; it was impossible to turn it off, so it had been on while he was gone. He walked to his desk and took off his saddlebag. Hesitantly, he opened it, and then just in case pulled moth-eaten curtains over the windows. With trembling hooves he took out the blasphemous, criminal object.\n\n"The Journal of Friendship," he mumbled in awe. The book contained the lessons of Twilight Sparkle and her friends. Contraband from overseas. Branded as "Harmonist brainwashing propaganda" by MARESOC. On these pages, the magic of friendship remained even as it was gone from the rest of New Mareland. This tome was as precious as it was dangerous.\n\nHe carefully opened the cover and flipped the pages, to check that it was real. Indeed it was, filled with stories of friendship and harmony. He was looking forward to reading it every day and reminisce the past, when ponies of New Mareland had been friends with each other.\n\nThere was a loud thump on the door. Then another. Paper Pusher gasped and scrambled to hide the book. But it was already too late as the door shattered into wooden splinters. The police officers entered, aiming guns at him and ordering him to drop the book and lie down with hooves on his back.\n"Did you think you could hide your thoughtcrime from us?" one of the officers barked. "Remember, Big Sister is not only watching you. She is hearing you as well."\nBefore he could respond, an officer smacked him in the head with a baton, knocking him out."
- mareland.72.a:0 "Another criminal caught in the act."
+ mareland.72.a:0 "또다른 범죄자가 현장에서 잡혀버렸군."
  
- mareland.73.t:0 "Curing Insanity"
+ mareland.73.t:0 "정신치료"
  mareland.73.d:0 ""Do you know where you are, Paper Pusher?" an Inner Party member asked.\n"Inside the Ministry of Love."\n"How long have you been here?"\n"I don't know. Weeks, months, years?"\n"And why do you think we bring ponies here?"\n"To make them confess."\n"Wrong."\n"To punish them?"\n"No! We bring them here to be cured. So they can be sane again. You too shall be sane."\n\nPaper Pusher was lying on a stretcher, his limbs tied and his body immobilized. Several wires were attached to him. "You still cling on to your delusions that friendship and harmony should be strived for, even fought for. Once we are done with you, you will know what truly matters. Tell me, what is the purpose of MARESOC?"\n"You claim to protect us from capitalism and imperialism while securing your fragile rule with tyranny."\nHe flicked a switch and Paper Pusher screamed from pain. "No. Try again."\n"You... rule us for our own good." He screamed again from pain. The Inner Party member shook his head in disappointment. "You don't understand. MARESOC's goal and purpose is power. Power not over matter, but over the mind. We do not allow heresy to blossom. We cleanse it as soon as we find it. Tell me, how can you make sure another person obeys you?"\n"With suffering?"\n"With suffering. Pain is the essence of power. And power is all we seek. Therefore we make rebels and traitors suffer until they break, until we cure them and make them loyal, until we triumph. This is what we desire. Victory after victory, complete domination. We are not like other tyrants of the world, like Chrysalis who claimed to fight for honour, or Kemerskai who claimed to fight for democracy. We want nothing but power for its own sake."\n"But... why did you abandon friendship and harmony? Why weren't you happy with it?"\n"You must understand this, Paper Pusher. Friendship is a temporary relief. Friends die. Harmony stagnates and dies. But the Party is forever. If an individual obliterates themselves and becomes one with the Party, if all their thoughts and actions derive from the Party, they are immortal. Thus they have power over even death."\n"I don't care for immortality or power. I just want to have friends again, like before."\nThe Inner Party member sighed. "It seems there is only one option left for you.""
- mareland.73.a:0 ""Room 84.""
+ mareland.73.a:0 ""84번째 방으로.""
  
- mareland.74.t:0 "A Normal Day"
+ mareland.74.t:0 "평범한 날"
  mareland.74.d:0 "After sixteen hours of work at the munitions factory, Light Sky headed towards her home. She was wearing nothing except grey rags, her only pieces of clothing, which barely covered her emaciated form. Wearily she walked along the cracked and unmaintained streets as the sun set, having no public transport or personal vehicle to use. She walked past a band of known robbers and drug dealers, who glanced at her and ignored her, seeing how poor she was.\n\nAfter an hour Light Sky finally arrived at her shack, nestled in the vast slum surrounding Sunset. She remembered living in an apartment once, but those were now reserved for Party members only. She hoped her colt could one day pass the examinations and join the esteemed ranks of MARESOC, and live a better life than her.\n\nThat foal came to meet her and immediately demanded food. He was hungry, though he had more fat and muscle around his bones than she did. She nodded and went to the kitchen section of the room. There were no other rooms in the shack. She rummaged through the creaky cupboard next to the rusty stove, and managed to find some stale, moldy bread in the corner. She then used a metal shard she had stolen from the factory like a knife to cut off the moldy bits and split the loaf in half. But when she offered one half to her foal, he was unhappy and stomped the floor with his hooves, ordering her to give him the other loaf as well, or else he'd report her theft of the piece of metal to the Ministry of Love. She complied without resistance. Yet another day without food. But it was worth it as long as her son would live."
- mareland.74.a:0 "Such is the pathetic life of a disgusting prole."
+ mareland.74.a:0 "역겨운 프롤의 한심스런 삶이군."
