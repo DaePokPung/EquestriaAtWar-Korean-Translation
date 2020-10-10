@@ -211,7 +211,7 @@ ELF_cmc_youth_league:0 "큐티 마크 크루세이더 청소년 연맹"
 ELF_cmc_youth_league_desc:0 "큐티 마크 크루세이더즈는 이퀘스트리아의 모든 어린 포니들을 위한 조직으로 제도화되었습니다. 큐티 마크 크루세이더즈 청소년 연맹은 조직원들이 앞으로 살아갈 삶에 대한 교육과 준비를 제공합니다. 큐티 마크 크루세이더즈 청소년 연맹은 성마가 되었을 때의 삶을 위한 평화시의 준비와 전시를 위한 전쟁 준비를 하고, 그리고 항상 우정과 조화를 위해 노력합니다."
 ELF_war_debt:0 "이퀘스트리아 전채"
 
-ELF_spike:0 "§Y용족§! §Y§!"
+ELF_spike:0 "§Y용족§! §Y스파이크§!"
 ELF_rarity:0 "§Y래리티§!"
 ELF_applejack:0 "§Y애플잭§!"
 ELF_pinkie:0 "§Y핑키 파이§!"
@@ -745,7 +745,7 @@ MAN_extra_6_desc:0 "If we wish to maintain our prosperity, the ponies of the for
 MAN_extra_7:0 "From the High Tower"
 MAN_extra_7_desc:0 "While we have included the ponies in our government for the sake of unity, Lady Lilac is the one that guided the fledgling Protectorate into a modern state free from the stifling grip of Vesalipolis. Lady-Protectress Lilac is wise, and will continue managing the affairs of the Dominion and Federation from the Crystaller Building, with the help of her loyal Ost-Kommando."
 ## I seem to have skipped 8 ##
-MAN_extra_9:0 "사랑이란 것은 호혜적인 것이다"
+MAN_extra_9:0 "사랑은 호혜적인 것"
 MAN_extra_9_desc:0 "The process of Love extraction had been one of the most controversial aspects of the early days of our rule. But that is no longer the case, as ponies realise that the benefit of our rule outweigh the hassle of the occasional Love feeding. After all, we provide security, stability, and prosperity, all in exchange for a reasonable quota of Love - a reciprocal and mutually-beneficial relationship."
 MAN_extra_10:0 "그리포니아 대륙 무역 임무"
  MAN_extra_10_desc:0 "For the past month, our delegates and consuls have been visiting the countries of Griffonia, bearing gifts from Manehattan and promises of lucrative business opportunities. As we finalise the details of a multilateral trade deal between the two continents, the symbolism of the occasion - Manehattan negotiating its own diplomatic affairs - is not lost on Lilac nor the Federation's citizens."
