@@ -551,7 +551,7 @@ CHN_force_ponies_to_repair_desc:0 "침공이 진행됨에 따라 이퀘스트리
 #DECISIONS
 CHN_war_time_actions:0 "전시 행동"
 CHN_stop_war_plan:0 "계속 전쟁 계획 중단"
-CHN_protectorates:0 "The Reichsprotektorat Initiative"
+CHN_protectorates:0 "국가보호령 계획"
 CHN_protectorates_desc:0 "With the overall triumph over the ponies and deer across Equus, it is becoming necessary to consolidate our rule over the vast swathes of land we have conquered. It is unlikely that the ponies will ever cease their resistance against us; they hold no good will for a hated, foreign occupier intent on sapping their love and exploiting their natural resources.\n\nAs such, it would be optimal to establish several autonomous §Yprotectorates§!, to replace the current ad-hoc military occupation. As the armed forces are overstretched, these nominally civilian governments shall restore the rule of law and order, this time under the changeling values. It would be best to make such arrangements before a troubling §Rdevelopment§! surfaces. [CHN.GetLeader] intends to maintain the hegemony and dominance of the changeling race for many centuries, and we cannot falter after we've achieved victory in the ultimate struggle for supremacy."
 CHN_manehattan_protectorate:0 "메인해튼 보호령"
 CHN_baltimare_protectorate:0 "발티메어 보호령"
@@ -580,14 +580,14 @@ CHN_puppet_changeling_administration:0 "Changeling Administration"
 CHN_war_propaganda_decision:0 "War Propaganda against [From.GetName]"
 CHN_PLB_border_war:0 "곰 압박"
 CHN_PLB_border_war_timeout:0 "[PLB.GetName] 국경 분쟁"
-CHN_PLB_border_war_2:0 "Strike the Key Lake Region"
-CHN_PLB_border_war_timeout_2:0 "Border Attack on [PLB.GetAdjective] Key Lake"
+CHN_PLB_border_war_2:0 "키 호수지역 공략"
+CHN_PLB_border_war_timeout_2:0 "Border Attack on [PLB.GetAdjective] key lake"
 
 CHN_domestic_affairs:0 "Populus Support Program"
 CHN_domestic_affairs_desc:0 "In order to ensure the prosperity of our nation, government funding will be transferred to subsidize military production, improvements of working and living conditions and family institutions."
-CHN_extra_pay:0 "Extra Pay for Factory Workers"
-CHN_extra_pay_construction:0 "Extra Pay for Construction Workers"
-CHN_maternal_program:0 "MHSP: Maternal and Hive Support Program"
+CHN_extra_pay:0 "공장 노동자를 위한 추가 급여"
+CHN_extra_pay_construction:0 "건설 노동자를 위한 추가 급여"
+CHN_maternal_program:0 "MHSP: 임산부 및 군락 지원 프로그램"
 CHN_maternal_program_desc:0 ""
 
 CHN_queens_tower:0 "여왕의 첨탑"
@@ -652,7 +652,7 @@ CHN_unity_desc:0 "Changelings are only as powerful as the level of cooperation b
  newhives3_desc:0 "Condenced housing, underground structures and highrises allow to place more buildings in one district. However it would be problematic to defend these structures, as one luckily dropped bomb may crush the awkward constructions."
  continous_war_plan_CHN:0 "계속 전쟁 "
  continous_war_plan_CHN_desc:0 "In order to enact our revenge on Celestia and her lackeys, we must transition our country's efforts completely to war. The changelings won't be happy if it drags on for too long, but they can rest assured that victory is near. All it takes is a little sacrifice."
- changeling_school_of_war:0 "Changeling Officer Academy"
+ changeling_school_of_war:0 "체인질링 사관학교"
  chnairmarshal1:0 "Apantesis"
  chnairmarshal2:0 "Cercyonis"
  chnairmarshal3:0 "Mantis"
@@ -696,14 +696,14 @@ CHN_unity_desc:0 "Changelings are only as powerful as the level of cooperation b
  chnequip1:0 "Eiskaltenseen Artillery"
  chnequip2:0 "Nidhogg Industries"
  chnequip3:0 "OCA"
- chnind1:0 "Main Hive Industries"
+ chnind1:0 "주요 군락 산업"
  chnind2:0 "Mayfly Electronics"
- chn_vesalipolis_construction:0 "Vesalipolis Construction Effort"
- chn_ditrysium_construction_1:0 "Ditrysium Naval Focus"
- chn_ditrysium_construction_2:0 "Ditrysium Naval Focus"
- chn_vraks_military_effort:0 "Vraks Military Effort"
-chn_vraks_military_effort_2:0 "Vraks Military Effort"
-CHN_celestial_resistance:0 "Equestrian Resistance"
+ chn_vesalipolis_construction:0 "베살리폴리스 건설 주력"
+ chn_ditrysium_construction_1:0 "디트리시움 해군 중점"
+ chn_ditrysium_construction_2:0 "디트리시움 해군 중점"
+ chn_vraks_military_effort:0 "브락스 군비 주력"
+chn_vraks_military_effort_2:0 "브락스 군비 주력"
+CHN_celestial_resistance:0 "이퀘스트리아의 레지스탕스"
 CHN_vops_audit:0 "Auditing VOPS"
 CHN_vops_audit_desc:0 "The Queen's Guard is conducting an audit of VOPS to root out any remaining Thoraxians. This has severely slowed down any expansions to the agency."
 CHN_vops_audit_lar:0 "Auditing VOPS"
@@ -712,31 +712,31 @@ CHN_synthetic_armament:0 "Oil Import Substitution"
 CHN_synthetic_armament_desc:0 "As the Changeling Lands may be cut of from oil and rubber supplies by our alleged enemies in the future, it is essential to establish our own system of synthetic refineries."
 CHN_infiltrators_army:0 "Changeling Infiltrator Army"
 CHN_infiltrators_army_fund:0 "Supplies for the Infiltrator Army"
-CHN_PLB_resources:0 "Polar Resource Extraction Company"
-CHN_PLB_gold:0 "Polar Gold"
-CHN_PLB_gold_PLB:0 "Gold Supplies to Changelings"
-CHN_PLB_resources_PLB:0 "Polar Resources"
+CHN_PLB_resources:0 "북극 자원 추출 회사"
+CHN_PLB_gold:0 "북극 금"
+CHN_PLB_gold_PLB:0 "체인질링에 금 공급"
+CHN_PLB_resources_PLB:0 "북극 자원"
 CHN_changeling_advisor_in_PLB:0 "Changeling Scientific Advisors"
 CHN_changeling_advisor_in_PLB_desc:0 ""
-CHN_construction_tech_PLB:0 "Changeling Construction Technology"
-CHN_ponies_repair:0 "Pony Construction Battallions"
-CHN_ponies_work:0 "Pony Forced Labour"
+CHN_construction_tech_PLB:0 "체인질링 건설기술"
+CHN_ponies_repair:0 "포니 건설 대대"
+CHN_ponies_work:0 "포니 강제노동"
 chn_fylifa:0 "Fylifa"
 chn_legus:0 "Legus"
 chn_legus_desc:0 "Dr. Legus, B.Sc., B.A.Sc., M.Eng., Sc.D."
 
-CHN_science:0 "Changeling Science"
+CHN_science:0 "체인질링 과학"
 
 #EVENTS
-changelings.1.t:0 "The Olenian Question"
+changelings.1.t:0 "올레니아 문제"
 changelings.1.d:0 "Queen Chrysalis looked at the draft of the communique she'd spent the past few hours working on. The letter would be sent to [OLE.GetLeader] regarding an awful, ill-fated treaty signed between the Changeling Lands and the long-dead King Aldar II of Olenia. That treaty had bought Queen Chrysalis and the Changeling Lands international recognition at the cost of surrendering two states to the barbaric deer of the south. But now, with Aldar dead and the illegitimate King Johan shaking up Olenian politics, it was perhaps the best opportunity Chrysalis would have to right an ignominious wrong... and the pretense to expand Changeling influence beyond the Hives' borders.\n\nThe communique was a brilliant thing. It demanded renegotiations of the peace treaty King Aldar II had signed before his death, demanding the return of the two northern changeling states to the Hives in exchange for changeling recognition of [OLE.GetLeader] as the true sovereign of Olenia. It was a reversal of the treaty signed with King Aldar, and many of Chrysalis' advisors doubted the Olenian leader would agree to it, as the last thing [OLE.GetLeader] needed to do in the midst of the Olenian civil unrest would be to sign their territory away to a foreign power. But Chrysalis didn't care what option the Olenian leader would do. Either they would return the rightful changeling territory, or they would refuse, and that would be enough pretext to wage war. Either option pleased Chrysalis, but after all the reorganization the Royal Changeling Heer had gone through after the defeat at Canterlot in 1002, she was eager to see her new military at work. No matter which way she looked at it, this communique was a win-win scenario.\n\nIt was time for the weak to fear the strong."
 changelings.1.a:0 "Let's see if this prey species can realize when it's being hunted."
 
-changelings.2.t:0 "An Olenian Protectorate?"
+changelings.2.t:0 "올레니아 보호령?"
 changelings.2.d:0 ""The situation in Olenia is favorable," Hivesmarschall Trimmel said, gesturing at a map of the deer nation spread across a table before his queen. "The country is tearing itself apart already. Most think King Johan is illegitimate, and Princess Velvet should be the rightful queen. On top of that, the Equestrians have been pushing their disgusting harmonic ways on the nation, while Stalliongrad thinks that Olenia would be better as a communist puppet in the west to outflank Equestrian advances. All of this together means the deer are at each other's throats, and the true disasters haven't even started. It would just be tragic should a foreign power as strong as the Changeling Hives decided it should swoop in and intervene."\n\n"So what are you suggesting?" Chrysalis asked. "Clearly we cannot afford to let either Equestria or Stalliongrad establish closer ties with the Olenians. They are the first domino that needs to fall to take down Equestria, and it won't do if the domino is twice as heavy."\n\n"It's simple, really," Trimmel said. "Offer the Olenians the once in a lifetime opportunity to bow before you and kiss the dirt beneath your hooves. Say that we in the Changeling Hives are worried about the state of affairs in Olenia, and are merely offering our help. And if they refuse, or rather, when they refuse, we can claim it is in our best interests to see to it that we save the deer from themselves. Either way, Olenia bends to us. It just depends on how stupid they are to tell if we need to send in the tanks or not."\n\nChrysalis thought about it for a moment, then grinned. "I like the way you think, Hivesmarschall," she said."\n\nTrimmel grinned back at her. "I like the way I think too, Your Majesty.""
 changelings.2.a:0 "Let's see how the deer react to this one."
 
-changelings.3.t:0 "Conquest" ## Empty Event ##
+changelings.3.t:0 "정복" ## Empty Event ##
 
 changelings.4.t:0 "States Ceded"
 changelings.4.d:0 ""[OLE.GetLeader] truly is spineless," Chrysalis said, reading the response from Olenia with contempt. "Here I was spoiling for a good fight. And the deer fold like a house of cards. Pathetic!"\n\n"It appears reason won out in the end," Hivesmarschall Trimmel stated, bowing his head as Chrysalis fumed that she wouldn't have her fight anymore. "Still, we can call this a victory. There will be further opportunities to subjugate the deer. I'm sure the right one will surface before long."\n\n"It better," Chrysalis said. "If I settle for only taking two states off of the deer, I'm just a bit player. But if I take all of Olenia..." she rubbed her hooves together and giggled. "The deer may have bought themselves some time, but they will be my first conquest, one way or another. Soon they will submit or they will die, and I don't particularly care which one they choose.""
@@ -746,15 +746,15 @@ changelings.5.t:0 "[From.GetName] Rejects our Demands!"
 changelings.5.d:0 "Hivesmarschall Trimmel read the response of [OLE.GetLeader] with a pleased smile on his face. "Your demands that we cede Solgud Bergskedja and Feer Dalar are utterly preposterous. These lands were given to the deer by the treaty established by King Aldar II, in case you have forgotten. We will not give them back to you just because you demand them. Olenia does not cower before bullies." Trimmel tossed the response aside and shifted his attention toward Queen Chrysalis. "So, my Queen? What do you think?"\n\n"I think it's the excuse we've wanted," Chrysalis said, rubbing her hooves together. "If the deer think that firm words will be all it takes to save them, they will be disappointed. One way or another, they will fall, and I can't wait to see the look on [OLE.GetLeader]'s face when it all comes crashing down on their pathetic excuse for a nation.""
 changelings.5.a:0 "The deer will kneel to us, whether they want to do it covered in their own blood or not."
 
-changelings.6.t:0 "Olenia Yields to our Might"
+changelings.6.t:0 "올레니아가 우리 힘에 굴복하다"
 changelings.6.d:0 "Queen Chrysalis scoffed as she read the response from [OLE.GetLeader] to her demands that the entire country submit to the might of the Changeling Hives. "It was that easy? Pathetic," she said, rolling her eyes and passing the response back to an aide to file away safely. "I guess the deer really are frightened prey. I suppose it's a good thing for them we'll be set to look out for them... so long as they give us the love we deserve." She giggled to herself and sat upright on her throne. "Well, fortunately for the deer, the Heer won't get to try out our new toys on them. Those, we'll save for Equestria. The Olenians can rest assured that they have the might of our armies to protect them from Equestrian influence. We will truly be the kindest and most benevolent guardians of the deer we could be, because if any of them say otherwise, they won't be around long enough to say much else." She rubbed her hooves together. "The first domino has fallen...""
 changelings.6.a:0 "Onwards to Equestria!"
 
-changelings.7.t:0 "Olenia Refuses to Yield"
+changelings.7.t:0 "올레니아가 양보를 거절하다"
 changelings.7.d:0 ""The deer have rejected our kind offer to surrender, my Queen," Queen's Guard captain Dieter Heinrich said, tossing the Olenian response on the ground before Queen Chrysalis' throne. "And rather rudely, too. They used language I believe would be improper of me to use in your presence. But, it is just as you expected. The deer are too proud to realize when death is staring them in the face."\n\n"Good," Chrysalis said. "I've been waiting for the opportunity to try out our reorganized Heer. The deer have given me just the excuse to send in the tanks and crush those pathetic creatures beneath their treads. Mobilize the armies. They'll fall before us in moments, crushed under our superior might, and the Olenians will realize what a mistake it was to stand up to us... not that it will save them from what they deserve in the slightest.""
 changelings.7.a:0 "They want to do this the hard way? I want to do it the hard way too!"
 
-changelings.8.t:0 "Olenia Surrenders"
+changelings.8.t:0 "올레니아 항복"
 changelings.8.d:0 ""Cowards, the lot of them," Hivesmarschall Trimmel said, shaking his head. "I barely started my tanks before the Olenians folded. My Panzers still have half-full tanks of gasoline. The Olenians must be issued white flags with their soldiery kits, because I've never seen so many fly so quickly. I almost shot at them out of frustration. Almost."\n\nQueen Chrysalis frowned down at her Hivesmarschall, though her ire was not for him. "Were they trying to call a bluff? Did [OLE.GetLeader] really not think we would dare to invade Olenia if they refused? How laughable." She shook her head and waved her hoof to dismiss Trimmel. "Very well, if they won't put up a fight, then we have nothing to gain by slaughtering them save for another enemy. The equipment and bugpower we saved from the Olenians surrendering would be best used against Equestria. They will be the real tough nut to crack, and so we must throw everything we have against them. That's where the real fight lies.""
 changelings.8.a:0 "Olenia... all that chest pounding and for what? A few dozen dead deer?"
 
@@ -764,17 +764,17 @@ changelings.10.a:0 "Vanhoover will fall, and that'll really give Equestria somet
 
 changelings.11.t:0 "War With [SCS.GetName]."
 changelings.11.d:0 ""A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favorable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The foolish [SCS.GetName] have split off from Equestria. Their supplies of crude oil have made them powerful in their own right, but only a valuable prize for us. Seizing their oil supplies will allow us to run our Panzers for longer than we otherwise could have.  We must take control of this oil and grant our army the freedom to drive as far as it can. Yet another piece of Equestria is ready to fall into our hooves!"
-changelings.11.a:0 "Their oil shall be ours!"
+changelings.11.a:0 "그들의 석유는 우리 것이다!"
 
 changelings.12.t:0 "War With [From.GetName]."
 changelings.12.d:0 ""A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favorable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The foolish [From.GetName] have split off from Equestria. The fractured state of our greatest enemy shall make them all the easier to conquer. Piece by piece we shall devour Equestria until there is nothing left to conquer. Divided they shall fall to our might!"
-changelings.12.a:0 "To war!"
+changelings.12.a:0 "전쟁을 위해!"
 
 changelings.14.t:0 "War With [STG.GetName]."
 changelings.14.d:0 "[STG.GetName] stands in the way of the ambitions of our Glorious Queen. Not only are they ponies that we must conquer, but they are the home of that disgusting ideology called Communism, which stands in direct opposition to the natural hierarchy of the hives and the changeling species. Letting this state fester in continued existence could only be a disaster. They must be crushed immediately, and we shall make them submit by any means necessary!"
-changelings.14.a:0 "To war!"
+changelings.14.a:0 "전쟁을 위해!"
 
-changelings.16.t:0 "Espionage in Equestria"
+changelings.16.t:0 "이퀘스트리아의 스파이 활동"
 changelings.16.d:0 "Vaspier Orn Kladisium paced around his desk, a lit cigarette hanging from his lips. Held in his magic before him were several plain folders, which he opened and looked through one after the other. Early feelers from the first wave of infiltrators sent into the country had identified several weaknesses within the Equestrian state, ranging from things as simple as factory overseers to levels all the way up to the highest order of government. Though the Equestrians were wary of changeling infiltration owing to the world situation and the failed invasion of Canterlot in 1002, they had yet to close off any ways for VOPS to get a hoof inside of the nation. That would be their undoing.\n\nVaspier set the folders aside and pulled up his roster of agents on standby. The greatest strength of the changeling race was their ability to shapeshift into almost any form, but the average changeling had limits to that ability. Without training, a form could only be assumed for so long, and the impersonation could be imperfect. Those familiar with the individual being impersonated would soon sniff out the falsehood standing before them. But the infiltrators of the VOPS were the best of the best, each extensively trained to perfectly impersonate a target, relentlessly drilled for weeks on every detail and habit of their assumed likeness. These infiltrators, Vaspier would release en masse into Equestria. With perfectly placed spies throughout the Equestrian Army, the resulting chaos and confusion would soon make it impossible for them to resist the swarm.\n\nVaspier let his cigarette burn out, then squashed it in an ashtray. Soon, Equestria, just like that cigarette, would be snuffed out."
 changelings.16.a:0 "The Equestrians won't know who to trust when VOPS is through with them."
 
@@ -782,17 +782,17 @@ changelings.17.t:0 "[EQS.GetName] has Destroyed our Spy Network!"
 changelings.17.d:0 "The Great Imperial Nobody sat at his desk, reviewing the reports coming in from his spies, or at least, the ones that could send reports. The infiltration had worked for a time, and it had worked wonderfully. Noling could deny that. But eventually, the Equestrians developed their own means of detecting changelings, and ever since then, Vaspier had watched as his spy network began to disintegrate. He'd lost two score infiltrators to Equestrian counterespionage, and it wasn't long after that that he had to give the order to stand down and cease operations. Infiltrators were expensive to train, and it took months to complete their training; they were too valuable a resource to squander fruitlessly. Those that could, he'd instructed to continue small-scale espionage and report back any findings he came across, while others he instructed to go to ground or return to changeling lines. Maybe in the future, VOPS would be able to mount another massive infiltration operation, but for now, the Hives would have to be satisfied with what VOPS had managed to accomplish. He only hoped those brutes in the Heer hadn't squandered all the hard work that had gone into gathering intel and exploiting Equestrian weaknesses."
 changelings.17.a:0 "Many infiltrators died to bring us this information."
 
-changelings.18.t:0 "Sombra Demands our Subjugation"
+changelings.18.t:0 "솜브라가 우리에게 종속을 요구하다"
 changelings.18.d:0 "Queen Chrysalis watched with raised eyebrows as the ambassador from the Crystal Empire approached her throne. She had heard the news of King Sombra's return, and as far as she was concerned, that was a good sign. Anything that weakened Equestria and its allies was good for her. "You stand in the presence of Her Royal Majesty, Great Queen Chrysalis, first of her name," Chrysalis' herald called out. "Bow your head before the queen of all the changelings and state your business."\n\nTo Chrysalis' surprise, the ambassador refused to do so, and instead cleared his throat. "Queen Chrysalis, I come bearing an ultimatum from His Imperial Majesty, King Sombra, King of Kings and Emperor of Emperors. Now that the long-awaited king has finally returned to his throne, it is only right that this continent gives him the respect he deserves. It is the King's command that you bow before him and pledge fealty as a steadfast subject, and in exchange, His Imperial Majesty offers you and your nation his eternal protection."\n\nEvery changeling in the room bristled at the bold demands, and none more so than Chrysalis herself. "Me? Pledge loyalty to a ghost?!" She snarled at the ambassador. "The Queen of the Changelings bows to nobody, least of all a pony!"\n\n"If you do not kneel before His Imperial Majesty, then he will respond with military force, and your pathetic nation will be crushed before his armies, like so many others before you. It is your choice whether you would embrace his friendship, or suffer his wrath.""
 changelings.18.a:0 "The only thing Sombra will be getting from the changelings is your body stuffed in a box!"
 changelings.18.b:0 "We do not wish to come to blows with King Sombra. We will yield to his rule."
 
-changelings.19.t:0 "Sombra Offers an Alliance!"
+changelings.19.t:0 "솜브라가 동맹을 제안하다!"
 changelings.19.d:0 "Queen Chrysalis watched with raised eyebrows as the ambassador from the Crystal Empire approached her throne. She had heard the news of King Sombra's return, and as far as she was concerned, that was a good sign. Anything that weakened Equestria and its allies was good for her. "You stand in the presence of Her Royal Majesty, Great Queen Chrysalis, first of her name," Chrysalis' herald called out. "Bow your head before the queen of all the changelings and state your business."\n\nThe ambassador respectfully dipped his head. It wasn't a full bow, but it was good enough for relations between two monarchies. "His Imperial Majesty, King Sombra, King of Kings and Emperor of Emperors, wishes to extend his hoof in an offer of friendship to the Great Queen Chrysalis of the Changeling Hives," the ambassador said. "It is in the benefits of both of our nations to forge an alliance and work in unison to see the destruction of Equestria. Our armies, working together as one, can enslave this continent beneath us. The king eagerly awaits your reply."\n\nChrysalis rubbed her hoof against her chin. An alliance with Sombra? She immediately wanted to reject on the basis that Sombra was little more than a pony, but he was more than that, wasn't he? He had powers that made him more than the average equine, and his military prowess was certainly formidable. Perhaps an alliance would be in the best interest of the Changeling Hives..."
 changelings.19.a:0 "Sombra is a pony, and all ponies deserve nothing more than to be subjects of the Changeling Hives!."
 changelings.19.b:0 "An alliance will work splendidly! Let us work together to toss Celestia off of her shiny mountain and kick her into the sea!"
 
-changelings.20.t:0 "The War is Inevitable!"
+changelings.20.t:0 "전쟁은 피할수 없다!"
 changelings.20.d:0 ""The time to act is now, my Queen," Hivesmarschall Trimmel said. "The Heer has worked closely with VOPS to analyze the Equestrian defenses, and they are, shall I put it simply, woefully inadequate. We have the soldiers, we have the supplies, and most importantly, we have the willpower to dominate Equestria. All we have to do is storm across the border, give their defenses a solid kick, and the whole rotten structure should come crashing down."\n\nChrysalis frowned, and her wings gave a little flutter. This was the moment she'd been waiting for ever since the disastrous invasion in 1002. She was practically giddy at the chance to have her revenge... but she'd learned lessons from her defeat in Canterlot. It wouldn't do to rush her nation to war before it was ready. "Are you sure that we are prepared? We aren't in need of additional preparations?"\n\nTrimmel resolutely nodded. "We are as ready as we ever will be, my Queen," he assured her. "And now is the time to strike. The longer we wait, the stronger Equestria becomes. They know that war between us inevitable, and every day, they bolster their defenses. An attack can only be readied so much before we see diminishing returns; a defense can be reinforced virtually forever. We must strike now while the iron is hot, or forever miss our chance."\n\nTrimmel's arguments settled it for the Queen. "Then we have no choice but to attack," she said. "Send out the order. The Hives march to war on my command. Not before.""
 changelings.20.a:0 "Equestria, your days are numbered!"
 
@@ -812,13 +812,13 @@ changelings.23.a:0 "Sure, why not."
 changelings.23.b:0 "Those trees will mark their graves."
 
 #-Culled Events 24 to 31 -Psody
-changelings.32.t:0 "Operation: Furore Chrysalis!"
+changelings.32.t:0 "작전: 격분한 크리살리스!"
 changelings.32.d:0 "The radios were alive with covert transmissions from Vaspier's spies. VOPS infiltrators, together with changeling Jaegers, had successfully managed to infiltrate the Equestrian lines. Now, after weeks of preparations and clandestine weapons drops behind the Equestrian army, the infiltrators were ready to strike. Just minutes ago, Vaspier read the confirmation that the saboteurs were ready to strike. And with the Heer already squaring off against the ponies, there was no time like the present. Folding up the report, Vaspier picked up the phone receiver on his desk and spun the dial. He waited until he heard the click of the phone being connected to its destination. "Zero hour is a go," he said into the receiver, and he set it back down. Within seconds, he knew the saboteurs would be moving out to their assignments. All he had to do now was sit back and wait for confirmation of their success."
 changelings.32.a:0 "Blind and oblivious, the ponies shall die to a dagger in the dark."
 CHN_furfore_tooltip:0 "Spawns §YFive Jaeger Saboteurs Divisions§! around §YVanhoover§!\n"
 
-changelings.35.t:0 "Zecora's Resistance!" ## Old and Ded ##
-changelings.35.d:0 "Kill them fast!"
+changelings.35.t:0 "제코라의 레지스탕스!" ## Old and Ded ##
+changelings.35.d:0 "그들을 빨리 죽여라!"
 changelings.35.a:0 "..."
 
 changelings.900.t:0 "We, the bears, have lost"
@@ -833,41 +833,41 @@ changelings.902.a:0 "Oh no!"
 changelings.903.t:0 "Our Town is not ours anymore :c"
 changelings.903.d:0 "Never trust changelings!"
 changelings.903.a:0 "Hell!"
-changelings.905.t:0 "The Dragon Protectorate"
+changelings.905.t:0 "드래곤 보호령"
 #changelings.905.t:0 "With our new Changeling overlords, we have been forced to change our name."#Different duplicate from Eaw
 #changelings.905.t:0 "Damn."#Different duplicate from Eaw
 changelings.910.t:0 "Saved!"
 changelings.910.d:0 "Never again will we bear changeling rule over our lands!"
 changelings.910.a:0 "We are back!"
 
-changelings.36.t:0 "Ditrysium Naval Effort"
+changelings.36.t:0 "디트리시움 해군 주력"
 changelings.36.d:0 "Building ships is a costly and time-consuming endeavor. Unlike a rifle which can be assembled by a single drone, or a tank which is neatly fabricated and welded together by a few changelings in a factory, a ship is practically a town floating on the sea. It takes the efforts of countless dockyards and factories working together to assemble the ship, piece by piece, over weeks of hard work. Ditrysium is the largest of our dockyards and our greatest port, and even it is struggling to keep up with the demands of our navies. Queen Helvia has petitioned Queen Chrysalis for more funding and resources to expand the dockyards and supply the navy with the ships it desperately needs. Unfortunately, the resources we can set aside for Ditrysium cannot do both. We can either expand the dockyards to gain more ships in the long run, or dedicate the resources that could be used to construct those dockyards to instead bolster the construction of our ships, giving us more in the short term. What shall we tell Queen Helvia?"
-changelings.36.a:0 "Construct more dockyards!"
-changelings.36.b:0 "Produce more ships!"
+changelings.36.a:0 "더 많은 조선소를 지어라!"
+changelings.36.b:0 "더 많은 선박을 건조해라!"
 
-changelings.37.t:0 "Vraks Factories"
+changelings.37.t:0 "브락스 공장"
 changelings.37.d:0 "Queen Argynnis has recently sent a petition to Vesalipolis, asking for more resources from Queen Chrysalis to bolster the production of equipment greatly needed by our armies. While the industries of Vraks have relentlessly churned out gun after gun and tank after tank, Queen Argynnis argues that Vraks could produce even more were she given the resources she needed to expand its industry. We have a certain amount of funding set aside that we could dedicate to improved military production, and Queen Argynnis will certainly see this money. We, however, have a say in how she uses it. Shall we order the queen to focus on long term investments and use the money to build more factories, or should she focus on the short term and focus on increasing production for as long as the money lasts?"
-changelings.37.a:0 "Build more factories!"
-changelings.37.b:0 "Increase the output of production!"
+changelings.37.a:0 "공장을 더 많이 지어라!"
+changelings.37.b:0 "생산량을 늘려라!"
 
-changelings.39.t:0 "Changeling Hives Demilitarised"
+changelings.39.t:0 "체인질링 군락 비무장화"
 changelings.39.d:0 "The Great War is over, and countless changelings and ponies lie dead. In the peace negotiations Equestria has seen fit the newly installed administration of the northern changeling hives and surrounding territory once ruled by Queen Chrysalis shall be turned into a puppet of the Equestrian government. Among other stipulations it specifies that the Changelings shall have no independent military, all troops shall be under the direct command of the Equestrian generalship, and that their justice system and paramilitary forces will have to take orders from Equestrian advisors hoof selected by Canterlot for their moral character and bureaucratic acumen. It is hoped that these conditions, among others, will prevent another war from ever occurring. However, even now there are those in Canterlot itself who say that this peace treaty will only be remembered the prelude to an even grander and more deadly conflict."
-changelings.39.a:0 "They should be thanking us!"
+changelings.39.a:0 "그들은 우리에게 감사해야 !"
 
-changelings.40.t:0 "Changelings Request Remilitarisation"
+changelings.40.t:0 "체인질링이 재무장을 요청하다"
 changelings.40.d:0 "With the ongoing war Canterlot has received a request from King Thorax to remilitarise [From.GetNameDef]. In the letter he claims that the Changelings and all other creatures living in the northern land could be a great asset to Equestria in their war if they were finally given an independent military organization again. The letter was met by mixed feelings by the general staff. Some claim that giving the Changelings their own command is just asking for the horrors of the Great War to repeat themselves, but this time on a second front. Others say that the general staff is already overworked managing all of Equestria's divisions, armies, army groups, and theaters, and that [From.GetNameDef] taking over some of the load would be a good help."
 changelings.40.a:0 "It's still too soon after the last war to be thinking about that."
 changelings.40.b:0 "It's time for the Changeling to take up the peaked cap once more."
 
-changelings.41.t:0 "Equestrians Reject Remilitarisation Plan"
+changelings.41.t:0 "재무장 계획을 거절한 이퀘스트리아인"
 changelings.41.d:0 "Despite our carefully worded message to [From.Capital.GetName] and the current situation the Equestrian government has declined our request for an independent command. It looks like we'll have to continue to rely on them for our defense. We can only hope that defense lasts, for otherwise the despair of rejection shall give way to the stench of death."
 changelings.41.a:0 "It's okay, we're used to it."
 
-changelings.42.t:0 "Equestrians Approve Remilitarisation Plan"
+changelings.42.t:0 "재무장 계획을 승인한 이퀘스트리아인"
 changelings.42.d:0 "Thanks to our carefully worded message [From.Capital.GetName] has seen fit to approve our remilitarisation plan. Our forces can now be commanded by their own generals, and recruitment can begin in earnest now. Their first task will be just getting on their four hooves, but after that they must go and help the Equestrians in their war. We shall soon earn our freedom, and help save the world!"
 changelings.42.a:0 "A true true friend helps a friend in need."
 
-CHN_demand_remilitarization:0 "Propose Remilitarisation"
+CHN_demand_remilitarization:0 "재무장화 "
 CHN_demand_remilitarization_desc:0 "With Equestria currently engaged in war an opportunity arises for us to gain a measure of freedom ahead of schedule. We shall propose remilitarising [Root.GetNameDef] for the purpose of assisting them when at war in a carefully worded letter. Hopefully the Equestrian government will accept the proposal."
 
 #CHN-GRI Stuff
@@ -962,19 +962,19 @@ changelings_demand_resources_tt:0 "§Y[CHN.GetNameDef]§! will ask §Y[PLB.GetNa
 changelings_demand_land_and_gold_tt:0 "§Y[CHN.GetNameDef]§! will ask §Y[PLB.GetNameDef]§! to provide their gold reserves and gold mines for the benefit of the Hives, as well as to transfer two regions bordering the Empire, in exchange of Changeling protection, researchers, construction technologies and payment."
 changelings_demand_land_and_resources_tt:0 "§Y[CHN.GetNameDef]§! will ask §Y[PLB.GetNameDef]§! to provide their natural resources, namely steel, for the benefit of the Hives, as well as to transfer two regions bordering the Empire, in exchange of Changeling protection, researchers, construction technologies and payment."
 
-changelings.45.t_gold:0 "Changelings Demand Gold"
+changelings.45.t_gold:0 "체인질링의 금 요구"
 changelings.45.d_gold:0 "[Root.GetLeader] has been approached by an envoy from the Changelings, claiming to be dispatched by Chrysalis herself. The drone laid out Chrysalis's demands: They want a large sum of our gold, and in exchange, they will offer protection to us."
-changelings.45.t_resources:0 "Changelings Demand Iron"
+changelings.45.t_resources:0 "체인질링의 철 요구"
 changelings.45.d_resources:0 "[Root.GetLeader] has been approached by an envoy from the Changelings, claiming to be dispatched by Chrysalis herself. The drone laid out Chrysalis's demands: They want a hefty amount of our iron, and in exchange, they will offer protection to us"
-changelings.45.t_resources_land:0 "Changelings Demand Iron and Territories"
+changelings.45.t_resources_land:0 "철과 영토를 요구하는 체인질링"
 changelings.45.d_resources_land:0 "[Root.GetLeader] has been approached by an envoy from the Changelings, claiming to be dispatched by Chrysalis herself. The drone laid out Chrysalis's demands: They want iron and land, specifically around the Key Lake area, and in exchange, they will offer protection to us."
-changelings.45.t_gold_land:0 "Changelings Demand Gold and Territories"
+changelings.45.t_gold_land:0 "금과 영토를 요구하는 체인질링"
 changelings.45.d_gold_land:0 "[Root.GetLeader] has been approached by an envoy from the Changelings, claiming to be dispatched by Chrysalis herself. The drone laid out Chrysalis's demands: They want a large sum of our gold AND, they want some of our land, specifically around the Key Lake area, and in exchange, they will offer protection to us."
 changelings.45.a:0 "That's outrageous! Prepare the bears!"
 changelings.45.b:0 "We can provide."
-changelings.46.t_deal:0 "Polar Bears Accept Our Demands."
+changelings.46.t_deal:0 "우리의 요구를 받아들인 북극곰."
 changelings.46.d_deal:0 "Our envoys recently undertook the perilous journey into the frigid arctic lands to negotiate directly with [PLB.GetLeader] and present our demands. Though treking through the frigid wastes would normally be a dangerous mission, the bears made sure that our envoys made it to the ursine capital without too much difficulty, clearly understanding that any harm that befell our envoys on their trip could be used as a pretext for war. When our envoys finally made it to the capital of the polar lands, they quickly laid out our demands and made it clear that we would not take no for an answer. It did not take all that long before [PLB.GetLeader] reluctantly agreed to our demands, and drafted up terms of the treaty with our ambassadors to return to Queen Chrysalis for review. Once we sign the treaty, we will have gotten what we wanted, and the bears will be placed under our protection."
-changelings.46.t_no_deal:0 "Polar Bears Do Not Accept Our Demands"
+changelings.46.t_no_deal:0 "우리의 요구를 받아들이지 않겠다고 한 북극곰"
 changelings.46.d_no_deal:0 "Our envoys recently undertook the perilous journey into the frigid arctic lands to negotiate directly with [PLB.GetLeader] and present our demands. Though treking through the frigid wastes would normally be a dangerous mission, the bears made sure that our envoys made it to the ursine capital without too much difficulty, clearly understanding that any harm that befell our envoys on their trip could be used as a pretext for war. When our envoys finally made it to the capital of the polar lands, they quickly laid out our demands and made it clear that we would not take no for an answer. Yet despite making our intentions clear, [PLB.GetLeader] remained defiant, insisting that the proud bear nation will never yield to our demands. Our ambassadors returned in a hurry, obviously fearing for their lives amidst the frozen barbaric wastes, and delivered the bad news directly to Queen Chrysalis. Enraged, our queen has ordered that the military mobilize to the border at once. We will not suffer such insults from those lowly ursine brutes!"
 changelings.46.a:0 "We will have to use force."
 changelings.46.b:0 "Friendship among the nations!"
@@ -986,18 +986,18 @@ PLB_deal_CHN:0 "Polar Bears accept Changeling demands"
 politics_thorax_puppet_desc:0 "An outcast among the Hives, Thorax is one of the first supporters of Harmony among the changelings. His belief that love can be obtained with friendship and peaceful trading with their neighbours has been slowly catching on among the despondent drones, who feel their lives are being thrown away in pursuit of militaristic expansion. Nonetheless, Thorax's ideas are a minority in the Hives and he is mostly despised by the Hive Queens, who see his vision as detrimental to the changelings as whole. That has changed after the Changelings' defeat in the Great War, and now Thorax leads the reformed nation into a bright future, hoping to show the world that they're not all monsters."
 
 #news events
-changelings.47.t:0 "Changelings Occupy Polar Bears"
+changelings.47.t:0 "북극곰들을 점령한 체인질링"
 changelings.47.d:0 "[This.GetNewspaperHeader] The imperialistic Changeling policy has taken another victim, those being the secluded Polar Bear Communities in the frozen north. While the Bears have been mostly isolated from world politics at large, that changed with the arrival of a changeling envoy, who demanded various concessions for their Queen. [PLB.GetLeader] rejected all of these demands as outlandish, saying that the bears would never bow before brutes and bullies, and if the changelings wanted those concessions so badly, they would have to come and take them.\n\nNaturally, a response from Chrysalis didn't take long, and changeling troops crossed the border in a full scale invasion. Bear defences quickly collapsed, and an armistice was signed the following day. With most of the bears retreating to safer lands, a new government was installed under the leadership of a bear known as Björnling, who is, by all accounts, known to be a fascist sympathiser."
 changelings.47.d_had_border_wars:0 "[This.GetNewspaperHeader]The imperialistic Changeling policy has taken another victim, those being the secluded Polar Bear Communities in the frozen north. While the Bears have been mostly isolated from world politics at large, that changed with the arrival of a changeling envoy, who demanded various concessions for their Queen. While [PLB.GetLeader] has agreed to some of these demands, it was deemed insufficient by the emissary, and the changeling envoy returned unsatisfied with the partial terms. However, the bears of the north held their breath and prayed that the concessions they gave the Changeling Hives would be enough.\n\nIt seemed as if nothing would come out of this, but a week later, a series of raids and skirmishes began on the Changeling-Bear border, resulting in the devastation of numerous bear villages and many civilian casualties. The bear leadership, knowing that this could escalate into a full scale invasion, have agreed to the initial changeling demands, wishing to preserve their independence."
 changelings.47.d_plb_accepted_deal:0 "[This.GetNewspaperHeader]The imperialistic Changeling policy has taken another victim, those being the secluded Polar Bear Communities in the frozen north. While the Bears have been mostly isolated from world politics at large, that changed with the arrival of a changeling envoy, who demanded various concessions for their Queen. Knowing that resistance is futile, [PLB.GetLeader] agreed to all of the changelings' demands in exchange for their protection and payment.\n\nThe Queen was very pleased with this outcome, and a tight alliance was established, binding the bears to the Changeling Hegemony in exchange for Changeling military protection. Much of the bears' iron and gold reserves have been moved out of the country towards Vesalipolis, fuelling the future changeling war effort. Their citizens are dissatisfied to have bent over before the changelings' demands, but are more grateful to have kept a small measure of their independence and lives."
 changelings.47.a:0 "Worrying."
 changelings.47.b:0 "Great."
 
-changelings.48.t:0 "Attack Successful!"
+changelings.48.t:0 "성공적인 공격!"
 changelings.48.d:0 "Our limited engagement with the polar bear forces along the border has resulted in a decisive victory for our troops. The bears put up a stiff resistance at first, but as the artillery thundered and our troops swarmed into their lines, their lines of defense swiftly collapsed, allowing us to take full control of the area. We are now consolidating our gains and awaiting further development of the situation."
-changelings.48.a:0 "Excellent."
+changelings.48.a:0 "완벽해."
 
-changelings.49.t:0 "Attack was repelled"
+changelings.49.t:0 "격퇴된 공격"
 changelings.49.d:0 "Our limited engagement with the polar bear forces along the border has resulted in a stunning defeat for our troops. In our attempts to limit the conflict from exploding into all-out war, we committed only a fraction of our army, and it seems that was not enough. With strong defensive positions, the bears managed to resist our attack, and our forces were soon in disarray and scattered by an ursine counterattack. All we have gained from this struggle is humiliation and a heaping helping of changeling dead."
 changelings.49.a:0 "The Royal Changeling Heer losing to some bears?"
 changelings.49.b:0 "Move to the second stage!"
@@ -1014,7 +1014,7 @@ changelings.52.t:0 "The Changelings Beat Us!"
 changelings.52.d:0 "Disaster! Our forces have been totally routed, and we have lost the state entirely! There is little to do but fall back and do what we can to at least save what's left of our country and heritage!"
 changelings.52.a:0 "Retreat!"
 
-changelings.53.t:0 "Attack Repelled!"
+changelings.53.t:0 "격퇴된 공격!"
 changelings.53.d:0 "The Changelings came at us, and we sent them back! Despite the seemingly overwhelming statue of their military, we've sent the bugs fleeing from our land! What the bugs thought would be an easy war has turned into a costly disaster for their army, and this is a defeat they will not soon forget. This is our land, and today, the Changelings have learnt we won't give it up without a fight!"
 changelings.53.a:0 "Yarr!"
 
@@ -1028,7 +1028,7 @@ changelings.54.b:0 "Our Queen cannot be stopped!"
 changelings.54.c:0 "The Bears will love their new Queen."
 changelings.54.e:0 "Our Queen is the best ruler one could ever wish for."
 
-changelings.55.t:0 "The Bears Resist!"
+changelings.55.t:0 "곰의 저항!"
 changelings.55.d:0 "Impossibly, it appears that direct force will not work against the bears on their home turf. The terrain is too favorable for the defenders, and they know it well, thwarting our obviously superior army and forces. However, we are changelings, and we have more than direct force available. If we cannot take them in open war, then we shall wreak havoc on their nation from within with a veritable army of infiltrators. Soon, they shall be unable to trust each other, and the chaos we can impart on their small and weak nation with just a small amount of infiltrators shall mean further resistance will prove impossible."
 changelings.55.a:0 "Send the Infiltrator Army."
 
@@ -1054,7 +1054,7 @@ changelings.60.t:0 "The Hive Queens"
 changelings.60.d:0 "Every traditional hive-city has a queen as its leader, the highest member of a royal family. The queens of the four most powerful hives accepted Chrysalis as the One Queen of the Changeling Lands, pledging loyalty to her during the era of unification in 980-990s. Queen Argynnis in Vraks, young, snide, yet loyal to Queen Chrysalis, controls the backbone of the changeling armed forces, making them one of the strongest fighting forces in the world. Queen Helvia in Ditrysium, a pragmatic queen and a temperamental ally of Chrysalis, turns the dockyards of her hive toward bolstering the navy to one day wrest control of the seas from the Olenians and Equestrians. Queen Aurantia in Lyctida, Queen Chrysalis' staunchest and most loyal supporter, leads the massive factories of Lyctida in producing equipment and goods for the Hegemony to bolster its capabilities and narrow the gap between the Hives and the industrial powerhouse of Equestria. Queen Yaria in Soryth, a studious queen who believes in the greatness of the changeling species and the glory Queen Chrysalis can give it, devotes her time and effort toward unlocking the magical secrets of her species, with the hopes of one day dominating the world.\n\nAll of these queens together, from disparate regions of the Hegemony, once were at each other's throats. Now, united under Queen Chrysalis, the changeling hives, once bitter enemies, are now staunch allies. Working in unison, who knows what they can accomplish?"
 changelings.60.a:0 "They shall remain loyal, or else."
 
-changelings.61.t:0 "Grand Military Parade In Vesalipolis"
+changelings.61.t:0 "베살리폴리스에서 열린 웅장한 군사 퍼레이드"
 changelings.61.d:0 "Today the streets of the hive-city of Vesalipolis were filled to the brim with changelings, with many buzzing above in the air. They had all gathered to spectate a huge military parade, which had been prepared and advertised for weeks. Changelings had come from all across the nation, and even the other four Hive Queens were present. It was, apart from Queen Chrysalis' coronation as Great Queen of the Changeling Hegemony, the largest parade the city had ever seen.\n\nIn the square, columns of changeling soldiers dressed in grey soon emerged out of their barracks, marching with synchronized steps and waving their white banners. As they marched, the civilians greeted them with cheers and admired their discipline. Behind them, shiny new Panzers rolled out, with Hivesmarschall Trimmel leading the long column of a hundred tanks. They were followed by motorized divisions in their trucks, artillery battalions with their wheeled guns, marines, sailors, elite Jaeger squadrons, Queen's Guard, and more. It was an endless stream of soldiers armed to the brim with the newest weaponry. The audience was left in awe and convinced of the might of their nation, their belief in the salvation Queen Chrysalis promised them stronger than ever.\n\nAt the end of the column came Chrysalis herself, riding in an officer's car and dressed in a snow-white military uniform. She saluted the crowd and the crowd saluted her, chanting "Long live the Queen!" almost fanatically. And as she rode, roaring fighters and bombers appeared in the sky and blotted out the sun.\n\nThis was just the beginning.Soon, the soldiers and their weapons of war would be turned toward all of the Hegemony's enemies, and one by one, those nations would fall and become nothing more than sources of love for the changeling species."
 changelings.61.a:0 "Glory to the Changeling Queendom!"
 
@@ -1144,8 +1144,8 @@ CHN_DESC_DIETER:0 "§YBorn§!: §RUnknown§!\n\n§YRank§!: Generalkapitän\n\n�
 
 CHN_OLE_brigade_tt:0 "Several Olenian volunteer divisions will be formed in occupied Olenian cities.\n"
 
-queens_tower_flag:0 "Queen's Tower Construction Progress"
-changeling_school_of_war_trait:0 "Changeling School of War"
+queens_tower_flag:0 "여왕의 첨탑 건설과정"
+changeling_school_of_war_trait:0 "체인질링 전쟁학교"
 queens_tower_finish_trigger_tt:0 "§YConstruction of the Tower§! needs to be completed §Y4 times§!."
 
 CHN_annexed_olenia_by_event:0 "Olenia surrendered in an event"
@@ -1156,7 +1156,7 @@ CHN_annexed_olenia_by_event:0 "Olenia surrendered in an event"
 ###########################################
 
 ### FOCI ###    
-CHN_post_war_1:0 "Pax Chrysalia"
+CHN_post_war_1:0 "팍스 크리살리스"
 CHN_post_war_1_desc:0 "The Changeling Queendom reigns supreme across Equus. The Diarchy has fallen, and with it, the Equestrian nation-state, crushed under the panzer treads and jackboots of the Heer. From the ashes of the Great War, the incipient Pax Chrysalia extends its tendrils across the continent, to usher forth a new era of Changeling domination and prosperity."
 CHN_post_war_1_a:0 "Die Dekompression"
 CHN_post_war_1_a_desc:0 "Where the fires of rabid militarism had been avidly stoked, to guide the Changeling Hives into becoming a society geared towards the perpetuation of total war, the triumph of the Pax Chrysalia means that the immense burden of the war effort can now be relieved. The industry and socioeconomic system of the Queendom must be retooled, so to facilitate the business of peace as it did the butchery of war."
@@ -1327,19 +1327,19 @@ CHN_scripted_loc_witch_hunt:0 "The partisans taken captive in our campaign again
 ### EVENTS ###
 
 ## General Events ##
-changelings_paxchrysalia.1000.t:0 "The End of the Great War"
+changelings_paxchrysalia.1000.t:0 "대전쟁의 끝"
 changelings_paxchrysalia.1000.d:0 "It is finally over.\n\nAfter countless months of bloody struggle, Equestria has finally succumbed to our victorious armies. On every battlefield in every theatre, the pony armies have been routed, crushed, and scattered to the winds. The enemy's organized resistance has been put to an end, and its leaders - those who haven't fled into exile, at least - have formally surrendered in Canterlot. The Great War is over.\n\nBut while the changelings back home pour into the streets in celebration from Vraks to Vesalipolis, those 'lings tasked with garrisoning our new gains are far from jovial. For while Equestria's armed forces lie in ruin, the fighting spirit of the ponies now under changeling rule will be much harder to pacify. As former soldiers melt back into their hometowns with fresh scars and painful memories of the bitter fighting on the front, the civilian population is beginning to mobilize in a way it hadn't during the war. There is much work to be done if we want to guarantee our hold over Equestria will stand the test of time.\n\nQueen Chrysalis has proclaimed this new era the "Pax Chrysalia", but those words are as hollow as the bells that toll our victory.\n\nConquering Equestria was the easy part. Holding on to it will be a much harder task."
 changelings_paxchrysalia.1000.a:0 "The "Pax Chrysalia" is anything but."
 
-changelings_paxchrysalia.1001.t:0 "The End of the Beginning"
+changelings_paxchrysalia.1001.t:0 "시작의 끝"
 changelings_paxchrysalia.1001.d:0 "[This.GetNewspaperHeader]    With the Changeling Queendom having emerged triumphant from the Great War, the victory's euphoric aftermath has now largely given way to the sobering reality of the postbellum. Presiding over a mountain of captured Equestrian flags  —  many still battle-scarred and bloodstained  —  Queen Chrysalis declared the dawn of a Golden Age for the changeling race, having cast off the shackles of Equestrian "harmony" to assume their birthright as the hegemon of Equus.\n    Whilst the Queen's speech was met with overwhelming popular approval, the future of the Pax Chrysalia remains uncertain. The intense militarism of the hives and the robustness of the changeling military-industrial complex had propelled the Queendom to victory, but with the Equestrian menace vanquished, the transition to peacetime may be harder for some than most."
 changelings_paxchrysalia.1001.a:0 "We've won. Now what?"
 
-changelings_paxchrysalia.1002.t:0 "The Queen's Speech"
+changelings_paxchrysalia.1002.t:0 "여왕의 연설"
 changelings_paxchrysalia.1002.d:0 "[This.GetNewspaperHeader]Appearing before hordes of adoring changelings in Vesalipolis, the Queen gave a bombastic speech declaiming the Hives' victory in the Great War as the avenging of a great injustice — that of the ancient conspiracy between foreign powers to deprive the Hives of what it rightly deserved: unfettered access to the Love of those lesser than us. The victory in the Great War, the Queen proclaimed, has saved the changeling race from starvation and extinction. Furthermore, the Great War showcased the obvious primacy of racial unity over the laggard and wasteful ideals of peace and harmony, with a firm kick to the door being all it took to send the whole rotten structure of Equestria crashing to the ground. Finally, the Queen promised to distribute enough Love for each and every changeling to never have to worry about feeling weak or hungry again."
 changelings_paxchrysalia.1002.a:0 "Long live the Great Queen!"
 
-changelings_paxchrysalia.1.t:0 "The Canterlot Victory Parade"
+changelings_paxchrysalia.1.t:0 "캔틀롯 승리 퍼레이드"
 changelings_paxchrysalia.1.d:0 "Generalmajor Jachs scribbled his signature onto yet another directive on his makeshift desk and let out a sigh, the sound echoed a thousand times by the towering and empty walls of the old throne room in Canterlot. Until a new administrative center could be built in the occupied pony capital, Generalmajor Jachs and his staff had set up a temporary headquarters inside of the castle. It might as well have been his new home also; after being installed to oversee the changeling occupation of Canterlot, his life had become nothing but a frantic flurry of paperwork as he tried to build a new governing apparatus from scratch, with little time for sleep, food, or personal hygiene in the meanwhile.\n\nThe doors at the far end of the throne room burst open, and a female 'ling buzzed into the throne room, passing by the half-dozen makeshift desks and tables where other members of Jachs' staff similarly toiled away. She landed in front of Jachs' desk and saluted, her posture picture perfect as ever. "Generalmajor!"\n\nJachs tore his eyes away from the papers on his desk, grateful for the momentary reprieve. "At ease, Oberstleutnant Alcippe. What is it?"\n\n"Missive directly from the Queen, sir," Alcippe said, holding out a piece of paper clutched in a chitinous hoof.\n\nJachs groaned and rubbed his eyes. "Read it for me, would you? My eyes are strained enough as it is.""
 changelings_paxchrysalia.1.a:0 "This better not be some ego-stroking nonsense..."
 
@@ -2767,7 +2767,7 @@ extractive_regime_resistance_threshold:0 "The Average §RResistance§! of all [F
 extractive_regime_compliance_threshold:0 "The Average §GCompliance§! of all [From.FROM.GetAdjective] core states under our control is above §Y30.0%§!."
 extractive_regime_unlock_tt:0 "\nUnlocks the §YExtractivist Regime§! occupation law:\nState Modifier:\n      Local Resources: §G+75%§!\n      Required Garrisons: §R+25%§!\n      Resource Sabotage Chance: §G-25%§!\n      Resource Sabotage Duration: §G-25%§!"
 
-CHN_research_name:0 "Changeling Research"
+CHN_research_name:0 "체인질링 연구"
 CHN_research_desc:0 ""
 
 #Tool Tip for DLC LaR
