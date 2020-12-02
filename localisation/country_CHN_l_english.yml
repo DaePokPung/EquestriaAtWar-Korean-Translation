@@ -564,10 +564,10 @@ controls_manehattan_region_tt:0 "Owns and Controls at least one state on the eas
 controls_confederates_tt:0 "Owns and Controls at least one state in Equestrian south."
 controls_olenia_tt:0 "Owns and Controls at least one state in Olenia that isn't claimed by the Changeling Lands."
 release_stableside_protectorate:0 "Release §YStableside Protectorate§! as a puppet."
-release_baltimare_protectorate:0 "§Y발티메어 보호령§!을 괴뢰국으로 해방."
-release_southern_protectorate:0 "§Y남부 보호령§! 을 괴뢰국으로 해방."
-release_confederate_protectorate:0 "§Y애플루시아 보호령§!을 괴뢰국으로 해방."
-release_olenia_protectorate:0 "§Y올레니아 보호령§!을 괴뢰국으로 해방."
+release_baltimare_protectorate:0 "§Y발티메어 보호령§!을 괴뢰국으로 해방합니다."
+release_southern_protectorate:0 "§Y남부 보호령§! 을 괴뢰국으로 해방합니다."
+release_confederate_protectorate:0 "§Y애플루시아 보호령§!을 괴뢰국으로 해방합니다."
+release_olenia_protectorate:0 "§Y올레니아 보호령§!을 괴뢰국으로 해방합니다."
 CHN_crystal_protectorate_decision:0 "크리스탈 보호령 개혁"
 CHN_cry_protectorate_decision_req_tt:0 "All §Y[CRY.GetAdjective]§! core states must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
 CHN_severyana_protectorate:0 "Form the Severyana Protectorate"
@@ -748,7 +748,7 @@ changelings.5.a:0 "사슴들은 자신의 피로 덮였건 아니건 우리에�
 
 changelings.6.t:0 "올레니아가 우리 힘에 굴복하다"
 changelings.6.d:0 "Queen Chrysalis scoffed as she read the response from [OLE.GetLeader] to her demands that the entire country submit to the might of the Changeling Hives. "It was that easy? Pathetic," she said, rolling her eyes and passing the response back to an aide to file away safely. "I guess the deer really are frightened prey. I suppose it's a good thing for them we'll be set to look out for them... so long as they give us the love we deserve." She giggled to herself and sat upright on her throne. "Well, fortunately for the deer, the Heer won't get to try out our new toys on them. Those, we'll save for Equestria. The Olenians can rest assured that they have the might of our armies to protect them from Equestrian influence. We will truly be the kindest and most benevolent guardians of the deer we could be, because if any of them say otherwise, they won't be around long enough to say much else." She rubbed her hooves together. "The first domino has fallen...""
-changelings.6.a:0 "이퀘스트리아 앞으로!"
+changelings.6.a:0 "이퀘스트리아로 전진하라!"
 
 changelings.7.t:0 "올레니아가 양보를 거절하다"
 changelings.7.d:0 ""The deer have rejected our kind offer to surrender, my Queen," Queen's Guard captain Dieter Heinrich said, tossing the Olenian response on the ground before Queen Chrysalis' throne. "And rather rudely, too. They used language I believe would be improper of me to use in your presence. But, it is just as you expected. The deer are too proud to realize when death is staring them in the face."\n\n"Good," Chrysalis said. "I've been waiting for the opportunity to try out our reorganized Heer. The deer have given me just the excuse to send in the tanks and crush those pathetic creatures beneath their treads. Mobilize the armies. They'll fall before us in moments, crushed under our superior might, and the Olenians will realize what a mistake it was to stand up to us... not that it will save them from what they deserve in the slightest.""
@@ -756,7 +756,7 @@ changelings.7.a:0 "They want to do this the hard way? I want to do it the hard w
 
 changelings.8.t:0 "올레니아 항복"
 changelings.8.d:0 ""Cowards, the lot of them," Hivesmarschall Trimmel said, shaking his head. "I barely started my tanks before the Olenians folded. My Panzers still have half-full tanks of gasoline. The Olenians must be issued white flags with their soldiery kits, because I've never seen so many fly so quickly. I almost shot at them out of frustration. Almost."\n\nQueen Chrysalis frowned down at her Hivesmarschall, though her ire was not for him. "Were they trying to call a bluff? Did [OLE.GetLeader] really not think we would dare to invade Olenia if they refused? How laughable." She shook her head and waved her hoof to dismiss Trimmel. "Very well, if they won't put up a fight, then we have nothing to gain by slaughtering them save for another enemy. The equipment and bugpower we saved from the Olenians surrendering would be best used against Equestria. They will be the real tough nut to crack, and so we must throw everything we have against them. That's where the real fight lies.""
-changelings.8.a:0 "올레니아... 무엇 때문에 가슴이 두근거리지? 사슴 몇 다스가 죽어서 그런가?"
+changelings.8.a:0 "올레니아... 무엇 때문에 가슴이 두근거리지? 고작 사슴 시체 몇십마리 때문에?"
 
 changelings.10.t:0 "War With [VAN.GetName]. "
 changelings.10.d:0 "A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favorable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The city of Vanhoover is one of Equestria's most important naval ports, and not only that, a significant population of changelings lives in and around the city. It's time that we welcome our brothers and sisters back into the fold with open forelegs, and while we're at it, seize the all-important Equestria dockyards in Luna Bay. Not only will these dockyards be put to better use producing ships for our navy, but it will widen the border against Equestria, giving us an opportunity to outflank the Equestrian left and crush their army before the war has even truly begun. We will need every advantage fighting the Equestrian beast, and picking off one of its strongest city-states will benefit us greatly."
@@ -768,11 +768,11 @@ changelings.11.a:0 "그들의 석유는 우리 것이다!"
 
 changelings.12.t:0 "War With [From.GetName]."
 changelings.12.d:0 ""A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favorable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The foolish [From.GetName] have split off from Equestria. The fractured state of our greatest enemy shall make them all the easier to conquer. Piece by piece we shall devour Equestria until there is nothing left to conquer. Divided they shall fall to our might!"
-changelings.12.a:0 "전쟁을 위해!"
+changelings.12.a:0 "전쟁이다!"
 
 changelings.14.t:0 "War With [STG.GetName]."
 changelings.14.d:0 "[STG.GetName] stands in the way of the ambitions of our Glorious Queen. Not only are they ponies that we must conquer, but they are the home of that disgusting ideology called Communism, which stands in direct opposition to the natural hierarchy of the hives and the changeling species. Letting this state fester in continued existence could only be a disaster. They must be crushed immediately, and we shall make them submit by any means necessary!"
-changelings.14.a:0 "전쟁을 위해!"
+changelings.14.a:0 "전쟁이다!"
 
 changelings.16.t:0 "이퀘스트리아의 스파이 활동"
 changelings.16.d:0 "Vaspier Orn Kladisium paced around his desk, a lit cigarette hanging from his lips. Held in his magic before him were several plain folders, which he opened and looked through one after the other. Early feelers from the first wave of infiltrators sent into the country had identified several weaknesses within the Equestrian state, ranging from things as simple as factory overseers to levels all the way up to the highest order of government. Though the Equestrians were wary of changeling infiltration owing to the world situation and the failed invasion of Canterlot in 1002, they had yet to close off any ways for VOPS to get a hoof inside of the nation. That would be their undoing.\n\nVaspier set the folders aside and pulled up his roster of agents on standby. The greatest strength of the changeling race was their ability to shapeshift into almost any form, but the average changeling had limits to that ability. Without training, a form could only be assumed for so long, and the impersonation could be imperfect. Those familiar with the individual being impersonated would soon sniff out the falsehood standing before them. But the infiltrators of the VOPS were the best of the best, each extensively trained to perfectly impersonate a target, relentlessly drilled for weeks on every detail and habit of their assumed likeness. These infiltrators, Vaspier would release en masse into Equestria. With perfectly placed spies throughout the Equestrian Army, the resulting chaos and confusion would soon make it impossible for them to resist the swarm.\n\nVaspier let his cigarette burn out, then squashed it in an ashtray. Soon, Equestria, just like that cigarette, would be snuffed out."
