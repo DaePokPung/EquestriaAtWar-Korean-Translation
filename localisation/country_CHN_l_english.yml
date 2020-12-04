@@ -577,7 +577,7 @@ CHN_reform_jak_protectorate:0 "야키스탄 보호령 개혁"
 
 CHN_puppet_changeling_administration:0 "체인질링의 관리"
 
-CHN_war_propaganda_decision:0 "War Propaganda against [From.GetName]"
+CHN_war_propaganda_decision:0 "[From.GetName] 에 대한 전시 선전"
 CHN_PLB_border_war:0 "곰 압박"
 CHN_PLB_border_war_timeout:0 "[PLB.GetName] 국경 분쟁"
 CHN_PLB_border_war_2:0 "키 호수지역 공략"
@@ -670,7 +670,7 @@ CHN_unity_desc:0 "체인질링들은 그들간 협력 수준만큼 강력합니�
  mimic:0 "Mimic"
  #lysander:0 "Lysander"# Identical duplicate from Eaw                       
  royalguardchn:0 "Golden Guard"
- chnindustrialist:0 "Silver Sheckels"
+ chnindustrialist:0 "은화"
  chnterror:0 "Greeneyed"
  #changeling_spies:0 "Changeling Spies"# Identical duplicate from Eaw
  #UPP:0 "UPC Congress"# Identical duplicate from Eaw
@@ -691,7 +691,7 @@ CHN_unity_desc:0 "체인질링들은 그들간 협력 수준만큼 강력합니�
  chnnavy2:0 "아이스칼텐신"
  chnnavy1:0 "NG 조선소"
  chntank1:0 "Aurelia 조병창"
- chntank2:0 "Carapace "
+ chntank2:0 "Carapace 차량"
  chntank3:0 "KLA 무기"
  chnequip1:0 "아이스칼텐신 포"
  chnequip2:0 "Nidhogg 산업"
@@ -739,15 +739,15 @@ changelings.2.a:0 "사슴들이 이 일에 어떻게 반응할지 지켜보아�
 changelings.3.t:0 "정복" ## Empty Event ##
 
 changelings.4.t:0 "주 양도"
-changelings.4.d:0 ""[OLE.GetLeader] truly is spineless," Chrysalis said, reading the response from Olenia with contempt. "Here I was spoiling for a good fight. And the deer fold like a house of cards. Pathetic!"\n\n"It appears reason won out in the end," Hivesmarschall Trimmel stated, bowing his head as Chrysalis fumed that she wouldn't have her fight anymore. "Still, we can call this a victory. There will be further opportunities to subjugate the deer. I'm sure the right one will surface before long."\n\n"It better," Chrysalis said. "If I settle for only taking two states off of the deer, I'm just a bit player. But if I take all of Olenia..." she rubbed her hooves together and giggled. "The deer may have bought themselves some time, but they will be my first conquest, one way or another. Soon they will submit or they will die, and I don't particularly care which one they choose.""
+changelings.4.d:0 ""[OLE.GetLeader] 는 정말로 줏대가 없군," 크리살리스가 경멸하며 올레니아의 답장을 읽고 말했습니다. "Here I was spoiling for a good fight. And the deer fold like a house of cards. Pathetic!"\n\n"It appears reason won out in the end," Hivesmarschall Trimmel stated, bowing his head as Chrysalis fumed that she wouldn't have her fight anymore. "Still, we can call this a victory. There will be further opportunities to subjugate the deer. I'm sure the right one will surface before long."\n\n"It better," Chrysalis said. "If I settle for only taking two states off of the deer, I'm just a bit player. But if I take all of Olenia..." she rubbed her hooves together and giggled. "The deer may have bought themselves some time, but they will be my first conquest, one way or another. Soon they will submit or they will die, and I don't particularly care which one they choose.""
 changelings.4.a:0 "지금은 이것으로 충분하다... 하지만 우리를 영원히 만족시킬 순 없을 것이다."
 
 changelings.5.t:0 "[From.GetName] 우리의 요구를 거부하다!"
-changelings.5.d:0 "Hivesmarschall Trimmel read the response of [OLE.GetLeader] with a pleased smile on his face. "Your demands that we cede Solgud Bergskedja and Feer Dalar are utterly preposterous. These lands were given to the deer by the treaty established by King Aldar II, in case you have forgotten. We will not give them back to you just because you demand them. Olenia does not cower before bullies." Trimmel tossed the response aside and shifted his attention toward Queen Chrysalis. "So, my Queen? What do you think?"\n\n"I think it's the excuse we've wanted," Chrysalis said, rubbing her hooves together. "If the deer think that firm words will be all it takes to save them, they will be disappointed. One way or another, they will fall, and I can't wait to see the look on [OLE.GetLeader]'s face when it all comes crashing down on their pathetic excuse for a nation.""
+changelings.5.d:0 "Hivesmarschall Trimmel 은 기쁜 미소를 지으며 [OLE.GetLeader] 의 답장을 읽었습니다. "우리가 Solgud Bergskedja 와 Feer Dalar 를 달라는 당신들의 요구는 너무 터무니 없습니다. 혹시 잊었을지는 모르겠지만, 이 영토는 Aldar II 왕께서 체결하신 조약에 의해 사슴들이 가지게 된 영토입니다. 당신들이 요구한다고 해서 돌려주지 않을 것입니다. 올레니아는 공격당하기 전에 공포에 떨지 않습니다." Trimmel 은 답장을 던져두고 크리살리스 여왕 쪽으로 시선을 옮겼습니다. "그래서, 여왕님? 어떻게 생각하십니까?"\n\n"우리가 바라던 변명이야," 크리살리스가 발굽을 비비며 말했다. "만약 사슴들이 확고한 말뿐으로도 자신들을 구할 수 있다고 생각한다면, 그들은 곧 실망하게 될 거야. 어떻게 되던 간에 그들은 망할 것이고, 국가를 위한 한심한 변명에 모든것이 무너졌을때 [OLE.GetLeader]의 얼굴이 보고 싶어 못 참겠군.""
 changelings.5.a:0 "사슴들은 자신의 피로 덮였건 아니건 우리에게 무릅꿇을 것이다."
 
 changelings.6.t:0 "올레니아가 우리 힘에 굴복하다"
-changelings.6.d:0 "Queen Chrysalis scoffed as she read the response from [OLE.GetLeader] to her demands that the entire country submit to the might of the Changeling Hives. "It was that easy? Pathetic," she said, rolling her eyes and passing the response back to an aide to file away safely. "I guess the deer really are frightened prey. I suppose it's a good thing for them we'll be set to look out for them... so long as they give us the love we deserve." She giggled to herself and sat upright on her throne. "Well, fortunately for the deer, the Heer won't get to try out our new toys on them. Those, we'll save for Equestria. The Olenians can rest assured that they have the might of our armies to protect them from Equestrian influence. We will truly be the kindest and most benevolent guardians of the deer we could be, because if any of them say otherwise, they won't be around long enough to say much else." She rubbed her hooves together. "The first domino has fallen...""
+changelings.6.d:0 "나라 전체가 체인질링 군락의 힘에 복종하라는 그녀의 요구를 받아들인다는[OLE.GetLeader]의 답장에 크리살리스 여왕은 비웃었습니다. "이렇게 쉽게? 한심하군,"눈을 굴리고 답장 내용을 보좌관에게 안전하게 보관하라고 하면서 그녀가 말했습니다. "사슴은 정말 겁에 질린 먹잇감인 것 같군. 우리가 그들을 돌볼 준비가 되어 있는 것은 그들에게 좋은 일이지... 그들이 우리에게 그에 마땅한 사랑을 준다면 말이야." 그녀는 혼자 낄낄거리며 왕좌에 똑바로 앉았다. "음, 사슴들에게는 다행이겠지만, 육군은 우리의 새로운 장난감에게 시험을 해 보지는 못하겠군. 저것들은, 이퀘스트리아를 위해 모을 것이고 올레니아인들은 이퀘스트리아의 영향력으로부터 보호할 동맹군이 있어 안심할 것이다. 우리는 정말로 우리가 될 수 있는 가장 친절하고 자애로운 사슴들의 수호자가 되겠지, 만약 그들 중 누군가가 그렇지 않다고 말한다면, 그들은 다른 말들을 할 만큼 오래 말하지 못할 거니까." 그녀는 발굽을 비비며 말했다. "첫 번째 도미노가 무너졌다...""
 changelings.6.a:0 "이퀘스트리아로 전진하라!"
 
 changelings.7.t:0 "올레니아가 양보를 거절하다"
@@ -758,19 +758,19 @@ changelings.8.t:0 "올레니아 항복"
 changelings.8.d:0 ""Cowards, the lot of them," Hivesmarschall Trimmel said, shaking his head. "I barely started my tanks before the Olenians folded. My Panzers still have half-full tanks of gasoline. The Olenians must be issued white flags with their soldiery kits, because I've never seen so many fly so quickly. I almost shot at them out of frustration. Almost."\n\nQueen Chrysalis frowned down at her Hivesmarschall, though her ire was not for him. "Were they trying to call a bluff? Did [OLE.GetLeader] really not think we would dare to invade Olenia if they refused? How laughable." She shook her head and waved her hoof to dismiss Trimmel. "Very well, if they won't put up a fight, then we have nothing to gain by slaughtering them save for another enemy. The equipment and bugpower we saved from the Olenians surrendering would be best used against Equestria. They will be the real tough nut to crack, and so we must throw everything we have against them. That's where the real fight lies.""
 changelings.8.a:0 "올레니아... 무엇 때문에 가슴이 두근거리지? 고작 사슴 시체 몇십마리 때문에?"
 
-changelings.10.t:0 "War With [VAN.GetName]. "
+changelings.10.t:0 "[VAN.GetName]와의 전쟁. "
 changelings.10.d:0 "A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favorable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The city of Vanhoover is one of Equestria's most important naval ports, and not only that, a significant population of changelings lives in and around the city. It's time that we welcome our brothers and sisters back into the fold with open forelegs, and while we're at it, seize the all-important Equestria dockyards in Luna Bay. Not only will these dockyards be put to better use producing ships for our navy, but it will widen the border against Equestria, giving us an opportunity to outflank the Equestrian left and crush their army before the war has even truly begun. We will need every advantage fighting the Equestrian beast, and picking off one of its strongest city-states will benefit us greatly."
 changelings.10.a:0 "Vanhoover will fall, and that'll really give Equestria something to worry about."
 
-changelings.11.t:0 "War With [SCS.GetName]."
+changelings.11.t:0 "[SCS.GetName]와의 전쟁."
 changelings.11.d:0 ""A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favorable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The foolish [SCS.GetName] have split off from Equestria. Their supplies of crude oil have made them powerful in their own right, but only a valuable prize for us. Seizing their oil supplies will allow us to run our Panzers for longer than we otherwise could have.  We must take control of this oil and grant our army the freedom to drive as far as it can. Yet another piece of Equestria is ready to fall into our hooves!"
 changelings.11.a:0 "그들의 석유는 우리 것이다!"
 
-changelings.12.t:0 "War With [From.GetName]."
+changelings.12.t:0 "[From.GetName]와의 전쟁."
 changelings.12.d:0 ""A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favorable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The foolish [From.GetName] have split off from Equestria. The fractured state of our greatest enemy shall make them all the easier to conquer. Piece by piece we shall devour Equestria until there is nothing left to conquer. Divided they shall fall to our might!"
 changelings.12.a:0 "전쟁이다!"
 
-changelings.14.t:0 "War With [STG.GetName]."
+changelings.14.t:0 "[STG.GetName]와의 전쟁."
 changelings.14.d:0 "[STG.GetName] stands in the way of the ambitions of our Glorious Queen. Not only are they ponies that we must conquer, but they are the home of that disgusting ideology called Communism, which stands in direct opposition to the natural hierarchy of the hives and the changeling species. Letting this state fester in continued existence could only be a disaster. They must be crushed immediately, and we shall make them submit by any means necessary!"
 changelings.14.a:0 "전쟁이다!"
 
@@ -824,20 +824,20 @@ changelings.35.a:0 "..."
 changelings.900.t:0 "우리, 곰들은, 패배했다"
 changelings.900.d:0 "불가능해! 체인질링들이 이제 우리 어머니의 땅을 지배한다니!"
 changelings.900.a:0 "안돼!"
-changelings.901.t:0 "Penguin life has come to an end"
+changelings.901.t:0 "펭귄의 삶이 끝나다"
 changelings.901.d:0 "The Changelings have taken over the land of ours!"
-changelings.901.a:0 "No!"
-changelings.902.t:0 "Nova Griffonia has fallen"
-changelings.902.d:0 "Nova Griffonia is no more as it was just a year ago. Unforeseen threat has come from the west. We have to retreat to our old homeland!"
-changelings.902.a:0 "Oh no!"
+changelings.901.a:0 "안돼!"
+changelings.902.t:0 "노바 그리포니아의 멸망"
+changelings.902.d:0 "노바 그리포니아는 1년 전처럼 강하지 않았습니다. 예상치 못한 위협이 서쪽에서 왔습니다. 우리는 옛 고국으로 후퇴해야 합니다!"
+changelings.902.a:0 "오 안돼!"
 changelings.903.t:0 "Our Town is not ours anymore :c"
 changelings.903.d:0 "절대 체인질링을 믿지 마라!"
-changelings.903.a:0 "Hell!"
+changelings.903.a:0 "빌어먹을!"
 changelings.905.t:0 "드래곤 보호령"
 #changelings.905.t:0 "With our new Changeling overlords, we have been forced to change our name."#Different duplicate from Eaw
-#changelings.905.t:0 "Damn."#Different duplicate from Eaw
+#changelings.905.t:0 "제길."#Different duplicate from Eaw
 changelings.910.t:0 "막아내다!"
-changelings.910.d:0 "Never again will we bear changeling rule over our lands!"
+changelings.910.d:0 "두 번 다시 우리땅에서의 체인질링의 지배를 받지 않을 것이다!"
 changelings.910.a:0 "우리는 다시 돌아온다!"
 
 changelings.36.t:0 "디트리시움 해군 주력"
@@ -872,9 +872,9 @@ CHN_demand_remilitarization_desc:0 "With Equestria currently engaged in war an o
 
 #CHN-GRI Stuff
 CHN_GRI_Attache_For_GRI:0 "체인질링-그리포니아 주재무관"
-CHN_GRI_Attache_For_GRI_desc:0 "그리포니아 제국에 체인질링 무관이 있습니다. 그들의 설계는 대체로 제국의 전차의 품질을 향상시킵니다. 덕분에, 이 설계는 제국 전역에 걸쳐 많이 유용하게 사용되고 있으며 체인질링에게 그 설계에 대한 피드백을 주고 있으며, 이것은 양국에게 모두 이익입니다"
+CHN_GRI_Attache_For_GRI_desc:0 "그리포니아 제국에 체인질링 무관이 있습니다. 그들의 설계는 대체로 제국의 전차의 품질을 향상시킵니다. 덕분에, 이 설계는 제국 전역에 걸쳐 많이 유용하게 사용되고 있고 체인질링에게 그 설계에 대한 피드백을 주고 있으며, 이것은 양국에게 모두 이익입니다"
 CHN_GRI_Attache_For_CHN:0 "체인질링-그리포니아 주재무관"
-CHN_GRI_Attache_For_CHN_desc:0 "체인질링 제국에 그리포니아 무관이 있습니다. 그들의 설계는 대체로 제국의 전차의 품질을 향상시킵니다. 덕분에, 이 설계는 제국 전역에 걸쳐 많이 유용하게 사용되고 있으며 체인질링에게 그 설계에 대한 피드백을 주고 있으며, 이것은 양국에게 모두 이익입니다"
+CHN_GRI_Attache_For_CHN_desc:0 "체인질링 제국에 그리포니아 무관이 있습니다. 그들의 설계는 대체로 제국의 전차의 품질을 향상시킵니다. 덕분에, 이 설계는 제국 전역에 걸쳐 많이 유용하게 사용되고 있고 체인질링에게 그 설계에 대한 피드백을 주고 있으며, 이것은 양국에게 모두 이익입니다"
 
 CHN_Attache:0 "체인질링-그리포니아 주재무관"
 CHN_Cancel_Attache:0 "주재무관 송환"
@@ -917,7 +917,7 @@ changelingattache.7.t:0 "The Firing Squad"
 changelingattache.7.d:0 "Today, just as the sun began to rise, General Thranx arrived at Vesalipolis. In chains, naturally. He was escorted through the grand hive, taunted and insulted by many of the other changelings along the way. When he was brought to the Queen, the disgust on her face sealed the fate of the young General. No less than 20 minutes after his arrival at Vesalipolis, he was blindfolded, and Field Marshal Trimmel himself commanded the firing squad. A loud bang echoed throughout the hive, and Thranx was no more."
 changelingattache.7.a:0 "Serves him right."
 
-changelingattache.8.t:0 "그리포니아의 응답"
+changelingattache.8.t:0 "그리포니아의 "
 changelingattache.8.d:0 "To our great shock, the imperial nobility, including [GRI.GetLeader], have declined our demand to return General Thranx to us. This is unbelievable, and will not go unpunished!\nHowever, first we must let the Queen know of this..."
 changelingattache.8.a:0 "The queen will be most displeased..."
 
