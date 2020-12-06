@@ -552,7 +552,7 @@ CHN_force_ponies_to_repair_desc:0 "침공이 진행됨에 따라 이퀘스트리
 CHN_war_time_actions:0 "전시 행동"
 CHN_stop_war_plan:0 "계속 전쟁 계획 중단"
 CHN_protectorates:0 "국가보호령 계획"
-CHN_protectorates_desc:0 "에쿠스 전역의 포니들와 사슴들의 대한 전체적인 승리로, 우리가 정복한 광대한 영토에 대해 우리의 지배를 공고히 해야 할 필요성이 점점 대두되고 있습니다. 포니들은 우리에 대한 저항을 멈출 것 같지 않고, 포니들은 사랑을 빼앗고 천연자원을 착취하려는 증오스러운 외국 점령군을 좋아하지 않을 것입니다.\n\n따라서, 현재의 임시 군사 점령지를 대체하기 위해 몇 개의 자율적인§Y보호국들§!을 세우는 것이 가장 적합할 것입니다. 군대가 지나치게 확장됨에 따라서, 이 명목상 민간정부들은 이번에는 체인질링 이념 아래 법과 질서를 되찾아야 합니다. §R커진§!문제가 수면 위로 올라오기 전에 이러한 조취를 하는 것이 가장 좋을 것입니다. [CHN.GetLeader] 께서는 수세기 동안 체인질링 민족의 패권과 지배권을 유지하려고 하시며, 우리는 패권을 위한 최후의 투쟁에서 승리하고 나서도 흔들리지 않을 것 입니다."
+CHN_protectorates_desc:0 "에쿠스 전역의 포니들와 사슴들의 대한 전체적인 승리로, 우리가 정복한 광대한 영토에 대해 우리의 지배를 공고히 해야 할 필요성이 점점 대두되고 있습니다. 포니들은 우리에 대한 저항을 멈출 것 같지 않고, 포니들은 사랑을 빼앗고 천연자원을 착취하려는 증오스러운 외국 점령군을 좋아하지 않을 것입니다.\n\n따라서, 현재의 임시 군사 점령지를 대체하기 위해 몇 개의 자율적인§Y보호국들§!을 세우는 것이 가장 적합할 것입니다. 군대가 지나치게 확장됨에 따라서, 이 명목상 민간정부들은 이번에는 체인질링 이념 아래 법과 질서를 되찾아야 합니다. §R커진§!문제가 수면 위로 올라오기 전에 이러한 조취를 취하는것이 가장 좋을 것입니다. [CHN.GetLeader] 께서는 수세기 동안 체인질링 민족의 패권과 지배권을 유지하려고 하시며, 우리는 패권을 위한 최후의 투쟁에서 승리하고 나서도 흔들리지 않을 것 입니다."
 CHN_manehattan_protectorate:0 "메인해튼 보호령"
 CHN_baltimare_protectorate:0 "발티메어 보호령"
 CHN_pony_protectorate:0 "포니 보호령"
@@ -562,7 +562,7 @@ CHN_northern_protectorate:0 "북부 보호령"
 controls_baltimare_region_tt:0 "이퀘스트리아 남동부에서 적어도 한 개 이상의 주를 소유하고 지배함"
 controls_manehattan_region_tt:0 "이퀘스트리아 동부 해안에서 적어도 한 개 이상의 주를 소유하고 지배함."
 controls_confederates_tt:0 "이퀘스트리아 남부에서 적어도 한 개 이상의 주를 소유하고 지배함."
-controls_olenia_tt:0 "적어도 체인질링 랜드가 영유권을 주장하지 않은 한 개 이상의 주를 소유하고 지배함."
+controls_olenia_tt:0 "적어도 체인질링 랜드가 영유권을 주장하지 않은 한 개 이상의 올레니아의 주를 소유하고 지배함."
 release_stableside_protectorate:0 "Release §YStableside Protectorate§! as a puppet."
 release_baltimare_protectorate:0 "§Y발티메어 보호령§!을 괴뢰국으로 해방합니다."
 release_southern_protectorate:0 "§Y남부 보호령§! 을 괴뢰국으로 해방합니다."
@@ -677,12 +677,12 @@ CHN_unity_desc:0 "체인질링들은 그들간 협력 수준만큼 강력합니�
  #CLF:0 "CLF Militia"# Identical duplicate from Eaw
  #internal_disputes:0 "Internal Disputes"# Identical duplicate from Eaw
  #blackarmy:0 "Black-Army"# Identical duplicate from Eaw
- #covert_agents:0 "Spy Network"# Identical duplicate from Eaw
+ #covert_agents:0 "첩보망"# Identical duplicate from Eaw
  #evil_guy:0 "Dedicated General"# Identical duplicate from Eaw
  #royalguardchn:0 "Golden Guard"# Identical duplicate from Eaw
- #chnindustrialist:0 "Silver Sheckels"# Identical duplicate from Eaw
+ #chnindustrialist:0 "은화"# Identical duplicate from Eaw
  #chnterror:0 "Greeneyed"# Identical duplicate from Eaw
- #changeling_spies:0 "Changeling Spies"# Identical duplicate from Eaw
+ #changeling_spies:0 "체인질링 스파이들"# Identical duplicate from Eaw
  chnairm1:0 "KLA Bureau"
  chnairm2:0 "Fagus Vraksis Aeronautics"
  chnairm3:0 "United Wing Association"
@@ -856,7 +856,7 @@ changelings.39.a:0 "그들은 우리에게 감사해야 한다!"
 
 changelings.40.t:0 "체인질링이 재무장을 요청하다"
 changelings.40.d:0 "With the ongoing war Canterlot has received a request from King Thorax to remilitarise [From.GetNameDef]. In the letter he claims that the Changelings and all other creatures living in the northern land could be a great asset to Equestria in their war if they were finally given an independent military organization again. The letter was met by mixed feelings by the general staff. Some claim that giving the Changelings their own command is just asking for the horrors of the Great War to repeat themselves, but this time on a second front. Others say that the general staff is already overworked managing all of Equestria's divisions, armies, army groups, and theaters, and that [From.GetNameDef] taking over some of the load would be a good help."
-changelings.40.a:0 "그런 생각을 하기에는 아직 지난 저냉이 끝난지 얼마 안 되었다."
+changelings.40.a:0 "그런 생각을 하기에는 아직 지난 전쟁이 끝난지 얼마 안 되었다."
 changelings.40.b:0 "체인질링이 다시 한번 정점에 설 때다."
 
 changelings.41.t:0 "재무장 계획을 거절한 이퀘스트리아인"
@@ -881,37 +881,37 @@ CHN_Cancel_Attache:0 "주재무관 송환"
 
 CHN_GRI_Hiding_The_Coward:0 "Sheltered our traitor"
 CHN_GRI_Queen_Swears_Vengance:0 "The Queen swore vengance"
-CHN_GRI_Party:0 "이별 파티를 열다"
+CHN_GRI_Party:0 "작별 파티를 열다"
 
 changelingattache.1.t:0 "크리살리스가 주재무관을 송환하다"
 changelingattache.1.d:0 "'Because of internal matters within the Changeling Lands the scientists, soldiers, advisors, and all related personnel of the Changeling-Griffonian Expeditionary Mission are hereby ordered to return home at once by the decree of Queen Chrysalis.'\nThe message is simple, written in a taciturn dialect of the language the two distant nations share, yet profound in its meaning. For years the changelings assisting the Imperial Army and attached research divisions have become a staple of life for those in the upper echelons of the command hierarchy, and now it is time for them to leave. The mood is unsurprisingly somber when the message is read aloud, both for what leaving means and for what awaits the changelings in their homeland.\nSynovial, senior military commander of the mission, seems relieved at the news, as if a great weight had been lifted off his wings. His compatriot, Thranx, seems to have had the opposite reaction, falling into a depressive stupor that in turn lowers the mood of all those near him. The differing reactions have prompted one of the Imperial commanders who worked with the CGEM to voice the idea that they should throw a party for all the members of the mission to wish them fond farewells, for it would seem to be kind to let their last memories of the Griffonian Empire be happy ones."
 changelingattache.1.a:0 "Let's not make a fuss about this and send them off with stoicism."
 changelingattache.1.b:0 "A farewell party sounds like just the thing!"
 
-changelingattache.2.t:0 "A Farewell Party to Remember"
-changelingattache.2.d:0 "The night is young when the changeling members of the Changeling-Griffonian Expeditionary Mission arrive at the Imperial Palace in Griffenheim for their grand farewell party. There are hundreds of them, and hundreds more griffons that seek to attend the party as well. Luckily for all those involved, when the capital was first moved from Griffonstone to Griffenheim the designers of the new Imperial Palace's grand ballroom had capacity first in mind.\n\nThe party ends up lasting well into the early dawn hours, with many an event to be seen. Scientists exchanged last minute notes while reminiscing about strange discoveries. A noblegriff actually managed to impersonate a changeling colonel, and soldiers of both species broke out into song over large flaggons of beer. Fun was had by all, and somecreature was even able to get Thranx to smile again.\n\nDuring the party though it seems that [GRI.GetLeader] overheard Imperial Army soldiers wishing their Changeling friends that they could help them out or even fight alongside them in whatever struggle awaited them back home. This would lead to a review of supplies and troop strength in the morrow. Theoretically, the proposal could be done, but it also could just be written off as an alcohol-induced hallucination.\n\nIn any case, this night will long be remembered as the rowdiest party in memory, and a true bright spot on the record of Imperial affairs."
+changelingattache.2.t:0 "기억해야 할 작별 파티"
+changelingattache.2.d:0 "체인질링-그리포니아 원정대의 체인질링 대원들이 성대한 작별 파티를 열기 위해 그리펜하임의 제국 궁전에 밤 일찍 도착했습니다. 수백명이 있었고, 파티에 참석하려는 그리폰도 수백명 더 있습니다. 운 좋게도, 수도가 그리폰스톤에서 그리펜하임으로 처음 옮겨졌을 때 새로운 제국 궁전의 무도회장 디자이너들은 먼저 수용력을 염두에 두었습니다.\n\n파티는 이른 새벽까지 계속되어서 많은 행사를 볼 수 있었습니다. 과학자들은 이상한 발견을 했던 때를 회고하면서 마지막까지 이야기을 나눴습니다. 한 그리폰 귀족이 체인질링 대령 흉내를 내는데 성공했고, 체인질링과 그리폰 병사들은 커다란 맥주 플라곤 병 위에서 노래를 부르기 시작했습니다. Fun was had by all, and somecreature was even able to get Thranx to smile again.\n\nDuring the party though it seems that [GRI.GetLeader] overheard Imperial Army soldiers wishing their Changeling friends that they could help them out or even fight alongside them in whatever struggle awaited them back home. This would lead to a review of supplies and troop strength in the morrow. Theoretically, the proposal could be done, but it also could just be written off as an alcohol-induced hallucination.\n\nIn any case, this night will long be remembered as the rowdiest party in memory, and a true bright spot on the record of Imperial affairs."
 changelingattache.2.a:0 "We wish our friends well in their journey home."
 changelingattache.2.b:0 "When they go back they should take a thousand or five tons of supplies."
 
-changelingattache.3.t:0 "A Farewell Party to Remember"
-changelingattache.3.d:0 "The night is young when the changeling members of the Changeling-Griffonian Expeditionary Mission arrive at the Imperial Palace in Griffenheim for their grand farewell party. There are hundreds of them, and hundreds more griffons that seek to attend the party as well. Luckily for all those involved, when the capital was first moved from Griffonstone to Griffenheim the designers of the new Imperial Palace's grand ballroom had capacity first in mind.\n\nThe party ends up lasting well into the early dawn hours, with many an event to be seen. Scientists exchanged last minute notes while reminiscing about strange discoveries, a noblegriff actually managed to impersonate a changeling colonel, and soldiers of both species broke out into song over large flaggons of beer. Fun was had by all, and somecreature was even able to get Thranx to smile again.\n\nDuring the party though it seems that [GRI.GetLeader] overheard Imperial Army soldiers wishing their Changeling friends that they could help them out or even fight alongside them in whatever struggle awaited them back home. This would lead to a review of supplies and troop strength in the morrow. Theoretically, the proposal could be done, but it also could just be written off as an alcohol-induced hallucination.\n\nIn any case, this night will long be remembered as the rowdiest party in memory, and a true bright spot on the record of Imperial affairs."
+changelingattache.3.t:0 "기억해야 할 작별 파티"
+changelingattache.3.d:0 "체인질링-그리포니아 원정대의 체인질링 대원들이 성대한 작별 파티를 열기 위해 그리펜하임의 제국 궁전에 밤 일찍 도착했습니다. 수백명이 있었고, 파티에 참석하려는 그리폰도 수백명 더 있습니다. 운 좋게도, 수도가 그리폰스톤에서 그리펜하임으로 처음 옮겨졌을 때 새로운 제국 궁전의 무도회장 디자이너들은 먼저 수용력을 염두에 두었습니다.\n\n파티는 이른 새벽까지 계속되어서 많은 행사를 볼 수 있었습니다. 과학자들은 이상한 발견을 했던 때를 회고하면서 마지막까지 이야기을 나눴습니다. 한 그리폰 귀족이 체인질링 대령 흉내를 내는데 성공했고, 체인질링과 그리폰 병사들은 커다란 맥주 플라곤 병 위에서 노래를 부르기 시작했습니다. Fun was had by all, and somecreature was even able to get Thranx to smile again.\n\nDuring the party though it seems that [GRI.GetLeader] overheard Imperial Army soldiers wishing their Changeling friends that they could help them out or even fight alongside them in whatever struggle awaited them back home. This would lead to a review of supplies and troop strength in the morrow. Theoretically, the proposal could be done, but it also could just be written off as an alcohol-induced hallucination.\n\nIn any case, this night will long be remembered as the rowdiest party in memory, and a true bright spot on the record of Imperial affairs."
 changelingattache.3.a:0 "We wish our friends well in their journey home."
 changelingattache.3.b:0 "When they go back they should take a thousand or five tons of supplies."
 changelingattache.3.c:0 "Friends don't let friends fight alone! We'll send who we can back with them!"
 
-changelingattache.4.t:0 "A Plea for Asylum"
+changelingattache.4.t:0 "망명 요청"
 changelingattache.4.d:0 "Following the ordered return of the Changeling military mission back to Vesalipolis, General Thranx has now approached none other than [GRI.GetLeader], begging them to let him stay in the Empire.\nThey were immediately caught within the crossfire of other nobles and advisors. Some argued for, some against this plead for asylum. At the end, however, the choice was entirely up to the ruling griffon themselves.\nAs Thranx broke down in tears before them, a choice had to be made."
 changelingattache.4.a:0 "We will not abandon our friends!"
 changelingattache.4.b:0 "He must do as his Queen commands."
 
-changelingattache.5.t:0 "Traitor General"
-changelingattache.5.d:0 "Your majesty, we have bad news coming from the Griffonian Empire.\nIt appears that one of our military commanders who was part of the Expeditionary Mission, General Thranx, has refused to heed your wise and reasonable order to return home! Instead, he has broken down in tears like the weakling he is and asked [GRI.GetLeader] for political asylum. And they accepted!\nMy Queen, this is outrageous. We must see this traitor punished!"
-changelingattache.5.a:0 "I demand they return him to us at once!"
+changelingattache.5.t:0 "반역자 장군"
+changelingattache.5.d:0 "페하, 그리포니아 제국으로부터 나쁜 소식이 왔습니다.\n원정 임무의 일원이였던 토랙스 장군이 고국으로 귀환하라는 현명하고 합리적인 명령을 따르기를 거부했습니다! 대신에, 그는 약자처럼 눈물을 흘리며 [GRI.GetLeader]에게 정치적 망명을 요청했습니다. 그리고 그들은 받아들였습니다!\n여왕님, 이건 말도 안 됍니다. 우리는 이 반역자가 처벌받는 것을 보아야 합니다!"
+changelingattache.5.a:0 "나는 즉시 그를  우리에게 돌려보내 줄 것을 요구한다!"
 
-changelingattache.6.t:0 "Chrysalis Demands Thranx to be Returned Home"
-changelingattache.6.d:0 "Queen Chrysalis of the changelings has issued a very vocal diplomatic protest on our decision to shelter General Thranx within the Empire. She now calls for us to return him home at once, so that she, as his rightful Queen, can deal with him and his treacherous dealings, accordingly.\nThranx has proven to be a good, valuable friend to us, and he appreciates our help and support. But... is he worth the trouble we risk in continuing to shelter him?"
-changelingattache.6.a:0 "Never! He will stay!"
-changelingattache.6.b:0 "We mustn't risk trouble with the Queen."
+changelingattache.6.t:0 "크리살리스가 토랙스를 고국으로 돌려보내라고 요구하다"
+changelingattache.6.d:0 "크리살리스 여왕이 토랙스 장군을 피신시키기로 한 제국의 결정에 매우 강력한 외교적 항의를 표명했습니다. 그녀는 그를 즉시 고국으로 돌려보내 줄 것을 요구했고, 그의 정당한 여왕으로서 그와 그의 배신적인 거래를 처리할 수 있도록 요청했습니다.\n토랙스는 우리에게 좋고 소중한 친구임을 입증했으며, 그는 우리의 도움과 지원에 고마워합니다. 하지만... 그를 계속 보호하는데 위험을 감수할 만한 가치가 있을까요?"
+changelingattache.6.a:0 "절대로 안 된다! 그는 재고할 것이다!"
+changelingattache.6.b:0 "여왕과 문제가 생길 위험을 감수할 순 없다."
 
 changelingattache.7.t:0 "The Firing Squad"
 changelingattache.7.d:0 "Today, just as the sun began to rise, General Thranx arrived at Vesalipolis. In chains, naturally. He was escorted through the grand hive, taunted and insulted by many of the other changelings along the way. When he was brought to the Queen, the disgust on her face sealed the fate of the young General. No less than 20 minutes after his arrival at Vesalipolis, he was blindfolded, and Field Marshal Trimmel himself commanded the firing squad. A loud bang echoed throughout the hive, and Thranx was no more."
@@ -970,8 +970,8 @@ changelings.45.t_resources_land:0 "철과 영토를 요구하는 체인질링"
 changelings.45.d_resources_land:0 "[Root.GetLeader] has been approached by an envoy from the Changelings, claiming to be dispatched by Chrysalis herself. The drone laid out Chrysalis's demands: They want iron and land, specifically around the Key Lake area, and in exchange, they will offer protection to us."
 changelings.45.t_gold_land:0 "금과 영토를 요구하는 체인질링"
 changelings.45.d_gold_land:0 "[Root.GetLeader] has been approached by an envoy from the Changelings, claiming to be dispatched by Chrysalis herself. The drone laid out Chrysalis's demands: They want a large sum of our gold AND, they want some of our land, specifically around the Key Lake area, and in exchange, they will offer protection to us."
-changelings.45.a:0 "That's outrageous! Prepare the bears!"
-changelings.45.b:0 "We can provide."
+changelings.45.a:0 "그건 말도 안 돼! 곰들을 준비시켜라!"
+changelings.45.b:0 "우리는 제공해 줄 수 있다."
 changelings.46.t_deal:0 "우리의 요구를 받아들인 북극곰."
 changelings.46.d_deal:0 "Our envoys recently undertook the perilous journey into the frigid arctic lands to negotiate directly with [PLB.GetLeader] and present our demands. Though treking through the frigid wastes would normally be a dangerous mission, the bears made sure that our envoys made it to the ursine capital without too much difficulty, clearly understanding that any harm that befell our envoys on their trip could be used as a pretext for war. When our envoys finally made it to the capital of the polar lands, they quickly laid out our demands and made it clear that we would not take no for an answer. It did not take all that long before [PLB.GetLeader] reluctantly agreed to our demands, and drafted up terms of the treaty with our ambassadors to return to Queen Chrysalis for review. Once we sign the treaty, we will have gotten what we wanted, and the bears will be placed under our protection."
 changelings.46.t_no_deal:0 "우리의 요구를 받아들이지 않겠다고 한 북극곰"
@@ -994,7 +994,7 @@ changelings.47.a:0 "Worrying."
 changelings.47.b:0 "Great."
 
 changelings.48.t:0 "성공적인 공격!"
-changelings.48.d:0 "Our limited engagement with the polar bear forces along the border has resulted in a decisive victory for our troops. The bears put up a stiff resistance at first, but as the artillery thundered and our troops swarmed into their lines, their lines of defense swiftly collapsed, allowing us to take full control of the area. We are now consolidating our gains and awaiting further development of the situation."
+changelings.48.d:0 "국경에서의 북극곰군들과의 제한된 교전을 우리에게 결정적인 승리를 가져왔습니다. 곰들은 처음에는 완강히 저항하였으나, 대포가 굉음을 내고 우리의 군대가 전선으로 몰려들자 그들의 방어선이 순식간에 무녀져 우리가 이 지역을 완전히 장악하게 되었습니다. 우리는 얻은 영토를 합병하고 상황이 더 좋아지기를 기다리고 있습니다."
 changelings.48.a:0 "완벽해."
 
 changelings.49.t:0 "격퇴된 공격"
@@ -1032,8 +1032,8 @@ changelings.55.t:0 "곰의 저항!"
 changelings.55.d:0 "Impossibly, it appears that direct force will not work against the bears on their home turf. The terrain is too favorable for the defenders, and they know it well, thwarting our obviously superior army and forces. However, we are changelings, and we have more than direct force available. If we cannot take them in open war, then we shall wreak havoc on their nation from within with a veritable army of infiltrators. Soon, they shall be unable to trust each other, and the chaos we can impart on their small and weak nation with just a small amount of infiltrators shall mean further resistance will prove impossible."
 changelings.55.a:0 "침투 부대를 보내라."
 
-changelings.56.t:0 "우리 영토에 들어온 체인질링 침투 부대"
-changelings.56.d:0 "Changelings have infilitrated our nation in response to our resistance! They are interfering with our nation, causing chaos and panic across our nation. Nobody knows who they can trust, and even the mere suggestion that somebody may be an infiltrator is enough to have their friends and even family turn against them. With our nation in this much chaos, how much longer can we hope to resist the hives?"
+changelings.56.t:0 "우리 영토에 들어온 체인질링 침투 부대!"
+changelings.56.d:0 "체인질링들은 우리의 저항의 대비하여 침투 부대를 보냈습니다! 그들은 우리 나라를 방해하고, 나라 전체에 혼란과 공황을 일으키고 있습니다. 아무도 믿을 수 없고, 누군가 침투자일지도 모른다는 단순한 의견만으로도 그들의 친구와 심지어 가족까지도 그들에게 등을 돌리게 할 수 있습니다. 이 정도로 국가가 혼란에 빠졌으니, 군락에 얼마나 오랫동안 저항할 수 있을까요?"
 changelings.56.a:0 "우리는 그들에게 항복해야 한다!"
 changelings.56.b:0 "우리는 싸울 것이다!"
 
@@ -1080,7 +1080,7 @@ changelings.67.d:0 "Last night, a radio message was broadcast across the Changel
 changelings.67.a:0 "Damn it all."
 
 changelings.68.t:0 "감사된 VOPS"
-changelings.68.d:0 "Queen's Guard Captain Heinrich reviewed his notes with Vaspier on the recent audit of VOPS. Though Queen Chrysalis had instructed him to go through VOPS by himself to look for Thoraxians, he knew that Vaspier would know what he was up to as soon as he started sniffing around infiltrator files. Instead, he approached Vaspier himself and proposed to work together with The Great Imperial Nobody, knowing that a changeling doesn't get a moniker like that without being more competent than the Queen gave him credit for.\n\n"Four Thoraxians in all," Dieter said, frowning at the notes in front of him. "I'm surprised there were this few."\n\nVaspier only smiled back at him with that insidious smile of his, as if he knew every secret about yourself you knew, and maybe even a few you didn't."I'm surprised there were this many," he said, and Dieter had the suspicion that there were more changelings discreetly removed from VOPS that Vaspier wasn't telling him about. "Though I suppose that's what I get for not handling staff reviews personally. This incident will not happen again."\n\n"It better not," Dieter said, closing his folder of notes and standing up. "Otherwise I don't think you'll be the head of VOPS much longer."\n\n"I'll worry about my head; you worry about yours," Vaspier said with a nod. "After all, calling someling a Thoraxian these days is a very serious allegation. But I think we'll both get through this just fine, so long as we stick together."\n\nThough Vaspier's warning made his shell crawl, Dieter merely gave the head of VOPS a curt salute. "Of course. I'll let the Queen know that everything has been taken care of.""
+changelings.68.d:0 "여왕의 친위대장인 Heinrich이 VOPS 감사에 대한 노트를 Vaspier와 함께 검토했습니다. 비록 크리살리스 여왕은 VOPS를 통해서 토랙스파들을 찾으라고 지시했지만, he knew that Vaspier would know what he was up to as soon as he started sniffing around infiltrator files. Instead, he approached Vaspier himself and proposed to work together with The Great Imperial Nobody, knowing that a changeling doesn't get a moniker like that without being more competent than the Queen gave him credit for.\n\n"Four Thoraxians in all," Dieter said, frowning at the notes in front of him. "I'm surprised there were this few."\n\nVaspier only smiled back at him with that insidious smile of his, as if he knew every secret about yourself you knew, and maybe even a few you didn't."I'm surprised there were this many," he said, and Dieter had the suspicion that there were more changelings discreetly removed from VOPS that Vaspier wasn't telling him about. "Though I suppose that's what I get for not handling staff reviews personally. This incident will not happen again."\n\n"It better not," Dieter said, closing his folder of notes and standing up. "Otherwise I don't think you'll be the head of VOPS much longer."\n\n"I'll worry about my head; you worry about yours," Vaspier said with a nod. "After all, calling someling a Thoraxian these days is a very serious allegation. But I think we'll both get through this just fine, so long as we stick together."\n\nThough Vaspier's warning made his shell crawl, Dieter merely gave the head of VOPS a curt salute. "Of course. I'll let the Queen know that everything has been taken care of.""
 changelings.68.a:0 "크리살리스가 이 소식을 들으면 가장 기뻐할 것이다."
 
 changeling_diplo.1.t:0 "북극곰들을 침략한 체인질링"
