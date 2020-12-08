@@ -213,16 +213,16 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  ### FOCUS ###
  #Go with Equestria
  EQC_strengthen_equestrian_ties:0 "이퀘스트리아와의 관계 강화"
- EQC_strengthen_equestrian_ties_desc:0 "We may be New Marelanders, but we were all once Equestrians. We are still loyal subjects to the Princesses and share many common bonds with our brothers and sisters across the sea.\n\nWe should reaffirm our commitments to our fellow Equestrians, and bind our destiny to theirs."
+ EQC_strengthen_equestrian_ties_desc:0 "우리는 뉴메어랜드인들 일 수도 있지만, 우리는 모두 이퀘스트리아인들이기도 합니다. 우리는 여전히 공주님의 충신이며, 바다 건너에 있는 우리 형제자매들과 공통된 유대감을 공유하고 있습니다.\n\n우리는 우리의 이퀘스트리아 동료들과 한 약속을 재확인하고, 우리의 운명을 그들에게 묶어야 합니다."
  
  EQC_royal_visit:0 "왕실 방문"
- EQC_royal_visit_desc:0 "It has been almost a generation since a Princess of Equestria has visited New Mareland. We should offer an invitation to one of the four Equestrian Princesses to show the friendship between our nations, and strengthen our mutual bond."
+ EQC_royal_visit_desc:0 "공주님께서 뉴메어랜드에 마지막으로 방문하신게 거의 한세대가 되어갑니다. 우리는 이퀘스트리아의 네 명의 공주 분 중 한 명을 초대하여 우리의 우정을 보여주고, 서로 간의 유대관계를 강화해야 합니다."
  
  EQC_school_for_gifted_unicorns:0 "재능있는 유니콘들을 위한 학교"
- EQC_school_for_gifted_unicorns_desc:0 "Most Unicorns with a talent for magic leave New Mareland for Canterlot, to go to one of the prestigious schools there. This causes an unfortunate brain drain for us. Establishing our own academy for the study of the arcane would help our scientifically and magical foundation tremendously."
+ EQC_school_for_gifted_unicorns_desc:0 "마술에 재능 있는 유니콘들은 대부분 뉴메어랜드를 떠나, 캔틀롯의 명문학교 중 한곳으로 향합니다. 이것은 불행하게도 우리의 두뇌유출을 야기합니다. 신비로운 것을 공부하기 위한 우리의 학교를 설립하는 것은 우리의 과학과 마법의 토대를 세우는데 엄청난 도움이 될 것입니다."
  
  EQC_school_of_friendship:0 "뉴메어랜드 우정의 학교"
- EQC_school_of_friendship_desc:0 "A School of Friendship, similar to the one near Ponyville in Equestria, could help to improve our relations with different countries tremendously. Such a school would also not be exclusive to Unicorns, unlike the other option currently on the table."
+ EQC_school_of_friendship_desc:0 "이퀘스트리아의 포니빌 근처에 있는 것과 비슷한 우정의 학교는, 다른 국가와 우리들의 관계를 개선하는데 엄청난 도움이 될 것입니다. 그런 학교는 지금 논의되고 있는 다른 선택사항과는 다르게, 유니콘들에게만 한정되어 있진 않을 것입니다."
 
 
  #Equestrian Investment and Welfare
@@ -241,7 +241,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_land_grants:0 "토지 보조금"
  EQC_land_grants_desc:0 "There is much unused land all over New Mareland. This is rather inefficient, since they simply do not have the population and technology to exploit the vast swathes of land under their control. Appropriating these lands for state use would allow us to properly develop and use them for the betterment of New Mareland."
  
- EQC_national_parks:0 "공원과 오락"
+ EQC_national_parks:0 "공원과 레크레이션"
  EQC_national_parks_desc:0 "Instead of turning the vast swathes of unused lands into farmlands and industrial centres, we should turn them into great parks, under national protection and free from any outside influences. This will please the locals greatly, and also allow all of our citizen to be able to spend their holidays in these beautiful places."
  EQC_basic_incom:0 "보편적인 기본 소득제"
  EQC_basic_incom_desc:0 "There is widespread poverty in New Mareland, especially in the big cities. One way to ease the burden on our citizens would be to institute a basic income system. This would ensure that nopony in New Mareland will have to go hungry or face other harsh financial choices."
@@ -472,7 +472,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_implement_segregation:0 "오늘도, 내일도, 영원히 분리시키자!"
  EQC_implement_segregation_desc:0 "Griffons and Ponies are naturally unsuited to mix together in society. Though some may grumble and protest, this is the natural order of things. We were given, by right and gain, this land and we will make sure that it is our land alone. The griffons will stay here, but we shall make a doctrine of 'Separate but Equal'"
  
- EQC_accept_the_bats:0 "우리 모두 이퀘스트리아인들이다"
+ EQC_accept_the_bats:0 "우린 모두 이퀘스트리아인들이다"
  EQC_accept_the_bats_desc:0 "Across the sea, in the Motherland, they have talked about Thestrals being lesser than the other three tribes. That is wholly untrue. We are all proper Equestrian Equines of proper Equestrian stock. We are all united against the Griffonian Hordes right across our borders. This we must defend as one."
  
  EQC_encourage_them_to_leave:0 "티지나카틀리아 계획"
@@ -824,7 +824,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  EQC_griffon_money:0 "그리폰의 황금"
  EQC_griffon_money_desc:0 "Thanks to our strong banks and lax laws, we have many griffons entrusting our banks with their money. We shall make good use of it."
  EQC_hydro_power_idea:0 "수력발전"
- EQC_nuke_power_idea:0 "핵전력"
+ EQC_nuke_power_idea:0 "원자력"
  EQC_malls_idea:0 "쇼핑 몰 개장"
  EQC_malls_idea_desc:0 "Grocery stores are nothing new to ponies, but a full fledged shopping mall, where they can buy anything their hearts desire, from furniture to clothing, is encouraging them to spend their hard earned Bits."
  EQC_griffon_experiment:0 "비윤리적인 기준"
@@ -1103,9 +1103,9 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  mareland.27.d:0 "Our brave volunteers have accomplished what was already inevitable! The ideals of MARESOC are victorious against the counterrevolutionaries. Sunset is ours and the oppressed workers cheer their liberators on. The Ministry of Plenty has decided on double chocolate rations to celebrate this joyous occasion!"
  mareland.27.a:0 "일주일 전에 배급량이 반으로 줄었지 않았었나?"
 
- mareland.28.t:0 "좌파 정리"
+ mareland.28.t:0 "좌파 사이를 정리"
  mareland.28.d:0 "While the Communists and Equalists are our "allies" against capitalism, they lack vision and give in to capitalist ideals such as voting, equality and free choice. They do not understand that this will merely give room for the old order to manifest itself again. Therefore these concepts must be eliminated from pony consciousness.\n\nWhile it may be unsavoury if the capitalist press gets word of it, we must take action against such counterrevolutionary ideas. We will make key figures of the other factions disappear and convince others to join us. It is too late for them to stop us now, the end of history awaits."
- mareland.28.a:0 "우리와 생각이 같은 좌파들은 통합시키자."
+ mareland.28.a:0 "좌파를 통합시키고, 우리의 이미지로 찍어내버리자"
 
  mareland.29.t:0 "쿠데타"
  mareland.29.d:0 "We have readied our militias and have secured the 'loyalty' of many officials, reporters and police officers. We have eliminated those who caught wind of our exploits, who might have understood a glimpse of what we were truly planning. The time is ready to seize our future. It is time for MARESOC to rise. We will bring a new order to the chaos, so that no pony will ever think wrong thoughts again."
@@ -1289,7 +1289,7 @@ anja_snow_desc:0 "필라델피아 출신이 안자는 항상 잘 적응하지 �
  mareland.75.a:0 "헤이글 공작."
  mareland.75.b:0 "피켓 펜스 도지사."
  
- mareland.76.t:0 "합법적 의사 진행 방해"
+ mareland.76.t:0 "필리버스터"
  mareland.76.d:0 "Another day, another boring session. The Presiding Officer was clearly about to doze off as a single hoof flew up from the chamber. 'The Chair recognizes the Representative of New Hoofington'\n\nPicket Fence rose, stacks of books on the lectern. 'Thank you, Presiding Officer. Now, I know that this is a debate upon which a large amount of prestige and history rests. I would like to make clear, that this bill should not be passed through the chamber. Every place in this great nation has enacted legislation that makes it impossible for anyone to disrupt or intimidate a voter into hindering them from taking up their voting rights. I expect now to take up the reading of the laws of voting in every part of this place to detail this in greater shape.\n\nAppleaide: That any creature that tries, or succeeds, during an election to willfully hinder the voting of others shall be fined a maximum of 250 bits. That no creature shall attempt to influence the electoral process of any lawful election by threatens of, including but not limited to: Violence, withdrawal of commerce, withdrawal of debt, enforcing payment of debt and, or, discharge from employment, in addition to any threats of bringing civil or ciriminal action or any other threat of injury on life, body or limb, under the penalty of six months of confinement, and forfeiture of property.\n\nBucksbane: That no person may infringe in the process of voting in any lawful election of any kind, public or private, under penalty of 500 bits fine. That infringing the secrecy of the vote shall not be allowed in any shape or form, and that no creature shall make any attempt, successful or not, upon degrading, destroying, prohibiting or limiting the right to vote in any shape or form under the penalty of three months confinement. That attempting bribery, threats or any undue influence to dictate or control or alter the vote of a duly given and cast vote given at any election shall be prohibited on penalty of 500 bits fine. Canmarea: In any election in which...."
  mareland.76.a:0 "그는 결국 힘이 빠질것이다..."
  
