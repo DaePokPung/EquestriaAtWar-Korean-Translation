@@ -228,15 +228,6 @@ eqs_triumph_revolution_desc:0 "혁명은 성공하고, 사회주의의 밝은 �
 eqs_stl_union_desc:0 "우리의 지도자, 스타라이트 글리머의 고향은 더블 다이아몬드의 주도로 사회주의를 시행하는데 성공했습니다. 허나 불행히도 그 마을엔 모든 종류의 자원이 부족해 마을이 유지되는 기간이 매우 짧을 것입니다. 그 마을은 우리에게 영광스러운 선물을 주었으니, 그들을 우리의 위대한 공화국으로 받아들이는 것은 당연히 행해져야 합니다."
 eqs_stg_union_desc:0 "스탈리온그라드는 세계에서 사회주의의 역사가 가장 긴 국가입니다. 스탈리온그라드는 내전당시 우리를 도와줘 의리를 보여주었으며, 그녀는 이퀘스트리아 주민이 무엇을 할 수 있는지 보여주었습니다. 하나의 깃발 아래 두 강대국이 통일하면 하나의 초강대국이 할 겁니다. 발전을 향한 위대한 첫 걸음이 될 겁니다."
 eqs_cry_union_desc:0 "크리스탈 포니들은 오랫동안 셀레스티아의 하수인이었습니다. 그들을 위해 이 굴욕을 끝낼 방법은 단 한가지, 단결밖에 없습니다. 우리의 위대한 포니 연맹은 크리스탈 포니를 환영할 겁니다."
-#eqs_new_government_desc:0 "새로운 정부"
-#eqs_countryside_reforms_desc:0 "시골 지역 개선"
-#eqs_collectivize_agriculture_desc:0 "집단생산"
-#eqs_nationalize_industry_desc:0 "산업의 국유화"
-#eqs_first_plan_desc:0 "첫 번째 스타라이트 계획"
-#eqs_second_plan_desc:0 "두 번째 계획"
-#eqs_third_plan_desc:0 "세 번째 계획"
-#eqs_nationalize_resources_desc:0 "자원 국유화"
-#eqs_oil_fields_desc:0 "석유 지대"
 eqs_education_campaigns_desc:0 "무상 교육"
 eqs_manifesto_of_materialism_desc:0 "물질주의 성명서"
 eqs_world_revolution_desc:0 "이제 모든 포니 국가들이 우리와 합세하였으니, 우린 이 대륙의 유일하고 영광스런 사회주의 국가, 이퀘스트리아의 위대한 사회주의 연합을 일궈낼 것이며, 그 아래 모든 포니들은 크리스탈 포니건, 이퀘스트리아의 포니건, 스탈리온그라드의 포니건 상관 없이 완벽한 국가를 이루기 위해 하나되어 나아갈 겁니다. 만세!"
@@ -312,15 +303,11 @@ eqs_arsenal_of_harmony_desc:0 "어렵게 일구어낸 조화를 지켜내는 것
 
 ## EEA: Equine/Equestrian Education Association
 EQS_ease_the_rules_of_EEA:0 "이교협 규정 완화"
-EQS_ease_the_rules_of_EEA_desc:0 "이교협은 천 년동안 이퀘스트리아의 교육을 휘어잡아 왔습니다. 우리 교육제도 전반에 작용하는 그들의 지나치게 깐깐하고 시대에 뒤떨어진 규정, 강력한 권력은 큰 문제를 야기했습니다. 이제 이교협의 권력과 규정을 규제하고, 포니들에게 더욱 독자적인 교육과 학습권을 보장해야 할 때입니다."
+EQS_ease_the_rules_of_EEA_desc:0 "이교협(이퀘스트리아 교육 협회)은 천 년동안 이퀘스트리아의 교육을 휘어잡아 왔습니다. 우리 교육제도 전반에 작용하는 그들의 지나치게 깐깐하고 시대에 뒤떨어진 규정, 강력한 권력은 큰 문제를 야기했습니다. 이제 이교협의 권력과 규정을 규제하고, 포니들에게 더욱 독자적인 교육과 학습권을 보장해야 할 때입니다."
 EQS_strengthen_EEA_authority_desc:0 "이교협은 천 년동안 이퀘스트리아의 모든 포니들이 수준 높은 교육을 받을 수 있도록 헌신해 왔습니다. 이 점을 염두에 두어 이교협의 역할과 권한을 더욱 강화해 우리의 교육제도가 더욱 활짝 피울 수 있도록 해야 합니다. 지난 천 년동안 그래 왔듯이 말이죠."
 EQS_strengthen_EEA_authority:0 "이교협 권력 강화"
 
-################################################################
-################################################################
-######################## DECISIONS #############################
-################################################################
-################################################################
+#DECISIONS
 EQS_militias:0 "전시 징병"
 EQS_militias_north_central_region:0 "베일스-위니아폴리스"
 EQS_north_cent_militia_tt:0 "이퀘스트리아 북중부에 민병대 사단이 조직됩니다."
@@ -439,13 +426,14 @@ CZE_war_college_effect_2_tt:0 "이미 §Y5개§!의 §C연구 슬롯§!을 보�
  baltimare:0 "발티메어 디자인"
  sirius:0 "시리우스 제철"
  flakesnow:0 "플레이크 오브 스노우"
- sweetie_drops:0 "스위티 \"봉 봉\" 드롭스"
+ sweetie_drops:0 "스위티 \"봉봉\" 드롭스"
  sweetie_drops_desc:0 "요원 스위티 드롭스(가명 봉봉)가 괴생명체 사냥 기관 S.M.I.L.E에 다시 합류했습니다. S.M.I.L.E은 버그베어가 타르타로스에서 탈출했을 때 해체되었지만, 세계가 불안정해진 지금 다시 설립되었습니다. 이때까지 그래왔듯이, 드롭스 요원은 이퀘스트리아의 이름 아래 임무를 수행할 준비가 되었습니다."
  cynosura:0 "사이노수라"
+ eqs6:0 "모닝 스톰"
  EQS_sentinel:0 "선더볼트 센티넬"
  EQS_sentinel_desc:0 "이퀘스트리아 제일 가는 참호 전문가인 선더볼트 센티넬은 전선을 유지하는 방법을 잘 알고 있습니다."
  EQS_fizzlepop:0 "피즐팝 베리트위스트"
- EQS_fizzlepop_desc:0 "이전에 템페스트 쉐도우라는 가명으로 활동했던 피즐팝 베리트위스트는 스톰킹의 오른팔이었습니다. 어렸을 때 그녀는 셀레스티아 공주의 마법 학교에 입학하기를 꿈꾸는 평범한 유니콘이었지만, 작은곰자리의 공격으로 뿔이 부러져 버리고 말았습니다. 그녀의 친구들은 마법을 쓸 수 없게 된 그녀를 버려두고 마법 학교에 입학했습니다. 고통의 쓰라림과 외로움 속에, 피즐팝은 조국을 떠나 제브리카로 갔고 그 곳에서 스톰킹을 만났습니다.  그녀의 능력과 교활함에 감명받은 스톰킹은 그녀에게 2인자의 자리를 제공했고 그녀는 제안을 받아들였습니다. 그 대가로 스톰킹은 피즐팝에게 마법의 힘이 충분해 졌을 때 뿔을 회복시켜 주겠다고 약속했습니다.\n\n스톰킹이 이퀘스트리아 침공을 본격적으로 시작하기 전에 피즐팝은 트와일라잇 스파클 공주를 생포하는데 성공했습니다. 하지만 스톰킹은 그녀의 뿔을 회복시켜주지 않았습니다. 배신당한거죠. 트와일라잇은 위기에 처한 피즐팝의 목숨을 구했고, 스톰킹을 돌로 만들었습니다.\n\n이제 그녀는 옛 이름 피즐팝을 다시 받아들였고, 이퀘스트리아를 여행하며 포니들을 돕는 중입니다. 그녀의 복무 경험은 훌룡하며 우리 조국을 기꺼이 도울 것 입니다."
+ EQS_fizzlepop_desc:0 "이전에 템페스트 쉐도우라는 가명으로 활동했던 피즐팝 베리트위스트는 스톰킹의 오른팔이었습니다. 어렸을 때 그녀는 셀레스티아 공주의 마법 학교에 입학하기를 꿈꾸는 평범한 유니콘이었지만, 작은곰자리의 공격으로 뿔이 부러져 버리고 말았습니다. 그녀의 친구들은 마법을 쓸 수 없게 된 그녀를 버려두고 마법 학교에 입학했습니다. 고통의 쓰라림과 외로움 속에, 피즐팝은 조국을 떠나 제브리카로 갔고 그 곳에서 스톰킹을 만났습니다.  그녀의 능력과 교활함에 감명받은 스톰킹은 그녀에게 2인자의 자리를 제공했고 그녀는 제안을 받아들였습니다. 그 대가로 스톰킹은 피즐팝에게 마법의 힘이 충분해 졌을 때 뿔을 회복시켜 주겠다고 약속했습니다.\n\n스톰킹이 이퀘스트리아 침공을 준비하는 동안 피즐팝은 에리스 산에서 트와일라잇 스파클 공주를 생포하는데 성공했습니다. 하지만 스톰킹은 그녀의 뿔을 회복시켜주지 않았습니다. 배신당한거죠. 트와일라잇은 위기에 처한 피즐팝의 목숨을 구했고, 스톰킹을 돌로 만들었습니다.\n\n이제 그녀는 옛 이름 피즐팝을 다시 받아들였고, 이퀘스트리아를 여행하며 포니들을 돕는 중입니다. 그녀의 복무 경험은 훌룡하며 우리 조국을 기꺼이 도울 것 입니다."
  cloudsdale_research:0 "클라우즈데일 에어텍"
  eqs_ai_buff:0 "이퀘스트리아 방어"
  eqs_ai_buff2:0 "이퀘스트리아 방어"
@@ -474,10 +462,14 @@ CZE_war_college_effect_2_tt:0 "이미 §Y5개§!의 §C연구 슬롯§!을 보�
  EQS_cel_executive_desc:0 "셀레스티아 공주는 의회가 다스리는 새 이퀘스트리아에서도 상당한 역할을 맡고 있습니다."
  EQS_cel_figurehead:0 "셀레스티아 공주"
  EQS_cel_figurehead_desc:0 "셀레스티아 공주는 이퀘스트리아의 상징일 뿐으로 이제부터는 정계를 관망할 수 밖에 없습니다."
+ EQS_cel_luna_executive:0 "셀레스티아와 루나 공주"
+ EQS_cel_luna_executive_desc:0 "셀레스티아와 루나 공주는 이제 새로운 이퀘스트리아 의회에서 적극적인 지도력을 발휘할 것입니다."
  EQS_luna_executive:0 "루나 공주"
  EQS_luna_executive_desc:0 "루나 공주는 큰 정치적 역할을 맡았으며 그것은 수상과 함께 이퀘스트리아를 다스리는 것입니다. 그녀는 현대 국가가 굴러가는 방식에 빠르게 적응했습니다."
  EQS_luna_figurehead:0 "루나 공주"
  EQS_luna_figurehead_desc:0 "외회가 중요한 결정을 내릴 때 루나 공주는 어떤 권력도 행사할 수 없습니다. 자신이 그늘로 떠밀리는 것이 내키지는 않지만, 그녀는 이것이 바로 포니들이 바라는 바임을 이해합니다. 또한 그녀는 자기가 이퀘스트리아의 상징으로 여겨진다는 사실만으로도 충분히 행복합니다."
+ EQS_cel_luna_figurehead:0 "셀레스티아와 루나 공주"
+ EQS_cel_luna_figurehead_desc:0 "셀레스티아와 루나 공주는 이퀘스트리아의 상징적인 존재이지만 이제부터는 정치에 대해서는 관전만 허용될 것입니다."
  species_rights_act:0 "종족별 권리 조약"
  new_harmonic_administration:0 "신 조화주의 체제"
  commoner_kingdom:0 "평민 왕국"
@@ -532,8 +524,8 @@ CZE_war_college_effect_2_tt:0 "이미 §Y5개§!의 §C연구 슬롯§!을 보�
 ### EVENTS #####
 ######### EQS # EQUESTRIA ##################
  equestria.1.t:0 "행복한 하츠워밍 이브, 그리고 새해 복 많이 받으세요!"
- equestria.1.d:0 "며칠 전 모든 포니들이 하츠워밍 이브를 축하했고 이제 새해가 왔습니다. 거리의 모든 포니들이 미래에 대한 낙관적인 견해를 공유하고 모든 낯선 이들에게도 행복한 새해를 기원해 주었습니다. 왜냐하면 실제로 이퀘스트리아에서 서로에게 낯선 포니란 없기 때문입니다. 공주들은 또한 대중들에게 전통적인 연설을 했고, 조화와 통일의 정신을 모든 이퀘스트리아 전역에 알렸습니다."
- equestria.1.a:0 "신나는군."
+ equestria.1.d:0 "며칠 전 나라 전역에서 포니들이 이퀘스트리아의 건국을 기념하는 연례 휴일인 하츠 워밍을 축하했습니다. 전통에 따라 하츠 워밍 이브에 포니들은 이 나라의 건국에 대한 전설을 재연하는 연극들을 구경하기 위해 옹기종기 모였습니다. 이 연극에서 세 포니 부족인 유니콘, 페가수스, 그리고 어스 포니들은 무시무시한 눈보라가 그들에게 새로운 땅을 찾도록 몰아넣기 전까지만 해도 서로 불편한 관계를 유지하고 있었습니다. 하지만 부족의 지도자들은 모두 같은 땅의 소유권을 주장하며 서로 싸웠고, 결국 다시 눈보라가 나타나게 되었습니다. 전설에 따르면 눈보라는 증오를 먹고 사는 마법의 윈디고 때문에 발생했다고 합니다. 부족 지도자들은 얼어 버렸지만, 그들의 조수들은 서로 친구가 되어 우정의 불꽃을 만들어 내어 윈디고를 영원히 쫓아내고 부족 지도자들의 몸과 마음을 녹였습니다. 그리고 세 부족은 새 땅을 이퀘스트리아라 이름짓고 서로 공존하며 살기로 합의했습니다. 연극이 끝난 후 포니들은 맛있는 식사를 즐기고, 선물을 교환하고, 이퀘스트리아의 국기를 게양했습니다.\n\n그리고 이제 새해가 다가왔습니다. 거리의 모든 포니들이 미래에 대한 낙관적인 견해를 공유하고 모든 낯선 이들에게도 행복한 새해를 기원해 주었습니다. 왜냐하면 실제로 이퀘스트리아에서 서로에게 낯선 포니란 없기 때문입니다. 공주들은 또한 대중들에게 전통적인 연설을 했고, 조화와 통일의 정신을 다시 되살려서 이퀘스트리아 전역에 알렸습니다. 포니들은 서로가 함께하는 한 어떠한 시련도 극복할 것입니다."
+ equestria.1.a:0 "이퀘스트리아의 미래는 밝아 보이는구나."
  equestria.2.t:0 "버팔로 문제"
  equestria.2.d:0 "웃음의 원소 핑키파이는 이퀘스트리아와 버팔로 사이의 합의를 중개하기 위한 버팔로 사절단에 자원했습니다. 그러나 여러 고위 군 장교들은 적대적인 영토와 가까운 곳에 혼자 들어간다는 것에 우려를 표하며 직접 왕실에게 그 문제를 영원히 끝내기 위해 버팔로에 대한 완전한 군사적 '개입'을 승인해달라는 청원을 보냈습니다. 그러나 간접 보고서에도 불구하고, 이와 같은 행위를 불법적인 점령으로 보는 왕실 경비대의 광학은 이퀘스트리아에서 가장 단호한 군국주의자들조차 망설이게 할 것입니다.\n\n물론 군사 점령과 침략은 도덕적 우위를 잃는다는 대가에도 불구하고, 버팔로의 문제를 단 한 번만에 완전히 해결할 것입니다. 한편 사절단은 평화로운 공존과 어쩌면 버팔로의 이퀘스트리아로의 통합의 문을 열어줄 수도 있을 것입니다. 사절단과 외교적 제안 및 압박 방안에는 한 가지 문제가 있습니다. 버팔로들이 우리의 제안을 거부하고 우리를 선택의 여지에서, 해결책에서, 그리고 좋은 이미지에서 벗어나게 할 것이란 것입니다. 하지만 궁극적으로 해결책을 찾아야만 합니다. 우리의 다음 행동은 무엇이 될 것입니까?"
  equestria.2.a:0 "사절단을 보내라. 이런 군사적인 미사여구는 우리 나라에는 맞지 않다."
@@ -667,7 +659,7 @@ CZE_war_college_effect_2_tt:0 "이미 §Y5개§!의 §C연구 슬롯§!을 보�
  equestria.199.a:0 "더 잘 될 수도 있었을 텐데."
  
  equestria.201.t:0 "공주의 연설"
- equestria.201.d:0 "캔틀롯 강당은 언론가, 귀족, 그리고 호기심 많은 시민들로 가득 차기 시작했습니다. 루나는 무대 뒤에서 긴장하며 서 있었습니다. 이건... 이건 머릿속으로 생각했을 때는 훨씬 더 쉬운 것처럼 보였습니다. 배가 요동치고 다리가 덜덜 떨렸습니다. 그녀는 박쥐 포니를 상상해보려고 했습니다. 그녀는 숨을 들이쉬고 무대로 걸어가서 말하기 시작했고, 멈추지 않았습니다. 곤경에 처한 박쥐 포니들과 법률, 교육, 투자, 행정적인 변화를 담은 개혁의 계획에 대해서 말했습니다. 그러나 가장 중요한 것은 이퀘스트리아 시민들의 마음의 변화입니다.\n\n트와일라잇은 훌륭한 연설은 기억에 남을 만한 결론이 만들어준다고 말했습니다. 그래서 루나는 마지막까지 최선을 다했습니다. "...따라서, 이러한 개혁이 통과되면 우리는 테스트라들을 초대하여 이퀘스트리아의 제4의 부족이 되게 할 것입니다!“\n\n그녀는 그제서야 안도의 한숨을 내쉬었습니다. “질문 있나요, 포니 여러분?”"
+ equestria.201.d:0 "캔틀롯 강당은 언론가, 상류층, 그리고 호기심 많은 시민들로 가득 차기 시작했습니다. 루나는 무대 뒤에서 긴장하며 서 있었습니다. 이건... 이건 머릿속으로 생각했을 때는 훨씬 더 쉬운 것처럼 보였습니다. 배가 요동치고 다리가 덜덜 떨렸습니다. 그녀는 박쥐 포니를 상상해보려고 했습니다. 그녀는 숨을 들이쉬고 무대로 걸어가서 말하기 시작했고, 멈추지 않았습니다. 곤경에 처한 박쥐 포니들과 법률, 교육, 투자, 행정적인 변화를 담은 개혁의 계획에 대해서 말했습니다. 그러나 가장 중요한 것은 이퀘스트리아 시민들의 마음의 변화입니다.\n\n트와일라잇은 훌륭한 연설은 기억에 남을 만한 결론이 만들어준다고 말했습니다. 그래서 루나는 마지막까지 최선을 다했습니다. "...따라서, 이러한 개혁이 통과되면 우리는 테스트라들을 초대하여 이퀘스트리아의 제4의 부족이 되게 할 것입니다!“\n\n그녀는 그제서야 안도의 한숨을 내쉬었습니다. “질문 있나요, 포니 여러분?”"
  equestria.201.a:0 "혼란이 강당을 뒤덮었다."  
  
  equestria.198.t:0 "문제들"
@@ -723,7 +715,7 @@ CZE_war_college_effect_2_tt:0 "이미 §Y5개§!의 §C연구 슬롯§!을 보�
  equestria.209.a:0 "이번에는 다를 것이다."
  
  equestria.230.t:0 "산악 임무"
- equestria.230.d:0 "실버 스피어 병사는 역겨운 표정으로 발굽에 들고 있던 포커를 내려놓았습니다. "여기 내가 있다네, 아무튼 좋은 임무를 받고 이 망할 박쥐 나라의 한가운데에 말이지. 그리고 이제 도난당한 무기들을 추격하는 신세가 되었고, 우리 아기 중위께서는 내 모든 봉급을 가져가고 있다네."\n\n퍼플 하트 중위는 싱글싱글 웃으면서 돈을 쓸어담았습니다. "그리고 그게 누구 잘못일까? 그리고 어차피 박쥐들은 피할 수 없는 존재야. 걔네들이 캔틀롯에서 말할 수 있는게 전부라고. 박쥐들이 다이아몬드 독들과 교전하겠답시고 무기를 도적질해도 전혀 놀랄 게 없다고."\n\n실버 스피어는 투덜대며 동의의 표시를 보였습니다. "천년동안 모든게 좋았는데, 루나가 들어와서 흔적을 남기려 하고 있어. 그녀 입장에서야 간단하겠지만, 산을 올라야하는 건 이 불쌍한 늙은 나라고."\n\n퍼플 하트가 눈썹을 치켜올렸습니다. "넌 투표하러 안 갈거냐?"\n\n"선택을 하기 전에 셀레스티아의 의견부터 들어보고 싶은데 말이죠. 지금 아무 입장도 밝히지 않았잖아요. 우리가 박쥐들과의 관계에 변화를 주어야 하는건 맞는데, 그냥..." 그가 사과술이 든 잔을 흔들었습니다. "그냥, 단지 투표를 한다고 해서 바로 친구가 되게 할 수는 없잖아요, 안 그래요?" 그가 가까이 기대면서 말했습니다. "박쥐들이 완벽하다는건 아니죠 - 제브리카에 미친 놈들 봤어요? 걔네들은 여전히 나이트메어 문을 숭배하고 있고, 몇몇 놈들은 여기까지 올라왔다고요."\n\n퍼플 하트가 말을 하기 위해 입을 열던 그 순간 버드콜이 울렸습니다. 무기를 찾아냈다는 정찰병의 호출이었습니다."
+ equestria.230.d:0 "실버 스피어 병사는 역겨운 표정으로 발굽에 들고 있던 포커를 내려놓았습니다. "여기 내가 있다네, 아무튼 좋은 임무를 받고 이 망할 박쥐 나라의 한가운데에 말이지. 그리고 이제 도난당한 무기들을 추격하는 신세가 되었고, 우리 아기 중위께서는 내 모든 봉급을 가져가고 있다네."\n\n퍼플 하트 중위는 싱글싱글 웃으면서 돈을 쓸어담았습니다. "그리고 그게 누구 잘못일까? 그리고 어차피 박쥐들은 피할 수 없는 존재야. 걔네들이 캔틀롯에서 말할 수 있는게 전부라고. 박쥐들이 다이아몬드 독들과 교전하겠답시고 무기를 도적질해도 전혀 놀랄 게 없다고."\n\n실버 스피어는 투덜대며 동의의 표시를 보였습니다. "천년동안 모든게 좋았는데, 루나가 들어와서 흔적을 남기려 하고 있어. 그녀 입장에서야 간단하겠지만, 산을 올라야하는 건 이 불쌍한 늙은 나라고."\n\n퍼플 하트가 눈썹을 치켜올렸습니다. "넌 투표하러 안 갈거냐?"\n\n"선택을 하기 전에 셀레스티아의 의견부터 들어보고 싶은데 말이죠. 지금 아무 입장도 밝히지 않았잖아요. 우리가 박쥐들과의 관계에 변화를 주어야 하는건 맞는데, 그냥..." 그가 사과술이 든 잔을 흔들었습니다. "그냥, 단지 투표를 한다고 해서 바로 친구가 되게 할 수는 없잖아요, 안 그래요?" 그가 가까이 기대면서 말했습니다. "박쥐들이 완벽하다는건 아니죠 - 정글에 사는 미친 놈들 봤어요? 걔네들은 여전히 나이트메어 문을 숭배하고 있고, 몇몇 놈들은 여기까지 올라왔다고요."\n\n퍼플 하트가 말을 하기 위해 입을 열던 그 순간 버드콜이 울렸습니다. 무기를 찾아냈다는 정찰병의 호출이었습니다."
  equestria.230.a:0 "포니들이 자기 총을 찾았나 보군."
 
  equestria.231.t:0 "경고"
@@ -783,7 +775,7 @@ equestria.233.a:0 ""
  equestria.213.d:0 "루나는 콧노래를 부르며 서류 작업을 하고 있었습니다. 낮을 꼬박 새서 일하기는 했지만, 곧 끝나니까요. 개혁은 어려운 과업이지만 성공만 한다면 꽤나 보람찬 일일테니까요. 실제로 그녀는 요즘 꽤나 편하게 잠자리에 들었답니다.\n\n돌연 문이 벌컥 열리며 근위대가 들이닥쳤고, 그 뒤로 셀레스티아가 걸어 들어왔습니다.\n\n 루나는 수 십정의 소총이 자신을 겨누고 있다는 사실에 충격을 받았고, 자리에서 일어났습니다.\n\n셀레스티아가 눈물을 흘리며 상자 하나를 방바닥에 내던졌습니다. 상자가 부서졌고, 그 안에 든 것은 소총 몇 정과 탄약들이었습니다. "이건 도난당한 무기들이야. 루나 광신도들이 들고 있었지. 루나, 아직도 나이트메어 문의 귀환을 모의하는 포니들이 있다고!", 셀레스티아가 소리쳤습니다. "그 포니들이 이 무기를 어떻게 얻었는지 알고 있기는 하니? 우리 암호를 알고 있었대, 왕실 암호를!"\n\n루나가 당황하며 말했습니다. "언니 잠깐, 난 모르는... 아..." 어떤 생각이 루나의 뇌리를 스쳤습니다. 어쩌면 알고 있을지도요. 그러고 보니 최근에 이상할 정도로 잠자리가 편했었습니다.\n\n셀레스티아의 얼굴이 굳어졌습니다. "그래, 모르는 일이겠지. 하지만 나이트메어 문의 귀환하는건 너무 위험해. 사건의 진상이 밝혀 질 때까지 넌 구금될거야."\n\n어느 샌가 경비원 중 한 마리가 사라져 있었습니다. 아마 그의 꿈 속에도 나이트메어 문이 등장해 이 순간을 예언했던게 아닐까요? 그리고는 언론, 국민 모두가 이 사실을 알게 되었습니다. 박쥐 포니 혐오자였던 셀레스티아는 루나를 구금하고 국가 안보를 빌미삼아 개혁 운동을 중단시켰습니다."
  equestria.213.a:0 "소식은 들불처럼 번져나갔다."
  
-  equestria.222.t:0 "박쥐포니들의 비행"
+ equestria.222.t:0 "박쥐포니들의 비행"
  equestria.222.d:0 "수 만 마리의 박쥐 포니가 공중을 메웠고 포니들이 비명을 질렀습니다. 천 년 전, 그들은 루나가 어려울 때 그녀를 외면했고 결국 그녀는 나이트메어 문으로 타락하고 말았습니다. 지금 루나는 감옥에 갇혀 있고 도움이 필요한 상황입니다. 그들은 절대로, 다시는 그녀를 실망시키지 않겠다고 맹세했습니다.\n\n이퀘스트리아의 한 쪽 해안부터 다른 쪽 해안까지, 모든 주요 도시들에 박쥐 포니들이 이제껏 한 번도 본 적 없었던 규모로 모여 들었습니다. 그들은 항의하고, 구호를 외치며 행진하고, 관청 건물을 봉쇄했습니다. 일부 도시에서는 용감한 포니들이 맞불시위를 펼쳐 박쥐 포니들을 몰아 냈지만, 대부분의 도시는 마비된 상태 그대로였습니다.\n\n캔틀롯 왕궁 앞으로도 많은 수의 박쥐 포니가 몰려 들었고 현재 근위대와 팽팽하게 대치 중입니다."
  equestria.222.a:0 "빨리 수사를 진행해!"
  
@@ -1014,6 +1006,7 @@ equestria.39.b:0 "남쪽에서 산뜻한 바람이 불어오는군!"
 equestria.135.t:0 "위험한 정글, 깊숙한 정글"
 equestria.135.d:0 "악명 높은 악당 닥터 카발레론과 그의 용병들이 금지된 정글 속 폐허가 된 테노치티틀란과 주변 땅을 점거했습니다. 그들은 스스로를 자유국이라 선언했고 이퀘스트리아의 통치를 거부하고 있습니다."
 equestria.135.a:0 "소설에나 등장하는 포니 아니었나?"
+equestria.135.c:0 "소설에나 등장하는 포니 아니었나?" #Why does this exist?
 equestria.135.b:0 "죽을때까지 노력하겠다!"
 equestria.136.t:0 "위험한 정글, 깊숙한 정글"
 equestria.136.d:0 "악명 높은 악당 닥터 카발레론과 그의 용병들이 금지된 정글 속 폐허가 된 테노치티틀란과 주변 땅을 점거했습니다. 그들은 스스로를 자유국이라 선언했고 이퀘스트리아의 통치를 거부하고 있습니다."
@@ -1026,6 +1019,7 @@ equestria.138.b:0 "나이트메어 문과 스타스 월 사령관님 만세!"
 equestria.137.t:0 "나이트메어 문 추종자들"
 equestria.137.d:0 "내전 발발 후, 나이트메어 문 추종자들이 남동 반도 전체를 점령했습니다. 하지만 발티메어, 거룩국, 아즈틀란 자유국의 군대가 나름 성공적으로 나이트메어 문 추종자들을 몰아낼 수 있었습니다. 하지만 스타스 월이 정글 속으로 흩어진 추종자들을 재편성했고, 나이트메어 문의 통치에 이의를 제기하는 이들을 대상으로 다시금 전쟁을 시작했습니다."
 equestria.137.a:0 "그릇된 사상을 가진 포니들과 언젠가 상대해야 할 또 다른 권력이라..."
+equestria.137.c:0 "성공만 한다면 진급은 따놓은 당상이겠군."
 equestria.137.b:0 "나이트메어 문과 스타스 월 사령관님 만세!"
 equestria.53.t:0 "솜브라의 귀환"
 equestria.53.d:0 "예기치 못했던 일련의 사건들에 이어, 이제는 심연에서 탈출한 솜브라가 크리스탈 왕국의 권력을 장악했습니다. 케이던스와 조화주의자들이 저항을 이어나가고는 있지만, 영원히 저항 할수는 없을 것입니다. 전쟁을 준비해야 합니다."
@@ -1107,6 +1101,10 @@ equestria.180.a:0 "상처는 언젠간 치료되기 마련이지..."
 equestria.181.t:0 "하츠워밍의 기적"
 equestria.181.d:0 "최근 최전선에서 하츠워밍 이브 준비와 관련된 이상한 일들이 보고되고 있습니다. 보고에 따르면 용감한 포니 몇 마리가 백기를 들고 체인질링 참호를 향해 걸어갔다는데, 놀랍게도 어떤 체인질링도 사격을 하지 않았다고 합니다. 그 후 병사와 장교들이 한마음이 되어 포니들은 체인질링을, 체인질링은 포니들을 초대해 중립지대에서 하츠워밍 이브를 축하했습니다. 달이 뜨자 포니들과 체인질링은 사이다와 핫초코를 마시며 캐롤을 불렀고, 춤을 췄답니다. 또 두 진영의 병사들이 서로 고향땅의 가족들, 전쟁 전의 직업, 자기 마을의 전설같은 이야기를 나누었습니다. 물론 포니들의 휴일이 체인질링에게 별 의미가 있을 것 같지는 않지만, 어쨌든 우리의 휴일에 큰 호기심을 가지게 되었고 실제로도 즐기게 된 것 같습니다.\n\n이퀘스트리아군 지휘부는 이 사건을 우정의 가치를 널리 홍보할 수 있는 기회로 받아들였습니다. 곧 체인질링 병사들이 싸우는 것은 그들의 의지가 아니며, 폭군 크리살리스와 그 무리들의 뜻이라는 선전이 전선에 울려퍼졌습니다. 한편 이 사건에 격분한 크리살리스는 검열국으로 하여금 모든 소식을 차단하도록 했고, "배반 행위"에 찬동한 모든 장교와 병사들을 처형했습니다. 하지만 일부 체인질링들이 가까스로 크리살리스의 지배를 벗어날 수 있었고, 현재 이퀘스트리아군의 따뜻한 보호와 대우를 받으며 포로 생활을 하는 중이라고 합니다."
 equestria.181.a:0 "어, 예상치 못한 일인데."
+
+equestria.183.t:0 "The Grand Equestria Pony Summit"
+equestria.183.d:0 "Her Majesty Princess Celestia has once more decided to convene the Grand Equestria Pony Summit, summoning delegates from every city of the country to Canterlot. She was encouraged to hold the event by Princess Luna so various disputes could be resolved before they reached a boiling point. Princess Twilight Sparkle was once again responsible for organizing the event. The last summit held in 1005 had almost been an embarrasing fiasco, so extra precautions were made to ensure everything would go smoothly. This time there would be no giant gemstone statue due to the last summit's incident.\n\nThe summit ended up being almost as large as the last one, with delegates from over fifty cities and towns arriving in the capital. There were three days of conferences, receptions and meetings, with Princesses attending them actively. Representatives spoke openly of issues in their home towns: Mayor Ash Moustache's delegate from Baltimare spoke of issues with integrating the local thestral minority and the rising influence of anarcho-syndicalist CAN-TER, Mayor Goldwin's delegate from Vanhoover said something had to be done about Stalliongradian infiltration of the navy stationed in the city, Mayor Rokenhar's delegate from Las Pegasus spoke of the corruption and greed of local companies while representatives of other south-western cities complained of neglect from the central government. Most ominously, the delegate from Acornage warned of ever-growing Changeling military activity on the border. The Princesses took note of all the issues and promised that they would be taken care of.\n\nThe rest of the summit was spent making trade deals, celebrating the local cultures of Equestria's numerous cities, holding speeches on matters of economy and politics and discussing the events of the world at large. At the end of the event, Princess Celestia held a speech thanking everypony for coming all the way to Canterlot and said that as long as the cities of Equestria worked together in harmony, the country as a whole would have a bright and prosperous future."
+equestria.183.a:0 "이퀘스트리아를 위해 건배!"
 
 equestriachn.1.t:0 "체인질링 간첩"
 equestriachn.1.d:0 "지난 몇 주 동안 파괴 공작, 군인들의 집단 항명, 노동자들의 이유 없는 파업에 관한 보고가 여러 번 있었습니다. 전문가들은 이것이 체인질링의 소행일 것이라고 말했습니다. 크리살리스가 우리들을 갈라놓기 위해 간첩을 보내는 것일지도 모릅니다."
@@ -1245,6 +1243,7 @@ equestria.65.a:0 "훌륭하구만."
 equestria.66.t:0 "버팔로가 우리의 제안을 거절하다"
 equestria.66.d:0 "족장 스트롱하트는 그녀의 휘하 족장들을 설득하지 못했습니다. 여전히 구시대의 질서가 그들을 다스릴 것입니다."
 equestria.66.a:0 "그렇다면..."
+
 ### MISC ###
 equestrian_research_name:0 "범이퀘스트리아 연구"
 equestrian_research_desc:0 "우리 모두는 하나의 유대 아래 뭉친 포니들입니다. 서로의 비밀을 지켜줘야 합니다."
@@ -1289,7 +1288,7 @@ EQS_bring_back_LSP_desc:0 "라스 페가수스는 너무나도 가치있는 도�
 
 equestria_focus:0 "이퀘스트리아 국가 중점"
 
-LUNA_DESC:0 "공주 자매들 중 더 어린 쪽인 루나 공주는 대중들에게 모습을 잘 드러내지 않습니다. 그녀는 언니와 동등한 권력을 가지고 있지만 현대사회에 적응하기 위해, 또 자신의 권력을 발휘하지 않으려 노력 중입니다. 그녀는 공주에게 큰 권력이 집중되어 있던 과거를 살다가 돌아온 포니이기 때문입니다. 그럼에도 불구하고 루나는 최선을 다해 이퀘스트리아를 통치하고 있으며, 그녀가 전성기때 사용했던 군사적 지식과 전략을 제공합니다. 루나는 아직도 종종 과거의 실수에 시달리며, 이를 영영 회복하지 못 할 수도 있습니다. 만약 셀레스티아의 사랑과 친절이 없었다면..."
+LUNA_DESC:0 "§YBorn§!: Time Immemorial\n\n§YBiography§!: Myths and fables tell of two regal sisters who ruled together, creating harmony for all the land. The eldest used her alicorn powers to raise the sun at dawn; the younger brought out the moon to begin the night. While it is obvious today that the tales speak of the Royal Pony Sisters who rule Equestria, few, if any concrete facts are known about their history. Their achievements in defeating Discord, King Sombra, Lord Tirek and other terrors have become legendary.\n\nPrincess Luna, recently returned from banishment, remains somewhat of a mystery to the ponies of Equestria. While she is earnest in reintegrating towards modern society, and earning the adoration of her subjects, Luna rarely enjoys the attention her elder sister, Princess Celestia, receives. Her efforts in guarding the dreams of ponies are greatly appreciated, but what is Luna's greatest contribution today is leading ponies in the field, much like in the glory days of old before Equestria's unification. Her knowledge of strategies and military knowledge is unmatched, by the virtue of her age, and she might have been the one to originally place these concepts in a theoretical form.\n\n§YPortrait By§!: Scroup"
 swift_milf_desc:0 "§g스위프트 윙은 967년 세베르야나에서 태어나 세 오빠들과 함꼐 자랐습니다. 어느날 그녀의 아버지는 이퀘스트리아군의 장교로 자원입대했고, 가족들을 데리고는 캔틀롯으로 이사했습니다. 스위프트 윙은 캔틀롯 사립 학교에서 고급 교육을 받았고, 바로 아버지를 따라 장교로 입대했습니다. 그녀는 고된 훈련을 어떤 숫말들보다도 우수한 성적으로 마쳤고, 빠른 시일 내에 임관할 수 있었습니다. 그녀의 고향 세베르야나가 반란을 일으키자 그녀는 이퀘스트리아에 대한 충성심이 무엇보다 우선함을 강조하며 반란을 진압했습니다. 1002년 제 1차 체인질링 침공 때는 너무 가까이서 폭발한 유탄에 오른쪽 눈을 잃었습니다. 제대를 할 수도 있었지만, 그녀는 왕립 공병단에서 계속 복무하는 것을 선택했습니다. 부상과 고통에도 아랑곳하지 않고 조국에 헌신하는 그녀의 모습은 휘하 병사들에게 큰 본보기가 될 것입니다.§!"
 ancap_trench_boi_desc:0 "§g선더볼트 센티넬은 어려서부터 자신의 재능이 남을 보호하는 것임을 깨달았습니다. 그래서, 아버지의 만류도 뿌리치고 이퀘스트리아 왕실 근위대에 입대했죠. 신병 훈련소에서 센티넬이 겪었던 모든 고된 훈련들, 부상과 전우애는 그의 선택이 옳았음만을 증명했습니다. 체인질링이 캔틀롯을 처음 공격했을 때, 그 곳에 센티넬이 있었습니다. 그는 왕실 근위대가 큰 위협에 대응하는 능력이 부족하다고 생각했고, 그 길로 장교 임관의 길을 걸었습니다. 이퀘스트리아군 사령부는 센티넬이 보여준 방어 전략과 참호 구축 실력에 큰 흥미를 느꼈고, 결국 그는 임관한지 얼마 되지도 않아 최고 사령부의 일원이 되었습니다. 현재 그는 체인질링 국경의 방어선 구축을 감독하고 있습니다. 동료들은 그 방어선을 농담삼아 "센티넬 라인"이라고 부르는데, 센티넬도 그 별명을 아주 마음에 들어하는 것 같습니다.§!"
 EQS_arrogant_cunt_desc:0 "§g블루블러드 왕자는 셀레스티아 공주의 먼 조카로, 왕실의 일원입니다. 그가 이퀘스트리아군 장교단에 자원입대했을 때 많은 이들이 놀랐습니다. 그는 거만하고 게으른 속물로 잘 알려져 있었기 때문이죠. 정확한 동기는 불명이지만, 블루블러드는 상당히 가혹하고... 놀랄 만큼 유능한 장교라는 사실을 입증해 냈습니다.§!"
@@ -1299,7 +1298,9 @@ EQS_whiplash_desc:0 "§g위플래시는 원더볼트 아카데미의 훈련 교�
 EQS_appulhors_desc:0 "§g정직의 원소인 애플잭은 포니빌 출신의 농부입니다. 그녀는 오빠인 빅 매킨토시와 함께 사과 과수원을 운영하며 시간이 날 때마다 어려운 포니들을 돕습니다. 그녀는 부지런하고 자상하며, 믿음직스럽지만 가끔 고집을 부리기도 합니다. 전쟁이 다가오자 애플잭은 이퀘스트리아군에 자원입대했습니다.§!"
 EQS_bigmac_desc:0 "§g빅 매킨토시는 애플잭의 오빠로, 애플잭보다도 성실한 포니입니다. 그는 "그래"와 "아니" 외에 다른 단어를 거의 사용하지 않으며, 과묵하게 자신의 일에 집중하는걸 선호합니다. 그는 언제나 침착하고, 어느 상황에서나 적용할 수 있는 실용적인 지혜를 많이 가지고 있습니다. 여동생을 보호하기 위해 그도 이퀘스트리아군에 장교로 자원입대 했습니다.§!"
 EQS_ponka_desc:0 "§g핑카미나 다이앤 파이, 보통은 핑키 파이로 불리는 그녀는 웃음의 원소로 포니빌의 슈가큐브 코너에서 제빵사로 일하고 있습니다. 그녀는 활기차고 사교적이며, 노래, 파티, 선물, 웃음, 뭐가 되었든 다른 포니들을 행복하게 해주는 것을 좋아합니다.\n\n좋아 했었습니다. 전쟁의 먹구름이 이퀘스트리아를 덮치기 전까지는요. 그녀는 전쟁이 벌어지면 포니들이 고통을 받게 될 것을 알았고, 이퀘스트리아를 위협하는 적들에게 접근해 평화적인 태도를 보였습니다. 그녀의 시도는 끔찍하게 실패했죠.  핑키 파이는 이퀘스트리아를 구할 수 있는 유일한 방법은 폭력 뿐이라는 사실을 깨달았습니다. 그녀는 이퀘스트리아군에 장교로 자원입대하여 조국을 위해 그녀의 현실 조작 능력을 사용할 것입니다.§!"
+EQS_maudpie_desc:0 "§gGrowing up on a rock farm with Pinkie, Maud Pie spent much of her time mining and tending the rock fields. When Pinkie joined the officer corps, Maud followed, determined to put her rocktorate in geology to good work. She seems to have a supernatural talent at building fortifications and defenses, and has already proven to be one of the best combat engineers the Army has ever had.§!"
 EQS_tempy_desc:0 "§g이전에 템페스트 쉐도우라는 가명으로 활동했던 피즐팝 베리트위스트는 스톰킹의 오른팔이었습니다. 어렸을 때 그녀는 셀레스티아 공주의 마법 학교에 입학하기를 꿈꾸는 평범한 유니콘이었지만, 작은곰자리의 공격으로 뿔이 부러져 버리고 말았습니다. 그녀의 친구들은 마법을 쓸 수 없게 된 그녀를 버려두고 마법 학교에 입학했습니다. 고통의 쓰라림과 외로움 속에, 피즐팝은 조국을 떠나 제브리카로 갔고 그 곳에서 스톰킹을 만났습니다.  그녀의 능력과 교활함에 감명받은 스톰킹은 그녀에게 2인자의 자리를 제공했고 그녀는 제안을 받아들였습니다. 그 대가로 스톰킹은 피즐팝에게 마법의 힘이 충분해 졌을 때 뿔을 회복시켜 주겠다고 약속했습니다.\n\n스톰킹이 이퀘스트리아 침공을 본격적으로 시작하기 전에 피즐팝은 트와일라잇 스파클 공주를 생포하는데 성공했습니다. 하지만 스톰킹은 그녀의 뿔을 회복시켜주지 않았습니다. 배신당한거죠. 트와일라잇은 위기에 처한 피즐팝의 목숨을 구했고, 스톰킹을 돌로 만들었습니다.\n\n이제 그녀는 옛 이름 피즐팝을 다시 받아들였고, 이퀘스트리아를 여행하며 포니들을 돕는 중입니다. 그녀의 복무 경험은 훌룡하며 우리 조국을 기꺼이 도울 것 입니다.§!"
+EQS_sunrise_moonshadow:0 "Born in 978 ALB, Southern Equestrian countryside. Sunrise was raised in the farming family whose export is mainly rice. He was raised among his older brother whom he didn't like, Sunrise did not have such easy life in his childhood due to the fact that poverty is common in the rural region, Sunrise enjoyed the outside world despite knowing how good, robust and beautiful the cities are, but still, he is particularly fascinated by the forest, jungle world. In his free time he was usually walking through the forests, sometimes living in there. Soon the harsh jungle is like a paradise for him - he could easily live there for the rest of his life. Some time later Princess Luna and Celestia came to visit his little town. That's when his cutie mark appeared, after the princesses have blessed him. From that moment he sworn to serve the princesses as best as he could. One day a draftpony came to his little town. Sunrise was fascinated by the world he can see by going to the military, but also that he can finally fulfil his destiny to serve the princesses. Almost without thinking he agreed to join the Equestrian Armed Forces.\n\nAfter much dedication and hardship, his efforts came into fruition. He was quickly assigned to Royal Canterlot Division in 1001, intense and harsh training was common place in the elite division. Time's passed. One day his company was chosen to a special training with the Royal Canterlot Guards and the Lunar Guards to strengthen the coordination between those units, after the lessons have learned in the first changeling invasion of Canterlot in 1002. During those specialized trainings, it has shown himself his natural talents, Sunrise was one of the best from all of his company or even the guards. He quickly ranked up and was assigned to the Lunar Guards as an officer. Then later, the general of Equestria. When the Great War starts, he has shown his natural skills in managing his armies in the forest."
 
 cityfall.21.t:0 "아코네이지가 적에게 함락되다"
 cityfall.21.d:0 "[This.GetNewspaperHeader]지난 세기 초에 세워진 이 도시, 아코네이지는 역사적으로 수많은 체인질링 손님들을 맞이했었습니다. 체인질링 왕국과의 국경 바로 옆에 세워진 까닭이었습니다. 하지만 오늘 아코네이지 시민들이 보여줬던 박애와 신뢰가 불명예 속에 더럽혀졌습니다. 체인질링군이 승리를 거두었고 이퀘스트리아군이 도시 밖으로 추방당했습니다."
