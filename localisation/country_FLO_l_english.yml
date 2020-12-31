@@ -594,7 +594,7 @@ FLO_protector_of_people_desc:0 "시민들에게 귀족들과 그들의 학대로
 FLO_art_of_war:0 "전쟁의 기술"
 FLO_art_of_war_desc:0 "왕자는 전쟁과 그 규칙과 규율 말고는 다른 목적이나 생각을 가져서는 안 됩니다. 이것이 통치하는 그에게 주어지는 유일한 예술입니다. 전쟁의 기술을 이해하지 못하는 왕자는 그의 군인들에게 존경받을 수도 없고, 그들에게 의지할 수도 없습니다."
 FLO_fox_and_lion:0 "여우와 사자"
-FLO_fox_and_lion_desc:0 "왕자는, 두 야수의 방법을 사용하도록 강요당하며, 여우와 사자 중에서 선택해야만 합니다; 사자는 덫으로부터 자신을 방어할 수 없고 여우는 늑대로부터 자신을 방어할 수 없기 때문입니다. 그러므로, 왕자는 덫을 발견하는 여우가 되고 늑대를 겁주는 사자가 되어야만 합니다."
+FLO_fox_and_lion_desc:0 "왕자는, 두 짐승의 방법을 사용하도록 강요당하며, 여우와 사자 중에서 선택해야만 합니다; 사자는 올가미로부터 자신을 방어할 수 없고 여우는 늑대로부터 자신을 방어할 수 없기 때문입니다. 그러므로, 왕자는 덫을 발견하는 여우가 되고 늑대를 겁주는 사자가 되어야만 합니다."
 FLO_control_economy:0 "경제 통제"
 FLO_control_economy_desc:0 "자유 시장의 변동과 무능한 하인들의 잘못된 경영은 모두 왕자의 요구를 충족시켜주지 못합니다. 따라서 그는 생산의 직접적인 통제권을 가지고 해야 할 일을 지시해야 합니다. 그의 현명한 지도력과 함께, 모든 가치 있는 요구들이 가장 후하게 공급될 것입니다."
 FLO_honour_the_skilled:0 "노동자 지원"
@@ -652,7 +652,7 @@ FLO_flay_fezera_desc:0 "페제라 군구는 한때 아퀼레이아 왕국의 일
 FLO_eliminate_eyrie:0 "이리에를 처치하다"
 FLO_eliminate_eyrie_desc:0 "태양의 가문은 에리에에 있는 그들의 사촌들이 했던 것과 같은 멍청함으로 고통받았습니다. 그리고 이제 그들은 아이러니하게도 같은 운명을 겪을 것입니다. 이 두 가문은 마침내 우리 왕자의 온화한 보호 아래 하나가 될 것입니다. 왕자는 그들에게 가장 관대한 지원을 제공할 것입니다."
 FLO_strong_city:0 "강력한 도시"
-FLO_strong_city_desc:0 "최고의 성은 시민들에게 미움을 사지 않는 것입니다. 성을 가지고 있을지라도, 시민들이 지도자를 미워한다면, 그들은 지도자를 구하지 않을 것입니다. 이 모든 것을 고려해 볼 때, 성을 쌓는 자들과 그렇지 않은 자들은 시민들의 칭송을 받을 것입니다. 그러나 성을 믿고 시민들에게 미움을 사는 자들은 비난만 받을 뿐입니다."
+FLO_strong_city_desc:0 "최고의 성은 시민들에게 미움을 사지 않는 것입니다. 성을 가지고 있을지라도, 시민들이 지도자를 미워한다면, 성은 지도자를 구하지 못할 것입니다. 이 모든 것을 고려해 볼 때, 성을 쌓는 자들과 그렇지 않는 자들은 시민들의 칭송을 받을 것입니다. 그러나 성을 믿고 시민들에게 미움을 사는 자들은 비난만 받을 뿐입니다."
 FLO_personal_staff:0 "왕자 개인의 장교"
 FLO_personal_staff_desc:0 "통치자의 지능을 평가하는 첫 번째 방법은 통치자 주위에 있는 사람들을 보는 것입니다. 현명한 왕자는 자신의 국가에서 현명한 그리폰들을 선택해야 합니다. 그리고 그들에게만 진실을 말할 수 있는 자유를 주어야 합니다. 그런 다음에 그가 물어보는 것들과 그 밖의 모든 것들을 질문하는 것입니다. 그는 그들에게 모든 것에 대해 질문하고, 그들의 의견을 들어야 하고, 그 후에 자신의 결론을 내려야 합니다."
 FLO_rule_the_skies:0 "하늘을 지배하다"
@@ -1123,7 +1123,7 @@ flowena.102.t:0 "제1회 연례 길드 회의"
 flowena.102.d:0 "혁명 후에 수립된 임시 정부는 마침내 물러났습니다. 길드 대표들로 구성된 새로운 민주 의회가 공식적으로 설립되었고 오늘 시민 회관에서 첫 공식 회의를 열었습니다. 대표들은 플로웨나의 역사에서 처음으로 실시된 선거에서 일찍이 뽑혔고 모든 길드원들 -- 모든 일하는 시민 -- 에게 투표권이 주어졌습니다. 마이클 랜드로는 정의의 지도자였으며 의회의 수장으로 선출되었습니다.\n\n첫 번째 회의에서, 의회는 노동자 위원회가 이전에 준비했던 새로운 헌법 초안에 서명하고, 새로운 법률로 개정했습니다. 체벌이 금지되었고, 신전들은 십일조를 모을 권리를 잃었으며, 초콜릿의 치명적인 개혁의 잔재들도 마침내 폐지되었습니다. 의회는 옷감 생산을 늘림으로써 도시의 실업을 줄이는데 동의했고 미래를 위한 추가적인 계획을 세웠습니다.\n\n마침내, 플로웨나의 노동자들은 미래에 대한 명확한 비전을 가지게 되었고, 그들이 어떤 길로 가고 있는지 알게 되었습니다. 그들의 눈에는 유토피아로 가는 길이었습니다."
 flowena.102.a:0 "모두가 빵을 먹게 될 거야!"
 
-flowena.103.t:0 "모두를 위한 파라다이스"
+flowena.103.t:0 "모두를 위한 천국"
 flowena.103.d:0 "오늘 마침내 정원들이 대중들이 접근할 수 있도록 준비가 되었고, 성대한 개막식이 열렸습니다. 정의의 지도자 마이클 랜드로는 이 도시의 가장 큰 식물원 정문 앞에서 연설하면서 이것이 어떻게 상징적인 행동인가에 대해서 말했습니다. 정원은 소수의 귀족들에게 주어지는 특권이었고, 귀족들은 종종 나무와 꽃들 사이에서 열리는 긴 산책과 파티를 즐겼으며, 반면 노동자들은 울타리 뒤에서 질투심을 느끼거나, 정원 안에서 나뭇가지를 다듬고, 화초에 물을 주는 일에 집중해야 했습니다. 이제 이러한 특권들은 사라지고, 누구나 언제든지 자유롭게 정원에 들어갈 수 있고, 향기로운 꽃들을 즐길 수 있으며, 이국적인 식물들을 동경하거나, 깨끗하고 신선한 공기를 마실 수 있습니다.\n\n정원은 그리폰들로 가득 찼고, 그들은 소풍을 가거나, 게임을 하거나, 애완견과 함께 편안한 산책을 했습니다. 정원은 그리폰들을 더 행복하게 만들어 주고 있다는 것이 분명합니다."
 flowena.103.a:0 "자연의 아름다움은 모든 이들이 즐겨야 한다."
 
@@ -1142,7 +1142,7 @@ flowena.106.d:0 "우리 안보국은 최근 외국이 우리나라 내에서 사
 flowena.106.a:0 "그들은 분수를 알아야만 한다!"
 flowena.106.b:0 "이 폭도들을 처벌한다."
 
-flowena.107.t:0 "좌익 사보타주!"
+flowena.107.t:0 "좌익 세력의 습격!"
 flowena.107.d:0 "우리 군은 시골지역과 외곽지역의 게릴라군이 우리 군이 사용하는 중요한 도로와 철도를 폭파하고 우리의 무기고와 군사 공장을 급습했다고 보고하고 있습니다. 사상자는 거의 없었지만 경제적 피해는 상당했습니다. 수리하는 데는 수백만 까지는 아니더라도, 수천의 재산이 지출될 것입니다. 우리 안보국은 플로웨나가 우리나라로 무기를 밀반입하고 있다고 의심하고 있지만, 아직 구체적인 증거가 없습니다."
 flowena.107.a:0 "빌어먹을 놈들!"
 
@@ -1163,8 +1163,8 @@ flowena.110.c:0 "니콜라스 드 샤본이 이번의 행운아입니다!"
 flowena.110.e:0 "운명이 니콜라스 드 샤본을 선택했습니다!"
 
 flowena.111.t:0 "시장님 만세"
-flowena.111.d:0 "니콜라스 드 샤본은 시장 사무실로 들어가 의자에 앉아 책상에 뒷다리를 올려놓았습니다. 예상대로 그의 음모는 성공적이었고 아무도 의심하지 않았습니다. 그는 쉽게 이 도시의 지도자가 되었고, 곧 그의 발톱에 권력을 집중시키는 많은 개혁들을 시작할 것입니다. 결과적으로, 그는 귀족들의 지배를 끝내고, 귀족 회의를 해체하여 왕관을 되찾을 것이고, 자신이 왕자임을 스스로 선언할 것이었습니다. 하지만 지금은 그저, 축하하고 휴식을 취할 때입니다.\n\n문이 쾅 하고 열렸습니다. 망토로 자신을 가린 그리폰이 아무 말도 하지 않고 들어왔습니다. 니콜라스는 그의 의자에서 일어나서 그의 권총집에 있는 권총을 움켜잡았습니다. "네놈은 누구지? 내 사무실에서 뭐 하는 짓이지?" 그가 소리쳤습니다.\n\n"내 이름은 브루노 드 로즈브루네다. 네가 나의 형을 죽였으니, 너도 죽을 각오를 해라."\n\n니콜라스가 무언가를 하기 전에, 밝은 섬광과 함께 크게 쾅 소리가 났고, 그의 이마에서 피가 솟구쳤습니다. 그는 죽은 그의 아버지처럼 바닥에 쓰러졌습니다. 그의 의식은 그렇게 끊어졌습니다.\n\n브루노는 그의 몸에 침을 뱉고 중얼거리기 시작했습니다. "너가 추첨에서 뽑히자 마자, 나는 끔찍한 사실을 깨달았지. 나는 황급히 저택으로 돌아갔어, 형과의 추억으로 초콜릿 형이 죽었을 때 발톱으로 쥐고 있던 위스키 병을 아직까지 간직하고 있었거든. 병에는 아직도 술이 남아있었지. 그것을 길거리에 있는 개에게 줘보니 곧 죽더라고, 위스키에는 작은 생쥐조차 죽일 수 없는 알코올만 들어있는데 말이야. 형은 급성 알코올 중독으로 죽지 않았어. 형은 독살당한 거야. 누가 배후에 있는지는 많이 생각해 볼 필요도 없더라고. 이 개자식. 너의 가문은 늘 그랬던 것처럼 줏대 없는 쓰레기로 기억될 거다."\n\n호기심 많은 그리폰들이 총소리가 어디서 났는지 알아내기 위해 사무실로 다가오자, 브루노는 사무실의 창문을 깨고 도망쳤고, 그들이 니콜라스를 죽였다고 결론짓기도 전에 브루노는 스스로 망명의 길에 올라 달아났습니다."
-flowena.111.a:0 "누가 이 도시를 통치하게 되지?!"
+flowena.111.d:0 "니콜라스 드 샤본은 시장 사무실로 들어가 의자에 앉아 책상에 뒷다리를 올려놓았습니다. 예상대로 그의 음모는 성공적이었고 아무도 의심하지 않았습니다. 그는 쉽게 이 도시의 지도자가 되었고, 곧 그의 발톱에 권력을 집중시키는 많은 개혁들을 시작할 것입니다. 결과적으로, 그는 귀족들의 지배를 끝내고, 귀족 회의를 해체하여 왕관을 되찾을 것이고, 자신이 왕자임을 스스로 선언할 것이었습니다. 하지만 지금은 그저, 축하하고 휴식을 취할 때입니다.\n\n문이 쾅 하고 열렸습니다. 망토로 자신을 가린 그리폰이 아무 말도 하지 않고 들어왔습니다. 니콜라스는 그의 의자에서 일어나서 그의 권총집에 있는 권총을 움켜잡았습니다. "네놈은 누구지? 내 사무실에서 뭐 하는 짓이지?" 그가 소리쳤습니다.\n\n"내 이름은 브루노 드 로즈브루네다. 네가 나의 형을 죽였으니, 죽을 각오나 해라."\n\n니콜라스가 무언가를 하기 전에, 밝은 섬광과 함께 크게 쾅 소리가 났고, 그의 이마에서 피가 솟구쳤습니다. 그는 죽은 그의 아버지처럼 바닥에 쓰러졌습니다. 그의 의식은 그렇게 끊어졌습니다.\n\n브루노는 그의 몸에 침을 뱉고 중얼거리기 시작했습니다. "너가 추첨에서 뽑히자 마자, 나는 끔찍한 사실을 깨달았지. 나는 황급히 저택으로 돌아갔어, 형과의 추억으로 초콜릿 형이 죽었을 때 발톱으로 쥐고 있던 위스키 병을 아직까지 간직하고 있었거든. 병에는 아직도 술이 남아있었지. 그것을 길거리에 있는 개에게 줘보니 곧 죽더라고, 위스키에는 작은 생쥐조차 죽일 수 없는 알코올만 들어있는데 말이야. 형은 급성 알코올 중독으로 죽지 않았어. 형은 독살당한 거야. 누가 배후에 있는지는 많이 생각해 볼 필요도 없더라고. 이 개자식. 너의 가문은 늘 그랬던 것처럼 줏대 없는 쓰레기로 기억될 거다."\n\n호기심 많은 그리폰들이 총소리가 어디서 났는지 알아내기 위해 사무실로 다가오자, 브루노는 사무실의 창문을 깨고 도망쳤고, 그들이 니콜라스를 죽였다고 결론짓기도 전에 브루노는 스스로 망명의 길에 올라 달아났습니다."
+flowena.111.a:0 "누가 이 도시를 통치하게 되는 거지?!"
 
 flowena.112.t:0 "권력 투쟁"
 flowena.112.d:0 "또다시 시장이 죽었다는 소식이 퍼지자, 도시 전체에 혼란이 일어났습니다. 마이클 랜드로의 지지자들은 귀족 계략의 통치가 종식되어야 한다고 선언한 반면 안나 드 인디고는 군중들을 진정시키고 도시에 진정한 민주주의와 평화를 가져다줄 광범위한 개혁을 약속하려고 노력했습니다. 안나와 마이클이 시민 회관에서 협상을 하기로 합의했음에도 불구하고 격렬한 충돌이 일어났습니다. 어느 한쪽은 결국 도시를 통치해야 할 것이지만, 어느 쪽도 다른 한쪽이 니콜라스의 뒤를 이어 시장이 되는 것을 허락하고 싶지 않았습니다. 하지만 그들은 시비를 걸 때마다 길거리에서 죽는 그리폰이 한 마리씩 더 있다는 것을 알았습니다. 완전한 무질서가 그들 모두를 파괴하기 전에 협상이 빨리 타결되어야만 했습니다."
@@ -1194,20 +1194,20 @@ flowena.117.d:0 "오늘은 니콜라스가 준비하고 계획하는데 많은 �
 flowena.117.a:0 "시민들의 영웅, 니콜라스 드 샤본 만세!"
 
 flowena.118.t:0 "숙청"
-flowena.118.d:0 "시민들이 분노하는 일을 만들지 않는다면, 왕자는 그들이 더 안전하게 느끼도록 할 수 있을 것이고, 혜택으로 그들을 이길 수 있을 것입니다. 주저하거나 사악한 충고와 다르게 행동하는 사람은 항상 칼을 손에 쥐도록 강요당합니다. 그는 계속해서 생기는 잘못된 일들 때문에 자기 신하들에게 의지할 수도 없고 자기 자신에게도 의지할 수 없습니다. 또한 그리폰들은 가벼운 상처에 대한 복수를 할 수 있지만, 더 심각한 상처에 대한 복수는 할 수 없으므로, 좋은 대우를 해주거나 완전히 으스러트려야 됩니다.\n\n이러한 지혜를 명심하고, 니콜라스는 재빠르게 행동했습니다: 곧 마이클 랜드로는 알려지지 않은 공격자에 의해 죽은 채로 발견되었습니다. 니콜라스는 그 즉시 마이클이 니콜라스의 열렬한 지지자였기 때문에 사악한 드 인디고와 드 로즈브루네 가문의 분노를 받았다고 말하면서 비난했습니다. 이 소식은 노동자들을 충격에 빠뜨리고 분노하게 했습니다. 노동자들은 그의 민병대와 함께 거리로 나갔고 부유한 저택들이나 그들이 어디에 숨어 있든 두 가문의 모든 귀족들을 찾아다녔습니다. 두 가문은 위험한 그리폰들이라는 국가의 적으로 낙인찍힌 후 린치, 살인, 그리고 더 나쁜 것으로 완전히 파괴되었습니다. 니콜라스와 그의 시민들의 정당한 분노를 피한 가문원은 거의 없었습니다.\n\n니콜라스의 절대 통치에 대한 모든 잠재적인 반대와 위협도 갑작스러운 사태의 변화에 의해 분열되고 혼란스러워하는 동안 제거되었습니다. 가장 위험한 귀족 가문들은 사라지고 노동자들은 이제 니콜라스를 그들의 지도자이자 마이클 랜드로의 후계자로 보았습니다. 이렇게 국가는 확보되었고, 니콜라스는 밤에 평화롭게 쉴 수 있었습니다. 하지만 폭력에 참여하지 않은 그리폰들은 이제 그를 두려워했고 니콜라스나 그의 쿠데타를 지지하지 않았던 그리폰들은 그를 경멸하고 불신하였습니다. 그들 또한 다스리게 될 것입니다."
+flowena.118.d:0 "시민들이 분노하는 일을 만들지 않는다면, 왕자는 그들이 더 안전하게 느끼도록 할 수 있을 것이고, 그들에게 주는 혜택으로 그들을 이길 수 있을 것입니다. 주저하는 사람이나 사악한 의도의 충고와 다르게 행동하는 사람은 항상 칼을 손에 쥐도록 강요당합니다. 왕자는 계속해서 생기는 잘못된 일들 때문에 자기 신하들에게 의지할 수도 없고 자기 자신에게도 의지할 수 없습니다. 또한 그리폰들은 가벼운 상처에 대한 복수를 할 수 있지만, 더 심각한 상처에 대한 복수는 할 수 없으므로, 오명을 사지 않도록 좋은 대우를 해주거나 완전히 으스러트려야 됩니다.\n\n이러한 지혜를 명심하고, 니콜라스는 재빠르게 행동했습니다: 곧 마이클 랜드로는 알려지지 않은 공격자에 의해 죽은 채로 발견되었습니다. 니콜라스는 그 즉시 마이클이 니콜라스의 열렬한 지지자였기 때문에 사악한 드 인디고와 드 로즈브루네 가문의 분노를 받았다고 말하면서 비난했습니다. 이 소식은 노동자들을 충격에 빠뜨리고 분노하게 했습니다. 노동자들은 그의 민병대와 함께 거리로 나갔고 부유한 저택들이나 그들이 어디에 숨어 있든 두 가문의 모든 귀족들을 찾아다녔습니다. 두 가문은 위험한 그리폰들이라는 국가의 적으로 낙인찍힌 후 린치, 살인, 그리고 더 나쁜 것으로 완전히 파괴되었습니다. 니콜라스와 그의 시민들의 정당한 분노를 피한 가문원은 거의 없었습니다.\n\n니콜라스의 절대 통치에 대한 모든 잠재적인 반대와 위협도 갑작스러운 사태의 변화에 의해 분열되고 혼란스러워하는 동안 제거되었습니다. 가장 위험한 귀족 가문들은 사라지고 노동자들은 이제 니콜라스를 그들의 지도자이자 마이클 랜드로의 후계자로 보았습니다. 이렇게 국가는 확보되었고, 니콜라스는 밤에 평화롭게 쉴 수 있었습니다. 하지만 폭력에 참여하지 않은 그리폰들은 이제 그를 두려워했고 니콜라스나 그의 쿠데타를 지지하지 않았던 그리폰들은 그를 경멸하고 불신하였습니다. 그러나 왕자는 그들 또한 다스리게 될 것입니다."
 flowena.118.a:0 "해야만 하는 일이었다."
 
 flowena.119.t:0 "대관식"
-flowena.119.d:0 "Nicolas de Charbon was crowned Prince of Flowena and Pomovarra in a grand ceremony in the Temple of Boreas, surrounded by a cheering crowd of loyal supporters and members of the parliament. His armed militiagriffs kept a close eye on the audience, looking for those who did not share everyone else's enthusiasm and who appeared to act suspiciously.\n\nThis experiment of moving from a constitutional to an absolute government is dangerous, because it can only be tried once. The actions of a new prince are more critically observed than those of an hereditary one. When princes are seen to be capable they gain more followers and make them more loyal than ancient blood. This is because griffons are attracted more by the present than by the past. When they find the present good, they enjoy it and seek no further. They will also strongly defend a prince if he does not fail them in other things. Thus it will be a double glory for him to have established a new principality, and enriched and strengthened it with good laws, good arms, good friends and good leadership. If the prince has established himself as a person who can command, and is a griffon of courage who does not fail in other qualifications, and who, by his resolution and energy, keeps all the people encouraged – such a one will never find himself abandoned by the people, and it will be shown that he has laid his foundations well."
+flowena.119.d:0 "니콜라스 드 샤본은 보레아스 신전에서 열린 성대한 대관식에서 충실한 지지자들과 의회 의원들로 구성된 환호하는 군중들에 둘러싸여 플로웨나의 왕자와 포모바라의 왕자로 추대되었습니다. 그의 민병대원들은 다른 모든 그리폰들과의 환희를 공유하지 않고 의심스럽게 행동하는 것처럼 보이는 그리폰들을 찾으면서 청중들을 예의 주시했습니다.\n\n입헌 정부에서 절대 정부로 옮겨가는 이 실험 행위는 한 번밖에 시도할 수 없기 때문입니다 위험합니다. 새롭게 즉위한 왕자의 행동은 세습된 왕자가 하는 행동보다 더 비판적으로 관찰됩니다. 왕자들이 능력이 있다고 여겨질 때 그들은 더 많은 추종자들을 얻게 되고 그들을 과거의 핏줄에서보다 더 충성스럽게 만듭니다. 왜냐하면 그리폰은 과거보다는 현재에 더 끌리기 때문입니다. 그들이 현재의 좋은 점을 발견했을 때, 그들은 현재의 상황을 즐기고 더 이상 과거를 추구하지 않습니다. 그들은 또한 왕자가 다른 일에 실패하지 않는다면 왕자를 강력하게 보호할 것입니다. 그러므로 왕자가 새로운 원칙을 세우고, 좋은 법, 좋은 무기, 좋은 친구, 그리고 좋은 지도력으로 국가를 풍부하게 하고 강화시키는 것은 두 배의 영광이 될 것입니다. 만약 왕자가 자신을 지휘할 수 있는 그리폰으로 확립하고, 다른 자격에 실패하지 않았으며, 그의 결심과 에너지로 모든 그리폰들을 격려하는 용기의 그리폰이된다면, 그러한 용기는 결코 시민들에게 버림받지 않을 것이고, 그가 자신의 기초를 잘 다졌다는 것을 보여줄 것입니다."
 flowena.119.a:0 "왕자님 만세!"
 
 flowena.120.t:0 "모닥불"
-flowena.120.d:0 "Prince Nicolas publically declared that the age of decadence had come to an end, and this would be symbolized by a bold and dramatic act. The many botanical gardens of the city, used exclusively to supply the dyeworks and the perfume distilleries, engines of the Flowenan civilian economy that had enriched the patricians for centuries. But Nicolas' reign had no need for such luxuries. The gardens were set alight, the exotic trees cut down en masse and flowers torn from the ground and thrown away. The factories were repurposed and turned into gunsmiths' workshops and armouries. If they wished to survive in this tumultuous age, they needed to become strong, and strength was founded upon armaments, not colourful fabrics.\n\nMany workers cheered and celebrated the act, happy to see the greedy patricians wail upon losing the source of their wealth. But a few mourned, seeing the gardens as something that had made Flowena special and beautiful, instead of merely being used for profit. They hid their emotions and remained silent, fearing reprisals from the Prince's more fanatic supporters."
+flowena.120.d:0 "니콜라스 왕자는 공개적으로 타락의 시대가 끝났다고 선언했고, 이것은 대담하고 극적인 행동으로 상징될 것입니다. 도시의 많은 식물원들은 오직 염료 공장과 향수 증류소에 물자를 공급하는 데만 사용되었고, 이것은 수 세기 동안 귀족들을 풍요롭게 만들어주던 플로웨나의 민간 경제의 엔진이었습니다. 하지만 니콜라스의 통치는 그러한 사치품을 필요로 하지 않았습니다. 정원은 불타고, 이국적인 나무들은 무리 지어 잘려나갔으며, 꽃들은 땅에서 찢어져 버려졌습니다. 공장들은 용도가 변경되었고 총기 공장과 무기고로 바뀌었습니다. 만약 그들이 이 격동의 시대에 살아남기를 원한다면, 그들은 강해질 필요가 있었고, 힘은 다채로운 천이 아닌 군비 확충에 기초했습니다.\n\n많은 노동자들은 탐욕스러운 귀족들이 그들의 재산의 원천을 잃었을 때 울부짖는 것을 보고 기뻐하며 이 행위를 환호하고 축하했습니다. 하지만 몇몇 그리폰들은 이 정원들을 단지 이윤 창출을 위해 이용되는 것이 아닌 특별하고 아름답게 만들어진 무엇 가로 보고 슬퍼했습니다. 그들은 왕자의 광적인 지지자들의 보복을 두려워하며 감정을 숨기고 침묵을 지켰습니다."
 flowena.120.a:0 "불꽃은 아름답다, 어떤 면에서는..."
 
 flowena.121.t:0 "습격!"
-flowena.121.d:0 "Our military is reporting that guerilla fighters in the countryside and in the outskirts of our towns have struck, blowing up vital roads and railways used by our army as well as raiding our armories and military factories. They even attacked towns and cities during the night, setting fires and burning down a factory, as well as several apartment buildings near it. Not only have there been both military and civilian casualties, but the economic damage has been significant as well. Repairs will cost thousands, if not millions. Our security service is baffled and has no idea what monsters were behind this attack."
-flowena.121.a:0 "Curse them, whoever they were!"
+flowena.121.d:0 "우리 군은 시골지역과 외곽지역의 게릴라군이 우리 군이 사용하는 중요한 도로와 철도를 폭파하고 우리의 무기고와 군사 공장을 급습했다고 보고하고 있습니다. 그들은 심지어 밤 동안 마을과 도시들을 공격하여 불을 지르고 공장뿐만 아니라 그 근처의 몇몇 아파트 건물도 불태웠습니다. 군인과 민간인 사상자가 있었을 뿐만 아니라 경제적 피해도 상당했습니다. 수리하는 데는 수백만 까지는 아니더라도, 수천의 재산이 지출될 것입니다. 우리의 안보국은 당황스러워하며 이번 공격의 배후가 누구인지 전혀 모르고 있습니다."
+flowena.121.a:0 "그들이 누구든 간에, 저주하리라!"
 
 #flowena.122.t:0 "Antiwar Sentiment"
 #flowena.122.d:0 "Today pacifists in our nation held a large-scale rally, making demands such as disbanding our army and relying exclusively on diplomacy to solve our international disputes. They have spread pamphlets across the country, urging soldiers to lay down their arms and stop risking their lives for a foolish cause. Unfortunately some have taken their message seriously, and thousands of reservists are resigning from the army."
@@ -1217,21 +1217,21 @@ flowena.121.a:0 "Curse them, whoever they were!"
 #flowena.123.d:0 "Lower class peasants and craftsgriffs are protesting in the capital and in our largest towns, demanding more rights and representation in the government. Both communists and harmonists marched together, claw in claw, and in some places tensions escalated and violence broke out. Several stores were looted and riot police injured. The protesters have calmed down for now, but the damage has been done."
 #flowena.123.a:0 "Common filth..."
 
-flowena.124.t:0 "[From.GetNameDef] Trusts Us"
-flowena.124.d:0 "Our dignitary has returned from his journey to [From.Capital.GetName], the capital of the [From.GetNameDef]. She brought us good news as they have made a formal promise to respect our neutrality and never attack us. Their military forces have pulled away from our border, so it seems they have foolishly trusted our prince. Little do they know he has no intention of keeping his word..."
-flowena.124.a:0 "Most excellent."
+flowena.124.t:0 "[From.GetNameDef] 이/가 우리를 신뢰했습니다"
+flowena.124.d:0 "우리의 고위 관료들이 [From.GetNameDef] 의 수도 [From.Capital.GetName] 에서의 여정을 마치고 돌아왔습니다. 관료들은 그들이 우리의 중립을 존중하고 결코 우리를 공격하지 않겠다는 공식적인 약속을 받아냈다는 좋은 소식을 가져다주었습니다. 그들의 군대가 국경에서 철수하였으며, 그들은 어리석게도 우리의 왕자를 신뢰한 것 같습니다. 왕자가 약속을 지킬 의도가 없다는 것을 그들은 모릅니다..."
+flowena.124.a:0 "아주 훌륭하다."
 
-flowena.125.t:0 "[From.GetNameDef] Refuses"
-flowena.125.d:0 "Our dignitary has returned from his journey to [From.Capital.GetName], the capital of the [From.GetNameDef]. Unfortunately they did not fall for our tricks and did not sign a treaty of non-aggression with us. We will have to defeat them fairly in battle, it seems."
-flowena.125.a:0 "It was worth a try."
+flowena.125.t:0 "[From.GetNameDef] 이/가 거절했습니다"
+flowena.125.d:0 "우리의 고위 관료들이 [From.GetNameDef] 의 수도 [From.Capital.GetName] 에서의 여정을 마치고 돌아왔습니다. 불행하게도 그들은 우리의 속임수에 넘어가지 않았고 우리와 불가침 조약을 맺지 않았습니다. 우리는 전쟁으로 그들을 공정하게 물리쳐야 할 것 같습니다."
+flowena.125.a:0 "시도해볼 만했다."
 
 flowena.126.t:0 "전염병 확산!"
-flowena.126.d:0 "Grim reports are coming from all across the country. In almost every city, town and village, the plague has struck without mercy, incapacitating and even killing tens of thousands within days. Our doctors have identified it as the notorious Wet Plague, which kills its victims by filling their lungs with fluid.\n\nThere is no known cure for this.\n\nNot too long ago an epidemic of the disease struck the small city-state of Flowena, and it seems it spread from there via trade routes as the city is a center of commerce."
-flowena.126.a:0 "Impose quarantine and do everything you can to stop it!"
+flowena.126.d:0 "전국 각지에서 암울한 보도가 나오고 있습니다. 거의 모든 도시, 마을, 그리고 촌락에서 전염병이 무자비하게 강타했고 시민들을 무력화시켰으며 수만 마리의 목숨을 앗아갔습니다. 우리 의사들은 이것이 악명 높은 습식 전염병이라고 밝혀냈습니다. 이 전염병은 폐에 액체를 채워 감염자들을 죽게 합니다.\n\n이 전염병에 대해 알려진 치료법은 없습니다.\n\n얼마 전, 이 전염병은 작은 도시인 플로웨나를 강타했었으며, 이 도시는 상업의 중심지이기 때문에, 이 전염병은 플로웨나로부터 무역로를 통해 퍼져나간 것으로 보입니다."
+flowena.126.a:0 "격리를 시행하고 확산을 막기 위해 할 수 있는 모든 것을 하라!"
 
 flowena.127.t:0 "대관식과 결혼식"
-flowena.127.d:0 "A huge crowd of griffons from all across Aquileia gathered at the Temple of Boreas in Aquila as Nicolas de Charbon, the protector of the people, was crowned by a Prelate. He had crushed both dissident Discrets and violent revolutionaries, and had already introduced reforms to earn the favour of the people. Now his right to rule Aquileia would be recognized, but more was needed to truly cement his reign.\n\nThe crowd then followed Nicolas to the Temple of Eyr. Here, centuries ago, Grover II had stood triumphant and married Princess Giselda to ensure Aquileian loyalty and obedience. But this time, the wedding would serve to secure the survival and legitimacy of the new King's dynasty. There, Princess Viviane Discret waited for him, dressed up in a fabulous yet ascetic gown, as lightly decorated as Nicolas' black suit. She forced a fearful smile and offered her claw to him reluctantly. They entered together, and inside the priests declared them husband and wife. The crowd cheered in jubilation, drowning Viviane's sorrow in their enthusiasm.\n\nNicolas looked up, and whispered: "I hope you are proud of me, father.""
-flowena.127.a:0 "Longue vie au Roi!"
+flowena.127.d:0 "아퀼레이아 전역에서 온 거대한 그리폰 무리들이 아퀼라의 보레아스의 신전에 모여들었고, 시민들의 보호자인 니콜라스 드 샤본이 추기경의 축복하에 왕위에 올랐습니다. 그는 반체제 인사인 디스크렛과 폭력적인 혁명가들을 모두 무찔렀고, 국민들의 환심을 사기 위해 개혁을 단행했습니다. 이제 아퀼레이아를 통치할 권리는 인정받았지만, 그의 통치를 진정으로 강화하기 위해서는 더 많은 것이 필요했습니다.\n\n군중들은 니콜라스를 따라 아이르 신전으로 갔습니다. 이곳에서, 수 세기 전에, 그로버 2세는 아퀼레이아인들의 충성심과 복종을 보장하기 위해 승리를 거두고 기셀다 공주와 결혼했습니다. 이번에 이루어지는 결혼식은 새로운 왕의 왕조의 생존과 합법성을 확보하는 데 도움이 될 것입니다. 그곳에서, 비비안 디스크렛 공주는 니콜라스의 검은 양복처럼 약간 장식된 멋있으면서도 금욕적인 드레스를 입고 그를 기다렸습니다. 그녀는 두려운 미소를 지으며 마지못해 그에게 발톱을 내밀었습니다. 그들은 함께 신전으로 들어갔고, 성직자들 사이에서 부부가 되었음을 선언 받았습니다. 군중들은 열광하며 환호했고, 그들의 열정은 비비안을 슬픔에 빠뜨렸습니다.\n\n니콜라스는 고개를 들고 속삭였습니다: "아버지, 제가 자랑스럽기를 바랍니다.""
+flowena.127.a:0 "국왕 폐하 만세!"
 
 flowena_news.1.t:0 "그리펜하임-아퀼라 협약"
 flowena_news.1.d:0 "[This.GetNewspaperHeader]그리포니아 제국과 아퀼레이아의 외교관들은 오늘 참관인들에 의하여 그리펜하임-아퀼라 협약의 서명으로 역사적인 협정을 이루어냈다고 결론 내렸습니다. 이 불가침 조약은 양측이 상호 국경을 존중하고 상호 간의 개방적인 무역을 유지하도록 규정하고 있습니다. 플로웨나 또한 이 협약의 서명자이기도 했고, 두 나라 모두 이 작은 도시 국가의 중립을 존중하는 데 동의했습니다. 일부 회의론자들은 이 평화협정이 오래 지속되지 않을 것이라고 말하지만, 많은 그리폰들은 여전히 희망에 차 있습니다."
@@ -1241,7 +1241,7 @@ flowena_news.2.t:0 "플로웨나가 금융 비밀 보호법을 폐지하다"
 flowena_news.2.d:0 "[This.GetNewspaperHeader][FLO.GetNameDef]에서 고객 기밀 유지에 대한 수 세기 동안의 전통이 오늘 막을 내렸습니다. 이것을 주도한 의회인, 귀족 회의는 고객 정보를 공개하는 것으로 인해 처벌되는, 수 년에 걸쳐 제정된 수많은 법률들을 폐지하는 투표에서 만장일치로 동의했습니다. 이미 수천 건의 문서가 발행되었고, 그리포니아 전역의 수백 마리의 부유한 그리폰들이 세금을 탈세하거나 돈을 세탁하기 위해 플로웨나 은행 계좌를 사용한 혐의가 폭로되었습니다. 수백만이 넘는 돈이 이미 몰수되었습니다. 은행은 많은 고객을 잃었지만, 정직하고 법을 준수하는 고객들은 그 어느 때보다 행복합니다."
 flowena_news.2.a:0 "다른 은행을 찾아야 할 것 같군..."
 flowena_news.2.b:0 "정말 멋진 행동이네!"
-flowena_news.2.c:0 "저 그리폰들과 황금들은..."
+flowena_news.2.c:0 "그리폰들과 황금들이란..."
 
 ### Decisions
 FLO_banking:0 "은행"
