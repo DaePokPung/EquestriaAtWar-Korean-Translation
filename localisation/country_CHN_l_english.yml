@@ -20,7 +20,7 @@ CHN_anti_air_equipment_1_short:0 "2 cm 대공포 07"19"
 CHN_anti_air_equipment_2:0 "아이스칼텐신 3.7cm 대공포 11"
 CHN_anti_air_equipment_2_short:0 "3.7cm 대공포 11"
 CHN_anti_air_equipment_3:0 "아이스칼텐신 5 cm 대공포 14"
-CHN_anti_air_equipment_3_short:0 "5 cm 대공포 14"
+CHN_anti_air_equipment_3_short:0 "5 cm 대공포 14
 
 
 CHN_anti_tank_equipment_1:0 "이콜메탈 3.7 cm 대전차포 07"
@@ -31,7 +31,7 @@ CHN_anti_tank_equipment_3:0 "이콜메탈 8.8 cm 대전차포 14"
 CHN_anti_tank_equipment_3_short:0 "8.8 cm 대전차포 14"
 
  
-CHN_artillery_equipment_1:0 "이콜메탈 10.5 cm 경야포 18"
+CHN_artillery_equipment_1:0 "이콜메탈 10.5 cm 경야포 18
 CHN_artillery_equipment_1_short:0 "10.5 cm 경야포 18"
 CHN_artillery_equipment_2:0 "이콜메탈 15 cm 중형 야포 18"
 CHN_artillery_equipment_2_short:0 "15 cm 중형 야포 18"
@@ -1148,7 +1148,7 @@ queens_tower_flag:0 "여왕의 첨탑 건설과정"
 changeling_school_of_war_trait:0 "체인질링 전쟁학교"
 queens_tower_finish_trigger_tt:0 "§Y첨탑 건설§!은 §Y4번§! 완료해야 합니다."
 
-CHN_annexed_olenia_by_event:0 "Olenia surrendered in an event"
+CHN_annexed_olenia_by_event:0 "올레니아가 어떤 사건으로 인해 항복하다"
 
 
 ###########################################
@@ -1186,10 +1186,10 @@ CHN_post_war_2_i:0 "이퀘스트리아인 재산 압류"
 CHN_post_war_2_i_desc:0 "The total dissolution of the Equestrian state meant that swathes of industry, previously having been nationalised to contribute to the pony war effort, can now be considered Bona Vacantia and thus up for grabs. The Hives' industrialists and capitalists will have to make some difficult choices, to prioritise what assets to seize and what to leave behind."
 CHN_post_war_2_j:0 "포니 의용 군단"
 CHN_post_war_2_j_desc:0 "팍스 크리살리아는 포니들의 복종이 체인질링의 타고난 권리라고 하고 있습니다. 비록 여왕님은 평범한 포니에게는 무관심하지만, 체인질링보다 뛰어난 포니는 정당한 보상을 받았습니다. 만약 포니가 여전히 가치가 있음을 증명할 수 있다면, 아마도 바뀔 수 있을 것입니다."
-CHN_post_war_2_k:0 "Aktionsplan Bedeckt"
-CHN_post_war_2_k_desc:0 "Coming into possession of Equestrian territory means we have also gained access to many testing sites and vast quantities of valuable research and knowledge, as well as the know-how of Equestrian scientists themselves. The VOPS will be tasked with the consolidation and conscription of all such assets, tangible and intangible, into the service of the Hives and the Heer."
-CHN_post_war_2_l:0 "The Queen's Own Thestral Jägers"
-CHN_post_war_2_l_desc:0 "Queen Chrysalis was rather pleased by the formation of the RPVC; more specifically, with the imagery of pony soldiers serving in Changeling uniform. She has requested the creation of a new personal bodyguard unit comprised of thestral soldiers trained in jaeger tactics, as a symbol of her rulership over Equestria — after all, even Celestia herself could not command the loyalty of the thestrals."
+CHN_post_war_2_k:0 "행동계획 적용"
+CHN_post_war_2_k_desc:0 "이퀘스트리아의 영토를 갖게 됨으로써 우리는 이퀘스트리아 과학자들의 노하우뿐만 아니라,  많은 시험 장소와 막대한 양의 연구와 지식을 얻게 된다는 것을 의미합니다. VOPS는 만질 수 있거나 만질 수 없는 모든 형태의 자산을 군락들과 군대에 통합하고 징집하는 임무를 맡게 될 것입니다."
+CHN_post_war_2_l:0 "여왕 직속 테스트라 예거"
+CHN_post_war_2_l_desc:0 "크리살리스 여왕님은 RPVC의 형성에 약간 기뻐하셨습니다; 좀 더 구체적으로는 체인질링 군복을 입은 포니 병사들의 형성입니다. 그녀는 이퀘스트리아에 대한 통치의 상징으로써, 예거 전술 훈련을 받은 테스트라 군인들로 구성된 새로운 개인 경호 부대의 창설을 요청했습니다-결국에는, 셀레스티아조차 테스트라에게 충성을 명령할 수 없었습니다."
 CHN_post_war_2_m:0 "시애들 의정서"
 CHN_post_war_2_m_desc:0 "Marsilio 총사령관의 아이디어인 시애들 의정서는 이퀘스트리아인으로부터 사랑을 효율적이고 지속 가능한 추출을 위해 규제적이고 원칙적인 메뉴얼입니다. 여왕의 친위대는 사랑수확에 대한 의정서의 제한을 염려하고 있지만, Marsilio의 협력자들은 이것이 체인질링의 부양가족과 포니 제공자 사이의 안정적인 업무관계를 이룰 수 있는 유일한 방법으로 보고 있습니다."
 CHN_post_war_3:0 "높은 탑의 규칙"
@@ -1258,12 +1258,12 @@ CHN_post_war_5_b:0 "전쟁 포로 흡수"
 CHN_post_war_5_b_desc:0 "최후의 반격 이후, 대전쟁의 마지막 달에 이퀘스트리아군이 완전히 패배하면서 수십만 마리의 병사들이 전쟁이 끝날 무렵 승리한 체인질링 사단에게 한꺼번에 항복했습니다. 이퀘스트리아와 체인질링 랜드 전역의 포로 수용소에서 고통스러워 하는 이 수감자들은 논란이 많지만 쉽게 접근할 수 있는 사랑의 원천입니다."
 CHN_post_war_5_c:0 "군락들 먹이주기"
 CHN_post_war_5_c_desc:0 "사랑 추출 시스템이 가동되고 사랑이 풍부한 이퀘스트리아 전역에 군대와 그 수비대들이 배치되면서, 수확된 풍부한 사랑의 공급은 소비를 하는 주민에게 분배해주기 위해 체인질링 랜드로 흘러갑니다. 가장 부유한 기업가에서부터 가장 하찮은 공장의 게으름뱅이까지, 우리는 노동의 결실을 나눌 것이고, 군락들은 그것을 위해 더 열심히 할 것입니다."
-CHN_post_war_5_d:0 "Einquartierung-Schema"
-CHN_post_war_5_d_desc:0 "Under the Royal Changeling Heer's Billeting Scheme, NCOs and officers serving in regional garrisons are billeted in the homes of the local populace. In addition to being in a position to perform surveillance on any potential resistance activities within the local community, the billeted changelings are also empowered to be able to draw upon their pony hosts for Love."
+CHN_post_war_5_d:0 "할당 방식"
+CHN_post_war_5_d_desc:0 "왕립 체인질링 군대의 임시 숙소 제도에 따라, 지역 수비대에서 근무하는 하사관들과 장교들은 지역 주민의 집에서 숙박합니다. 이는 지역 사회에 발생할 수 있는 잠재적인 저항 활동에 대해 감시를 수행할 수 있는 위치에 있는 것 뿐만 아니라, 임시숙소의 체인질링들은 사랑을 얻기 위한 포니 숙주를 추첨할 수 있는 권한을 갖습니다."
 CHN_post_war_5_e:0 "종합부대 훈련"
 CHN_post_war_5_e_desc:0 "우리는 패권 내의 비체인질링들을 대상으로 사랑을 수집하기 위해 의무대와 헌병대에서 선발된 전문 병사들로 구성된 기동부대를 배치할 것입니다. 이것은 우리의 사랑 획득 작전의 효율성을 크게 증가시키고, 섬세한 사랑 추출 기술의 제도화와 전문화를 촉진합니다."
 CHN_post_war_5_f:0 "사랑 처리방법 개선"
-CHN_post_war_5_f_desc:0 "미래를 바라보면, 팍스 크리살리아의 지속적인 안정과 번영은 군락과 군대를 위한 지속적이고 믿을 수 있는 사랑 공급에 달려 있습니다. 우리의 사랑 비축량은 아주 많기 때문에, 우리 과학자들은 사랑 추출 산업단지를 최고의 상태와 최신식으로 유지하기 위한 추가 연구에 몰두하도록 할 수 있습니다 ."
+CHN_post_war_5_f_desc:0 "미래를 바라보면, 팍스 크리살리아의 지속적인 안정과 번영은 군락과 군대를 위한 지속적이고 믿을 수 있는 사랑 공급에 달려 있습니다. 우리의 사랑 비축량은 아주 많기 때문에, 우리 과학자들은 사랑 추출 산업단지를 최고의 상태와 최신식으로 유지하기 위한 추가 연구에 몰두하도록 할 수 있습니다."
 CHN_post_war_5_g:0 "공생 선언문"
 CHN_post_war_5_g_desc:0 "사랑이란 무엇인가? 그것은 체인질링 종족의 핵심적인 질문입니다. 옛날부터 체인질링들은 사랑에 의존해 왔고, 더 많이 원하는 중독자처럼 형태가 없는 물질을 끊임없이 추구해 왔습니다. 하지만 우리가 사랑을 수확한 생물들은 어떨까요? 그들도 필요하지 않을까요?"
 CHN_canterlot_1:0 "왕관의 보석"
@@ -1272,7 +1272,7 @@ CHN_canterlot_2_a:0 "우울한 유니코니아"
 CHN_canterlot_2_a_desc:0 "비록 그곳은 양두정치의 자리였지만, 캔틀롯은 항상 전형적인 유니콘의 도시라는 명성이 있었습니다; 실제로, 제한되었지만 여전히 유니콘이 다수인 이퀘스트리아 귀족의 고향이였습니다. 체인질링의 점령은 수세기 동안의 포니 수도에 대한 유니콘의 지배를 흔들어 놓았습니다. 의심 할 여지없이 이것은 도시의 저항 활동에 영항을 미칠 것입니다."
 CHN_canterlot_2_b:0 "발굽을 내려놓다"
 CHN_canterlot_2_b_desc:0 "[CHN_scripted_loc_string_hoof_down_focus]"
-CHN_canterlot_2_c:0 "Dabble in the Esoteric"
+CHN_canterlot_2_c:0 "비밀단체의 손짓"
 CHN_canterlot_2_c_desc:0 "[CHN_scripted_loc_string_dabble_focus]"
 CHN_canterlot_2_d:0 "제 96. '캔틀로니안'"
 CHN_canterlot_2_d_desc:0 "그의 위원회가 갖고 있는 작지 않은 자치권을 이용하여 Jachs 소장은 재편된 96 보병사단으로 캔틀롯 수비대를 강화하기로 결정했고, 96 사단은 대전쟁 동안 처음이고 특별하게 그 밑에서 복무한 동창생으로 구성되어 있고 소장이 개인적인 전시 지휘권을 갖고 있습니다."
@@ -1292,8 +1292,8 @@ CHN_whats_in_a_mark:0 "마크 안에 뭐가 있을까?"
 CHN_whats_in_a_mark_desc:0 "큐티 마크는 잘 이해되지 않는 매우 신비로운 존재입니다. 포니들은 그것을 갖고 있고, 그들의 개성과 재능에 활기차고 적극적입니다. 체인질링들은 그렇지 않고, 우리는 군락의 사회라는 기계의 톱니바퀴에 지나지 않습니다. 큐티 마크가 우리 종족의 지나치게 순응적인 특성으로부터 구할 수 있는 열쇠가 될 수 있을까요?"
 CHN_picture_perfect_pony_focus:0 "흠 잡을 데 없이 완벽한 포니"
 CHN_picture_perfect_pony_focus_desc:0 "여왕의 친위대는 확실히 개성을 바꾸는 커다란 딜레마를 해결하려는 노력에 관심이 없습니다; 순능은 그들에게 아주 잘 어울립니다. 그들은 그것을 위해 체인질링에게 큐티마크를 주기 위한 연구에 자금을 대지 않을 것입니다. 하지만 우리가 그들에게 포니의 재능을 완벽하게 흉내낼 수 있는 침투원들을 더 줘서 그들을 설득할 수 있다면, 우리는 필요한 자금을 얻을 수 있을 것입니다."
-CHN_hearts_desire_focus:0 "Heart's Desire"
-CHN_hearts_desire_focus_desc:0 "To do something as extraordinary as give a changeling a cutie mark, we must find something similarly as extraordinary to pull it off. Heart's Desire is a powerful plant that is said to give a pony what they desire the most; perhaps it can help us achieve our goal. It's worth a shot, right?"
+CHN_hearts_desire_focus:0 "심장의 욕망"
+CHN_hearts_desire_focus_desc:0 "체인질링에게 큐티마크를 주는 것과 같은 특별한 일을 해내려면, 그 특별한 것과 비슷한 것을 찾아내야 합니다. '심장의 욕망'은 포니가 가장 원하는 것을 준다고 하는 강력한 식물입니다; 아마도 그것은 우리의 목표를 달성하는데 도움을 줄 수 있을 것입니다. 한번 시도해 볼만하죠?"
 CHN_poison_joke_focus:0 "Poison Joke"
 CHN_poison_joke_focus_desc:0 "There is perhaps no plant more magically impressive than Incredibilis humorous, more commonly known as Poison Joke. We need a plant as magically powerful as a cutie mark itself if we want to achieve our goal of granting those marks to our species. Only one problem: the flower only grows in the Everfree Forest, and the dangers of the forest need not be restated."
 CHN_truth_seeds_focus:0 "진실의 씨앗"
@@ -1307,7 +1307,7 @@ CHN_scripted_loc_change_a_ling:0 "Amazingly, Oberstleutnant Alcippe and Generalo
 CHN_the_future_is_ours:0 "A Future in the Making"
 CHN_the_future_is_ours_desc:0 "We have overcome trial after tribulation, and we know our purpose in life. It is our duty to make the Pax Chrysalia truly peaceful. And all of us together, working as one, can finally make it so.\n\nThis story is ending. But a new one, a greater one, is just beginning."
 
-CHN_continuous_love_harvesting:0 "The Love Harvest"
+CHN_continuous_love_harvesting:0 "사랑 수확"
 CHN_continuous_love_harvesting_desc:0 "Changeling occupation forces will be tasked with the extraction of Love from local populations. These unscheduled and decentralised extractions will go a long way in boosting Love production, but can only be regarded as a temporary measure, ultimately limited in its usefulness by its inherent unsustainability."
 
 CHN_scripted_loc_focus_redacted:0 "— 삭제됨 —" ## NO SPOILERS ##
@@ -1315,7 +1315,7 @@ CHN_scripted_loc_focus_redacted:0 "— 삭제됨 —" ## NO SPOILERS ##
 CHN_scripted_loc_trixie_focus:0 "The best defense is a good offense, and to further entrench our control over Equestria, it is time we seize the initiative by striking at the Harmonic Resistance. One of their core leaders, identified by the VOPS as the unicorn mare Trixie Lulamoon, is said to be in Whinnyapolis and directing operations from there. The neutralisation of such a threat is paramount to the ensured security of the Pax Chrysalia."
 CHN_scripted_loc_starlight_focus:0 "Our operation targeting Trixie Lulamoon revealed her links to Starlight Glimmer, notorious Equestrian resistance leader and former Equalist ideologue, with whom the Great Queen herself shares an especial enmity. An opportunity to eliminate this despised enemy of the Changeling nation has presented itself in Bales, where Starlight is rumoured to be currently based. It's time to take out the trash."
 
-CHN_scripted_loc_dabble_focus:0 "The mystery surrounding this so-called Cornucopia Society is too thick to pierce through normal means. If we want to understand exactly what we are dealing with, then we must arrange a meeting with their leadership. Who knows just what may happen?"
+CHN_scripted_loc_dabble_focus:0 "이른바 풍요의 뿔 협회를 둘러싼 미스터리는 너무 두껍고 정상적인 방법으로는 뚫을 수가 없습니다. 우리가 그들이 정확히 무엇을 다루는지 알아내고 싶다면, 우리는 그들의 지도자들과 만남을 주선해야 합니다. 무슨일이 벌어질지 누가 알겠어요?"
 CHN_scripted_loc_hoof_down_focus:0 "The Cornucopia Society is a wildcard that we cannot afford to let go unchecked. We do not know exactly how deeply involved in anti-changeling resistance activities throughout Canterlot they may be, but we can track them down and destroy them nonetheless. Secret societies have no place in a post-Equestria Canterlot, and they must be eliminated."
 
 CHN_scripted_loc_subjugate_everfree:0 "The Everfree Forest has a reputation for being an inhospitable hellhole, full of monstrous fauna and predatory flora. Although the Heer has been forced to withdraw from the Forest, we are sure that this is but a temporary setback: with the might of the Hives' industry and military, the Pax Chrysalia will finish what the Industrial Revolution started, and wipe out this last bastion of primitive wilderness in the modern era."
@@ -1328,8 +1328,8 @@ CHN_scripted_loc_witch_hunt:0 "The partisans taken captive in our campaign again
 
 ## General Events ##
 changelings_paxchrysalia.1000.t:0 "대전쟁의 끝"
-changelings_paxchrysalia.1000.d:0 "It is finally over.\n\nAfter countless months of bloody struggle, Equestria has finally succumbed to our victorious armies. On every battlefield in every theatre, the pony armies have been routed, crushed, and scattered to the winds. The enemy's organized resistance has been put to an end, and its leaders - those who haven't fled into exile, at least - have formally surrendered in Canterlot. The Great War is over.\n\nBut while the changelings back home pour into the streets in celebration from Vraks to Vesalipolis, those 'lings tasked with garrisoning our new gains are far from jovial. For while Equestria's armed forces lie in ruin, the fighting spirit of the ponies now under changeling rule will be much harder to pacify. As former soldiers melt back into their hometowns with fresh scars and painful memories of the bitter fighting on the front, the civilian population is beginning to mobilize in a way it hadn't during the war. There is much work to be done if we want to guarantee our hold over Equestria will stand the test of time.\n\nQueen Chrysalis has proclaimed this new era the "Pax Chrysalia", but those words are as hollow as the bells that toll our victory.\n\nConquering Equestria was the easy part. Holding on to it will be a much harder task."
-changelings_paxchrysalia.1000.a:0 "The "Pax Chrysalia" is anything but."
+changelings_paxchrysalia.1000.d:0 "드디어 끝났습니다.\n\n수개월간의 유혈투쟁 끝에, 이퀘스트리아는 마침내 우리의 승리한 군대에게 무릅을 꿇었습니다. 모든 곳의 모든 전장에서 포니 군대는 패배하고, 분쇄되고, 바람에 흩어졌습니다. 적의 조직적인 저항은 끝났고, 그 지도자들 - 적어도 망명하지 않은자들 - 은 캔틀롯에서 공식적으로 항복했습니다. 대전쟁은 종식되었습니다.\n\n하지만 고향의 체인질링들이 브락스에서 베살리폴리스까지 길거리에 축하하러 쏟아져 나오는 동안, 우리의 새로운 이익을 수호하는 임무를 맡은 체인질링들은 쾌활함과는 거리가 멉니다. 이퀘스트리아 군대가 파멸하는 동안, 체인질링 통치하에 있는 포니들의 투지는 진정시키기 훨씬 더 어려울 것입니다. 전직 군인들이 고향으로 다시 녹아들면서 전선에서의 쓰라린 전투에 대한 기억과 함께, 민간인들은 전쟁중에 없었던 방식으로 동원되기 시작하고 있습니다. 이퀘스트리아에 대한 우리의 지배가 시간의 시험을 버티려면 해야 할 일이 많습니다.\n\n크리살리스 여왕님은 이 새로운 시대를 "팍스 크리살리아"라고 선언하셨지만, 그 말은 승리를 축하하는 종처럼 텅 비었습니다.\n\n이퀘스트리아 정복은 쉬운 일이였습니다. 그 영토를 유지하는 것이 더 어려울 것입니다."
+changelings_paxchrysalia.1000.a:0 ""팍스 크리살리아"는 절대 아니다."
 
 changelings_paxchrysalia.1001.t:0 "시작의 끝"
 changelings_paxchrysalia.1001.d:0 "[This.GetNewspaperHeader]    With the Changeling Queendom having emerged triumphant from the Great War, the victory's euphoric aftermath has now largely given way to the sobering reality of the postbellum. Presiding over a mountain of captured Equestrian flags  —  many still battle-scarred and bloodstained  —  Queen Chrysalis declared the dawn of a Golden Age for the changeling race, having cast off the shackles of Equestrian "harmony" to assume their birthright as the hegemon of Equus.\n    Whilst the Queen's speech was met with overwhelming popular approval, the future of the Pax Chrysalia remains uncertain. The intense militarism of the hives and the robustness of the changeling military-industrial complex had propelled the Queendom to victory, but with the Equestrian menace vanquished, the transition to peacetime may be harder for some than most."
