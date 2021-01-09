@@ -879,7 +879,7 @@ CHN_GRI_Attache_For_CHN_desc:0 "그리포니아 제국에 체인질링 무관이
 CHN_Attache:0 "체인질링-그리포니아 주재무관"
 CHN_Cancel_Attache:0 "주재무관 송환"
 
-CHN_GRI_Hiding_The_Coward:0 "반역자를 보호"
+CHN_GRI_Hiding_The_Coward:0 "반역자를 보호함"
 CHN_GRI_Queen_Swears_Vengance:0 "여왕이 복수를 맹세하다"
 CHN_GRI_Party:0 "작별 파티를 열다"
 
@@ -1183,7 +1183,7 @@ CHN_vraks_looting_concern_desc:0 "군수 생산의 증가를 통해 원자재에
 CHN_post_war_2_h:0 "회복의 라켓!"
 CHN_post_war_2_h_desc:0 "이퀘스트리아 경제를 재건하는 과정은 군락의 산업 카르텔에 대한 사업 기회가 가득합니다. 이퀘스트리아 재건기관의 도움으로 해체된 이퀘스트리아 회사의 자산은 ERA 재건 예산에 투자하는 대가로 기존의 체인질링 경쟁사에 헐값으로 매각됩니다. 평화는 이익을 낳습니다."
 CHN_post_war_2_i:0 "이퀘스트리아인 재산 압류"
-CHN_post_war_2_i_desc:0 "이퀘스트리아국의 완전한 해체는 이전에 포니 전쟁 주력에 기여하기 위해 국유화 되었던 수많은 산업들이 이제 주인이 없어져 수비게 가질 수 있다는 것을 의미합니다. 군락의 산업가들과 자본가들은 어떤 자산은 압류하고 무엇을 남겨둘지 우선 순위를 정하기 위해 몇 가지 어려운 선택을 해야 할 것입니다."
+CHN_post_war_2_i_desc:0 "이퀘스트리아국의 완전한 해체는 이전에 포니 전쟁 주력에 기여하기 위해 국유화 되었던 수많은 산업들이 이제 주인이 없어져 쉽게 가질 수 있다는 것을 의미합니다. 군락의 산업가들과 자본가들은 어떤 자산은 압류하고 무엇을 남겨둘지 우선 순위를 정하기 위해 몇 가지 어려운 선택을 해야 할 것입니다."
 CHN_post_war_2_j:0 "포니 의용 군단"
 CHN_post_war_2_j_desc:0 "팍스 크리살리아는 포니들의 복종이 체인질링의 타고난 권리라고 하고 있습니다. 비록 여왕님은 평범한 포니에게는 무관심하지만, 체인질링보다 뛰어난 포니는 정당한 보상을 받았습니다. 만약 포니가 여전히 가치가 있음을 증명할 수 있다면, 아마도 바뀔 수 있을 것입니다."
 CHN_post_war_2_k:0 "행동계획 적용"
@@ -1333,7 +1333,7 @@ changelings_paxchrysalia.1000.a:0 ""팍스 크리살리아"는 절대 아니다.
 
 changelings_paxchrysalia.1001.t:0 "시작의 끝"
 changelings_paxchrysalia.1001.d:0 "[This.GetNewspaperHeader]    체인질링 여왕국이 대전쟁에서 승리하면서, 승리의 기쁨은 이제 전후 냉정한 현실에게 자리를 내주었습니다. 산더미처럼 쌓인 노획된 이퀘스트리아 깃발들 위에서- 아직도 많이 전쟁으로 찢어지고 피로 얼룩진 - 크리살리스 여왕님은 에쿠스의 패권으로서 정당한 권리를 차지하기 위해 이퀘스트리아 "조화"의 족쇄를 벗어던지고 체인질링 민족을 위한 황금기의 시작을 선언했습니다.\n    여왕의 연설은 대중의 압도적인 지지를 얻었지만, 여전히 팍스 크리살리아의 미래는 불투명합니다. 군락의 강력한 군국주의와 튼튼한 체인질링 군수산업은 복합적으로 여왕국을 승리로 이끌었지만, 이퀘스트리아의 위협이 사라짐에 따라 평화시대로의 변화는 웬만한 것 보다 어려울 수 있습니다."
-changelings_paxchrysalia.1001.a:0 "우린 이겼다. 이제 어덯게 하지?"
+changelings_paxchrysalia.1001.a:0 "우린 이겼다. 이제 어떻게 하지?"
 
 changelings_paxchrysalia.1002.t:0 "여왕의 연설"
 changelings_paxchrysalia.1002.d:0 "[This.GetNewspaperHeader]Appearing before hordes of adoring changelings in Vesalipolis, the Queen gave a bombastic speech declaiming the Hives' victory in the Great War as the avenging of a great injustice — that of the ancient conspiracy between foreign powers to deprive the Hives of what it rightly deserved: unfettered access to the Love of those lesser than us. The victory in the Great War, the Queen proclaimed, has saved the changeling race from starvation and extinction. Furthermore, the Great War showcased the obvious primacy of racial unity over the laggard and wasteful ideals of peace and harmony, with a firm kick to the door being all it took to send the whole rotten structure of Equestria crashing to the ground. Finally, the Queen promised to distribute enough Love for each and every changeling to never have to worry about feeling weak or hungry again."
