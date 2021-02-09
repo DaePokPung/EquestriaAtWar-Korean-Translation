@@ -59,8 +59,8 @@
  equestrian_prince:0 "Prince of Equestria"
  equestrian_prince_desc:0 "The Princes' attend the high class military academy in Canterlot, where they are trained to command armies in battle."
  advanced_artillery_manufacturer:0 "Advanced Artillery Manufacturer"
- trimmel:0 "Panzer Marshal"
- trimmel_desc:0 "An unparalleled expert with Tanks and Mechanised forces."
+ trimmel:0 "기갑 원수"
+ trimmel_desc:0 "전차와 기계화 전력에 비견할 수 없는 전문가입니다."
  infiltrator:0 "Queensguard Captain"
  infiltrator_desc:0 "While all changelings are experts in subterfuge and deception, The Queensguard understand the truth of war, battles are won by the merciless application of overwhelming force. Their combat doctrine dictates that any battle where their capacity to fight and willingness to die exceeds that of their enemy is a battle already won -- everything else is merely a matter of time and attrition."
  corn_lord:0 "Lord of Corn"
@@ -77,7 +77,7 @@
  xiopili_chief:0 "Chief of the Xiopili"
  duce:0 "Il Duce"
  soldier_king:0 "Soldier King"
- bookworm:0 "Bookworm"
+ bookworm:0 "책벌레"
  tinyman:0 "Fallen's Struggle"
  tinyman_desc:0 ""
  local_magician:0 "Local Magician"
@@ -137,7 +137,7 @@
  demagogue:0 "Demagogue"
  imbecile:0 "Imbecile"
  imbecile_desc:0 "Imbecile characters are stupid."
- blind:0 "Blind"
+ blind:0 "장님"
  blind_desc:0 "Blind characters can't see."
  deranged:0 "Deranged"
  chosen_by_maar:0 "Chosen By Maar"
@@ -236,7 +236,7 @@
  trait_swift_wing:0 "Kleptomaniac"
  trait_swift_wing_desc:0 "This mare has a talent for making acquisitions in the field. It would be best not to question where the supplies come from, however."
 
- trait_reformist:0 "Sturmgreifen Commander"
+ trait_reformist:0 "폭풍그리핀 사령관"
  trait_reformist_desc:0 ""
 
  grand_admiral:0 "Grand Admiral"
@@ -255,7 +255,7 @@
  
  workers_countess:0 "Workers' Countess"
  
- knightly_recruiter:0 "Knightly Order Recruitment Officer"
+ knightly_recruiter:0 "기사단 모집 장교"
  
  harmonic_bulldog:0 "조화주의 불독"
 
