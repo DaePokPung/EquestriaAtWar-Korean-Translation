@@ -2804,56 +2804,56 @@ CHN_operation_scout_logi_idea:0 "Evaluated Infrastructure"
 
 ### GRIFFONIAN MEGA-PUPPETS ###
 US_WG_CHN_fascism:0 "서부 그리포니아 보호령"
-US_WG_CHN_fascism_DEF:0 "서부 그리포니아의 보호령입니다"
-US_WG_CHN_fascism_ADJ:0 "West Griffonian"
+US_WG_CHN_fascism_DEF:0 "서부 그리포니아 보호령"
+US_WG_CHN_fascism_ADJ:0 "서부 그리포니아"
 
 CHN_us_of_wg_decision:0 "서부 그리포니아 보호령 형성"
 CHN_us_of_wg_decision_req_tt:0 "Every §YAquileian§!, §YRilan§!, §YPridean§!, §YWestkeeper§!, §YVinovian§!, §YPomovarran§!, §YAdelartian§!, §YFezzerian§! and §YGreifwalder§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
 CHN_us_of_wg_decision_state_ownership_tt:0 "State becomes a part of the §YWestern Griffonia Protectorate§!.\n"
 
 HERZ_FED_CHN_fascism:0 "헤르츠란트 보호령"
-HERZ_FED_CHN_fascism_DEF:0 "헤르츠란트의 보호령입니다"
-HERZ_FED_CHN_fascism_ADJ:0 "Herzlander"
+HERZ_FED_CHN_fascism_DEF:0 "헤르츠란트 보호령"
+HERZ_FED_CHN_fascism_ADJ:0 "헤르츠란트"
 
 CHN_herz_fed_decision:0 "헤르츠란트 보호령 형성"
 CHN_herz_fed_decision_req_tt:0 "Every §YImperial Griffonian§!, §YFeathisian§!, §YStrawberry§!, §YBronzehill§!, §YAngriver§!, §YKaterinian§!, §YYalish§! and §YGreifenmarsian§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
 CHN_herz_fed_decision_state_ownership_tt:0 "State becomes a part of the §YHerzland Protectorate§!.\n"
 
-VER_STAT_CHN_fascism:0 "Verenia Protectorate"
-VER_STAT_CHN_fascism_DEF:0 "The Protectorate of Verenia"
-VER_STAT_CHN_fascism_ADJ:0 "Verenian"
+VER_STAT_CHN_fascism:0 "베레니아 보호령"
+VER_STAT_CHN_fascism_DEF:0 "베레니아 보호령"
+VER_STAT_CHN_fascism_ADJ:0 "베레니아"
 
-CHN_ver_stat_decision:0 "Form the Verenia Protectorate"
+CHN_ver_stat_decision:0 "베레니아 보호령 형성"
 CHN_ver_stat_decision_req_tt:0 "Every §Y[EYR.GetAdjective]§!, §Y[ERI.GetAdjective]§! and §Y[AVI.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
 CHN_ver_stat_decision_state_ownership_tt:0 "State becomes a part of the §YVerenia Protectorate§!.\n"
 
-EVI_REP_CHN_fascism:0 "Evi Valley Protectorate"
-EVI_REP_CHN_fascism_DEF:0 "The Protectorate of the Evi Valley"
-EVI_REP_CHN_fascism_ADJ:0 "Evian"
+EVI_REP_CHN_fascism:0 "에비 밸리 보호령"
+EVI_REP_CHN_fascism_DEF:0 "에비 밸리 보호령"
+EVI_REP_CHN_fascism_ADJ:0 "에비"
 
-CHN_evi_rep_decision:0 "Form the Evi Valley Protectorate"
+CHN_evi_rep_decision:0 "에비 밸리 보호령 형성"
 CHN_evi_rep_decision_req_tt:0 "Every §Y[GRW.GetAdjective]§!, §Y[BRF.GetAdjective]§!, §Y[GRY.GetAdjective]§!, §Y[GRU.GetAdjective]§! and §Y[LUS.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
 CHN_evi_rep_decision_state_ownership_tt:0 "State becomes a part of the §YEvi Valley Protectorate§!.\n"
 
 BOI_PRO_CHN_fascism:0 "그리폰스톤 보호령"
-BOI_PRO_CHN_fascism_DEF:0 "그리폰스톤의 보호령입니다"
-BOI_PRO_CHN_fascism_ADJ:0 "Griffonstonian"
+BOI_PRO_CHN_fascism_DEF:0 "그리폰스톤 보호령"
+BOI_PRO_CHN_fascism_ADJ:0 "그리폰스톤"
 
 CHN_boi_pro_decision:0 "그리폰스톤 보호령 형성"
 CHN_boi_pro_decision_req_tt:0 "Every §Y[BOI.GetAdjective]§!, §Y[LAK.GetAdjective]§! and §Y[BAN.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
 CHN_boi_pro_decision_state_ownership_tt:0 "State becomes a part of the §YGriffonstone Protectorate§!.\n"
 
 SOU_GRI_CHN_fascism:0 "남부 그리포니아 보호령"
-SOU_GRI_CHN_fascism_DEF:0 "남부 그리포니아의 보호령입니다"
-SOU_GRI_CHN_fascism_ADJ:0 "South Griffonian"
+SOU_GRI_CHN_fascism_DEF:0 "남부 그리포니아 보호령"
+SOU_GRI_CHN_fascism_ADJ:0 "남부 그리포니아"
 
 CHN_sou_gri_decision:0 "남부 그리포니아 보호령 형성"
 CHN_sou_gri_decision_req_tt:0 "Every §Y[CYA.GetAdjective]§!, §Y[SIC.GetAdjective]§! and §Y[MIT.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
 CHN_sou_gri_decision_state_ownership_tt:0 "State becomes a part of the §YSouthern Griffonia Protectorate§!.\n"
 
 KARTHIN_CHN_fascism:0 "카테린 보호령"
-KARTHIN_CHN_fascism_DEF:0 "카테린의 보호령입니다"
-KARTHIN_CHN_fascism_ADJ:0 "Karthinian"
+KARTHIN_CHN_fascism_DEF:0 "카테린 보호령"
+KARTHIN_CHN_fascism_ADJ:0 "카테린"
 
 CHN_karthin_decision:0 "카테린 보호령 형성"
 CHN_karthin_decision_req_tt:0 "Every §Y[WNG.GetAdjective]§!, §Y[FAL.GetAdjective]§!, §Y[FRN.GetAdjective]§!, §Y[JES.GetAdjective]§!, §Y[TAL.GetAdjective]§! and §Y[ARA.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
