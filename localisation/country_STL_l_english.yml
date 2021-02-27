@@ -1,7 +1,7 @@
-﻿l_english:
+l_english: 
 
-POLITICS_FEATHERBANGS:0 "A local heartthrob, Feather Bangs lost his love interest to a Ponyville stallion. Quick to move on, the entire incident has piqued his curiosity in the power of friendship and the ways of Equestria."
-POLITICS_DOUBLEDIAMOND:0 "A faithful follower of Starlight Glimmer's Equalist philosophy, Double Diamond would see Equality succeed by following the lead of the Communists in Stalliongrad."
+POLITICS_FEATHERBANGS:0 "이 지역의 인기마였던 페더 뱅은 포니빌에서 온 숫말에게 짝사랑하던 이를 빼았겼습니다. 본론만 말하자면, 그 일이 있었던 후로 페더 뱅은 우정의 힘과 이퀘스트리아의 방식에 큰 호기심을 갖게 되었습니다."
+POLITICS_DOUBLEDIAMOND:0 "스타라이트 글리머식 평등주의의 충실한 추종자였던 더블 다이아몬드는, 스탈리온그라드 공산주의자들의 지도를 따르며 그의 평등주의를 성공시킬 것입니다."
 
 ### countryname ###
 
@@ -13,141 +13,140 @@ POLITICS_DOUBLEDIAMOND:0 "A faithful follower of Starlight Glimmer's Equalist ph
 #STL_fascism_DEF:0 "우리 조국"
 #STL_communism_DEF:0 "우리 마을"
 #STL_democratic_DEF:0 "타운스빌 시"
-#STL_fascism_ADJ:0 "Nationalist"
-#STL_democratic_ADJ:0 " Townie"
-#STL_neutrality_ADJ:0 "Townie"
-#STL_communism_ADJ:0 "Equal"
+#STL_fascism_ADJ:0 "국수주의자"
+#STL_democratic_ADJ:0 " 타우니"
+#STL_neutrality_ADJ:0 "타우니"
+#STL_communism_ADJ:0 "이퀄"
 
-STL_MY_communism:0 "Townsville"
-STL_MY_communism_DEF:0 "The City of Townsville"
-STL_MY_communism_ADJ:0 "Townie"
+STL_MY_communism:0 "타운스빌"
+STL_MY_communism_DEF:0 "타운스빌 시"
+STL_MY_communism_ADJ:0 "타우니"
 
-#STL_OUR_communism:0 "New Equality"
-#STL_OUR_communism_DEF:0 "The New Equality Commune"
-STL_OUR_communism_ADJ:0 "Equal"
+#STL_OUR_communism:0 "뉴 이퀄리티"
+#STL_OUR_communism_DEF:0 "뉴 이퀄리티 코뮌"
+STL_OUR_communism_ADJ:0 "이퀄"
 
 ########### Starlight Village ############
 STL_abolish_equality:0 "우리의 재탄생"
-STL_abolish_equality_desc:0 "큐티 마크로부터 자유로운 사회를 만들어보자던 우리의 노력이 수포로 돌아갔습니다. 하지만, 지금은 우리 공동체의 부활과 재건을 선언할 때입니다."
+STL_abolish_equality_desc:0 "큐티마크로부터 자유로운 사회를 만들어보자던 우리의 노력이 수포로 돌아갔습니다. 하지만, 지금은 우리 공동체의 부활과 재건을 선언할 때입니다."
 
 STL_society_reform:0 "우리의 미래"
-STL_society_reform_desc:0 "Starlight Glimmer left her mark on every aspect of Our Town even as she took every mark from us. We must consider and debate our future, and how it shall be organised, everypony equal, everypony's voice heard. We shall not lose our way again."
+STL_society_reform_desc:0 "스타라이트 글리머는 우리의 큐티마크를 제거하면서 동시에 우리 마을의 모든 곳에 자신의 흔적을 남겼습니다. 우리는 미래를 고려하고 그 미래를 어떻게 달성할 것인지에 대한 토론을 이어나가야 합니다. 모든 포니는 평등합니다. 우리는 모든 포니의 목소리를 듣습니다. 우리는, 우리의 방식을 다시는 잃지 않을 것입니다."
 
-STL_elections:0 "Our Elections"
-STL_elections_desc:0 "How can ponies be equal if everyone cannot have the opportunity to lead it? Allowing a leader absolute power was our mistake, and we shall not allow it again. We shall consult, and then WE shall choose."
+STL_elections:0 "우리의 투표"
+STL_elections_desc:0 "지도자가 되어 다른 포니들을 이끌 기회가 모두에게 주어지지 않는다면 어찌 이를 평등이라 할 수 있겠습니까? 하나의 포니에게 절대적인 권력을 쥐어준 것은 큰 실수였고, 다시는 그런 일이 일어나지 않도록 해야 합니다. 이제는 "우리"가 숙고하고, 선택할 것입니다."
 
 ## COMMUNIST PATH ##
-STL_neighbors_help:0 "Our Neighbours"
-STL_neighbors_help_desc:0 "The ponies of Stalliongrad are kindred spirits - they may speak of workers and production instead of Equality, but the end result is the same. We should establish trade and seek industrial assistance."
+STL_neighbors_help:0 "우리 이웃들"
+STL_neighbors_help_desc:0 "스탈리온그라드의 포니들은 우리와 마음이 참 잘 맞는 친구들입니다. 평등 대신에 노동자와 생산성에 좀 더 집중하고 있는 것 같기는 하지만 말이죠. 그래도 추구하는 이상은 같으니, 무역을 개시하고 산업 원조를 구해 봅시다."
 
-STL_STG_military_advisors:0 "Our Stalliongrad Advisors"
-STL_STG_military_advisors_desc:0 "Should the griffons ever advance south, we shall be the first to be hit. We must seek military support from our neighbours in Stalliongrad."
+STL_STG_military_advisors:0 "우리의 스탈리온그라드 고문들"
+STL_STG_military_advisors_desc:0 "그리폰이 남쪽으로 진격해오면, 우리가 가장 먼저 그리폰들과 조우하게 됩니다. 스탈리온그라드의 친구들에게 군사적인 지원을 요청해야 합니다."
 
-STL_independence_line:0 "Our Independence"
-STL_independence_line_desc:0 "Stalliongrad at first responded positively to our efforts to establish relations, but now grow impatient, hoping we will join them. It is time to make clear - we shall remain independent, now and in future."
+STL_independence_line:0 "우리의 독립"
+STL_independence_line_desc:0 "우리의 관계 수립 요청에 스탈리온그라드는 처음에는 긍정적인 반응을, 이제는 노골적인 통합 야욕을 드러내고 있습니다. 우리의 입장을 분명히 합시다. 우리는 과거에도 그랬고, 현재도 그러하듯이, 미래에도 우리 스스로 서 있을 것입니다."
 
-STL_industrial_effort:0 "Our Industrial Effort"
-STL_industrial_effort_desc:0 "Our balancing act with Stalliongrad has paid off. The support offered, and our own hard work will lead to the development of two new factories. Ponies speak excitedly of the prosperity such investments shall bring. Is it too early to speak of Our City?"
+STL_industrial_effort:0 "우리의 산업 발전 노력"
+STL_industrial_effort_desc:0 "스탈리온그라드와 함께 했던 균형개발법이 성과를 거두었습니다. 그들의 지원과 우리의 노력이 합쳐져 두 개의 공장이 신설되었으며, 모두가 신나서는 이 공장들이 가져다 줄 번영에 대해 떠들고 있습니다. 우리 도시로의 승격은 아직 좀 이른 일일까요?"
 
-STL_industrial_help:0 "Our Industrial Help"
-STL_industrial_help_desc:0 "Like Stalliongrad, we have missed much of the industrialisation that has swept southern Equestria. Today, Stalliongrad is a case study in rapid industrialisation - our countries would be more equal if they were to share...."
+STL_industrial_help:0 "우리의 산업화 지원"
+STL_industrial_help_desc:0 "우리는 남부 이퀘스트리아를 강타했던 산업화의 물결을 제때 타지 못했습니다. 스탈리온그라드도 마찬가지고요. 하지만 오늘날의 스탈리온그라드는 훌륭한 산업 국가의 예시입니다. 스탈리온그라드가 자신들의 급속한 산업화에 대한 비결을 공유한다면, 우리는 더욱 평등해질 것입니다..."
 
-STL_new_army:0 "Our New Army"
-STL_new_army_desc:0 "Griffons to the north, Our 'Friend' to the south, and the giant of Equestria beyond that, looking to swallow us both. Our citizens must take up arms for safety, for the sad truth is that a bullet is the ultimate equaliser."
+STL_new_army:0 "우리의 새 군대"
+STL_new_army_desc:0 "북쪽으로는 그리폰이, 남쪽으로는 우리의 "친구"들과 그 너머의 거대한 이퀘스트리아가 우리를 삼키려 하고 있습니다. 우리 시민들은 스스로의 안전을 위해 무기를 들어야 할 처지에 놓였습니다. 총알 앞에서는 모두가 평등하다더니, 참 슬픈 농담이네요."
 
-STL_demand_griffon_land:0 "Our Griffon Land"
-STL_demand_griffon_land_desc:0 "We have gotten so used to referring to everything as 'Ours', that it’s starting to get out of control. "Our caves", "Our mountains", "Our northern coasts". The idea of asking Nova Griffonia to give us all that land is getting to tempt. After all, it IS Ours."
+STL_demand_griffon_land:0 "우리의 땅"
+STL_demand_griffon_land_desc:0 "모든 것을 '우리 것'이라고 부르는 데 너무 익숙해진 나머지 "우리 동굴", "우리 산", "우리의 북부 해안" 같은 매혹적인 생각을 떨쳐버리기가 힘듭니다. 노바 그리포니아의 모든 영토가 원래부터 우리의 것이었던 것만 같습니다. 뭐, 결국엔 우리의 것이 되겠지만 말이죠..."
 
-STL_socialist_trade:0 "Our Expanding Trade"
-STL_socialist_trade_desc:0 "Whatever our differences with Stalliongrad, they are our primary trading partner, and trade grows every day. With continued development, we shall finally be able to shrug off the pall of economic isolation that has crippled the nation."
+STL_socialist_trade:0 "성장하는 우리의 무역"
+STL_socialist_trade_desc:0 "스탈리온그라드와 우리 사이의 사상적 차이가 어떻든 간에, 그들은 우리의 주요 교역국이며 물동량은 지속적으로 증가하고 있습니다. 덕분에, 머지않아 오랜 세월 우리를 옥죄었던 경제적 고립과 침체의 늪을 벗어날 수 있을 것으로 전망됩니다."
 
-STL_research_facility:0 "Our Research Facility"
-STL_research_facility_desc:0 "Staying up to date with a state as small as ours poses a challenge. Fortunately, a lot of research is just a matter of applying existing public knowledge, reverse engineering other equipment, and shameless patent theft."
+STL_research_facility:0 "우리의 연구시설"
+STL_research_facility_desc:0 "우리처럼 작은 나라가 다른 이들의 최신 연구 결과와 정보량을 따라잡는 건 어려운 일입니다. 우리의 연구라 해봐야 아직까지는 기초적인 상식을 적용하고, 타국의 장비를 역설계하고, 특허를 도용한 뒤 오리발을 내미는 것일 뿐입니다."
 
-STL_twilight_teaching:0 "The Teachings of Twilight Sparkle"
-STL_twilight_teaching_desc:0 "Twilight Sparkle, Equestrian Princess of Friendship resides in Ponyville, and the travels of Sugar Belle and Feather Bangs have seen them returning with some of her publications.\n\nWith the blessing of Feather Bang as leader, ponies have begun to study her works and consider how it could be implemented.\n\nFeather Bang's first act has been to rename Our Town to the more friendly, Ponyville inspiredm Townsville."
+STL_twilight_teaching:0 "트와일라잇 스파클의 가르침"
+STL_twilight_teaching_desc:0 "페더 뱅과 슈가 벨이 오랜 여행을 마치고 외부의 문물과 함께 우리 마을로 돌아왔습니다. 그 중에는 이퀘스트리아 우정의 공주, 포니빌의 트와일라잇 스파클의 우정 논문도 들어 있었죠.\n\n페더 뱅이 지도자가 된 후로 우리 마을의 포니들은 트와일라잇의 연구를 분석하고 따르며 그 중 무엇을 어디서부터 어떻게 도입해야 할지를 생각했습니다.\n\n고심 끝에 페더 뱅이 제안한 첫 번째 발의안은, 우리 마을의 이름을 포니빌과 유사한 형태인 타운스빌로 개칭하는 것이었습니다."
 
-STL_railroad_way:0 "Our Transit System"
-STL_railroad_way_desc:0 "Whilst we have no need to build large rail systems, a small effort to integrate with other Equestrian rail lines and local systems of tramways and buses will help accommodate our swelling population. Military logistics will be particularly easy, as our soldiers should be able to take a bus from their house to the front line every morning."
+STL_railroad_way:0 "우리의 교통체계"
+STL_railroad_way_desc:0 "독자적인 철도 체계를 구축할 필요까지는 없지만, 우리의 버스, 트램 노선을 이퀘스트리아의 기존 철도 체계와 통합하는 정도의 작은 노력만으로도 팽창하는 인구를 수용하는데 큰 도움이 될 것입니다. 유사시에 우리 장병들이 집에서 최전방까지 이동할 수 있어야 할테니, 군수 체계를 염두에 두고 정비하는 편이 좋겠군요."
 
-STL_conquest_of_STG:0 "Our Stalliongrad"
-STL_conquest_of_STG_desc:0 "Some of our cabinet have grown concerned, as Double Diamond appears to descend into madness, rambling about OPMs and world conquest. Others insist that a military genius is at work. Whatever the case, we gear for the unthinkable - War with Stalliongrad."
+STL_conquest_of_STG:0 "우리의 스탈리온그라드"
+STL_conquest_of_STG_desc:0 "더블 다이아몬드가 약소국의 세계정복에 대해 떠드는 횟수가 잦아지자 내각에선 우려의 목소리가 커지고 있습니다. 반면 우리 군의 천재적인 참모들과 용감한 장병들을 믿는다며 자신감을 표명하는 포니들도 많고요. 우리 입장이 어찌 됐든간에, 우린 그저 스탈리온그라드와의 전쟁을 준비할 뿐입니다."
 
-STL_equestrian_airbridge:0 "Equestrian Airbridge"
-STL_equestrian_airbridge_desc:0 "A burgeoning friendship with Equestria faces a serious challenge. We are surrounded by two powerful, potentially hostile states. Establishing a secure air route with Equestria is essential."
+STL_equestrian_airbridge:0 "이퀘스트리아 항공로"
+STL_equestrian_airbridge_desc:0 "순탄할 것만 같았던 이퀘스트리아와의 우정이 난항을 겪더니, 강력한 두 적성국에 둘러쌓인 우리의 지정학적 상황이라는 심각한 장애물에 가로막혔습니다. 이퀘스트리아와 우리를 잇는 안전한 항공로를 구축할 필요가 있습니다."
 
-STL_our_town_fortress:0 "The Fortress of Townsville"
-STL_our_town_fortress_desc:0 "Friendship is all well and good, but Equestrian delegates have yet to offer any good suggestions on how friendship can be used against communist tanks and heavily armoured griffon knights. More practically, they can smuggle us large shipments of concrete, barbed wire and heavy machine guns to fortify with. How? Apparently, a cat is involved..."
+STL_our_town_fortress:0 "타운스빌 요새"
+STL_our_town_fortress_desc:0 "우정 좋죠. 그런데 아직 이퀘스트리아의 사절단은 공산주의자들의 전차와 그리폰 기사들 사이에 둘러쌓인 우리에게 어떤 형태의 "우정"을 제공할 수 있을지 정확한 답변을 주지 않았습니다. 어쩌면 실수로 우리 영토에서 철조망을 분실한다던가, 엄청난 양의 콘크리트를 "불법적으로" 투기할 수도 있고, 중기관총 밀수를 주선해 줄 수도 있겠죠."
 
-STL_eqs_exped_forces:0 "Equestrian Expeditionary Forces"
-# STL_eqs_exped_forces_desc:0 "Equestrian Expeditionary Forces"
+STL_eqs_exped_forces:0 "이퀘스트리아 원정군"
+# STL_eqs_exped_forces_desc:0 "이퀘스트리아 원정군"
 
-STL_griffon_transition:0 "Griffon Transition"
-#STL_griffon_transition_desc:0 "Griffon Transition"
+STL_griffon_transition:0 "그리폰 이행"
+#STL_griffon_transition_desc:0 "그리폰 이행"
 
-STL_GRF_cedeing_land:0 "Griffons Ceding Land"
-#STL_GRF_cedeing_land_desc:0 "Griffons Ceding Land"
+STL_GRF_cedeing_land:0 "그리폰 양도 영토"
+#STL_GRF_cedeing_land_desc:0 "그리폰 양도 영토"
 
-STL_our_town_institute:0 "Our Town Institute"
-# STL_our_town_institute_desc:0 "Our town Institute"
+STL_our_town_institute:0 "우리 마을 기관"
+# STL_our_town_institute_desc:0 "우리 마을 기관"
 
-STL_call_to_war:0 "Call to War"
-# STL_call_to_war_desc:0 "Call to War"
+STL_call_to_war:0 "전쟁의 부름"
+# STL_call_to_war_desc:0 "전쟁의 부름"
 
-STL_first_move:0 "Our First Move"
-# STL_first_move_desc:0 "Our First Move"
+STL_first_move:0 "우리의 첫 행보"
+# STL_first_move_desc:0 "우리의 첫 행보"
 
-STL_war_on_GRF:0 "Our Liberation of the Colony"
-# STL_war_on_GRF_desc:0 "Our Liberation of the Colony"
+STL_war_on_GRF:0 "우리의 식민지 해방"
+# STL_war_on_GRF_desc:0 "우리의 식민지 해방"
 
+STL_GRF_revolution:0 "우리의 노바 그리포니아 혁명"
+# STL_GRF_revolution_desc:0 "우리의 노바 그리포니아 혁명"
 
-STL_GRF_revolution:0 "Our Revolution in Nova Griffonia"
-# STL_GRF_revolution_desc:0 "Our Revolution in Nova Griffonia"
+STL_garden:0 "우리의 정원"
+STL_garden_desc:0 "옛 우리 마을엔 많은 문제가 있었습니다. 끔찍한 머핀을 일종의 형벌로 사용하곤 했으며, 끔찍하리만치 아무 것도 없는 따분한 곳이었습니다. 사실... 지금도 그렇고요. 작은 개선을 통해 뉴 이퀄리티를 다양한 동식물이 서식하는, 아름답고 편안한 곳으로 만들 수 있습니다."
 
-STL_garden:0 "Our Garden"
-STL_garden_desc:0 "There were many problems with the old Our Town - we still use the muffins as punishment for prisoners. But beyond the terrible food, was the sheer drabness of the place. With a little work, we can make New Equality a relaxing world of plants, animals and beauty."
+STL_one_factory:0 "우리의 첫 번째 공장"
+STL_one_factory_desc:0 "공장의 모든 포니들이 하나의 톱니바퀴가, 기계가 되어 간단한 작업을 반복합니다. 간단한 작업이 모여 복잡한 결과물이 됩니다. 우리는 더 이상 장인이나 길드의 전문지식에 의존할 필요가 없습니다. 공장에서는 모두가 평등합니다."
 
-STL_one_factory:0 "Our First Factory"
-STL_one_factory_desc:0 "In a factory, every pony must work as one, each machine, each worker, doing their simple job with precision, again and again. No longer do we need to rely on the masterwork of the artisan or the specialist knowledge of the guildspony. In a factory all are equal."
-
-STL_second_factory:0 "Our Second Factory"
-STL_second_factory_desc:0 "To some nations we are a joke. One factory, two factories...? In the grand scheme of things, nothing! But the Equal pony never needs to look to his side to compare, only march forward in the knowledge that their colleagues to do the same. And two shall become three...."
+STL_second_factory:0 "우리의 두 번째 공장"
+STL_second_factory_desc:0 ""공장은?" "한 두개." "푸흡." 다른 나라에서는 우리의 사정이 조롱거리로나 치부된다고 합니다. 그래서요? 그런 조롱은 무의미합니다. 평등한 포니는 주변을 둘러보며 자신의 처지를 비관하거나 우월감을 느끼지 않습니다. 그저 주변의 동료들이 자신과 평등하다는 것에 감사하며 전진할 뿐이죠. 두 번째 공장이 지어졌으니, 반드시 언젠간 세 번째 공장이 생길 것입니다..."
 
 ## ideas ###
-STL_equality_past:0 "Past of Equality"
-STL_equality_past_desc:0 "The ponies of Our Town made a terrible mistake in giving up their cutie marks and are scarred by the experience. They remain hesitant about their future."
-STL_city_state:0 "Closed City State"
-STL_city_state_desc:0 "With Griffons in the North, Stalliongrad in the South, and no access to sea, Our Town is crippled by lack of trade."
-STL_city_state2:0 "Limited Trade with Stalliongrad"
-STL_city_state2_desc:0 "Trade has begun with Stalliongrad, easing the economic stagnation."
-STL_garden_spirit:0 "Our Garden" 
-STL_garden_spirit_desc:0 "Our drab town has been transformed into a colourful, relaxing paradise for ponies to rest and play in." 
-STL_STG_advisory_military:0 "Stalliongrad Military Advisors"
-STL_STG_advisory_industry:0 "Stalliongrad Industry Assistance"
+STL_equality_past:0 "평등한 과거"
+STL_equality_past_desc:0 "우리 마을의 포니들은 큐티마크를 하나로 통일하는 끔찍한 실수에 동참한 적이 있었고,그로 인해 큰 상처를 입었습니다. 이들은 아직도 미래로 나아가는 것에 큰 두려움을 지니고 있습니다."
+STL_city_state:0 "고립된 도시국가"
+STL_city_state_desc:0 "북쪽의 그리폰과 남쪽의 스탈리온그라드, 내륙국이라는 특성까지 합쳐져 우리는 심각한 재정난에 시달리는 중입니다."
+STL_city_state2:0 "제한적인 스탈리온그라드와의 무역"
+STL_city_state2_desc:0 "스탈리온그라드와의 무역이 시작되었고, 경제 상황이 점차 나아지고 있습니다."
+STL_garden_spirit:0 "우리의 정원" 
+STL_garden_spirit_desc:0 "우리의 단조로웠던 마을이, 포니들이 뛰놀고 뛰놀다 지치면 쉴 수 있는 다채로운 낙원으로 변모했습니다." 
+STL_STG_advisory_military:0 "스탈리온그라드 군사고문"
+STL_STG_advisory_industry:0 "스탈리온그라드의 산업화 지원"
 
-STL_new_army_spirit:0 "Equality Army"
-STL_new_army_spirit_desc:0 "Working together to build an army has been a surprising success, as an equalist philosophy is a good fit for the life of the soldier."
+STL_new_army_spirit:0 "평등군"
+STL_new_army_spirit_desc:0 "평등주의의 이상이 병사들의 삶에, 병사들이 처한 처지에 잘 맞았던 덕분에 모두가 하나되어 일할 수 있었고, 새로운 군대를 건설해냈습니다."
 
-#trade_relations_with_stalliongrad:0 "Thriving Trade with Stalliongrad" 
-trade_relations_with_stalliongrad_desc:0 "Our isolation has ended, and a healthy flow of goods travels every day with Stalliongrad." 
+#trade_relations_with_stalliongrad:0 "번영하는 스탈리온그라드와의 무역" 
+trade_relations_with_stalliongrad_desc:0 "우리의 고립은 끝을 맞았고, 이제는 스탈리온그라드로부터 매일마다 막대한 양의 소비재와 재화가 흘러들어오고 있습니다." 
 
-feather_bangs:0 "Feather Bangs"
-party_flavour:0 "Party Favour"
-sugar_belle:0 "Sugar Belle"
+feather_bangs:0 "페더 뱅"
+party_flavour:0 "파티 페이버"
+sugar_belle:0 "슈가 벨"
 
 #worker_solidarity2:0 ""
 
 #########EVENTS
 
-starlight.1.t:0 "An Offer from Stalliongrad"
-starlight.1.d:0 "Stalliongrad has successfully ended their food and political crises and looks to be once again on the road to prosperity. They have formally invited us become part of their nation."
-starlight.1.a:0 "It was bound to happen..."
-starlight.1.b:0 "Our Town, not yours!"
+starlight.1.t:0 "스탈리온그라드의 제안"
+starlight.1.d:0 "스탈리온그라드가 정치적 위기, 식량난을 성공적으로 극복해냈습니다. 스탈리온그라드는 다시금 번영의 길을 걸어가기로 한 것으로 보이며, 그 첫 발을 우리에게 합병 제안을 보내는 것으로 내디뎠습니다."
+starlight.1.a:0 "언젠간 일어날 일이었지..."
+starlight.1.b:0 ""우리" 마을이지 당신네들 마을이 아니오!"
 
-starlight.2.t:0 "The Return"
-starlight.2.d:0 "The Communist Civil War in Equestria is not something that any pony could miss. Especially given the pony involved. So when we heard that the communists won, we knew they would be coming.\n\nI sat, hiding behind my tiny fortifications, waiting to see what they would do - bomb us, send an ambassador, or even starve us out.\n\nInstead, they sent one pony. THAT pony.\n\nStarlight Glimmer. Unescorted, Unruffled, Uncertain. Walking towards us.\n\nWe stared. The leader of the most powerful nation in the world, and our old Mayor. Beside me, Sugar Belle flinched and raised her rifle slightly, recalling trauma of muffins past.\n\nStarlight coughed. "So... it’s been a while, hasn't it? Time, uh, flies... when you're running a war, you know?" She taps the ground nervously with her hoof. "So, we did it. Equality. No stealing cutie marks. No lies. Just... fairness." She looked away, eyes tearing. "I owe every one of you an apology for what I've done. You believed in Equality! Even when I didn't. You held true. Everything we did, it started with you."\n\nShe took a deep breath. "Even if you never forgive me... Will you join us? Will you help bring true Equality to Equestria? Teach the ponies of this land what we did, what we can do? Will you help us lead Our Nation?"\n\nShe rushed on "You can say no. Really. We'll leave you alone." I glanced doubtfully at the leader of one of the largest military powers on the planet, before I looked at my fellow ponies. Even with no time to consider, even with the war, the sheer insanity of it all, we knew the answer..."
-starlight.2.a:0 "Welcome home, Starlight!"
-starlight.2.b:0 "Leave, Starlight Glimmer, and never return."
+starlight.2.t:0 "귀환"
+starlight.2.d:0 "이퀘스트리아에서의 공산주의 내전은 그냥 흘려듣기에는 너무 큰, 너무나도 중요한 소식이었다. 특히 그 소식을 듣는 포니들이 공산주의자라면 더욱 그랬고. 공산주의자들의 승전 선언이 라디오에 울려퍼질 때부터, 난 이퀘스트리아가 우리에게 찾아올 것임을 직감했다.\n\n그래서 난 이퀘스트리아가 어떻게 나올지 생각하며 작은 벙커 안에 앉아 운명을 기다렸다. 폭격기나 대사를 보낼 수도 있고, 우리가 제발로 기어나올 때까지 포위를 할 수도 있겠지.\n\n그런데, 그 대신에, 이퀘스트리아는 한 마리 포니를 보냈다. "그 포니"를.\n\n스타라이트 글리머가 하나도 늙지 않은 채로, 호위도 없이, 쭈뼛거리며 우리에게 걸어온다.\n\n세계에서 가장 강력한 국가의 지도자이자 우리의 옛 시장이었던 자가 걸어오자 우린 시선을 집중했고, 슈가 벨은 끔찍했던 머핀형을 떠올리며 총을 들어올렸다.\n\n"어..." 스타라이트가 헛기침을 하더니 입을 열었다. "오랜만이네, 시간이 정말... 빨라. 전쟁에, 정치에, 너희도 알잖아, 그치?" 스타라이트가 초조한듯 발굽으로 땅을 긁더니 말을 이어나갔다. "내가 해냈어. 이번엔 큐티마크도 안 훔쳤고, 거짓말도 안했어. 그냥... 공평함 그 자체였다고." 스타라이트가 눈시울을 붉히더니 고개를 돌렸다. "너희한테... 사과하고 싶어서 온거야. 페더 뱅, 넌 내가 타락했을때도 평등을 믿었고 항상 나와 주민들에게 진실됐었어. 지금 내가 이룬 모든 것들은 내가 너희들을 보고 배웠기 때문이야."\n\n심호흡. "날 용서하고 싶지 않을거야. 그래도, 그래도... 우리와 함께 하지 않을래? 이퀘스트리아에 진정한 평등을 전파하는 걸 도와줄 수 있을까? 이 땅의 포니들에게 스스로가 무엇을 이뤄왔고 뭘 이룰 수 있는지를 깨닫게 해주고, 이퀘스트리아가 잘 굴러가게 도와줄래?"\n\n"싫다고 말해도 괜찮아. 정말이야. 떠나서 다시는 너희에게 간섭하지 않을게." 나는 눈 앞에 주저앉아 울고 있는 세계에서 가장 강력한 국가의 지도자와, 뒤에 선 동료 포니들을 번갈아가며 보았다. 사실 긴 생각까지 필요하겠는가. 전쟁이, 전쟁의 광기가 우리를 바꿨을지언정 우린 언제나 이 순간에 어떤 말을 할지 알고 있었다. "스타라이트 글리머.""
+starlight.2.a:0 "돌아온걸 축하해!"
+starlight.2.b:0 "우리 마을을 떠나. 그리고 다시는 돌아오지 말도록."
 
 starlight.3.t:0 "The End of Our Town"
 starlight.3.d:0 "We have begun the painful process of beginning anew. Old signs and banners torn down, portraits of Starlight Glimmer burned, and old talents embraced again. Some ponies left the village, never to return. Others sat silently, staring into the flaming portraits of the best pony.\n\nBut at the end of it all, Double Diamond spoke. Of a New Equality. Maybe not an equality of cutie marks, but certainly of friendship, of work, of fairness. This was an Equality that could be believed in - even the Stalliongradians were making similar ideas work.\n\nThe ponies who had stuck by Double Diamond nodded and murmured in approval, and one by one left for their beds. Our Town was no more. Could New Equality work in an unkind world?"
