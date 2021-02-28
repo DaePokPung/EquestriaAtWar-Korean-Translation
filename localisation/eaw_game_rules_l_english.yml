@@ -43,7 +43,7 @@
  DIPLOMACY_NOT_DETACHED_COUNTRY:0 "§R우리 혹은 상대방이 §! §HDetached Country§!§R입니다.§!"
  DIPLOMACY_UNAVAILABLE_US_SUBJECT:0 "§R종속국인 상태에서는 할 수 없습니다.§!"
  REQUEST_EXP_FORCE_BLOCKED_TT:0 "§R그들의 자치도가 너무 높습니다.§!"
- DIPLOMACY_WT_ACCEPTANCE_LEND_LEASE:0 "§RWith their acceptance of our ideology, we need higher world tension to Lend-Lease them.§!"
+ DIPLOMACY_WT_ACCEPTANCE_LEND_LEASE:0 "§R그들이 우리의 사상을 받아들임으로써, 그들에게 랜드리스를 하려면 더 높은 긴장도가 필요합니다.§!"
 
   INFUNSTRUCTURE:0 "시작 기반시설"
  RULE_OPTION_DEFAULT_INFUNSTRUCTURE_DESC:0 "각 국가들은 다양한 표준 기반시설들을 가지고 시작합니다."
