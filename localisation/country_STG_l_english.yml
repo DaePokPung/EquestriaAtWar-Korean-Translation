@@ -227,11 +227,11 @@ STG_palace_construction_last_part:0 "공사는 거의 끝났습니다. 다음은
 STG_something_else:0 "다른 것"
  #STG_palace_construction_effort_desc:0 "[Root.ConstructionOfPalaceProgressLoc]"# Different duplicate from Eaw
  #STG_palace_construction_effort_2_desc:0 "[Root.ConstructionOfPalaceProgressLoc]"# Different duplicate from Eaw
- #STG_palace_the_statue_desc:0 "A statue is needed to be placed on top of the building."# Identical duplicate from Eaw
+ #STG_palace_the_statue_desc:0 "건물의 꼭대기에 올려놓을 동상이 필요합니다."# Identical duplicate from Eaw
  #STG_palace_construction_effort_final_desc:0 "[Root.ConstructionOfPalaceProgressLoc]"# Different duplicate from Eaw
 
- #STG_palace_construction_not_began:0 "The construction of the palace has just begun. The place in the centre of Stalliongrad was cleared from old buildings."# Different duplicate from Eaw
- #STG_palace_construction_started:0 "The construction of the palace has begun. The workers are moving concrete blocks and metal frame to the construction site. The basement is being worked on."# Identical duplicate from Eaw
+ #STG_palace_construction_not_began:0 "스탈리온그라드의 중심부에 있던 낡은 건물을 허물어 빈공간을 마련해 놓은 상태입니다.소비에트 인민궁전의 건축이 이제 막 시작되었습니다."# Different duplicate from Eaw
+ #STG_palace_construction_started:0 "인부들이 콘크리트 블록과 금속 틀들을 건설 현장으로 옮기고 있고, 지하층이 만들어지고 있습니다. 소비에트 인민궁전의 건축이 진행되고 있습니다."# Identical duplicate from Eaw
  #STG_palace_construction_started_1:0 "The construction of the palace has begun. The workers are moving concrete blocks and metal frames to the construction site. The basement is almost finished and the first floor is being built."# Identical duplicate from Eaw
  #STG_palace_construction_started_2:0 "The construction of the palace has begun. The workers are moving more and more concrete blocks and metal frames. The first floor has been completed and the second one is being worked on right now."# Identical duplicate from Eaw
  #STG_palace_construction_first_completed:0 "The construction is in progress. The first section of the palace has been finished and it is already being decorated. The works on the second section have begun."# Different duplicate from Eaw
@@ -898,25 +898,25 @@ stalliongrad.139.a:0 "우린 기억할 것이다!"
 
 STG_rename_Severokholm_to_Altytown:0 "세베로크홀름 에서 알티타운으로 개명하기"
 
-stalliongrad.146.t:0 "Stalliongrad invites us to faction"
-stalliongrad.146.d:0 "In an unexpected twist, the leader of Stalliongrad has invited us to join them. Shall we?"
-stalliongrad.146.a:0 "수락."
-stalliongrad.146.b:0 "거절."
-stalliongrad.147.t:0 "[From.GetName] 거절함"
-stalliongrad.147.d:0 "We'll see..."
-stalliongrad.147.a:0 "Fine."
+stalliongrad.146.t:0 "스탈리온그라드의 초대"
+stalliongrad.146.d:0 "뜻밖에도 스탈리온그라드의 총서기가 우리를 동맹에 초대했습니다. 가입해야할까요?"
+stalliongrad.146.a:0 "수락하지."
+stalliongrad.146.b:0 "거절하겠다."
+stalliongrad.147.t:0 "[From.GetName]의 거절"
+stalliongrad.147.d:0 "두고보자고..."
+stalliongrad.147.a:0 "알겠다."
 
-stalliongrad.148.t:0 "[From.GetName] Demands Submission"
+stalliongrad.148.t:0 "[From.GetName]의 굴복 요구"
 stalliongrad.148.d:0 "The Supreme Soviet of [STG.GetNameDef] sends their greetings, and petitions [Root.GetName] that they be integrated into the larger Socialist Republic, in the name of the revolution that will spread to every shore and land soon. Of course, our expert studies of the works of Steel Stallion and Caramel Marks have also shown that they have desired one large socialist republic, rather than many small ones. To go against their words would not only be to go against the will of the people but would in fact be revising the words of Caramel Marks and Steel Stallion themselves!"
-stalliongrad.148.a:0 "Let us join our comrades!"
-stalliongrad.148.b:0 "Perhaps we can maintain some sort of autonomy?"
-stalliongrad.148.c:0 "Joining those revisionists? Never!"
+stalliongrad.148.a:0 "물론이죠 동무!"
+stalliongrad.148.b:0 "어느정도 자치권을 보유하는게 나을것 같은데?"
+stalliongrad.148.c:0 "수정주의자들과 함께 할순없다!"
 
-stalliongrad.149.t:0 "[From.GetName] 승인함!"
-stalliongrad.149.d:0 "As they wisely has read in the books of Marks and Steel Stallion, [From.GetNameDef] has agreed to be integrated into our greater socialist republic and become a part of something greater to further the revolution!"
+stalliongrad.149.t:0 "[From.GetName]의 굴복"
+stalliongrad.149.d:0 "그들이 말크스와 스틸 스탈리온의 저서에서 나온대로 더 큰 사회주의 공화국의 일부로 통합하여 혁명을 더 진전시키는 것에 동의하였습니다!"
 stalliongrad.149.a:0 "좋아."
 
-stalliongrad.150.t:0 "[From.GetName] Rejects Our Demands!"
+stalliongrad.150.t:0 "[From.GetName]의 거부"
 stalliongrad.150.d:0 "Those revisionists and reactionaries in [From.GetNameDef] have refused to be a part of the greater worker’s revolution! They have sent us a reply that can only be read as a confession of revisionism and counterrevolutionary activities. Very well, if they will not learn by the pen, they must learn by the sword."
 stalliongrad.150.a:0 "So be it."
 
