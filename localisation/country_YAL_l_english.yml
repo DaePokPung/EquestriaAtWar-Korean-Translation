@@ -12,7 +12,7 @@
  YAL_grover_party:0 "제국당"
  YAL_grover_party_long:0 "그리포니아 제국당"
  YAL_herald_party:0 "신성"
- YAL_herald_party_long:0 "신성 통일 롤콜"
+ YAL_herald_party_long:0 "신성 통일 운동"
  YAL_anarchist_party:0 "노동자 연합 전선"
  YAL_anarchist_party_long:0 "노동자 연합 전선"
  YAL_herzland_fascim_party:0 "NDPH"
@@ -86,11 +86,11 @@
  YAL_grover_empire_communism_ADJ:0 "임페리얼"
 
  YAL_Grover_Lord_of_Yale_neutrality:0 "예일 학장국"
- YAL_Grover_Lord_of_Yale_fascism:0 "예일 공국"
+ YAL_Grover_Lord_of_Yale_fascism:0 "예일덤 공국"
  YAL_Grover_Lord_of_Yale_communism:0 "예일 코뮌"
  YAL_Grover_Lord_of_Yale_democratic:0 "예일 학장국"
  YAL_Grover_Lord_of_Yale_neutrality_DEF:0 "예일 학장국"
- YAL_Grover_Lord_of_Yale_fascism_DEF:0 "예일 공국"
+ YAL_Grover_Lord_of_Yale_fascism_DEF:0 "예일덤 공국"
  YAL_Grover_Lord_of_Yale_communism_DEF:0 "예일 공국"
  YAL_Grover_Lord_of_Yale_democratic_DEF:0 "예일 학장국"
  YAL_Grover_Lord_of_Yale_fascism_ADJ:0 "예일"
@@ -153,439 +153,439 @@
 
 ###Focuses
 ##INDUSTRY
- YAL_subsidize_industry:0 "Subsidise Industry"
- YAL_subsidize_industry_desc:0 "Although some of our more radical economists despise any government interference into the economy, analysts have shown that there is much to gain from subsidising our industries. A few key investments will give us the opportunity to innovate new production methods which will give our factories an advantage over foreign competitors."
+ YAL_subsidize_industry:0 "산업 보조금"
+ YAL_subsidize_industry_desc:0 "우리보다 급진적인 경제학자들 중 일부는 경제에 대한 정부의 간섭을 경멸하지만, 분석가들은 우리의 산업에 보조금을 지급함으로써 얻을 수 있는 것이 많다는 것을 보여주었습니다. 몇 가지 핵심적인 투자를 통해 우리는 새로운 생산 방식을 혁신할 수 있는 기회를 얻게 될 것이며, 이것은 우리의 공장들이 외국의 경쟁업체들보다 유리할 수 있게끔 작용할 것입니다."
 
- YAL_yale_factories:0 "Revitalise Yale"
- YAL_yale_factories_desc:0 "Yale, the old capital, and namesake of our country, has slowly been eclipsed by Greenback as the heart of òur nation. However, the city lays at a strategic location for regional trade and still has potential to grow its industry. An investment in Yale now would surely see the city regain some of its former splendour."
+ YAL_yale_factories:0 "예일 재활성화"
+ YAL_yale_factories_desc:0 "예일, 옛 수도이자, 그린백에 의해 우리나라의 심장 지역에서 서서히 전락한, 현재는 이름뿐인 지역입니다. 하지만, 이 도시는 지역 무역을 위한 전략적 위치에 자리 잡고 있고 여전히 산업을 성장시킬 수 있는 잠재력을 가지고 있습니다. 예일에 투자하면 그 도시는 확실하게 이전의 화려함을 되찾을 수 있을 것입니다."
 
- YAL_greenback_factories:0 "Invest in the Capital"
- YAL_greenback_factories_desc:0 "Greenback has been the beating heart of Yale since the industrial revolution kicked off. Many of the old cities in Griffonia, like Yale,  grew decadent and new centres of industry and culture took their place. With the city already being the home of our most important companies, we ought to incentivise them to expand their operations in the city."
+ YAL_greenback_factories:0 "수도 지역 투자"
+ YAL_greenback_factories_desc:0 "그린백은 산업 혁명이 시작된 이래로 예일의 심장 지역이 되었습니다. 예일과 같은 그리포니아에 존재하는 오래된 도시들은 퇴폐하게 되었고 새롭게 성장한 산업과 문화의 중심지가 자리를 잡았습니다. 도시가 우리의 가장 중요한 기업들의 본거지이기 때문에, 우리는 그들에게 도시에서의 그들의 사업을 확장하도록 장려해야 합니다."
 
- YAL_develop_yale_ironworks:0 "Yale Ironworks"
- YAL_develop_yale_ironworks_desc:0 "Yale's industry is experiencing a healthy growth and its new factories are creating their own demands. Steel is key in keeping our industrial base operating and it would be prudent to invest in ironworks on site. A steady supply of iron would surely make the city even more industrious."
+ YAL_develop_yale_ironworks:0 "예일 제철소"
+ YAL_develop_yale_ironworks_desc:0 "예일의 산업은 건강한 성장을 경험하고 있고 새로운 공장들은 그들만의 수요를 창출하고 있습니다. 강철은 우리의 산업기반을 계속 운영하는데 핵심이며 제철소에 투자하는 것이 타산적일 것입니다. 강철의 지속적인 공급은 확실하게 도시를 더욱 근면하게 만들어줄 것입니다."
 
- YAL_tungsten_production:0 "Open the Tungsten Mine"
- YAL_tungsten_production_desc:0 "Tungsten is usually mined in small underground extraction sites. However, an open tungsten mine would mean a way higher yield of this strategically important resource, seeing as shells made from this material are essential for modern artillery pieces. Sure, this won't look pretty, but the locals will surely be swayed by the creation of more jobs. "
+ YAL_tungsten_production:0 "텅스텐 광산 개발"
+ YAL_tungsten_production_desc:0 "텅스텐은 보통 소규모의 지하 매장지에서 채굴됩니다. 텅스텐으로 만들어지는 포탄은 현대의 포병에 필수적으로 쓰이기에 텅스텐 광산이 개발된다는 것은 전략적으로 중요한 자원을 더 많이 채굴할 수 있다는 것을 의미할 것입니다. 물론, 광산 개발이 그다지 매력적으로 보이지는 않지만, 지역 주민들은 분명히 더 많은 일자리가 창출되는 것에 흔들릴 것입니다."
 
- YAL_develop_greenback_ironworks:0 "Greenback Steel"
- YAL_develop_greenback_ironworks_desc:0 "Weapons, cars, and many other goods are made from steel. We are lucky enough to have access to enough mines  to supply us with the necessary ores. However, our steel output can be raised even higher by funding another steel mill in the capital."
+ YAL_develop_greenback_ironworks:0 "그린백 제철소"
+ YAL_develop_greenback_ironworks_desc:0 "무기, 자동차, 그리고 많은 다른 상품들은 강철로 만들어집니다. 운 좋게도 우리는 필요한 광석을 공급할 수 있는 충분한 광산을 이용할 수 있습니다. 하지만, 우리의 강철 생산량은 수도에 또 다른 제철소를 건설함으로써 훨씬 더 높일 수 있습니다."
 
- YAL_aluminium_production:0 "Secure Aluminium Production"
- YAL_aluminium_production_desc:0 "Although steel keeps heavy industry moving, aluminium is needed for some high-tech products such as airplanes. By investing in aluminium production, alongside our existing steel infrastructure, our industry will be ready for the demands of the future."
+ YAL_aluminium_production:0 "알루미늄 생산 확보"
+ YAL_aluminium_production_desc:0 "강철은 중공업을 계속 움직이게 하지만 비행기와 같은 일부 첨단 기술 제품에는 알루미늄이 필요합니다. 기존의 강철 기반 시설과 함께 알루미늄 생산에 투자함으로써, 우리 업계는 미래의 수요에 대비할 것입니다."
 
- YAL_yale_infrastructure:0 "Highways to Yale"
- YAL_yale_infrastructure_desc:0 "Yale's infrastructure has been neglected for years, since the area lacked the heavy industrial traffic of Greenback. It is imperative that Yale gets properly integrated into our transportation network, so that the southwest will also be open for future industrial development."
+ YAL_yale_infrastructure:0 "예일 고속도로"
+ YAL_yale_infrastructure_desc:0 "예일의 기반 시설은 그린백의 산업 교통량이 많지 않아 수년간 방치되어 왔습니다. 예일을 우리의 교통망에 적절하게 통합하여 남서부 지역이 미래 산업 발전을 위해 개방될 수 있도록 하는 것이 필수적입니다."
 
- YAL_frontline_infrastructure:0 "Rails to the North"
- YAL_frontline_infrastructure_desc:0 "Most of our trade to Griffenheim flows along rivers, meaning the cities in our north missed out on vital investments into highways and railroads. With the Empire growing ever more volatile, it may be strategically sound to integrate the north into our existing infrastructure network."
+ YAL_frontline_infrastructure:0 "북쪽으로 가는 철도"
+ YAL_frontline_infrastructure_desc:0 "그리펜하임으로의 교역의 대부분은 강을 따라 흐르고 있습니다. 이것은 북쪽의 도시들이 고속도로와 철도에 대한 중요한 투자를 놓쳤다는 것을 의미합니다. 제국이 더욱 불안정해짐에 따라, 북부 지역을 기존의 교통망에 통합하는 것이 전략적으로 안전할 것입니다."
 
- YAL_greenback_infrastructure:0 "Station One"
- YAL_greenback_infrastructure_desc:0 "Our rail network has been centered around Greenback since the first rails were laid down. At the centre of the city is Station One, a masterpiece of late-imperial architecture and a landmark of our capital. As the demand for train traffic grows, it will become imperative to expand this landmark with additional platforms and warehouses."
+ YAL_greenback_infrastructure:0 "1번 스테이션"
+ YAL_greenback_infrastructure_desc:0 "우리의 철도망은 첫 번째 레일이 깔린 이후 그린백을 중심으로 운영되어 왔습니다. 도시의 중심에는 후기 제국 건축학의 걸작이자 우리 수도의 랜드마크인 1번 스테이션이 있습니다. 열차에 대한 수요가 증가함에 따라, 추가 플랫폼과 창고를 통해 이 랜드마크를 확장하는 것이 필수적이 될 것입니다."
 
 ##Society 
- YAL_educational_effort:0 "Modernise the Curriculum"
- YAL_educational_effort_desc:0 "The speed at which science advances is growing ever faster, leaving griffons in more unfortunate countries behind. However, the universities must keep a steady flow of students coming from the younger generations. To give them the highest chance of success, we must update the curriculum so that our pupils aren't taught outdated theories."
+ YAL_educational_effort:0 "교육 과정 현대화"
+ YAL_educational_effort_desc:0 "과학이 발전하는 속도는 불행한 나라의 그리폰들을 뒤로하고 점점 더 빨라지고 있습니다. 대학들은 젊은 세대의 학생들의 꾸준한 흐름을 유지해야 합니다. 그들에게 최고의 성공 기회를 주기 위해서, 우리는 우리의 학생들이 시대에 뒤떨어진 이론을 배우지 않도록 교육 과정을 갱신해야 합니다."
 
- YAL_bank_reform:0 "Revise the Banking Law"
- YAL_bank_reform_desc:0 "Banking is a time-honoured tradition in all of the Herzland, but the laws that govern these bankers are opaque by design. We will have our most senior professors of law draft a new Banking Law, one that favours our country over these transnationally operating bankers. Even laissez-faire economists agree that the law should guard against perverse incentives as to make the economy more resistant to shock."
+ YAL_bank_reform:0 "은행법 개정"
+ YAL_bank_reform_desc:0 "은행 업무는 모든 헤르츠란트에서 오래된 전통을 가지고 있지만, 이러한 은행가들을 다루는 법은 설계적으로 불투명합니다. 우리는 우리의 고위 법학 교수들에게 국제적으로 운영되는 은행가들보다 우리나라의 은행가들을 더 선호하게 만드는 새로운 은행법을 초안하게 할 것입니다. 자유방임주의 경제학자들조차도 경제가 충격에 더욱 내성을 갖게 하기 위해 비뚤어진 이득을 법으로 경계해야 된다고 동의하고 있습니다."
 
- YAL_public_schools:0 "Refurbish the Public Schools"
- YAL_public_schools_desc:0 "With most of our education budget going to universities, our public schools have been chronically underfunded. If we are to secure the flow of young talent to our universities, we must intervene. Our schools require everything, new classrooms, textbooks, and even functioning heating, so that our young ones don't have to sit in class with two winter coats on."
+ YAL_public_schools:0 "공립학교 재정비"
+ YAL_public_schools_desc:0 "교육 예산의 대부분이 대학에 쓰이게 되면서 공립학교는 만성적으로 자금이 부족하게 되었습니다. 우리 대학이 젊은 인재의 흐름을 확보하기 위해서는 우리가 개입해야 합니다. 우리 학교는 그야말로 새로운 교실, 교과서, 심지어 난방 기능 등 모든 것을 요구했기 때문에, 우리 어린 학생들이 겨울 코트를 두 벌 입고 수업에 참여할 필요가 없어질 것입니다."
 
- YAL_land_reform:0 "Land Consolidation"
- YAL_land_reform_desc:0 "The age of feudalism has left its mark on our country, as it has on most of Griffonia. Marriages, ancient contracts, and feuds have made the countryside a confusing patchwork of  fields owned by small farmers and big estates. By encouraging land consolidation, where farmers trade their lands to make more efficient and larger fields, our agricultural sector will surely flourish."
+ YAL_land_reform:0 "토지 정리"
+ YAL_land_reform_desc:0 "봉건 시대는 그리포니아 대부분의 지역에서와 마찬가지로 우리나라에도 그 흔적을 남겼습니다. 결혼, 고대 계약, 그리고 불화는 시골 지역의 소작농들과 대지주가 소유한 토지들을 혼란스럽게 조각나게 만들었습니다. 농민들이 보다 효율적이고 넓은 밭을 만들게 하기 위하여 땅을 거래하는 토지 정리를 장려함으로써, 우리의 농업 분야는 분명히 번창하게 될 것입니다."
 
- YAL_agricultural_studies:0 "The Science of Agriculture"
- YAL_agricultural_studies_desc:0 "Agricultural Studies may not be the most prestigious field of science, but it is rapidly developing. Rational management theories and advances in biology and organic chemistry, along with mechanised tools have led to increasing food production across our domains."
+ YAL_agricultural_studies:0 "농업 과학"
+ YAL_agricultural_studies_desc:0 "농업학이 우리의 가장 권위 있는 과학 분야는 아닐지 모르지만, 빠르게 발전하고 있습니다. 기계화된 도구와 함께 합리적인 관리 이론과 생물학 및 유기 화학의 발전은 우리의 영역 전체에 걸쳐 식량 생산을 증가시키도록 이끌고 있습니다."
 
- YAL_gold_standard:0 "Embrace the Gold Standard"
- YAL_gold_standard_desc:0 "When the Empire ruled Griffonia, there was no doubt about the stability of its currency. Now that the ironclad faith in Griffenheim is but a footnote in history, we require a new idea. By tying our currency to gold, our money will be stable, as no griffon will doubt the value of this most precious metal!"
+ YAL_gold_standard:0 "금본위제 채택"
+ YAL_gold_standard_desc:0 "제국이 그리포니아 대륙을 통치하고 있었을 때, 화폐의 안정성에 대해서는 의심의 여지가 없었습니다. 이제 그리펜하임의 철통같은 신앙은 역사의 각주에 불과하기 때문에, 우리는 새로운 발상이 필요합니다. 우리의 화폐를 금에 묶음으로써, 우리의 돈은 안정될 것입니다. 그리폰들은 황금이라는 가장 귀중한 금속의 가치를 의심하지 않을 것이기 때문입니다!"
 
- YAL_industrial_breakthrough:0 "Methods for a New Millennium"
- YAL_industrial_breakthrough_desc:0 "Our industry has lagged behind academia for a while, due to a lack of dedicated R&D investments made by our companies. If we are to move our industry into the second millennium, the state must intervene by investing in industrial modernisation. Science will allow our factories to produce more with less!"
+ YAL_industrial_breakthrough:0 "새로운 천년을 위한 방법"
+ YAL_industrial_breakthrough_desc:0 "우리 산업이 한동안 학계에 뒤처진 것은 우리 기업들의 헌신적인 R&D 투자가 부족했기 때문입니다. 우리의 산업을 두 번째 천년기로 옮기기 위해서는, 국가가 산업 현대화에 투자하여 개입해야 합니다. 과학은 우리의 공장들이 더 적은 돈으로 더 많은 것을 생산할 수 있게 해줄 것입니다!"
 
- YAL_yale_university:0 "Expand Yale University"
- YAL_yale_university_desc:0 "Yale University is the oldest and most prestigious university in the country, but much like the city in which it resides, the institute has been overshadowed by modernity. However, its expansive libraries and tradition for excellence warrant another investment. We must commission an experienced architect to build a new wing for the old university, so that Yale may soar to new heights!"
+ YAL_yale_university:0 "예일 대학 확장"
+ YAL_yale_university_desc:0 "예일 대학교는 국내에서 가장 오래되고 명문대이지만, 이 대학이 있는 도시와 마찬가지로 현대성의 빛이 비치고 있지 않습니다. 그러나, 광활한 도서관과 뛰어난 전통은 또 다른 투자를 보증하고 있습니다. 우리는 예일 대학교가 새로운 높이로 치솟을 수 있도록 옛 대학을 위한 새로운 날개 지을 경험 많은 건축가들을 의뢰해야 합니다!"
 
- YAL_focused_research:0 "The Research Focus Program"
- YAL_focused_research_desc:0 "Our laboratories, scientists, and other research facilities are ready for the next step in pushing the boundaries of griffon knowledge. With the Research Focus Program, the government will set out a goal for a period of 200 days. In this time, all universities will focus their attention on tackling this particular area of study, as to produce immediate benefits for our people."
+ YAL_focused_research:0 "연구 중점 프로그램"
+ YAL_focused_research_desc:0 "우리의 실험실, 과학자들, 그리고 다른 연구 시설들은 그리폰 지식의 한계를 뛰어넘기 위한 다음 단계에 대한 준비가 되어 있습니다. 연구 중점 프로그램을 통해, 정부는 200일 동안 목표를 세울 것입니다. 이 시간 동안, 모든 대학들은 우리 국민들에게 즉각적인 혜택을 제공하기 위해 특정 분야의 연구를 다루는데 그들의 관심을 집중할 것입니다."
 
- YAL_the_great_yale_archives:0 "The Great Yale Archives"
- YAL_the_great_yale_archives_desc:0 "Borean Wiedergreiff was both an architectural visionary and a griffon working to preserve knowledge. He is responsible for many of the reforms that made Yale what it is today, but he could never see his magnum opus completed. A massive archive, housing all the world's knowledge. The construction of this elaborate building will be a great undertaking, but a worthy project for Borean's heirs."
+ YAL_the_great_yale_archives:0 "예일 기록보관소"
+ YAL_the_great_yale_archives_desc:0 "보레안 비더그리프는 건축의 선구자이자 지식을 보존하기 위해 일하는 그리폰이었습니다. 그는 예일을 오늘날의 모습으로 만들었던 많은 개혁에 책임이 있지만, 그는 그의 거대한 작품이 완성되는 것을 볼 수 없었습니다. 거대한 기록보관소는 세계의 모든 지식을 수용합니다. 이 정교한 건축물의 건설은 보레안의 후계자들에게는 훌륭한 목표가 될 것입니다."
 
- YAL_send_invitations:0 "Invite Griffonia's Finest"
- YAL_send_invitations_desc:0 "Borean Wiedergreiff envisioned that his archives would help build peace amongst griffonkind, by becoming a meeting place for the scholarly elite and a beacon against ignorance, which in his view, led to war. With the archives complete, we must invite the best griffon scholars from every nation to study in these archives. May science lead to better understanding between Boreas's chosen."
+ YAL_send_invitations:0 "그리포니아의 경찰 초대"
+ YAL_send_invitations_desc:0 "보레안 비더그리프는 그의 기록보관소가 학계의 엘리트들을 위한 만남의 장소가 되고 무지에 대항하는 봉화가 됨으로써 그리폰 종족 사이에 평화를 구축하는 데 도움이 될 것이라고 생각했습니다. 기록보관소가 완성되면, 우리는 모든 나라의 최고의 그리폰 학자들을 기록보관소에서 연구할 수 있도록 초대해야 합니다. 과학이 보레아스가 선택한 자들 사이에서 더 나은 이해를 이끌어 낼 수 있기를 바랍니다."
 
- YAL_learn_from_the_past:0 "The Treasures of the Past"
- YAL_learn_from_the_past_desc:0 "Warfare, ignorance, and malice destroyed much of the knowledge of the ancient Griffonian Empire. Our archives are helping historians and other researchers piece together the knowledge of the past. Much of the ancients' knowledge may seem outdated, but sometimes they are wiser than we could ever imagine."
+ YAL_learn_from_the_past:0 "과거의 보물들"
+ YAL_learn_from_the_past_desc:0 "전쟁, 무지와 악의는 고대 그리포니아 제국의 많은 지식을 파괴했습니다. 우리의 기록보관소는 역사학자들과 다른 연구자들이 과거의 지식들을 한데 모으는 것을 돕고 있습니다. 고대인들의 많은 지식은 시대에 뒤떨어진 것처럼 보일 수도 있지만, 때때로 그들은 우리가 상상할 수 있는 것보다 더욱 현명합니다."
 
 ##Internal Politics Focuses
 
 #Fascism
- YAL_gather_the_council:0 "Gather the Council"
- YAL_gather_the_council_desc:0 "With the events in Griffenheim unravelling fast, Yale can no longer sit idle. Decisive action has to be taken, but the universities disagree on which course of action to take. Rector Magnificus Mikusian will convene the council to force a decision on the future of the Rectorate."
+ YAL_gather_the_council:0 "위원회 소집"
+ YAL_gather_the_council_desc:0 "그리펜하임에서의 상황이 빠르게 진행되면서 예일은 더 이상 가만히 있을 수 없게 되었습니다. 결정적인 조치를 취해야 하지만, 대학들은 어떤 조치를 취해야 하는지에 대해 의견이 다릅니다. 마그니피쿠스 미쿠시안 총장은 위원회를 소집하여 학장국의 미래에 대한 결정을 강요하게 될 것입니다."
 
- YAL_bruma_and_gamia:0 "Bruma and Gamia"
- YAL_bruma_and_gamia_desc:0 "In the west of Yale lie the two university cities of Bruma and Gamia. These universities maintain close ties with the local Prelate of Arcturius and have different values than the other universities. Gamia houses brilliant biologists, who dare to push beyond the boundaries of the ethical, while Bruma's social science faculties reject liberal theories in favour of a strong society."
+ YAL_bruma_and_gamia:0 "브루마와 가미아"
+ YAL_bruma_and_gamia_desc:0 "예일 서쪽에는 브루마와 가미아의 두 대학 도시가 있습니다. 이 대학들은 지방의 아크투리우스 추기경과 긴밀한 관계를 유지하고 있으며 다른 대학들과는 다른 가치를 가지고 있습니다. 가미아에는 윤리적 경계를 뛰어넘을 수 있는 뛰어난 생물학자들이 살고 있는 반면, 브루마의 사회 과학 학부는 강력한 사회를 지지하며 자유주의 이론을 거부하고 있습니다."
 
- YAL_archons_patronage:0 "The Archons' Patronage"
- YAL_archons_patronage_desc:0 "The Archons are delighted that Yale has chosen to favour the university of Bruma. To promote Bruma's traditionalist theories to the rest of Yale, they have chosen to increase their investments into our country, increasing the Triarchy's benign influence in our education system. With the Archons' Patronage, our country will rise to greatness. "
+ YAL_archons_patronage:0 "집정관들의 지원"
+ YAL_archons_patronage_desc:0 "집정관들은 예일이 브루마 대학을 선택했다는 것에 기뻐하고 있습니다. 브루마의 전통주의 이론을 예일의 나머지 지역에도 알리기 위해, 그들은 우리나라에 대한 투자를 늘리고, 우리의 교육 시스템에 삼두정의 우호적인 영향력을 증가시킬 것입니다. 집정관들의 지원으로 우리나라는 위대해질 것입니다."
 
- YAL_additional_funding:0 "Charitas"
- YAL_additional_funding_desc:0 "Although the role of charity in griffon society is often debated, a generous donation to public charities by the Triarchy would smooth out tensions in Yale. Many commoners question the renewed prevalence of religion in our society, but if we can show the best side of the temples, their concerns will melt like dew in the sun."
+ YAL_additional_funding:0 "박애"
+ YAL_additional_funding_desc:0 "그리폰 사회에서 자선 단체의 역할은 종종 논란이 되어왔지만, 삼두정에 의한 공공 자선단체의 후한 기부는 예일 대학의 긴장상태를 완화시킬 것입니다. 많은 평민들이 우리 사회에 종교가 다시 널리 퍼지는 것에 의문을 제기하고 있지만, 만약 우리가 신전의 가장 좋은 면을 보여줄 수 있다면, 그들의 걱정은 햇빛에 이슬처럼 녹게 될 것입니다."
 
- YAL_archons_visit:0 "Plan the Archon's Visit"
+ YAL_archons_visit:0 "집정관의 방문 계획"
  YAL_archons_visit_desc:0 "His Holiness Archon Proteus III is the embodiment of the traditional values that will save Yale from the culture-destroying ideologies of republicanism and socialism. However, some of the people still doubt the benevolent intent of Arcturius' Archon. A visit by Proteus will remind Yale how Arcturius would want us to live."
 
- YAL_social_sciences:0 "Bruma's Social Sciences"
+ YAL_social_sciences:0 "브루마의 사회 과학"
  YAL_social_sciences_desc:0 "The university of Bruma is an exception amongst universities. Its faculty for social sciences rejects the universalist ideologies of harmony and socialism as Equestrian attempts to export their way of life. According to the professors of Bruma, if Yale is to weather the coming storm, we must return to our past and look for guidance in our own culture."
 
- YAL_indoctrinate_students:0 "Motivate the Students"
+ YAL_indoctrinate_students:0 "학생들의 동기 부여"
  YAL_indoctrinate_students_desc:0 "University students are interesting. They have learned so little, yet they think they understand so much. The student body of Bruma already knows their place, working tirelessly to improve Yalish society. It is time that the student bodies of other universities follow this example."
 
- YAL_address_population:0 "Local Ethics"
+ YAL_address_population:0 "지역 윤리학"
  YAL_address_population_desc:0 "Many of our academics have grown too detached from the real world and the normal griffons. Let us return to society and learn from them. The answer to what a just society is, cannot be found in books from Equestrian philosophers. The answer is out there, in the street. All we need to do is look. "
 
- YAL_common_cause:0 "The Common Cause"
+ YAL_common_cause:0 "공동 목적"
  YAL_common_cause_desc:0 "Now that everygriffon is in agreement with the importance of incorporating our culture into government, we can work on the task at hand. More government discretion will be needed to implement this and several rights will have to be temporarily restricted to ensure that the process proceeds smoothly."
 
- YAL_new_council_member:0 "A New Council Member"
+ YAL_new_council_member:0 "새로운 위원회 구성원"
  YAL_new_council_member_desc:0 "To ensure an easy advantage for Bruma and Gamia in the Council of Rectors, we will need another vote. We will have our allies in the Triarchy of Gods convince the people that the Council requires religious guidance. With this pressure, we will be able to demand for a new member; Arcturian Prelate Michael of the Yaledom."
 
- YAL_crackdown_on_dissenters:0 "Silence!"
+ YAL_crackdown_on_dissenters:0 "정숙하라!"
  YAL_crackdown_on_dissenters_desc:0 "Many within our nation criticize the growing power of the Prelate in Yale. We cannot have these griffons organize their strength against us. We must silence these voices via the way of Arcturius the Warrior. Forcefully."
 
- YAL_offer_compromise:0 "Calm the Voices of Dissent"
+ YAL_offer_compromise:0 "반대 목소리를 잠재우다"
  YAL_offer_compromise_desc:0 "The Prelate's appointment to the Council has caused many concerns amongst student and professor alike. With compromises, flattery, and bribes, we will be able to calm the situation. Arcturius the Smith will forge our society together through strength. It is worth the effort, if every Yalian wholeheartedly supports us in the long run."
  
- YAL_challenge_griffenheim:0 "Challenge Griffenheim!"
+ YAL_challenge_griffenheim:0 "그리펜하임에 도전한다!"
  YAL_challenge_griffenheim_desc:0 "The foolish Griffenheim nobility have forced out the Archon of Boreas. Without him as regent, who knows what corruption these nobles may force into the head of Grover VI. It is time to restore the Triarchy before Griffenheim unleashes disaster upon us all. Arcturius smiles upon the faithful who take up arms in his name. With the Prelate's blessing, we go to war!"
 
- YAL_stabilize_council:0 "Yale's New Position"
+ YAL_stabilize_council:0 "예일의 새로운 위치"
  YAL_stabilize_council_desc:0 "Archon Eros VII has rightfully been appointed regent of the Empire, with Archon Proteus III part of his ruling council. With them leading the faithful, a new era is sure to follow. The Prelate believes that we will be better off by keeping a semblance of autonomy in the greater Griffonian Empire and the Archons will surely agree with his views."
 
- YAL_cooperation_offer:0 "Into the Fold"
- YAL_cooperation_offer_desc:0 "Archon Eros VII has been appointed regent of his Imperial Majesty Grover VI, with Archon Proteus III part of his ruling council. Our citizens clamour to re-join the Empire and enjoy the benefits of the Archons' guidance. Who are we to deny the people their birthright of Imperial citizenship?"
+ YAL_cooperation_offer:0 "다시 돌아가다"
+ YAL_cooperation_offer_desc:0 "집정관 에로스 7세는 집정관 프로테우스 3세와 함께 그로버 6세 황제의 섭정으로 임명되었습니다. 우리 시민들은 제국에 재합류하여 집정관들의 지도를 따라 혜택을 누리기를 외치고있습니다. 시민들의 제국 시민 권리를 부인할 사람이 어디 있겠습니까?"
 
- YAL_biological_sciences:0 "The Science of Life"
+ YAL_biological_sciences:0 "생명의 과학"
  YAL_biological_sciences_desc:0 "Gamia is known for its biology department. While most universities have codes of conduct that restrict their attempts to conduct experiments on the living, this university is dedicated to a pure form of knowledge acquisition."
 
- YAL_initiate_research:0 "Unlimited Potential"
+ YAL_initiate_research:0 "무한한 잠재력"
  YAL_initiate_research_desc:0 "With Yale quickly turning away from conventional ethics, there is an opportunity to remove the last obstacles to scientific progress. By altering guidelines and regulations that restrict unlimited experimentation, our full potential will finally be discovered."
 
- YAL_griffon_biology:0 "Griffon Biology"
+ YAL_griffon_biology:0 "그리폰 생물학"
  YAL_griffon_biology_desc:0 "We must begin our research at the core. The griffon body. A unique blend of several different species of animals, it is clear that the griffon has adapted to a level of complexity beyond anything else on this planet. Some griffons even have potential for certain types of magic, further proving our superiority."
 
- YAL_encourage_student_research:0 "Encourage Student Research"
+ YAL_encourage_student_research:0 "학생들의 연구를 장려하다"
  YAL_encourage_student_research_desc:0 "The students, especially the younger ones, are still a bit weary of going along with our methods. However, there is much potential in Gamia and we must encourage these griffons to let go of any 'morality' they adopted outside these walls. Progress is the ultimate goal."
 
- YAL_delve_deeper:0 "Delve Deeper"
+ YAL_delve_deeper:0 "깊이 파고들다"
  YAL_delve_deeper_desc:0 "Our research is expanding our fields of vision and the future is becoming ever clearer. The griffon body, and its energy, divine essence, life itself. These are not, should not, be the domains of just the Gods. Understanding and manipulating these essential concepts is within our reach."
 
- YAL_project_auferstehung:0 "Project Auferstehung"
- YAL_project_auferstehung_desc:0 "Life, as it is commonly understood, has a definitive end. However, science may yet pierce the veil that separates the living from the dead and retrieve a soul lost to our world. Imagine the implications!"
+ YAL_project_auferstehung:0 "부활 계획"
+ YAL_project_auferstehung_desc:0 "생명은, 일반적으로 알고 있듯이 결정적인 끝을 가지고 있습니다. 하지만, 과학은 아직 살아있는 생명과 죽은 존재를 구분하는 장막을 뚫어 우리 세계에 잃어버린 영혼을 되찾아올 수 있습니다. 그 결과를 상상해보세요!"
 
- YAL_project_weihe:0 "Project Weihe"
- YAL_project_weihe_desc:0 "Objectively, the Gods hold the most knowledge of the world and therefore, their instructions should be followed. However, the great distance between us and the heavens has made their word unclear and up to interpretation. What if we could retrieve this information directly from the source?"
+ YAL_project_weihe:0 "신성 계획"
+ YAL_project_weihe_desc:0 "객관적으로 봤을 때, 신들은 세상에 대한 가장 많은 지식을 가지고 있기 때문에, 그들의 지시를 따라야 합니다. 그러나, 우리와 하늘 사이의 머나먼 거리는 그들의 말을 불분명하게 했고 해석하게 만들기에 이르렀습니다. 만약 정보들을 근원에서 직접 찾을 수 있다면 어떨까요?"
 
- YAL_project_wohlstand:0 "Project Wohlstand"
- YAL_project_wohlstand_desc:0 "The world is run by a very complex system of trade, prices, and economic laws. But the griffon mind was never constructed to properly take advantage of these systems, as the inferior understanding of our colleagues in Middenheim demonstrates perfectly. However, altering the mind is not beyond our ability..."
+ YAL_project_wohlstand:0 "번영 계획"
+ YAL_project_wohlstand_desc:0 "세계는 무역, 물가, 그리고 경제법의 매우 복잡한 시스템에 의해 운영됩니다. 그러나 미든하임에 있는 우리 동료들의 열등한 이해가 완벽하게 보여 주듯이, 그리폰들의 마음은 이러한 시스템을 제대로 활용하도록 구성되지 않았습니다. 하지만, 마음을 바꾸는 것은 우리의 능력 밖이 아닙니다..."
 
 
 #Non-Aligned
- YAL_central_universities:0 "The Central Universities"
+ YAL_central_universities:0 "중앙 대학"
  YAL_central_universities_desc:0 "The universities of Greenback, Greengate, and Middenheim all have different specialties, but their leadership shares a similar vision. Ultimately, the goal of science is to serve society. Whether it is with new medicine, new technology, or by increasing prosperity, we will work for a better future!"
 
- YAL_greengate_engineering:0 "Greengate University"
+ YAL_greengate_engineering:0 "그린게이트 대학교"
  YAL_greengate_engineering_desc:0 "The foremost engineers, both electronic and mechanical, have made Greengate their favoured university. The university is close to Greenback, the industrial beating heart of the country. The engineers of Greengate are eager to receive more funding, promising quick returns in technical advancements!"
 
- YAL_radar_research:0 "Project Sentinel"
+ YAL_radar_research:0 "감시 계획"
  YAL_radar_research_desc:0 "For some time, Greengate's engineers have dreamt of developing our own RADAR system. Not only will such an array provide us with invaluable scientific data, the listening post would help us keep an eye on our neighbours and spot incoming aircraft. Of course, there is a price tag involved."
 
- YAL_better_air_detection:0 "Watch Everything"
+ YAL_better_air_detection:0 "모든 걸 주시하다"
  YAL_better_air_detection_desc:0 "Project Sentinel is a resounding success and the data is flowing in. However, our scientists hunger for even more data to crunch, while our military command is eager to further spy on our rivals' movements. Additional funding could improve our Sentinel stations even more!"
 
- YAL_industrial_engineering:0 "The Machine Spirit"
+ YAL_industrial_engineering:0 "기계 정신"
  YAL_industrial_engineering_desc:0 "A group of very dedicated engineers have begun wearing robes in our university and are weirdly obsessed with prosthetics. They are really knowledgeable, but may care a bit too much about their prized machinery. Their innovations may serve us well, but let's leave them alone with their machine spirit."
 
- YAL_synthetic_research:0 "Transmuting the Black Gold"
+ YAL_synthetic_research:0 "검은 황금 변환"
  YAL_synthetic_research_desc:0 "Greengate University's heritage goes all the way back to that of griffon alchemists. These proto-scientists diligently worked to use magic and science to make lead into gold. Of course, without modern techniques, their efforts were doomed to fail. But some of our engineers are insisting that we give it another try!"
 
- YAL_form_computer_faculty:0 "Found the Computing Faculty"
+ YAL_form_computer_faculty:0 "컴퓨터 학부 설립"
  YAL_form_computer_faculty_desc:0 "Mathematics is the foundation of all science. In fact, it is the frame through which we understand the fundamental processes of our world. Visionaries have already dreamt of Automatic Computers, but with electronics and mechanics combined, our new Computing Faculty will lead the way into the future!"
 
- YAL_encryption_decryption:0 "The Wingaarden Theorem"
+ YAL_encryption_decryption:0 "윙가르덴 정리"
  YAL_encryption_decryption_desc:0 "Adriaan van Wingaarden, a Feathisian mechanical engineer, is making amazing breakthroughs in the field of computer technology! We should follow his ideas closely and make sure that our Computing Faculty stays up to date in this new and boundless field of innovation!"
 
- YAL_pioneers_in_engineering:0 "Pioneers in Engineering"
+ YAL_pioneers_in_engineering:0 "공학 기술의 개척자들"
  YAL_pioneers_in_engineering_desc:0 "Greengate University has become a campus full of exciting possibilities! The experiments and theories conducted here seem way beyond the possible. The machines built will revolutionise modern life, when they become available for the public. These pioneers are paving the way towards a better tomorrow!"
 
- YAL_health_sciences:0 "Greenback's Academy of Medicine"
+ YAL_health_sciences:0 "그린백 의학 학교"
  YAL_health_sciences_desc:0 "Yale's largest city is also one of many problems. Hard work in the factories, pollution, and poverty all harm many griffons. The Greenback Academy of Medicine has done miracles to advance the medical sciences. With substantial support, cures that seem decades away can be achieved within reasonable time!"
 
- YAL_greenback_hospital:0 "Greenback University Hospital"
+ YAL_greenback_hospital:0 "그린백 대학 병원"
  YAL_greenback_hospital_desc:0 "Close to the University of Greenback stands the biggest hospital in Yale, where thousands are being treated simultaneously. It is also the training ground for many doctors and a place where, through trial and error, science advances slowly. Some refurbishments, extra staff, and a new wing are sorely needed to keep our healthcare in order."
 
- YAL_modernised_medical_procedures:0 "Modernised Medical Procedures"
+ YAL_modernised_medical_procedures:0 "현대화된 의료 절차"
  YAL_modernised_medical_procedures_desc:0 "The lessons from Greenback will have to be rolled out across the country, if we are to keep our entire population healthy. Every death is a tragedy and with the latest medical technology, we hope that all hospitals can work to keep more griffons alive."
 
- YAL_pharmacology:0 "Pharmacology"
+ YAL_pharmacology:0 "약물학"
  YAL_pharmacology_desc:0 "The study of the practical application of medicine is an up and coming branch of science. Most academics spend too much time in laboratories, crafting up theories and doing controlled tests. Let us focus on how medicine works in the real world, as better medicines will benefit both the people and the army."
 
- YAL_enhancement_drugs:0 "Combat Stimulants"
+ YAL_enhancement_drugs:0 "전투 자극제"
  YAL_enhancement_drugs_desc:0 "Our soldiers are subject to all sort of hardships. The griffon body already has a lot of ways to deal with them, such as adrenaline. However, to give our soldiers a better chance, we can increase their combat effectiveness and perhaps make life on the front easier. Plus, we do not have conclusive data to support that these drugs have any negative side-effects."
 
- YAL_magical_potential:0 "Magical Potential"
+ YAL_magical_potential:0 "마법의 잠재력"
  YAL_magical_potential_desc:0 "The griffon body is vastly different from that of a unicorn or  changeling, but we are still able to perform acts that could be classified as magical. We must research what makes a griffon magical. How can we alter and increase this? Is magic something immaterial, or is there an organ responsible for this? Who knows what we will find after a little research? "
 
- YAL_unravel_the_mind:0 "Unravel the Mind"
+ YAL_unravel_the_mind:0 "마음을 풀어내다"
  YAL_unravel_the_mind_desc:0 "The brain sits mightily atop the body, controlling every movement and processing every piece of information it receives.How curious that we now contemplate the contemplator. How do we think? What did the Gods give us that makes us conscious of our own existence? Is it possible to find out? We must know!"
 
- YAL_understand_the_body:0 "Understand the Body"
+ YAL_understand_the_body:0 "육체를 이해하다"
  YAL_understand_the_body_desc:0 "The body houses our soul and mind, but is the most curious part of this trio. Its complexity and harmony seem to always reveal new depths. It is clear that with each step we take towards understanding our basic physical characteristics, more questions reveal themselves. But knowledge is the reward of the faithful searcher. Knowledge that could save lives. "
 
- YAL_promise_of_health:0 "The Oath of the Physician"
+ YAL_promise_of_health:0 "의사 선서"
  YAL_promise_of_health_desc:0 ""I will use treatment to help the sick according to my ability, but never with a view to injury. Into each house I enter, I will enter to help the sick, and I will abstain from all intentional wrongdoing. And what I shall see or hear in the course of my profession, I will hold to be holy secrets. If I carry out this oath, may I gain reputation among all griffons for my art; but if I break it, may the opposite befall me.""
 
- YAL_middenheim_business_university:0 "Middenheim School of Economics"
+ YAL_middenheim_business_university:0 "미든하임 경제 학교"
  YAL_middenheim_business_university_desc:0 "With ever more goods being produced and international trade linking the world more closely, the study of economics has received increased attention. Middenheim, Yale's leading centre of economists, rejects the theories of communists, choosing to improve capitalist system instead."
 
- YAL_art_of_negotiation:0 "The Art of Negotiation"
+ YAL_art_of_negotiation:0 "협상 기술"
  YAL_art_of_negotiation_desc:0 ""The worst thing you can do in a negotiation is seem desperate to make it. That makes the other bird smell blood, and then you're dead. Leverage is the biggest strength you can have. Leverage is having something the other griffon wants.  Or better yet, simply can't do without. Unfortunately, that isn't always the case, which is why leverage often requires imagination and salesgriffship.""
 
- YAL_stock_investiture:0 "National Stock Effort"
+ YAL_stock_investiture:0 "국가적인 주식 투자 장려"
  YAL_stock_investiture_desc:0 "For the stock market to be of the greatest benefit to the economy, shareholders should have a long term vision. By increasing the state's share of our most important firms and encouraging investors to keep their stocks for longer terms, our nation will reap the benefits. "
 
- YAL_clawnes:0 "Lord Meynard Clawnes"
+ YAL_clawnes:0 "메이나르드 클로네스 경"
  YAL_clawnes_desc:0 "The economy is a circular flow of money, and spending is the crux to prosperity. A lack of confidence in the economy stops consumption, creating depression. To increase the flow of capital, states can keep spending to kickstart the economy. Even war spending will create jobs!"
 
- YAL_government_oversight:0 "Government Oversight"
+ YAL_government_oversight:0 "정부의 감독"
  YAL_government_oversight_desc:0 "The market is fickle and prone to failure, like a car engine in need of tuning. We must give the government more discretion to intervene, balancing public and private interests. Using equations and models, we can determine where money is needed to get the highest growth."
 
- YAL_state_investments_industry:0 "Boost Aggregate Demand"
+ YAL_state_investments_industry:0 "총합적인 수요 증대"
  YAL_state_investments_industry_desc:0 "It is indeed demand that determines the strength of the economy. The state can boost demand by embarking on public works projects. The money spent on these works will multiply as it circulates in the economy and gets used by workers to buy other products."
 
- YAL_steer_the_market:0 "Steer the Market"
+ YAL_steer_the_market:0 "시장을 움직이다"
  YAL_steer_the_market_desc:0 "The Yalian economy must focus on boosting demand and spending in the economy. Money trapped in the bank accounts of greedy griffons cannot help grow the economy, and the more money trapped, the harder economic growth will become. Let us keep spending and proclaim "We're all Clawnesians now!""
 
- YAL_hawk:0 "August von Hawk"
+ YAL_hawk:0 "아우구스트 폰 호크"
  YAL_hawk_desc:0 "The economy is not simply put into one equation, but is the culmination of the actions and motivations of all beings. Only real savings and real advancement can grow the economy, not an increase of available money. Bailouts, state investments and other such matters distort the market, creating bubbles and keeping losers on top. It is time to get sober and start saving."
 
- YAL_self_regulated_companies:0 "Self-Regulation"
+ YAL_self_regulated_companies:0 "자율적인 규제"
  YAL_self_regulated_companies_desc:0 "Companies go after their own interest, but only the biggest companies have the power to influence our government directly, distorting the market with rules that benefit them. The only real way to make markets work, is if the state retreats from the arena, so that the market can get the prices right."
 
- YAL_small_business_encouragement:0 "Small Businesses Competes"
+ YAL_small_business_encouragement:0 "중소기업 경쟁"
  YAL_small_business_encouragement_desc:0 "Hawk's model has been accused of favouring big business, but this is not the case. Some industries have massive barriers to entry, almost naturally creating little competition. In this case, we can intervene by allowing small businesses the chance to compete with big firms."
 
- YAL_free_the_market:0 "Free the Market"
+ YAL_free_the_market:0 "시장의 자유화"
  YAL_free_the_market_desc:0 "We must set the market free. No longer will stimulus and bailouts give perverse incentives. We will balance the books, save money, and slowly grow the economy. We will not hold illusions about easy ways to increase production. Hard work, real ingenuity, and a trust in our griffons to help each other, will make Yale flourish."
 
- YAL_economic_prosperity:0 "A Future of Prosperity"
+ YAL_economic_prosperity:0 "번영된 미래"
  YAL_economic_prosperity_desc:0 "Whatever path chosen, the economists of Middenheim work tirelessly to update their models and craft the best strategies with which we can face the future. Prosperity has emerged in the country by virtue of a careful economic policy, not one determined by the whims of politicians or mobs. The future is bright for everygriffon!"
 
 ###Heartlands victory
- YAL_heartlands_victory:0 "Against All Odds"
+ YAL_heartlands_victory:0 "모든 역경에도 불구하고"
  YAL_heartlands_victory_desc:0 "We have survived the assault of the resurgent Empire. Our soldiers have secured the Imperial City and we are now by all accounts the leading Heartlands Nation. It is up to us to unite the Heartlands and make sure we win the peace, as well as the war."
  
- YAL_call_the_council:0 "Call the Council"
+ YAL_call_the_council:0 "위원회 호출"
  YAL_call_the_council_desc:0 "Now that we have conquered Griffenheim, we must rally to our cause. A better future is within reach if we keep up our resolve. It is time for the Rector Magnificus to call the council together once more and make a solemn pledge to unite the Heartlands. Whatever it takes."
 
- YAL_secure_the_heart:0 "Secure the Heart"
+ YAL_secure_the_heart:0 "마음을 굳히다"
  YAL_secure_the_heart_desc:0 "The Rectors of Yale are of one mind on this matter. To secure the future of Yale, all of the Herzland must be under our control. Only then may we see to other matters. We cannot let our countrygriffons rot in backwards feudal states, dictatorships or warmongering republics."
  
 
 #Harmonist branch 
- YAL_the_new_spark:0 "The New Spark"
+ YAL_the_new_spark:0 "새로운 불빛"
  YAL_the_new_spark_desc:0 "A movement has been brewing inside Yale for years. A movement of students and concerned citizens demanding representation in the government. Griffons who believe in a better future like us. Griffons who fought for our ideals on the battlefield. Perhaps we can only truly unite the Heartlands through democratic and harmonic means?"
 
- YAL_ratify_the_grungesetz:0 "Ratify the Grundgesetz"
+ YAL_ratify_the_grungesetz:0 "기본법 비준"
  YAL_ratify_the_grungesetz_desc:0 ""Conscious of their responsibility before Gods and griffons, and inspired by the determination to promote peace in Griffonia, the constitutional council has adopted this Basic Law. We have achieved the unity and freedom of all beings in the Heartlands and this Law underpins the Rights and Duties of all who reside within our borders."\n-Preamble to the Herzland Grundgesetz"
 
- YAL_call_for_elections:0 "Call for Elections"
+ YAL_call_for_elections:0 "선거를 위한 외침"
  YAL_call_for_elections_desc:0 "For some griffons in the Herzland going to the polls must feel like a return to business as usual, while for some it will be an exciting experiment. It is time for the hustling of debates, campaigns and rallies. The New Sparkle movement itself looks set to win a plurality of the seats, with local, social democratic and conservative parties vying for the rest of the electorate."
 
- YAL_left_coalition:0 "Coalition with the SPH"
+ YAL_left_coalition:0 "SPH와 연합"
  YAL_left_coalition_desc:0 "The Social Democratic Party of the Herzland has managed to gain quite a bit of seats and could help the New Sparkle gain a majority in the Bundestag. The Spitzenkandidat of the SPH is the Feathisian Gerben Kogchel, a veteran politician from the former Grand-Duchy. He will seek to establish a system of social security in the Herzland."
 
- YAL_swear_in_the_president:0 "Swear in the President"
+ YAL_swear_in_the_president:0 "대통령의 맹세"
  YAL_swear_in_the_president_desc:0 "With the Coalition agreement signed it is time for the first president of the Federal Republic to be Sworn in. President Georgina Friedrika Schüler will take the oath of office on the balcony of the Palace of the Republic in Griffenheim, once home to the Emperors of old. May the Herzland prosper under her tenure."
 
- YAL_social_welfare_program:0 "Social Welfare Program"
+ YAL_social_welfare_program:0 "사회 복지 프로그램"
  YAL_social_welfare_program_desc:0 "There is no time to delay the institution of a program of social welfare for our citizens. Poverty still runs rampant across the Heartlands and we cannot afford the loss of more precious lives. Besides the obvious benefits of saving lives and the dignity of our citizens, we might also forge solidarity between the different parts of the Republic."
 
- YAL_social_pensions_act:0 "General Law on the Elderly"
+ YAL_social_pensions_act:0 "노년층에 대한 일반법"
  YAL_social_pensions_act_desc:0 "There comes a time in one's life where one cannot work anymore. A time where it is time to enjoy some well-deserved rest. Having the elderly work for scraps or having to beg on the streets is a disgrace to our Republic. In the Herzland, we will take care of our elderly with a reasonable pension for those who have worked hard their entire lives."
 
- YAL_free_higher_education:0 "Bundesausbildungsförderungsgesetz"
+ YAL_free_higher_education:0 "연방교육진흥법"
  YAL_free_higher_education_desc:0 "The Federal Training Assistance Act will regulate higher education in the Republic. We will give every prospective student the rights to grants which will cover the cost of studying and to assist with their expenses while studying. Together, we will build the future!"
 
- YAL_public_healthcare_act:0 "Guarantee Healthcare"
+ YAL_public_healthcare_act:0 "의료 서비스 보장"
  YAL_public_healthcare_act_desc:0 "With unemployment benefits guaranteed, there is still another pressing matter for the griffons of the Republic. Medicine has advanced quickly under the Rectorate, but access to this healthcare is far from universal, especially in rural areas. The full force of the Federal Government will be directed towards guaranteeing healthcare for all beings."
 
- YAL_labour_oversight_board:0 "The Labour Oversight Board"
+ YAL_labour_oversight_board:0 "노동 감독 위원회"
  YAL_labour_oversight_board_desc:0 "Rules are only effective when they are enforced effectively. To make sure every company follows labour standards correctly, the LOB will perform regular inspections all around the Herzland. Workplace standards and safety might be a slight inconvenience, but in the end it will give our workers an advantage on the workfloor. "
 
- YAL_universal_basic_income:0 "Universal Basic Income"
+ YAL_universal_basic_income:0 "보편적 기본 소득"
  YAL_universal_basic_income_desc:0 "Every being has the right to choose their own path in life, through formal employment or by other means. To facilitate this freedom, the government will provide a stipend to every citizen of the Federal Republic. Let us hope that this will reduce stress in the lives of all beings and in the long run improve all our lives."
 
- YAL_equality_of_opportunity:0 "Equality of Opportunity"
+ YAL_equality_of_opportunity:0 "기회의 균등"
  YAL_equality_of_opportunity_desc:0 "Yale has always focused on having the best griffons for the job, but it never properly focused on making sure every griffon has the opportunity to become the best griffon for the job. We must ensure that every being in the Heartlands has an equal shot at public office and education."
 
- YAL_extend_public_schools:0 "Extend Public Schools"
+ YAL_extend_public_schools:0 "공립학교 확장"
  YAL_extend_public_schools_desc:0 "We must roll out the network of public schools we established in Yale to the rest of the Heartlands as well. It is imperative that we get as many griffons and dogs into the school benches as soon as possible to provide a solid basis for the scientists of the future."
 
- YAL_ban_faith_schools:0 "Ban Religious Education"
+ YAL_ban_faith_schools:0 "종교 교육 금지"
  YAL_ban_faith_schools_desc:0 "We cannot let the Triarchy's Archons have a claw in how education is run. The curriculum for all schools will be established by the government itself and interpreted by individual teachers. The temple is the place for religion, but the school is the home of state education. Of course, some more religious-minded citizens may object to this."
 
- YAL_regional_dialects_act:0 "Regional Dialects Act"
+ YAL_regional_dialects_act:0 "지방 사투리법"
  YAL_regional_dialects_act_desc:0 "Our Nation is one of many differences and one the more salient ones is the issue of language. Not all griffons speak the standard dialect and Feathisian especially has a large minority of speakers. We will give a protected status to these languages and make it possible to deal with the government in your local dialect."
 
- YAL_small_arts_funding:0 "Small Arts Funding"
+ YAL_small_arts_funding:0 "소규모 예술 기금"
  YAL_small_arts_funding_desc:0 "As scientists, the Yalish never really funded many artistic projects, which were considered a waste of time. However, art can help channel feelings and stories. By funding local artists, we may help to preserve the memories and emotions of our citizenry and give them an outlet for their more negative thoughts."
 
- YAL_equal_treatment_act:0 "Equal Treatment Act"
+ YAL_equal_treatment_act:0 "평등한 대우법"
  YAL_equal_treatment_act_desc:0 "Discrimination cannot only happen from the side of the government towards citizens, but also by companies and organisations. Those actors have responsibilities towards our griffons, dogs and other inhabitants as well. It is about time we outlaw discriminatory practices by all in society."
 
- YAL_the_social_republic:0 "The Social Republic"
+ YAL_the_social_republic:0 "사회 공화국"
  YAL_the_social_republic_desc:0 "We have succeeded in forging a nation in the Herzland. The legacy of our first term will be a strong social security system and a harmonic way of life. The Herzland identity, we have proven, is not tied to the Grover Dynasty, and there is more that binds us together. A desire for a better life, a desire for democratic rights for all who live in our Republic, and a desire to live together in Harmony."
 
- YAL_right_coalition:0 "Coalition with the Kaiserpartei"
+ YAL_right_coalition:0 "제국당과 연합"
  YAL_right_coalition_desc:0 "There are many in the Herzland who have rallied around Grover VI and who would like us to restore the Griffonian Monarchy in some capacity. A pact with the Kaiserpartei, led by the loyal dog count of Bronzehill, could anchor a stable democracy under a figurehead Emperor. With the Kaiserpartei in tow, we would have a comfortable majority in the Bundes-, I mean, Reichstag."
 
- YAL_the_kaisers_government:0 "The Kaiser's Government"
+ YAL_the_kaisers_government:0 "황제의 정부"
  YAL_the_kaisers_government_desc:0 "The people of the Herzland have chosen to restore the Emperor in a constitutional monarchy. The office of Reichskanzler will be reserved for the leader of the largest party in the Reichstag, the harmonic New Sparkle. Georgina Fredrika Schüler will be granted the task to form His Majesty's government and to rule in his name."
 
- YAL_national_integration:0 "The National Integration Program"
+ YAL_national_integration:0 "국가 통합 프로그램"
  YAL_national_integration_desc:0 "We must unite the Heartlands once and for all under one flag. We will restore theatres, town halls and statues. We raise the flag on every street corner and rally the people. Much work remains to be done to restore national pride, but perhaps we can foster a sense of unity."
 
- YAL_encourage_national_identity:0 "Democracy is a Herzlander Tradition"
+ YAL_encourage_national_identity:0 "민주주의는 헤르츠란트의 전통이다"
  YAL_encourage_national_identity_desc:0 "A constitutional monarchy was always the logical endpoint for the Herzland. Many of its constituent states already were democratic to some extent, with a proud tradition of regional sovereignty. The Monarchy is not afraid of her people anymore but trusts them to govern together. This is the modern Heartlands."
 
- YAL_limit_imperial_powers:0 "Formalise Checks and Balances"
+ YAL_limit_imperial_powers:0 "견제와 균형 공식화"
  YAL_limit_imperial_powers_desc:0 "Many citizens have a hard time reconciling their ideals for democracy with a monarchy. We must show them that our democracy is not a façade but a functioning institution. Therefore we must formalise the checks and balances on the Reichstag, the courts, the chancellor and the monarchy."
 
- YAL_integrate_the_outer_lands:0 "Integrate the Outer Lands"
+ YAL_integrate_the_outer_lands:0 "외부 지대 통합"
  YAL_integrate_the_outer_lands_desc:0 "Truthfully, the Heartlands are not complete without the outer lands. We must complete National Integration by making the old Marches and Skyfall part of our nation. All Herzlanders will be able to live under one democratic government, under their old monarchy. Freedom, unity and justice for all!"
 
- YAL_national_defence_strategy:0 "Draft the National Defence Strategy"
+ YAL_national_defence_strategy:0 "국방 전략의 초안 작성"
  YAL_national_defence_strategy_desc:0 "With the Herzland unified, we must ensure that we never again lose what we have. Our nation was almost fragmented beyond the point of no return, and the chancellor will not have this happen again. With strategic nationalisation of industry and a fortification strategy, we will be able to more efficiently plan our national defence."
 
- YAL_celebrate_imperial_day:0 "Celebrate Grover Day"
+ YAL_celebrate_imperial_day:0 "그로버의 날 기념"
  YAL_celebrate_imperial_day_desc:0 "The young emperor is adored throughout the Heartlands as a symbol of national unity and of moderate rule above the parties. It is time we capitalise on his popularity by making his birthday a national holiday. By celebrating our past and present together, we can finally leave any doubts about our nation behind us."
  
- YAL_the_liberal_empire:0 "The Constitutional Monarchy"
+ YAL_the_liberal_empire:0 "입헌군주제"
  YAL_the_liberal_empire_desc:0 "Tradition and progress are not opposites, unlike what some may claim. It is perfectly possible to have the sciences and arts flourish and have democracy shine, while also preserving what is dear to us. While building on the foundations left by our forebears, we have created something truly special, a monarchy and a democracy. A compact between sovereign and people which will guarantee a bright future!"
  
 #Technocracy
- YAL_a_true_technocracy:0 "The First Technocracy"
+ YAL_a_true_technocracy:0 "첫 번째 테크노크라시"
  YAL_a_true_technocracy_desc:0 "Now that our position has been secured, we have the opportunity to fully embrace scientific politics. With logic and reason as our guiding principles, we can optimise society to take us all forward into a new age of progress!"
  
- YAL_a_grand_rectorate:0 "A Grand Rectorate"
+ YAL_a_grand_rectorate:0 "대학장국"
  YAL_a_grand_rectorate_desc:0 "All the schools across Herzland have been brought into the fold, making us the largest body of universities the world has ever seen! With our combined brilliance there is no obstacle that can not be overcome."
  
- YAL_leadership_through_science:0 "Leadership through Science"
+ YAL_leadership_through_science:0 "과학을 통한 대표자"
  YAL_leadership_through_science_desc:0 "Opinions of the uninformed masses mean nothing in the face of expert consensus; science is what must guide us. Our leaders should be the most knowledgeable individuals, not the most popular."
  
- YAL_expand_the_universities:0 "Expand the Universities"
+ YAL_expand_the_universities:0 "대학 확장"
  YAL_expand_the_universities_desc:0 "Science is at the heart of our country: the universities we have liberated are woefully underfunded, but we will not allow this to continue. Investments must be made to elevate these institutions, no matter the cost!"
  
- YAL_international_science:0 "Herzland National Science Program"
+ YAL_international_science:0 "헤르츠란트 국립 과학 프로그램"
  YAL_international_science_desc:0 "Although all of Herzland's academics are now ostensibly united, deep divisions remain along the old national boundaries. To combat this, we need to get all of our universities working together towards common goals."
  
- YAL_yale_superiority:0 "Central University Superiority"
+ YAL_yale_superiority:0 "중앙 대학의 우월성"
  YAL_yale_superiority_desc:0 "It was thanks to the superiority of the Central Universities that our grand experiment was able to succeed and ultimately triumph, and so it makes sense to continue investing in them. Middleheim, Greenback, and Greengate have never let us down before!"
  
- YAL_finest_minds_in_history:0 "Finest Minds in History"
+ YAL_finest_minds_in_history:0 "역사상 가장 훌륭한 마음"
  YAL_finest_minds_in_history_desc:0 "Our reverence for knowledge has allowed us to assemble a collection of the best and brightest from across the world. Their unparalleled expertise will allow us to reach new heights of understanding."
 
- YAL_a_grand_meritocracy:0 "A Grand Meritocracy"
+ YAL_a_grand_meritocracy:0 "위대한 실력주의 사회"
  YAL_a_grand_meritocracy_desc:0 "In a truly rational society, merit must be the central tenant. Advancement should be based purely on talent and ability, so that the best and most skilled among us can rise to lead."
  
- YAL_military_experts:0 "Military Experts"
+ YAL_military_experts:0 "군사 전문가"
  YAL_military_experts_desc:0 "We have not traditionally been a nation of war, but the military academies we have acquired should prove useful. We can use them to perfect the science of warfare, keeping us one step ahead of any foes that seek to challenge us."
  
- YAL_examine_past_mistakes:0 "Examine Past Mistakes"
+ YAL_examine_past_mistakes:0 "과거의 실수 조사"
  YAL_examine_past_mistakes_desc:0 "Since the dawn of time, many states have risen to fantastic heights only to ultimately collapse. Vast research must be poured into how to keep our nation stable and our citizens content."
 
- YAL_financial_experts:0 "Financial Experts"
+ YAL_financial_experts:0 "재무 전문가"
  YAL_financial_experts_desc:0 "Expanding the Middenheim School of Economics will ensure our economic knowledge remains second to none. With cutting-edge models at their disposal, the most educated griffons will have all the information they need to steer our economy."
   
- YAL_superior_leadership:0 "Superior Leadership"
+ YAL_superior_leadership:0 "우수한 지도층"
  YAL_superior_leadership_desc:0 "Now that the best and brightest are in charge of Herzland, they have begun to direct our efforts in a more efficient manner. With the greatest economic, military, and political minds at the helm, no other nation can hope to outmanoeuvre us."
  
- YAL_integrate_the_universities:0 "Integrate the Universities"
+ YAL_integrate_the_universities:0 "대학 통합"
  YAL_integrate_the_universities_desc:0 "Although our territory has spread to encompass all of Herzland, our ruling council has remained small. We need to make sure all universities are represented in our rectorate so that more perspectives can be heard."
  
- YAL_mandatory_education:0 "Make Science, Not War"
+ YAL_mandatory_education:0 "전쟁이 아닌, 과학을 만들다"
  YAL_mandatory_education_desc:0 "Exploration and discovery are the foundation of our nation, not military aggression and dominance. Our children are encouraged to read books rather than play with swords; we must always remember that we are a nation with an army, not the other way around."
  
- YAL_local_representation:0 "Local Representation"
+ YAL_local_representation:0 "지방 대의권"
  YAL_local_representation_desc:0 "There is relentless agitation from citizens across Herzland who are unhappy being dictated to by "out of touch intellectuals". Allowing local communities greater autonomy should placate them, quieting the masses and letting the Council focus on the important matters of state."
  
- YAL_defender_of_science:0 "Science of Peace"
+ YAL_defender_of_science:0 "평화의 과학"
  YAL_defender_of_science_desc:0 "We can put our advances in the social sciences to use with regards to international diplomacy. We shall be unflinching in defending our way of life, and any foe would be wise to avoid tangling with us. After all: knowledge is power, and we know quite a lot!"
  
- YAL_cradle_of_knowledge:0 "Yale, Cradle of All Knowledge"
+ YAL_cradle_of_knowledge:0 "예일, 모든 지식의 요람"
  YAL_cradle_of_knowledge_desc:0 "When darkness encroached to snuff out the light of knowledge, the brave Rectorate of Yale did not shrink, and instead went on to fight back and free the minds of all of Herzland. Now it is a place where intelligence and ability is revered and rewarded, creating a better world for every creature!"
  
 
 #Communism
- YAL_cyrusval_university:0 "Cyrusval University"
+ YAL_cyrusval_university:0 "사이러스발 대학"
  YAL_cyrusval_university_desc:0 "Cyrusval University mainly teaches the social sciences, but unlike Bruma, their campus has become a hotbed for revolutionaries. A spirit of hopeful energy is prevalent around the old university grounds as professors preach radical new ideas to young minds from Yale and beyond. It may be dangerous, but perhaps this energy is just what this country needs."
 
- YAL_the_student_vanguard:0 "Rally the Student Vanguard"
+ YAL_the_student_vanguard:0 "학생 전위대 결집"
  YAL_the_student_vanguard_desc:0 "It is the duty of those enlightened by the revolutionary spirit, to spread the truth about class struggle and capitalist oppression. The students of Cyrusval must lead the charge to a better future, so that we may see a classless utopia in our lifetime!"
 
- YAL_the_faculty:0 "The Faculty"
+ YAL_the_faculty:0 "학부"
  YAL_the_faculty_desc:0 "The Faculty of Social Sciences is well aware of the plight of the working class in most of Griffonia, along with previous attempts at revolution. With increased funding from the central government, the Faculty will be able to develop a social policy that will make Yale strong in these turbulent times. In secret, the Faculty seeks to undermine the government's legitimacy, preparing the stage for revolution."
 
- YAL_to_the_barricades:0 "To the Barricades!"
+ YAL_to_the_barricades:0 "바리케이드를 향해!"
  YAL_to_the_barricades_desc:0 "The writings of the Faculty have eroded the legitimacy of Yale's government, while the Student Vanguard has made the people aware of their plight. Now the time has come! Though death may await us, our most precious liberty must be defended with valour! Raise the banner of the Revolution! Flock to the barricades, for the triumph of the communes!"
 
- YAL_the_communes_of_yale:0 "The Communes of Yale"
+ YAL_the_communes_of_yale:0 "예일 코뮌"
  YAL_the_communes_of_yale_desc:0 "We have overthrown the state and the workers can now focus on making revolution. Anarchy reigns and the red banners fly across the communes. From the ruins of the old, will arise a world order built on a proletariat labouring for itself. The future is bright, now that we are free!"
 
- YAL_disband_the_military:0 "Disband the Military"
+ YAL_disband_the_military:0 "군대 해산"
  YAL_disband_the_military_desc:0 "The soldiers that fought alongside the revolutionaries are brave souls, but their services are no longer required. Every individual is responsible for the safety of their own communes and for the revolution as a whole. We ought to establish voluntary militias with elected officers. Naturally, if anygriff finds their orders objectionable, they may refuse to carry them out. Who could defeat an army of truly free souls?"
 
- YAL_seize_the_means_of_production:0 "Seize the Means of Production"
+ YAL_seize_the_means_of_production:0 "생산 수단 확보"
  YAL_seize_the_means_of_production_desc:0 "We must wretch away control of the factories from the fat pigs who abuse them. No longer will a griffon be forced into one humiliating job. A free being is able to work on what he wants when he feels like it. The capitalist structure that grinded our souls to dust, will be replaced by a community of free workers, where every labour is an art."
 
- YAL_reveal_the_illusion_of_money:0 "Reveal the Illusion of Money"
+ YAL_reveal_the_illusion_of_money:0 "화폐의 환상을 드러내다"
  YAL_reveal_the_illusion_of_money_desc:0 "Money is nothing but a guarantee from a state that they will give a certain amount of wealth to the holder of the banknote. It has no inherent, or even more importantly, moral value. Let us burn these useless stacks of paper and laugh while the rest of the world chases happiness by trying to acquire the biggest number of banknotes."
 
- YAL_voluntary_education:0 "Voluntary Education"
+ YAL_voluntary_education:0 "자발적인 교육"
  YAL_voluntary_education_desc:0 "Education has been used since the dawn of time to indoctrinate younglings into the existing exploitative system. It is up to every individual, young and old, what they want to learn and how they want to go about it. The children seem especially overjoyed at the abolishment of tests, while scientists are looking forward to pursuing their own passion projects."
 
- YAL_cooperative_farms_and_mines:0 "Cooperative Farms and Mines"
+ YAL_cooperative_farms_and_mines:0 "공동 농장 및 광산"
  YAL_cooperative_farms_and_mines_desc:0 "Farms and mines are a collective effort and without any organisation, these crucial assets would fall into disarray. Therefore, specially appointed overseers will plan and guide volunteers in their efforts to make our communes better. Their spirits are high and even the darkest mines are full of happy workers!"
 
- YAL_from_each_according_to_ability:0 "From Each According to Ability"
+ YAL_from_each_according_to_ability:0 "능력에 따른 적재적소"
  YAL_from_each_according_to_ability_desc:0 "Anarchism is not a free pass to just sit around all day. In the spirit of free communal association, everygriffon must do their part, however small. If we all contribute, the communes will be the best they can be. With high morale and with true freedom, we will show the world we can outproduce the statists around us."
 
- YAL_to_each_according_to_need:0 "To Each According to Need"
+ YAL_to_each_according_to_need:0 "필요에 따른 제공"
  YAL_to_each_according_to_need_desc:0 "The heartless capitalist system doesn't protect those in need. The so called 'free market' is the statists preferred method of distribution, where workers toil the hardest and the elite benefit the greatest from the system. Our communes will see every griffon contribute what they can, while taking what they need. This way, everygriffon will be satisfied."
 
- YAL_classless_society:0 "Classless Society"
+ YAL_classless_society:0 "차별 없는 사회"
  YAL_classless_society_desc:0 "The Communes have succeeded! Against the warnings of statists, both communist and capitalist, we have shown the power of true freedom. Together and united in the spirit of free association, we have shown the world that a classless society is within reach. But we are not done..."
 
- YAL_anti_statism:0 "Anti-Statism"
+ YAL_anti_statism:0 "반-통제주의"
  YAL_anti_statism_desc:0 "The griffons of Yale may have overthrown their state, but many states still rule over most of the world's sentient beings. We must channel the hate for this global injustice into a wave that will sweep away these nations of oppression. If the Communes of Yale have to lead the charge, so be it."
 
- YAL_outward_coordination:0 "Outward Coordination"
+ YAL_outward_coordination:0 "외부 문제 조정"
  YAL_outward_coordination_desc:0 "Although every commune is free to determine their relations with outlying beings, it would be wise to coordinate foreign policy and matters of defence. Of course, such an oversight council is merely for coordination and has no formal power of its own. To protect our liberty, all free griffons must work together in harmony against any foreign threats."
 
- YAL_stalliongrad_exchange:0 "The Stalliongrad Exchange"
+ YAL_stalliongrad_exchange:0 "스탈리온그라드와 접촉"
  YAL_stalliongrad_exchange_desc:0 "Our misguided comrades overseas have foolishly subjected themselves to a 'Supreme Soviet' and other governmental means of oppression. Nevertheless, they are sympathetic to our cause and we have much to learn from each other. We would especially benefit from inside knowledge on their advanced weapons systems."
 
- YAL_prywhen_exchange:0 "The Prywhen Exchange"
+ YAL_prywhen_exchange:0 "프리웬과 접촉"
  YAL_prywhen_exchange_desc:0 "The uneducated peasants of Prywhen were correct to revolt against tyranny, but it is slowly becoming clear that they too, will seek to establish a state and reject anarchism. However, their combat experience and agricultural techniques may be of use to us. Surely they will help their fellow revolutionaries."
 
- YAL_expand_cooperatives:0 "Expand the Cooperative System"
+ YAL_expand_cooperatives:0 "협동 시스템 확장"
  YAL_expand_cooperatives_desc:0 "Cooperative enterprises are a huge success, producing for our needs. By appointing more overseers and regulating the work schedules of more workers, we will be able to vastly increase production with minimal loss of freedom for the individual."
 
- YAL_carry_the_torch:0 "Carry the Torch"
+ YAL_carry_the_torch:0 "횃불을 옮기다"
  YAL_carry_the_torch_desc:0 "The great struggle of our time will see the final destruction of the nation-state. For that, the Communes must look north towards Griffenheim, the foremost centre of oppression in Griffonian history. Archons, nobles and generals infest this nest of parasites. Let us overthrow them and carry the torch of freedom to the heart of the Empire."
 
 ###Project Auferstehung
@@ -2074,11 +2074,11 @@
  YAL_prayers_idea_desc:0 "Every griffon is required to perform prayers to Boreas."
  
 ##Tooltips
- send_invitations:0 "Every worthy nation in Griffonia shall get an invitation to join us in Yale to research the archives. Every nation that joins will have to pledge to protect us, but will share in the benefits the archives give us.\n"
- archived_knowledge:0 "Spread the knowledge among those worthy and willing to take it. Past, present and future - Griffonia will be better off educated in everything it needs to move forwards.\n"
- YAL_accept_invitation_tooltip:0 "Accepting will oblige us to protect Yale, but give us great research benefits!"
+ send_invitations:0 "그리포니아에 있는 모든 자격 있는 나라들은 예일의 기록보관소에서 연구할 수 있는 초대장을 받게 될 것입니다. 참여하는 모든 국가는 우리를 보호하겠다고 약속해야 하지만, 기록보관소가 우리에게 주는 혜택을 공유할 것입니다.\n"
+ archived_knowledge:0 "지식을 가치 있고 기꺼이 받아들이려는 사람들 사이에 퍼뜨립니다. 과거, 현재 그리고 미래 - 그리포니아가 앞으로 나아가기 위해 필요한 모든 것들을 효과적으로 교육받게 될 것입니다.\n"
+ YAL_accept_invitation_tooltip:0 "수락하면 예일을 보호할 의무가 있지만, 우리에게 많은 연구 혜택을 줍니다!"
  YAL_action_performing:0 ""
- YAL_griffenheim_situation:0 "The situation in Griffenheim has changed."
+ YAL_griffenheim_situation:0 "그리펜하임의 상황이 바뀌었다."
  YAL_military_support_tooltip:0 "This will §Gincrease§! §Ysupport§! from the §Rmilitary§!.\n"
  YAL_military_support_decr_tooltip:0 "This will §Rdecrease§! §Ysupport§! from the §Rmilitary§!.\n"
  YAL_military_support_available_tooltip:0 "This option is available to you due to high §Rmilitary§! §Ysupport§!.\n"
@@ -2652,13 +2652,13 @@
  YAL_interaction_with_skynavia:0 "If Skynavia rejects the proposal, a wargoal will be created."
  YAL_final_step:0 "One last step..."
  YAL_iron_claw:0 "§RYou will finally finish what you started.§!"
- YAL_KINGDOM_OF_BOREAS_fascism:0 "Kingdom of Boreas"
- YAL_KINGDOM_OF_BOREAS_fascism_ADJ:0 "Kingdom of Boreas"
- YAL_KINGDOM_OF_BOREAS_fascism_DEF:0 "The Kingdom of Boreas"
+ YAL_KINGDOM_OF_BOREAS_fascism:0 "보레아스 왕국"
+ YAL_KINGDOM_OF_BOREAS_fascism_ADJ:0 "보레아스 왕국"
+ YAL_KINGDOM_OF_BOREAS_fascism_DEF:0 "보레아스 왕국"
  form_kingdom_of_boreas_flag:0 "Has declared the Kingdom of Boreas"                                                       
 
 ###tech sharing group
- YAL_research_group_name:0 "Free Science League"
+ YAL_research_group_name:0 "자유 과학 연맹"
  YAL_research_group_desc:0 ""
 
 ##tech sharing events
