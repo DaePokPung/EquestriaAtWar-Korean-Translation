@@ -13,13 +13,13 @@ BAK_independent_air_force_idea:0 "NBZS" #National Bakaran Airforce/Nacionalne Ba
 BAK_independent_air_force_idea_desc:0 "The Nacionalne Bakaranske Zračne Sile (National Bakaran Air Force) is the independent aerial warfare branch of the Bakaran military. Along with conducting independent air operations, the NBZS provides air support for both land and naval forces and aids in the recovery of troops in the field."
 BAK_independent_air_force_2_idea:0 "NBZS" #National Bakaran Airforce/Nacionalne Bakaranske Zračne Sile
 BAK_independent_air_force_2_idea_desc:0 "The Nacionalne Bakaranske Zračne Sile (National Bakaran Air Force) is the independent aerial warfare branch of the Bakaran military. Along with conducting independent air operations, the NBZS provides air support for both land and naval forces and aids in the recovery of troops in the field."
-BAK_army_air_force_idea:0 "OVL" #Army Aviation Department/Oddelek za Vojaško Letalstvo
-BAK_army_air_force_idea_desc:0 "The Oddelek za Vojaško Letalstvo (Army Aviation Department) is the aerial warfare service component of the Bakaran military, operating under the authority of the Army. Its primary purpose by official policy is the support of ground forces rather than independent operations."
-BAK_army_air_force_2_idea:0 "OVL" #Army Aviation Department/Oddelek za Vojaško Letalstvo
-BAK_army_air_force_2_idea_desc:0 "The Oddelek za Vojaško Letalstvo (Army Aviation Department) is the aerial warfare service component of the Bakaran military, operating under the authority of the Army. Its primary purpose by official policy is the support of ground forces rather than independent operations."
-BAK_naval_air_force_idea:0 "OPL" #Naval Aviation Department/Oddelek za pomorsko letalstvo
+BAK_army_air_force_idea:0 "OVL" #육군항공부/Oddelek za Vojaško Letalstvo
+BAK_army_air_force_idea_desc:0 "The Oddelek za Vojaško Letalstvo(육군항공부)는 육군의 관할 하에서 운영되는 공준전 부대입니다. 육군항공부의 주된 설립 목적은 독립적인 작전 수행이 아니라 지상군의 지원입니다.
+BAK_army_air_force_2_idea:0 "OVL" #육군항공부/Oddelek za Vojaško Letalstvo
+BAK_army_air_force_2_idea_desc:0 "The Oddelek za Vojaško Letalstvo(육군항공부)는 육군의 관할 하에서 운영되는 공준전 부대입니다. 육군항공부의 주된 설립 목적은 독립적인 작전 수행이 아니라 지상군의 지원입니다.
+BAK_naval_air_force_idea:0 "OPL" #해군항공부/Oddelek za pomorsko letalstvo
 BAK_naval_air_force_idea_desc:0 "The Oddelek za pomorsko letalstvo (Naval Aviation Department) is the aerial warfare service component of the Bakaran military, operating under the authority of the Navy. Its primary purpose by official policy is the support of naval forces rather than independent operations."
-BAK_naval_air_force_2_idea:0 "OPL" #Naval Aviation Department/Oddelek za pomorsko letalstvo
+BAK_naval_air_force_2_idea:0 "OPL" #해군항공부/Oddelek za pomorsko letalstvo
 BAK_naval_air_force_2_idea_desc:0 "The Oddelek za pomorsko letalstvo (Naval Aviation Department) is the aerial warfare service component of the Bakaran military, operating under the authority of the Navy. Its primary purpose by official policy is the support of naval forces rather than independent operations."
 BAK_focus_on_air_superiority_idea:0 "바카라의 에이스들"
 BAK_focus_on_air_superiority_idea_desc:0 "Bakaran fighter pilots are hard-wired to seek out and destroy enemy aircraft above all else, earning fame and glory in the process. With their exceptional skill, these aces shape the battle in the skies. "
@@ -1334,10 +1334,10 @@ BAK_istrabenz:0 "Istrabenz Flights"
 BAK_tehnika:0 "Tehnika Aerodynamics"
 
 ### Country Flags ###
-BAK_supporting_fascism:0 "Supporting The BFZ"
-BAK_supporting_communism:0 "Supporting the ZDS"
-BAK_supporting_neutrality:0 "Supporting the BSP"
-BAK_supporting_harmony:0 "Supporting the SDH"
+BAK_supporting_fascism:0 "BFZ 지원"
+BAK_supporting_communism:0 "ZDS 지원"
+BAK_supporting_neutrality:0 "BSP 지원"
+BAK_supporting_harmony:0 "SDH 지원"
 BAK_doing_political_action:0 "Committing A Political Action"
 BAK_resources_exploited:0 "Mines Expanded" 
 BAK_worse_ideas:0 "Weaker Political Spirits"
@@ -1355,7 +1355,7 @@ BAK_block_guarantee:0 "" #when guarantee block is active
 BAK_GUARANTEE_BLOCKED:0 "§RDue to machinations of§! §Y[BAK.GetName]§!§R, it is impossible to guarantee this country for the time being!§!"
 
 ### Factions ###
-BAK_eastern_commie_faction:0 "Eastern Socialist Alliance"
+BAK_eastern_commie_faction:0 "동방 사회주의 동맹"
 BAK_eastern_fascist_faction:0 "The Coltstream Pact"
 
 ### Variables ###
@@ -1366,38 +1366,38 @@ BAK_orthodoxy_morale:0 "Revolutionary Orthodoxy"
 BAK_commie_leader_trait:0 "The Marks Of The Riverlands"
 
 ### Cosmetic Tags ###
-BAK_riverlands_republic_neutrality:0 "Riverlands Republic"
-BAK_riverlands_republic_neutrality_DEF:0 "The Riverlands Republic"
-BAK_riverlands_republic_neutrality_ADJ:0 "Riverlandish"
-BAK_riverlands_republic_democratic:0 "Riverlands Republic"
-BAK_riverlands_republic_democratic_DEF:0 "The Riverlands Republic"
-BAK_riverlands_republic_democratic_ADJ:0 "Riverlandish"
-BAK_riverlands_republic_communism:0 "Riverlands Republic"
-BAK_riverlands_republic_communism_DEF:0 "The Riverlands Republic"
-BAK_riverlands_republic_communism_ADJ:0 "Riverlandish"
-BAK_riverlands_republic_fascism:0 "Riverlands Republic"
-BAK_riverlands_republic_fascism_DEF:0 "The Riverlands Republic"
-BAK_riverlands_republic_fascism_ADJ:0 "Riverlandish"
+BAK_riverlands_republic_neutrality:0 "리버랜드 공화국"
+BAK_riverlands_republic_neutrality_DEF:0 "리버랜드 공화국"
+BAK_riverlands_republic_neutrality_ADJ:0 "리버랜드마"
+BAK_riverlands_republic_democratic:0 "리버랜드 공화국"
+BAK_riverlands_republic_democratic_DEF:0 "리버랜드 공화국"
+BAK_riverlands_republic_democratic_ADJ:0 "리버랜드마"
+BAK_riverlands_republic_communism:0 "리버랜드 공화국"
+BAK_riverlands_republic_communism_DEF:0 "리버랜드 공화국"
+BAK_riverlands_republic_communism_ADJ:0 "리버랜드마"
+BAK_riverlands_republic_fascism:0 "리버랜드 공화국"
+BAK_riverlands_republic_fascism_DEF:0 "리버랜드 공화국"
+BAK_riverlands_republic_fascism_ADJ:0 "리버랜드마"
 
-DMT_BAK_puppet_tag_neutrality:0 "Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_neutrality_DEF:0 "The Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_neutrality_ADJ:0 "Diamond Dog"
-DMT_BAK_puppet_tag_democratic:0 "Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_democratic_DEF:0 "The Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_democratic_ADJ:0 "Diamond Dog"
-DMT_BAK_puppet_tag_communism:0 "Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_communism_DEF:0 "The Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_communism_ADJ:0 "Diamond Dog"
-DMT_BAK_puppet_tag_fascism:0 "Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_fascism_DEF:0 "The Kaza-ar-Bark Republic"
-DMT_BAK_puppet_tag_fascism_ADJ:0 "Diamond Dog"
+DMT_BAK_puppet_tag_neutrality:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_neutrality_DEF:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_neutrality_ADJ:0 "금강견"
+DMT_BAK_puppet_tag_democratic:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_democratic_DEF:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_democratic_ADJ:0 "금강견"
+DMT_BAK_puppet_tag_communism:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_communism_DEF:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_communism_ADJ:0 "금강견"
+DMT_BAK_puppet_tag_fascism:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_fascism_DEF:0 "카자뢀 공화국"
+DMT_BAK_puppet_tag_fascism_ADJ:0 "금강견"
 
 ### Opinion Modifiers ###
-BAK_annoying_filibusters:0 "Filibusters"
-BAK_united_philosophers:0 "United Riverlands Philosophical Committee"
+BAK_annoying_filibusters:0 "필리버스터"
+BAK_united_philosophers:0 "리버랜드 연합 철학 위원회"
 
 ### Operations ###
-BAK_operation_remove_guarantee:0 "Operation: Radio Silence"
+BAK_operation_remove_guarantee:0 "작전: 라디오 침묵"
 BAK_operation_remove_guarantee_desc:0 "§LThe [From.GetAdjective] government has powerful patrons in the Riverlands which we must avoid running afoul of. Damaging relations between [From.GetNameDef] and the Coalition will give us the cover we need to strike without provoking intervention.§!"
 # the keys below are for the operation phase - refer to vanilla loc in lar_operations_l_english.yml for guidance (eg. steal_blueprints_bribe, steal_blueprints_bribe_desc, steal_blueprints_bribe_outcome)
 BAK_operation_remove_guarantee_phase:0 "Stage Diplomatic Incident"
