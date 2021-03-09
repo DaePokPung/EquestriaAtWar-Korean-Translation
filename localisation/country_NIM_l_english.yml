@@ -12,49 +12,49 @@
  NIM_neutrality_ADJ:0 "님부시아"
  NIM_communism_ADJ:0 "님부시아"
 
- NIM_neutrality_party:0 "Traditionalists"
- NIM_democratic_party:0 "Reformists"
- NIM_fascism_party:0 "Purists"
- NIM_communism_party:0 "Helots"
+ NIM_neutrality_party:0 "전통주의자들"
+ NIM_democratic_party:0 "개혁가들"
+ NIM_fascism_party:0 "순수주의자들"
+ NIM_communism_party:0 "헬롯들"
 
- NIM_democratic_party_rep:0 "New Democracy Party"
- NIM_neutrality_party_rep:0 "Nimbusian Legacy"
- NIM_fascism_party_rep:0 "Strong Nimbusia"
- NIM_communism_party_rep:0 "Emancipationists"
+ NIM_democratic_party_rep:0 "신민주당"
+ NIM_neutrality_party_rep:0 "님부시아의 유산"
+ NIM_fascism_party_rep:0 "강한 님부시아"
+ NIM_communism_party_rep:0 "해방주의"
 
- NIM_democratic_party_rep_long:0 "New Democracy Party"
- NIM_neutrality_party_rep_long:0 "Party for Nimbusian Legacy"
- NIM_fascism_party_rep_long:0 "Strong Nimbusia Party"
- NIM_communism_party_rep_long:0 "Emancipation Movement"
+ NIM_democratic_party_rep_long:0 "신민주당"
+ NIM_neutrality_party_rep_long:0 "님부시아의 유산당"
+ NIM_fascism_party_rep_long:0 "강한 님부시아당"
+ NIM_communism_party_rep_long:0 "해방전위당"
 
- NIM_Traditionalist:0 "Traditionalist"
- NIM_Purist:0 "Purist"
- NIM_Reformist:0 "Reformist"
+ NIM_Traditionalist:0 "전통주의자"
+ NIM_Purist:0 "순수주의자"
+ NIM_Reformist:0 "개혁주의자"
 
- NIM_atrocities:0 "Caused terrible atrocities"
+ NIM_atrocities:0 "끔찍한 전쟁범죄의 야기"
 
  #### ADVISORS ####
 
- NIM_harmony_army_chief:0 "Scleroanavates"
- NIM_neutrality_army_chief:0 "Keraunoptose"
- NIM_fascism_army_chief:0 "Gylhippos"
- NIM_fascism_army_chief_2:0 "Andreia"
- NIM_high_command_3:0 "Paledoneous"
- NIM_advisor_3:0 "Silver Morning"
- NIM_advisor_4:0 "Herecles"
+ NIM_harmony_army_chief:0 "스크레로아나바테스"
+ NIM_neutrality_army_chief:0 "케라우노프토세"
+ NIM_fascism_army_chief:0 "길히프포스"
+ NIM_fascism_army_chief_2:0 "안드레이아"
+ NIM_high_command_3:0 "팔레도네우스"
+ NIM_advisor_3:0 "은빛 아침"
+ NIM_advisor_4:0 "헤레클레스"
 
- NIM_harmony_advisor:0 "Ponetagoras"
- NIM_neutrality_advisor:0 "Demarescios"
- NIM_fascism_advisor:0 "Speushippos"
+ NIM_harmony_advisor:0 "말타고라스"
+ NIM_neutrality_advisor:0 "데마레시오스"
+ NIM_fascism_advisor:0 "스페오시포스"
  
  #### IDEAS ####
- NIM_trials_of_the_cyclone:0 "Trials of the Cyclone"
- NIM_trials_of_the_cyclone_desc:0 "At the age of fifteen, every young Nimbusian faces the Trials of the Cyclone. These trials test their strength, loyalty, honesty, dedication and bravery. On those who pass earn the right to be a citizen - and it makes us all stronger."
+ NIM_trials_of_the_cyclone:0 "사이클론의 시험"
+ NIM_trials_of_the_cyclone_desc:0 "15세의 나이에 모든 님부시아의 젊은 포니들은 사이클론의 시험을 맞닥드립니다. 이러한 시련을 통해 그들의 힘, 충성심, 정직, 헌신과 용기를 시험해볼 수 있었으며 이를 통과한 사람만이 시민이 될 권리를 얻었습니다. 이는 우리 모두를 강하게 만들어왔습니다."
 
- NIM_nimbusian_general_staff:0 "Nimbusian General Staff"
- NIM_nimbusian_general_staff_desc:0 "Through years of military training, combat experience and tradition, the Nimbusian general staff is a force to be reckoned with."
+ NIM_nimbusian_general_staff:0 "님부시아 참모"
+ NIM_nimbusian_general_staff_desc:0 "수 년간의 군사 훈련과 전투 경험,그리고 전통을 통해 님부시아의 참모는 무시할 수 없는 존재입니다."
 
- NIM_boule:0 "The Boule"
+ NIM_boule:0 "입법 의회"
  NIM_boule_desc:0 "The Boule is the governing council of Nimbusia made up of 500 citizens randomly selected each year from a pool of candidates chosen by each of the 10 tribes. While this system of government ensures all citizens have a say in the nation's government and almost eliminates corruption, there is a chance that those in power may not be the most capable."
 
  NIM_boule2:0 "The Boule" #Honour and Virtue - neutrality path
@@ -75,32 +75,32 @@
  NIM_nimbusian_general_staff2:0 "Nimbusian General Staff"
  NIM_nimbusian_general_staff2_desc:0 "Through years of military training, combat experience and tradition, the Nimbusian general staff is a force to be reckoned with."
 
- NIM_caste_system:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the non-citizen perioikoi, who, while they are not being represented in the political system are free citizens, mostly serving as merchants, artisans and bureaucrats for the martial pegasi; and the serf Helots - forming the backbone of Nimbusian agriculture. While they are not treated as badly as chattel slaves in some other nations, they have no real rights and freedoms and are the property of the state or citizens."
+ NIM_caste_system:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 비시민인 페리오이코이들은 비록 정치적인 힘을 가지고 있지는 않지만 자유인입니다. 페리오이코이는 시민들을 위하여 상인, 장인, 관료로 종사합니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다."
 
- NIM_caste_system_neutrality:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_neutrality_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the non-citizen perioikoi, who, while they are not being represented in the political system are free citizens, mostly serving as merchants, artisans and bureaucrats for the martial pegasi; and the serf Helots - forming the backbone of Nimbusian agriculture. While they are not treated as badly as chattel slaves in some other nations, they have no real rights and freedoms and are the property of the state or citizens."
+ NIM_caste_system_neutrality:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_neutrality_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 비시민인 페리오이코이들은 비록 정치적인 힘을 가지고 있지는 않지만 자유인입니다. 페리오이코이는 시민들을 위하여 상인, 장인, 관료로 종사합니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다."
 
- NIM_caste_system_fascism:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_fascism_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the non-citizen perioikoi, who, while they are not being represented in the political system are free citizens, mostly serving as merchants, artisans and bureaucrats for the martial pegasi; and the serf Helots - forming the backbone of Nimbusian agriculture. While they are not treated as badly as chattel slaves in some other nations, they have no real rights and freedoms and are the property of the state or citizens."
+ NIM_caste_system_fascism:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_fascism_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 비시민인 페리오이코이들은 비록 정치적인 힘을 가지고 있지는 않지만 자유인입니다. 페리오이코이는 시민들을 위하여 상인, 장인, 관료로 종사합니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다."
 
- NIM_caste_system_fascism2:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_fascism2_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the non-citizen perioikoi, who, while they are not being represented in the political system are free citizens, mostly serving as merchants, artisans and bureaucrats for the martial pegasi; and the serf Helots - forming the backbone of Nimbusian agriculture. While they are not treated as badly as chattel slaves in some other nations, they have no real rights and freedoms and are the property of the state or citizens."
+ NIM_caste_system_fascism2:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_fascism2_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 비시민인 페리오이코이들은 비록 정치적인 힘을 가지고 있지는 않지만 자유인입니다. 페리오이코이는 시민들을 위하여 상인, 장인, 관료로 종사합니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다."
 
- NIM_caste_system_fascism3:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_fascism3_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the non-citizen Perioikoi, who, while they are not being represented in the political system are free citizens, mostly serving as merchants, artisans and bureaucrats for the martial pegasi; and the serf Helots - forming the backbone of Nimbusian agriculture. They have no real rights and freedoms and are the property of the state or Citizens. The changes introduced by the Purists worsened their treatment even more, to the point where they are no better than chattel slaves."
+ NIM_caste_system_fascism3:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_fascism3_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 비시민인 페리오이코이들은 비록 정치적인 힘을 가지고 있지는 않지만 자유인입니다. 페리오이코이는 시민들을 위하여 상인, 장인, 관료로 종사합니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다. 헬롯들은 기존에도 그리 좋은 대우를 받지 못하였지만, 순수주의자들이 일으킨 변화는 끔찍하게도 그들의 대우를 동산 노예 수준으로 악화시켰습니다."
 
- NIM_caste_system_democratic:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_democratic_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the perioikoi, who have recently recieved political rights that put them on equal footing with Citizens; and the serf Helots - forming the backbone of Nimbusian agriculture. While they are not treated as badly as chattel slaves in some other nations, they have no real rights and freedoms and are the property of the state or citizens, though recent measures have improved their lives somewhat."
+ NIM_caste_system_democratic:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_democratic_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 최근 페리오이코이들은 정치적 권리를 포함하여 거의 시민에 준하는 대우를 받고 있습니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다. 하지만 최근의 변화가 그들의 삶을 개선시켰습니다."
 
- NIM_caste_system_democratic2:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_democratic2_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the perioikoi, who have recently recieved political rights that put them on equal footing with Citizens; and the serf Helots - forming the backbone of Nimbusian agriculture. While they are not treated as badly as chattel slaves in some other nations, they have no real rights and freedoms and are the property of the state or citizens, though recent measures have improved their lives somewhat."
+ NIM_caste_system_democratic2:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_democratic2_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 최근 페리오이코이들은 정치적 권리를 포함하여 거의 시민에 준하는 대우를 받고 있습니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다. 하지만 최근의 변화가 그들의 삶을 개선시켰습니다."
 
- NIM_caste_system_democratic3:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_democratic3_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the perioikoi, who have recently recieved political rights that put them on equal footing with Citizens; and the serf Helots - forming the backbone of Nimbusian agriculture. While they are not treated as badly as chattel slaves in some other nations, they have no real rights and freedoms and are the property of the state or citizens, though recent measures have improved their lives somewhat."
+ NIM_caste_system_democratic3:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_democratic3_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 최근 페리오이코이들은 정치적 권리를 포함하여 거의 시민에 준하는 대우를 받고 있습니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다. 하지만 최근의 변화가 그들의 삶을 개선시켰습니다."
 
- NIM_caste_system_democratic4:0 "Citizens, Perioikoi and Helots"
- NIM_caste_system_democratic4_desc:0 "Nimbusian society is divided into three rigid castes - the Citizens, composed almost exclusively of pegasi who have undertaken the Agoge and passed the Trials of the Cyclone, possess all political power and are required to serve in the military; the perioikoi, who have recently recieved political rights that put them on equal footing with Citizens; and the serf Helots - forming the backbone of Nimbusian agriculture. While they still are not free, there are various laws protecting them and their livelyhood, allowing some Helots to gain citizenship by either buying themselves out, or by displaying bravery in the field of battle as part of auxilary units."
+ NIM_caste_system_democratic4:0 "시민, 페리오이코이, 헬롯"
+ NIM_caste_system_democratic4_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 최근 페리오이코이들은 정치적 권리를 포함하여 거의 시민에 준하는 대우를 받고 있습니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 헬롯들은 비록 아직 자유롭지는 않지만, 그들과 그들의 생계를 보호하는 다양한 법이 있습니다. 또 헬롯들은 스스로를 사 해방될 수 있으며 보조 부대의 일원으로 전투 현장에서 용맹을 발휘하여 시민권을 얻을 수 있습니다."
 
  NIM_warrior_society:0 "Martial Society"
  NIM_warrior_society_desc:0 "Every Nimbusian Citizen is or was a soldier. Few other nations can pride themselves on a populace that values martial skill, discipline and physical prowess as Nimbusians do. Of course that means some other areas of society suffer - especially ones seen as frivolous or not befitting a Nimbusian Pegasus."
@@ -862,10 +862,10 @@ nimbusia.61.t:0 "Pegicles Passes Away"
 
 
  #Economy
- NIM_farmer_help:0 "Help for Farmers"
- NIM_farmer_help_desc:0 "The backbone of our society may be our military, but the foundation which keeps it standing is the agriculture which feeds our soldiers. While those who work the farms may be simple Helots, non-citizens, we still must provide support for them in order to guarantee our society's source of food."
+ NIM_farmer_help:0 "농부들을 위한 도움"
+ NIM_farmer_help_desc:0 "군대가 우리 사회의 척추일지도 모르지만, 그것을 지탱해 주는 것은 농업입니다. 농장에서 일하는 사람들이 비록 시민권자가 아니라 헬롯들이긴 하지만, 우리 사회의 식량원을 보장하기 위해서라면 그들을 지원해야 합니다."
 
- NIM_give_farmers_new_jobs:0 "New Jobs for Farmers"
+ NIM_give_farmers_new_jobs:0 "농부들에게 새 일자리를"
  NIM_give_farmers_new_jobs_desc:0 "With some of our recent investments into agriculture, an issue has reached our attention. Many Helots have found themselves out of work in agriculture, their labor no longer being necessary. The surplus of jobless Helots is a major issue, as it both represents wasted potential workforce, and a possibly rebellious contingent of serfs. We must quickly put these ponies to work in other forms of work."
 
  NIM_merchants:0 "Merchants of Nimbusia"
@@ -1261,7 +1261,7 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  nimbusia_news.4.e:0 "Nothing interesting." #Others
 
  #NIM democrats take control
- nimbusia_news.5.t:0 "Reformists win in Nimbusia!"
+ nimbusia_news.5.t:0 "개혁가들이 님부시아를 장악하다!"
  nimbusia_news.5.d:0 "[This.GetNewspaperHeader]After political tension heated up in Nimbusia these last few months, the reformists came out on top. They have been formed by harmonic influence from other River Coalition countries. They propose emancipating some second-class citizens and lightening the burden on the slaves. The reformist leader, Metakeros has also made it clear that he plans to cooperate closely with other harmonic nations in the area."
  nimbusia_news.5.a:0 "Reform is the path to modernity." #NIM
  nimbusia_news.5.b:0 "Not so stubborn after all." #Other riv fed
@@ -1269,7 +1269,7 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  nimbusia_news.5.e:0 "We will see how they manage." #Others
 
  #NIM democratic reforms (change to representative democracy)
- nimbusia_news.6.t:0 "New Democracy in Nimbusia"
+ nimbusia_news.6.t:0 "님부시아의 새 민주주의"
  nimbusia_news.6.d:0 "[This.GetNewspaperHeader]The reformists in Nimbusia have enacted another reform! The ancient direct democracy, famous throughout the Riverlands, will be replaced by representative democracy, to more easily represent the growing population of the country. Metakeros, the reformist leader, expects this change to make it easier to represent minority voices from citizens outside of the capital. Soon, the Nimbusian citizens will be at the polls for the first time."
  nimbusia_news.6.a:0 "Time to vote!" #NIM
  nimbusia_news.6.b:0 "A model member state!" #Other riv fed
@@ -1281,5 +1281,5 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  nimbusia_news.7.a:0 "Nimbusia prevails!" #NIM
  nimbusia_news.7.b:0 "It seems that the fires of democracy proved stronger than the sword." #Other riv fed
  
-nimbusia_violet_dawn_desc:0 "Current commander of the Nimbusian 8th Phalanx, Iódis Avgí has shown dedication to the cause from an early age. Born in a family of career soldiers, expectations were placed highly on her to continue the tradition. Iódis scored some of the highest results in the Trials of the Cyclone, and performed her duty to Nimbusia to the letter.\n\nHer stiff, tacit composure intimidates her subordinates, but to her few close friends, Iódis Avgí shows a more softer side, with a desire to loosen her mane and simply relax after being put up through so many obstacles. Despite leaning towards the Nimbusian traditional clique, Iódis appreciates being sent to the other Riverland nations as an attaché, giving her an opportunity to learn more about the various cultures that permeate the region."
+ nimbusia_violet_dawn_desc:0 "Current commander of the Nimbusian 8th Phalanx, Iódis Avgí has shown dedication to the cause from an early age. Born in a family of career soldiers, expectations were placed highly on her to continue the tradition. Iódis scored some of the highest results in the Trials of the Cyclone, and performed her duty to Nimbusia to the letter.\n\nHer stiff, tacit composure intimidates her subordinates, but to her few close friends, Iódis Avgí shows a more softer side, with a desire to loosen her mane and simply relax after being put up through so many obstacles. Despite leaning towards the Nimbusian traditional clique, Iódis appreciates being sent to the other Riverland nations as an attaché, giving her an opportunity to learn more about the various cultures that permeate the region."
 
