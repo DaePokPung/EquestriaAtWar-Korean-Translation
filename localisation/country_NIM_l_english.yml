@@ -227,11 +227,11 @@
 
  #### Events ####
  ### NIM_what_to_grow
- nimbusia.1.t:0 "Planting the Seeds"
- nimbusia.1.d:0 "The debate is over and the deliberations and recommendations of the Boule have been sent to the Ecclesia, the citizens' assembly. No matter the strength of the arguments, the mood of the crowd is fickle and the vote could still go either way. Both the faction leaders and the farmers of Nimbusia nervously await the outcome of the vote. The livelihood of the farmers of Nimbusia was at stake, but more importantly, the importance of trade for the emerging economy..."
- nimbusia.1.a:0 "Wine will make us rich!" #H
- nimbusia.1.b:0 "Olives, the fruit of wisdom!" #N
- nimbusia.1.c:0 "Grain, to feed us in dire times." #F
+ nimbusia.1.t:0 "씨 심기"
+ nimbusia.1.d:0 "토론은 끝났고 입법의회의 숙고와 권고가 시민들의 모임인 에클레시아로 보내졌습니다. 논쟁의 강도와는 상관없이 군중들은 변덕스럽고 표심은 어느쪽으로도 향할 수 있습니다. 각기 계파의 지도자들과 님부시아 농민들은 모두 초조하게 투표 결과를 기다리고 있습니다. 님부시아 농부들의 생계가 위태로워지겠지만, 무역을 통한 경제 성장이 더 중요합니다..."
+ nimbusia.1.a:0 "와인은 우리를 부유하게 만들어 줄거다!" #H
+ nimbusia.1.b:0 "지혜의 과실 올리브를 심도록 하자!" #N
+ nimbusia.1.c:0 "지금 곡물을 심는다면 식량이 부족할 때 도움이 될거다." #F
  ### NIM_silver_mines
  nimbusia.2.t:0 "The Blessing of Wealth"
  nimbusia.2.d:0 "After a passionate debate on ethics, where the actual question was often out of sight due to lengthy allegories and examples, it is up to the Ecclesia to determine what to do with the silver. The Treasurer was seen honouring the Gods of the city to grant the people the wisdom to save the funds. However, as always, many citizens thought of the immediate benefits of expanding industry and creating more jobs."
@@ -378,9 +378,9 @@
  nimbusia.18.d:0 ""A boat upon the sea always returns with a full hold."\n\nThese words were said by the Oracle of Prancetras today, as dignitaries from the Boules came to seek her advice.\n\nThe traditionalists claim that her words dictate that there are set roles in the universe and that if we adhere to them, then we prosper. After all, a boat upon the ocean, where it belongs, prospers while a boat upon the land is nothing but a useless hunk of wood.\n\nThe reformers claim that her words are a cry of support towards the non-citizen class, who usually fill these fishing roles. They claim, that without these vitally important members in our society, our very civilization could not endure.\n\nThe purists claim that her words are a sign of support towards their policy of self-sufficiency and are taking the Oracle's words as literal, believing that she is attempting to guide the Boules towards sending out a fishing flotilla to reap the blessing of the gods.\n\nWhatever point of view a citizen takes, they can all agree that the Oracle's message is positive."
  nimbusia.18.a:0 "Anypony else hungry for fish?"
  ### NIM Stability + event 2
- nimbusia.19.t:0 "Poetry Contest"
+ nimbusia.19.t:0 "시 짓기 대회"
  nimbusia.19.d:0 "A merchant, Louloudi Levantas, sponsored a poetry contest in the city of Nimbusi today. As usually, it was a fierce competition with the poets Frikti Poiitis and Polytimos Stichos taking an immediate lead.\n\nFrikti went into events bearing a catalogue of work inspired by religion, philosophy, and life within Nimbusia, attempting to win over the crowd with light-hearted bardic verses which uplifted the public's spirit.\n\nStichos on the other hoof went in with a far more traditionalist set of work, focusing upon imagery related to warfare and valour in order to win over the crowd with patriotism and heroism.\n\nIn the end, Stichos etched out a slight lead with his work titled "Strife", it goes like this.\n\n"Let a Pony learn how to fight by daring to perform mighty deeds."\n\n"Not where the missiles won't reach, if they are armed with a shield,"\n\n"But getting in close where fighting is hoof to hoof, inflicting a wound"\n\n"With their long spear or sword, taking the enemy's life,"\n\n"With his hoof planted alongside a hoof and his shield pressed against shield"\n\n"And barrel against barrel, embroiled in the action – let them fight Pony to Griffon""
- nimbusia.19.a:0 "Inspiring."
+ nimbusia.19.a:0 "흥미롭군."
  ### NIM Stability - event
  nimbusia.20.t:0 "Oracles Provide a Bad Omen"
  nimbusia.20.d:0 ""It will be like a flash in the pan, violent, hot, and bright all at once."\n\nThese words were said by the Oracle of Prancetras today, as dignitaries from the Boules came to seek her advice.\n\nThe traditionalist assume that she speaks of the current political climate, assuming that the climax of the current instability will lead to a bout of violence which will burn through the streets of Nimbusi quickly.\n\nThe reformers assume that she speaks of the purists, discussing how they are hot headed and showy. Yet, when push comes to shove they will rapidly collapse in the face of change, harming Nimbusia violently as they plummet from their perch.\n\nThe purists assume that she speaks of the Helot class and how their radicalization will bring the very downfall of our society, as they take up arms and attempt to burn down the institutions and society which have taken care of them for eons.\n\nNo matter the faction, everypony agrees that this is some very bad news indeed."
