@@ -9,8 +9,8 @@
  YAL_democratic_party_long:0 "새로운 불빛"
  YAL_fascism_party:0 "검과 방패"
  YAL_fascism_party_long:0 "검과 방패"
- YAL_grover_party:0 "제국당"
- YAL_grover_party_long:0 "그리포니아 제국당"
+ YAL_grover_party:0 "황제당"
+ YAL_grover_party_long:0 "그리포니아 황제당"
  YAL_herald_party:0 "신성"
  YAL_herald_party_long:0 "신성 통일 운동"
  YAL_anarchist_party:0 "노동자 연합 전선"
@@ -23,7 +23,7 @@
  YAL_herzland_communism_party_long:0 "헤르츠란트 사회 민주당"
  
  ##Puppet party names##
- YAL_RCT_fasc_party_long:0 "그리프킹의 기사단"
+ YAL_RCT_fasc_party_long:0 "그리프킹 기사단"
  YAL_RCT_fasc_party:0 "기사단"
  YAL_RCT_party_long:0 "괴뢰 정부"
  YAL_RCT_party:0 "정부"
@@ -236,7 +236,7 @@
  YAL_additional_funding_desc:0 "그리폰 사회에서 자선 단체의 역할은 종종 논란이 되어왔지만, 삼두정에 의한 공공 자선단체의 후한 기부는 예일 대학의 긴장상태를 완화시킬 것입니다. 많은 평민들이 우리 사회에 종교가 다시 널리 퍼지는 것에 의문을 제기하고 있지만, 만약 우리가 신전의 가장 좋은 면을 보여줄 수 있다면, 그들의 걱정은 햇빛에 이슬처럼 녹게 될 것입니다."
 
  YAL_archons_visit:0 "집정관의 방문 계획"
- YAL_archons_visit_desc:0 "프로테우스 3세 집정관 성하께서는 예일을 공화주의와 사회주의라는 문화를 파괴하는 사상에서 구해낼 전통적인 가치관의 구현입니다. 하지만, 몇몇 사람들은 여전히 아크투리우스 집정관의 자애로운 의도를 의심하고 있습니다. 프로테우스의 방문은 예일에게 아크투리우스가 우리가 어떻게 살기를 원하는지 상기시켜 줄 것입니다."
+ YAL_archons_visit_desc:0 "프로테우스 3세 집정관 성하께서는 공화주의와 사회주의라는 문화를 파괴하는 사상에서 예일을 구해낼 전통적인 가치관의 구현입니다. 하지만, 몇몇 사람들은 여전히 아크투리우스 집정관의 자애로운 의도를 의심하고 있습니다. 프로테우스의 방문은 예일에게 아크투리우스가 우리가 어떻게 살기를 원하는지 상기시켜 줄 것입니다."
 
  YAL_social_sciences:0 "브루마의 사회 과학"
  YAL_social_sciences_desc:0 "브루마 대학은 대학들 사이에서도 상당히 이례적입니다. 사회 과학 학부는 이퀘스트리아인들이 그들의 삶의 방식을 전파함에 따라 조화주의와 사회주의라는 보편주의적 사상을 거부하고 있습니다. 브루마의 교수들에 따르면, 예일이 다가오는 폭풍에서 견뎌내기 위해서는, 과거로 돌아가 우리의 문화에서 지혜를 찾아야 한다고 주장하고 있습니다."
@@ -295,104 +295,104 @@
 
 #Non-Aligned
  YAL_central_universities:0 "중앙 대학"
- YAL_central_universities_desc:0 "The universities of Greenback, Greengate, and Middenheim all have different specialties, but their leadership shares a similar vision. Ultimately, the goal of science is to serve society. Whether it is with new medicine, new technology, or by increasing prosperity, we will work for a better future!"
+ YAL_central_universities_desc:0 "그린백, 그린게이트, 미든하임 대학들은 모두 다른 전공을 가지고 있지만, 그들의 지도층은 비슷한 비전을 공유하고 있습니다. 궁극적으로, 과학의 목표는 사회에 봉사하는 것입니다. 새로운 의학, 새로운 기술, 또는 번영을 증진시킴으로써, 우리는 더 나은 미래를 위해 일할 것입니다!"
 
  YAL_greengate_engineering:0 "그린게이트 대학교"
- YAL_greengate_engineering_desc:0 "The foremost engineers, both electronic and mechanical, have made Greengate their favoured university. The university is close to Greenback, the industrial beating heart of the country. The engineers of Greengate are eager to receive more funding, promising quick returns in technical advancements!"
+ YAL_greengate_engineering_desc:0 "전자공학 및 기계공학 분야의 최고 엔지니어들은 그린게이트를 자신들이 선호하는 대학으로 만들었습니다. 이 대학은 나라의 산업 중심지인 그린백과 가깝습니다. 그린게이트의 엔지니어들은 더 많은 자금을 지원받기를 간절히 바라고 있으며, 기술 발전의 빠른 복귀를 약속하고 있습니다!"
 
  YAL_radar_research:0 "감시 계획"
- YAL_radar_research_desc:0 "For some time, Greengate's engineers have dreamt of developing our own RADAR system. Not only will such an array provide us with invaluable scientific data, the listening post would help us keep an eye on our neighbours and spot incoming aircraft. Of course, there is a price tag involved."
+ YAL_radar_research_desc:0 "오래전부터, 그린게이트의 엔지니어들은 우리만의 레이더 시스템을 개발하는 것을 꿈꿔왔습니다. 그들은 우리에게 귀중한 과학적 자료를 제공할 뿐만 아니라, 레이더 기지는 우리의 이웃을 주시하고 들어오는 항공기를 발견하는 데 도움이 될 것입니다. 물론, 공짜는 아닙니다."
 
  YAL_better_air_detection:0 "모든 걸 주시하다"
- YAL_better_air_detection_desc:0 "Project Sentinel is a resounding success and the data is flowing in. However, our scientists hunger for even more data to crunch, while our military command is eager to further spy on our rivals' movements. Additional funding could improve our Sentinel stations even more!"
+ YAL_better_air_detection_desc:0 "감시 계획은 성공적이고 데이터가 유입되고 있습니다. 하지만, 우리 과학자들은 더 많은 자료들을 확보하기를 갈망하고 있고, 우리 군 사령부는 우리 경쟁자들의 더 많은 움직임을 감시할 수 있기를 열망하고 있습니다. 추가 자금 지원을 통해 감시 기지를 더욱 개선할 수 있을 것입니다!"
 
  YAL_industrial_engineering:0 "기계 정신"
- YAL_industrial_engineering_desc:0 "A group of very dedicated engineers have begun wearing robes in our university and are weirdly obsessed with prosthetics. They are really knowledgeable, but may care a bit too much about their prized machinery. Their innovations may serve us well, but let's leave them alone with their machine spirit."
+ YAL_industrial_engineering_desc:0 "우리 대학에서 매우 헌신적인 엔지니어들이 예복을 입기 시작했고 무서울 정도로 인공 기관들에 집착하고 있습니다. 그들은 정말로 박식하지만, 그들의 소중한 기계장치에 너무 많은 관심을 기울이고 있습니다. 그들의 혁신은 우리에게 도움이 될 수 있으니, 그들의 기계 정신은 내버려 두는 게 좋을 것 같습니다."
 
  YAL_synthetic_research:0 "검은 황금 변환"
- YAL_synthetic_research_desc:0 "Greengate University's heritage goes all the way back to that of griffon alchemists. These proto-scientists diligently worked to use magic and science to make lead into gold. Of course, without modern techniques, their efforts were doomed to fail. But some of our engineers are insisting that we give it another try!"
+ YAL_synthetic_research_desc:0 "그린게이트 대학의 유산은 그리폰 연금술사들로 거슬러 올라갑니다. 이 원시 과학자들은 납을 금으로 만들기 위해 마법과 과학을 이용하며 부지런히 일했습니다. 물론, 현대 기술이 없으니, 그들의 노력은 실패할 수밖에 없었습니다. 하지만 우리 기술자들 중 일부는 그것을 다시 시도해야 한다고 주장하고 있습니다!"
 
  YAL_form_computer_faculty:0 "컴퓨터 학부 설립"
- YAL_form_computer_faculty_desc:0 "Mathematics is the foundation of all science. In fact, it is the frame through which we understand the fundamental processes of our world. Visionaries have already dreamt of Automatic Computers, but with electronics and mechanics combined, our new Computing Faculty will lead the way into the future!"
+ YAL_form_computer_faculty_desc:0 "수학은 모든 과학의 기초입니다. 실제로, 수학은 우리가 우리 세계의 근본적인 과정을 이해하는 뼈대입니다. 공상가들은 벌써 자동화된 컴퓨터를 꿈꿔왔으니, 전자공학과 기계공학을 합치게 된다면 우리의 새로운 컴퓨터 학부는 미래로 나아가게 될 것입니다!"
 
  YAL_encryption_decryption:0 "윙가르덴 정리"
- YAL_encryption_decryption_desc:0 "Adriaan van Wingaarden, a Feathisian mechanical engineer, is making amazing breakthroughs in the field of computer technology! We should follow his ideas closely and make sure that our Computing Faculty stays up to date in this new and boundless field of innovation!"
+ YAL_encryption_decryption_desc:0 "페디시아의 기계 공학자인 에이드리안 반 윙가르덴은 컴퓨터 기술 분야에서 놀라운 발전을 이루고 있습니다! 우리는 그의 아이디어를 면밀히 관찰하여, 우리의 컴퓨팅 학부가 이 새롭고 무한한 혁신 분야에서 최신 정보를 유지할 수 있도록 해야 합니다!"
 
  YAL_pioneers_in_engineering:0 "공학 기술의 개척자들"
- YAL_pioneers_in_engineering_desc:0 "Greengate University has become a campus full of exciting possibilities! The experiments and theories conducted here seem way beyond the possible. The machines built will revolutionise modern life, when they become available for the public. These pioneers are paving the way towards a better tomorrow!"
+ YAL_pioneers_in_engineering_desc:0 "그린게이트 대학교는 흥미로운 가능성들로 가득 찬 캠퍼스가 되었습니다! 이곳에서 행해진 실험들과 이론들은 마냥 불가능해 보입니다. 만들어진 기계들을 대중들이 사용할 수 있게 된다면 현대 생활에 혁명이 일어나게 될 것입니다. 이곳의 개척자들은 더 나은 내일을 향해 길을 닦고 있습니다!"
 
  YAL_health_sciences:0 "그린백 의학 대학"
- YAL_health_sciences_desc:0 "Yale's largest city is also one of many problems. Hard work in the factories, pollution, and poverty all harm many griffons. The Greenback Academy of Medicine has done miracles to advance the medical sciences. With substantial support, cures that seem decades away can be achieved within reasonable time!"
+ YAL_health_sciences_desc:0 "예일의 가장 큰 도시 또한 많은 문제들 중 하나입니다. 공장에서의 고된 일, 공해, 그리고 가난은 많은 그리폰들에게 해를 끼칩니다. 그린백 의학 대학은 의학을 발전시키기 위해 기적을 행했습니다. 실질적인 지원을 통해 수십 년 앞으로 다가온 것처럼 보이는 치료법을 합리적인 시간 내에 달성할 수 있게 되었습니다!"
 
  YAL_greenback_hospital:0 "그린백 대학 병원"
- YAL_greenback_hospital_desc:0 "Close to the University of Greenback stands the biggest hospital in Yale, where thousands are being treated simultaneously. It is also the training ground for many doctors and a place where, through trial and error, science advances slowly. Some refurbishments, extra staff, and a new wing are sorely needed to keep our healthcare in order."
+ YAL_greenback_hospital_desc:0 "그린백 대학과 가까운 곳에는 예일에서 가장 큰 병원이 있으며, 수천 명이 동시에 치료를 받고 있습니다. 이곳은 많은 의사들을 위한 훈련장이기도 하고 시행착오를 통해 과학이 천천히 발전하는 장소이기도 합니다. 우리의 건강을 질서 있게 유지하기 위해서는 일부 시설 보수, 추가 직원, 그리고 새로운 날개가 매우 필요합니다."
 
  YAL_modernised_medical_procedures:0 "현대화된 의료 절차"
- YAL_modernised_medical_procedures_desc:0 "The lessons from Greenback will have to be rolled out across the country, if we are to keep our entire population healthy. Every death is a tragedy and with the latest medical technology, we hope that all hospitals can work to keep more griffons alive."
+ YAL_modernised_medical_procedures_desc:0 "우리가 전체 인구를 건강하게 유지하기 위해서는 그린백의 가르침이 전국에 알려져야 합니다. 모든 죽음은 비극이며, 최신 의료기술로 모든 병원이 더 많은 그리폰을 살리기 위해 일할 수 있기를 바랍니다."
 
  YAL_pharmacology:0 "약물학"
- YAL_pharmacology_desc:0 "The study of the practical application of medicine is an up and coming branch of science. Most academics spend too much time in laboratories, crafting up theories and doing controlled tests. Let us focus on how medicine works in the real world, as better medicines will benefit both the people and the army."
+ YAL_pharmacology_desc:0 "의학의 실용화에 대한 연구는 과학의 새로운 분야입니다. 대부분의 학자들이 많은 시간을 실험실에서 보내며 이론을 세우고 통제된 실험을 합니다. 좋은 약은 국민들과 군대 모두에게 이익이 될 것이기 때문에, 우리는 현실 세계에 약을 어떻게 작용할 수 있을지 초점을 맞추도록 해야 합니다."
 
  YAL_enhancement_drugs:0 "전투 자극제"
- YAL_enhancement_drugs_desc:0 "Our soldiers are subject to all sort of hardships. The griffon body already has a lot of ways to deal with them, such as adrenaline. However, to give our soldiers a better chance, we can increase their combat effectiveness and perhaps make life on the front easier. Plus, we do not have conclusive data to support that these drugs have any negative side-effects."
+ YAL_enhancement_drugs_desc:0 "우리의 군인들은 온갖 고난을 다 겪습니다. 그리폰들의 신체에는 이미 아드레날린과 같은 많은 방법들이 있습니다. 하지만, 우리 군인들에게 더 좋은 방법을 부여하여, 그들의 전투 효과를 높이고 전선에서 생활하는 것을 더 쉽게 만들 수 있습니다. 게다가, 이 약들이 부정적인 부작용을 가지고 있다는 것을 뒷받침할만한 결정적인 자료는 존재하지도 않습니다."
 
  YAL_magical_potential:0 "마법의 잠재력"
- YAL_magical_potential_desc:0 "The griffon body is vastly different from that of a unicorn or  changeling, but we are still able to perform acts that could be classified as magical. We must research what makes a griffon magical. How can we alter and increase this? Is magic something immaterial, or is there an organ responsible for this? Who knows what we will find after a little research? "
+ YAL_magical_potential_desc:0 "그리폰의 신체는 유니콘이나 체인질링과는 크게 다르지만, 여전히 마법으로 분류될 수 있는 행동을 할 수 있습니다. 우리는 무엇이 그리폰 마법을 사용하게 만드는지 연구해야 합니다. 어떻게 하면 이것을 바꾸고 증대시킬 수 있을까요? 마법은 그다지 중요하지 않은 것일까요, 아니면 마법 사용에 책임이 있는 기관이 따로 존재하는 것일까요? 조금만 조사해보면 무엇이 나올지 누가 알겠습니까?"
 
  YAL_unravel_the_mind:0 "마음을 풀어내다"
- YAL_unravel_the_mind_desc:0 "The brain sits mightily atop the body, controlling every movement and processing every piece of information it receives.How curious that we now contemplate the contemplator. How do we think? What did the Gods give us that makes us conscious of our own existence? Is it possible to find out? We must know!"
+ YAL_unravel_the_mind_desc:0 "뇌는 신체의 모든 움직임을 통제하고 신체가 보내는 모든 정보를 처리하며 강인하게 신체의 꼭대기에 앉아있습니다. 이제 우리는 사색에 잠기는 것에 대하여 깊게 생각해 봐야 합니다. 어떻게 생각하나요? 신이 우리에게 무엇을 주었길래 우리 자신의 존재를 의식하게 만들었을까요? 이것에 대해 알아낼 수 있을까요? 우리는 알아야만 합니다!"
 
  YAL_understand_the_body:0 "육체를 이해하다"
- YAL_understand_the_body_desc:0 "The body houses our soul and mind, but is the most curious part of this trio. Its complexity and harmony seem to always reveal new depths. It is clear that with each step we take towards understanding our basic physical characteristics, more questions reveal themselves. But knowledge is the reward of the faithful searcher. Knowledge that could save lives. "
+ YAL_understand_the_body_desc:0 "신체는 우리의 정신과 마음을 담고 있지만, 삼인조 중에서 가장 호기심이 많은 부분입니다. 신체의 복잡성과 조화는 항상 새로운 깊이를 드러내는 것처럼 보입니다. 우리의 기본적인 신체적 특성을 이해하기 위해 우리가 취하는 각 단계마다, 더 많은 질문들이 자신을 드러내고 있습니다. 그러나 지식은 충실한 연구자에게 생명을 구할 수 있는 지식을 보상해 줍니다."
 
  YAL_promise_of_health:0 "의사 선서"
- YAL_promise_of_health_desc:0 ""I will use treatment to help the sick according to my ability, but never with a view to injury. Into each house I enter, I will enter to help the sick, and I will abstain from all intentional wrongdoing. And what I shall see or hear in the course of my profession, I will hold to be holy secrets. If I carry out this oath, may I gain reputation among all griffons for my art; but if I break it, may the opposite befall me.""
+ YAL_promise_of_health_desc:0 ""나는 나의 능력에 따라 환자를 돕는 치료를 할 것이지만, 결코 환자에게 해를 끼치는 생각은 하지 않을 것입니다. 나는 어떤 집을 방문하던, 병든 모든 사람을 도우며, 모든 고의적인 피해를 끼치는 일은 절대로 저지르지 않겠습니다. 그리고 나의 직업의 과정에서 보거나 듣게 되는 모든 것은, 성스러운 비밀이 될 것입니다. 내가 이 맹세를 하게 된다면, 나는 나의 의술로 모든 그리폰들 사이에서 명성을 얻을 수 있을 것입니다; 하지만 내가 맹세를 어기게 된다면, 나는 반대되는 방향으로 쓰러지게 될 것입니다.""
 
  YAL_middenheim_business_university:0 "미든하임 경제 대학"
- YAL_middenheim_business_university_desc:0 "With ever more goods being produced and international trade linking the world more closely, the study of economics has received increased attention. Middenheim, Yale's leading centre of economists, rejects the theories of communists, choosing to improve capitalist system instead."
+ YAL_middenheim_business_university_desc:0 "더욱 많은 상품들이 생산되고 세계를 더 가깝게 연결하는 국제 무역과 함께, 경제학 연구는 더 많은 관심을 받게 되었습니다. 예일 최고의 경제학자들의 중심지인 미든하임은 공산주의자들의 이론을 거부하고 대신 자본주의 체제를 개선하기로 했습니다."
 
- YAL_art_of_negotiation:0 "협상 기술"
- YAL_art_of_negotiation_desc:0 ""The worst thing you can do in a negotiation is seem desperate to make it. That makes the other bird smell blood, and then you're dead. Leverage is the biggest strength you can have. Leverage is having something the other griffon wants.  Or better yet, simply can't do without. Unfortunately, that isn't always the case, which is why leverage often requires imagination and salesgriffship.""
+ YAL_art_of_negotiation:0 "협상의 기술"
+ YAL_art_of_negotiation_desc:0 ""협상에서 당신이 할 수 있는 가장 최악의 일은 성공하기 위해 필사적으로 노력하는 것입니다. 그런 행동을 하면 당신은 다른 새들에게 피 냄새를 풍기며 죽게 될 것입니다. 지렛대는 여러분이 가질 수 있는 가장 큰 힘입니다. 지렛대는 다른 그리폰들이 원하는 것을 갖는 것입니다. 혹은 지렛대가 아직 없으면, 없는 대로 할 수밖에 없죠. 불행히도, 언제나 좋게 흘러가지는 않습니다. 그래서 지렛대는 종종 상상력과 영업 능력을 필요로 합니다.""
 
  YAL_stock_investiture:0 "국가적인 주식 투자 장려"
- YAL_stock_investiture_desc:0 "For the stock market to be of the greatest benefit to the economy, shareholders should have a long term vision. By increasing the state's share of our most important firms and encouraging investors to keep their stocks for longer terms, our nation will reap the benefits. "
+ YAL_stock_investiture_desc:0 "주식시장이 경제에 가장 큰 이익이 되려면 주주들이 장기적인 비전을 가져야 합니다. 우리나라의 가장 중요한 기업들의 주식 점유율을 높이고 투자자들에게 그들의 주식을 더 오랫동안 보유하도록 장려함으로써, 우리나라는 그 혜택을 누릴 수 있을 것입니다."
 
  YAL_clawnes:0 "메이나르드 클로네스 경"
- YAL_clawnes_desc:0 "The economy is a circular flow of money, and spending is the crux to prosperity. A lack of confidence in the economy stops consumption, creating depression. To increase the flow of capital, states can keep spending to kickstart the economy. Even war spending will create jobs!"
+ YAL_clawnes_desc:0 "경제는 돈의 순환적인 흐름이고, 지출은 번영의 핵심입니다. 경제에 대한 자신감의 부족은 소비를 멈추게 하고, 불황을 만듭니다. 자본의 흐름을 증가시키고 경제를 활성화시키기 위해서는 국가는 계속해서 돈을 써야 합니다. 전쟁 지출조차도 일자리를 만들게 될 것입니다!"
 
  YAL_government_oversight:0 "정부의 감독"
- YAL_government_oversight_desc:0 "The market is fickle and prone to failure, like a car engine in need of tuning. We must give the government more discretion to intervene, balancing public and private interests. Using equations and models, we can determine where money is needed to get the highest growth."
+ YAL_government_oversight_desc:0 "시장은 정비가 필요한 자동차 엔진처럼 변덕스럽고 실패하기 쉽습니다. 우리는 공공재산과 사유재산의 균형을 맞추면서 정부가 개입할 수 있는 더 많은 재량권을 주어야 합니다. 방정식과 모델들을 사용하여, 우리는 가장 높은 성장을 위해 돈이 필요한 곳을 결정할 수 있습니다."
 
  YAL_state_investments_industry:0 "총합적인 수요 증대"
- YAL_state_investments_industry_desc:0 "It is indeed demand that determines the strength of the economy. The state can boost demand by embarking on public works projects. The money spent on these works will multiply as it circulates in the economy and gets used by workers to buy other products."
+ YAL_state_investments_industry_desc:0 "경제의 힘을 좌우하는 것은 수요입니다. 국가는 공공사업 프로젝트에 착수함으로써 수요를 증가시킬 수 있습니다. 이러한 작업에 투입되는 돈은 경제에서 유통되고 노동자들이 다른 제품을 사는 데 사용됨에 따라 증가하게 될 것입니다."
 
  YAL_steer_the_market:0 "시장을 움직이다"
- YAL_steer_the_market_desc:0 "The Yalian economy must focus on boosting demand and spending in the economy. Money trapped in the bank accounts of greedy griffons cannot help grow the economy, and the more money trapped, the harder economic growth will become. Let us keep spending and proclaim "We're all Clawnesians now!""
+ YAL_steer_the_market_desc:0 "예일 경제는 수요와 지출을 늘리는 데 집중해야 합니다. 탐욕스러운 그리폰들의 은행 계좌에 갇힌 돈은 경제를 성장시키지 않으며, 돈이 갇힐수록 경제성장은 더욱 어려워질 것입니다. 계속해서 지출하며 우리는 외쳐야 합니다. "이제 우리 모두는 클로네스주의자들이다!""
 
  YAL_hawk:0 "아우구스트 폰 호크"
- YAL_hawk_desc:0 "The economy is not simply put into one equation, but is the culmination of the actions and motivations of all beings. Only real savings and real advancement can grow the economy, not an increase of available money. Bailouts, state investments and other such matters distort the market, creating bubbles and keeping losers on top. It is time to get sober and start saving."
+ YAL_hawk_desc:0 "경제는 단순한 하나의 방정식이 아니라 모든 존재의 행동과 동기부여의 정점입니다. 진정한 저축과 진정한 발전만이 경제를 성장시킬 수 있으며, 이것은 사용 가능한 돈의 증가를 뜻하는 것이 아닙니다. 구제금융, 국가적 투자, 기타 문제들은 시장을 왜곡시키고 버블을 만들며 실패자들을 계속해서 밑바닥에 유지시키게 될 것입니다. 이제 정신을 차리고 저축을 시작할 때입니다."
 
  YAL_self_regulated_companies:0 "자율적인 규제"
- YAL_self_regulated_companies_desc:0 "Companies go after their own interest, but only the biggest companies have the power to influence our government directly, distorting the market with rules that benefit them. The only real way to make markets work, is if the state retreats from the arena, so that the market can get the prices right."
+ YAL_self_regulated_companies_desc:0 "기업들은 자신들의 이익만을 추구하고 있지만, 가장 거대한 기업만이 우리 정부에 직접적인 영향을 미칠 수 있는 힘을 가지고 있고, 그들에게 이득이 되는 법률로 시장을 왜곡하고 있습니다. 시장을 운영하는 유일한 방법은 국가가 경기장 밖으로 물러나는 것입니다. 그래야만 시장이 가격을 맞출 수 있을 것입니다."
 
- YAL_small_business_encouragement:0 "중소기업 경쟁"
- YAL_small_business_encouragement_desc:0 "Hawk's model has been accused of favouring big business, but this is not the case. Some industries have massive barriers to entry, almost naturally creating little competition. In this case, we can intervene by allowing small businesses the chance to compete with big firms."
+ YAL_small_business_encouragement:0 "중소기업의 경쟁"
+ YAL_small_business_encouragement_desc:0 "호크의 모델은 대기업을 선호한다는 비난을 받아왔지만, 이것은 사실이 아닙니다. 일부 산업은 진입 장벽이 커서 자연스러운 경쟁을 유발하지 않습니다. 이 경우, 우리는 중소기업이 대기업과 경쟁할 수 있는 기회를 허용하는 방식으로 개입할 수 있습니다."
 
  YAL_free_the_market:0 "시장의 자유화"
- YAL_free_the_market_desc:0 "We must set the market free. No longer will stimulus and bailouts give perverse incentives. We will balance the books, save money, and slowly grow the economy. We will not hold illusions about easy ways to increase production. Hard work, real ingenuity, and a trust in our griffons to help each other, will make Yale flourish."
+ YAL_free_the_market_desc:0 "우리는 시장을 자유롭게 해야 합니다. 더 이상 경기부양과 구제금융이 비뚤어진 혜택을 주지 않을 것입니다. 우리는 장부상의 균형을 맞추고, 돈을 절약하고, 경제를 천천히 성장시킬 것입니다. 우리는 생산을 늘리는 쉬운 방법에 대한 환상을 품지 않을 것입니다. 열심히 일하고, 정말 독창적이며, 서로를 돕는 그리폰에 대한 믿음만이 예일을 번창하게 할 것입니다."
 
  YAL_economic_prosperity:0 "번영된 미래"
- YAL_economic_prosperity_desc:0 "Whatever path chosen, the economists of Middenheim work tirelessly to update their models and craft the best strategies with which we can face the future. Prosperity has emerged in the country by virtue of a careful economic policy, not one determined by the whims of politicians or mobs. The future is bright for everygriffon!"
+ YAL_economic_prosperity_desc:0 "어떤 경로를 선택했던, 미든하임의 경제학자들은 그들의 모델을 갱신하고 우리가 미래를 직면할 수 있는 최선의 전략을 짜기 위해 끊임없이 노력하고 있습니다. 정치인들과 군중들의 변덕에 의해 결정되는 것이 아니고 신중한 경제 정책 때문에 이 나라에서 번영이 나타나고 있습니다. 모든 그리폰들의 미래는 밝아 보입니다!"
 
 ###Heartlands victory
  YAL_heartlands_victory:0 "모든 역경에도 불구하고"
- YAL_heartlands_victory_desc:0 "We have survived the assault of the resurgent Empire. Our soldiers have secured the Imperial City and we are now by all accounts the leading Heartlands Nation. It is up to us to unite the Heartlands and make sure we win the peace, as well as the war."
+ YAL_heartlands_victory_desc:0 "우리는 부활한 제국의 공격으로부터 살아남았습니다. 우리 군인들은 제국 도시를 확보했으며, 우리는 이제 모든 면에서 선두적인 헤르츠란트 국가입니다. 전쟁뿐만 아니라, 헤르츠란트를 통합하고 평화를 얻는 것은 우리에게 달려 있습니다."
  
  YAL_call_the_council:0 "위원회 호출"
- YAL_call_the_council_desc:0 "Now that we have conquered Griffenheim, we must rally to our cause. A better future is within reach if we keep up our resolve. It is time for the Rector Magnificus to call the council together once more and make a solemn pledge to unite the Heartlands. Whatever it takes."
+ YAL_call_the_council_desc:0 "이제 그리펜하임을 정복했으니 우리의 목적을 위해 힘을 모아야 합니다. 우리가 우리의 결심을 계속한다면 더 나은 미래가 도래할 것입니다. 이제 마그니피쿠스 총장이 다시 한번 위원회를 소집하고 헤르츠란트 통일을 엄숙히 다짐해야 할 때입니다. 무슨 일이 있더라도."
 
  YAL_secure_the_heart:0 "마음을 굳히다"
- YAL_secure_the_heart_desc:0 "The Rectors of Yale are of one mind on this matter. To secure the future of Yale, all of the Herzland must be under our control. Only then may we see to other matters. We cannot let our countrygriffons rot in backwards feudal states, dictatorships or warmongering republics."
+ YAL_secure_the_heart_desc:0 "예일의 교수들은 이 문제에 대해 같은 생각을 가지고 있습니다. 예일의 미래를 보장하기 위해서는 모든 헤르츠란트가 우리의 통제하에 있어야 합니다. 그래야만 우리는 다른 문제들을 직면할 수 있을 것입니다. 우리는 우리의 그리폰들이 봉건 국가나 독재 정권 또는 전쟁광인 공화국들에서 썩도록 내버려 둘 수 없습니다."
  
 
 #Harmonist branch 
@@ -705,113 +705,113 @@
  YAL_all_must_bow_desc:0 "I have gotten my revenge, but more remains to be done. I thought I'd feel satisfied, but I feel rage returning. I have not yet reached my father's greatness. More enemies wait behind every mountain and over every sea. I have decided. Where I go, the Reichsheer will follow, until all beings on this rock bow to me."
 
 ###Grover Puppet Tree - Riverlands #unused
- RCT_order_of_the_griffking:0 "The Order of the Griffking"
+ RCT_order_of_the_griffking:0 "그리프킹 기사단"
  RCT_order_of_the_griffking_desc:0 ""
  
- RCT_draw_the_sword:0 "Draw the Sword"
+ RCT_draw_the_sword:0 "검을 뽑다"
  RCT_draw_the_sword_desc:0 ""
  
- RCT_show_our_might:0 "Show Our Might"
+ RCT_show_our_might:0 "우리의 힘을 보여주다"
  RCT_show_our_might_desc:0 ""
  
- RCT_pacify_the_hinterlands:0 "Pacify the Hinterlands"
+ RCT_pacify_the_hinterlands:0 "내륙지역을 평정하다"
  RCT_pacify_the_hinterlands_desc:0 ""
 
- RCT_token_government:0 "A Token Government"
+ RCT_token_government:0 "형식적인 정부"
  RCT_token_government_desc:0 ""
 
- RCT_encourage_collaboration:0 "Encourage Collaboration"
+ RCT_encourage_collaboration:0 "협업을 장려하다"
  RCT_encourage_collaboration_desc:0 ""
 
- RCT_scales_in_balance:0 "The Scales in Balance"
+ RCT_scales_in_balance:0 "균형을 이루다"
  RCT_scales_in_balance_desc:0 ""
 
 ###The Herald of Boreas
- YAL_stepping_out:0 "The Flesh of Boreas"
+ YAL_stepping_out:0 "보레아스의 신체"
  YAL_stepping_out_desc:0 "Have you heard the good news? A griffon has emerged who has been blessed with the ability to commune with Boreas! Reports out of Gamia indicate that this griffon has unusual physical features marking him unmistakably as a divine agent. We must look into this matter further."
  
- YAL_the_city:0 "Visit the People"
+ YAL_the_city:0 "사람들을 방문하다"
  YAL_the_city_desc:0 "Hallelujah! Boreas now walks among his children through his chosen vessel, his Herald. The Herald cares for us, unlike those distant griffons on the Council, and he is taking the time to tour towns and cities across all of Yale!"
  
- YAL_the_sermons:0 "Preach the True Word"
+ YAL_the_sermons:0 "참된 말을 전하다"
  YAL_the_sermons_desc:0 "Too many griffons have been misled by corrupt authorities in temples and statehouses, who twist the Gods' words to serve their own selfish ends. Now that the voice of Boreas can be heard directly from the source, we must heed his holy direction."
  
- YAL_the_miracles:0 "Show the Gods' Power"
+ YAL_the_miracles:0 "신의 힘을 보여주다"
  YAL_the_miracles_desc:0 "As an avatar of Boreas, the Herald has been gifted with extraordinary abilities. He must make use of his talents and demonstrate them to as many griffons as possible. After all, seeing is believing."
  
- YAL_convince_council:0 "Convince the Council"
+ YAL_convince_council:0 "위원회를 설득하다"
  YAL_convince_council_desc:0 "The time has come to do away with the Academic Council and elevate our divine Herald to his proper place atop our hierarchy. Those arrogant charlatans have run things into the ground for long enough: the Council will see reason, or else we will force them to."
  
- YAL_the_borean_mission:0 "The Borean Mission"
+ YAL_the_borean_mission:0 "보레아스 교단의 사명"
  YAL_the_borean_mission_desc:0 "News of the miraculous ascension of the Herald of Boreas has spread like wildfire throughout Yale, with many flocking to his banner. These griffons have, in this time of uncertainty, eagerly embraced the Herald as the true voice of Boreas. For the faithful to prevail, the news of the Herald's ascension must be spread!"
 
- YAL_knights_of_boreas:0 "The Knights of Boreas"
+ YAL_knights_of_boreas:0 "보레아스 기사단"
  YAL_knights_of_boreas_desc:0 "The pursuit of chivalry and knighthood has always been the domain of Arcturius, but knights to other gods weren't unheard of. To preserve the Herald's chosen nation against outside aggression, we will need more warriors, in order to stand a chance in the upcoming battle for salvation."
 
- YAL_inspire_the_workers:0 "Inspire the Workers"
+ YAL_inspire_the_workers:0 "노동자들에게 영감을 주다"
  YAL_inspire_the_workers_desc:0 "Everygriffon must hear the word of the Herald, not just the elites or the soldiers. It is imperative that our priests preach the importance of our labourers to Boreas's plan and inspiring speeches by our disciples will surely increase productivity! All of us must sweat, so that divine law may be restored to this domain."
 
- YAL_claim_bounty_of_earth:0 "Eyr's Boon"
+ YAL_claim_bounty_of_earth:0 "아이르의 은혜"
  YAL_claim_bounty_of_earth_desc:0 "Eyr has bestowed upon all of griffonkind the riches of Griffonia. Through her fertile plains, rich mountains, and wide rivers she has gifted life to us all. There are more fields to be planted, mountains to be mined, and fish to be caught. While we work on this blessed land, our hymns will pierce the heavens!"
 
- YAL_ploughshares:0 "Ploughshares"
+ YAL_ploughshares:0 "쟁기"
  YAL_ploughshares_desc:0 "With the right tools for the job, a griffon can set himself to any task with diligence and patience. By creating more jobs, and helping the faithful to organise according to our divine plan, our civilian economy will prosper. The dishonest wealth of others shall dwindle away, but we who gather money little by little will know true prosperity."
 
- YAL_swords:0 "Swords"
+ YAL_swords:0 "검"
  YAL_swords_desc:0 "Struggle is inherent to our planet, and like Arcturius, who is always ready to do battle, we must remain vigilant. We seek peace under Boreas's light, but without a sword in our claw, our peace will be ripped away. Although our forges may build the tools of death, they shall serve the cause of the righteous."
 
- YAL_assess_the_situation:0 "Assess the Situation"
+ YAL_assess_the_situation:0 "상황을 평가하다"
  YAL_assess_the_situation_desc:0 "Griffonia is a fractured and wounded continent, far from the days of the empire that once ruled Boreas's sacred domain. The Herald of Boreas needs to visit the holiest places of griffonkind, so that he may understand the purpose of his ascension more clearly."
 
- YAL_visit_romau:0 "Visit Romau"
+ YAL_visit_romau:0 "로마우를 방문하다"
  YAL_visit_romau_desc:0 "Romau is an ancient city and has long been the seat of the Archon of Eyr. Many holy sites dot the city and massive temples have been built to show the wealth of the goddess. However, the city's elite have lived in opulence, while the meek suffer under their claw. Are monuments made by suffering, truly divine?"
 
- YAL_visit_griffenheim:0 "Visit Griffenheim"
+ YAL_visit_griffenheim:0 "그리펜하임을 방문하다"
  YAL_visit_griffenheim_desc:0 "The Imperial capital is an affront to Boreas! Priest and noble fight over the right to rule the material world, showing complete disdain for the true meaning of Boreas's word. With a heavy heart, the Herald of Boreas must enter the city and see for himself how petty self-interest corrupts the hearts of the powerful in Griffenheim."
 
- YAL_visit_griffonstone:0 "Visit Griffonstone"
+ YAL_visit_griffonstone:0 "그리폰스톤을 방문하다"
  YAL_visit_griffonstone_desc:0 "Griffonstone is seen as the birthplace of griffonkind and is the city where the Idol of Boreas itself was kept. Although the Herald knows that it is not his path to reclaim this relic, a visit to the city will surely help reveal to him the true nature of Boreas's will."
 
- YAL_send_the_disciples:0 "Send the Disciples"
+ YAL_send_the_disciples:0 "제자를 보내다"
  YAL_send_the_disciples_desc:0 "A group of followers has formed around the Herald of Boreas. He has been especially keen on teaching these griffons the most important messages Boreas wants him to spread. Now that divine truth has been revealed to them, the disciples will be sent out into the world, to spread the word to all those who will listen."
 
- YAL_denounce_the_archons:0 "Denounce the Archons"
+ YAL_denounce_the_archons:0 "집정관들을 비난하다"
  YAL_denounce_the_archons_desc:0 "The Archons of Boreas, Arcturius, and Eyr claim to be the voices of the gods. For too long, the Triarchy has been slowly strangled by these figures, those who falsely claim to speak for the divine! It is time that the griffons know the truth about who truly speaks in Boreas' name!"
 
- YAL_divine_intervention:0 "Divine Intervention"
+ YAL_divine_intervention:0 "신의 개입"
  YAL_divine_intervention_desc:0 "Whoever holds Griffenheim is a beacon for all of griffonkind, and lesser rulers look to the Imperial City for guidance. However, this lighthouse only leads those,who follow its deceptively enticing light, off a cliff! Boreas will not stand for this any longer. He will have his light, and his light only, shine in Griffeneheim!"
 
- YAL_new_archon_of_boreas:0 "New Archon of Boreas"
+ YAL_new_archon_of_boreas:0 "보레아스의 새로운 집정관"
  YAL_new_archon_of_boreas_desc:0 "All those who still doubt the Herald of Boreas will find him at the centre of the Triarchy, as he has proven to be the true voice of the divine. It is time that a new Archon of Boreas leads the faithful."
 
- YAL_appoint_the_prelates:0 "Appoint the Prelates"
+ YAL_appoint_the_prelates:0 "추기경들을 임명하다"
  YAL_appoint_the_prelates_desc:0 "Many prelates and lower officials have been using their positions to their advantage. Luckily, there is no shortage of faithful disciples to fill their place. Under benign rule from the god of statecraft himself, how can the Heartlands not prosper?"
 
- YAL_deal_with_dogs:0 "Deal with Dogs"
+ YAL_deal_with_dogs:0 "개들과 거래하다"
  YAL_deal_with_dogs_desc:0 "The dogs of Bronzehill are enraged that our rule comes straight from Boreas, bypassing the Emperor, who they have an instinctual loyalty to. Although their accomplishments are admirable, it is simply disrespectful to Boreas to have lands within his domain ruled by non-griffons."
 
- YAL_sanitising_scheisswald:0 "Sanitising Scheisswald"
+ YAL_sanitising_scheisswald:0 "샤이스발트를 소독하다"
  YAL_sanitising_scheisswald_desc:0 "The Scheisswald contains beasts and griffons who are almost indistinguishable from each other. The whole area must be systematically sanitised and the forest healed through our blessing. To do this, we must persuade the local rulers to let us commence our holy mission."
 
- YAL_cleansing_katerin:0 "Cleansing Katerin"
+ YAL_cleansing_katerin:0 "카테린을 정화하다"
  YAL_cleansing_katerin_desc:0 "Nowhere is the gift of the gods so twisted as the cursed lands of the Katerin Principality. Long ago, the light of Boreas and the might of Arcturius claimed these lands from the darkness that dwelled within. However, their servants failed to destroy this evil completely, and it has been allowed to fester anew. Only the Herald of Boreas will be able to cleanse this stain from the map once and for all!"
 
- YAL_align_the_griffons:0 "Warding the West"
+ YAL_align_the_griffons:0 "서부 지역을 보호하다"
  YAL_align_the_griffons_desc:0 "The griffons of Strawberry and Feathisia have strayed far from the path of righteousness. Instead of looking to spiritual matters, many of them are tainted by more worldly desires. If we are to unite the Heartlands, in the name of Boreas, these realms cannot be absent."
 
- YAL_expand_mission_of_boreas:0 "Expand the Mission of Boreas"
+ YAL_expand_mission_of_boreas:0 "보레아스의 사명을 확장하다"
  YAL_expand_mission_of_boreas_desc:0 "Now that the Heartlands are ours, we have created a sanctuary for the faithful. However, the Herald's message must be spread to the far corners of the continent, until every griffon has heard of his word! This will be a massive undertaking, but with divine inspiration, we will labour until it is complete."
 
- YAL_boreas_wrath:0 "The Wrath of Boreas"
+ YAL_boreas_wrath:0 "보레아스의 분노"
  YAL_boreas_wrath_desc:0 "We must consider that not all griffons will let our missionaries work in peace. They will hate us, for we tell them a truth they may not want to hear. We wish to unite all griffons in peace, but to do this, we will have to master both Boreas's mercy and his wrath."
 
- YAL_mandatory_prayers:0 "Mandatory Prayers"
+ YAL_mandatory_prayers:0 "의무적인 예배"
  YAL_mandatory_prayers_desc:0 "Although it is not generally the desire of Boreas to dictate the life of griffonkind, he requires a small sacrifice from all of us. To understand him, and to align ourselves to him, he requires prayers. It is only a small sacrifice, for an eternal reward."
 
- YAL_internal_affairs:0 "Internal Affairs"
+ YAL_internal_affairs:0 "국내 문제"
  YAL_internal_affairs_desc:0 "Although we are mostly focused on spreading the message outwards, there are still affairs of a worldly order to consider. Ruling our griffons and overseeing Boreas' peace is an enormous task, but with Boreas' teachings, we will be able to improve the lives of all within his realm."
  
- YAL_the_final_thing:0 "A Divine Kingdom"
+ YAL_the_final_thing:0 "신성한 왕국"
  YAL_the_final_thing_desc:0 "None remain standing who doubt the divine power of the Herald. Boreas struck down all the unfaithful who opposed him, and so we shall raise him to his proper place atop our nation."
  
 ##Events of the Herald
@@ -1592,21 +1592,21 @@
  yale.81.a:0 "Peace through knowledge!"
  
 ##Intro flavour events
- yale.84.t:0 "Everything Because of Family" #commie flavour
- yale.84.d:0 ""Brother!" Irene Mühschnabel quickly flew towards her target, hugging the small griffon from behind.\n\n"Ah, Irene, you are here too." Erich Mühschnabel replied, less than enthusiastically.\n\n"Of course, I wouldn't miss family day!" Irene released the hug, straightening her suit and tie while Erich turned to face her. "Congratulations on your promotion at university, little brother, I'm sure dad will be proud!" Erich squinted his eyes for a second, before sighing, to which Irene patted the griffon on the shoulder. "Rector of Cyrusval is no mean feat, Erich! You are one of the most important griffons in Yale, come on, let's go!" She took Erich by the claw, walking further into the Mühschnabel mansion. There was already much chatter coming from the salon, and when they entered, about two dozen Mühschnabels greeted them.\n\nNot least of those was Theodore Mühschnabel, father to Erich and Irene. He was large in stature, and strutted towards his children with the air of authority only a true capitalist could have. His eyes gleamed with joy as he turned towards Irene first. "Irene, my treasure, welcome home dear! How is the company?"\n\nIrene explained, in her usual enthusiasm, how the family business was doing. It took a few minutes before Theodore even recognised his son. Theodore's eyes screamed disapproval at Erich. "Erich, you visit your father for once. That red den you work at is only a stone's throw away you know?"\n\n"Yes father." Erich didn't focus on his father's eyes anymore, softly banding his claw into a fist. In his mind, the mansion started burning. His father would be on the ground begging him for mercy for all the times he mistreated him! Red banners would flutter from the mansion as all those who were ever exploited by the Mühschnabel capitalists would repay that abuse in kind with a righteous revolution!\n\n"Erich, are you alright?" The voice of his sister, who always had gotten everything she wanted, snapped the Rector of Cyrusval back to reality. She looked genuinely worried, trying to grasp what was going on in her brother's mind."
- yale.84.a:0 ""I am great. Never felt better, really.""
+ yale.84.t:0 "모든 것이 가족 때문이다" #commie flavour
+ yale.84.d:0 ""동생아!" 아이린 뮈슈나벨은 빠르게 목표물을 향해 날아가 작은 그리폰을 뒤에서 껴안았습니다.\n\n"아, 아이린 누나, 누나도 왔네." 에리히 뮈슈나벨이 대답했습니다. 그다지 열정적이지는 않았습니다.\n\n"물론이지, 내가 가족의 날을 잊어버릴리 없지!" 아이린은 포옹을 풀고 에리히가 그녀를 바라보는 동안 그녀는 양복과 넥타이를 곧게 폈습니다. "승진 축하해, 아빠가 자랑스러워하실거야!" 아이린은 동생의 어깨를 두드려줬고, 에리히는 한숨을 쉬기 전에 잠시 눈을 가늘게 떴습니다. "사이러스발 대학 총장이 된다는 건 훌륭한 일이야, 에리히! 너는 예일에서 가장 중요한 그리폰들 중 한 명이 된 거야, 자, 이제 들어가자!" 그녀는 에리히의 발톱을 잡고 뮈슈나벨 저택으로 걸어 들어갔습니다. 응접실에서는 이미 많은 잡담 소리가 들려왔고, 그들이 들어갔을 때, 약 20명의 뮈슈나벨 가문원들이 그들을 맞이했습니다.\n\n그들 중에는 에리히와 아이린의 아버지인 테오도르 뮈슈나벨도 있었습니다. 그는 키가 컸고, 진정한 자본가만이 가질 수 있는 권위를 가진 채로 자신의 아이들을 향해 거드름을 피웠습니다. 그가 먼저 아이린 쪽으로 눈을 돌렸을 때 그의 눈은 기쁨으로 빛났습니다. "아이린, 내 보물, 집에 어서 오렴! 회사는 어떻니?"\n\n아이린은 평소의 열정적인 모습으로 가업이 어떻게 진행되고 있는지 설명했습니다. 테오도르가 그의 아들을 알아보기까지는 몇 분이 걸렸습니다. 테오도르의 눈은 에리히에게 못마땅한 소리를 질렀습니다. "에리히, 너는 이제야 한번 아버지를 만나러 온 거냐. 네가 일하는 빨갱이 소굴이 여기 근처 아니었나?"\n\n"예, 아버지." 에리히는 더 이상 아버지의 눈을 마주 보지 않고, 발톱을 주먹으로 쥐었습니다. 그의 마음속에서, 저택이 불타오르기 시작했습니다. 그의 아버지는 자신을 학대했던 모든 시간들을 겪으며 자비를 구걸하고 땅바닥을 구르고 있습니다! 저택에는 붉은 깃발이 펄럭이고, 뮈슈나벨 자본가들에 의해 착취당하고 학대받은 모든 사람들은 정의로운 혁명으로 보답받고 있습니다!\n\n"에리히, 괜찮아?" 언제나 그가 원하던 모든 것을 얻었던 그의 누나의 목소리에 사이러스발 총장은 현실로 다시 돌아왔습니다. 그녀는 동생의 마음속에서 무슨 일이 일어나고 있는지 이해하려고 애쓰면서 진심으로 걱정하는 것처럼 보였습니다."
+ yale.84.a:0 ""괜찮아. 정말로, 이보다 좋았던 적은 없어.""
  
- yale.85.t:0 "The New Sparkle" #harmony flavour
- yale.85.d:0 "Yale University had many amenities for its students, one of which was a small indoors theatre. While it was usually used for a music or theatre club, today it was filled with students of all sort, for a special event. The murmurs in the room stopped when a male griffon walked onto the stage and tapped a microphone. "Ladies and gentlegriffs, we are here today to discuss the future of our most beloved country. It doesn't take a genius to feel that the academic system of government is not satisfying anymore. This begs the question, how do we govern ourselves? To give you one possible answer, please welcome our own Georgina Schüler, president of the New Sparkle Movement!"\n\nThere was a large applause as a griffon with very light purple feathers climbs the stage and takes the microphone from the announcer. She gives the crowd a soft smile as the applause dies down. "Greetings everyone, thank you for attending." Georgina's voice was soft, but still the crowd was silenced the moment she opened her beak. "There is only one way forward from the stagnation we find ourselves in and that is to go forward together. Forty years ago, griffons demanded influence in how they are ruled and since then, Griffonia has not been the same. Everywhere, tyrants still cling to power with an iron claw, even here in Yale the fire of democracy seems all but doused in the fires of so called enlightened technocracy..." The griffon's voice was now loudly echoing through the theatre, her eyes glistening and every word full of passionate fire.\n\n"... But as long as there is a freethinking griffon left on Boreas's continent, there is still fuel for freedom's fire. And I intend, together with you, to be a new spark for democracy." Georgina's voice calmed down a little. "But not with violence, but by keeping within the law. We will debate, protest and talk to everygriffon who will listen, until we can choose our own destiny!"\n\nThe crowd erupted in cheers, and the New Sparkle Movement gained many new members that day."
- yale.85.a:0 "If only they were so passionate about their studies. "
+ yale.85.t:0 "새로운 불빛" #harmony flavour
+ yale.85.d:0 "예일 대학교는 학생들을 위한 많은 편의 시설들을 가지고 있었는데, 그 중 하나는 작은 실내 극장입니다. 보통 음악이나 연극 동아리에 사용되었지만, 오늘은 특별한 행사를 위해 모든 분야의 학생들로 가득 찼습니다. 남자 그리폰이 무대로 걸어와 마이크를 두드리자 극장 안의 잡담 소리가 멈추었습니다. "신사 숙녀 그리폰 여러분, 우리는 오늘 우리가 가장 사랑하는 나라의 미래에 대해 토론하기 위해 여기에 있습니다. 학술 정부 체제가 더 이상 만족스럽지 않다고 느끼는 것에는 천재적인 능력이 필요하지 않습니다. 이것은 우리에게 이러한 질문을 던집니다. 우리가 우리 자신을 어떻게 다스려야 하는가? 이에 대하여 한 가지 답을 제시해 주는, 새로운 불빛 운동의 회장인 조지나 쉴러를 환영해 주십시오!"\n\n매우 밝은 보라색 깃털을 가진 그리폰이 무대에 올라 진행자로부터 마이크를 받아 갈 때 큰 박수갈채가 일었습니다. 박수갈채가 잦아들자 그녀는 관중들에게 부드러운 미소를 지었습니다. "환영합니다 여러분, 참석해 주셔서 감사합니다." 조지나의 목소리는 부드러웠으며, 관중들은 그녀가 부리를 여는 순간 침묵을 지켰습니다. "우리가 처한 침체에서 앞으로 나아갈 수 있는 유일한 길은 함께 나아가는 것입니다. 40년 전, 그리폰들의 통치 방식이 영향력을 요구하는 것으로 바뀜에 따라 그리포니아는 예전과 같지 않게 되었습니다. 모든 곳에서 폭군들이 철의 발톱으로 권력에 집착하고 있습니다. 이곳 예일에서조차 민주주의의 불은 소위 계몽된 테크노크라시의 불속에 묻혀 보이지 않습니다..." 그녀의 목소리는 극장에 큰 소리로 울려 퍼지고 있었고, 그녀의 눈은 반짝이며, 모든 말에는 정열적인 불길이 가득했습니다.\n\n"... 하지만 보레아스의 대륙에 자유로운 생각을 하는 그리폰이 남아 있는 한, 자유의 불을 위한 연료는 여전히 남아 있습니다. 그러므로, 저는 여러분과 함께 민주주의의 새로운 불씨가 되려고 합니다." 조지나의 목소리는 조금 차분해졌습니다. "하지만 우리는 폭력이 아닌 법을 지키는 방식으로써 이룩할 것입니다. 우리는 우리 자신의 운명을 선택할 수 있을 때까지 토론하고, 항의하고, 발언할 것입니다!"\n\n관중들은 환호성을 터뜨렸고, 새로운 불빛 운동은 그날 많은 새로운 회원들을 얻었습니다."
+ yale.85.a:0 "그들이 공부를 그렇게 열정적으로 했으면 좋았을 텐데."
  
- yale.86.t:0 "On Science" #neutral flavour
- yale.86.d:0 "Rector Magnificus Mikusian was lecturing at Yale University. It was late in the afternoon and the lecture was almost over. "So, there are two kinds of validity which can be used to measure the worth of any piece of research, internal and external validity. The better you can rule out alternative explanations for your findings, the higher your internal validity, while a higher external validity means you can generalise your findings." There was an audible sigh from one of the students. Only a couple were still taking notes. They were tired, after all, a brain could only take in information for so long during a day and these young griffons had been in the lecture halls since the early morning.\n\nMikusian tapped his desk with a claw. "Alright, let us do something different then." The end of the professor's explanation got some drowsy heads raised. The Rector sat down on top his desk, giving the students a smile. "What is the most important trait a scientist should possess? There are no wrong answers here!"\n\nA griffon hesitantly raised her claw and Mikusian pointed at her. "A scientist should be unbiased, looking at every problem without prejudice."\n\n"Oh yes it is very important that you try to limit the influence of your own opinion and be objective. But, we are not gods. Every scientist is influenced by their own perspective. Acknowledge this and be open about what drives you, not just in science, but life in general." A few more claws were raised now, it seemed that Mikusian managed to connect with the students.\n\n"They have to be humble and take criticism." Another student proclaimed, smug about his answer.\n\n"Of course," Mikusian replied, "you must be able to admit your mistakes, but you must also know when to stick to your theory, even if no other scientist supports it. Some of the greatest scientists were laughed at when they first proposed their ground-breaking visions and now they're in your textbooks. One more!"\n\n "A scientist must be apolitical and not like those reds in Cyrusval!" The hall erupted into laughter, which faded away when Mikusian raised a claw.\n\n"This comes back to what I said earlier. Seeing the world from just one perspective and contributing the root cause of all evil to one phenomenon might be reductionist, but science is not apolitical. It cannot be, as it is involved with the most important advancements in how our society functions. How you will use your knowledge and intellect might determine the wellbeing of millions. Be mindful of your responsibility and have a great evening!" The Rector raised his claw again, indicating the class was dismissed."
- yale.86.a:0 "They still have much to learn."
+ yale.86.t:0 "과학에 대하여" #neutral flavour
+ yale.86.d:0 "마그니피쿠스 미쿠시안 총장은 예일 대학교에서 강의를 하고 있었습니다. 늦은 오후였고 강의는 거의 끝나가고 있었습니다. "그래서, 모든 연구의 가치를 측정하는 데는 두 가지 종류의 타당성, 내적 타당성과 외적 타당성을 사용할 수 있습니다. 연구 결과에 대한 다른 요소들을 더 잘 배제할수록 내적 타당성이 높아지는 반면, 외적 타당성이 높아지면 연구 결과를 일반화시킬 수 있습니다." 학생들 중 한 명이 한숨을 내쉬었습니다. 오직 두 사람만이 여전히 메모를 하고 있습니다. 그들은 피곤했습니다. 두뇌는 하루 동안의 정보만을 받아들일 수 있습니다. 그리고 이 어린 그리폰들은 이른 아침부터 강의실에 있었습니다.\n\n미쿠시안은 그의 책상을 발톱으로 두드렸습니다. "좋아요, 그럼 무언가 다른 걸 하도록 하죠." 교수의 분위기 전환에 졸린 머리들이 고개를 들었습니다. 총장은 학생들에게 미소를 지으며 그의 책상 위에 앉았습니다. "과학자가 가져야 할 가장 중요한 특성이 무엇이라고 생각하나요? 여기에 틀린 답은 없습니다!"\n\n한 여성 그리폰이 발톱을 머뭇거리며 들어 올렸고 미쿠시안은 그녀를 가리켰습니다. "과학자는 모든 문제를 바라보는 데 있어서 편견이 없어야 합니다."\n\n"맞습니다. 여러분은 자신의 견해의 영향력을 제한하고 객관적인 태도를 취하는 것이 매우 중요합니다. 하지만, 우리는 신이 아니죠. 모든 과학자들은 자신의 관점에 영향을 받습니다. 이것을 인정하고 과학뿐만 아니라 삶의 전반부에 걸쳐 여러분들을 개방적으로 만드시길 바랍니다." 몇 명이 더 발톱을 들어 올렸고, 이것은 미쿠시안과 학생들을 연결해 주었습니다.\n\n"그들은 겸손해야 하고 비판을 받아들일 줄 알아야 합니다." 다른 학생이 그의 대답에 의기양양하게 주장했습니다.\n\n"물론입니다." 미쿠시안이 대답했습니다. "여러분은 여러분의 실수를 인정할 수 있어야 하지만, 다른 과학자들이 여러분을 지지해 주지 않는다고 하더라도, 여러분의 이론을 고수해야 할 때도 알아야 합니다. 위대한 과학자들 중 몇몇은 처음 그들의 획기적인 비전을 제안했을 때 비웃음을 당했지만 지금은 여러분의 교과서에 실려있죠. 한 명만 더!"\n\n"과학자들은 사이러스발의 빨갱이들처럼 정치적으로 되어서는 안됩니다!" 강의실에 웃음이 터졌지만, 미쿠시안이 발톱을 치켜들자 점점 웃음이 사그라들었습니다.\n\n"이것은 제가 아까 말했던 것을 돌아보도록 하죠. 세상을 하나의 관점으로 바라보고, 모든 악의 근원을 하나의 현상으로만 보는 것은 환원주의적일지도 모르지만, 과학은 정치적인 것이 아닙니다. 과학은 우리 사회가 어떻게 기능하는지에 있어 가장 중요한 발전과 관련되어 있기 때문에 그럴 수 없습니다. 여러분이 지식과 지성을 어떻게 활용하냐에 따라 수백만 명의 행복을 좌우할 수 있습니다. 여러분의 책임에 유의하기 바라고 다들 즐거운 저녁 보내기 바랍니다!" 총장은 다시 발톱을 들어서 강의가 끝났음을 알렸습니다."
+ yale.86.a:0 "그들은 여전히 배울 것이 많다."
  
- yale.87.t:0 "A Battered Rock" #fascist flavour
- yale.87.d:0 ""And that faith is a rock standing tall in the sea, whether in the calm embrace of summer or the raging tempest of winter, it will never waver, as it is anchored to the earth. For beneath the waves, there is more than meets the eye."\n\nTristan thanked all the griffons for attending and blessed their day in the name of the gods, marking the end of today's service. The templegoers stood up from their benches and slowly made their way to the exit as the priest himself relaxed his posture, hanging his shoulders as he watched the few faithful leave his temple. The young grey-feathered priest looked up at the stained glass window above the exit, breaking down the afternoon sun into an array of playful colours.\n\nCyrusval's temple to the Trinity did not show any signs of the slow decay happening around its walls. The red rot of socialism had taken root, spreading its venom house by house through the streets of this once noble city. And while Cyrusval was the epicentre, it was not the only community straying from the Trinity. Ever since Tristan came here from Bischofheim he felt it in the air, and in the eyes of the griffons he met on the street. This country had no soul, or if it had one, it was clouded in shadow. As the months passed by, fewer and fewer griffons visited the temple, except for the elderly coming in out of habit more than piety.\n\nTristan turned his eyes towards the heavens, a familiar fresco making him turn a slight smile. Yale was not yet completely lost. The priest quickly prayed a prayer to the prelate in Bruma, whose temple was filled to the brim with students and commoners both. He was not a griffon of compromise, Prelate Michael, as to be expected of an Arcturian priest. In his writings to the priesthood, the prelate often advocated for rooting out the red threat by banning Cyrusval University. In Yale's current climate of misguided academic faithlessness, such calls have never been answered by the Rectorate's rulers, but many others did listen devotedly.\n\nMaybe there was hope yet... The priest cringed at his own thoughts. Faith is a rock, and this long winter it would weather too. "
- yale.87.a:0 "Perhaps Michael can craft Yale a Soul?    "
+ yale.87.t:0 "닳아가는 바위" #fascist flavour
+ yale.87.d:0 ""그리고 믿음은 바다 위에 우뚝 서 있는 바위입니다. 여름의 고요한 포옹 속에서든 겨울의 사나운 폭풍 속에서든, 그것은 결코 흔들리지 않을 것입니다. 땅 위에 정박해 있기 때문입니다. 파도 아래에는 눈으로 보이는 것 이상의 것이 있습니다."\n\n트리스탄은 참석한 모든 그리폰들에게 감사의 뜻을 밝혔고, 오늘 예배의 마지막을 장식하며, 신들의 이름으로 그들의 하루를 축복했습니다. 신자들이 신전에서 떠날 준비를 하는 모습을 지켜보는 가운데 사제가 어깨를 늘어뜨린 채 자세를 가다듬자 신전 방문객들은 의자에서 일어나 천천히 출구로 걸어나갔습니다. 회색 깃털의 젊은 사제는 출구 위에 있는 스테인드글라스 창문을 올려다보았으며, 스테인드글라스 창문은 오후의 태양을 일련의 장난스러운 색깔들로 부수었습니다.\n\n삼위일체 교리의 사이러스발 신전의 벽 주변에는 부패의 흔적이 보이지 않았습니다. 사회주의라는 붉은 부패가 뿌리내렸고, 한때 고결했던 이 도시의 거리에 있는 집집마다 독을 퍼트려나갔습니다. 사이러스발이 부패의 근원지이지만, 삼위일체 교리에서 벗어난 유일한 공동체는 아니었습니다. 트리스탄은 비쇼프하임에서 이곳으로 온 이후로 자신과 길가에서 만나는 그리폰들의 눈이 공중에 붕 떠있는 것을 느꼈습니다. 이 나라에는 영혼이 없었고, 만약 영혼이 있다면, 그늘에 가려져 있을 것입니다. 몇 달이 지나고, 신앙심보다는 습관적으로 찾아오는 노인들을 제외하고는, 점점 더 적은 수의 그리폰들만이 신전을 방문하게 되었습니다.\n\n트리스탄은 눈을 하늘 쪽으로 돌렸습니다. 익숙한 프레스코화가 그를 살짝 미소 짓게 했습니다. 예일은 아직 모든 것을 완전히 잃어버린 것은 아니었습니다. 사제는 브루마의 추기경을 도와 예배를 드리곤 했는데, 그곳의 신전은 학생들과 평민들로 가득했습니다. 또한 아크투리우스 성직자인 마이클 추기경은 예상되는 대로 타협하는 그리폰이 아니었습니다. 사제단에 보내는 그의 편지에서 그는 종종 사이러스발 대학을 금지함으로써 붉은 위협을 근절하자는 의사를 표현하곤 했습니다. 신의 없이 잘못된 학문을 가르치는 예일의 현재 분위기 속에서, 이러한 요청은 총장들에 의해 결코 승인받지 못했지만, 많은 사람들이 헌신적으로 경청해 주었습니다.\n\n아직 희망이 있을지도 몰라... 사제는 자신의 생각에 몸이 움츠러들었습니다. 믿음은 바위와 같고, 이 긴 겨울에도 무사히 헤쳐 나갈 수 있을 것입니다."
+ yale.87.a:0 "마이클이라면 예일에 영혼을 만들 수 있을까?"
  
 
 ###Decisions
@@ -1651,10 +1651,10 @@
 #Revolution Decisions
  YAL_revolution_support:0 "Preparing for Revolution"
  YAL_revolution_support_desc:0 "Now that Cyrusval University has taken the lead amongst the universities of Yale, it has started to plot for a revolution in secret. By using the Student Vanguard and the Faculty of Social Science to its advantage, the hopeful revolutionaries seek to shore up support of the workers, soldiers and intellectuals of Yale. Increasing support will take time and effort, but launching the revolution too soon may have disastrous consequences.\n\n\n\nCurrent §Yworker§! support: [YAL.GetWorkerSupport].\nCurrent §Cintellectual§! support: [YAL.GetIntellectualSupport].\nCurrent §Rmilitary§! support: [YAL.GetMilitarySupport]."
- YAL_SUPPORT_HIGH:0 "§Ghigh§!"
- YAL_SUPPORT_MEDIUM:0 "§Ymedium§!"
- YAL_SUPPORT_LOW:0 "§Hlow§!"
- YAL_SUPPORT_VERY_LOW:0 "§Rvery low§!"
+ YAL_SUPPORT_HIGH:0 "§G높음§!"
+ YAL_SUPPORT_MEDIUM:0 "§Y중간§!"
+ YAL_SUPPORT_LOW:0 "§H낮음§!"
+ YAL_SUPPORT_VERY_LOW:0 "§R매우 낮음§!"
  YAL_critically_low_support:0 "Support is §RCRITICALLY LOW§!"
  YAL_for_the_workers:0 "Go to the Factories"
  YAL_for_the_workers_desc:0 "Student Vanguard members will mingle in the factories, speaking to ordinary workers to preach about the revolution. Not only will they help increase revolutionary sentiment in the factories, they may also learn a thing or two about industrial methods."
@@ -1812,118 +1812,118 @@
  YAL_napalm_idea_desc:0 "The engineers at Greengate have discovered a very effective substance. This jelly-like goo sticks to whatever it touches and burns for a long time, making it easier to start fires. By weaponising this 'napalm' we will be able to sow terror and destruction amongst our enemies."
 
 #Science ideas 
- YAL_archives_construction:0 "Archives Construction Underway"
+ YAL_archives_construction:0 "시작된 기록보관소 건설"
  YAL_archives_construction_desc:0 "The Great Archives of Yale are under construction. This massive project requires many resources and our most skilled architects, engineers, and construction workers. The Archives will take time and dedication, but one day, Yale will see it finished!"
- YAL_archives_constructed:0 "The Great Archives of Yale"
+ YAL_archives_constructed:0 "거대한 예일 기록보관소"
  YAL_archives_constructed_desc:0 "The vision of Borean Wiedergreiff, an enormous repository for all griffon knowledge, has been completed. For years we have toiled to finish this monument to science and now the great spire stands. The construction, hundreds of metres high, adorned with marble statues of the sciences and arts and many other ornaments, is a masterpiece of architecture. Every day, laygriff and scientist alike visit the structure to learn more about our world, or to simply enjoy the sight of the building. With the Archives, we will gain an enormous scientific advantage compared to those who will not enjoy access to its contents."
- YAL_agricultural_study:0 "Agricultural Studies"
+ YAL_agricultural_study:0 "농업학"
  YAL_agricultural_study_desc:0 "New tools and methods to grow food have severely reduced the griffonpower needed to sustain our people. The claws that have been freed by the advance of agricultural technology can now be put to use in the factories to propel our nation forwards."
- YAL_focused_research_project:0 "The Research Focus Program"
+ YAL_focused_research_project:0 "연구 중점 프로그램"
  YAL_focused_research_project_desc:0 "Under the Research Focus Program, our scientists will coordinate their research and thus reduce overlap and more efficiently share their findings. Every 200 days a new area of research will be chosen to focus on, which will allow us to make a breakthrough in this field!"
- YAL_major_project:0 "Funding Archive Construction"
+ YAL_major_project:0 "기록보관소 건설 자금 지원"
  YAL_major_project_desc:0 "Hiring all the labourers and artists to work on the Archives and importing the necessary resources from abroad are a strain on our administration and budget."
- YAL_archived_knowledge1:0 "Scratching the Surface"
+ YAL_archived_knowledge1:0 "지표를 탐색하다"
  YAL_archived_knowledge1_desc:0 "It has only been a little while since the opening of the archives, but the scientists present are excited to get to work. They have theorised many discoveries that may be made in the future with the help of the structure, but not much practical work has been done, as the first pioneer studies are just now finishing up."
- YAL_archived_knowledge2:0 "Breaking through the Surface"
+ YAL_archived_knowledge2:0 "지표면을 뚫고 내려가다"
  YAL_archived_knowledge2_desc:0 "With a good understanding of what contents we have in the archives, the scientists have set the task to finish orientation and draft up a framework for research in the future. The studies we received so far are interesting and can surely help."
- YAL_archived_knowledge3:0 "A Framework for the Future"
+ YAL_archived_knowledge3:0 "미래를 위한 뼈대"
  YAL_archived_knowledge3_desc:0 "With the orientation now truly done, the archives are starting to bear fruit. The study of magical artefacts and historical records from so many nations, as well as the cooperation of so many different scientists who bring their own perspectives, is now making a sizable contribution to our research efforts."
- YAL_archived_knowledge4:0 "A Greater Understanding"
+ YAL_archived_knowledge4:0 "위대한 이해"
  YAL_archived_knowledge4_desc:0 "Almost every month now, a breakthrough study is published about the archive's contents. Ever more scientists are drawn to the spire as news of the wondrous structure has penetrated every corner of Griffonia. We are starting to get a clear picture of the magic and science of our ancestors, of what we had before the wars ruined so many civilisations. Maybe we can recover the secrets of old?"
- YAL_archived_knowledge5:0 "Using Ancient Wisdom"
+ YAL_archived_knowledge5:0 "고대의 지혜를 사용하다"
  YAL_archived_knowledge5_desc:0 "We now fully grasp the ancient magical knowledge of our ancestors and this is propelling our research forwards. It is hard to fathom just how much we have pieced together with the help of griffons from all over the continent. Now that we have the wisdom of the ancients, we can focus on the future, using our newfound knowledge and the bonds we have made to push science to a new age."
- YAL_archived_knowledge6:0 "Ancient Wisdom and Modern Intellect"
+ YAL_archived_knowledge6:0 "고대의 지혜와 현대의 지성"
  YAL_archived_knowledge6_desc:0 "We have started to combine our technology with the magic knowledge we have gained and the synthesis between the two is promising. With our far greater understanding of our own capabilities, we have managed to surge ahead in modern technology as well."
- YAL_archived_knowledge7:0 "New Perspectives"
+ YAL_archived_knowledge7:0 "새로운 관점"
  YAL_archived_knowledge7_desc:0 "The minds of all the continent's brightest focused in one place has given us all access to many new perspectives. This has helped out every scientist, as they now have new theories to consider and new methods to use in their own work.  There is still some work left, but we are getting closer to the boundaries of our knowledge."
- YAL_archived_knowledge8:0 "Letting the Owl Fly"
+ YAL_archived_knowledge8:0 "부엉이를 날리다"
  YAL_archived_knowledge8_desc:0 "The owl has been associated with wisdom by many races, and it was considered a sign by most griffons that many owls decided to nest in the Spire. Therefore, the last phase of research has been called the Owl-Project. Every book and manuscript will be read, reviewed and placed into context, so that we will gain complete knowledge of the Archives' content."
- YAL_archived_knowledge9:0 "The Owl ascends to the Sky"
+ YAL_archived_knowledge9:0 "부엉이가 하늘을 오르다"
  YAL_archived_knowledge9_desc:0 "The work on the Owl-Project has been proceeding rapidly, at least for a scientific project. Many works have been categorised and reviewed, and now searching for and referencing these works takes a lot less time. Our work is almost finished."
- YAL_archived_knowledge10:0 "The Owl has spread her Wings"
+ YAL_archived_knowledge10:0 "부엉이가 날개를 펴다"
  YAL_archived_knowledge10_desc:0 "With the Owl-Project completed, the mysteries collected in the Archives have finally been answered. Now that all this knowledge has been fully revealed to us and made easy to access, the scientific community will benefit. Let us hope that the archives will forever be a beacon of knowledge and a symbol of griffon cooperation."
 
 #Fascist ideas
- YAL_charitas:0 "Charity"
+ YAL_charitas:0 "자선 단체"
  YAL_charitas_desc:0 "The ones who give are strong, for it is only the strong who can afford to give. Only the weak hoard since they must make up for their weakness with wealth. The Strong give but do not take. The Weak take but do not give. Thus is the way of things."
- YAL_local_ethics:0 "Experance"
+ YAL_local_ethics:0 "경험"
  YAL_local_ethics_desc:0 "There is only so much that can be found in a class room, our students must learn to venture forth and learn for themselves."
- YAL_united_in_cause:0 "Unity"
+ YAL_united_in_cause:0 "단결"
  YAL_united_in_cause_desc:0 "Our Culture and our government has finally become one."
- YAL_bruma_united:0 "Brotherhood"
+ YAL_bruma_united:0 "형제애"
  YAL_bruma_united_desc:0 ""
- YAL_science_of_life:0 "The Science of Life"
+ YAL_science_of_life:0 "생명의 과학"
  YAL_science_of_life_desc:0 "We have learned much from our studies and our people enjoy much healthier lives because of it. Let us hope they don't ask how these breakthroughs happened."
- YAL_repealed_regulations:0 "Freedom for the Researchers"
+ YAL_repealed_regulations:0 "연구원들의 자유"
  YAL_repealed_regulations_desc:0 "With regulations hacked away we now can embrace sciences that have long lay stagnant."
- YAL_student_assisted_research:0 "Students into Assistants"
+ YAL_student_assisted_research:0 "학생 조수"
  YAL_student_assisted_research_desc:0 "The Students of Gamia have embraced our path, and are eager to help expand our knowledge."
 
 #Neutral ideas
- YAL_engineering:0 "The School of Engineering"
+ YAL_engineering:0 "공과 대학"
  YAL_engineering_desc:0 "Increased funding is allowing Greengate to expand rapidly in order to meet the rising demands of our growing industries, but we still have a long way to go if we wish to remain at the forefront of modern technology."
- YAL_computer_research:0 "The School of Engineering"
+ YAL_computer_research:0 "공과 대학"
  YAL_computer_research_desc:0 "Greengate's Computing Faculty is young, but very promising. Once they get the hang of things, the power of these new computers will allow us to stay at the cutting edge of griffon knowledge!"
- YAL_pioneers_eng:0 "The School of Engineering"
+ YAL_pioneers_eng:0 "공과 대학"
  YAL_pioneers_eng_desc:0 "Our researchers at Greengate have established themselves as Griffonia's foremost experts in almost every field of engineering, and their vast knowledge goes towards building a better life for every griffon!"
 
- YAL_pioneers_eng_better:0 "The Grand School of Engineering"
+ YAL_pioneers_eng_better:0 "뛰어난 공과 대학"
  YAL_pioneers_eng_better_desc:0 "Our researchers at Greengate have established themselves as the world's foremost experts in every field of engineering, and their vast knowledge goes towards building a better life for everyone!"
 
- YAL_health:0 "The Academy of Health and Medicine"
+ YAL_health:0 "건강 의학 대학"
  YAL_health_desc:0 "The city of Greenback always was a hot bed of disease and pestilence, but with the AHM within the city limits we are able to discover cures before diseases can spread."
- YAL_hospital:0 "The Academy of Health and Medicine"
+ YAL_hospital:0 "건강 의학 대학"
  YAL_hospital_desc:0 "We have expanded the Greenback hospital with the machines and tools needed to treat every sick griffon that comes through those marble doors."
- YAL_modern_medicine:0 "The Academy of Health and Medicine"
+ YAL_modern_medicine:0 "건강 의학 대학"
  YAL_modern_medicine_desc:0 "We look to medical science for our cures rather than superstitious folk practices. By better understanding the structure of our bodies, we can provide the highest quality care for our citizens."
- YAL_medicine_and_drugs_health:0 "The Academy of Health and Medicine"
+ YAL_medicine_and_drugs_health:0 "건강 의학 대학"
  YAL_medicine_and_drugs_health_desc:0 "A little bit of pain killers, some adrenaline and our troops should be much more capable of working through their pain."
- YAL_medicine_and_drugs_hospital:0 "The Academy of Health and Medicine"
+ YAL_medicine_and_drugs_hospital:0 "건강 의학 대학"
  YAL_medicine_and_drugs_hospital_desc:0 "A little bit of pain killers, some adrenaline and our troops should be much more capable of working through their pain."
- YAL_medicine_and_drugs_modern_medicine:0 "The Academy of Health and Medicine"
+ YAL_medicine_and_drugs_modern_medicine:0 "건강 의학 대학"
  YAL_medicine_and_drugs_modern_medicine_desc:0 "A little bit of pain killers, some adrenaline and our troops should be much more capable of working through their pain."
- YAL_mind_unraveled:0 "The Secrets of the Mind"
+ YAL_mind_unraveled:0 "마음의 비밀들"
  YAL_mind_unraveled_desc:0 "We have learned what no others could. For untold centuries, the mind has remained illusive, hiding its secrets. But now those secrets are ours to understand."
- YAL_body_understood:0 "The Secrets of the Body"
+ YAL_body_understood:0 "신체의 비밀들"
  YAL_body_understood_desc:0 "We now know the limits and strengths of the machine that lies under our skin. More importantly, we have learned what steps to take in order to better improve and maintain it."
- YAL_healthier_population_mind:0 "The Academy of Health and Medicine"
+ YAL_healthier_population_mind:0 "건강 의학 대학"
  YAL_healthier_population_mind_desc:0 "Our populace is the pride of Griffonia! Strong and healthy, they are the paragons of the medicinal world."
- YAL_healthier_population_body:0 "The Academy of Health and Medicine"
+ YAL_healthier_population_body:0 "건강 의학 대학"
  YAL_healthier_population_body_desc:0 "Our populace is the pride of Griffonia! Strong and healthy, they are the paragons of the medicinal world."
 
- YAL_healthier_population_mind_better:0 "The Great Academy of Health and Medicine"
+ YAL_healthier_population_mind_better:0 "뛰어난 건강 의학 대학"
  YAL_healthier_population_mind_better_desc:0 "Our populace is the pride of Griffonia! Strong and healthy, they are the paragons of the medicinal world."
- YAL_healthier_population_body_better:0 "The Great Academy of Health and Medicine"
+ YAL_healthier_population_body_better:0 "뛰어난 건강 의학 대학"
  YAL_healthier_population_body_better_desc:0 "Our populace is the pride of Griffonia! Strong and healthy, they are the paragons of the medicinal world."
 
- YAL_economics:0 "The School of Economics"
+ YAL_economics:0 "경제 대학"
  YAL_economics_desc:0 "The Middleheim School of Economics teaches hundreds of students a year the value of the gold in their claws. We must not forget that markets are a science like any other."
- YAL_more_economics:0 "The School of Economics"
+ YAL_more_economics:0 "경제 대학"
  YAL_more_economics_desc:0 "The Middleheim School of Economics teaches hundreds of students a year the value of the gold in their claws. We must not forget that markets are a science like any other."
- YAL_overseeing_the_market:0 "The School of Economics"
+ YAL_overseeing_the_market:0 "경제 대학"
  YAL_overseeing_the_market_desc:0 "We can not entrust the fate of markets to the fickle claws of fate, we have taken steps to make sure that there are no crashes anytime soon."
- YAL_aggregate_demand:0 "The School of Economics"
+ YAL_aggregate_demand:0 "경제 대학"
  YAL_aggregate_demand_desc:0 "Using vast public work projects we have ensured a stable source of income for the lower classes. Now that they have money in their claws they are beginning to buy all that their hearts desire."
- YAL_aggregate_demand_overseeing_the_market:0 "The School of Economics"
+ YAL_aggregate_demand_overseeing_the_market:0 "경제 대학"
  YAL_aggregate_demand_overseeing_the_market_desc:0 "We can not entrust the fate of markets to the fickle claws of fate, we have taken steps to make sure that there are no crashes anytime soon. Using vast public work projects we have ensured a stable source of income for the lower classes. Now that they have money in their claws they are beginning to buy all that their hearts desire."
- YAL_steering_the_market:0 "The School of Economics"
+ YAL_steering_the_market:0 "경제 대학"
  YAL_steering_the_market_desc:0 "It was not enough to merely regulate the market, we have placed it in the claws of our leading economists to guide our industry to new heights!"
- YAL_companies:0 "The School of Economics"
+ YAL_companies:0 "경제 대학"
  YAL_companies_desc:0 "The government has stepped out of the battle between the financial giants, let the titans fight amongst themselves. The free market will make sure that the worthiest competitor with the best ideas prevails!"
- YAL_small_businesses:0 "The School of Economics"
+ YAL_small_businesses:0 "경제 대학"
  YAL_small_businesses_desc:0 "We encourage the continued existence of so-called "mom and pop" establishments. Small businesses are better for local economies, and can respond more quickly to changing marketplace demand."
- YAL_companies_small_businesses:0 "The School of Economics"
+ YAL_companies_small_businesses:0 "경제 대학"
  YAL_companies_small_businesses_desc:0 "The government has stepped out of the battle between the financial giants, let the titans fight amongst themselves. The free market will make sure that the worthiest competitor with the best ideas prevails! But at the same time, We encourage the continued existence of so-called "mom and pop" establishments. Small businesses are better for local economies, and can respond more quickly to changing marketplace demand."
- YAL_freed_the_market:0 "The School of Economics"
+ YAL_freed_the_market:0 "경제 대학"
  YAL_freed_the_market_desc:0 "With very few regulations to worry about, the titans of industry have only the future to focus on. Now that hard work and ingenuity are rewarded rather than punished, we can all look forward to a future of gold!"
- YAL_prosperity_steer:0 "The School of Economics"
+ YAL_prosperity_steer:0 "경제 대학"
  YAL_prosperity_steer_desc:0 "The fate of our markets is too important to entrust to the fickle claws of fate, and so we have taken steps to stimulate the economy. Using vast public work projects we have ensured a stable source of income for the lower classes. With money in their claws, they can buy all that their hearts desire!"
- YAL_prosperity_free:0 "The School of Economics"
+ YAL_prosperity_free:0 "경제 대학"
  YAL_prosperity_free_desc:0 "We have set our markets and our people free! With very few regulations to worry about, the titans of industry have only the future to focus on. Now that hard work and ingenuity are rewarded rather than punished, we have created a prosperous society!"
 
- YAL_prosperity_steer_better:0 "The Monumental School of Economics"
+ YAL_prosperity_steer_better:0 "기념비적인 경제 대학"
  YAL_prosperity_steer_better_desc:0 "It is a simple truth that the fate of markets is too important to entrust to the fickle claws of fate, and so steps must be taken to stimulate the economy. These principles are taught at our famous School of Economics, and have gone on to influence the fiscal policies of nations across the world."
- YAL_prosperity_free_better:0 "The Monumental School of Economics"
+ YAL_prosperity_free_better:0 "기념비적인 경제 대학"
  YAL_prosperity_free_better_desc:0 "It is a simple fact that in order to foster prosperity, markets must be as free as possible. The only thing burdensome regulations do are stymie innovation and creativity! These principles are taught at our famous School of Economics, and have gone on to influence the fiscal policies of nations across the world."
 
 #non-al victory ideas
@@ -2079,9 +2079,9 @@
  YAL_accept_invitation_tooltip:0 "수락하면 예일을 보호할 의무가 있지만, 우리에게 많은 연구 혜택을 줍니다!"
  YAL_action_performing:0 ""
  YAL_griffenheim_situation:0 "그리펜하임의 상황이 바뀌었다."
- YAL_military_support_tooltip:0 "This will §Gincrease§! §Ysupport§! from the §Rmilitary§!.\n"
- YAL_military_support_decr_tooltip:0 "This will §Rdecrease§! §Ysupport§! from the §Rmilitary§!.\n"
- YAL_military_support_available_tooltip:0 "This option is available to you due to high §Rmilitary§! §Ysupport§!.\n"
+ YAL_military_support_tooltip:0 "이것은 §R군대§!의 §Y지지§!를 §G증가§!시킬 것입니다.\n"
+ YAL_military_support_decr_tooltip:0 "이것은 §R군대§!의 §Y지지§!를 §R감소§!시킬 것입니다.\n"
+ YAL_military_support_available_tooltip:0 "이 선택은 높은 §R군대§! §Y지지§!로 선택할 수 있습니다.\n"
  YAL_worker_support_tooltip:0 "This will §Gincrease§! §Ysupport§! from the §Yworkers§!.\n"
  YAL_worker_support_decr_tooltip:0 "This will §Rdecrease§! §Ysupport§! from the §Yworkers§!.\n"
  YAL_worker_support_available_tooltip:0 "This option is available to you due to high §Yworker§! §Ysupport§!.\n"
@@ -2094,8 +2094,8 @@
  YAL_intellectuals_win:0 "The §Cintellectuals§! have demoralised the enemy leadership to the point where they may be eager to surrender!"
  YAL_military_win:0 "The remnants of the government §Rmilitary§! seem unwilling to fight, perhaps they can deal the final blow?"
  YAL_normal_win:0 "We are exhausted and we have stretched our §Ysupport§! to the limit, the final battle begins."
- YAL_grover_tree:0 "Project Auferstehung picked."
- YAL_boreas_tree:0 "Project Weihe picked."
+ YAL_grover_tree:0 "부활 계획이 선택되었다."
+ YAL_boreas_tree:0 "신성 계획이 선택되었다."
  YAL_project_resurrection:0 "Embark on a journey towards a perfect griffon. Maybe the answer lies in the past..."
  YAL_project_sanctification:0 "Embark on a journey towards a perfect griffon. Maybe the answer lies in the beyond..."
  YAL_herzland_cores:0 "Gain cores on all of Herzland."
@@ -2106,34 +2106,34 @@
  YAL_vassal_warning_tooltip:0 "This option will prevent you from pursuing an independent path. If the request is denied, you will be left with the other two options to choose from."
  
 ##Flags
- YAL_fascist_universities:0 "Aligned with Bruma and Gamia."
- YAL_central_unis:0 "Aligned with the Central universities."
- YAL_cyrusval:0 "Aligned with Cyrusval."
- YAL_revolution_success:0 "The revolution succeeded!"
- YAL_technocracy_chosen:0 "Went with Science!"
- YAL_new_spark_chosen:0 "Went with Harmony!"
- friendly_archon:0 "Friends with the Archon."
+ YAL_fascist_universities:0 "브루마와 가미아와 동맹을 맺다."
+ YAL_central_unis:0 "중앙 대학들과 동맹을 맺다."
+ YAL_cyrusval:0 "사이러스발과 동맹을 맺다."
+ YAL_revolution_success:0 "혁명이 성공하다!"
+ YAL_technocracy_chosen:0 "과학과 함께 하다!"
+ YAL_new_spark_chosen:0 "조화와 함께 하다!"
+ friendly_archon:0 "집정관의 친구들이다."
  
- YAL_figurehead_chosen:0 "A figurehead is appointed to calm the griffons"
- YAL_reformer_chosen:0 "A reformer is appointed to calm the griffons"
+ YAL_figurehead_chosen:0 "그리폰들을 진정시키기 위해 최고위자가 임명되었다"
+ YAL_reformer_chosen:0 "그리폰들을 진정시키기 위해 개혁가가 임명되었다"
  
 ##Leaders
- YAL_mikusian_desc:0 "§YBorn§!: 21st of October, 964 in Yale\n\n§YFunction§!: Rector Magnificus of Yale University and Praeses of the Academic Council\n\n§YBiography§!: Born into a middle class family in the old capital of the Yale Rectorate, Mikusian lived through the turbulent times of the Republican revolution as a teenager. Although many students of the Yalish universities fought for the various sides of the revolution, the country was spared the ravaging effects of war, with the Rectorate only choosing sides at the final moments of the conflict. The revolution left an impact on young Mikusian, who heard about the destruction war could cause via radio and newspaper.\n\nLike many young Yalish griffons, Mikusian grew up with tales of the country's enigmatic founder, Borean Wiedergreiff and the young griffon devoured all of the famed polymath's treatises during the revolution. By the time he enrolled for philosophy in Yale's university, Mikusian was a firm believer in Borean's rationalist philosophy of achieving peace through scientific advancement. Living and studying in the hallowed halls of Yale only strengthened the student's believes and by his second year, he decided he wanted to be a scientist and teach for himself.\n\nAnd so he did, finishing his studies without delay and writing his dissertation on the works of his idol. "Pax Scientiam: A dream worth pursuing?" was a smash hit across the academic community, securing Mikusian a teaching position. The scientist proved to be a popular lecturer and sometimes griffons had to sit on the lecture hall's stairs if they wanted to attend his vivid explanations of history, philosophy and discussions on the future of Griffonia. A final twist came in 1001, with the elections for the position of Rector. Urged by his students to stand, Mikusian won in a landslide, becoming the youngest Rector of Yale since Borean Wiedergreiff himself.\n\nNow the head of state and government of Yale, Mikusian has overseen the slow decay of the Rectorate alongside the rest of the Griffionian Empire. But the griffon has never stopped dreaming of a different future.\n\n§YPortrait By§!: Scroup"
- YAL_prelate_desc:0 "§YBorn§!: 15th of June, 961 in Crona Province\n\n§YFunction§!: Prelate of Yale and Member of the Academic Council\n\n§YBiography§!: Michael Eisenklau was born near the Imperial city of Crona as the seventh chick in a family of peasants. The family barely scraped by and things spiralled out of control after a failed harvest in 978 spiralled Michael's village into poverty. After it was clear the local authorities refused to help, the peasants, including Michael's parents and older siblings decided to go and take their due from Crona itself. Unbeknownst to them, they were part of a massive movement which would soon fracture the Griffonian continent. Michael would never see any of them again.\n\nLeft alone to care for his younger siblings, the peasant's son turned to the only place he knew could help; the Temple. There the young griffon, weaker in body than his sturdy older brothers, managed to impress the Arcturian priest by challenging him to a duel for a chance at earning a wage. Michael lost that duel but earned himself a job, to which he tenaciously devoted himself. As the fighting raged around the Empire, sometimes coming precariously close, Michael learned the values of the different aspects of Arcturius. A Smith who can burn away impure elements through war and forge together what is fractured. A Warrior loyal, honourable and unflinching in conflict. And a leader willing to sacrifice himself to a greater cause.\n\nMichael had taken these lessons to heart long before he had completed his formal education and as the Empire licked its wounds after the revolution, he began his career in the Hierarchy of Arcturius. First as a priest to one of the many towns in the Herzland who had lost their religious leader in the fighting. Later on, as a clerk for Archon Proteus III, where he got a great deal of respect for the Warrior-Priest. Although Proteus sometimes joked about the griffon's 'puny stature', the Archon was never mean to the former peasant. And when the position of Prelate of Yale opened up in 1005, Proteus nominated Michael himself, hoping that the commoner might be able to help heal the divides in Yalish society. Prelate Michael set to the task with great enthusiasm, reinvigorating the Triarchy in Yale with fiery speeches, charity and the help of the Sword and Shield movement, earning him a spot at the table, shifting the balance of Yalish politics in his favour.\n\n§YPortrait By§!: Vasily"
- YAL_georgina_desc:0 " §YBorn§!: 12th of February, 985 in Greenback\n\n§YPosition:§!: Leader of the New Sparkle Movement\n\n§YBiography§!: The bustling city of Greenback supports a burgeoning middle class. Georgina Fredrika Schüler was born into one such family. Her father a mechanic and her mother a clerk. Georgina's parents were gentle griffons, wary of violence after the failed revolution of which she only knew from stories. Like many in Yale, the Schüler family was looking for new answers outside. They found theirs in Equestria and harmony instead of some radical movement. Georgina was raised, unlike many griffons, to see the good in everybeing, to be optimistic and to strife for change from within. The day Georgina passed the entrance test for Yale University was the proudest day of her parents' lives, as she was the first in the family to achieve this. When she set off to the other side of the country, she promised she'd not lose her heart.\n\nYale university was fascinating to Georgina, but also in a way it felt stagnant. As if it was in a different world, out of touch with reality. The teachers were fine, especially Rector Mikusian, but the curriculum felt outdated and contradicted government. For all the talk about science and philosophy, Yale's government felt like it was impeding progress and disregarding the common Yalish griffon. There was no harmony.\n\nSo, Georgina, optimistically, began to agitate for change, for a New Spark. First with a small group of friends in private. Then in Yale's university, later around all of Yale in public. The Yalish government carried on with its grand scientific visions, unbothered by the growing movement in-and-outside the universities. Democracy, a constitution and self-determination were the demands which resonated louder and louder through the streets of the Rectorate. And after a war where many griffons had to make the ultimate sacrifice, these demands could no longer be ignored.\n\nRector Mikusian called his own student to his side and asked her to lead to preserve harmony. The New Sparkle had started a fire.\n\n§YPortrait By§!: Scroup" 
- YAL_karl_legreif_desc:0 "§YBorn§!: 2nd of May, 959 in Zeltstadt, Longsword\n\n§YOccupation§!: Chairgriffon of the Heartland Trade Union Federation\n\n§YBiography§!: Born to immigrants from Longsword, a region whose fortunes would decay rapidly over the course of his life, Karl Legreif had a difficult childhood. He was bullied by the Yalish children for his background, but Karl would not be walked over easily. The griffon fought his bullies at every opportunity. The bullies of other griffons too. Sometimes he'd win his battles as well.\n\nKarl turned out to be quite capable as an artisan and learned the trade of wood turner. He had just joined the Trade Union when the Republican Revolution ravaged Griffonia. For a while, it seemed the biggest bullies of all the continent would finally be defeated and Legreif enthusiastically struck at every opportunity. It was not to be, however, and the revolutionaries fled north, leaving Karl and the Yalish trade union movement disillusioned.\n\nThe years went by and the immigrant from Longsword became ever more important in the union movement. Increasingly, the working class organised and fought for their rights. This trend did not go unnoticed by the professors and students of Cyrusval University, who soon provided the theory for the Union's practice. From them, Karl learned that no wage agreement with the capitalists could ever give the workers their due and that only a shift in power could forge unity and brotherhood.\n\nThe collapse of the Griffonian Empire showed the cracks in Yalish society and increased class consciousness in the Rectorate as divisions between the learned and capitalist class and the workers became ever more clear. If threatened, like in Longsword, the ruling class would not be above allying with racist maniacs to cling on to power. Instead of turning to fascists, Rector Mikusian reached out to Cyrusval to bridge the gap between classes. But there they sensed a new age in the making. So, instead, the red university successfully allied with the Unions to bring revolution to Yale and beyond.\n\nWhen the leader of the students turned out to have gone mad, however, something had to be done. So, Karl Legreif, now leading all trade union federations in the Heartlands, took power into his own claws, determined to ensure that no being would be bullied again.\n\n§YPortrait By§!: anyazen"
- YAL_erich_muhschnabel_desc:0 "§YBorn§!: 27th of November, 976 in Cyrusval\n\n§YTitle:§!: That won't be necessary, comrade.\n\n§YBiography§!: Erich Mühschnabel never had to conquer his bread. As the second son of a wealthy industrialist, Erich could have spent the rest of his life in luxury. His childhood was spent in bliss, as Erich received the best tutors money could buy. He turned out to be bright and inquisitive, and would have been a worthy successor to the family business, were it not for his older sister. Irene Mühschnabel was just a tad bit more cunning than her brother, always managing to garner her parents' favour over Erich.\n\nWhen the time came, Irene enrolled in Middenheim University, while Erich went to his own Cyrusval. The difference could not be much greater. Middenheim's grand halls taught classical economics and statecraft in a tranquil environment, a walled garden away from the hustle and bustle of the world. Cyrusval was a rowdy place of loud students, of debating clubs and radical teachers. The home of Professor Willie Scherler, an inspiring socialist who would later lead the fight for a better world in the woods of Angriver. So, as Irene studies the intricacies of profit maximalisation, Erich was taught the inherent contradictions of the capitalist mode of production.\n\nBoth siblings graduated cum laude, with Irene being allowed a prominent position in the family business, while Erich was cast out of the family as a failure. Instead of business, Erich would get a teaching position in social science, where he contributed to the ever-radicalising faculty. A sense of urgency and an air of change filled the red halls of Cyrusval as the Empire faltered and to everygriffon's surprise, the students and teachers elected Mühschnabel, the most radical candidate, as rector in the 1007 elections. When the crisis in Griffenheim escalated, Erich managed to convince national government that he would be able to mend the rifts in Yalish society. Instead, he would use the new power to prepare for a revolution.\n\nThe Mühschnabel estate was one of the first buildings to be set aflame in the ensuing violence.\n\n§YPortrait By§!: anyazen" 
+ YAL_mikusian_desc:0 "§Y출생§!: 21st of October, 964 in Yale\n\n§Y직책§!: Rector Magnificus of Yale University and Praeses of the Academic Council\n\n§Y일대기§!: Born into a middle class family in the old capital of the Yale Rectorate, Mikusian lived through the turbulent times of the Republican revolution as a teenager. Although many students of the Yalish universities fought for the various sides of the revolution, the country was spared the ravaging effects of war, with the Rectorate only choosing sides at the final moments of the conflict. The revolution left an impact on young Mikusian, who heard about the destruction war could cause via radio and newspaper.\n\nLike many young Yalish griffons, Mikusian grew up with tales of the country's enigmatic founder, Borean Wiedergreiff and the young griffon devoured all of the famed polymath's treatises during the revolution. By the time he enrolled for philosophy in Yale's university, Mikusian was a firm believer in Borean's rationalist philosophy of achieving peace through scientific advancement. Living and studying in the hallowed halls of Yale only strengthened the student's believes and by his second year, he decided he wanted to be a scientist and teach for himself.\n\nAnd so he did, finishing his studies without delay and writing his dissertation on the works of his idol. "Pax Scientiam: A dream worth pursuing?" was a smash hit across the academic community, securing Mikusian a teaching position. The scientist proved to be a popular lecturer and sometimes griffons had to sit on the lecture hall's stairs if they wanted to attend his vivid explanations of history, philosophy and discussions on the future of Griffonia. A final twist came in 1001, with the elections for the position of Rector. Urged by his students to stand, Mikusian won in a landslide, becoming the youngest Rector of Yale since Borean Wiedergreiff himself.\n\nNow the head of state and government of Yale, Mikusian has overseen the slow decay of the Rectorate alongside the rest of the Griffionian Empire. But the griffon has never stopped dreaming of a different future.\n\n§Y초상화 제작§!: Scroup"
+ YAL_prelate_desc:0 "§Y출생§!: 15th of June, 961 in Crona Province\n\n§Y직책§!: Prelate of Yale and Member of the Academic Council\n\n§Y일대기§!: Michael Eisenklau was born near the Imperial city of Crona as the seventh chick in a family of peasants. The family barely scraped by and things spiralled out of control after a failed harvest in 978 spiralled Michael's village into poverty. After it was clear the local authorities refused to help, the peasants, including Michael's parents and older siblings decided to go and take their due from Crona itself. Unbeknownst to them, they were part of a massive movement which would soon fracture the Griffonian continent. Michael would never see any of them again.\n\nLeft alone to care for his younger siblings, the peasant's son turned to the only place he knew could help; the Temple. There the young griffon, weaker in body than his sturdy older brothers, managed to impress the Arcturian priest by challenging him to a duel for a chance at earning a wage. Michael lost that duel but earned himself a job, to which he tenaciously devoted himself. As the fighting raged around the Empire, sometimes coming precariously close, Michael learned the values of the different aspects of Arcturius. A Smith who can burn away impure elements through war and forge together what is fractured. A Warrior loyal, honourable and unflinching in conflict. And a leader willing to sacrifice himself to a greater cause.\n\nMichael had taken these lessons to heart long before he had completed his formal education and as the Empire licked its wounds after the revolution, he began his career in the Hierarchy of Arcturius. First as a priest to one of the many towns in the Herzland who had lost their religious leader in the fighting. Later on, as a clerk for Archon Proteus III, where he got a great deal of respect for the Warrior-Priest. Although Proteus sometimes joked about the griffon's 'puny stature', the Archon was never mean to the former peasant. And when the position of Prelate of Yale opened up in 1005, Proteus nominated Michael himself, hoping that the commoner might be able to help heal the divides in Yalish society. Prelate Michael set to the task with great enthusiasm, reinvigorating the Triarchy in Yale with fiery speeches, charity and the help of the Sword and Shield movement, earning him a spot at the table, shifting the balance of Yalish politics in his favour.\n\n§Y초상화 제작§!: Vasily"
+ YAL_georgina_desc:0 " §Y출생§!: 12th of February, 985 in Greenback\n\n§Y직책:§!: Leader of the New Sparkle Movement\n\n§Y일대기§!: The bustling city of Greenback supports a burgeoning middle class. Georgina Fredrika Schüler was born into one such family. Her father a mechanic and her mother a clerk. Georgina's parents were gentle griffons, wary of violence after the failed revolution of which she only knew from stories. Like many in Yale, the Schüler family was looking for new answers outside. They found theirs in Equestria and harmony instead of some radical movement. Georgina was raised, unlike many griffons, to see the good in everybeing, to be optimistic and to strife for change from within. The day Georgina passed the entrance test for Yale University was the proudest day of her parents' lives, as she was the first in the family to achieve this. When she set off to the other side of the country, she promised she'd not lose her heart.\n\nYale university was fascinating to Georgina, but also in a way it felt stagnant. As if it was in a different world, out of touch with reality. The teachers were fine, especially Rector Mikusian, but the curriculum felt outdated and contradicted government. For all the talk about science and philosophy, Yale's government felt like it was impeding progress and disregarding the common Yalish griffon. There was no harmony.\n\nSo, Georgina, optimistically, began to agitate for change, for a New Spark. First with a small group of friends in private. Then in Yale's university, later around all of Yale in public. The Yalish government carried on with its grand scientific visions, unbothered by the growing movement in-and-outside the universities. Democracy, a constitution and self-determination were the demands which resonated louder and louder through the streets of the Rectorate. And after a war where many griffons had to make the ultimate sacrifice, these demands could no longer be ignored.\n\nRector Mikusian called his own student to his side and asked her to lead to preserve harmony. The New Sparkle had started a fire.\n\n§Y초상화 제작§!: Scroup" 
+ YAL_karl_legreif_desc:0 "§Y출생§!: 2nd of May, 959 in Zeltstadt, Longsword\n\n§Y직업§!: Chairgriffon of the Heartland Trade Union Federation\n\n§Y일대기§!: Born to immigrants from Longsword, a region whose fortunes would decay rapidly over the course of his life, Karl Legreif had a difficult childhood. He was bullied by the Yalish children for his background, but Karl would not be walked over easily. The griffon fought his bullies at every opportunity. The bullies of other griffons too. Sometimes he'd win his battles as well.\n\nKarl turned out to be quite capable as an artisan and learned the trade of wood turner. He had just joined the Trade Union when the Republican Revolution ravaged Griffonia. For a while, it seemed the biggest bullies of all the continent would finally be defeated and Legreif enthusiastically struck at every opportunity. It was not to be, however, and the revolutionaries fled north, leaving Karl and the Yalish trade union movement disillusioned.\n\nThe years went by and the immigrant from Longsword became ever more important in the union movement. Increasingly, the working class organised and fought for their rights. This trend did not go unnoticed by the professors and students of Cyrusval University, who soon provided the theory for the Union's practice. From them, Karl learned that no wage agreement with the capitalists could ever give the workers their due and that only a shift in power could forge unity and brotherhood.\n\nThe collapse of the Griffonian Empire showed the cracks in Yalish society and increased class consciousness in the Rectorate as divisions between the learned and capitalist class and the workers became ever more clear. If threatened, like in Longsword, the ruling class would not be above allying with racist maniacs to cling on to power. Instead of turning to fascists, Rector Mikusian reached out to Cyrusval to bridge the gap between classes. But there they sensed a new age in the making. So, instead, the red university successfully allied with the Unions to bring revolution to Yale and beyond.\n\nWhen the leader of the students turned out to have gone mad, however, something had to be done. So, Karl Legreif, now leading all trade union federations in the Heartlands, took power into his own claws, determined to ensure that no being would be bullied again.\n\n§Y초상화 제작§!: anyazen"
+ YAL_erich_muhschnabel_desc:0 "§Y출생§!: 27th of November, 976 in Cyrusval\n\n§Y표제:§!: That won't be necessary, comrade.\n\n§Y일대기§!: Erich Mühschnabel never had to conquer his bread. As the second son of a wealthy industrialist, Erich could have spent the rest of his life in luxury. His childhood was spent in bliss, as Erich received the best tutors money could buy. He turned out to be bright and inquisitive, and would have been a worthy successor to the family business, were it not for his older sister. Irene Mühschnabel was just a tad bit more cunning than her brother, always managing to garner her parents' favour over Erich.\n\nWhen the time came, Irene enrolled in Middenheim University, while Erich went to his own Cyrusval. The difference could not be much greater. Middenheim's grand halls taught classical economics and statecraft in a tranquil environment, a walled garden away from the hustle and bustle of the world. Cyrusval was a rowdy place of loud students, of debating clubs and radical teachers. The home of Professor Willie Scherler, an inspiring socialist who would later lead the fight for a better world in the woods of Angriver. So, as Irene studies the intricacies of profit maximalisation, Erich was taught the inherent contradictions of the capitalist mode of production.\n\nBoth siblings graduated cum laude, with Irene being allowed a prominent position in the family business, while Erich was cast out of the family as a failure. Instead of business, Erich would get a teaching position in social science, where he contributed to the ever-radicalising faculty. A sense of urgency and an air of change filled the red halls of Cyrusval as the Empire faltered and to everygriffon's surprise, the students and teachers elected Mühschnabel, the most radical candidate, as rector in the 1007 elections. When the crisis in Griffenheim escalated, Erich managed to convince national government that he would be able to mend the rifts in Yalish society. Instead, he would use the new power to prepare for a revolution.\n\nThe Mühschnabel estate was one of the first buildings to be set aflame in the ensuing violence.\n\n§Y초상화 제작§!: anyazen" 
  YAL_trade_union_congress_desc:0 ""
  YAL_gerhard_silverbeak:0 "Gerhard Silverbeak"
  YAL_gerhard_silverbeak_desc:0 "Gerhard Silverbeak was born in 929 in the province of Osnabeak in the Strawberry Duchy. At the age of 18, he joined the prestigious Griffenheim Imperial Military Academy, completing an education as an engineer. For the next 45 years of his life, he would serve with distinction, proving especially resilient during the Republican uprisings where his defensive doctrines proved the undoing of many Republican offensives. In 992, he retired from the Imperial Army with the rank of major general. Since then, he has joined Löwburg Academy as a professor, being an adamant proponent of the importance of defensive doctrine within modern warfare."
  YAL_heinz_featherhoff_desc:0 "Heinz Featherhoff was born in 941 in the town of Asselt in Greifenmarschen. Born to a local merchant of the petite bourgeois class, Featherhoff's father managed to secure his son a post to Löwburg Academy at the age of 18, where he studied as an infantry officer before joining the Imperial Army. During his 30 years of service, Featherhoff fought in the Republican Uprising, gaining the rank of Lieutenant Colonel. After his tenure in the army, he rejoined his alma mater as a professor. Recently, he has shown an affinity towards the radical Red Guard, and is seen as the only senior staff who openly supports their views."
  YAL_grover_desc:0 "Grover II was the second ruler of the Griffonian Empire, ascending the throne in 785 ALB. By the time of his ascension Grover II was already an accomplished general and he commanded many of his father's forces when he unified the griffon states. The start of his reign was characterised by an Aquileian insurrection, which the Emperor's armies crushed before rebellion could spread throughout the empire. It is said that in his anger, Grover II killed the Discret King of Aquileia himself and ordered Aquila burned. To keep the Discrets from seeking revenge, he married Giselda Discret.\n\nThe Emperor decided to entrust the Idol of Boreas, the Empire's most sacred relic, to his Brother Guto, who he made King of Griffonstone, starting a period of early stability. In 799 the Emperor started his conquest south, adding Sicameon and Asterion to the Empire. Grover II was still not content with his domain, fearing his eastern frontier with the ponies of the Riverlands. Therefore he sanctioned the Knights of Hellquill to crusade against them. Internal squabbles and economic woes would delay any large scale efforts to attack the riverponies for 40 years. It is widely believed that Grover III and Giselda were the ones constantly fixing the bad domestic policies of their father and husband.\n\nIn 852 the ageing Emperor decided to finally press forward. He flew east at the head of a massive host of knights and soldiers, eager to finish his conquest of the Griffonian continent. Battle after battle was fought and Grover himself was almost invincible in his enchanted armour, the terror of his foes. That was, until the Nimbusians rallied to save what was left of River City. The Strategos of the pegasi force had lured the griffons into a chokepoint. There, the unthinkable happened. The towering griffon was in the thick of the battle, leading his most faithful knights to punch a hole in the unflinching Nimbusian battleline, when a startled young hoplite threw his spear at him instead of staying in formation. Grover was hit through the eyes and died instantly, which routed his forces.\n\nAnd now, he has returned to Griffonia to finish what he started."
  YAL_herald_desc:0 ""Who I was matters not. I am the Herald of Boreas now. I hear his commands and serve him. I spread his word to all griffons and love all his children like he does. I will do away with the lies and the false prophets who came before. I will defend his teachings and his honour against those who refuse to listen. I will bring low walls and build bridges. I will wear the sword and the shield. I will create and I will destroy. In the name of Boreas, to whom we owe worship.""
- YAL_Peter_Zuckergreif_desc:0 "§YBorn§!: 21th of December, 978 in Greenback\n\n§YRank§!: Generaloberst in Training\n\n§YBiography§!: Peter Zuckergreif, born in 978 in the capital city of Greenback, had always a love of cars, and wished to have one for himself. Sadly for him he was born in a rather poor family, so the best he could do was make believe with his friend. Everything changed, however, when he saw a sight which would stay with him for the rest of his life: a Panzer. From that day on, his one goal was to one day drive one of these beast, so he begged his parents to be send to Klaumar, a Military Academy who was famous for having 'strange' method of warfare in their lectures.\n\nWith hard work, much studying and some financial help from a professor at Klaumar, Peter managed to become a student in 999, and quickly showed his teachers what knowledge he had. Even in his first year he managed to come up with impressive theories on how to deploy tanks, developing the many roles of armoured vehicles in warfare. Sadly for him, driving a tank was not possible for an officer, so Peter focused on revolutionizing the usage of tanks in the Imperial Army. In his last year at Klaumar in 1003 he met his pupil Apfel von Kuchen, which ended in a close friendship between the two, although a few griffons insist that there was more to it than they would let on.\n\nAfter Zuckergreif graduated, he enlisted directly into the Yalish Army, and too his surprise he became a staff officer of the major general Gerhard Silverbeak, who, while technically retired, was still in command of Yale's field army. Gerhard took it into his claws to train Peter to become his successor, and while they both have very different ideas of how modern warfare will look, resulting in hour-long debates, Silverbeak still decided to train Zuckergreif. The old Generalmajor even got Apfel von Kuchen a command position."
- YAL_Sabine_Bucher_desc:0 "§YBorn§!: 1st of February, 945 in Appenage\n\n§YRank§!: Generalleutnant\n\n§YBiography§!: The live of Sabine Bucher as a young chick was a hard one, with her family being poor farmers in the region of Appengen. She watched most of her siblings die, either because of sickness or in one case, of starvation. At the young age of 14 she left her home quietly and went on a journey to the Imperial Crownlands, where she enlisted into the army under a false identity. After her training was done she was sent to Yale for training and she would end up studying in the Academy of Löwburg thanks to a recommendation from her superior. Sabine's great memory served her well, but the training was hard for the peasant griffon. In the end she graduated, but just barely, in 963.\n\nDuring the next 10 years, she quietly rose up the ladder in the Imperial Army. But then, as a shock for everygriff, the Republican Revolution broke out. While she herself could understand the struggle of the griffons, she could not betray her newfound friends, and so she whipped the Yalish military, which was on the verge of mutiny, back into shape, commanding many more troops then intended. The Rectorate in Yale rewarded her valorous action with nothing, wishing to remain neutral in the conflict. In spite of orders, Sabine still led her forces over the Yalish border to fight the Republicans, inspire nationalist fervour in Yale.\n\nWhen the Empire was re-established and the republicans driven out, the Rectors finally acknowledged Bucher. For her bravery she was recommended to be promoted to Generalfeldmarshall, but she declined, insisting she only did her duty. Sabine would spent the rest of her years in Yale, where she has become a famous Griffon for her action in the war and her humble refusal of a promotion."
- YAL_Apfel_von_Kuchen_desc:0 "§YBorn§!: 12th of March, 981 in Yale\n\n§YRank§!: Fähnrich\n\n§YBiography§!: Apfel von Kuchen is a young lesser noble chick from the city of Yale, in accordance with her parents' wishes, enlisted in the University of Middenheim in 1001 to study economics. It did not take long for her to realise that this study was not for her and she decided on a radically different path. After convincing one of her professors to lie to her parents about her status, she enrolled in the Klaumar Academy in 1003, and quickly became a star student of the institution, stealing some fame from her senior on the Academy and prodigy himself, Peter Zuckergreif.\n\nDuring her time in Klaumar it became clear to her that she wanted to stay with the Yalish Army. Eventually she made friends with her senior and Academy rival Peter Zuckergreif, although the two still don't agree on the methods of warfare. After Peter graduated and left Klaumar there were few students who could keep up with Apfel.\n\nIn 1005, while being still a student at Klaumar, she got invited into the Imperial Army, to join as an Fähnrich, and while she has technically not finished her schooling yet a chronic shortage of staff officers and a few good words from Peter, got Von Kuchen her position. Thus, with her parents still in the dark about her choices in life, the newly minted officer knew her future."
- YAL_Melinda_Rotkreuz_desc:0 "§YBorn§!: 30th of April, 980 in Asselt\n\n§YRank§!: Übersicht-Kamerad\n\n§YBiography§!: Even at a young age Melinda Rotkreuz struggled with day to day life, as she suffered anger management problems. Countless times she started fights with her teachers, who only put up with her antics because of her surprising calculated intellect and her merchant parents providing financial incentives.\n\nHoping that Yale's famous Universities would tame Melinda's anger somewhat, her parents sent her to study at Cyrusval on her 18th Birthday, oblivious to the university's radical professors. There, under the influence of Professors like Erich Mühschnabel, she began to direct her hatred on the capitalist system, even going so far as to despise her parents for abusing their wealth to buy Melinda favours. She was one of the first Griffons to join Erich in his plan for revolution, and she helped planning and even acquired weapons. Surprisingly, during the many battles over Yale, like the siege of Gamia and Bruma, she showed her talents of leadership, leading her comrades into battle and pushing them on with her rage.\n\nAs the flames consumed the symbols of the old order and the red and black banners of revolution fluttered high all over Yale, Melinda was still not satisfied. Even though the military hierarchy had no place in the future of Yale, there was still a need for those who could lead the griffons into battle. Heinz Featherhoff, now in charge of the defence of the Communes, invented a new role:  Übersicht-Kamerad. And the first Übersicht-Kamerad to be named was no one else then Melinda Rotkreuz, who took on the position with honour."
- YAL_Wurst_Cervelat_desc:0 "§YBorn§!: 4th of February, 967 in Greenback\n\n§YPosition!: Party leader of NDPH\n\n§YBiography§!: Cervelat loves to eat."
+ YAL_Peter_Zuckergreif_desc:0 "§Y출생§!: 21th of December, 978 in Greenback\n\n§Y계급§!: Generaloberst in Training\n\n§Y일대기§!: Peter Zuckergreif, born in 978 in the capital city of Greenback, had always a love of cars, and wished to have one for himself. Sadly for him he was born in a rather poor family, so the best he could do was make believe with his friend. Everything changed, however, when he saw a sight which would stay with him for the rest of his life: a Panzer. From that day on, his one goal was to one day drive one of these beast, so he begged his parents to be send to Klaumar, a Military Academy who was famous for having 'strange' method of warfare in their lectures.\n\nWith hard work, much studying and some financial help from a professor at Klaumar, Peter managed to become a student in 999, and quickly showed his teachers what knowledge he had. Even in his first year he managed to come up with impressive theories on how to deploy tanks, developing the many roles of armoured vehicles in warfare. Sadly for him, driving a tank was not possible for an officer, so Peter focused on revolutionizing the usage of tanks in the Imperial Army. In his last year at Klaumar in 1003 he met his pupil Apfel von Kuchen, which ended in a close friendship between the two, although a few griffons insist that there was more to it than they would let on.\n\nAfter Zuckergreif graduated, he enlisted directly into the Yalish Army, and too his surprise he became a staff officer of the major general Gerhard Silverbeak, who, while technically retired, was still in command of Yale's field army. Gerhard took it into his claws to train Peter to become his successor, and while they both have very different ideas of how modern warfare will look, resulting in hour-long debates, Silverbeak still decided to train Zuckergreif. The old Generalmajor even got Apfel von Kuchen a command position."
+ YAL_Sabine_Bucher_desc:0 "§Y출생§!: 1st of February, 945 in Appenage\n\n§Y계급§!: Generalleutnant\n\n§Y일대기§!: The live of Sabine Bucher as a young chick was a hard one, with her family being poor farmers in the region of Appengen. She watched most of her siblings die, either because of sickness or in one case, of starvation. At the young age of 14 she left her home quietly and went on a journey to the Imperial Crownlands, where she enlisted into the army under a false identity. After her training was done she was sent to Yale for training and she would end up studying in the Academy of Löwburg thanks to a recommendation from her superior. Sabine's great memory served her well, but the training was hard for the peasant griffon. In the end she graduated, but just barely, in 963.\n\nDuring the next 10 years, she quietly rose up the ladder in the Imperial Army. But then, as a shock for everygriff, the Republican Revolution broke out. While she herself could understand the struggle of the griffons, she could not betray her newfound friends, and so she whipped the Yalish military, which was on the verge of mutiny, back into shape, commanding many more troops then intended. The Rectorate in Yale rewarded her valorous action with nothing, wishing to remain neutral in the conflict. In spite of orders, Sabine still led her forces over the Yalish border to fight the Republicans, inspire nationalist fervour in Yale.\n\nWhen the Empire was re-established and the republicans driven out, the Rectors finally acknowledged Bucher. For her bravery she was recommended to be promoted to Generalfeldmarshall, but she declined, insisting she only did her duty. Sabine would spent the rest of her years in Yale, where she has become a famous Griffon for her action in the war and her humble refusal of a promotion."
+ YAL_Apfel_von_Kuchen_desc:0 "§Y출생§!: 12th of March, 981 in Yale\n\n§Y계급§!: Fähnrich\n\n§Y일대기§!: Apfel von Kuchen is a young lesser noble chick from the city of Yale, in accordance with her parents' wishes, enlisted in the University of Middenheim in 1001 to study economics. It did not take long for her to realise that this study was not for her and she decided on a radically different path. After convincing one of her professors to lie to her parents about her status, she enrolled in the Klaumar Academy in 1003, and quickly became a star student of the institution, stealing some fame from her senior on the Academy and prodigy himself, Peter Zuckergreif.\n\nDuring her time in Klaumar it became clear to her that she wanted to stay with the Yalish Army. Eventually she made friends with her senior and Academy rival Peter Zuckergreif, although the two still don't agree on the methods of warfare. After Peter graduated and left Klaumar there were few students who could keep up with Apfel.\n\nIn 1005, while being still a student at Klaumar, she got invited into the Imperial Army, to join as an Fähnrich, and while she has technically not finished her schooling yet a chronic shortage of staff officers and a few good words from Peter, got Von Kuchen her position. Thus, with her parents still in the dark about her choices in life, the newly minted officer knew her future."
+ YAL_Melinda_Rotkreuz_desc:0 "§Y출생§!: 30th of April, 980 in Asselt\n\n§Y계급§!: Übersicht-Kamerad\n\n§Y일대기§!: Even at a young age Melinda Rotkreuz struggled with day to day life, as she suffered anger management problems. Countless times she started fights with her teachers, who only put up with her antics because of her surprising calculated intellect and her merchant parents providing financial incentives.\n\nHoping that Yale's famous Universities would tame Melinda's anger somewhat, her parents sent her to study at Cyrusval on her 18th Birthday, oblivious to the university's radical professors. There, under the influence of Professors like Erich Mühschnabel, she began to direct her hatred on the capitalist system, even going so far as to despise her parents for abusing their wealth to buy Melinda favours. She was one of the first Griffons to join Erich in his plan for revolution, and she helped planning and even acquired weapons. Surprisingly, during the many battles over Yale, like the siege of Gamia and Bruma, she showed her talents of leadership, leading her comrades into battle and pushing them on with her rage.\n\nAs the flames consumed the symbols of the old order and the red and black banners of revolution fluttered high all over Yale, Melinda was still not satisfied. Even though the military hierarchy had no place in the future of Yale, there was still a need for those who could lead the griffons into battle. Heinz Featherhoff, now in charge of the defence of the Communes, invented a new role:  Übersicht-Kamerad. And the first Übersicht-Kamerad to be named was no one else then Melinda Rotkreuz, who took on the position with honour."
+ YAL_Wurst_Cervelat_desc:0 "§Y출생§!: 4th of February, 967 in Greenback\n\n§Y직책§!: Party leader of NDPH\n\n§Y일대기§!: Cervelat loves to eat."
 
  YAL_tank_development:0 "Tank Development Programs"
  YAL_tank_development_desc:0 "We must remain on the cutting-edge of armoured warfare if we are to survive. New development programs will allow our tanks to outperform all others."
@@ -2196,10 +2196,10 @@
  YAL_Bishop:0 "Bishop Gröber"
  
 #Custom manufacturers
- YAL_werkzeugkiste_manufacturer:0 "Toolbox Manufacturer"
- YAL_infantry_equipment_designer:0 "Infantry Equipment Designer"
- YAL_advisor_loewenherz:0 "War Advocate"
- YAL_military_theorist_better:0 "Military Genius"
+ YAL_werkzeugkiste_manufacturer:0 "공구 제조자"
+ YAL_infantry_equipment_designer:0 "보병 장비 디자이너"
+ YAL_advisor_loewenherz:0 "주전론자"
+ YAL_military_theorist_better:0 "천재 군인"
  
 #Custom tooltips
  YAL_research_focus_bonus:0 "Unlocks decisions allowing you to gain §Yresearch bonuses§!.\n"
@@ -2382,7 +2382,7 @@
  YAL_crown_the_knight_emperor:0 "Crown the Knight-Emperor"
  YAL_crown_the_knight_emperor_desc:0 "Grover VI has learned much under our tutelage. Thanks to Archon Proteus' moral guidance, the young Grover has matured into a fierce warrior, refined gentlegriff, and faithful servant of the Gods. At long last, it is time for his coronation. All hail the Knight-Emperor!"
 
- GROVER_FACTION:0 "The Kaiserliche Pakt"
+ GROVER_FACTION:0 "제국 조약"
  black_international_faction:0 "The Black International"
  
  YAL_rebuilding_effort:0 "Reconstruction"
