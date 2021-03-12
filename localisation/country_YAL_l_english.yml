@@ -874,41 +874,41 @@
  YAL_firewings_military_school:0 "클라우마르 사관학교"
  YAL_firewings_military_school_desc:0 "예일에는 클라우마르와 뢰부르크라는 두 개의 사관학교가 있습니다. 최근 몇 년 사이, 두 학교 사이에는 철학적인 분열이 생겨 경쟁의 골이 깊어지고 있습니다. 클라우마르는 기계화 전술에 관한 초기 이론의 지지자이며, 기갑 부대와 제병 연합군을 중심으로 한 군대를 개발하려고 합니다."
 
- YAL_mobile_warfare:0 "실험적 전쟁 학교"
- YAL_mobile_warfare_desc:0 "Staffed by professors who served as attachés to Griffenheim and the Changeling Empire, the School of Experimental Warfare has quickly come to dominate Klaumar Academy. This department has heavily promoted theories of combined arms warfare, hoping to replicate the success of the Changeling army in becoming an efficient fighting force."
+ YAL_mobile_warfare:0 "실험적 전쟁 학부"
+ YAL_mobile_warfare_desc:0 "그리펜하임과 체인질링 제국에 주재무관으로 근무한 교수들로 구성된 실험적 전쟁 학부는 최근 클라우마르 사관학교의 주도권을 잡게 되었습니다. 이 학파는 체인질링 군대의 성공을 본따기 위해 제병협동 이론을 대대적으로 연구하였습니다."
 
- YAL_superior_firepower:0 "포병 및 공병 학교"
- YAL_superior_firepower_desc:0 "The School of Artillery and Engineering is the academy's oldest faculty. While they've experienced a decline in recent years, they still hold considerable sway within campus politics. While they appreciate the effectiveness of armoured vehicles, they favour them in a supporting role alongside traditional infantry formations, backed by big guns and overwhelming firepower."
+ YAL_superior_firepower:0 "포병 및 공병 학부"
+ YAL_superior_firepower_desc:0 "포병 및 공병 학부는 사관학교에서 가장 오래된 학부입니다. 최근 감소 추세에 있지만, 캠퍼스 정치에 상당향 영향력을 쥐고 있습니다. 비록 기갑차량의 효용성을 인정하지만 포병 및 공병 학부는 이들을 포병과 압도적인 화력이 지원하는 전통적인 보병대대의 지원역으로 넣는 것을 선호합니다."
 
  YAL_fight_fire_with_fire:0 "야포 개발"
- YAL_fight_fire_with_fire_desc:0 "Our existing artillery is poorly equipped for dealing with armoured vehicles, employing high explosive shells with little armour penetrating potential. Our eventual tanks will require a new type of cannon and shell, focusing more of velocity and armour penetration. The best part, these cannons can be used independent of armour until we've finished development on a tank chassis."
+ YAL_fight_fire_with_fire_desc:0 "우리가 가지고 있는 야포는 기갑 차량을 다루기엔 형편없는 상태이며, 전차의 장갑판을 뚫기 힘든 고폭탄을 사용합니다. 우리가 가질 전차들은 새로운 포와 속도와 관통력에 집중한 탄을 필요로 할 것입니다. 가장 좋은 부분은, 이포들은 전차의 차체가 개발되기 전까지는 독립적으로 사용될 수 있다는 것입니다."
 
  YAL_improved_barrel_designs:0 "현대화된 보병"
- YAL_improved_barrel_designs_desc:0 "In mechanized warfare, infantry still has an important role to play. While armour is meant to slice through hostile lines, and isolate defending units, infantry is still necessary when dealing with these pockets or heavily defended strongpoints. As such, we should focus on training and equipping our infantry in a manner which allows them to more efficiently accomplish this task."
+ YAL_improved_barrel_designs_desc:0 "기갑전에서도 보병은 중요한 역할을 가지고 있습니다. 기갑 대대는 적 전선을 찢고 방어하는 적들을 포위시킬 수 있지만 보병은 포위망이나 방어가 잘 된 거점들을 처리하기 위해 필요합니다. 이에 따라 우리는 주어진 임무를 잘 수행할 수 있는 보병들을 훈련시키고 필요한 장비를 보급할 것입니다."
 
  YAL_improved_tank_designs:0 "전차 개발"
- YAL_improved_tank_designs_desc:0 "Investments into the development of new guns, armaments, engines, and armour have finally allowed us a chance to design and begin work on our very first tanks. With these, we can begin to put our meticulously crafted doctrine into practice, giving us some much-needed experience with combined arms warfare."
+ YAL_improved_tank_designs_desc:0 "새로운 포와 무기, 엔진과 장갑을 개발하는데 투자함에 따라. 드디어 새로운 전차를 디자인하고 만들 기회를 가지게 되었습니다. 이 전차들을 가지고 우리가 치밀하게 짠 교리들을 사용할 수 있고 제병협동전에 대한 절실한 실전 경험을 가질 수 있게 되었습니다."
 
  YAL_stick_with_the_doctrine:0 "클라우마르 워 게임"
- YAL_stick_with_the_doctrine_desc:0 "Klaumar Academy has taken advantage of Yale's rolling plains, using them to conduct an intricate war game to test out the feasibility of combined arms doctrine. While these wargames will use very little actual tanks, instead opting for crudely armoured tractors, they will provide valuable insight into the tactics and logistics of motorized armies."
+ YAL_stick_with_the_doctrine_desc:0 "클라우마르 사관학교는 제병협동전의 실현성을 시험하기 위해 예일의 완만한 평원에서 정교한 워 게임을 시행할 것입니다. 비록 워 게임에서는 실전 전차의 사용을 최소화하고 장갑을 두른 트랙터를 주로 사용할 것이지만 차량화된 군대의 전술과 보급에 대한 귀중한 통찰을 가지게 될 것입니다."
 
  YAL_organized_blitzkrieg:0 "기갑 연구 보조금"
- YAL_organized_blitzkrieg_desc:0 "The Rectors are very impressed by the progress of Klaumar Academy, awarding the institute a highly lucrative research grant. They hope, that with this money, the school will move beyond catching up with foreign manufacturers and will instead become a leader in tank design, development, and implementation."
+ YAL_organized_blitzkrieg_desc:0 "학장들이 클라우마르 사관학교의 진전에 매우 감명받은 듯 합니다. 클라우마르에 더 많은 연구 보조금을 제공해주면서 학장들은 학부가 해외 제조업자들을 따라 잡는 것이 아닌 기갑의 설계과 개발, 실행의 지도자가 되기를 원합니다."
 
- YAL_new_tank_models:0 "그리펜하임의 조언"
- YAL_new_tank_models_desc:0 "Griffenheim rocked Griffonia when they announced the creation of the continent's first armoured division. At the time, experts from Klaumar were attached to this unit and given valuable insight on how tanks were developed, mustered, and used in training. It's hoped that these experts will be able to replicate these designs and implement them effectively into the Yale Security Force."
+ YAL_new_tank_models:0 "그리펜하임의 교훈"
+ YAL_new_tank_models_desc:0 "제국은 최초로 기갑사단을 선보이면서 그리포니아 대륙을 흔들었습니다. 그 시기 클라우마르의 전문가들이 기갑사단에 배치되면서 전차의 개발과 사용에 대한 통찰을 얻게 되었습니다. 이 전문가들이 얻은 통찰들을 예일 보안군에 효과적으로 구현할 수 있을 것으로 기대되고 있습니다."
 
  YAL_infantry_mechanisation:0 "그리프트럭"
- YAL_infantry_mechanisation_desc:0 "The Grifftruck is a staple of the Griffonian Empire, being used from Feathisia to Bronzehill and from the Strawberry Duchy down to Yale. It is cheap, rugged, and easy to produce, being suited for the empire's rough terrain and poor infrastructure. This vehicle would be the perfect addition to our armed forces, allowing us to rapidly move our troops into combat."
+ YAL_infantry_mechanisation_desc:0 "그리프트럭은 그리포니아 제국의 주요 상징이며 페데시아부터 브론즈힐까지, 스트로베리 공국부터 예일까지 사용되고 있습니다. 저렴하고 견고하며 제작이 용이하고 제국의 험준한 지형과 열악한 인프라에 적합한 이 차량은 우리 군대에 매우 유용하게 사용될 것이며, 병사들을 전투로 빠르게 운송시킬 수 있을 것입니다."
 
- YAL_heavier_tanks:0 "체인질링 제국의 조언"
- YAL_heavier_tanks_desc:0 "The Changeling Empire is the forefathers of armoured warfare, developing much of the doctrine and norms that have become associated with it. For a while, attaches from Klaumar were given a chance to work with the Changelings, giving us a look at tank designs decades ahead of Griffonia. By replicating these designs, we would no doubt gain a decisive edge over our opponents."
+ YAL_heavier_tanks:0 "체인질링 제국의 교훈"
+ YAL_heavier_tanks_desc:0 "체인질링 제국은 기갑과 관련된 여러 교리와 규범들을 발전시킨 선구자입니다. 클라우마르의 주재무관들은 잠시 체인질링들과 일하면서 우리보다 수십년 앞선 기갑 설계도들을 얻게 되었습니다. 이 설계도들을 복제함으로써, 우리는 틀림없이 상대방에 대해 결정적인 우위를 쥘 것입니다."
 
- YAL_armour_power:0 "클라우마르 기갑 설계 학교"
- YAL_armour_power_desc:0 "The Klaumar School of Armoured Design was created in order to pool together the greatest engineering minds in Yale. Their duty is to look at developments in armoured design, both foreign and domestic, and implement them into future tanks in order to ensure that we have the fastest, strongest, and most well armed tanks in Griffonia."
+ YAL_armour_power:0 "클라우마르 기갑 설계 학부"
+ YAL_armour_power_desc:0 "클라우마르 기갑 설계 학부는 예일에서 가장 뛰어난 공학자들을 모으기 위해 만들어졌습니다. 그들의 임무는 국내와 국외의 기갑 디자인들을 연구하고 그리포니아에서 가장 빠르고, 강하고, 가장 잘 무장된 탱크를 확보하기 위해 차후 탱크 개발에 이를 이용하는 것입니다."
 
  YAL_new_guns:0 "군용 소총 갱신"
- YAL_new_guns_desc:0 "The backbone of an effective infantry formation is the rifle which every soldier carries. However, the standard issue rifle of Yale is severely out of date with many of the troops in our security forces still using black powder muskets. In order to address this, the Council of Rectors has awarded Klaumar with a generous grant to modernize Yale's service rifle."
+ YAL_new_guns_desc:0 "효과적인 보병 진형의 중추는 모든 군인들이 가지고 있는 소총입니다. 하지만 예일의 제식소총은 심각할 정도로 구식이며 심지어 대부분의 병사들은 지금까지도 흑색화약 머스킷을 사용하고 있습니다. 이 문제를 다루기 위해 학장 협의회는 클라우마르가 예일의 제식소총을 현대화할 수 있도록 후한 보조금을 제공하였습니다."
 
  YAL_modern_artillery:0 "포병대 재활성화"
  YAL_modern_artillery_desc:0 "When the School of Artillery and Engineering first formed, its officers were trained on muzzle loaded cannons. Yet, decades later little innovation has been made beyond this, causing the school to lag behind modern developments in design and doctrine. In order to address this, we must secure more modern armaments and properly supply the school with equipment and experts."
