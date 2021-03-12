@@ -4,17 +4,19 @@
 ***
 
 # 공지사항
-- 21.02.20 기준 한패 업데이트되었습니다.
+- 21.03.12 기준 한패 업데이트되었습니다.
 
 # 번역 추천 국가
 현재 번역이 진행중인 국가 문서들입니다. 어떤 나라를 번역해야 할지 모르겠다면 아래 국가들의 번역에 참여해 주세요!
 
-  - [태양 제국](localisation/country_SOL_l_english.yml)
   - [체인질링 랜드](localisation/country_CHN_l_english.yml)
-  - [피어트리 마을](localisation/country_FIR_l_english.yml)
   - [스카이나비아 사회주의 공화국](localisation/country_SRS_l_english.yml)
   - [뉴메어랜드 연방](localisation/country_EQC_l_english.yml)
   - [이퀘스트리아 해방전선](localisation/country_MAN&ELF_l_english.yml)
+  - [예일 학장국](localisation/country_YAL_l_english.yml)
+  - [베디나 공국](localisation/country_VED_l_english.yml)
+  - [님부시아](localisation/country_NIM_l_english.yml)
+  - [바카라](localisation/country_BAK_l_english.yml)
 
 ***
 
