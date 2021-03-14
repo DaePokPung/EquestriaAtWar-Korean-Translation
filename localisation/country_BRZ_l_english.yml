@@ -22,54 +22,54 @@
  ### LEADER DESCRIPTIONS ###
  
  ### PARTIES ###
- BRZ_neutrality_party:0 "Fürstliche Partei"
- BRZ_neutrality_party_long:0 "Fürstliche Partei"
- BRZ_royal_party:0 "Fürstliche Partei"
- BRZ_royal_party_long:0 "Fürstliche Partei" #Royal Party
+ BRZ_neutrality_party:0 "군주당"
+ BRZ_neutrality_party_long:0 "군주당"
+ BRZ_royal_party:0 "군주당"
+ BRZ_royal_party_long:0 "군주당" #Royal Party
  BRZ_communism_party:0 "KPB"
- BRZ_communism_party_long:0 "Kommunistische Partei Bronzhügel" #Communist Party of Bronzehill
+ BRZ_communism_party_long:0 "브론즈힐 공산당" #Communist Party of Bronzehill
  BRZ_democratic_party:0 "HKP"
- BRZ_democratic_party_long:0 "Harmonisch-Konservative Partei" #Harmonic Conservative Party
+ BRZ_democratic_party_long:0 "조화보수당" #Harmonic Conservative Party
  BRZ_labour_party:0 "HAP"
- BRZ_labour_party_long:0 "Harmonische Arbeitspartei" #Harmonic Labour Party
+ BRZ_labour_party_long:0 "조화노동당" #Harmonic Labour Party
  BRZ_fascism_party:0 "NU"
- BRZ_fascism_party_long:0 "Nationale Union" #National Union
- BRZ_fascism_knights:0 "Knights of the Bronze Cross"
- BRZ_fascism_knights_long:0 "Knights of the Bronze Cross" #Knights of the Bronze Cross #Ritter des Bronzekreuz #Knechten des Bronzekruz
- BRZ_archonate:0 "Prelate of Ravensburg"
+ BRZ_fascism_party_long:0 "국가연합" #National Union
+ BRZ_fascism_knights:0 "브론즈 크로스 기사단"
+ BRZ_fascism_knights_long:0 "브론즈 크로스 기사단" #Knights of the Bronze Cross #Ritter des Bronzekreuz #Knechten des Bronzekruz
+ BRZ_archonate:0 "라벤스부르크 주교"
  BRZ_archonate_long:0 "Prelate of Ravensburg" #Prelate of Ravensburg # Prälat von Ravensburg
- BRZ_bronze_party_long:0 "Grafschaft Bronze Partei" #Bronze County Party
+ BRZ_bronze_party_long:0 "브론즈 백작당" #Bronze County Party
  BRZ_bronze_party:0 "GBP"
  BRZ_communism_party_kim:0 "APB"
- BRZ_communism_party_kim_long:0 "Arbeiterpartei von Bronzhügel" #Workers' Party of Bronzehill
+ BRZ_communism_party_kim_long:0 "브론즈힐 노동당" #Workers' Party of Bronzehill
 
  ### FOCUS ###
 
  # Economic #
  
  BRZ_finish_the_ravenworks:0 "그로버 5세 산업단지 완성"
- BRZ_finish_the_ravenworks_desc:0 "The Grover V Industrial Park is a free economic zone conceptualised by the economic ministers of Grover V and Count Ignatius Bronzetail. The goal of the project is to attract investment from Griffenheim in order to finance new factories in the region. The closeness of the industrial park and the loyalty of our government ensures the safety of investment while also offering easy access to Griffonian markets."
+ BRZ_finish_the_ravenworks_desc:0 "그로버 5세 산업단지는 그로버 5세와 이그나티우스 브론즈테일 백작의 경제 장관들이 구상한 자유 경제 구역입니다. 이 프로젝트의 목표는 그리펜하임의 투자를 유치해서 이 지역의 새 공장들에 자금을 조달하는 것입니다. 산업단지의 밀집성과 우리 정부의 충성도는 투자의 안전을 보장하며, 또한 그리포니아 시장으로의 접근성을 강화해 줄 것입니다."
 
  BRZ_engineering_grants:0 "제국 전문가 고용"
- BRZ_engineering_grants_desc:0 "Bronzehill's industrial sector has lagged far behind much of the continent, owing to the mismanagement and poor expertise of the Diamond Dog administration advising its development. As such, our administration has requested help from Griffenheim in the hopes that our emperor will come to our aid and provide technical assistance to correct the damage done."
+ BRZ_engineering_grants_desc:0 "브론즈힐의 산업은 대륙 평균에 비해 크게 뒤쳐져 있습니다. 이는 다이아몬드 독 정부의 잘못된 경영과 형편없는 전문성 때문입니다. 이에 따라 우리 정부는 황제의 기술 지원을 희망하는 요청을 그리펜하임으로 보내기로 했습니다."
 
  BRZ_nationalise_the_ravenworks:0 "그로버 5세 산업단지 국유화"
- BRZ_nationalise_the_ravenworks_desc:0 "The Grover V Industrial Park has not been a silver bullet to help kickstart our industrial revolution. Instead many of the plots remain barren and the few established firms either flounder or fail to make a profit. As such, many within our imperial administration have called on us to nationalise the industrial park and put it under state management until it proves stable and profitable."
+ BRZ_nationalise_the_ravenworks_desc:0 "그로버 5세 산업단지는 우리의 산업 혁명의 신호탄이 아닙니다. 산업단지 프로젝트의 많은 계획들은 실패했고 소수의 살아남은 기업들은 시장에서 허우적거리거나 수익을 내는 데 실패하고 있습니다. 이에 따라 우리 제국 정부 내 많은 개들은 공단을 국유화해서 공단이 안정화되고 수익성을 입증해 줄 수 있을 때까지 국가의 관리 하에 둘 것을 촉구하고 있씁니다."
 
  BRZ_give_to_the_poor:0 "사회안전망 형성"
- BRZ_give_to_the_poor_desc:0 "Many of Bronzehill's citizens live in crushing poverty with the toil of their day to day life spent on nothing but the food, shelter, and resources to survive. In order to address this issue, our administration has earmarked funding for a generous social programme which will include housing, healthcare, and food subsidises for our poorest citizens."
+ BRZ_give_to_the_poor_desc:0 "브론즈힐의 많은 시민들은 음식, 주거, 그리고 생존에 필요한 최소한의 자원만 요구하는 삶을 살며 엄청난 가난을 겪고 있습니다. 이 문제의 해결을 위해 우리 정부는 극빈층을 위한 주택, 의료, 식품 보조금이 포함된 사회 제도를 위한 기금을 마련했습니다."
 
  BRZ_local_owned_industries:0 "국내 회사 보조금"
- BRZ_local_owned_industries_desc:0 "The vast majority of Bronzehill's economic activity has been controlled by firms whose headquarters are located within Griffenheim and Mirabelle. While these firms prosper from Bronzehill's wealth, our own domestic firms have proved lackluster, failing to reach the same level of prominence. By subsidizing such firms we'd greatly benefit from increased domestic influence in economic affairs."
+ BRZ_local_owned_industries_desc:0 "브론즈힐 경제 활동의 대부분은 그리펜하임과 미라벨에 본사를 두고 있는 기업들이 관리하고 있습니다. 이 기업들은 브론즈힐의 부로 번창하고 있지만, 국내 기업들은 같은 수준에 도달하지 못한 채 침체되어 있는 것으로 밝혀졌습니다. 그러한 기업들에 보조금을 지급하면 경제에 대한 국내 영향력을 증대시킬 수 있을 것입니다."
 
- BRZ_found_bronze_olwerke:0 "Bronze Ole"
- BRZ_found_bronze_olwerke_desc:0 "For the last 20 years, surveyors have stalked our lands in search of natural resources. During the course of their landscaping, these teams discovered a substantial reserve of oil and natural gas in Pinesshade. While currently free from development, a group of investors have pooled together their resources to establish Bronze Ole, a domestic energy firm which hopes to capitalise off our rich reserves."
+ BRZ_found_bronze_olwerke:0 "브론즈 오일"
+ BRZ_found_bronze_olwerke_desc:0 "지난 20년 동안 측량사들은 천연자원을 찾아 우리 땅을 돌아다녔습니다. 조경 도중 그들은 피네스하데에서 상당한 양의 석유와 천연가스를 발견했습니다. 한 무리의 투자자들이 풍부한 매장량을 활용하기 위해 국내 에너지 기업인 브론즈 오일을 설립하기 위해 힘을 모았습니다."
 
  BRZ_kickstart_the_automotive_industry:0 "브론즈힐 자동차 회사"
- BRZ_kickstart_the_automotive_industry_desc:0 "Across the globe, the automobile has allowed for easier, quicker, and more reliable transportation of people and goods. Previously, the automobile was an oddity in Bronzehill, only accessible to those rich enough to import models from Griffenheim. With the opening the Bronzehill Automotive Firm however, it's hoped that the automobile will become all the more accessible."
+ BRZ_kickstart_the_automotive_industry_desc:0 "전 세계에 걸쳐 자동차는 생물과 상품의 더 쉽고, 빠르고, 신뢰 가능한 운송을 가능하게 했습니다. 브론즈힐에서 자동차는 그리펜하임에서 수입해 올 수 있을 정도의 부자들만 쓸 수 있었지만, 브론즈힐 자동차 회사가 문을 열면서 대중들의 자동차에 대한 접근성이 더 강화될 것입니다."
 
  BRZ_the_forges_of_the_bronze_paw:0 "브론즈힐 산업혁명"
- BRZ_the_forges_of_the_bronze_paw_desc:0 "The economy of Bronzehill stands triumphant as we enter the next stage of our industrial modernisation. While there is much progress to be made, we can look back proudly knowing that it was through our own blood, sweat, and tears that we have made it this far."
+ BRZ_the_forges_of_the_bronze_paw_desc:0 "산업 현대화의 다음 단계로 접어든 브론즈힐 경제는 승리감에 싸여 있습니다. 앞으로 많은 발전이 남아 있지만, 우리는 여기까지 브론즈힐을 이끌어 온 것은 우리의 피, 땀, 그리고 눈물들이었다는 것을 자랑스럽게 알고 있습니다."
 
  BRZ_found_vereinigte_stahlwerke:0 "Vereinigte Stahlwerk"
  BRZ_found_vereinigte_stahlwerke_desc:0 "For decades, the firms of the Griffonian Empire have set up steel mills in Bronzekreuz, using the regions rich supplies of coal, iron, and cheap labour to produce steel. Little of this remains within Bronzehill, with the bulk being exported while we are left in chronic shortage. To address this, our government has entered into a partnership with Diamond Dog investors to set a domestically operated enterprise."
@@ -974,7 +974,7 @@
  
  bronzehill.5.t:0 "선물을 수락한 그리펜하임"
  bronzehill.5.d:0 "황실에 대한 우리의 선물이 정중하게 받아들여지고 황실 묘지의 신성한 곳에 자랑스럽게 전시되었습니다. 앞으로 몇 세대에 걸쳐 많은 그리폰들이 이 방을 지나며 그로버 5세에 대한 우리의 공헌을 보게 될 것입니다.\n\n그로버 6세의 감사 편지가 이그나티우스 브론즈테일 백작에게 전달되었습니다. 편지에서 젊은 황제는 백작과 신하 모두에게 그들의 사랑스러운 재능에 감사하며, 우리의 헌신이 이 어려운 시기를 약간이나마 편안하게 만들어 주었다고 우리에게 말해 주었습니다.\n\n소문에 의하면 백작은 이 편지를 액자에 넣어 개인 사무실 안에 걸어놓았다고 합니다."
- bronzehill.5.a:0 "우리의 그리펜하임과의 연대가 절대로 약해지지 않기를."
+ bronzehill.5.a:0 "우리와 그리펜하임과의 연대가 영원하기를."
 
  bronzehill.6.t:0 "그리펜하임의 모욕"
  bronzehill.6.d:0 "그로버 5세 기념 동상이 며칠째 미궁 속에 빠져 있습니다. 우리는 그리펜하임이 동상을 받았다는 것을 알지만 그것이 황제 관리들에게 전달된 이후의 행방은 묘연합니다. 며칠이 지나도 황실에서는 공식적인 언급이 없었습니다.\n\n하지만 최근 그리펜하임의 한 자본자가 주최한 무도회에서 우리의 대사가 참석했을 때, 그는 보고서에서 우리의 동상이 이 자본가에게 넘어갔을 뿐만 아니라 정부 관리들로부터 상당한 돈을 받고 구입했다는 걸 알아냈다고 적었습니다.\n\n우리는 황실에 항의해 보았지만 그들은 대답을 하지 못했습니다."
