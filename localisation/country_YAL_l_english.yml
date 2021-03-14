@@ -31,8 +31,8 @@
  YAL_WIT_party:0 "법원"
  YAL_LCT_party_long:0 "왕자 충성파"
  YAL_LCT_party:0 "충성파"
- YAL_FBK_party_long:0 "The Northern King's Rule"
- YAL_FBK_party:0 "King's Rule"
+ YAL_FBK_party_long:0 "북부 왕의 통치"
+ YAL_FBK_party:0 "왕의 통치"
 
  ###Country Names ###
  YAL_neutrality:0 "예일 학장국"
@@ -228,8 +228,8 @@
  YAL_the_great_yale_archives:0 "거대한 예일 기록보관소"
  YAL_the_great_yale_archives_desc:0 "보레안 비더그리프는 건축의 선구자이자 지식을 보존하기 위해 일하는 그리폰이었습니다. 그는 예일을 오늘날의 모습으로 만들었던 많은 개혁에 책임이 있지만, 그는 그의 거대한 작품이 완성되는 것을 볼 수 없었습니다. 거대한 기록보관소는 세계의 모든 지식을 수용합니다. 이 정교한 건축물의 건설은 보레안의 후계자들에게는 훌륭한 목표가 될 것입니다."
 
- YAL_send_invitations:0 "그리포니아의 경찰 초대"
- YAL_send_invitations_desc:0 "보레안 비더그리프는 그의 기록보관소가 학계의 엘리트들을 위한 만남의 장소가 되고 무지에 대항하는 봉화가 됨으로써 그리폰 종족 사이에 평화를 구축하는 데 도움이 될 것이라고 생각했습니다. 기록보관소가 완성되면, 우리는 모든 나라의 최고의 그리폰 학자들을 기록보관소에서 연구할 수 있도록 초대해야 합니다. 과학이 보레아스가 선택한 자들 사이에서 더 나은 이해를 이끌어 낼 수 있기를 바랍니다."
+ YAL_send_invitations:0 "그리포니아의 최고 학자들을 초대하다"
+ YAL_send_invitations_desc:0 "보레안 비더그리프는 그의 기록보관소가 학계의 엘리트들을 위한 만남의 장소가 되고 무지에 대항하는 봉화가 됨으로써 그리폰 종족 사이에 평화를 구축하는 데 도움이 될 것이라고 생각했습니다. 기록보관소가 완성되면, 우리는 모든 나라의 최고의 그리폰 학자들을 기록보관소에서 연구할 수 있도록 초대해야 합니다. 과학이 보레아스의 선택받은 자들 사이에서 더 나은 이해를 이끌어 낼 수 있기를 바랍니다."
 
  YAL_learn_from_the_past:0 "과거의 보물들"
  YAL_learn_from_the_past_desc:0 "전쟁, 무지와 악의는 고대 그리포니아 제국의 많은 지식을 파괴했습니다. 우리의 기록보관소는 역사학자들과 다른 연구자들이 과거의 지식들을 한데 모으는 것을 돕고 있습니다. 고대인들의 많은 지식은 시대에 뒤떨어진 것처럼 보일 수도 있지만, 때때로 그들은 우리가 상상할 수 있는 것보다 더욱 현명합니다."
@@ -744,7 +744,7 @@
  YAL_stepping_out:0 "보레아스의 신체"
  YAL_stepping_out_desc:0 "그 소식 들었습니까? 보레아스와 교감할 수 있는 능력을 가진 그리폰이 등장했습니다! 가미아에서의 소문에 따르면 그 그리폰은 신성한 대리인으로서, 그를 특징지을 수 있는 특이한 신체적 특징을 가지고 있다고 합니다. 우리는 이 상황에 대하여 더 조사해야 봐야 할 것 같습니다."
  
- YAL_the_city:0 "사람들을 방문하다"
+ YAL_the_city:0 "민중들을 방문하다"
  YAL_the_city_desc:0 "할렐루야! 보레아스께서는 자신이 선택한 그릇인, 전령을 통하여 그의 자녀들과 함께 걸어가고 있습니다. 전령은 저 멀리 떨어져 있는 위원회의 그리폰들과는 달리 우리를 돌보고 있습니다. 그는 시간을 내어 예일 전역의 마을과 도시들을 둘러보고 있습니다!"
  
  YAL_the_sermons:0 "참된 말을 전하다"
@@ -829,58 +829,58 @@
  YAL_the_final_thing_desc:0 "전령의 신성한 힘을 의심하는 사람은 아무도 남아있지 않습니다. 보레아스가 그를 반대하는 모든 불신도들을 쳐부수었으니, 우리는 그를 우리나라의 가장 높은 곳으로 끌어올릴 것입니다."
  
 ##Events of the Herald
- yale.118.t:0 "Our Mission"
- yale.118.d:0 "One morning in a humble town square, the Herald of Boreas delivered one of his frequent speeches to the people of Yale. The enthralled crowd included griffons from many towns away who had come to witness the Herald in person, as word of his emergence had spread quickly and deeply across the nation.\n"Why have you witnessed decades of decline and calamities? It is because you have misplaced your devotion, giving it to corrupt priests and nobles rather than to the Gods. These false messengers seek to lead you astray, so that they may take what you have earned and enrich themselves!" The townsfolk were enraptured. His words struck a chord in the hearts of those who had endured much hardship during the course of the Empire's decline.\n"I promise you that there will come a time when the chosen of Boreas will lead a glorious march to strike down the petty tyrants of Herzland." As the Herald spoke, his voice had an unnatural timbre and seemed to carry farther than should have been possible. "But before we can aid our neighbours, we must first prepare our land and our souls for the coming struggle." The townsfolk nodded, eager to carry out the will of Boreas."
- yale.118.a:0 "As Boreas commands."
+ yale.118.t:0 "우리의 사명"
+ yale.118.d:0 "어느 날 아침, 한 초라한 마을 광장에서, 보레아스의 전령은 예일의 사람들에게 그가 빈번하게 해오던 담화를 말하고 있습니다. 그의 말에 매료된 군중들 사이에는, 전령의 출현에 대한 소문이 전국으로 빠르고 깊이 퍼지게 되면서, 전령을 직접 목격하고자 하는 이 마을 출신의 많은 그리폰들이 포함되어 있었습니다.\n"여러분들은 어째서 쇠퇴와 재앙이 수십 년 동안이나 계속되는 줄 아십니까? 그것은 여러분들이 헌신을 신이 아닌 타락한 사제들과 귀족들에게 바치기 때문입니다. 이 거짓된 전령들은 여러분을 잘못된 길로 인도하여, 여러분이 번 것을 빼앗고, 스스로를 풍요롭게 하고 있습니다!" 마을 사람들은 넋이 나갔습니다. 그의 말은 제국이 멸망하는 동안 수많은 고난을 견뎌온 사람들의 가슴에 와닿았습니다.\n"제가 장담 드리니, 보레아스에게 선택받은 자들이 헤르츠란트의 폭군들을 쳐부수기 위하여 영광스러운 행진을 이끌 것이라고 약속드립니다." 전령의 목소리는 부자연스러운 음색을 띠고 있었으며, 먼 곳에서 들려오는 것 같았습니다. "하지만 우리가 이웃을 돕기 전에, 우리는 먼저 우리의 땅과 우리의 영혼에 다가오는 투쟁에 대비해야 합니다." 마을 사람들은 보레아스의 뜻을 따르기를 간절히 바라며, 고개를 끄덕였습니다."
+ yale.118.a:0 "보레아스의 뜻대로."
  
- yale.119.t:0 "The Proclamation"
- yale.119.d:0 "On a sunny day in an open field, the Knights of Boreas stood before their Herald. The only motion visible among the soldiers were the golden stalks of wheat rustling in the wind; their attention was entirely focused on their leader. The Herald of Boreas flew up into the air to look over his followers.\n"The time has come to intervene and deliver holy retribution against the unfaithful who sought to lead you astray." His voice boomed throughout the field. "This is what you have prepared for: a war of liberation against the deceitful agents who deny the true word of Boreas. They hide in the Imperial City, thinking themselves above the judgement of the Gods. But no walls can hold back our righteous truth!" The Herald held up his claws for emphasis. The knights were captivated, totally silent in anticipation of the Herald's next words.\n"We will march on Griffenheim and strike down all their false messengers, but we will not stop there." The glow around the Herald intensified, seeming to rival the sun in sheer brilliance. "Our divine mission demands that we march onwards, not resting until we have freed all of Herzland, so that none may doubt the power of Boreas!" The Herald glided down to the ground as his soldiers erupted in cheers and applause."
- yale.119.a:0 "All must know the truth!"
+ yale.119.t:0 "선언문"
+ yale.119.d:0 "어느 화창한 날, 보레아스 기사단이 전령 앞에 섰습니다. 기사들 사이에 보이는 유일한 움직임은 바람에 흩날리는 금빛의 밀밭뿐이었습니다; 그들의 관심은 전적으로 그들의 지도자에게 집중되었습니다. 보레아스의 전령은 그의 추종자들을 훑어보기 위하여 공중으로 날아올랐습니다.\n"여러분을 잘못된 길로 인도하려는 불신자들에게 거룩한 벌을 내릴 때가 왔습니다." 그의 목소리가 들판 곳곳에서 울렸습니다. "이것이 당신을 위하여 준비한 것이니: 보레아스의 참된 말을 부인하는 기만자들과의 해방 전쟁입니다. 그들은 제국 도시에 숨어, 신의 심판이 아닌 자신들만을 생각하고 있습니다. 하지만 어떠한 벽도 우리의 정의로운 진실을 막을 수 없습니다!" 전령은 강조하기 위하여 그의 발톱을 들어 올렸습니다. 기사들은 전령의 다음 말을 기대하며 완전히 침묵을 지켰습니다.\n"우리는 그리펜하임으로 진군하여 그들의 모든 거짓 전령을 쳐부술 것이지만, 거기서 멈추지 않을 것입니다." 전령의 주변 광채는 점점 더 강해져, 순수한 광채 속에서 태양과도 같이 빛났습니다. "우리의 신성한 임무는 우리가 헤르츠란트 전체를 해방시킬 때까지 쉬지 말고 계속해서 전진할 것을 요구하고 있습니다. 그렇게 된다면, 그 누구도 보레아스의 힘을 의심하지 않을 것입니다!" 그의 기사들이 환호성과 박수갈채를 터뜨리자, 전령은 땅으로 미끄러지듯 내려왔습니다."
+ yale.119.a:0 "모두가 진실을 알아야 한다!"
  
- yale.120.t:0 "The Way of the Faithful"
- yale.120.d:0 "In front Griffenheim's majestic Temple of Boreas, the Herald spoke to a crowd of devoted followers, his divine authority bolstered even further by his newly-acquired status as Archon. "Although those who raised their swords against us have been humbled, we have yet to cleanse this land of its true poison. The corrupt priests and nobles who used the name of Boreas in vain are symptoms of a greater sickness: impiety." The Herald held his claw high in the air. "When the word of the Gods is unheeded, griffons are free to fill that void with their own selfish agendas." Mumbles of fervent agreement spread through the mass of griffons.\n"Prayer is the only antidote for this condition. All must look inward and seek divine guidance to reach perfection. Prayer fortifies the spirit and provides you the strength to carry out the will of the Gods. Through the unmatched piety of our griffons, Boreas will shield our nation and shepherd us to glory!" The Herald hovered several meters into the air, spreading his claws wide for emphasis. His followers bowed, clasping their claws together tightly."
- yale.120.a:0 "Praise Boreas!"
+ yale.120.t:0 "신앙의 길"
+ yale.120.d:0 "그리펜하임의 장엄한 보레아스 신전 앞에서 전령은 헌신적인 추종자들과 이야기를 나누었으며, 그의 신성한 권위는 새로 얻은 집정관이라는 지위 덕분에 더욱 강화되었습니다. "비록 우리에게 검을 든 자들이 미천해졌음에도, 우리는 아직 이 땅의 진정한 독을 씻어내지 못했습니다. 보레아스라는 이름을 헛되이 사용하는 타락한 사제들과 귀족들은 불경이라는 더 큰 병의 증세를 보이고 있습니다." 전령은 그의 발톱을 높이 들었습니다. "신의 말씀이 무시당한다면, 그리폰들은 그 공백을 자유롭게 그들 자신의 이기적인 의제로 채우게 될 것입니다." 열렬한 외침이 그리폰 무리에 퍼져나갔습니다.\n"기도만이 이 상황을 해결할 유일한 해결책입니다. 모든 사람은 내면을 들여다보고 완벽에 도달하기 위하여 신의 인도를 구해야 합니다. 기도는 정신을 굳건히 하고 여러분에게 신의 뜻을 행할 수 있는 힘을 제공합니다. 우리 그리폰들의 변함없는 경건함으로, 보레아스는 우리나라를 지키고 우리를 영광으로 인도할 것입니다!" 전령은 강조하기 위하여 발톱을 활짝 벌리며 공중에서 몇 미터 맴돌았습니다. 그의 추종자들은 함께 발톱을 꽉 쥐며 머리를 숙였습니다."
+ yale.120.a:0 "보레아스를 찬양하라!"
  
- yale.121.t:0 "The Land of the Faithful"
- yale.121.d:0 "On an unseasonably warm morning in Griffenheim, throngs of griffons clogged the streets around the Imperial Palace, desperate to hear a much-publicised proclamation from the Herald. Many climbed onto roofs to get a better view as the streets became too crowded. The audience was awed when the Herald revealed himself by flying high above a palace balcony, wings shimmering in the dawn light.\n"Boreas is pleased," he began. "By our efforts, this land has been cleansed of its ignorance and the true will of the Gods is heard and heeded. See that our faith has been rewarded! Our priests and our temples help the people as they should. Our lands are blessed with plenty. Our devoted warriors have beaten back the armies of darkness which once threatened Boreas' chosen." The Herald made a slow, sweeping motion with his claw while the crowd rumbled in approval.\n"We have created a place where Boreas' children can live in peace and prosperity. A place where the virtues of charity, honour, and labour are respected practiced by all." The Herald smiled, his glow intensifying. "But our work will never be over. We must always act as a holy beacon on this world, guiding the lost by showing them the righteous path. This is our sacred duty, the duty of the Kingdom of Boreas!""
- yale.121.a:0 "Long live the Divine and Serene Kingdom of Boreas!"
+ yale.121.t:0 "신앙의 땅"
+ yale.121.d:0 "그리펜하임에서의 때아닌 따뜻한 아침, 많은 그리폰 무리들이 널리 알려진 전령의 선언을 듣고 싶어, 필사적으로 제국 궁전 주변의 거리를 막았습니다. 거리가 너무 붐비자 많은 사람들이 더 좋은 경치를 보기 위하여 지붕 위로 올라갔습니다. 군중들은 전령이 새벽빛을 받으며 반짝이는 날개를 펼치고 궁전의 발코니 위로 높이 날아올라 자신을 드러내자 경악했습니다.\n"보레아스께서 기뻐하고 계십니다." 그가 시작했습니다. "우리의 노력으로 이 땅은 그 무지를 깨끗이 씻어냈으며, 신들의 참된 뜻을 듣고 주의를 기울이게 되었습니다. 우리의 믿음이 보상받았음을 지켜봐 주기 바랍니다! 우리의 사제들과 신전들은 백성들을 도와주어야 합니다. 우리 땅은 축복받았고 풍요롭습니다. 우리의 헌신적인 전사들은 한때 보레아스의 선택받은 자를 위협하던 어둠의 군대를 물리쳤습니다." 전령은 그의 발톱으로 군중들을 천천히 쓸어넘기는 동작을 취했으며, 군중들은 기쁨으로 울부짖었습니다.\n"우리는 보레아스의 아이들이 평화롭고 풍요롭게 살 수 있는 장소를 만들었습니다. 관용, 명예, 노동의 미덕이 모든 사람들에 의해 행해지는 장소입니다." 전령은 미소 지었으며, 그의 광채는 짙어졌습니다. "하지만 우리의 일은 결코 끝나지 않을 것입니다. 우리는 언제나 이 세상에 대한 거룩한 등대의 역할을 해야 하며, 길 잃은 사람들에게 의로운 길을 보여줌으로써 그들을 인도해야 합니다. 이것이 우리의 신성한 의무이자, 보레아스 왕국의 의무입니다!""
+ yale.121.a:0 "보레아스와 그의 평화로운 왕국 만세!"
  
- yale.122.t:0 "The False Archon"
- yale.122.d:0 "The Archon of Boreas in Griffenheim claims to be the worldly voice of Boreas, but we can plainly see that is not the case. Boreas' true messenger is currently leading our holy nation! We can not allow this heresy to be tolerated any longer; there must be no disconnect between the Gods and their Temple. The Archon will be executed immediately for his deceptions, and in his place will step the Herald."
- yale.122.a:0 "A just sentence."
+ yale.122.t:0 "거짓된 집정관"
+ yale.122.d:0 "그리펜하임에 있는 보레아스의 집정관은 자신이 보레아스의 세속적인 목소리라고 주장하고 있지만, 우리는 분명히 그렇지 않다는 것을 알고 있습니다. 보레아스의 진정한 전령이 현재 우리의 신성한 국가를 이끌고 있습니다! 우리는 이단이 용인되는 것을 더 이상 용납할 수 없습니다; 신과 신전 사이에는 단절이 있어서는 안 됩니다. 집정관은 그의 기만죄로 즉시 처형될 것입니다. 그리고 그의 집정관 자리는 전령이 이어받게 될 것입니다."
+ yale.122.a:0 "정의로운 처벌이다."
  
- yale.124.t:0 "Emergence"
- yale.124.d:0 "On a cloudy day in Gamia, a strange griffon walked the streets, although those who saw him were unsure if he was a griffon at all. He exuded an inexplicable aura and had glowing, unreadable eyes. Every griffon who saw him recoiled in fear and kept their distance, and none were sure what to make of him. What did his appearance mean? What did he want? Was this a sign of the end times?\nThe first creature brave enough to approach him was a young girl who strayed from her parents out of curiosity towards the shining griffon. He stopped in his tracks once she blocked his path. "Are you a god?" she asked, looking up at him. Silence filled the air for what seemed like an eternity.\n"I am a messenger," he rumbled in response. "You may call me the Herald of Boreas, for my voice is his, and I am his worldly vessel." The Herald turned to the surrounding griffons, raising his claws into the air and spreading his wings. "Heed Boreas' will! Follow me, and I will lead you down the righteous path!" His glow intensified and a blast of heat emanated from him. After a brief moment, the surrounding griffons frantically rushed towards the Herald, pledging their undying fidelity to Boreas."
- yale.124.a:0 "What does Boreas ask of us?"
+ yale.124.t:0 "출현"
+ yale.124.d:0 "흐린 날의 가미아에서, 그를 본 사람들은 그가 그리폰인지 전혀 확신하지 못했지만, 이상한 그리폰이 거리를 걸어가고 있습니다. 그는 설명할 수 없는 분위기를 풍겼으며, 빛났고, 읽을 수 없는 눈을 가지고 있었습니다. 그를 본 그리폰들은 모두 두려움에 떨며 몸을 뒤로 젖히고 거리를 두었지만, 아무도 그를 어떻게 생각해야 할지 확신하지 못했습니다. 그의 출현은 무엇을 의미하는 거지? 무엇을 원하는 걸까? 이건 종말의 징조일까?\n그에게 다가갈 수 있을 만큼 용감했던 첫 번째 생물은 빛나는 그리폰에 대한 호기심으로 부모에게서 떨어져 나온 어린 소녀였습니다. 그녀가 그의 길을 막자, 그는 가던 길을 멈췄습니다. "아저씨는 신인가요?" 그녀는, 그를 올려다보며 물었습니다. 영원처럼 보이는 침묵이 공기를 가득 채웠습니다.\n"나는 전령이란다." 그는 울리는 목소리로 대답해 주었습니다. "여러분은 저를 보레아스의 전령이라고 부르셔도 좋습니다. 저의 목소리는 그의 것이요, 저는 그의 세속적인 그릇입니다." 전령은 주위의 그리폰들에게 눈을 돌렸으며, 발톱을 공중으로 치켜들고 날개를 펼쳤습니다. "보레아스의 뜻에 주의를 기울이십쇼! 저를 따라오시면, 제가 여러분을 의로운 길로 인도하겠습니다." 그의 광채가 짙어졌고, 그에게서 뜨거운 열기가 뿜어져 나왔습니다. 잠시 후, 주변의 그리폰들은 광적으로 전령을 따르게 되었으며, 보레아스에 대한 변함없는 충성을 맹세했습니다."
+ yale.124.a:0 "보레아스는 우리에게 무엇을 요구하는가?"
  
- yale.125.t:0 "A Walk in the City" 
- yale.125.d:0 "The Herald of Boreas visited Cyrusval and decided to take a walk around, strolling at a leisurely pace while looking at all the beautiful activity in the city. Throughout his walk, he received strange looks from locals due to his subtle aura, but he smiled back at them. When he entered a marketplace, one of the vendors came up to him selling cabbages and was asking who he was. At first the Herald said he was just a traveler, but then the vendor became insistent until he finally admitted he was the Herald of Boreas. Once his identify was known, other griffons took notice and various vendors and buyers came up and asked him if he was the miracle worker of Yale. He muttered yes humbly, and then they all smiled and started chatting with him. This scene soon repeated itself throughout the city as more found out about the mythical griffon's presence. His legend soon spread across all of Cyrusval, despite its somewhat anti-religious leanings." 
- yale.125.a:0 "What a nice griffon!" 
+ yale.125.t:0 "도시를 거닐다" 
+ yale.125.d:0 "보레아스의 전령은 사이러스발에 방문하여, 시내의 모든 아름다운 활동을 지켜보며 여유로운 걸음으로 산책하기로 결심했습니다. 걷는 내내, 은은한 기운 때문에 현지인들에게서 이상한 시선을 받았지만, 전령은 그들을 향해 웃어주었습니다. 그가 시장에 들어갔을 때, 배추를 파는 상인들 중 한 명이 다가와 그에게 누구냐고 물었습니다. 처음에 전령은 그가 단지 여행가라고 말했지만, 마침내 그가 보레아스의 전령이라는 것을 인정할 때까지 상인은 고집스럽게 굴었습니다. 일단 그의 신원이 밝혀지자, 다른 그리폰들도 주목했으며, 다양한 상인들과 시민들이 다가와, 그가 예일의 성자인지 물었습니다. 그가 겸손하게 네라고 대답하자, 그들은 모두 미소를 지으며 그와 이야기를 나누기 시작했습니다. 이러한 모습은 곧 신화적인 그리폰의 존재가 더 많이 알려지게 되면서 도시 전역에서 반복되었습니다. 그의 전설적인 이야기는 다소 반종교적인 성향의 사이러스발임에도 도시 전역에 퍼져나갔습니다." 
+ yale.125.a:0 "정말 멋진 그리폰이군!" 
  
- yale.126.t:0 "The Herald's Sermon" 
- yale.126.d:0 "Blessed are the poor in spirit: for theirs is the kingdom of heaven.\nBlessed are the meek: for they shall inherit the world.\nBlessed are they which do hunger and thirst after righteousness: for they shall be filled.\nBlessed are the merciful: for they shall obtain mercy.\nBlessed are the pure in heart: for they shall see Boreas.\nBlessed are the peacemakers: for they shall be called the children of the Gods.\nBlessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.\nBlessed are you, when griffs shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. For the corrupt of Yale must be stopped in the name of Boreas."
- yale.126.a:0 "Amen." 
+ yale.126.t:0 "전령의 설교" 
+ yale.126.d:0 "마음이 가난한 사람은 복이 있나니, 하늘나라가 그들의 것이다.\n온유한 사람은 복이 있나니, 그들은 세상을 물려받을 것이다.\n의를 행하고 굶주림과 갈증을 느끼는 자들은 복이 있나니, 그들이 배부른 자들이다.\n자비로운 자들은 복이 있나니, 그들이 자비를 받을 것이다.\n마음이 정결한 자는 복이 있나니, 보레아스를 보게 될 것이다.\n평화로운 자들은 복이 있나니, 그들은 신들의 아이들이라고 불릴 것이기 때문이다.\n의를 위하여 박해받는 자들은 복이 있나니, 하늘나라가 그들의 것이다.\n나로 인하여, 그리폰들이 너희를 욕하고 핍박하며 거짓으로 온갖 종류의 악한 것을 말할 때에 너희에게 복이 있다. 예일의 부패는 보레아스의 이름으로 중단되어야 한다."
+ yale.126.a:0 "아멘." 
 
- yale.127.t:0 "The Miracle at Bruma"
- yale.127.d:0 "In a crowded square in Bruma, the Herald of Boreas held his wings wide as he delivered his message to curious passersby. Perched atop an obelisk, he had attracted a fair number of students and townsfolk who had heard tales of the strange griffon, and who were excited to have a chance to see him in person.\nDuring a pause in the Herald's oration, a shout rang out from the ground. "Get down from there!" Two city guard griffons pushed their way to the front of the crowd and signaled for the Herald to descend. The Herald complied and glided down to meet them. "Preaching is not allowed here, sir," said one of the guards.\n"You seek to punish me for speaking the truth of the Gods?" Asked the Herald, perplexed. "If you wish to detain me, I happily offer myself." He lowered his head and extended his claws towards the guards. The two griffons looked at each other hesitantly, but proceeded to place steel shackles around the Herald's claws. Once they were secured, he yanked his claws upwards.\n"Behold, the power of Boreas!" The shackles around the Herald's claws began to glow a dull red before becoming a bright orange. In a matter of seconds, the shackles began melting, sending molten metal splattering onto the city cobblestones. At the sight of this, the guards turned around and fled as fast as they could."
- yale.127.a:0 "Through the Gods, all things are possible!"
+ yale.127.t:0 "브루마에서의 기적"
+ yale.127.d:0 "브루마의 붐비는 광장에서, 보레아스의 전령은 호기심 많은 군중들에게 그의 메시지를 전하기 위하여 날개를 활짝 펼쳤습니다. 오벨리스크의 꼭대기에 자리잡은 그는, 이상한 그리폰의 이야기를 듣고 그를 직접 볼 수 있는 기회를 갖게 되어 흥분한 학생들과 마을 사람들을 꽤나 많이 끌어 모았습니다.\n전령의 설교가 잠시 멈춘 동안, 지상에서 고함소리가 울렸습니다. "당장 거기서 내려와!" 두 명의 도시 경비대가 군중들을 밀치고 나와, 전령이 내려오도록 신호를 보냈습니다. 전령은 이에 응했고, 그들을 만나기 위하여 미끄러지듯 내려왔습니다. "이곳에서 설교를 해서는 안 됩니다, 선생님." 경비대 중 한 명이 말했습니다.\n"신의 진리를 전한 이유로, 처벌받는 겁니까?" 당황한 전령이 물었습니다. "저를 구속하고 싶다면, 기꺼이 그렇게 하겠습니다." 그는 고개를 숙이고 경비대를 향해 발톱을 뻗었습니다. 두 그리폰은 서로를 쳐다보며 망설였지만, 전령의 발톱에 강철 수갑을 채웠습니다. 수갑이 채워지자, 그는 발톱을 위로 들어 올렸습니다.\n"보레아스님의 힘을 볼지어다!" 전령의 발톱에 감긴 수갑은 밝은 오렌지색이 되며, 칙칙한 붉은빛을 내기 시작했습니다. 몇 초 만에, 수갑이 녹아내리기 시작했고, 녹은 금속이 도시의 자갈 위로 떨어졌습니다. 이 광경을 보고, 경비대는 몸을 돌려 최대한 빨리 달아났습니다."
+ yale.127.a:0 "신들을 통한다면, 모든 것을 할 수 있습니다!"
 
- yale.128.t:0 "A Fateful Meeting"
- yale.128.d:0 "As the Academic Council convened inside the grand halls of Greenback, a massive mob of griffons gathered outside, angrily demanding the recognition of their prophet. The Herald of Boreas had been traversing Yale, riling up the populace and gaining followers with his denunciations of the current social order. Now those followers converged on the Council determined to see its authority ended permanently.\nIn the dimly lit council chambers, Rector Magnificus Mikusian sat with his claws massaging his temples, wondering how this could be happening. Why were the people up in arms over the ravings of a madgriff? How could they believe this Herald was a divine being just because of some trick of the light? Would their delusion be the end of Yale? It was all impossible!\nWith a sudden impact, the door to the chamber burst open and a glowing figure walked before the Council. It was the Herald himself, standing alone without any of his followers. "The time has come for the faithful to inherit this land," announced the Herald. Despite being outnumbered by the council members, he exuded supreme confidence. "Boreas demands that you step down, or else invoke his wrath."\n"What is the meaning of this?" Mikusian sputtered, his voice trembling. "What are you?"\n"Have you not yet heard? Allow me to demonstrate." The Herald spread his wings as his aura intensified into a blinding light. Brilliant white rays bathed the council chambers accompanied by pulses of searing heat. The intensity was such that Mikusian feared the entire building would be set ablaze. After several seconds, the scorching waves and bright light dissipated. The Herald stood tall, completely unscathed, as the Rector Magnificus collapsed onto the ground."
- yale.128.a:0 "This Council is hereby dissolved."
+ yale.128.t:0 "운명적인 만남"
+ yale.128.d:0 "학술 위원회가 그린백의 그랜드 홀로 모이자, 거대한 그리폰 무리가 그들의 예언자의 인정을 요구하며 바깥에 모여들었습니다. 보레아스의 전령은 예일을 가로지르며 대중들을 흥분시켰고, 현재의 사회 질서에 대한 비난으로 추종자들을 얻었습니다. 이제 그의 추종자들은 위원회로 몰려들었으며, 위원회의 권위를 영원히 끝내기로 결심했습니다.\n희미하게 불이 켜진 위원회 회의실에는 마그니피쿠스 미쿠시안 총장이 발톱으로 관자놀이를 주무르며 앉아, 어떻게 이런 일이 일어날 수 있는지 궁금해했습니다. 어째서 사람들이 저 미친 그리폰의 헛소리를 믿고 무기를 들고 일어난 거지? 어떻게 하면 단지 빛의 속임수를 사용한 전령을 신성한 존재라고 믿게 된 거지? 그들의 망상이 예일의 종말이 되는 걸까? 이 모든 게 불가능해!\n갑작스러운 충격과 함께 회의실 문이 열리면서, 빛나는 인물이 위원회 안으로 걸어들어왔습니다. 그것은 전령 자신이었으며, 아무런 추종자 없이 홀로 서 있었습니다. "신자들이 이 땅을 물려받을 때가 왔습니다." 전령이 단언해왔습니다. 위원회 구성원들과 비교하여 수적으로 열세였음에도 불구하고, 그는 최고의 자신감을 발산했습니다. "보레아스께서는 여러분이 물러날 것을 요구하고 계시며, 그렇지 않으면 그의 분노를 목도하게 될 것입니다."\n"그게 무슨 뜻입니까?" 미쿠시안은 분노하여 떨리는 목소리로 말했습니다. "당신은 누구입니까?"\n"아직 못 들어보셨습니까? 제가 보여드리도록 하겠습니다." 전령은 그의 기운이 눈부신 빛으로 강렬해지자, 날개를 펼쳤습니다. 눈부신 백색 빛이 맹렬한 열기와 함께 위원회의 회의실을 뒤덮었습니다. 미쿠시안이 건물 전체가 불타오르지 않을까 두려워할 정도로, 그 열기가 높았습니다. 몇 초 후, 타오르는듯한 열기와 밝은 빛이 사라졌습니다. 전령은 마그니피쿠스 총장이 바닥에 쓰러지는 와중에도, 전혀 다치지 않은 채로 우뚝 서 있었습니다."
+ yale.128.a:0 "위원회는 현 시간부로 해산한다."
  
- yale.132.t:0 "Unrest caused" #Needs Loc
+ yale.132.t:0 "불안 사태 발생" #Needs Loc
  yale.132.d:0 ""
- yale.132.a:0 "Good"
+ yale.132.a:0 "좋아"
  
 ##BLOOD FLOWS
- yale.123.t:0 "The River of Blood"
- yale.123.d:0 "Maar is a cruel god indeed, but this time he strikes at our enemy's leadership. The general staff and the population of Yale thought that we were sure to perish, but our field marshal had drawn up one last defensive line to protect Greenback.\nThe Angriver-line. Hastily erected machine gun nests and mortars shielded the retreat of our army along the river's crossings after which Greengate's engineers blew the bridges, including the Imperial Railroad's old line. It was a move of desperation, but what happened next was unbelievable. The Imperial troops tried to wade through the river with their equipment. Their cruel taskmaster generals forced them to try and cross without proper support, ending in a massacre.\nWe thought that our luck would surely run out after the first assault, but it seemed that Arcturius had forsaken the poor Imperial soldiers who were, time and again, sent to try and cross the Angriver-line. Some days, the water would turn red with the blood of the slaughtered. Statisticians from Greenback have estimated that a million imperial soldiers have perished in the fighting so far, many times the size of our armed forces. Yale and many other cities might be occupied, but as long as the Blood River preserves us and as long as the minds of our opponents are clouded, we will never surrender."
- yale.123.a:0 "Are we blessed by Arcturius or they cursed by Maar?"
+ yale.123.t:0 "피로 물든 강"
+ yale.123.d:0 "마아르는 정말 잔인한 신입니다. 하지만 이번에는 우리의 적 지도부를 공격하고 있습니다. 예일의 작전 참모와 시민들은 우리가 반드시 멸망할 것이라고 생각하고 있는 와중에, 우리의 야전 사령관은 그린백을 보호하기 위한 마지막 방어선을 구성했습니다.\n앵그리버 선. 급하게 세워진 기관총 진지와 박격포들은 강 건너편에 있는 우리 군대의 퇴각을 엄호해 주었고, 그 후 그린게이트의 공병들이 제국 철도가 설치되어 있는 다리를 폭파했습니다. 자포자기적인 행동이었지만, 그다음에 일어난 일은 믿을 수 없었습니다. 제국의 군대가 장비를 가지고 강을 건너기 시작했습니다. 그들의 잔혹한 장군들은 적절한 지원도 없이 강을 건너도록 강요했고, 결국 대학살로 끝났습니다.\n우리는 첫 번째 공격 이후, 우리의 행운이 다 떨어졌다고 생각했지만, 아크투리우스는 앵그리버 선을 넘으려고 몇 번이고 시도하는 불쌍한 제국 군인들을 버린 것 같았습니다. 어떤 날은, 그야말로 학살당한 제국 군인들의 피로 강물이 붉게 물들었습니다. 그린백의 통계학자들은 현재까지 백만 명이 넘는 제국 군인들이 전사했다고 추정했으며, 이것은 우리 군대의 몇 배나 되는 규모입니다. 예일의 다른 많은 도시들은 점령당했을지 모르지만, 핏빛 강이 우리를 지켜주고 있으니, 우리 적들이 먼저 포기하지 않는 한, 우리는 결코 항복하지 않을 것입니다."
+ yale.123.a:0 "우리는 아크투리우스의 축복을 받은 걸까 마아르의 저주를 받은 걸까?"
  
- yale.133.t:0 "[From.GetName] accepts our invitation!"
- yale.133.d:0 "[From.GetNameDef] has accepted our research invitation and has therefore guaranteed us as we share the fruits of our research efforts with them."
- yale.133.a:0 "Excellent!"
+ yale.133.t:0 "[From.GetName]이/가 우리의 초대를 받아들이다!"
+ yale.133.d:0 "[From.GetNameDef]은/는 우리의 연구 초대에 응했으며, 그들은 우리와 함께 연구 노력의 결실을 공유한다는 것을 보장해 주었습니다."
+ yale.133.a:0 "완벽해!"
  
 ###Military Focuses
 
