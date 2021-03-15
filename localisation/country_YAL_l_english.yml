@@ -925,179 +925,179 @@
  YAL_new_guns_desc:0 "효과적인 보병 진형의 중추는 모든 군인들이 가지고 있는 소총입니다. 하지만 예일의 제식소총은 심각할 정도로 구식이며 심지어 대부분의 병사들은 지금까지도 흑색화약 머스킷을 사용하고 있습니다. 이 문제를 다루기 위해 학장 협의회는 클라우마르가 예일의 제식소총을 현대화할 수 있도록 후한 보조금을 제공하였습니다."
 
  YAL_modern_artillery:0 "포병대 재활성화"
- YAL_modern_artillery_desc:0 "When the School of Artillery and Engineering first formed, its officers were trained on muzzle loaded cannons. Yet, decades later little innovation has been made beyond this, causing the school to lag behind modern developments in design and doctrine. In order to address this, we must secure more modern armaments and properly supply the school with equipment and experts."
+ YAL_modern_artillery_desc:0 "포병 및 공병 학부가 처음 설립되었을 때만 해도, 포병 장교들은 전장식 대포에 대한 훈련을 받았습니다. 그러나, 수십 년이 지난 지금도, 과거와 비교하여 뚜렷한 혁신이 이루어지지 않아, 학부는 설계와 교리에 있어서 현대의 발전 속도에 뒤처지게 되었습니다. 이를 해결하기 위해서는 보다 현대적인 무기를 확보하고, 학부에 장비와 전문가를 적절히 공급해야 합니다."
 
  YAL_battlefield_support:0 "공병대 재활성화"
- YAL_battlefield_support_desc:0 "The Engineering Corp of the School of Artillery and Engineering has always played second fiddle in the department, receiving less funding, resources, and poorer quality staff. However, developments in modern warfare have shown the importance of engineers in combat roles, forcing us to re-evaluate the importance of the Engineering Corp within campus politics."
+ YAL_battlefield_support_desc:0 "포병 및 공병 학부에서 공병대는 포병대보다 안 좋은 취급을 받으며, 더 적은 예산과 자원 그리고 질이 떨어지는 장교들을 받게 되면서, 항상 보조적인 역할만을 해왔습니다. 그러나, 현대전의 발전은 전투에서의 공병대의 중요성을 보여주었기 때문에, 우리는 캠퍼스 정치에서 공병대의 중요성을 재평가해 주어야 합니다."
 
  YAL_protect_the_skies:0 "포병대의 다각화"
- YAL_protect_the_skies_desc:0 "Recent innovations in aircraft design have given them an important role in combat, with the ability to harass or even decimate units from the sky. The poor industrial base of Yale has forced us to seek an alternative means of dealing with this threat. Klaumar has come to the rescue, proposing that artillery guns be retrofitted with a higher velocities, allowing them to shoot explosive shells into the sky."
+ YAL_protect_the_skies_desc:0 "최근의 항공기들은 설계 혁신으로 인하여, 하늘에서 지상군을 괴롭히거나 소멸시킬 수 있을 정도의 능력을 보여주게 되면서, 전투에서 중요한 역할을 수행하게 되었습니다. 예일의 산업기반은 열악하기 때문에, 우리는 하늘에서의 위협에 대처할 수 있는 대안을 모색해야 합니다. 클라우마르 학교는 포탄을 하늘로 쏠 수 있도록, 더 빠른 속도로 발사하는 개조를 제안했으며, 작업에 착수했습니다."
 
  YAL_blazing_guns:0 "포병대 연구 보조금"
- YAL_blazing_guns_desc:0 "The Rectors are very impressed by the progress shown by Klaumar Academy, awarding the institute a highly lucrative research grant. They hope, that with this money, the school will move beyond catching up to foreign manufacturers and will instead become a leader in artillery design, development, and implementation."
+ YAL_blazing_guns_desc:0 "총장은 클라우마르 사관학교가 보여준 진보에 깊은 인상을 받아, 연구소에 매우 수익성 높은 연구 보조금을 수여했습니다. 그들은 이 보조금으로 학교가 외국의 회사들을 따라잡는 것을 넘어 야포의 설계와 개발 그리고 실전 배치의 선두주자가 되기를 바라고 있습니다."
  
  YAL_organize_the_army:0 "예일 국방 위원회 설립"
- YAL_organize_the_army_desc:0 "As tensions rise across the continent, the Council of Rectors has formed the Yale Defense Council. The Defense Council acts as a body separate, though subordinate, to the Rectors and has been given the authority to acquire equipment, prepare defenses, and raise troops in order to ensure the security and safety of the Rectorate."
+ YAL_organize_the_army_desc:0 "대륙 전역의 긴장이 고조되면서, 위원회는 예일 국방 위원회를 구성했습니다. 국방 위원회는 위원회의 부속 기관이지만, 학장국의 안전을 보장하기 위하여 장비 획득, 방어 준비, 병력 증강 등의 권한을 부여받았습니다."
 
  YAL_stand_against_our_enemies:0 "위원회의 첫 번째 명령"
- YAL_stand_against_our_enemies_desc:0 "Yale has always been a pacifist nation, rarely using its security force for anything more than border security and disaster relief. However, as the prospects of war look likely, the Defense Council has implemented its first dictate. In it, the council put in place plans to acquire modern military equipment, increase the size of the armed forces, and begin construction on new fortifications."
+ YAL_stand_against_our_enemies_desc:0 "예일은 언제나 평화주의 국가였으며, 국경 수비와 재난 구호 외에는 군대를 거의 동원하지 않았습니다. 하지만, 전쟁의 가능성이 증가함에 따라, 국방 위원회는 첫 번째 명령을 지시했습니다. 위원회는 내부 회의 결과, 현대 군사 장비를 획득하고, 군대의 규모를 늘리며, 새로운 요새의 건설을 시작하는 계획을 세웠습니다."
 
  YAL_tuition_for_service:0 "사관 생도 인가서"
- YAL_tuition_for_service_desc:0 "Yale suffers from a lack of recruits for its Security Force. This is due to the majority of the military age population seeking an education from one of the nation's universities, gaining a deferment from service. In an effort to elevate this issue, the Rectors have passed the Cadet Charter which offers financial assistant to those who serve in the Security Force to use towards their future education."
+ YAL_tuition_for_service_desc:0 "예일의 군대는 신병 부족 문제로 어려움을 겪고 있습니다. 이는 대부분의 적합한 연령층이 대학에서 교육을 받고있으며, 복무 연기를 얻고 있기 때문입니다. 이 문제를 개선하기 위한 노력의 일환으로, 총장은 군대에 복무하는 사람들에게 미래의 교육을 위하여 사용할 수 있는 지원금을 제공하는 생도 인가서를 통과시켰습니다."
 
  YAL_magic_infused_equipment:0 "크리스탈 연구 지원금"
- YAL_magic_infused_equipment_desc:0 "Within recent years, there has been a growing attention given towards crystals within academia. This is due to evidence pointing towards them being an especially dense and potent source of energy, with the ability to produce more joules per kilogram than coal or oil. However, Yale has largely ignored this field of study, a mistake which must immediately be corrected."
+ YAL_magic_infused_equipment_desc:0 "최근 몇 년 사이, 학계 내에서 크리스탈에 대한 관심이 높아지고 있습니다. 이것은 석탄이나 석유보다도 더 많은 에너지를 생산할 수 있는 능력을 가진, 특히나 밀도가 높은 강력한 에너지원이라는 증거가 밝혀졌기 때문입니다. 하지만, 예일은 크리스탈 연구에 대해서 대부분 무시했었습니다. 이 실수는 즉시 고쳐져야 합니다."
 
  YAL_support_companies:0 "우리 군대의 현대화"
- YAL_support_companies_desc:0 "The growing complexity of weapons, tactics, and warfare has created a demand for niche combat roles to support our units in combat. These include engineers for besieging entrenched positions, radiococks to coordinate units, and logistics specialists to organize the supplies necessary to keep a unit combat effect. In order to stay at the front of innovation, we must explore these organizational systems."
+ YAL_support_companies_desc:0 "무기, 전술 및 전쟁의 복잡성이 증가함에 따라 전투 상황에서, 우리 부대를 지원할 보조적인 역할을 수행하는 부대에 대한 요구가 커지고 있습니다. 여기에는 고정된 위치에 참호를 설치하는 공병대, 부대 간의 위치를 조정하는 무선 통신부대, 부대의 전투 효과를 유지하는 데 필요한 보급품을 조달하기 위한 보급 전문가 등이 포함됩니다. 혁신을 선도하기 위해서는 이러한 조직 체계를 탐구해야 합니다."
 
  YAL_racial_advantages:0 "가미아와의 협력"
- YAL_racial_advantages_desc:0 "Griffons are truly fearsome creatures with bodies that tower over their pony foes and claws which can shred even the hardiest of opponents. We must play into our natural advantages, cooperating with the biologists at Gamia to explore new and improved ways of not only exploiting our bodies within combat but using science to improve them."
+ YAL_racial_advantages_desc:0 "그리폰은 포니들 위로 솟아오르는 몸통과 가장 단단한 적들까지도 갈기갈기 찢어버릴 수 있는 발톱을 가진 정말로 무서운 생물입니다. 우리는 우리의 생물학적 이점을 이용하고, 전투에서 우리의 몸을 이용하는 새로운 방법을 탐구하고 개선하기 위하여, 가미아의 생물학자들과 협력해야 합니다."
 
- YAL_modernize_the_knights:0 "11세기 기사들"
- YAL_modernize_the_knights_desc:0 "While many of our neighbours have capitalized upon the usage of knights, our nation has never seen the benefit of training and equipping such elite warriors. However, as conflict creeps ever closer, many within the Council of Rectors are calling for the establishment of a Knight Corp within Yale, trained and equipped in a manner befitting modern special forces."
+ YAL_modernize_the_knights:0 "11세기의 기사들"
+ YAL_modernize_the_knights_desc:0 "많은 이웃들이 기사들을 사용해 왔지만, 우리나라는 그런 엘리트 전사들을 훈련시키고 장비를 갖추게 하는 것에서 이점을 본 적이 없었습니다. 하지만, 갈등이 점점 더 가까워짐에 따라, 위원회 내의 많은 사람들은, 현대의 특수부대에 맞는 방식으로 훈련하고 장비를 갖춘 기사단을 설립할 것을 요구하고 있습니다."
 
  YAL_brains_of_the_battlefield:0 "예일 총참모부"
- YAL_brains_of_the_battlefield_desc:0 "The Defense Council has served its purpose well, properly guiding the Yale Security Force from humble roots to a truly modern combat force. With this goal accomplished, the Council of Rectors has formally dismissed the Defence Council, instead allocating its most senior figures into a newly minted Security Force Chiefs of Staff."
+ YAL_brains_of_the_battlefield_desc:0 "예일 국방 위원회는 예일 군대를 초라한 근원에서 진정한 현대 전투군으로 적절히 이끌어내는 등 그 목적을 잘 수행해 왔습니다. 목표를 달성한 위원회는 공식적으로 국방 위원회를 해산하고 대신 최고위급 참모들로 구성된 총참모부를 수립하였습니다."
 
  YAL_stormshields_military_school:0 "뢰부르크 사관학교"
- YAL_stormshields_military_school_desc:0 "There are two academies dedicated to military schools of though in Yale, Klaumar and Löwburg. Within recent years, there has been a division of philosophy between the two schools, fostering a deepening rivalry. Löwburg holds onto its traditional roots, taking after the success of the Griffonian army in using infantry heavy formations and meticulously drafted battleplans."
+ YAL_stormshields_military_school_desc:0 "예일에는 클라우마르와 뢰부르크라는 두 개의 사관학교가 있습니다. 최근 몇 년 사이, 두 학교 사이에는 철학적인 분열이 생겨 경쟁의 골이 깊어지고 있습니다. 뢰부르크는 보병을 중심으로 하여 치밀하게 짜여진 전투 계획을 성공시키는, 그리포니아 군대의 전통적인 방식을 고수하고 있습니다."
 
  YAL_grand_battleplan:0 "보수파"
- YAL_grand_battleplan_desc:0 "The Old Guard dominant politics within Löwburg Academy, making up the bulk of senior academics and the academy's board of directors. They are diehard supports of the traditional Griffenheim school of military thought, which favours the heavy use of infantry formations, rigid and well-planned defensive fortification, and reliance upon meticulously drafted battleplans."
+ YAL_grand_battleplan_desc:0 "뢰부르크 사관학교 내의 보수파 집단은 고위 학자들과 학계의 책임자들로 구성되어 있어, 정치를 지배적으로 주도하고 있습니다. 그들은 전통적인 그리펜하임 군대 사상의 철저한 지지자들로, 과도한 보병대 사용과 경직되고 훌륭하게 구축된 요새화 방어 체계, 그리고 치밀하게 계획된 전투 계획에 의존하는 것을 선호합니다."
 
  YAL_trench_digging_excercises:0 "게르하르트 선 이론화"
- YAL_trench_digging_excercises_desc:0 "Gerhard Silverbeak is one of Löwburg Academy's most famed teachers, with his curriculum heavily focused upon the importance of fighting on the defensive. Within recent years, he has begun to adapt modern military innovations into his planning, designing one of the most comprehensive and unbreakable defensive frameworks within the Griffonian continent."
+ YAL_trench_digging_excercises_desc:0 "게르하르트 실버비크는 뢰부르크 사관학교에서 가장 유명한 교사 중 한 명이며, 그의 교육과정은 방어적인 전투의 중요성에 중점을 두고 있습니다. 최근 몇 년 동안, 그는 그리포니아 대륙 내에서 가장 포괄적이고 파괴할 수 없는 방어 체계 중 하나를 설계하게 되었고, 현대의 군사 혁신을 자신의 계획에 적용하기 시작했습니다."
 
  YAL_motorisation_of_divisions:0 "차량화 실험"
- YAL_motorisation_of_divisions_desc:0 "Planners from Klaumar have preached the importance of rapidly moving combat formations, putting them at the centre of their military theory. Löwburg can not be blind to these innovations and should establish an exploratory committee which will look into the integration of trucks and tanks within our existing infantry formations."
+ YAL_motorisation_of_divisions_desc:0 "클라우마르 출신의 이론가들은 빠르게 움직이는 전투의 중요성을 설파하며, 군사 이론의 중심에 놓이게 되었습니다. 뢰부르크는 이러한 혁신을 맹목적으로 수용할 수 없으며, 기존의 보병부대에 트럭과 전차를 통합하는 것에 대하여 조사할 조사 위원회를 설립해야 합니다."
 
  YAL_officer_training:0 "뢰부르크 위원회"
- YAL_officer_training_desc:0 "The Löwburg Council is a body composed of the academy's eight most senior and seasoned academics, who combined have almost two centuries of military experience. Their duty is to act as a thinktank, theorizing elaborate scenarios and developing strategies to deal with them. Through their service, Yale will be prepared for any possible disaster or war."
+ YAL_officer_training_desc:0 "뢰부르크 위원회는 사관학교 내의 여덟 명의 고위 교수들과 노련한 학자들로 구성된 기구로, 이들은 거의 2세기에 걸친 군사 경험을 가지고 있습니다. 그들의 임무는 두뇌집단의 역할을 하고, 정교한 시나리오를 이론화하며, 그것들을 다룰 전략을 개발하는 것입니다. 예일은 그들의 봉사를 통하여, 어떤 재난이나 전쟁에도 대비할 것입니다."
 
  YAL_organised_defence:0 "게르하르트 선 개발"
- YAL_organised_defence_desc:0 "The Council of Rectors has given the go ahead to begin development on the Gerhard Line, with a series of strongpoints being developed along certain favourable terrain. When finished, this line would ensure the security of Yale from outside threats."
+ YAL_organised_defence_desc:0 "위원회는 게르하르트 선 개발을 시작할 수 있는 기회를 주었으며, 특정 요충지를 따라 일련의 방위 거점으로 개발되고 있습니다. 이 선이 안성 된다면, 외부 위협으로부터 예일의 안전을 보장할 수 있을 것입니다."
 
  YAL_fortress_yale:0 "첫 번째 단계 완료"
- YAL_fortress_yale_desc:0 "The first phase of the Gerhard Line has been completed with the development of a basic system of strongpoints throughout the nation. While the current system may seem lacking, when finished, it will provide an intricate system of defense-in-depth which will offer security from even the most unrelenting of foes."
+ YAL_fortress_yale_desc:0 "게르하르트 선의 첫 번째 단계는 전국적으로 방위 거점을 설치하는 기본적인 시스템으로 완성되었습니다. 현재의 시스템은 부족한 것처럼 보일 수 있지만, 완성된다면, 가장 무자비한 적들과 싸우게 되더라도, 안전을 제공할 복잡한 심층 방어 시스템을 제공하게 될 것입니다."
 
  YAL_expand_ammunition_production:0 "군용 소총 표준화"
- YAL_expand_ammunition_production_desc:0 "Currently, battalions of the Yale Security Force are sponsored by the nation's universities. These campuses are each responsible for the equipping of their units, meaning that two campuses can contract drastically different arms manufacturers, creating a logistical nightmare. In an effort to address this, the Defense Council has drafted a short list of approved manufacturers."
+ YAL_expand_ammunition_production_desc:0 "현재, 예일 군대는 대학들의 지원을 받고 있습니다. 이 대학들은 각각 그들의 부대의 설비를 책임지고 있습니다. 이것은 대학들이 완전히 다른 무기 제조회사들과 계약을 맺을 수 있다는 것을 의미하며, 물류상의 악몽을 만들어내고 있습니다. 이 문제를 해결하기 위한 노력의 일환으로, 국방 위원회는 승인된 제조 업체의 간단한 목록을 작성했습니다."
 
  YAL_extend_military_service:0 "동호회 군사화"
- YAL_extend_military_service_desc:0 "Löwburg Academy, along with other universities, host a number of clubs and organizations, which the student body is encouraged to join. Recently, the Defense Council has passed a resolution which would see these bodies conscripted into impromptu combat battalions in the event of foreign invasion."
+ YAL_extend_military_service_desc:0 "뢰부르크 사관학교는 다른 대학들과 같이, 많은 클럽과 동호회들을 운영하고 있으며, 학생회는 활동에 동참할 것을 권장하고 있습니다. 최근, 국방 위원회는 외국의 침략이 있을 경우 이러한 동호회들을, 즉석으로 전투 대대로 징집하는 것을 허용하는 결의안을 통과시켰습니다."
 
  YAL_national_fortification_effort:0 "뢰부르크 청소년 동맹"
- YAL_national_fortification_effort_desc:0 "The age of admission for Löwburg Academy is 14, meaning that a significant minority of the student body is below the age of enlistment. However, they can still contribute meaningfully towards the war effort, providing much need labour for the construction of fortified hardpoints and digging of trench networks."
+ YAL_national_fortification_effort_desc:0 "뢰부르크 사관학교의 입학 연령은 14세로, 이것은 학생들 중 상당수가 입대 연령보다 낮다는 것을 의미합니다. 그러나, 그들은 전쟁에서 의미 있는 기여를 할 수 있습니다. 그들은 방어 거점의 건설과 참호망 건설에 필요한 많은 노동력을 제공합니다."
 
  YAL_infantry_power:0 "뢰부르크 부대"
- YAL_infantry_power_desc:0 "The rigorous training of Löwburg's cadets has created a class of officers who are dedicated in their service to Yale. Löwburg officer attack harder, defend to the last, and can push their units farther than their counterparts at Klaumar. These Löwburg Battalions will provide the perfect backbone for the future of the Yale Security Force."
+ YAL_infantry_power_desc:0 "뢰부르크 사관 생도들의 엄격한 훈련은 예일에 헌신하는 장교들을 만들어냈습니다. 뢰부르크 장교들은 더 열심히 공격하고, 마지막까지 방어하며, 클라우마르보다 더 멀리 적들을 밀어낼 수 있습니다. 뢰부르크 부대는 예일 군대의 미래를 위한 완벽한 기틀을 제공할 것입니다."
 
  YAL_mass_assault_f:0 "적위대"
- YAL_mass_assault_f_desc:0 "The Red Guard are a group of students who are closely linked with academics and professors of Cyrusval University. They are politically motivated and have fallen hard for leftist ideals. They believe in the establishment of a broad People's Security Force, which will include a greater segment of society, while also adhering to the strong infantry bias of Löwburg Academy."
+ YAL_mass_assault_f_desc:0 "적위대는 사이러스발 대학의 학자들과 교수들과 밀접하게 연관된 학생 조직입니다. 그들은 정치적인 의욕에 사로잡혀 있으며 좌파적 이상에 푹 빠져 있습니다. 그들은 뢰부르크 사관학교의 강력한 보병 중심 사상에 집착하는 동시에 사회의 더 큰 부분을 포함하는, 광범위한 인민방위군의 설립을 믿고 있습니다."
 
  YAL_tweak_conscription_requirements:0 "지방 캠퍼스"
- YAL_tweak_conscription_requirements_desc:0 "The Red Guard have called upon Löwburg Academy to establish provisional campuses throughout Yale, making their education more accessible to the entire population. It is hoped that through this, a greater number of griffons can receive a military education, drastically increasing the size of our reserves."
+ YAL_tweak_conscription_requirements_desc:0 "적위대는 뢰부르크 사관학교에 예일 전역에 지방 캠퍼스를 설립할 것을 요청하여, 전체 인구에 대하여 교육을 보다 쉽게 할 수 있도록 만들었습니다. 이를 통해 더 많은 그리폰들이 군사 교육을 받을 수 있게 되었고, 이것으로 우리의 예비군 규모를 대폭 늘릴 수 있기를 바랍니다."
 
  YAL_sharing_is_caring:0 "교리 재정립"
- YAL_sharing_is_caring_desc:0 "Previously, Löwburg's doctrine for surrounded unit focused on attempting a breakout and linking back up with the frontline. In the event this failed, a surrender was to be made in order to preserve life in the face of defeat. However, the Red Guard criticizes this philosophy, believing that surrounded units can still fulfil a very important role of tying down enemy battalions."
+ YAL_sharing_is_caring_desc:0 "과거, 뢰부르크 사관학교는 포위된 부대의 대처 방법으로, 탈출을 시도하고 전선과 다시 합류하는 데에 초점을 맞췄습니다. 만약 이것이 실패한다면, 패배에 직면하여 생명을 보존하기 위해 항복해야 했습니다. 하지만, 적위대는 포위된 부대가 여전히 적 대대를 묶어놓을 수 있는, 매우 중요한 역할을 수행할 수 있다고 믿으면서 이러한 교리를 비판하고 있습니다."
 
  YAL_wave_tactics:0 "조합원 징집"
- YAL_wave_tactics_desc:0 "Universities runs on more than just academics. There is a whole support network of janitors, chefs, mechanics, groundskeepers, and various other jobs which are necessary to keep the campus running. All of these support staff are mandated to join a campus union which looks after their collective interests. With conflict on the horizon, union members will now be liable for conscription."
+ YAL_wave_tactics_desc:0 "대학은 단순한 학업 이상의 것을 기반으로 삼고 있습니다. 관리인, 요리사, 정비사, 현장 관리인, 그리고 캠퍼스를 운영하는데 필요한 다양한 직업들로 구성된 전체적인 지원 네트워크가 있습니다. 이러한 모든 지원 담당자들은, 자신들의 집단 이익을 돌보는 캠퍼스 조합에 가입해야 합니다. 갈등이 표면화됨에 따라, 조합원들은 이제 징병에 대한 책임을 지게 될 것입니다."
 
  YAL_infantry_first:0 "교리 혁신"
- YAL_infantry_first_desc:0 "The concept of mass assault is hard to swallow. It calls for what is in essentially griffon wave tactics, throwing walls of young cocks and hens into the meat grinder that is combat. However, the adoption of this philosophy on warfare is the only viable option for a nation as poor in industry and resources as Yale."
+ YAL_infantry_first_desc:0 "대규모 돌격의 개념은 받아들이기 어렵습니다. 이것은 본질적으로 그리폰 제파식 전술을 요구하고 있으며, 어린 군인들을 고기 분쇄기에 던져놓는 꼴입니다. 하지만, 전쟁에 대한 이 교리의 채택은 예일만큼 산업과 자원이 빈약한 나라들에게 있어 유일하게 실행 가능한 선택입니다."
 
  YAL_feathered_swarm:0 "적위대가 통제권을 잡다"
- YAL_feathered_swarm_desc:0 "In a stunning vote, the Löwburg Board voted 5-3 in favour of appointing Heinz Featherhoff as headmaster of the academy. Featherhoff is regarded as the only senior academic whose views aligned with those of The Red Guard. With his appointment, it is expected that Löwburg Academy will continue to experience further reforms in management and doctrine."
+ YAL_feathered_swarm_desc:0 "놀라운 투표 결과가 발생했는데, 뢰부르크 위원회는 하인츠 페더호프를 사관학교 교장으로 임명하는 데, 5 대 3으로 찬성투표를 했습니다. 페더호프는 적위대의 견해와 일치하는 유일한 고위 학자로 여겨집니다. 그의 부임으로, 뢰부르크 사관학교는 경영과 교리에 있어 더 많은 개혁을 경험할 것으로 예상됩니다."
 
 ##Navy
 
- YAL_navy_stuff:0 "예일 해안경비대 창설"
- YAL_navy_stuff_desc:0 "Our recent acquisition of coastal lands has opened up a new frontier to our military, rich with possibilities. The Yale Coastal Defense Force's primary duty is to protect the waters off our domains and ensure that our ports and shipping lanes remain safe from piracy and hostile navies."
+ YAL_navy_stuff:0 "예일 해안방위군 창설"
+ YAL_navy_stuff_desc:0 "최근 연안의 땅을 획득하면서 가능성이 풍부한 우리 군대의 새로운 전선이 열리게 되었습니다. 예일 해안방위군의 주요 임무는, 우리 영토의 바다를 보호하고 우리 항구와 항로가, 해적과 적대적인 해군으로부터 안전하게 보호되도록 하는 것입니다."
 
  YAL_base_strike_f:0 "히포그리프 모델"
- YAL_base_strike_f_desc:0 "When it come to naval dominance, no navy controls the seas quite like the Hippogriffs. Their navy is centred upon aircraft carriers, which combine air and naval power to maximize their projection of force over vast geographic areas. By hiring Hippogriffian military advisors, we can begin to train our future sailors on Equestrian doctrine."
+ YAL_base_strike_f_desc:0 "해군에 관한한, 히포그리프처럼 바다를 다스리는 해군은 없습니다. 그들의 해군은 항공모함을 중심으로 하고 있는데, 항공모함과 해군력을 결합한 결과, 그들은 광대한 지역에 그들의 전력 투영을 극대화하고 있습니다. 히포그리프 군사 고문을 고용함으로써, 우리는 선진적인 이퀘스트리아 교리에 대하여, 우리의 선원들을 훈련시킬 수 있습니다."
 
  YAL_carrier_f:0 "미완성 상태의 주력함 개조"
- YAL_carrier_f_desc:0 "Griffonia is a land of many optimistic governments with lofty naval ambitions. However, for every battleship that sets sail, another three languish in ports, in a perpetual state of incompletion. By buying these incomplete ships, we can convert them into our first aircraft carriers."
+ YAL_carrier_f_desc:0 "그리포니아는 높은 해군 야망을 가진, 수많은 낙관적인 정부들의 땅입니다. 모든 전함들은 출항할 때, 항구에 3척의 미완성 상태의 전함을 남겨두고 출발합니다. 이러한 불완전한 선박들을 구입함으로써, 우리는 그것들을 우리의 첫 항공모함으로 바꿀 수 있습니다."
 
  YAL_navy_planes_f:0 "항공기 재개발"
- YAL_navy_planes_f_desc:0 "Aircraft carriers pose an interesting challenge. Their shorter runways mean that the planes operating from them need to be lighter, while limited hanger space requires a more compact design. However, we are Yale, and challenges simply mean a new opportunity to innovate, adapt, and design."
+ YAL_navy_planes_f_desc:0 "항공모함은 흥미로운 도전을 제시하고 있습니다. 활주로가 짧다는 것은 항공기가 더 가벼워져야 한다는 것을 의미하고, 격납고가 제한되어 있다는 것은 좀 더 작은 디자인을 필요로 한다는 것을 의미합니다. 하지만, 우리는 예일이고, 도전은 단순하게 혁신, 적응, 그리고 새로운 디자인을 위한 기회를 뜻합니다."
 
  YAL_fleet_being_f:0 "페디시아 모델"
- YAL_fleet_being_f_desc:0 "Feathisia is the only member of the Empire to have a navy, with a battlecruiser acting as the nucleus which holds their small fleet together. Their doctrine calls upon the use of heavy ships with thick armour and big guns to exert dominance over the seas. By cooperating with the Rottendedam Naval Academy, we can ensure their expertise in the establishment of our navy."
+ YAL_fleet_being_f_desc:0 "페디시아는 해군이 있는 제국의 유일한 구성원이며, 전투 순양함은 작은 함대를 하나로 묶어주는 중추 역할을 합니다. 그들의 교리는 바다를 지배하기 위하여, 두꺼운 장갑과 거대한 함포를 가진 무거운 배를 사용할 것을 요구합니다. 로텐데담 해군사관학교와 협력함으로써, 해군 창설에 대한 그들의 전문성을 보장할 수 있습니다."
 
  YAL_dockyards:0 "민간 조선소 통합"
- YAL_dockyards_desc:0 "The merchant fleets and fishing flotillas of our recently occupied foes were born from civilian dockyards that our now under our administration. By seizing these strategic assets and upgrading them, we can incorporate them into our military."
+ YAL_dockyards_desc:0 "최근에 노획한 적들의 상선과 어획용 선박들은, 현재 우리 정부의 민간 조선소에서 태어났습니다. 이러한 전략적 자산을 탈취하고 업그레이드함으로써, 우리는 그것들을 우리 군에 통합시킬 수 있습니다."
 
  YAL_battlecruiser_f:0 "페디시아의 설계도"
- YAL_battlecruiser_f_desc:0 "The Negen Provincien stands as the pride of both the Feathisian Navy and the de facto Imperial Kriegsmarine. While the ship's design is a closely guarded secret, we can hopefully convince our brothers to help us in taking the first steps in naval development."
+ YAL_battlecruiser_f_desc:0 "네겐 급은 페디시아 해군, 사실상의 제국 전쟁해군의 자랑거리입니다. 함선의 설계도는 철저한 비밀이지만, 형제들이 해군 개발의 첫걸음을 내딛는 데 도움을 줄 수 있도록 설득할 수 있기를 바랍니다."
 
  YAL_light_cruiser_f:0 "국내 선박 회사 지원"
- YAL_light_cruiser_f_desc:0 "While the realm of ship building has been nothing but a fantasy, until recently, it hasn't stopped our engineers from drafting blueprints and coming up with designs for all manner of ships. While most are too lofty for current technology and industrial capabilities, a singular light cruiser design has proven feasible for our Rectorate to put into action."
+ YAL_light_cruiser_f_desc:0 "자체적인 선박 건조는 환상에 불과했지만, 최근까지도 우리 기술자들이 청사진을 작성하고 모든 종류의 선박을 설계하는 것을 막지는 못했습니다. 대부분의 설계안이 현재의 기술 및 산업 기능에 비해 너무 높은 수준이지만, 단일 경순양함 설계는 학장국이 실행에 옮기는 것이 가능한 것으로 입증되었습니다."
 
  YAL_battleship_f:0 "지식, 학습, 이해"
- YAL_battleship_f_desc:0 "Our recent naval build-up has created a need for even larger ships in order to further secure our interests abroad. The Rectorate has seen that a series of three battleships be commissioned in the coming years. These will be known as the Knowledge, the Learning, and the Understanding, and each will bear armour and weaponry that is unmatched."
+ YAL_battleship_f_desc:0 "우리의 최근 해군력 증강은, 해외에서의 우리의 이익을 더욱 확고히 하기 위하여 더욱 거대한 함선의 필요성을 만들어냈습니다. 학장국은 앞으로, 몇 년 안에 3척의 전함이 취역할 것이라고 보고 있습니다. 이들은 지식, 학습, 이해라고 불릴 것이며, 각각에 비할 바 없는 장갑과 무기를 보유하게 될 것입니다."
 
  YAL_expand_dockyards:0 "민간 조선소 추가 통합"
- YAL_expand_dockyards_desc:0 "Our seizure of civilian dockyards did wonders in kickstarting production of our warships. However, our appetite for these crucial industrial assets has not been sated. We must further encroach upon the civilian naval infrastructure and seize even more dockyards."
+ YAL_expand_dockyards_desc:0 "민간 조선소를 압류한 것은 우리 군함의 생산을 시작하는 데 놀라운 역할을 했습니다. 그러나, 이러한 중요한 산업 자산에 대한 우리의 욕구는 충족되지 않았습니다. 우리는 민간 조선소들을 더 많이 탈취하고, 더 많은 항구들을 점령해야 합니다."
 
- YAL_marine_f:0 "예일 해안경비대 소속 보병대"
- YAL_marine_f_desc:0 "The Yale Coastal Defense Force has been requesting their own infantry units for quite some time, claiming that the regular Security Force does a poor job of training their recruits on the realities of naval invasions. They hope that this new branch will form an elite combat force which will be utilized for raiding hostile coast lines."
+ YAL_marine_f:0 "예일 해안방위군 소속 보병대"
+ YAL_marine_f_desc:0 "예일 해안방위군은 육군이 해상 침략에 대비하는 신병 훈련을 제대로 하고 있지 못하고 있다고 주장하며, 꽤나 오랜 시간 동안, 그들 자신의 보병 부대를 요청해 왔습니다. 그들은 이 새로운 부대가 적대적인 해안선을 침범하는 데 활용될 정예 전투력으로 형성되기를 기대하고 있습니다."
 
  YAL_transport_f:0 "기갑장비 상륙용 주정"
- YAL_transport_f_desc:0 "If we were even pushed to launch a naval raid, our infantry would be put in a highly precarious situation. Current doctrine is sparse on the subject and our existing landing craft are little more than fishing skiffs. In order to modernize our forces, we must invest into upgrading both our landing craft and the doctrine behind them."
+ YAL_transport_f_desc:0 "만약 우리가 상륙작전을 시행한다면, 우리 보병들은 매우 위태로운 상황에 놓이게 될 것입니다. 현재 우리의 교리는, 이 주제에 대해 희박하고, 우리의 기존 상륙정은 낚시용 보트에 지나지 않습니다. 우리의 군대를 현대화하기 위해서, 우리는 우리의 상륙정과 교리를 향상시키는 데 투자해야 합니다."
 
  YAL_trade_indirection_f:0 "예일 모델"
- YAL_trade_indirection_f_desc:0 "Our experience at the seas is minimal, putting us at a severe disadvantage against the more established navies of the world. When paired with our weak industrial capabilities, it might be wise to invest in a small navy of light ships which lowers the chances of wasted investment while we endure this learning phase."
+ YAL_trade_indirection_f_desc:0 "바다에서의 우리의 경험은 미미하기 때문에, 세계의 보다 확립된 해군들과 비교해본다면, 심각한 불이익을 받고 있습니다. 우리의 취약한 산업 역량을 생각해 볼 때, 학습 단계를 견디는 동안 투자 낭비의 가능성이 낮은, 소형 경비정에 투자하는 것이 현명할지도 모릅니다."
 
  YAL_destroyer_f:0 "실험"
- YAL_destroyer_f_desc:0 "Before we can plunge fully into the world of naval warfare, we must first construct a testing platform in order to test new weapons, combat systems, and electronics. While designed for testing purposes, these light ships could also make effective destroyers in a pinch."
+ YAL_destroyer_f_desc:0 "우리가 해전의 세계로 완전히 뛰어들기 전에, 우리는 먼저 새로운 무기, 전투 시스템, 그리고 전자기기를 시험하기 위한 실험용 선박을 제조해야 합니다. 테스트 목적으로 설계되었지만, 이러한 경비정은 또한 효과적인 구축함이 될 수 있습니다."
 
  YAL_submarine_f:0 "가미아의 예상 밖의 지원"
- YAL_submarine_f_desc:0 "Hosting Yale's foremost biology department, Gamia has been known to operate many research projects abroad in order to study all manner of life. One such venture, is the operation of a research submersible which studies coral life in the South Sun Sea. They have promised to assist in weaponizing the design of this vessel if they are given permission to continue all veins of research unmolested."
+ YAL_submarine_f_desc:0 "예일 최고의 생물학과를 운영하는 가미아는, 모든 생물들의 생활방식을 연구하기 위하여, 해외에 많은 연구 프로젝트를 운영하는 것으로 알려져 있습니다. 이러한 모험 중 하나는, 남태양해의 산호 생물을 연구하는 연구용 잠수정의 운영입니다. 그들은 자신들의 모든 연구를 방해하지 않으며 계속할 수 있도록 허락해 준다면, 잠수함의 무기화하는 것을 돕겠다고 약속했습니다."
 
 ##Air
  
  YAL_air_stuff:0 "그린백 항공"
- YAL_air_stuff_desc:0 "Greenback Air was formed in 976, offering mail and passenger air service to the many university towns and cities across Yale. Since then, they have expanded into a regional powerhouse, offering air service to locations as far away as Griffenheim, Mirabelle, Aquila, New Manehattan, and Sunset."
+ YAL_air_stuff_desc:0 "그린백 항공은 976년에 설립되어, 예일 전역의 많은 대학 도시와 마을에 우편과 여객기 서비스를 제공했습니다. 그 이후로, 그들은 지역 유력 회사로 확장되어 그리펜하임, 미라벨러, 아퀼라, 뉴 메인해튼, 선셋과 같은 먼 지역에 항공 서비스를 제공하고 있습니다."
 
  YAL_fighter_projects:0 "외국 디자인 수입"
- YAL_fighter_projects_desc:0 "There is no need to reinvent the wheel. Other nations have designed aircraft which are better and more advanced than anything we can hope to domestically produce. We shall import these designs and study them, using them as the backbone for our own domestic aircraft."
+ YAL_fighter_projects_desc:0 "바퀴를 재창조할 필요는 없습니다. 다른 나라들은 우리가 국내에서 생산할 수 있는, 그 어떤 것보다 더 우수하고 더 진보된 항공기를 설계했습니다. 우리는 이러한 디자인을 수입하여 연구할 것이며, 이를 자체적인 국내 항공기 생산을 위한 토대로 사용할 것입니다."
 
  YAL_doctrinal_development:0 "공세적 vs 방어적인 공군"
- YAL_doctrinal_development_desc:0 "The Yale Defense Council is currently split on the role of our air force in future conflicts. One group of experts are claiming that an air force should be used to strike at enemy formations, disrupting them before they threaten us. Another group claims that the focus of an air force should be to defend our industrial assets from aerial attack."
+ YAL_doctrinal_development_desc:0 "예일 국방 위원회는, 향후 분쟁에서의 우리 공군의 역할에 대하여 의견이 엇갈리고 있습니다. 한 전문가 집단은 적의 대열을 공격하기 위하여 공군이 투입되어야 한다고 주장하며, 그들이 우리를 위협하기 전에 그들을 방해해야 한다고 주장하고 있습니다. 또 다른 집단은 공군의 초점은 우리의 산업 자산을 공중 공격으로부터 보호하는 것이라고 주장하고 있습니다."
 
  YAL_actual_air_bases:0 "그린백 국제공항을 위한 두 번째 활주로"
- YAL_actual_air_bases_desc:0 "Greenback International Airport is one of the busiest in Griffonia, servicing close to half a million passengers annual. In order to accommodate this increased demand, the airport authority has requests grants to constructs a second runway, increasing the speed by which planes can take off and land."
+ YAL_actual_air_bases_desc:0 "그린백 국제공항은 그리포니아에서 가장 붐비는 공항 중 하나로 연간 50만 명에 가까운 승객을 대상으로 서비스를 제공하고 있습니다. 이러한 수요 증가를 수용하기 위하여, 공항 당국은 보조 활주로 건설을 위한 보조금을 요청하여, 비행기가 이착륙할 수 있는 속도를 증가시켰습니다."
 
  YAL_strat:0 "지저분한 일"
- YAL_strat_desc:0 "There is nothing clean and glorious about the horrors of modern war. As the progress of industrialization continues, cities and the civilian populace become another figure to factor into when calculating the strength of a nation. While Yale has no intention of delving to these lowest of the lows, we must still be prepared to strike at this military asset when the time comes."
+ YAL_strat_desc:0 "현대 전쟁의 공포 중에 깨끗하고 영광스러운 것은 없습니다. 산업화의 진보가 계속됨에 따라, 도시와 민간인들은 국가의 힘을 계산할 때 고려해야 할 또 다른 요소로 계산됩니다. 예일은 밑바닥으로 내려갈 생각은 없지만, 때가 되면 우리는 이러한 군사 자산을 공격할 준비를 해야 합니다."
 
  YAL_tact:0 "다목적 항공기"
- YAL_tact_desc:0 "Bombs fill many important roles in the doctrine of modern war. They can be used against enemy strongpoints, used to disrupt hostile formations and infrastructure, or used to knock out the enemy's industrial capabilities. It is important that we design a bomber which can perform all of these roles effectively."
+ YAL_tact_desc:0 "폭탄은 현대 전쟁 이론에서 많은 중요한 역할을 차지합니다. 적의 방위 거점에 대항하여 사용할 수 있고, 적의 포대와 기반 시설을 파괴하거나, 산업 능력을 파괴하는 데 사용할 수 있습니다. 이러한 모든 역할을 효과적으로 수행할 수 있는 폭격기를 설계하는 것이 중요합니다."
 
  YAL_napalm:0 "그린게이트의 지원"
- YAL_napalm_desc:0 "The chemists at Greengate have discovered a new chemical which will forever revolutionize war. It is likened to a petroleum-based jelly which is known to burn hot and for long periods of time. If this substance were to be used in our bombs, we could drastically increase the damage they could do."
+ YAL_napalm_desc:0 "그린게이트의 화학자들은 전쟁을 영원히 혁명적으로 바꿀 새로운 화학물질을 발견했습니다. 이것은 뜨겁고 오랫동안 타는 것으로 알려진 석유 기반의 젤리와 비슷합니다. 만약 이 물질을 우리의 폭탄에 사용한다면, 피해를 크게 증가시킬 수 있을 것입니다."
 
  YAL_CAS_projects:0 "공지전"
- YAL_CAS_projects_desc:0 "In the event of war, it will become vital for our air force to possess the means of assaulting hostile formations. By employing light attack aircraft, we can ensure a maneuverable and highly accurate means of assaulting the enemy."
+ YAL_CAS_projects_desc:0 "전쟁이 발발할 경우, 우리 공군이 적의 대열을 공격할 수 있는 수단을 보유하는 것이 필수적이 될 것입니다. 우리는 경비행기를 이용하여 기동성이 뛰어나고 정확하게 적을 공격할 수 있는 수단을 확보할 수 있습니다."
 
  YAL_heavy_fighter_projects:0 "그리포니아 전투기"
- YAL_heavy_fighter_projects_desc:0 "Griffonia is a vast continent and traditional aircraft can only hope to cover a few hundred kilometers of it. In order to address this, we must design larger aircraft which can operate over much larger distances."
+ YAL_heavy_fighter_projects_desc:0 "그리포니아는 거대한 대륙이고 전통적인 항공기는 수백 킬로미터만 커버할 수 있습니다. 이 문제를 해결하기 위해, 우리는 훨씬 더 먼 거리를 운항할 수 있는 더 큰 항공기를 설계해야 합니다."
 
  YAL_rocket_projects:0 "100킬로미터"
- YAL_rocket_projects_desc:0 "It seems like such a small distance, barely shorter than that between Greenback and Yale. Yet, if one were to head straight up, this minor jaunt would be the difference between our world and space. A hundred kilometers is all that separates us from the stars and the engineers and scientists of Yale want to be the first to break this barrier."
+ YAL_rocket_projects_desc:0 "그린백과 예일 사이의 거리는 생각보다 짧지 않은 거리입니다. 하지만, 만약 똑바로 일직선으로 향하게 된다면, 이 짧은 여행은, 우리가 살고 있는 세계와 우주 사이의 차이점과 다를 바 없어질 것입니다. 100킬로미터는, 우리를 별에서 분리시키는 전부이고, 예일 공학자들과 과학자들은 이 장벽을 가장 먼저 깨고 싶어 합니다."
 
  YAL_paratrooper_project:0 "포괄적인 공수부대에 집중"
- YAL_paratrooper_project_desc:0 "Look doesn't anyone else find it weird that griffons need parachutes? They have wings. Why don't they just fly to the place they want to drop onto."
+ YAL_paratrooper_project_desc:0 "그리폰에게 낙하산이 필요하다는 것이 이상하다고 생각하는 사람 없습니까? 그들은 날개를 가지고 있습니다. 그냥 그들이 내려가고 싶은 곳으로 날아가는 건 어떻습니까?"
 
  YAL_expanded_bases:0 "지역 공항 개발"
- YAL_expanded_bases_desc:0 "While Greenback International has prospered in recent years, the dozen or so regional airports throughout Yale have remained relatively stagnant. Eight of them are missing terminals, six are missing air traffic control towers, and five don't even have a paved runway. These issues must be solved in order to ensure the dominance of Greenback Air."
+ YAL_expanded_bases_desc:0 "그린백 국제공항은 최근 몇 년 동안 번창했지만, 예일 전역의 12개 정도의 지방 공항들은 상대적으로 침체되어 있습니다. 그중 8곳은 터미널, 6곳은 항공관제탑, 5곳은 포장된 활주로도 없습니다. 그린백 항공의 우위를 확보하기 위해서는 이러한 문제가 해결되어야 합니다."
 
  YAL_jet_fighters:0 "음속의 장벽"
- YAL_jet_fighters_desc:0 "Can a griffon go faster than the speed of sound? Scientists and engineers have been asking this question for close to a decade, watching as advances in aircraft bring us ever closer to this dream. However, with the advent of the jet engine it seems like this lofty goal might finally be within our reach."
+ YAL_jet_fighters_desc:0 "그리폰이 소리의 속도보다도 더 빨리 갈 수 있을까? 과학자들과 기술자들은 이 질문을 10년 가까이 해왔습니다. 항공기의 발전이 우리의 꿈에 더 가까이 다가갈 수 있게 만들어주는 것을 지켜보면서 말입니다. 하지만, 제트엔진의 등장으로 이 고상한 목표가 마침내 우리 손에 잡힐 듯합니다."
 
 
 ###Events
