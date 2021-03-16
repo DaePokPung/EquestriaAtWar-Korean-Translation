@@ -71,44 +71,44 @@
  BRZ_the_forges_of_the_bronze_paw:0 "브론즈힐 산업혁명"
  BRZ_the_forges_of_the_bronze_paw_desc:0 "산업 현대화의 다음 단계로 접어든 브론즈힐 경제는 승리감에 싸여 있습니다. 앞으로 많은 발전이 남아 있지만, 우리는 여기까지 브론즈힐을 이끌어 온 것은 우리의 피, 땀, 그리고 눈물들이었다는 것을 자랑스럽게 알고 있습니다."
 
- BRZ_found_vereinigte_stahlwerke:0 "Vereinigte Stahlwerk"
- BRZ_found_vereinigte_stahlwerke_desc:0 "For decades, the firms of the Griffonian Empire have set up steel mills in Bronzekreuz, using the regions rich supplies of coal, iron, and cheap labour to produce steel. Little of this remains within Bronzehill, with the bulk being exported while we are left in chronic shortage. To address this, our government has entered into a partnership with Diamond Dog investors to set a domestically operated enterprise."
+ BRZ_found_vereinigte_stahlwerke:0 "제철소 연합"
+ BRZ_found_vereinigte_stahlwerke_desc:0 "수십년 동안 그리포니아 제국의 기업들은 풍부한 석탄과 철, 그리고 값싼 노동력을 이용하기 위해 브론제크로이츠에 제철소를 세웠습니다. 대량으로 자원이 수출된 뒤에 브론즈힐에 남은 자원은 거의 없기에 만성적인 부족 상태에 놓여 있습니다. 이를 해결하기 위해 우리 정부는 다이아몬드 독 투자자들과 손잡고 국내 기업을 설립했습니다."
 
- BRZ_farming_subsidies:0 "Agricultural Grants"
- BRZ_farming_subsidies_desc:0 "The mountainous geography and chilly climate of Bronzehill have made the development of agriculture rather difficult, putting us in a situation where we rely heavily upon the import of food in order to feed our dogs. However, with proper funding we can provide grants to firms willing to build irrigation networks and import modern agrochemicals into our nation, greatly increasing productivity."
+ BRZ_farming_subsidies:0 "농업 보조금"
+ BRZ_farming_subsidies_desc:0 "브론즈힐의 산악지형과 쌀쌀한 기후는 농업의 발전을 다소 어렵게 만들면서 우리는 식량 수입에 크게 의존해야 했습니다. 그러나 적절한 재정적 지원을 통해 관개 네트워크를 구축하고 현대적인 농약들을 수입하는 기업에 보조금을 지급해서 생산성을 크게 높일 수 있을 것니다."
 
- BRZ_young_readers_programmes:0 "Establish a Unified Curriculum"
- BRZ_young_readers_programmes_desc:0 "While education is mandatory for all pups under the age of 9, the curriculum and quality of lessons can vary greatly depending on which region the pup resides. This has resulted in some towns and villages offering a subpar education which can even flounder in providing basic literacy. By creating a unified curriculum and hiring qualified teachers we can ensure a solid education for all pups to come."
+ BRZ_young_readers_programmes:0 "교육과정 통일"
+ BRZ_young_readers_programmes_desc:0 "9세 미만의 모든 강아지들에게 교육은 의무적이지만, 거주 지역에 따라서 교육과정과 수업의 질이 크게 차이가 났습니다. 이것은 몇몇 마을들이 기초적인 읽고 쓰는 영역에서조차 수준 이하의 교육을 제공하는 결과를 낳았습니다. 통일된 교육과정을 만들고 자격을 갖춘 교사를 고용함으로써 우리는 모든 강아지들이 따라올 수 있는 견고한 교육을 보장할 수 있습니다."
 
- BRZ_open_the_university_of_bronzekreuz:0 "Bronzekreuz Imperial University"
- BRZ_open_the_university_of_bronzekreuz_desc:0 "Bronzehill is the only nation in the entire Griffonian Empire without a centre for higher education, resulting in many students having to venture abroad to complete their studies. The establishment of a proper centre of learning within Bronzekreuz would hopefully divert this brain drain and help to create a centre for research, scientific thought, and higher learning upon our very own soil."
+ BRZ_open_the_university_of_bronzekreuz:0 "브론체크로이츠 제국 대학"
+ BRZ_open_the_university_of_bronzekreuz_desc:0 "브론즈힐은 그리포니아 제국에서 고등 교육을 위한 기관이 없는 유일한 국가이며, 결과적으로 많은 학생들이 공부를 위해 해외로 떠나야만 하는 결과를 가져왔습니다. 브론체크로이츠 내에 적절한 교육 기관을 설립하는 것은 이러한 두뇌 유출을 줄이고 연구, 과학적 사고, 그리고 국내에서 진행되는 더 높은 수준의 교육을 위한 장소를 제공하는 데 도움이 될 것입니다."
 
- BRZ_clan_azar_dun_exiles:0 "Welcome Refugees from Clan Azar-Dun"
- BRZ_clan_azar_dun_exiles_desc:0 "Within the depths of the Diamond Mountain resides a clan of Diamond Dogs especially skilled at the building, maintenance, and development of complex electronics. These dogs are known as the Warlock-Engineers of Clan Azar-Dun. While these dogs receive substantial rewards from the tyrants of the mountain, many within their ranks still wish to flee to the safety of our realm."
+ BRZ_clan_azar_dun_exiles:0 "아자르 던 부족의 피난민 수용"
+ BRZ_clan_azar_dun_exiles_desc:0 "다이아몬드 마운틴의 깊은 곳에는 복잡한 전자 제품의 제조, 유지 및 개발에 능숙한 다이아몬드 독 부족들이 살고 있습니다. 이 개들은 보통 아자르 던 부족의 마법 엔지니어라고 알려져 있습니다. 이 개들은 산의 폭군들로부터 상당한 보상을 받고 있지만, 그들 중 많은 이들은 여전히 우리나라로 도망치고 싶어합니다."
 
  BRZ_scientific_research_groups:0 "BITE"
- BRZ_scientific_research_groups_desc:0 "The Bronzehill Institute of Technicians and Engineers was established in order to pool together the collective mental resources of our nation. The goal of this institute is to provide a venue for the collaboration of projects in the hope that it'll make the research and development of new technologies proceed quicker than before."
+ BRZ_scientific_research_groups_desc:0 "브론즈힐 기술 및 공학 연구소(Bronzehill Institute of Technicians and Engineers) BITE는 우리나라의 정신적 자원을 한데 모으기 위해 설립되었습니다. 이 연구소의 목표는 신기술의 연구개발이 이전보다 빠르게 진행될 수 있도록 하기 위해 프로젝트 협업의 장을 제공하는 것입니다."
 
- BRZ_expand_crystal_mines:0 "Embracing Our Legacy"
- BRZ_expand_crystal_mines_desc:0 "The extraction of precious gems and crystals has always been an integral part of Diamond Dog culture, dating back to the first of our clans. Our nation is no exception, providing the most lucrative crystal mines within the entire empire. While their production is already impressive, there is still room for expansion with the possibility of mines in Crownspike looking especially promising."
+ BRZ_expand_crystal_mines:0 "유산 포용"
+ BRZ_expand_crystal_mines_desc:0 "우리 종족의 기원으로 거슬러 올라가면 귀중한 보석과 크리스탈의 추출은 항상 다이아몬드 독 문화에서 필수적이었습니다. 제국을 통틀어 가장 수익성이 좋은 크리스탈 광산을 보유한 우리나라도 예외는 아닙니다. 광산들의 생산량은 이미 인상적이긴 하지만, 크라운스파이크에 있는 유망한 광산들에겐 여전히 확장할 수 있는 여지가 있습니다."
 
- BRZ_liberal_banking_reform:0 "Liberalise the Bronzehill Banking System"
- BRZ_liberal_banking_reform_desc:0 "The Bronzehill banking system was hit hard in the aftermath of the empire's decline, resulting in the defaulting of many branches. While there has been some recovery since the worst days, our banking system still rests on a rocky foundation. By liberalizing our banking laws, we can create a more attractive environment for foreign finance to enter and eject fresh capital into our economy and banks."
+ BRZ_liberal_banking_reform:0 "브론즈힐 은행 시스템 자유화"
+ BRZ_liberal_banking_reform_desc:0 "브론즈힐 은행 시스템은 제국의 쇠퇴의 여파로 큰 타격을 입었고, 이로 인해 많은 지점들이 파산했습니다. 최악의 날 이후로 약간의 회복이 있었지만, 우리의 은행 시스템은 여전히 위태로운 기반 위에 놓여 있습니다. 우리의 은행법을 자유화함으로써, 우리는 외국 금융이 우리의 경제와 은행에 새로운 자본을 투입하고 배출할 수 있는 보다 매력적인 환경을 조성할 수 있습니다."
 
- BRZ_extend_development_grants:0 "Prop Up the Grover V Industrial Park"
- BRZ_extend_development_grants_desc:0 "The Grover V Industrial Park has not been a silver bullet to help kickstart our industrial revolution. Instead many of the plots remain barren and the few established firms either flounder or fail to make a profit. As such, our government has begun to offer subsidises and grants to foreign firms willing to relocate to the park in the hope that it'll attract better equipped businesses who can generate a profit."
+ BRZ_extend_development_grants:0 "그로버 5세 산업단지 지원"
+ BRZ_extend_development_grants_desc:0 "그로버 5세 산업단지는 우리의 산업 혁명의 신호탄이 아닙니다. 산업단지 프로젝트의 많은 계획들은 실패했고 소수의 살아남은 기업들은 시장에서 허우적거리거나 수익을 내는 데 실패하고 있습니다. 이에 우리 정부는 수익을 창출할 수 있는 더 나은 설비를 갖춘 사업자들을 유치하기 위해 단지로 이전하려는 외국 기업들에게 보조금을 제공하기로 했습니다."
 
- BRZ_reopen_the_markets:0 "Make Goldtooth Economic Minister"
- BRZ_reopen_the_markets_desc:0 "Max Goldtooth is a renown economist within the Griffonian Empire who preaches a hardline liberal stance on economic affairs, believing that governments should provide little oversight over the actions of private firms. By offering him a position in our administration, it's hoped that he can make Bronzehill a lucrative investment for capitalists in Griffenheim and beyond."
+ BRZ_reopen_the_markets:0 "골드투스 경제장관 임명"
+ BRZ_reopen_the_markets_desc:0 "막스 골드투스는 그리포니아 제국에서 유명한 경제학자로, 정부가 민간 기업의 행동에 대한 감독을 거의 하지 않아야 한다고 믿으며, 경제 문제에 대해 강경한 자유주의 입장을 설파하고 있습니다. 그에게 우리 행정부 자리를 제안함으로써 브론즈힐을 그리펜하임과 그 너머의 자본가들에게 수익성 있는 투자처로 만들어 줄 수 있기를 바랍니다."
 
- BRZ_imperial_cooperation:0 "Deepen Imperial Ties"
- BRZ_imperial_cooperation_desc:0 "Griffenheim has always been a reliable investor in our economy, bringing our nation from the brink of ruin to the state it's in today. We must once again go to the imperial court and plead our case, begging their excellency to come to our aid and strengthen the economic ties which have served us so well."
+ BRZ_imperial_cooperation:0 "제국과의 결속 강화"
+ BRZ_imperial_cooperation_desc:0 "그리펜하임은 항상 우리 경제에 대해선 믿을 만한 투자 상대이며, 파멸의 위기에서 오늘날의 나라까지 이끌어 왔습니다. 우리는 다시 한 번 황궁으로 가서 우리의 상황을 설명하고 그들의 우수한 능력으로 우리에게 도움을 준 경제적 유대관계를 강화해 달라고 간청해야 합니다."
 
- BRZ_investment_competition:0 "Attract Foriegn Investment"
- BRZ_investment_competition_desc:0 "By relying upon the capitalists and nobles of Griffenheim to finance our economic development, we severely constricted the supply of capital on which we could call upon. Our lands are rich in resources and our dogs willing to work hard for their future. We are a land ripe with possible investments and we should begin to cut deals based on profits and not loyalty to the imperial throne."
+ BRZ_investment_competition:0 "외국 투자 유치"
+ BRZ_investment_competition_desc:0 "경제 발전을 위해 우리는 그리펜하임의 자본가와 귀족들에게 의존하며 우리 몫의 자본의 공급을 엄격하게 제한했습니다. 우리 땅에는 자원이 풍부하고 개들은 자신들의 미래를 위해 열심히 일하려고 합니다. 우리는 가능한 투자로 무르익은 땅이며, 제국 왕위에 대한 충성심이 아니라 이익에 따라 거래를 틀어야 합니다."
 
- BRZ_expand_the_ravenworks:0 "Expand the Grover V Industrial Park"
- BRZ_expand_the_ravenworks_desc:0 "What was once a floundering enterprise, on the brink of death, has become a success story with millions of bits worth of profits flowing into the coffers of Bronzekreuz and Griffenheim. The space offered by the Grover V Industrial Park has been completed rented out and there are calls to expand the industrial infrastructure in the hope of securing more firms and investment for our nation's development."
+ BRZ_expand_the_ravenworks:0 "그로버 5세 산업단지 확장"
+ BRZ_expand_the_ravenworks_desc:0 "한때 브론즈힐이 허우적거리며 죽음의 문턱에 다다랐을 때, 브론체크로이츠와 그리펜하임의 금고에 수백만 비츠의 수익이 흘러들면서 성공의 신화가 되었습니다. 그로버 5세 산업단지를 위한 토지가 확보되었으며, 더 많은 기업들을 확보하고 우리 나라의 발전을 위한 투자를 희망하여 산업 인프라를 확충해야 한다는 요구가 있습니다."
 
  BRZ_underground_railway:0 "Underground Railroad"
  BRZ_underground_railway_desc:0 "Diamond Dogs might have many shortcomings but our skill at taming mountainous terrain is matched by none. While other species struggle to build infrastructure upon mountains, we have learned to bury deep below them, laying our track and building our roads along the vast tunnel networks our ancestors have excavated for generations."
