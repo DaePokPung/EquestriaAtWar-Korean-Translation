@@ -110,71 +110,71 @@
  BRZ_expand_the_ravenworks:0 "그로버 5세 산업단지 확장"
  BRZ_expand_the_ravenworks_desc:0 "한때 브론즈힐이 허우적거리며 죽음의 문턱에 다다랐을 때, 브론체크로이츠와 그리펜하임의 금고에 수백만 비츠의 수익이 흘러들면서 성공의 신화가 되었습니다. 그로버 5세 산업단지를 위한 토지가 확보되었으며, 더 많은 기업들을 확보하고 우리 나라의 발전을 위한 투자를 희망하여 산업 인프라를 확충해야 한다는 요구가 있습니다."
 
- BRZ_underground_railway:0 "Underground Railroad"
- BRZ_underground_railway_desc:0 "Diamond Dogs might have many shortcomings but our skill at taming mountainous terrain is matched by none. While other species struggle to build infrastructure upon mountains, we have learned to bury deep below them, laying our track and building our roads along the vast tunnel networks our ancestors have excavated for generations."
+ BRZ_underground_railway:0 "지하 철도"
+ BRZ_underground_railway_desc:0 "다이아몬드 독들에게는 많은 단점이 있지만, 우리의 산악 지형을 길들이는 기술은 그 누구도 따라올 수 없을 것입니다. 다른 종족들이 산에 기반시설을 짓기 위해 고군분투하는 동안, 우리는 그 아래 깊이 매장하는 법을 배웠고, 선조들이 대대로 뚫어 온 거대한 터널망을 따라 길을 건설했습니다."
  
- BRZ_refit_standerd_rail_gages:0 "Adopt the Imperial Rail Gauge"
- BRZ_refit_standerd_rail_gages_desc:0 "There is one last hurdle that remains in the way of trade between our economy and that of the Griffonian Empire as a whole. This is the issue of our rail gauges. Due to our heavy use of subterranean trade networks we have adapted to smaller trains on thinner tracks. By retrofitting the rail lines of our southern lands, to the Imperial standard, we can more easily trade with our Griffon allies."
+ BRZ_refit_standerd_rail_gages:0 "제국 궤간 수용"
+ BRZ_refit_standerd_rail_gages_desc:0 "우리 경제와 그리포니아 제국 사이의 무역에 있어 마지막 장애물이 하나 남아있습니다. 바로 우리의 궤간 문제입니다. 지하 무역망의 남용으로 인해 우리는 좁은 선로를 다니는 작은 열차를 사용해 왔습니다. 우리 남쪽 땅의 철도를 제국 표준으로 개량함으로써 그리폰 동맹국들과 더 쉽게 거래할 수 있을 것입니다."
 
- BRZ_the_new_industrial_heartland:0 "A Griffonian Industrial Revolution"
- BRZ_the_new_industrial_heartland_desc:0 "The economy of Bronzehill stands triumphant as we enter the next stage of our industrial modernisation. While there is much progress to be made, we can look back proudly, knowing that it was through our unwavering loyalty to the crown and closeness to the empire that we managed to make it this far."
+ BRZ_the_new_industrial_heartland:0 "그리포니아 산업혁명"
+ BRZ_the_new_industrial_heartland_desc:0 "브론즈힐의 경제는 우리가 산업 현대화의 다음 단계에 진입함에 따라 크게 성장하고 있습니다. 많은 발전이 있었지만, 제국에 대한 변함없는 충성심과 친밀함을 통해 여기까지 올라왔다는 것을 알기에 우리는 지금까지의 역사를 자랑스럽게 돌아볼 수 있었습니다."
 
- BRZ_industrial_reform_laws:0 "Industrial Reforms"
- BRZ_industrial_reform_laws_desc:0 "Many of the inefficient and archaic bureaucracies which plagued our initial industrial revolution still linger to this day, offering a barrier to firms wishing to establish themselves in our lands. By removing many of the old guard within these agencies, we can install fresh blood and reform the organisations into something which can actually benefit economic development."
+ BRZ_industrial_reform_laws:0 "산업 개혁"
+ BRZ_industrial_reform_laws_desc:0 "초기 산업혁명을 괴롭혔던 비효율적이고 낡은 관료주의들 중 많은 것들이 오늘날까지 남아 우리 땅에 지부를 설립하려는 기업들에게 장벽이 되고 있습니다. 이러한 기관들에 있는 옛 잔재들을 제거함으로써, 우리는 새로운 인재들을 영입하고 조직을 경제 발전에 실제로 도움이 될 수 있게끔 개혁할 수 있을 것입니다."
 
- BRZ_employment_works_act:0 "Right to Fair Work Act"
- BRZ_employment_works_act_desc:0 "The Right to Fair Work Act mandates that the goal of the Bronzehill government is to ensure that every Diamond Dog who is willing, is employed within a field which will provide them with the resources to live a fulfilling life. In order to accomplish this goal, the government will subsidise firms in order to ensure the opening of new positions and establishment of a living wage."
+ BRZ_employment_works_act:0 "평등근로권법"
+ BRZ_employment_works_act_desc:0 "평등하게 일할 수 있는 권리는 브론즈힐 정부는 노동력을 제공하는 모든 다이아몬드 독들이 만족스러운 삶을 살 수 있는 자원을 제공하는 범위 안에 들어가야 할 것을 목표로 하라고 규정하고 있습니다. 이 목표를 달성하기 위해, 정부는 새로운 직책을 개설했으며 생활에 필요한 최소한의 수입 확보를 보장하기 위해 기업에 보조금을 지원할 것입니다."
 
- BRZ_hundburg_mine:0 "Hundburg Mine"
- BRZ_hundburg_mine_desc:0 "The mountains of Bronzehill are rich in resources necessary to fuel our industrial revolution. However, new mines must be built to access these reserves. A promising location for such mines is near the village of Hundburg. Reports from prospectors in the region have generated a buzz amongst Griffenheim's investors and already requests have flooded in, begging us to lease these lands."
+ BRZ_hundburg_mine:0 "훈트부르크 광산"
+ BRZ_hundburg_mine_desc:0 "브론즈힐의 산에는 우리의 산업혁명에 필요한 자원이 풍부합니다. 하지만, 이러한 보호된 구역에 접근하기 위해서는 새로운 광산이 건설되어야 합니다. 이러한 유망한 광산들의 위치는 훈트부르크의 마을 근처에 있습니다. 그리펜하임의 투자자들 사이에서는 이 지역에 땅을 임대해 달라는 부동산 투기꾼들의 제보가 쇄도하고 있습니다."
 
  # Military #
 
  BRZ_military_budget_review:0 "1007년 국방예산"
- BRZ_military_budget_review_desc:0 "Military funding has never been a very high priority amongst the ministers of Bronzehill, owing to the ethos of pacifism that both our government and dogs share. This had led to our military being severely outdated with equipment which is decades obsolete. However, with tensions rising on the continent it has become vital to begin modernizing our forces."
+ BRZ_military_budget_review_desc:0 "브론즈힐 정부와 국민들이 공유하고 있는 평화주의 정신 때문에 장관들 사이에서 국방 예산은 그리 높은 우선순위가 된 적이 없었습니다. 이로 인해 우리 군은 수십 년이나 뒤처진 구식 장비를 사용하고 있습니다. 그리고 대륙에 긴장이 고조되면서, 우리 군대의 현대화를 시작하는 것은 매우 중요해지고 있습니다."
 
  BRZ_review_the_defencive_lines:0 "벙커가 근간이다"
- BRZ_review_the_defencive_lines_desc:0 "The limited scale of our military means that it can only engage meaningfully when on the defensive. Thankfully, the mountainous terrain of Bronzehill and the subterranean nature of Diamond Dogs have allowed us to develop an intricate system of bunkers within the mountains. With additional funding, these fortifications can be upgraded and better equipped for the conflict ahead."
+ BRZ_review_the_defencive_lines_desc:0 "우리 군의 규모가 제한적이라는 것은 방어 태세에 있을 때만 의미 있는 교전을 할 수 있다는 것을 의미합니다. 고맙게도 브론즈힐의 산악 지형과 다이아몬드 독들의 지하 생활 환경은 우리가 산 속에서 복잡한 벙커 시스템을 개발할 수 있게 해주었습니다. 추가적인 재정 지원을 통해 이러한 요새를 업그레이드하고 향후의 전투에 대비할 수 있을 것입니다."
 
  BRZ_fortify_against_the_south:0 "저지대 요새화"
- BRZ_fortify_against_the_south_desc:0 "The lowlands of Bronzehill house the bulk of the nation's population, industry, and economic development. As such, it should be our upmost priority to fortify these regions in the face of foreign invasion, creating a compressive network of bunkers, fall back positions, and subterranean tunnel systems."
+ BRZ_fortify_against_the_south_desc:0 "브론즈힐의 저지대는 인구, 산업, 경제 발전의 대부분을 차지하고 있습니다. 따라서, 외국의 침략에 대비하여 이러한 지역을 요새화하는 것이 우리의 최우선 과제가 되어야 하며 벙커, 후퇴선, 지하 터널 시스템의 통합 네트워크를 형성해야 합니다."
 
  BRZ_fortify_against_the_west:0 "벨렌 요새화"
- BRZ_fortify_against_the_west_desc:0 "The Bellen River acts as a vital artery connecting our lands to Griffenheim. Along this river is the bulk of our industrial base, economy, and resources extraction facilities. If this artery were to be severed the imperial throne would lose an important source of resources for their war effort. As such, it's important that we centre our defences on this river and ensure that it remains open to trade."
+ BRZ_fortify_against_the_west_desc:0 "벨렌 강은 우리 영토와 그리펜하임을 연결하는 중요한 경로 역할을 합니다. 이 강을 따라 산업 기반, 경제 및 자원 추출 시설의 대부분이 위치해 있습니다. 만약 이 경로가 끊어진다면 제국은 그들의 전쟁에서 중요한 자원을 잃게 될 것입니다. 따라서 우리는 이 강에 방어를 집중시켜서 무역이 방해받지 않도록 하는 것이 중요합니다."
 
  BRZ_defence_plan_bone_focus:0 "전쟁계획 본"
- BRZ_defence_plan_bone_focus_desc:0 "War Plan Bone was first drafted in 976, by Field Martial Theo Kaza-Gull in the face of possible invasion from the east by River Federation forces. It calls for a rigid defensive line to be formed on the frontier by a vanguard force which will buy time to evacuate materials, resources, and divisions into the mountains of Highhill and Crownspike where they will fight a protracted guerilla campaign."
+ BRZ_defence_plan_bone_focus_desc:0 "전쟁계획 본은 976년 동쪽의 리버 연합군의 침략에 대비하기 위해 야전 참모 테오 카자굴에 의해 처음으로 고안되었습니다. 이 계획은 최전방에 견고한 방어선을 구축해서 장기간에 걸친 게릴라전을 벌일 수 있는 자원과 병력을 하이힐과 크라운스파이크의 산으로 대피시킬 시간을 벌 수 있도록 할 것을 주장하고 있습니다."
 
- BRZ_anti_pacifism_campaign:0 "Challenge our Ethos"
- BRZ_anti_pacifism_campaign_desc:0 "Pacifism has been a core component of Bronzehill society since its inception, owing to the oppression many of our dogs faced at the hands of the Diamond Mountain military. While these traumas will take generations to be resolved, our borders are now immediately threatened. We must bend this spirit of pacifism in order to ensure the security of our nation."
+ BRZ_anti_pacifism_campaign:0 "기풍에 대한 저항"
+ BRZ_anti_pacifism_campaign_desc:0 "평화주의는 많은 이들이 다이아몬드 마운틴 군대의 억압을 겪었던 경험으로 인해 건국 이래 브론즈힐 사회의 핵심 요소였습니다. 이 트라우마는 수세대를 지나면서 해결될 수도 있겠지만, 우리의 국경은 지금 당장 위협을 받고 있습니다. 우리는 우리나라의 안전을 보장하기 위해 이 평화주의의 정신을 잠시 굽혀야 합니다."
 
- BRZ_reopen_bronzekreuz_militery_acadamy:0 "Reopen the Bronzekreuz Military Academy"
- BRZ_reopen_bronzekreuz_militery_acadamy_desc:0 "The Bronzekreuz Military Academy was opened soon after our independence, with Griffenheim using it to help foster a domestic officer corp. However, when it became apparent that our military would never grow beyond a self-defence force, the facility was defunded and shut down. Now, In the face of nearing conflict, it has become vital that we reopen this academy."
+ BRZ_reopen_bronzekreuz_militery_acadamy:0 "브론체크로이츠 사관학교 교육 재개"
+ BRZ_reopen_bronzekreuz_militery_acadamy_desc:0 "브론체크로이츠 사관학교는 우리가 독립한 직후에 문을 열었고, 그리펜하임이 국내 장교들의 육성을 돕기 위해 이용한 바 있습니다. 하지만 우리 군이 결코 자위대 수준을 넘어설 수 없다는 것이 명백해지면서 학교의 예산이 감축되었고 얼마 못 가 폐교되었습니다. 이제 갈등이 수면 위로 떠오르는 상황에서 이 학교를 다시 여는 것이 매우 중요해졌습니다."
 
- BRZ_armour_tests:0 "이동식 "
- BRZ_armour_tests_desc:0 "The Imperial Army has experimented with armoured warfare for some time, developing a few battalions of tanks to augment their forces. The effectiveness of tanks in warfare can not be understated. Of special interest to us are the heavier designs, which would help guarantee our defences with the ability to plug breaches in our lines with these mobile bunkers."
+ BRZ_armour_tests:0 "이동식 벙커"
+ BRZ_armour_tests_desc:0 "제국 육군은 한동안 기갑전투 실험을 통해 몇 대대 수준의 전차들을 개발해 병력을 증강했습니다. 전쟁에서 전차의 효과는 아무리 강조해도 지나치지 않습니다. 특히 우리의 관심사는 중전차 디자인에 몰려 있습니다. 이 이동식 벙커는 우리 전선에서 방어력을 보장하는 데 도움이 될 것입니다."
 
- BRZ_modern_guns:0 "Mobile Artillery"
- BRZ_modern_guns_desc:0 "The combination of a tank chassis with one of our phenomenally designed artillery pieces allows them to be moved under their own independent propulsion. By developing a vehicle which combines these two technologies we'd greatly benefit from increased mobility, allowing us to respond to situational developments with better flexibility and speed."
+ BRZ_modern_guns:0 "기동포병"
+ BRZ_modern_guns_desc:0 "탱크 섀시와 경이롭게 설계된 야포의 결합을 통해 포병이 자체적인 추진력을 가지고 이동할 수 있습니다. 이 두 기술을 결합한 차량을 개발하면 이동성이 향상되어 상황에 따른 더 나은 유연성과 속도로 대응할 수 있게 될 것입니다."
 
- BRZ_reencourage_artillery_development:0 "Reignite the Bronze Forge"
- BRZ_reencourage_artillery_development_desc:0 "The Bronze Forge was originally designed to be the central armoury for all of Bronzehill's military needs. However, the limited scope of our army, and the lack of interest in exporting arms, meant the forge was closed in favour of importing arms from Griffenheim. However, In the face of our current crisis, it's become paramount to reignite the forges and produce our own domestic weaponry."
+ BRZ_reencourage_artillery_development:0 "브론즈 제철소 재가동"
+ BRZ_reencourage_artillery_development_desc:0 "브론즈 제철소는 원래 브론즈힐의 모든 군사적 요구를 위한 중앙 무기고로 설계되었습니다. 하지만 우리 군의 제한된 활동 범위와 무기 수출에 대한 관심 부족으로 인해 그리펜하임으로부터 무기를 수입하는 방향으로 정책이 바뀌면서 제철소는 폐쇄되었습니다 그러나 현재의 위기에 직면한 상황에서 제철소를 다시 가동하고 자체적인 국산 무기를 생산하는 것이 중요해지고 있습니다."
 
- BRZ_light_artillery:0 "Light Artillery"
- BRZ_light_artillery_desc:0 "Our mountainous and hilly terrain creates an environment of many tight crevice and narrow ridges in which traditional guns could get jammed and bogged down. By investing in alternative materials and design methods we can slim down our weapons with only a minor reduction in calibre. These new lighter guns would then be ideally suited for such rugged terrain."
+ BRZ_light_artillery:0 "경포"
+ BRZ_light_artillery_desc:0 "산이 많고 구릉지대인 우리의 지형은 전통적인 무기로 통과하기 어려운 좁은 틈과 능선의 환경을 조성합니다. 대체재와 설계 방법에 투자함으로써 우리는 약간의 구경 감소만으로 무기의 군살을 뺄 수 있게 되었습니다. 이 신형 경포는 이러한 험준한 지형에 이상적으로 적합합니다."
 
- BRZ_heavy_artillery:0 "Heavy Artillery"
- BRZ_heavy_artillery_desc:0 "At one time, the Bronze Forge had a reputation for producing truly impressive guns with calibres far larger than anything else in Griffonia. This reputation is just waiting to be reclaimed, under the ideal of building bigger, better, and more effective artillery. If properly deployed it could prove a decisive factor in strengthening our defences."
+ BRZ_heavy_artillery:0 "중포"
+ BRZ_heavy_artillery_desc:0 "한때 브론즈 제철소는 그리포니아에서 다른 어떤 것보다 훨씬 큰 구경을 가져 인상적인 총을 생산한 것으로 명성을 떨쳤습니다. 이 명성은 더 크고, 더 우수하며, 더 효과적인 포병을 구축한다는 이상적인 생각 아래 다시 떠오르기만을 기다리고 있습니다. 이들은 적재적소에 배치된다면 우리의 방어력을 강화하는 결정적인 요인이 될 수 있습니다."
 
- BRZ_high_altitued_training:0 "Guerilla Training"
- BRZ_high_altitued_training_desc:0 "In the face of invasion, our forces are expected to retreat into the mountains of Crownspike. Fighting here will be based less on traditional methods of war and be more focused on hit and run, ambush, and guerilla tactics. As such, it's important that our forces are trained in the skills necessary to wage a successful guerilla campaign."
+ BRZ_high_altitued_training:0 "게릴라 훈련"
+ BRZ_high_altitued_training_desc:0 "침공에 맞서 아군은 크라운스파이크 산으로 후퇴할 것으로 예상됩니다. 여기서 싸운다면 전통적인 전쟁 방법보다는 히트 앤 런, 매복, 게릴라 전술이 더 중요해질 것입니다. 따라서 우리 군대에는 성공적인 게릴라 전투를 벌이기 위해 필요한 기술을 훈련 받는 것이 중요합니다."
 
- BRZ_expand_the_gunforges:0 "Expand the Bronzekreuz Forges"
- BRZ_expand_the_gunforges_desc:0 "For decades, weapon production within Bronzehill has been extremely limited with only a few state operated factories producing a limited quantity of ammunition and licensed rifles. However, in the face of growing uncertainty, our government has earmarked funding to drastically increase the productivity of these factories in order to supply our growing needs."
+ BRZ_expand_the_gunforges:0 "브론체크로이츠 제철소 확장"
+ BRZ_expand_the_gunforges_desc:0 "수십 년 동안 브론즈힐의 무기 생산은 극히 제한적이었습니다. 소수의 국영 공장만이 제한된 양의 탄약과 허가된 소총을 생산했습니다. 하지만 불확실한 미래를 마주한 우리 정부는 증가하는 무기 요구량을 맞추기 위해 이러한 공장들의 생산성을 대폭 증가시키기 위한 예산을 배정했습니다."
 
- BRZ_support_company_intergration:0 "Bronzehill Corp of Engineers"
- BRZ_support_company_intergration_desc:0 "The Bronzehill Corp of Engineers is a branch of the army which specialises in a number of niche combat duties such as maintaining vehicles, providing logistical services, and aiding in general engineering projects. By further integrating these units into our frontline divisions we would see improved communication and provision of services in the conflict ahead."
-
+ BRZ_support_company_intergration:0 "브론즈힐 공병대"
+ BRZ_support_company_intergration_desc:0 "브론즈힐 공병대는 차량 정비, 물류 서비스 제공, 일반적인 공병 프로젝트 지원 등 여러 비전투 임무를 전문적으로 수행하는 군 분대입니다. 이 부대를 우리의 최전방 사단에 추가적으로 통합함으로써, 우리는 앞으로의 전투에서 통신과 서비스 제공의 개선을 볼 수 있을 것입니다."
+ 
  BRZ_licence_guns:0 "Bronzehill-Griffenheim Accords"
  BRZ_licence_guns_desc:0 "The Bronzehill-Griffenheim Accords are a series of treaties rooted in the deep connection between our two nations. While these accords cover a variety of topics, one of the most respected is the accord relating to military cooperation. In it, our government is promised protection, cooperation between forces, and the freedom to buy imperial weapon designs."
 
