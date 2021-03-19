@@ -207,7 +207,7 @@
 
  # Political - General#
 
- BRZ_reforme_the_bronze_council:0 "브론즈힐 협의회 개혁"
+ BRZ_reforme_the_bronze_council:0 "브론즈 회의 개혁"
  BRZ_reforme_the_bronze_council_desc:0 "위기의 시기에서 백작은 국가의 장관, 귀족, 그리고 주요 인사들의 모임인 브론즈힐 평의회를 구성할 의무가 있습니다. 이 모임에서 백작은 토론을 주재하면서 어려운 시기를 헤쳐나가는 나라를 지도하기 위해 노력하는 역할을 맡습니다. 황제가 죽고, 그의 제국이 내전을 눈앞에 둔 상황에서 이그나티우스 브론즈힐 백작은 반드시 이 임무를 수행해야 합니다."
 
  BRZ_go_with_gabriela:0 "가브리엘라 지지"
@@ -233,14 +233,14 @@
 
  # Political - Harmony/Gabriela # 
 
- BRZ_reformation_act:0 "브론즈힐 협의회 공식화"
- BRZ_reformation_act_desc:0 "전통적으로 브론즈힐 협의회는 일시적인 문제를 다루기 위해 사용되는 임시 기구였습니다. 하지만, 현재의 위기가 심화됨에 따라 이에 대처하는 데는 수 년이 걸릴 것이 분명해졌습니다. 따라서 브론즈힐 평의회는 헌법에 따라 법적인 지위와 통치 능력을 갖춘 정식 기관이 되어야 합니다."
+ BRZ_reformation_act:0 "브론즈 회의 공식화"
+ BRZ_reformation_act_desc:0 "전통적으로 브론즈 회의는 일시적인 문제를 다루기 위해 사용되는 임시 기구였습니다. 하지만, 현재의 위기가 심화됨에 따라 이에 대처하는 데는 수 년이 걸릴 것이 분명해졌습니다. 따라서 브론즈힐 평의회는 헌법에 따라 법적인 지위와 통치 능력을 갖춘 정식 기관이 되어야 합니다."
 
- BRZ_lift_political_restrictions:0 "브론즈힐 협의회 개방"
- BRZ_lift_political_restrictions_desc:0 "브론즈힐 협의회는 귀족적인 단체로, 지상 엘리트들의 이익을 대변해 왔습니다. 그러나 광부, 농부, 부유한 상인에 이르기까지 우리 인구의 압도적 대다수는 대표하지 않았습니다. 그들 모두는 이 새로운 브론즈힐 협의회 내에서 발언권을 원하고 있으며, 우리는 보다 포괄적으로 개혁할 수 있도록 노력해야 합니다."
+ BRZ_lift_political_restrictions:0 "브론즈 회의 개방"
+ BRZ_lift_political_restrictions_desc:0 "브론즈 회의는 귀족적인 단체로, 지상 엘리트들의 이익을 대변해 왔습니다. 그러나 광부, 농부, 부유한 상인에 이르기까지 우리 인구의 압도적 대다수는 대표하지 않았습니다. 그들 모두는 이 새로운 브론즈 회의 내에서 발언권을 원하고 있으며, 우리는 보다 포괄적으로 개혁할 수 있도록 노력해야 합니다."
 
  BRZ_first_elections:0 "첫 선거"
- BRZ_first_elections_desc:0 "브론즈힐 협의회가 사회 각 계층들에게 모두 개방되면서 이를 민주화해야 한다는 목소리가 높아지고 있습니다. 이그나티우스 브론즈테일 백작은 민주주의에 대한 이러한 요구에 부응하면서, 현재의 협의회를 해산하고 새 의원을 선출하기 위한 선거를 개최할 것을 약속했습니다."
+ BRZ_first_elections_desc:0 "브론즈 회의가 사회 각 계층들에게 모두 개방되면서 이를 민주화해야 한다는 목소리가 높아지고 있습니다. 이그나티우스 브론즈테일 백작은 민주주의에 대한 이러한 요구에 부응하면서, 현재의 협의회를 해산하고 새 의원을 선출하기 위한 선거를 개최할 것을 약속했습니다."
 
  BRZ_office_of_science_and_industry:0 "과학기술부"
  BRZ_office_of_science_and_industry_desc:0 "과학기술부는 브론즈힐의 연구개발 사업에 재정적 및 여러 형태의 지원을 통해 경제를 지원하기 위해 설립되었습니다. 이것은 주로 지방 개발에 투자하고자 하는 국내 기업들에 대한 자금 조달과 보조금을 통해 이루어집니다."
@@ -252,7 +252,7 @@
  BRZ_the_copperhill_cabinate_desc:0 "첫 선거를 계기로 저명한 장관들이 자신들의 대의명분에 대한 지지를 모으기 시작하면서 정당들이 형성되기 시작했습니다. 현재 이들 중 가장 큰 정당은 전 광물부 장관 윈스턴 카퍼테일이 이끄는 조화보수당입니다. 그의 당은 이글클로 공작부인의 대의와 매우 일치하고 있으며 그는 전통적인 정부가 그리펜하임에 돌아오는 것을 보고 싶어합니다."
 
  BRZ_estabilish_the_office_of_the_prime_minister:0 "총리실 설립"
- BRZ_estabilish_the_office_of_the_prime_minister_desc:0 "브론즈힐 협의회가 복잡하게 변하면서 브론즈테일 백작이 총리직을 맡게 되었는데, 이 직책은 이전에 백작이 맡았던 지도적 역할을 맡게 될 것입니다. 총리의 의무는 협의회를 이끌고 효과적으로 통치하는 것입니다. 제1당의 당수로서 윈스턴 카퍼테일은 이 직책에 당연히도 첫 번째 선택이었습니다."
+ BRZ_estabilish_the_office_of_the_prime_minister_desc:0 "브론즈 회의가 복잡하게 변하면서 브론즈테일 백작이 총리직을 맡게 되었는데, 이 직책은 이전에 백작이 맡았던 지도적 역할을 맡게 될 것입니다. 총리의 의무는 협의회를 이끌고 효과적으로 통치하는 것입니다. 제1당의 당수로서 윈스턴 카퍼테일은 이 직책에 당연히도 첫 번째 선택이었습니다."
 
  BRZ_harmonic_life_laws:0 "종족평등법"
  BRZ_harmonic_life_laws_desc:0 "그리포니아는 다이아몬드 개, 그리폰, 조랑말, 체인질링, 얼룩말, 사슴이 모두 고향이라고 부르는 많은 종족으로 이루어진 대륙입니다. 종족평등법의 서명으로 우리 정부는 우리의 국경이 모든 종들의 안전한 안식처가 되도록 보장하고, 그들에게 우리가 한때 운좋게 제공받았던 것과 같은 피난처와 안전의 기회를 제공합니다."
@@ -279,7 +279,7 @@
  BRZ_reach_out_to_equestria_desc:0 "한 세기가 넘도록 이퀘스트리아의 포니들은 조화에 한해서는 최강의 자리에 서 있었습니다. 포니들과 외교 관계를 수립하기 위해 이퀘스트리아로 대표단을 파견해야 합니다. 우정과 화합이 우리 모두를 하나로 만들길 바랍니다."
 
  BRZ_the_free_mountains:0 "자유의 산"
- BRZ_the_free_mountains_desc:0 "브론즈힐 협의회가 선출되는 체계로 진화하고, 이 조화로운 제도를 유지하기 위한 카퍼힐 정부의 헌신은 안정적이고 변함없는 민주주의를 발전시켰습니다. 집정관의 폭정과 외세 공산주의의 위협 앞에서 브론즈힐의 산들은 항상 민주주의와 자유로운 사상, 자유의 보루일 것입니다."
+ BRZ_the_free_mountains_desc:0 "브론즈 회의가 선출되는 체계로 진화하고, 이 조화로운 제도를 유지하기 위한 카퍼힐 정부의 헌신은 안정적이고 변함없는 민주주의를 발전시켰습니다. 집정관의 폭정과 외세 공산주의의 위협 앞에서 브론즈힐의 산들은 항상 민주주의와 자유로운 사상, 자유의 보루일 것입니다."
 
  BRZ_bronzhill_forever:0 "우리의 과거를 치료하다"
  BRZ_bronzhill_forever_desc:0 "수세기 전 우리 형제들은 폭정의 발 아래 고통받았습니다. 다이아몬드 독은 다시는 그런 수모를 겪지 않을 것입니다. 적어도 그들의 자유가 우리가 세운 조화로운 제도에 의해 보호될 때 말입니다. 하지만 이제 막 걸음마를 뗀 우리의 민주주의의 안전을 위해 모든 개들은 기꺼이 더 큰 이익을 위해 최선을 다해야 합니다."
@@ -299,10 +299,10 @@
  BRZ_support_the_imperial_loyalty_legue_desc:0 "우리의 주 목표는 황제 그로버 6세의 절대적인 안전과 안보가 되어야 합니다. 제국 충성 동맹에 가입함으로써 우리는 그가 가장 유능한 섭정들과 접촉할 것을 보장할 수 있습니다."
 
  BRZ_renforce_the_counts_authority:0 "백작의 권력 강화"
- BRZ_renforce_the_counts_authority_desc:0 "이그나티우스 브론즈테일 백작은 개들을 잘 보살펴 주었고, 안정적인 통치를 통해 나라가 번창할 수 있었습니다. 위기가 심화되자 많은 이들이 그에게 국정에 보다 적극적인 역할을 해 달라고 간청했습니다. 브론즈 협의회는 이들의 부름을 들었고 다가올 전투에 대처하기 위해 백작에게 비상 권한을 부여할 준비가 되었습니다."
+ BRZ_renforce_the_counts_authority_desc:0 "이그나티우스 브론즈테일 백작은 개들을 잘 보살펴 주었고, 안정적인 통치를 통해 나라가 번창할 수 있었습니다. 위기가 심화되자 많은 이들이 그에게 국정에 보다 적극적인 역할을 해 달라고 간청했습니다. 브론즈 회의는 이들의 부름을 들었고 다가올 전투에 대처하기 위해 백작에게 비상 권한을 부여할 준비가 되었습니다."
 
  BRZ_empower_the_wisecouncil:0 "지혜의 위원회 설립"
- BRZ_empower_the_wisecouncil_desc:0 "브론즈 협의회는 우리나라에 큰 도움이 되었고, 이 위기 상황에서 우리에게 중요한 의사 결정 기구를 제공해 주었습니다. 하지만, 협의회가 너무 비대해지면서 관리가 점점 어려워지고 있습니다. 이에 백작은 지혜의 위원회라고 알려진 개인 위원회를 설립하기로 결정했습니다. 이 내부는 다가올 전쟁에서 비상 권력을 맡을 소수의 장관들로만 구성되어 있습니다."
+ BRZ_empower_the_wisecouncil_desc:0 "브론즈 회의는 우리나라에 큰 도움이 되었고, 이 위기 상황에서 우리에게 중요한 의사 결정 기구를 제공해 주었습니다. 하지만, 협의회가 너무 비대해지면서 관리가 점점 어려워지고 있습니다. 이에 백작은 지혜의 위원회라고 알려진 개인 위원회를 설립하기로 결정했습니다. 이 내부는 다가올 전쟁에서 비상 권력을 맡을 소수의 장관들로만 구성되어 있습니다."
 
  BRZ_county_schools:0 "주 대학"
  BRZ_county_schools_desc:0 "우리 인구의 대다수에게 중등교육 이후의 교육을 받는 것은 어려운 일이며, 많은 개들이 이를 위해 고향을 떠나는 것을 거부합니다. 이것은 잠재적으로 거대한 숙련된 노동력 시장을 외면하는 결과를 가져왔습니다. 이를 해결하기 위해 브론즈테일 백작은 여러 주도에 위치한 일련의 소규모 기술대학을 설립하여 과학과 공학에 관련된 기초적인 수업 업무를 가르치고 있습니다."
@@ -314,13 +314,13 @@
  BRZ_loyal_imperial_corps_desc:0 "현재의 위기는 우리 사회의 두 축의 충돌을 야기했습니다. 평화주의의 기풍이 대대로 우리를 인도해 왔지만 황제의 안전을 보장하는 것 또한 중요한 일이었습니다. 이 두 가지 모순되는 주장의 균형을 맞추기 위해 우리 정부는 자원 봉사자들이 제국을 지키기 위해 싸우는 외국 군대와 합류하는 것을 허용했습니다."
 
  BRZ_local_powers_act:0 "자치주에게 권력을"
- BRZ_local_powers_act_desc:0 "브론즈 협의회의 쇠퇴로 인해 우리 정부와 자치주 사이에서는 브론체크로이츠에서 더 이상 자치주들의 목소리가 들리지 않는다고 주장하며 긴장이 조성되고 있습니다. 이러한 내분을 진정시키기 위해 지혜의 위원회는 정부에게 자치권을 부여했습니다."
+ BRZ_local_powers_act_desc:0 "브론즈 회의의 쇠퇴로 인해 우리 정부와 자치주 사이에서는 브론체크로이츠에서 더 이상 자치주들의 목소리가 들리지 않는다고 주장하며 긴장이 조성되고 있습니다. 이러한 내분을 진정시키기 위해 지혜의 위원회는 정부에게 자치권을 부여했습니다."
 
  BRZ_united_clan_society:0 "국가 연방"
  BRZ_united_clan_society_desc:0 "자치주 연방은 브론즈힐의 여러 주들이 한자리에 모여 국가의 일을 논의하는 지혜의 위원회가 주관하는 기구입니다. 위원회의 목표는 여러 정부들이 브론즈힐을 개선한다는 공동의 목표를 향해 나아가도록 하기 위한 통합의식을 만드는 것입니다."
 
- BRZ_the_county_of_the_bronze_cross:0 "브론즈힐 협의회 해산"
- BRZ_the_county_of_the_bronze_cross_desc:0 "우리 정부 내의 위기가 마침내 끝나자, 이그나티우스 브론즈테일 백작은 공식적으로 브론즈 협의회를 해산했습니다. 브론즈힐의 새 정부는 그로버 6세 황제를 반항적이고 이기적인 봉신들로부터 보호하기 위해 모든 힘을 다할 준비가 되어 있습니다."
+ BRZ_the_county_of_the_bronze_cross:0 "브론즈 회의 해산"
+ BRZ_the_county_of_the_bronze_cross_desc:0 "우리 정부 내의 위기가 마침내 끝나자, 이그나티우스 브론즈테일 백작은 공식적으로 브론즈 회의를 해산했습니다. 브론즈힐의 새 정부는 그로버 6세 황제를 반항적이고 이기적인 봉신들로부터 보호하기 위해 모든 힘을 다할 준비가 되어 있습니다."
 
  BRZ_imperial_youth:0 "제국 강아지들"
  BRZ_imperial_youth_desc:0 "제국 강아지들은 우리 정부가 후원하는 자원 봉사 단체입니다. 그들의 목표는 브론즈힐 청년들에게 제국의 대의명분을 도울 수 있는 기회로 군과 산업 분야에서 지원 임무를 수행할 수 있게 함으로써 성인의 노동을 자유화하고 최전방에서 고용될 수 있도록 하는 것입니다."
@@ -337,13 +337,13 @@
  #Archon-Fascist
 
  BRZ_the_knights_of_the_bronze_cross:0 "브론즈 십자가 기사단"
- BRZ_the_knights_of_the_bronze_cross_desc:0 "브론즈 십자가 기사단은 아크튜러스 기사단에서 유일하게 오로지 다이아몬드 독으로만 구성된 사제단입니다. 그들은 신도들에게 충성심을 가지고 있지만, 그들의 주된 동기는 그로버 6세의 안전과 안보를 보장하는 것입니다. 이를 위한 노력의 일환으로, 그들은 브론즈테일 백작에게 브론즈 협의회 내에서의 발언권을 요청했습니다."
+ BRZ_the_knights_of_the_bronze_cross_desc:0 "브론즈 십자가 기사단은 아크튜러스 기사단에서 유일하게 오로지 다이아몬드 독으로만 구성된 사제단입니다. 그들은 신도들에게 충성심을 가지고 있지만, 그들의 주된 동기는 그로버 6세의 안전과 안보를 보장하는 것입니다. 이를 위한 노력의 일환으로, 그들은 브론즈테일 백작에게 브론즈 회의 내에서의 발언권을 요청했습니다."
  
  BRZ_burning_of_wiesetreffen:0 "불타는 비제트레펜"
- BRZ_burning_of_wiesetreffen_desc:0 "비제트레펜 극장은 브론체크로이츠 시내에 위치한 이 도시의 오락 중심지입니다. 위기의 시기에 그 곳은 토론과 회의를 주최하면서 브론즈 협의회의 임시 거처 역할을 맡아 왔습니다. 어젯밤 극장에 불이 붙었고, 아침이 되자 그곳에는 잔해만이 남아 있었을 뿐입니다."
+ BRZ_burning_of_wiesetreffen_desc:0 "비제트레펜 극장은 브론체크로이츠 시내에 위치한 이 도시의 오락 중심지입니다. 위기의 시기에 그 곳은 토론과 회의를 주최하면서 브론즈 회의의 임시 거처 역할을 맡아 왔습니다. 어젯밤 극장에 불이 붙었고, 아침이 되자 그곳에는 잔해만이 남아 있었을 뿐입니다."
  
  BRZ_ritternacht:0 "기사의 밤"
- BRZ_ritternacht_desc:0 "비제트레펜 극장이 불타면서, 브론즈 협의회는 심각한 내분으로 분열되었고, 현재의 위기 해결에 의미 있는 진전은 거의 이루어지지 않고 있습니다. 브론즈 십자가 기사단은 안정을 꾀하기 위해 브론즈 협의회를 위한 새로운 회의실로 그들의 지부의 만찬장을 제안했습니다."
+ BRZ_ritternacht_desc:0 "비제트레펜 극장이 불타면서, 브론즈 회의는 심각한 내분으로 분열되었고, 현재의 위기 해결에 의미 있는 진전은 거의 이루어지지 않고 있습니다. 브론즈 십자가 기사단은 안정을 꾀하기 위해 브론즈 회의를 위한 새로운 회의실로 그들의 지부의 만찬장을 제안했습니다."
 
  BRZ_imperial_arms_treaty:0 "제국 무기 수입"
  BRZ_imperial_arms_treaty_desc:0 "브론즈힐의 군대는 현대적인 군사 장비가 여전히 심각하게 부족하고, 때로는 수 세기도 전에 만들어진 무기 체계를 사용하고 있습니다. 이그나티우스 브론즈테일 백작은 이 문제를 해결하기 위한 노력의 일환으로 현대식 총기, 차량 및 장비를 국내로 수입하기 위해 집정관과 무기 조약을 체결했습니다."
@@ -386,7 +386,7 @@
 
  # Communist
  BRZ_support_the_anti_imperial_movement:0 "좌파 연합"
- BRZ_support_the_anti_imperial_movement_desc:0 "브론즈 협의회의 소집으로 수많은 지식인, 노조장, 농민 지도자들이 한자리에 모여 사회주의 연합전선을 만들었습니다. 그들의 견해는 황제의 부패한 귀족 계급이 그의 제국을 괴롭히고 파멸을 초래하고 있다는 것입니다. 이를 극복하기 위해 그들은 브론즈힐이 제국의 귀족 관료주의를 없애고 공적에 근거한 관료주의로 대신할 것을 요구하고 있습니다."
+ BRZ_support_the_anti_imperial_movement_desc:0 "브론즈 회의의 소집으로 수많은 지식인, 노조장, 농민 지도자들이 한자리에 모여 사회주의 연합전선을 만들었습니다. 그들의 견해는 황제의 부패한 귀족 계급이 그의 제국을 괴롭히고 파멸을 초래하고 있다는 것입니다. 이를 극복하기 위해 그들은 브론즈힐이 제국의 귀족 관료주의를 없애고 공적에 근거한 관료주의로 대신할 것을 요구하고 있습니다."
  
  BRZ_communist_welfare_groups:0 "분열된 광물"
  BRZ_communist_welfare_groups_desc:0 "브론즈힐에서 쏟아져 나오는 보석, 광석, 광물이 국가 수출의 대부분을 차지하고 있습니다. 현재 우리 나라에는 이 재산이 거의 남아있지 않고, 오직 그리펜하임의 이익만을 증대시킬 뿐입니다. 우리 연합의 대표들은 광물 수출에 대해 소액의 관세를 부과할 것과 이로 인한 수익을 국민들에게 직접적으로 지급할 것을 요구했습니다."
@@ -395,7 +395,7 @@
  BRZ_nationalise_struggaling_industries_desc:0 "우리 산업의 많은 부분이 우리의 대의에 적대적인 정권 내에 위치한 회사들에 의해 소유되고 있습니다. 따라서 그들이 우리나라를 약화시키기 전에 우리는 이 산업 자원을 반드시 확보해야 하며 이를 통해 제국과 그 봉신들의 발전을 도모할 수 있도록 도와야 합니다."
 
  BRZ_revolution_in_bronzehill:0 "비제트레펜 행진"
- BRZ_revolution_in_bronzehill_desc:0 "브론즈 협의회는 극복할 수 없는 내분에 시달리며 교착상태에 빠졌습니다. 하지만 우리의 연합은 회원 수가 계속 급증하면서 더욱 강력해졌습니다. 만약 협의회가 이 위기를 어떻게 처리할 것인가에 대한 해결책을 찾지 못한다면, 그들은 그럴 수 있는 기구로 대체되어야 합니다."
+ BRZ_revolution_in_bronzehill_desc:0 "브론즈 회의는 극복할 수 없는 내분에 시달리며 교착상태에 빠졌습니다. 하지만 우리의 연합은 회원 수가 계속 급증하면서 더욱 강력해졌습니다. 만약 협의회가 이 위기를 어떻게 처리할 것인가에 대한 해결책을 찾지 못한다면, 그들은 그럴 수 있는 기구로 대체되어야 합니다."
  
  BRZ_communist_education:0 "교육 지원금"
  BRZ_communist_education_desc:0 "수 세대 동안 고등 교육의 혜택은 가장 부유한 개들만이 감당할 수 있는 장벽 뒤에 갇혀 있었습니다. 이것은 우리나라가 잠재적으로 가장 우수한 인재들과 접촉하는 것을 어렵게 만들어 왔습니다. 이 문제를 해결하기 위해 우리 정부는 수업료 보조금 정책을 시작했고 개들이 계층이 아닌 개개인의 목표에 따라 학교에 들어갈 수 있게 했습니다."
@@ -408,7 +408,7 @@
  BRZ_the_mountain_corridor_desc:0 "브론즈힐이 건국된 이후 우리들은 다이아몬드실드 일족의 횡포 때문에 그들의 조상들의 조국과 분리되어 왔습니다. 그러나, 우리 두 나라가 혁명을 겪으면서, 이념은 더 이상 우리를 괴롭히지 않습니다. 그러므로 우리는 형제와 화합하는 방향으로 나아가야 하며, 이를 이루기 위해서는 우리 사이를 가로막는 나라들에 대한 조치가 이루어져야 합니다."
 
  BRZ_spot_stability:0 "노동자 평의회 설립"
- BRZ_spot_stability_desc:0 "브론즈 협의회가 몰락하면서 우리 정권의 입법부 역할을 하기 위한 새로운 기구가 필요합니다. 로지 룩셈바크는 노동조합, 농민 공동체, 군부대, 그리고 다양한 기관들에 의해 선출된 대표들이 함께 모여 토론하고 법안을 초안할 노동자 평의회를 구성할 것을 촉구했습니다."
+ BRZ_spot_stability_desc:0 "브론즈 회의가 몰락하면서 우리 정권의 입법부 역할을 하기 위한 새로운 기구가 필요합니다. 로지 룩셈바크는 노동조합, 농민 공동체, 군부대, 그리고 다양한 기관들에 의해 선출된 대표들이 함께 모여 토론하고 법안을 초안할 노동자 평의회를 구성할 것을 촉구했습니다."
 
  BRZ_spot_industry:0 "공장 협동조합"
  BRZ_spot_industry_desc:0 "그전까지 노동자들은 노동 가치의 극히 일부에 불과한 임금을 받았습니다. 수익금의 대부분은 이 십일조를 먹고 자란 자본가들의 호주머니로 들어갔습니다. 노동자 평의회는 협동조합법을 통과시켜 근로자가 취득한 산업자산을 조합에게 전달한 뒤 조합원에게 배당할 수 있도록 했습니다."
@@ -747,22 +747,22 @@
 ### IDEAS ###
  BRZ_imperial_industry:0 "제국 소유의 산업"
  BRZ_imperial_industry_desc:0 "그리펜하임의 많은 그리폰들이 브론즈힐에 투자하면서 지역 소유의 광산, 농장, 공장들의 씨가 말랐습니다. 이는 브론즈힐의 산업역량 개발에 도움이 되었지만, 백작령의 재정적 안정에 대해 우려하는 현지 시민들의 우려를 자아냈습니다."
- BRZ_banking_reform:0 "Banking Reforms"
- BRZ_development_grants:0 "Development Grants"
+ BRZ_banking_reform:0 "은행 개혁"
+ BRZ_development_grants:0 "개발 보조금"
  #BRZ_farming_subsidies:0 "Farming Subsidies"# Different duplicate from Eaw
- BRZ_the_mourning:0 "The Great Mourning"
- BRZ_the_mourning_desc:0 "The Emperor has passed away. Many dogs are openly displaying their grief, and the nation as a whole has come to a halt."
+ BRZ_the_mourning:0 "거대한 애도"
+ BRZ_the_mourning_desc:0 "황제 폐하께서 돌아가셨습니다. 많은 개들이 그들의 슬픔을 이겨내지 못하면서 나라가 마비되었습니다."
  BRZ_stolen_gift_welth:0 "훔친 브론즈힐 보석 판매"
  BRZ_imperial_support:0 "Imperial Industrial Corporation"
  BRZ_the_chrisis:0 "위기"
- BRZ_pacifism:0 "Pacifism"
- BRZ_pacifism_desc:0 "Many of the nation's dog population can track their descent from escaped slaves, that fleed from the cruelty of their eastern cousins in Diamond Mountain. The Grover dynasty has accepted them with open claws, and while they are fierce defenders of the Emperor, they prefer to solve their issues with a peaceful and logical method."
- BRZ_underground_fortifications:0 "Underground Fortifications"
+ BRZ_pacifism:0 "평화주의"
+ BRZ_pacifism_desc:0 "이 나라에 사는 많은 개들의 선조는 동쪽의 잔인한 사촌들이 사는 다이아몬드 마운틴에게서 도망친 노예들로 이루어져 있습니다. 그로버 왕조는 기꺼이 그들을 받아들였으며, 그들은 황제를 열렬히 옹호하지만 평화롭고 논리적인 방법으로 그들의 문제를 해결하는 것을 선호합니다."
+ BRZ_underground_fortifications:0 "지하 요새화"
  BRZ_legacy_of_artillery_idea:0 "Guns of the Bronze Forges"
  BRZ_harmonic_elections:0 "Harmonic Elections"
- BRZ_count_ignatius:0 "Count Ignatius Bronzetail"
- BRZ_count_ignatius_desc:0 "§YBorn§!: 14th December 965, Sandstone House, Bronzehill\n\n§YBiography§!: Count Ignatius has ruled Bronzehill since the death of his father Count Georgie in 997. When he was five years old, he travelled to the Imperial City to see Grover V’s coronation and was enamoured by the splendour. He returned to the city many times and studied there at Emperor’s College, gaining a degree in politics.\n\nHe became a close friend of the Emperor, who attended his wedding to Izzy Bones-Iron, daughter of the Lord Gems. With her he has had two children, Barnaby and Margaret.\n\nDuring his rule he has been a competent administrator and a beloved defender of Bronzehill and the Emperor, however his policies on supporting Griffon industry over Bronzehill’s own has led to the formation of several communist organisations in Bronzehill. And while he has the full support of the Bronze Council, there are those who question his ability to lead effectively should Bronzehill be faced by a disaster such as the Republican Uprising during his father’s reign.\n\n§YPortrait By§!: Scroup"
- BRZ_copperhill_cabinate:0 "The Copperhill Cabinet"
+ BRZ_count_ignatius:0 "이그나티우스 브론즈테일 백작"
+ BRZ_count_ignatius_desc:0 "§YBorn§!: 965년 12월 14일, 샌드스톤 집, 브론즈힐\n\n§YBiography§!: Count Ignatius has ruled Bronzehill since the death of his father Count Georgie in 997. When he was five years old, he travelled to the Imperial City to see Grover V’s coronation and was enamoured by the splendour. He returned to the city many times and studied there at Emperor’s College, gaining a degree in politics.\n\nHe became a close friend of the Emperor, who attended his wedding to Izzy Bones-Iron, daughter of the Lord Gems. With her he has had two children, Barnaby and Margaret.\n\nDuring his rule he has been a competent administrator and a beloved defender of Bronzehill and the Emperor, however his policies on supporting Griffon industry over Bronzehill’s own has led to the formation of several communist organisations in Bronzehill. And while he has the full support of the Bronze Council, there are those who question his ability to lead effectively should Bronzehill be faced by a disaster such as the Republican Uprising during his father’s reign.\n\n§YPortrait By§!: Scroup"
+ BRZ_copperhill_cabinate:0 "카퍼힐 내각"
  BRZ_flying_artillery_idea:0 "Flying Artillery"
  BRZ_modern_guns_idea:0 "Mechanised Cannons"
  BRZ_wisecouncil:0 "The Wisecouncil"
@@ -954,13 +954,13 @@
  BRZ_finish_murals_desc:0 "It is one thing to put the masses in awe with grandiose building but they must know of the achievements of the Grover dynasty and the life of the Eternal Emperor. Without murals to tell that story to even the illiterates, the Memorial City shall be nothing but a shallow memory."
 
  ### EVENTS ###
- bronzehill.1.t:0 "A Messenger in the Night"
- bronzehill.1.d:0 "Count Ignatius' paws gripped tightly into his wooden throne. There had to be some mistake. Or perhaps this was just some cruel joke? He stared down at the griffon messenger who remained bowed at the foot of his throne. He wore a simple black cloak, held around him by an Imperial broach. One given out by the Emperor himself.\n\nThe pit that had opened in his stomach only grew wider. It couldn't be true, it just couldn't.\n\n\"Say it again,\" he said. His throat was dry and each word was a painful, breathless gasp.\n\n\"My Lord,\" the messenger said. \"The Emperor. He's...\"\n\nDead. The word hung in Count Ignatius' mind like a ball in flight. The throne creaked under his grip. No, it couldn't be true. How could the Emperor have died? He was always there - just like the sun and the moon. Without him there would be no world. There would be no light, no beauty, no joy. How could there be without him?\n\nCount Ignatius couldn't feel his own heart anymore. It was as if it some unseen being had ripped it out of his chest, leaving only an inky black void in his place. His essence of life and very soul had vanished with the messenger's words. Perhaps for good.\n\nHe launched himself from his seat, startling the messenger. \"No! You... You lie! It's not true. It can't be true. The Emperor. He can't... He can't be...\"\n\nA rasping choke caught in Count Ignatius' throat. He was on the ground now with his tail between his legs. He didn't know how he had fallen there. It hurt to breath and his eyes burned as if someone had rubbed lime and soap into them. And there was a sound. A pained, unnatural sound that echoed all around. Like the wails of a million lost souls all crying out in pain.\n\nHis ears stood on ends, fearful of the source, whatever horror it might be. Then he realised it: The sound was coming from his own throat and joined in with a symphony of anguish from all other dogs in his court.\n\nThe Emperor was Dead. And every dog in Bronzehill wept that day."
- bronzehill.1.a:0 "No, please no. Please..."
+ bronzehill.1.t:0 "한밤중의 전령"
+ bronzehill.1.d:0 "이그나티우스 백작의 발이 그의 나무 왕좌를 꽉 잡았습니다. 뭔가 착오가 있었던 게 분명합니다. 아니면 그냥 잔인한 농담인 걸까요? 그는 왕좌의 발치에서 고개를 숙인 그리폰 전령을 내려다보았습니다. 그가 두른 검은 망토에는 황제가 붙여준 브로치가 붙어 있었습니다.\n\n그의 뱃속에 있는 구멍이 점점 더 넓어지는 것 같았습니다. 사실일 리가 없습니다. 그냥... 그럴 수는 없었습니다.\n\n"다시 한번 말해보게나." 그가 말했습니다. 그의 목구멍은 메말랐고 한마디 한마디가 고통스러운 듯이 숨가쁘게 헐떡거렸습니다.\n\n"폐하," 전령이 말했습니다. "황제 폐하께서..."\n\n돌아가셨습니다. 그 단어가 이그나티우스 백작의 머릿속에 공처럼 날아와 박혔습니다. 왕좌가 그의 발 아래서 삐걱거렸습니다. 사실일 리가 없습니다. 어떻게 황제가 죽을 수 있단 말입니까? 그는 해와 달처럼 항상 그곳에 있어 왔습니다. 그가 없다면 세상도 없는 것이나 다름없습니다. 이그나티우스 백작은 더 이상 자신의 심장을 느낄 수가 없었습니다. 마치 눈에 보이지 않는 누군가가 그것을 그의 가슴에서 찢어냈고, 그 자리에는 검은 빛의 공허함만 남은 듯했습니다. 영원히 말입니다.\n\n그가 자리를 박차고 일어나자 전령이 놀라 뒷걸음질쳤습니다. "아니야! 거짓말... 거짓말이야! 그럴 리가 없다. 황제 폐하께서는... 절대로..."\n\n이그나티우스 백작이 거친 목소리로 말했습니다. 그는 이제 꼬리를 다리 사이에 둔 채로 땅 위에 주저앉아 있었습니다. 숨을 쉬는 것조차 고통스러웠고 그의 눈은 마치 누군가가 라임과 비누로 문지른 것처럼 따끔거렸습니다. 그리고 소리가 들렸습니다. 고통스럽고, 부자연스러운 소리가 사방에 울려퍼졌습니다. 백만 명의 잃어버린 영혼들이 고통에 울부짖는 듯 했습니다.\n\n그의 귀가 소리의 근원지를 쫓으며 공포로 곤두섰습니다. 그러고 나서 그는 이 소리가 자신의 목에서 나오고 있다는 사실을 알았습니다. 궁정의 모든 다른 개들이 그 소리를 따라서 고통의 교향곡을 부르고 있었습니다.\n\n황제가 죽었습니다. 그리고 그날 브론즈힐의 모든 개들은 슬픔에 잠겼습니다."
+ bronzehill.1.a:0 "안돼, 제발 안돼, 제발..."
 
- bronzehill.2.t:0 "A Nation Mourns"
- bronzehill.2.d:0 "Across the nation, news of Grover's death has rocked our dogs. A great sense of mourning has washed across the populace with all aspects of daily life grinding to a halt.\n\nFactories and mines are reporting mass absences, trains have come to a stop as the dogs needed to run them are too preoccupied, even many shops and services are failing to remain open as shopkeepers and bureaucrats have been left paralysed.\n\nCount Ignatius Bronzetail has addressed his dogs in these trying times, proclaiming a state of national mourning. Across the nation flags now flutter at half-mast, a position which they are expected to maintain for quite some time."
- bronzehill.2.a:0 "The end of an era"
+ bronzehill.2.t:0 "슬픔에 잠긴 나라"
+ bronzehill.2.d:0 "전국적으로 그로버의 서거 소식이 우리의 개들을 뒤흔들어 놓았습니다. 모든 일상 생활이 중단되면서 국민들 사이에 커다란 애도의식이 감돌고 있습니다.\n\n공장들과 광산들에서는 대량 결근을 보고하고 있고, 기차를 운영해야 할 개들이 슬픔에 사로잡히면서 결국 기차는 멈춰섰으며, 심지어는 가게 주인과 관료들도 본분을 망각한 채 방치되면서 많은 가게들이 문을 열지 못하고 있습니다.\n\n이그나티우스 브론즈테일 백작은 이러한 힘든 시기에 연설을 통해 그의 개들에게 국가적 애도의 상태를 선포했습니다. 전국에 조기가 게양되었으며 꽤 오랜 시간 동안 유지될 것으로 보입니다."
+ bronzehill.2.a:0 "한 시대의 종말이다."
 
  bronzehill.3.t:0 "꽃 보석"
  bronzehill.3.d:0 "다이아몬드 독의 전통에 따르면 장례식에서 가족과 친구들이 꽃 보석으로 알려진 귀한 돌다발을 모은다고 합니다. 이 놀라운 돌들은 고인을 무덤을 장식하고 그들이 얼마나 사랑받고 소중이 여겨졌는지를 상기시키는 역할을 맡는 아름다운 전시물로 만들어집니다.\n\n그로버의 죽음 이후 브론즈힐의 개들은 수도로 이동하기 시작했습니다. 저마다 백작의 궁전에 꽃 보석을 모으기 위해서였습니다. 하루 만에 모인 이 콜렉션은 인상적이었고, 일주일이 지나자 장엄해 보일 정도였습니다. 그리고 지금은 압도적입니다.\n\n이그나티우스 브론즈테일 백작은 백국 최고의 장인들에게 보석들을 황제에 헌신하는 우리 개들의 모습을 담은 웅장한 전시물로 만들어 줄 것을 요구했습니다. 이미 이 전시물은 황제의 많은 업적을 선전하는 벽화를 뫼브로 한 아름다운 그로버를 닮은 동상의 형태로 갖춰가기 시작했습니다.\n\n동상의 완성이 가까워지자 우리는 이것을 그리펜하임의 그로버 6세에게 근엄한 선물로 보내야 할지, 아니면 왕위에 대한 우리의 헌신과 충성의 기념물로 브론체크로이츠에 남겨야 할지를 결정해야 합니다."
