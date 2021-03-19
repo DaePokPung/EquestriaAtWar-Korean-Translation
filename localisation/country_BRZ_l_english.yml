@@ -295,130 +295,130 @@
 
  # Political - Non-Alligned/Gariele or Archon #
 
- BRZ_support_the_imperial_loyalty_legue:0 "Support the Imperial Loyalty League"
- BRZ_support_the_imperial_loyalty_legue_desc:0 "The primary goal of our nation should be the absolute safety and security of the emperor, Grover VI. By joining the Imperial Loyalty League, we can ensure this by making sure that he has access to the most capable of regents."
+ BRZ_support_the_imperial_loyalty_legue:0 "제국 충성 동맹 지원"
+ BRZ_support_the_imperial_loyalty_legue_desc:0 "우리의 주 목표는 황제 그로버 6세의 절대적인 안전과 안보가 되어야 합니다. 제국 충성 동맹에 가입함으로써 우리는 그가 가장 유능한 섭정들과 접촉할 것을 보장할 수 있습니다."
 
  BRZ_renforce_the_counts_authority:0 "백작의 권력 강화"
- BRZ_renforce_the_counts_authority_desc:0 "Count Ignatius Bronzetail has served his dogs well, providing a stable administration which has allowed us to prosper. In the face of this growing crisis, many have turned to him, begging him to take on a more active role in national affairs. The Bronze Council has heard these cries and are prepared to grant the Count emergency powers to deal with the upcoming conflict."
+ BRZ_renforce_the_counts_authority_desc:0 "이그나티우스 브론즈테일 백작은 개들을 잘 보살펴 주었고, 안정적인 통치를 통해 나라가 번창할 수 있었습니다. 위기가 심화되자 많은 이들이 그에게 국정에 보다 적극적인 역할을 해 달라고 간청했습니다. 브론즈 협의회는 이들의 부름을 들었고 다가올 전투에 대처하기 위해 백작에게 비상 권한을 부여할 준비가 되었습니다."
 
- BRZ_empower_the_wisecouncil:0 "Establish the Wise Council"
- BRZ_empower_the_wisecouncil_desc:0 "The Bronze Council has served our nation well, providing us with a valuable body for decision-making during this current crisis. However, the council is too large, becoming increasingly difficult to manage. As such, the Count has decided to establish a privy council known as the Wise Council. This inner circle is composed of only a select few ministers who will assume emergency power in the upcoming war."
+ BRZ_empower_the_wisecouncil:0 "지혜의 위원회 설립"
+ BRZ_empower_the_wisecouncil_desc:0 "브론즈 협의회는 우리나라에 큰 도움이 되었고, 이 위기 상황에서 우리에게 중요한 의사 결정 기구를 제공해 주었습니다. 하지만, 협의회가 너무 비대해지면서 관리가 점점 어려워지고 있습니다. 이에 백작은 지혜의 위원회라고 알려진 개인 위원회를 설립하기로 결정했습니다. 이 내부는 다가올 전쟁에서 비상 권력을 맡을 소수의 장관들로만 구성되어 있습니다."
 
- BRZ_county_schools:0 "County Colleges"
- BRZ_county_schools_desc:0 "For the majority of our population, achieving a post-secondary education is difficult with many refusing to leave their homes to do so. This has denied us a massive pool of potentially skilled labour. In order to address this, Count Bronzetail has established a series of small technical colleges located in various county capitals which would teach rudimentary classwork related to engineering and science."
+ BRZ_county_schools:0 "주 대학"
+ BRZ_county_schools_desc:0 "우리 인구의 대다수에게 중등교육 이후의 교육을 받는 것은 어려운 일이며, 많은 개들이 이를 위해 고향을 떠나는 것을 거부합니다. 이것은 잠재적으로 거대한 숙련된 노동력 시장을 외면하는 결과를 가져왔습니다. 이를 해결하기 위해 브론즈테일 백작은 여러 주도에 위치한 일련의 소규모 기술대학을 설립하여 과학과 공학에 관련된 기초적인 수업 업무를 가르치고 있습니다."
 
- BRZ_promote_noble_rights:0 "Protect the Rights of the Nobility"
- BRZ_promote_noble_rights_desc:0 "The current tension in the Imperial Domains was primarily caused by the debate over the inclusion of the common populace within regal affairs. We must make it known that our government will not only stand up for the nobility but enshrine their rights within our legal text."
+ BRZ_promote_noble_rights:0 "귀족의 권리 보호"
+ BRZ_promote_noble_rights_desc:0 "현재 제국 영토의 긴장은 주로 일반 대중을 법적인 문제에 포함시키는 것에 대한 논쟁에 의해 야기되었습니다. 우리는 우리 정부가 귀족들을 옹호할 뿐만 아니라 그들의 권리를 우리의 법적 본문에 포함시킬 것임을 알려야만 합니다."
 
  BRZ_loyal_imperial_corps:0 "브론즈힐 제국 군단"
- BRZ_loyal_imperial_corps_desc:0 "This current crisis has brought two pillars of our society into conflict. On one paw our ethos of pacifism has guided us for generations, though on the other we must ensure the safety of the Emperor. In order to balance these two conflicting philosophies our government has allowed for volunteers amongst our dogs to join with foreign armies fighting to preserve the Empire."
+ BRZ_loyal_imperial_corps_desc:0 "현재의 위기는 우리 사회의 두 축의 충돌을 야기했습니다. 평화주의의 기풍이 대대로 우리를 인도해 왔지만 황제의 안전을 보장하는 것 또한 중요한 일이었습니다. 이 두 가지 모순되는 주장의 균형을 맞추기 위해 우리 정부는 자원 봉사자들이 제국을 지키기 위해 싸우는 외국 군대와 합류하는 것을 허용했습니다."
 
- BRZ_local_powers_act:0 "백작령에게 권력을"
- BRZ_local_powers_act_desc:0 "The declining power of the Bronze Council has created some tension between our government and the counties who claim that their voice is no longer heard within Bronzekreuz. In order to elevate this civil strife, the Wise Council has granted the county governments a degree of autonomy and self-rule."
+ BRZ_local_powers_act:0 "자치주에게 권력을"
+ BRZ_local_powers_act_desc:0 "브론즈 협의회의 쇠퇴로 인해 우리 정부와 자치주 사이에서는 브론체크로이츠에서 더 이상 자치주들의 목소리가 들리지 않는다고 주장하며 긴장이 조성되고 있습니다. 이러한 내분을 진정시키기 위해 지혜의 위원회는 정부에게 자치권을 부여했습니다."
 
  BRZ_united_clan_society:0 "국가 연방"
- BRZ_united_clan_society_desc:0 "The Federation of Counties is a body overseen by the Wise Council where the various counties of Bronzehill come together in a forum and discuss the affairs of the nation. The goal of the council is to create a sense of unity amongst our various governments in order to drive them towards the common goal of bettering Bronzehill and the imperial cause."
+ BRZ_united_clan_society_desc:0 "자치주 연방은 브론즈힐의 여러 주들이 한자리에 모여 국가의 일을 논의하는 지혜의 위원회가 주관하는 기구입니다. 위원회의 목표는 여러 정부들이 브론즈힐을 개선한다는 공동의 목표를 향해 나아가도록 하기 위한 통합의식을 만드는 것입니다."
 
- BRZ_the_county_of_the_bronze_cross:0 "브론즈힐 의회 해산"
- BRZ_the_county_of_the_bronze_cross_desc:0 "With the crisis within our government finally coming to an end, Count Ignatius Bronzetail has formally dismissed the Bronze Council. The new government of Bronzehill stands ready for the conflict ahead, prepared to do everything in their power to protect Emperor Grover VI from his rebellious and self-interested vassals."
+ BRZ_the_county_of_the_bronze_cross:0 "브론즈힐 협의회 해산"
+ BRZ_the_county_of_the_bronze_cross_desc:0 "우리 정부 내의 위기가 마침내 끝나자, 이그나티우스 브론즈테일 백작은 공식적으로 브론즈 협의회를 해산했습니다. 브론즈힐의 새 정부는 그로버 6세 황제를 반항적이고 이기적인 봉신들로부터 보호하기 위해 모든 힘을 다할 준비가 되어 있습니다."
 
  BRZ_imperial_youth:0 "제국 강아지들"
- BRZ_imperial_youth_desc:0 "The Imperial Pups are a volunteer organisation sponsored by our government. Their goal is to give the youth of Bronzehill a chance to help with the imperial cause, allowing them to assume supporting duties within the military and industry so that adult labour can be freed up and employed within the frontline."
+ BRZ_imperial_youth_desc:0 "제국 강아지들은 우리 정부가 후원하는 자원 봉사 단체입니다. 그들의 목표는 브론즈힐 청년들에게 제국의 대의명분을 도울 수 있는 기회로 군과 산업 분야에서 지원 임무를 수행할 수 있게 함으로써 성인의 노동을 자유화하고 최전방에서 고용될 수 있도록 하는 것입니다."
 
  BRZ_industry_for_the_emperor:0 "제국 후원사"
- BRZ_industry_for_the_emperor_desc:0 "Our land is rich in labour and minerals yet our industrial base has always lagged behind. By lobbying the governments of our allies, we can hopefully secure the investment necessary for the construction of additional industrial assets within our domains. These can then be used to better equip ourselves for the struggle ahead."
+ BRZ_industry_for_the_emperor_desc:0 "우리 땅은 노동력과 광물이 풍부하지만 우리의 산업 기반은 항상 뒤쳐져 왔습니다. 동맹 정부에 로비를 함으로써 우리는 영역 내에 추가적인 산업 자산을 건설하는 데 필요한 투자를 확보할 수 있기를 희망합니다. 그리고 이 자산들은 우리가 앞으로 투쟁할 준비를 하는 데 이용될 수 있습니다."
 
- BRZ_the_ture_dogs_of_griffonhime:0 "그리폰하임으로 전진"
- BRZ_the_ture_dogs_of_griffonhime_desc:0 "We have done all we can to prepare ourselves for the struggle ahead. Our armies stand ready. Our industry stands ready. Our nation stands ready. It is now time to unleash the dogs of war and march upon the traitors in Griffenheim."
+ BRZ_the_ture_dogs_of_griffonhime:0 "그리펜하임으로 전진"
+ BRZ_the_ture_dogs_of_griffonhime_desc:0 "우리는 앞으로의 투쟁에 대비하기 위해 최선을 다했습니다. 우리 군대는 준비됐습니다. 우리의 산업은 준비가 되어 있습니다. 우리나라는 준비가 되어 있습니다. 이제는 개들을 풀어서 그리펜하임의 반역자들을 향해 행진할 때입니다."
 
  BRZ_return_of_the_emperor:0 "그로버 6세 만세!"
- BRZ_return_of_the_emperor_desc:0 "The war is over and our armies now occupy the hallowed grounds of Griffenheim. We are prepared to receive Grover VI and make sure that the fledgling emperor can safely take the throne he so rightfully deserves. The time for conflict has come to an end and it is now time to heal the wounds this crisis has born."
+ BRZ_return_of_the_emperor_desc:0 "전쟁은 끝났고 우리 군대는 이제 그리펜하임의 성지를 점령했습니다. 우리는 그로버 6세를 맞이하여 신생 황제가 마땅히 받아야 할 왕좌를 안전하게 차지할 수 있도록 도와줄 준비가 되어 있습니다. 갈등의 시대는 끝났고 이제 이 위기가 낳은 상처를 치유해야 할 때입니다."
  
  #Archon-Fascist
 
  BRZ_the_knights_of_the_bronze_cross:0 "브론즈 십자가 기사단"
- BRZ_the_knights_of_the_bronze_cross_desc:0 "The Knights of the Bronze Cross are the only chapter of the Knights of Arcturius made up exclusively of Diamond Dogs. While they do have a sense of loyalty to their brethren, their primary motivation is the ensure the security and safety of His Majesty, Grover VI. In an effort to accomplish this, they have called upon Count Bronzetail to appoint them a voice within the Bronze Council."
+ BRZ_the_knights_of_the_bronze_cross_desc:0 "브론즈 십자가 기사단은 아크튜러스 기사단에서 유일하게 오로지 다이아몬드 독으로만 구성된 사제단입니다. 그들은 신도들에게 충성심을 가지고 있지만, 그들의 주된 동기는 그로버 6세의 안전과 안보를 보장하는 것입니다. 이를 위한 노력의 일환으로, 그들은 브론즈테일 백작에게 브론즈 협의회 내에서의 발언권을 요청했습니다."
  
  BRZ_burning_of_wiesetreffen:0 "불타는 비제트레펜"
- BRZ_burning_of_wiesetreffen_desc:0 "The Wiesetreffen Theatre is located in downtown Bronzekreuz, being the city's centre of entertainment for generations. In times of crisis, the venue acts as the temporary residence for the Bronze Council, hosting their debates and meetings. Last night, the theatre was set alight, and by morning, there were only ashen remains of the once hallowed halls."
+ BRZ_burning_of_wiesetreffen_desc:0 "비제트레펜 극장은 브론체크로이츠 시내에 위치한 이 도시의 오락 중심지입니다. 위기의 시기에 그 곳은 토론과 회의를 주최하면서 브론즈 협의회의 임시 거처 역할을 맡아 왔습니다. 어젯밤 극장에 불이 붙었고, 아침이 되자 그곳에는 잔해만이 남아 있었을 뿐입니다."
  
  BRZ_ritternacht:0 "기사의 밤"
- BRZ_ritternacht_desc:0 "With the burning of the Wiesetreffen Theatre, the Bronze Council has broken down into severe infighting with little meaningful progress being made on resolving the current crisis. In an effort to bring about an ounce of stability, the Knights of the Bronze Cross have volunteered the dining halls of their central chapter as a new chamber for the Bronze Council."
+ BRZ_ritternacht_desc:0 "비제트레펜 극장이 불타면서, 브론즈 협의회는 심각한 내분으로 분열되었고, 현재의 위기 해결에 의미 있는 진전은 거의 이루어지지 않고 있습니다. 브론즈 십자가 기사단은 안정을 꾀하기 위해 브론즈 협의회를 위한 새로운 회의실로 그들의 지부의 만찬장을 제안했습니다."
 
  BRZ_imperial_arms_treaty:0 "제국 무기 수입"
- BRZ_imperial_arms_treaty_desc:0 "The army of Bronzehill is still severely lacking in terms of modern military equipment, using weapon systems which are sometimes centuries out of date. In an effort to address this problem, Count Ignatius Bronzetail has signed an arms treaty with the Archon, in order to import modern firearms, vehicles, and equipment into the county."
+ BRZ_imperial_arms_treaty_desc:0 "브론즈힐의 군대는 현대적인 군사 장비가 여전히 심각하게 부족하고, 때로는 수 세기도 전에 만들어진 무기 체계를 사용하고 있습니다. 이그나티우스 브론즈테일 백작은 이 문제를 해결하기 위한 노력의 일환으로 현대식 총기, 차량 및 장비를 국내로 수입하기 위해 집정관과 무기 조약을 체결했습니다."
 
  BRZ_deep_mountain_oil_reserves:0 "깊은 산맥 유전"
- BRZ_deep_mountain_oil_reserves_desc:0 "Deep under our mountains lies lakes of vast oil. By building new oil wells deep into our mineshafts we can begin to harvest this black gold."
+ BRZ_deep_mountain_oil_reserves_desc:0 "우리의 산속 깊은 곳에는 거대한 석유의 호수가 있습니다. 우리의 갱도 깊숙이 새로운 유정을 건설함으로써 이 검은 황금을 수확할 수 있습니다."
 
- BRZ_invite_imperial_advisors:0 "앙리버 전문가 영입"
- BRZ_invite_imperial_advisors_desc:0 "Bronzehill's Officer Corp is still lacking in terms of talented and able-bodied officers who are educated on the intricacies and obstacles of modern war. In order to address this, the Archon has appointed advisors from Angriver to assist in the training of our officers, to better bring them up to snuff with the rest of his griffon allies."
+ BRZ_invite_imperial_advisors:0 "앵그리버 전문가 영입"
+ BRZ_invite_imperial_advisors_desc:0 "브론즈힐의 장교단에는 현대전의 복합성과 장애물에 대해 교육을 받은 재능 있고 유능한 장교들이 아직 부족합니다. 집정관은 이 문제를 해결하기 위해 앵그리버의 조언자들을 임명했습니다. 우리 장교들의 훈련을 돕고, 그의 나머지 그리폰 동맹국들과 함께 그들을 더 잘 훈련시킬 수 있도록 말이죠."
 
  BRZ_imperial_assistance_association:0 "예일 조약"
- BRZ_imperial_assistance_association_desc:0 "The nations aligned with the Archon each have their own independent scientific communities, all geared towards the advancement of weapons and technology. Often, two separate nations will venture into similar projects, needlessly replicating research. With the Yale Pact, these nations will form a deeper bond, unifying their collective scientific resources to better utilise them."
+ BRZ_imperial_assistance_association_desc:0 "집정관과 동맹한 국가들은 각각 독자적인 과학 공동체를 가지고 있으며 모두 무기와 기술의 발전을 목표로 하고 있습니다. 이 때문에 종종 두 국가가 불필요하게 중복된 연구로 인해 유사한 프로젝트를 진행하곤 했습니다. 예일 조약을 통해 이 국가들은 더 깊은 유대감을 형성하여 그들의 집단적인 과학 자원을 통합할 것입니다."
 
- BRZ_the_archon_of_ravensburg:0 "라벤스부르크 성직자"
- BRZ_the_archon_of_ravensburg_desc:0 "The Prelate of Ravensburg is the church's representative to Bronzehill, providing spiritual guidance to Count Ignatius Bronzetail and his dogs. As the current crisis continues to plague our nation, she has taken council with the Count and has asked to have a greater voice in his government, acting as a representative on behalf of the Archon in Griffenheim."
+ BRZ_the_archon_of_ravensburg:0 "라벤스부르크 주교"
+ BRZ_the_archon_of_ravensburg_desc:0 "라벤스부르크 주교는 브론즈힐을 대표하는 교회 수장으로, 이그나티우스 브론즈테일 백작과 그의 개들에게 정신적 지도를 제공합니다. 현재의 위기가 계속해서 우리나라를 괴롭히고 있는 가운데, 그녀는 백작과의 협의회에서 그리펜하임의 집정관을 돕기 위한 대표단으로써 그의 정부에서 더 큰 목소리를 낼 것을 요청했습니다."
 
  BRZ_enforce_imperial_religious_authority:0 "교회 강화"
- BRZ_enforce_imperial_religious_authority_desc:0 "The Prelate's voice has grown evermore important within the court of Ignatius Bronzetail. Her opinion is given on every law and her advice followed with increasing regularity. The guidance she offers, in the name of the Archon, has become vital in our governance and there are rumours stirring that certain bureaucrats and ministers look to her for instruction, rather than the Count himself."
+ BRZ_enforce_imperial_religious_authority_desc:0 "주교의 목소리는 이그나티우스 브론즈테일의 궁정에서 더욱 중요해지고 있습니다. 모든 법률에 대해 그녀의 의견이 제시되고 그녀의 충고는 주기적으로 따라집니다. 집정관의 이름으로 그녀가 제시한 방향은 우리의 통치에서 매우 중요한 것이 되었고, 일부 관료들과 장관들이 백작이 아닌 그녀의 지시를 따른다는 소문이 있습니다."
 
  BRZ_holy_charity:0 "교회 원조"
- BRZ_holy_charity_desc:0 "The economic uncertainty borne by the current crisis has left many Diamond Dogs unemployed and struggling to keep themselves sheltered and fed. In order to alleviate this, the church has taken on an increasingly important rule of providing aid and charity to our most impoverished citizens."
+ BRZ_holy_charity_desc:0 "현재의 위기로 인한 경제적 불확실성으로 인해 많은 다이아몬드 독들은 실업자 신세가 되었고, 스스로를 보호하고 먹기 위해 애쓰고 있습니다. 이를 완화하기 위해 교회는 가장 빈곤한 시민들에게 원조와 자선을 제공하는 중요한 역할을 시행하고 있습니다."
 
  BRZ_church_schools:0 "종교 교육"
- BRZ_church_schools_desc:0 "In a nation where the bulk of the population remains illiterate, there is a massive need for education. Recently the church has stepped forward, offering to invest in a number of religious schools across Bronzehill, offering classwork in reading, writing, mathematics, religion, and various other subjects to pups who would otherwise have no alternative."
+ BRZ_church_schools_desc:0 "인구의 대부분이 여전히 문맹인 나라에서는 교육에 대한 필요성이 엄청납니다. 최근 교회는 브론즈힐을 가로질러 위치한 여러 종교 학교에 투자하겠다고 제안하면서 강아지들에게 읽기, 쓰기, 수학, 종교, 그리고 그 외 다양한 과목의 교육을 제공했습니다."
 
  BRZ_for_the_grace_and_might_of_boreas:0 "보레아스의 이름으로"
- BRZ_for_the_grace_and_might_of_boreas_desc:0 "The embers of war are lapping at the tapestry which unifies the Griffon Empire. It won't be long before they catch and our domains enter into the bloodiest conflict Griffonian has seen in generations. When such a time comes, our dogs must stand ready to fight alongside the Archon. To prepare for this, our troops must be mustered and given the grace of the almighty himself."
+ BRZ_for_the_grace_and_might_of_boreas_desc:0 "전쟁의 불씨가 그리폰 제국을 통합한 태피스트리 근처까지 튀고 있습니다. 머지않아 그들이 우리를 따라잡고 국토는 그리폰들이 수 세대에 걸쳐 보아온 가장 피비린내 나는 전쟁에 휘말리게 될 것입니다. 그 때가 오면 우리 개들은 집정관과 함께 싸울 준비를 해야 합니다. 이에 대비하기 위해 우리 군대는 전능하신 신들의 은총을 받아야 합니다."
 
  BRZ_the_strawberry_solution:0 "스트로베리 십자군"
- BRZ_the_strawberry_solution_desc:0 "The Strawberry Duchy is at the very centre of the disunity which is plaguing the Griffon Empire. If there is any hope of restoring unity and ushering in a new golden age, we must strike at these traitors and make them bend at the knee. Only then can the Archon truly restore Griffenheim and its subjects to their former glory."
+ BRZ_the_strawberry_solution_desc:0 "스트로베리 공국은 그리폰 제국을 괴롭히는 불협화음의 중심에 있습니다. 만약 통합을 회복하고 새로운 황금시대를 맞이할 희망이 존재한다면, 우리는 이 배신자들을 공격해서 무릎을 꿇도록 만들어야 합니다. 오직 그래야만 집정관이 그리펜하임과 그 봉신들을 이전의 영광으로 회복시킬 수 있습니다."
 
  BRZ_blessings_of_boreas:0 "보레아스의 은총으로"
- BRZ_blessings_of_boreas_desc:0 "Our dogs are blessed by god himself, guided by his representatives to Griffonia. Through our devotion, sacrifice, and adherence to their advice we have managed to survive the crisis that plagued us and have ushered in a new Bronzehill free of the impurities and cowardice which once left it weak. We must now turn our attention towards the future, and restore the greatness of the Empire."
+ BRZ_blessings_of_boreas_desc:0 "우리 개들은 신의 축복을 받고 그의 대리인들에 의해 그리포니아로 인도되었습니다. 우리의 헌신과 희생과 그들의 지도에 따라 우리는 우리를 괴롭혔던 위기에서 가까스로 살아남았고 한때 우리를 약하게 만들었던 불순함과 비겁함에서 벗어나 새로운 브론즈힐을 이끌어냈습니다. 우리는 이제 미래를 향해 관심사를 돌려 제국의 위대함을 되찾아야 합니다."
 
  BRZ_every_dog_must_do_their_duty:0 "모든 개들은 맡은 역할에 충실하라"
- BRZ_every_dog_must_do_their_duty_desc:0 "From minister to farmer, from tycoon to miner, from Count to pauper, all must do their part in the struggle ahead. It is up to the combined might of our nation to drive us forward to our final victory, over the foes who wish to destroy our most cherished of institutions. Every dog must do their part for their county, for their empire, and for their gods."
+ BRZ_every_dog_must_do_their_duty_desc:0 "장관부터 농부까지, 재벌부터 광부까지, 백작부터 빈민까지 모두가 앞으로의 투쟁에서 그들의 역할을 다해야 합니다. 우리의 가장 소중한 제도를 파괴하려는 적들을 상대로 마지막 승리를 이끌어내기 위해서는 우리의 힘을 합쳐야만 합니다. 모든 개들은 그들의 나라, 그들의 제국, 그리고 그들의 신들을 위해 그들의 역할을 다해야 합니다."
 
  BRZ_retool_the_forges:0 "보레아스의 병기창"
- BRZ_retool_the_forges_desc:0 "The Bronzekreuz Forges have been the backbone of our weapon manufacturing for years, producing the bulk of our weapons and equipment. However, as the threat of war looms on the horizon, the Archon has called upon us to become the Arsenal of Boreas, producing the guns, shells, and bullets necessary to reclaim the empire's lost domains."
+ BRZ_retool_the_forges_desc:0 "브론체크로이츠 제철소는 수년간 무기 제조의 중심지 역할을 해 왔고, 우리의 무기와 장비 대부분을 생산해 왔습니다. 하지만 전쟁의 위협이 눈앞에 다가옴에 따라, 집정관은 제국의 잃어버린 영토를 되찾는 데 필요한 총과 포탄, 총알을 생산하기 위해 우리에게 보레아스의 병기창이 될 것을 요구했습니다."
 
  # Communist
- BRZ_support_the_anti_imperial_movement:0 "좌파 동맹"
- BRZ_support_the_anti_imperial_movement_desc:0 "With the calling of the Bronze Council, a number of intellectuals, union bosses, and peasant leaders have come together to create a united socialist front. Their view is that the emperor's corrupt aristocracy plagues his Empire and is ushering in its ruin. In order to overcome this, they call for Bronzehill to rid the Empire of its aristocratic bureaucracy, replacing it with one based on merit."
+ BRZ_support_the_anti_imperial_movement:0 "좌파 연합"
+ BRZ_support_the_anti_imperial_movement_desc:0 "브론즈 협의회의 소집으로 수많은 지식인, 노조장, 농민 지도자들이 한자리에 모여 사회주의 연합전선을 만들었습니다. 그들의 견해는 황제의 부패한 귀족 계급이 그의 제국을 괴롭히고 파멸을 초래하고 있다는 것입니다. 이를 극복하기 위해 그들은 브론즈힐이 제국의 귀족 관료주의를 없애고 공적에 근거한 관료주의로 대신할 것을 요구하고 있습니다."
  
  BRZ_communist_welfare_groups:0 "분열된 광물"
- BRZ_communist_welfare_groups_desc:0 "Gems, ore, and minerals pour out of Bronzehill, making up the overwhelming majority of it exports. Currently, little of this wealth remains within our County, instead enriching the purses of foreign interests in Griffenheim. Representatives from our coalition have demanded that a small tax be levelled upon mineral exports, with the revenue being paid directly to our populace."
+ BRZ_communist_welfare_groups_desc:0 "브론즈힐에서 쏟아져 나오는 보석, 광석, 광물이 국가 수출의 대부분을 차지하고 있습니다. 현재 우리 나라에는 이 재산이 거의 남아있지 않고, 오직 그리펜하임의 이익만을 증대시킬 뿐입니다. 우리 연합의 대표들은 광물 수출에 대해 소액의 관세를 부과할 것과 이로 인한 수익을 국민들에게 직접적으로 지급할 것을 요구했습니다."
 
  BRZ_nationalise_struggaling_industries:0 "외국 자산 국유화"
- BRZ_nationalise_struggaling_industries_desc:0 "A large amount of our industry is owned by firms located within regimes which our hostile to our cause. As such, we must seize these productive assets before they can undermine our nation, using them to help fuel our progress towards the betterment of the Empire and its subjects."
+ BRZ_nationalise_struggaling_industries_desc:0 "우리 산업의 많은 부분이 우리의 대의에 적대적인 정권 내에 위치한 회사들에 의해 소유되고 있습니다. 따라서 그들이 우리나라를 약화시키기 전에 우리는 이 산업 자원을 반드시 확보해야 하며 이를 통해 제국과 그 봉신들의 발전을 도모할 수 있도록 도와야 합니다."
 
  BRZ_revolution_in_bronzehill:0 "비제트레펜 행진"
- BRZ_revolution_in_bronzehill_desc:0 "The Bronze Council has stalled, stricken by a miasma of infighting that can not be overcome. However, our coalition has grown stronger, with membership surging with each passing day of inaction. If the Council can not come to a solution on how to handle this crisis, then it must be replaced by a body which can."
+ BRZ_revolution_in_bronzehill_desc:0 "브론즈 협의회는 극복할 수 없는 내분에 시달리며 교착상태에 빠졌습니다. 하지만 우리의 연합은 회원 수가 계속 급증하면서 더욱 강력해졌습니다. 만약 협의회가 이 위기를 어떻게 처리할 것인가에 대한 해결책을 찾지 못한다면, 그들은 그럴 수 있는 기구로 대체되어야 합니다."
  
  BRZ_communist_education:0 "교육 지원금"
- BRZ_communist_education_desc:0 "For generations, the benefits of higher education have been locked behind a barrier which only the wealthiest and most well-off dogs can afford. This has denied our nation access to some of our potentially brightest minds. To address this, our government has begun to subsidise tuition, allowing dogs access to these school based on merit and not class."
+ BRZ_communist_education_desc:0 "수 세대 동안 고등 교육의 혜택은 가장 부유한 개들만이 감당할 수 있는 장벽 뒤에 갇혀 있었습니다. 이것은 우리나라가 잠재적으로 가장 우수한 인재들과 접촉하는 것을 어렵게 만들어 왔습니다. 이 문제를 해결하기 위해 우리 정부는 수업료 보조금 정책을 시작했고 개들이 계층이 아닌 개개인의 목표에 따라 학교에 들어갈 수 있게 했습니다."
 
  # Rosey Communist
  BRZ_spoticus_league:0 "스팟티쿠스 동맹"
- BRZ_spoticus_league_desc:0 "Centuries ago, there was a slave revolt in the Diamond Mountains, which saw a grand army raised by a slave known as Spoticus. While the rebellion was crushed, they won many stunning victories and sparked a spirit of resistance which exists to this day. Rosey Luxembark has called upon Spoticus' legacy, forming a league of likeminded regimes to help end the slavery of capitalism and feudalism."
+ BRZ_spoticus_league_desc:0 "수세기 전 다이아몬드 산맥에서 노예 반란이 일어났는데, 이 반란에서 스팟티쿠스라고 알려진 노예에 의해 거대한 군대가 만들어졌습니다. 반란이 진압되는 전까지 그들은 수많은 놀라운 승리를 거두었고 오늘날까지 이어져 내려오는 저항 정신을 불러일으켰습니다. 로지 룩셈바크는 이 스팟티쿠스의 유산을 주장하며 자본주의와 봉건주의의 노예제도를 종식시키기 위해 동지 정권들과의 동맹을 만들었습니다."
 
  BRZ_the_mountain_corridor:0 "분열된 무리는 이제 없다"
- BRZ_the_mountain_corridor_desc:0 "Since Bronzehill's inception, our dogs have been separated from their ancestral homeland, a necessity due to the tyranny of the Diamondshield clan. However, with both our nations experiencing revolutions, the burdens of ideology no longer plague us. As such, we must move towards unifying with our brothers, and to accomplish this, the nations that buffer us must be dealt with."
+ BRZ_the_mountain_corridor_desc:0 "브론즈힐이 건국된 이후 우리들은 다이아몬드실드 일족의 횡포 때문에 그들의 조상들의 조국과 분리되어 왔습니다. 그러나, 우리 두 나라가 혁명을 겪으면서, 이념은 더 이상 우리를 괴롭히지 않습니다. 그러므로 우리는 형제와 화합하는 방향으로 나아가야 하며, 이를 이루기 위해서는 우리 사이를 가로막는 나라들에 대한 조치가 이루어져야 합니다."
 
- BRZ_spot_stability:0 "노동자 의회 설립"
- BRZ_spot_stability_desc:0 "With the fall of the Bronze Council, a new body is necessary to act as the legislative branch of our regime. Rosey Luxembark has called for the formation of the Council of Workers, which would gather together representatives elected by unions, peasant communes, military units, and various other organisation into a central committee which will debate and draft legislation."
+ BRZ_spot_stability:0 "노동자 평의회 설립"
+ BRZ_spot_stability_desc:0 "브론즈 협의회가 몰락하면서 우리 정권의 입법부 역할을 하기 위한 새로운 기구가 필요합니다. 로지 룩셈바크는 노동조합, 농민 공동체, 군부대, 그리고 다양한 기관들에 의해 선출된 대표들이 함께 모여 토론하고 법안을 초안할 노동자 평의회를 구성할 것을 촉구했습니다."
 
  BRZ_spot_industry:0 "공장 협동조합"
- BRZ_spot_industry_desc:0 "Previously, workers were paid wages which represented only a fraction of the value of their labour. The bulk of their surplus went into the pockets of capitalists who grew fat off this tithe. However, the Council of Workers has passed the Cooperative Factory Act, allowing workers to pay into cooperatives which acquire and work industrial assets, before paying dividends to their members."
+ BRZ_spot_industry_desc:0 "그전까지 노동자들은 노동 가치의 극히 일부에 불과한 임금을 받았습니다. 수익금의 대부분은 이 십일조를 먹고 자란 자본가들의 호주머니로 들어갔습니다. 노동자 평의회는 협동조합법을 통과시켜 근로자가 취득한 산업자산을 조합에게 전달한 뒤 조합원에게 배당할 수 있도록 했습니다."
 
  BRZ_spot_crisis_1:0 "식량 가격 통제"
- BRZ_spot_crisis_1_desc:0 "The Crisis within the Empire, and instability across Griffonia as a whole, have greatly impacted the continent's food supply, drastically inflating the price of basic staples. This has led to a great hunger among our impoverished populace. In order to address this suffering, Rosey Luxembark has initiated strict price controls on food, ensuring they remain affordable."
+ BRZ_spot_crisis_1_desc:0 "제국 내부의 위기와 그리포니아 전역의 불안은 대륙의 식량 공급에 큰 영향을 미쳤으며, 기본적인 주식의 가격을 급격히 상승시켰습니다. 이것은 우리의 빈곤한 국민들 사이에 엄청난 기아로 이어졌습니다. 이 고통을 해결하기 위해 로지 룩셈바크는 식품에 대한 엄격한 가격 통제를 시작해 저렴한 식료품값을 보증했습니다."
 
- BRZ_spot_crisis_2:0 "The Banner of Change"
- BRZ_spot_crisis_2_desc:0 "Some say that drastic times call for drastic measures. This has proven to be true for our dogs, who were forced to do away with centuries of engrained social order and regal bureaucracy in order to confront the crisis plaguing us. However, it would seem that such measures were effective, as our nation stands stronger than it has in decades."
-
+ BRZ_spot_crisis_2:0 "변화의 깃발"
+ BRZ_spot_crisis_2_desc:0 "어떤 이들은 격변하는 시대가 과감한 조치를 요구한다고 말합니다. 이는 우리를 괴롭히는 위기에 맞서기 위해 수세기 동안 팽배해 있던 사회 질서와 법적인 관료주의를 없애야 했던 우리에게는 사실로 증명되었습니다. 하지만 이러한 조치들이 효과를 볼 수 있었던 근본적인 이유는 우리나라가 지난 수십년 동안 그랬던 것보다 더 강하게 자랐기 때문일 것입니다."
+ 
  BRZ_spread_the_revolution:0 "혁명 전파"
  BRZ_spread_the_revolution_desc:0 "There are many throughout Griffonia who support communist ideals. If we can contact these groups and provide them the support they need, they could prove to be useful in supporting our crusade against the corrupt aristocracy that threaten the Emperor and the citizens of Griffonia."
 
