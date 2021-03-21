@@ -56,24 +56,24 @@
  RCT_collectivisation2:0 "실업 근절" 
  RCT_patriotism:0 "애국 징병"
  RCT_commissars:0 "정치 내각"
- RCT_comm_riled_up:0 "Rile Up The Troops"
+ RCT_comm_riled_up:0 "군대를 규탄하다"
  RCT_market_socialism_idea:0 "시장사회주의"
  RCT_market_socialism_idea_desc:0 "노바의 전면적인 개혁은 시장 경제를 유지하면서 사유권을 폐지했습니다."
- RCT_autarky_idea:0 "Rijekan Autarky"
- RCT_autarky_idea_desc:0 "If Rijeka is ever isolated by foreign enemies, it must be able to survive on its own."
+ RCT_autarky_idea:0 "리예칸 경제자립정책"
+ RCT_autarky_idea_desc:0 "만약 리예카가 외부의 적들에 의해 고립당한다면, 스스로 살아남을 수 있어야 합니다."
  RCT_union_control:0 "정치 연합"
- RCT_union_control_desc:0 "Labour unions have become very active on the political scene, often pushing for reforms."
+ RCT_union_control_desc:0 "노동 조합은 자주 개혁을 추진하면서 정치 내각에서 매우 활발해 졌습니다."
  RCT_our_socialism:0 "우리들의 사회주의"
- RCT_our_socialism_desc:0 "The River Republic is now a unique market socialist state. People are happy and the economy is growing strongly."
+ RCT_our_socialism_desc:0 "리버 공화국은 이제 희귀한 시장사회주의 국가입니다. 포니들은 행복하고 경제는 빠르게 성장하고 있습니다."
  RCT_cultural_divides:0 "강학 문화적 분리"
  RCT_cultural_divides_2:0 "보통 문화적 분리"
- RCT_cultural_divides_3:0 "약한 문좌헞 ㄱ분리"
+ RCT_cultural_divides_3:0 "약한 문화적 분리"
  RCT_antisocialist_militia:0 "강력한 반사회주의 의용군"
  RCT_antisocialist_militia_2:0 "보통의 반사회주의 의용군"
  RCT_antisocialist_militia_3:0 "나약한 반사회주의 의용군"
- RCT_disparate_economies:0 "Extremely Disparate Economies"
- RCT_disparate_economies_2:0 "Somewhat Disparate Economies"
- RCT_disparate_economies_3:0 "Barely Disparate Economies"
+ RCT_disparate_economies:0 "극도로 상이한 경제체제"
+ RCT_disparate_economies_2:0 "다소 상이한 경제체제"
+ RCT_disparate_economies_3:0 "약간의 상이한 경제체제"
  RCT_disintegrated_armies:0 "완벽하게 해체된 군대 조직"
  RCT_disintegrated_armies_2:0 "어느정도 해체된 군대 조직"
  RCT_disintegrated_armies_3:0 "거의 해체되지 않은 군대 조직"
@@ -83,8 +83,8 @@
  RCT_militants1_activated:0 "공격적 사회주의 조직"
  RCT_militants2:0 "공격적 사회주의 농민"
  RCT_militants2_activated:0 "공격적 사회주의 농민"
- RCT_militants3:0 "Militant Socialists Embedded" 
- RCT_militants3_activated:0 "Militant Socialists Embedded"
+ RCT_militants3:0 "공격적인 사회주의자 침투" 
+ RCT_militants3_activated:0 "공격적인 사회주의자 침투"
  RCT_subtle_creep1:0 "무시할만한 사회주의자 영향력"
  RCT_subtle_creep1_NIM:0 "무시할만한 사회주의자 영향력"
  RCT_subtle_creep2:0 "약한 사회주의자 영향력"
@@ -114,12 +114,12 @@
  RCT_caramels_stubbornness_desc:0 "아무도 믿을 수 없습니다. 누구든 당신을 배신하고 리버 공화국의 정당한 정부를 전복시킬 음모를 꾸미고 있을 수 있습니다. 친구는 그저 변장한 자본가일 뿐입니다."
  RCT_staff:0 "유능한 장군들"
  RCT_spec_ops:0 "특수부대"
- RCT_expand_officer_academy_idea:0 "Expanded Officer Training"
+ RCT_expand_officer_academy_idea:0 "확장된 장교 교육"
  RCT_grand_army_of_the_republic_idea:0 "공화국 군인회"
  RCT_river_swirl_puppet:0 "꼭두각시 수장"
  RCT_river_swirl_puppet_desc:0 "리버 스윌은 공화국의 수상으로 남아 있지만 더 이상 실질적인 권력을 가지고 있지 않습니다."
  RCT_bastion_of_the_east_idea:0 "동쪽의 방파제"
- RCT_bastion_of_the_east_idea_desc:0 "No matter what transpires, the Rijekan ponies are committed to protecting the Riverlands from anycreature who would cause us harm. Especially griffons."
+ RCT_bastion_of_the_east_idea_desc:0 "무슨 일이 있더라도, 리예칸의 포니들은 우리에게 해를 끼칠 어떠한 생명체로부터도 리버랜드를 보호하는데 전념하고 있습니다. 특히 그리폰에게서 말입니다."
  RCT_united_joint_river_works_idea:0 "통합 건설 규제"
  RCT_agricultural_standerds_authority_idea:0 "농업 표준기구"
  RCT_social_security_act_idea:0 "사회보장법"
@@ -128,7 +128,7 @@
  RCT_border_defence_fund_idea:0 "국경 방어 기금"
  RCT_war_readiness_act_idea:0 "전쟁 준비 훈련"
  RCT_pony_work_groups:0 "노동조합"
- RCT_pony_work_groups_desc:0 "We have numerous labour unions and most of our workers are their members. They ensure fair wages, good work conditions and a motivated high-quality workforce."
+ RCT_pony_work_groups_desc:0 "우리는 수많은 노동조합을 가지고 있고 우리의 노동자 대부분은 그들의 구성원입니다. 그들은 공정한 임금, 좋은 근무 조건, 그리고 의욕적인 양질의 노동력을 보장합니다."
  RCT_WAT_Influence1:0 "무시할만한 조화주의 영향력"
  RCT_WAT_Influence2:0 "약한 조화주의 영향력"
  RCT_WAT_Influence3:0 "보통의 조화주의 영향력"
@@ -184,7 +184,7 @@
  
  #### FOCUSES ####
  RCT_coalition_government:0 "쪼개진 정부"
- RCT_coalition_government_desc:0 "The start of River Swirl's second term as Chancellor has not been an easy one. Runner-up Nova Whirl has gathered a strong left-wing coalition against River Swirl and her Rijeka Harmony Party. The two leaders and their parties have radically different ideas about policies, which might result in a political deadlock. Unless a solution is found the government may cease to function."
+ RCT_coalition_government_desc:0 "리버 스월 수상의 두 번째 임기가 시작되는 것은 쉽지 않았습니다. 경쟁자 노바 휠 후보는 리버 스월과 리예카 조화당에 맞서 강력한 좌파연합을 결집시켰습니다. 두 지도자와 그들의 정당은 정책에 대해 근본적으로 다른 생각을 가지고 있으며, 이는 정치적 교착 상태를 초래할 수 있습니다. 해결책이 발견되지 않으면 정부는 그 기능을 중단할 수도 있습니다."
 
  RCT_strengthen_the_ohs:0 "조화사무국 강화"
  RCT_strengthen_the_ohs_desc:0 "The Office of Harmonic Services has existed since Rijekograd's reformation into a republic and initally guarded the nascent democracy from monarchist conspirators. Over the decades their resources have been significantly reduced as they were seen as obsolete, but times are changing. We must be prepared to face threats from without and within."
@@ -603,10 +603,10 @@
  RCT_cas:0 "스카이다이빙 부대"
  RCT_cas_desc:0 "We will train a group of fearless ponies to pilot a corps of special bombers. These close air support ponies will dive from great height to surprise and destroy enemy troop concentrations. Disrupting enemy supply chains and staging grounds will surely destroy the morale of our opponents. Of course we still have to actually build a plane capable of this..."
  
- RCT_strat_doctrine:0 "River Rains Doctrine"
+ RCT_strat_doctrine:0 "리버랜드의 빗물 교리"
  RCT_strat_doctrine_desc:0 "We will bring the Riverland rains to the enemy! But they will find that it isn’t water that falls from the sky, but a flood of bombs. The River Rains Doctrine will see us mass long range bombers and their escorts to destroy the enemy’s vital infrastructure. When we can reach their homes, they will surely give up!"
  
- RCT_fighter_doctrine:0 "Aerial Wave Doctrine"
+ RCT_fighter_doctrine:0 "공중의 파도 교리"
  RCT_fighter_doctrine_desc:0 "To protect our dear homeland, we must make sure that no opponent makes it through to our country, both in the air and on the land. Waves of small fighters will protect us from enemy bombers and waves of close air support will mow down any catbird foolish enough to set their claws down in our land."
  
  RCT_long_range_planes:0 "강의 저편"
@@ -901,7 +901,7 @@
  ### INVESTIGATION OF NOVA WHIRL CHAIN ###
  
  #Investigation succeeds
- rivercity.1923.t:0 "Evidence of Coltstream Tampering"
+ rivercity.1923.t:0 "콜드스트림 변질의 증거"
  rivercity.1923.d:0 "[From.GetName]은(는) 최근 리버 연합을 구성하는 조약과 규정들이 추가된 후, 사회주의에 대한 지지가 점차 증가했다는 것을 알게 되었고, 그들은 무엇이 대중들의 태도 변화를 야기시키고 있는지를 알아보기 위해 관료들과 조사관들로 구성된 위원회를 보냈습니다. 철저한 조사 후에, 그들은 리버 공화국이 콜트스트림 조약의 변경에 개입해 있다는 사실을 발견했습니다. 이런 지시들은 우리 외교관들이 눈치채지 못한 채 이미 산더미처럼 쌓여 있던 서류더미의 사소한 변화들 가운데 숨겨져 있었습니다. 리버 대표가 추가한 항목들은 첫눈에 보기에는 나쁜 건 없는 것 같았기에, [From.GetAdjective] 관료들은 큰 그림을 보지 못한 채 의문을 제기하지 않고 지시를 따랐던 것입니다.. 하지만 수사관들은 이러한 변화들이 사실 리버랜드 전역에서 사회주의자들의 지지를 증가시키기 위한 수단이었다는 것을 발견했습니다.\n\n공개 기자 회견에서 [From.GetAdjective] 관리들은 범인을 노바 훨의 리버 공화국으로 지목했습니다. 이 발표는 리버랜드의 대부분의 나라들로부터 분노한 반응들이 뒤따랐고, 그들은 리버인들이 그들의 신뢰를 남용했다고 비난했습니다. 곧이어 노바 훨는 사과문을 보내 다시는 다른 회원국들의 일에 개입하지 않겠다고 약속했습니다."
  rivercity.1923.a:0 "그녀가 약속을 지키기를 바란다."
  
@@ -929,11 +929,11 @@
 
  # For the Accuser
  1926WeEjectedNovaTitle:0 "노바 훨의 추방"
- 1926WeEjectedNovaDesc:0 "One by one, the leaders of the River Coalition announced their decision. In the end, there was a clear majority in favour of expelling [RCT.GetNameDef]. The Rijekan public servants would be expelled from Riverwide institutions and Nova Whirl would be expelled from the Riverland’s leading council."
+ 1926WeEjectedNovaDesc:0 "리버 연합의 지도자들이 차례로 그들의 결정을 발표했습니다. 결국, 대다수의 사람들이 [RCT.GetNameDef]을(를) 추방하는 것에 찬성했습니다. 리예칸의 공무원들은 리버와이드 기관들에서 추방되고 노바 휠은 리버랜드의 주요 위원회에서 추방될 것입니다."
  1926WeEjectedNovaButton:0 "잘 가게, 노바 휠."
 
  1926NovaEjectedUsTitle:0 "고발의 기각" 
- 1926NovaEjectedUsDesc:0 "One by one, the leaders of the River Coalition announced their decision. In the end, there wasn’t a majority in favour of expelling the Rijekans. [From.GetLeader] took this as treason against the founding values of the River Coalition and announced that [From.GetNameDef] would leave the treaty of Coltstream."
+ 1926NovaEjectedUsDesc:0 "리버 연합의 지도자들이 차례로 그들의 결정을 발표했습니다. 결과, 리예칸을 추방하는 것에 찬성하는 것은 과반수를 넘지 못했습니다. [From.GetLeader]은(는) 이것을 리버 연합의 설립 가치에 대한 반역으로 받아들여 [From.GetNameDef]은(는) 콜트스트림 조약을 탈퇴할 것이라고 발표했습니다."
  1926NovaEjectedUsButton:0 "이따위 부당함을 안고 사느니 차라리 떠나겠다."
  
  # For River Republic
@@ -947,11 +947,11 @@
 
  # For Other River Coalition Members
  NovaEjectedTitle:0 "[RCT.GetNameDef]의 축출"
- NovaEjectedDesc:0 "The vote carried in favour of the expulsion of [RCT.GetNameDef]'s expulsion from the River Coalition. Nova Whirl has denounced the result as a hysterical overreaction and clear sign of Capitalist oppression within the River Coalition."    
+ NovaEjectedDesc:0 "투표는 [RCT.GetNameDef]의 리버 연합 제명에 찬성하는 방향으로 진행되었습니다. 노바 휠은 결과를 보고 이것은 히스테리적인 과잉반응이며, 리버 연합 내 자본주의 탄압의 명백한 징후라고 비난했습니다."    
  NovaEjectedButton:0 "동맹이 줄어들고 있군..."     
  
  NovaSurvivedTitle:0 "[RCT.GetNameDef]의 잔류" 
- NovaSurvivedDesc:0 "The vote for expulsion was unsuccesful, and Nova Whirl and the [RCT.GetNameDef] will remain in the River Coalition. In the wake of the unsuccesful move, [From.GetNameDef]'s position has become untenable, and they have departed the River Coalition." 
+ NovaSurvivedDesc:0 "추방 투표는 가결되지 못했으며, 노바 휠과 [RCT.GetNameDef]은 리버 연합에 남게 될 것입니다. 실망적인 조치로 인해 [From.GetNameDef]의 지위는 유지될 수 없게 되었고, 그들은 리버 연합을 떠나게 됐습니다." 
  NovaSurvivedButton:0 "동맹이 줄어들고 있군..." 
  ### END INVESTIGATION OF NOVA WHIRL CHAIN ###
  
@@ -991,16 +991,16 @@
  
  ### RIVER GAMES ###
  rivercity.1934.t:0 "리버 대회로의 초대장"
- rivercity.1934.d:0 "We have been invited to the River Games, the premier athletics event of the Riverlands, held every 4 years. This year's games are to be held in the River Republic. Traditionally, most nations of the Treaty of Coltstream have attended, and there is strong popular interest in the core events of sprint, sailing, jumping, javelin throwing and fencing."
+ rivercity.1934.d:0 "우리는 4년마다 열리는 리버랜드 최고의 육상 경기인 리버 대회에 초대받았습니다. 올해의 경기는 리버 공화국에서 열릴 예정입니다. 전통적으로 콜트스트림 조약 대부분의 국가들이 참석했으며 달리기, 요트타기, 멀리뛰기, 창던지기, 펜싱 등의 주 종목들에 대한 대중의 관심도가 높습니다."
  rivercity.1934.a:0 "당연히 참가해야지!"
  rivercity.1934.b:0 "시간 낭비처럼 들리는걸."
  
  rivercity.1935.t:0 "대회의 시작"
- rivercity.1935.d:0 "The River Games have officially begun with the completion of the Opening Ceremony. A strange unity has swept the usually squabbling Riverlands, as ponies snap up newspapers, crowd around radios, and offer unfounded opinions. All eyes are watching the River Republic."
+ rivercity.1935.d:0 "리버 대회는 공식적으로 개막식의 종료와 함께 시작되었습니다. 포니들은 신문을 집어들고, 라디오 주위에 몰려들고, 서로 근거 없는 주장들을 제시하면서, 기이한 통합이 서로가 옥신각신하던 리버랜드를 휩쓸었습니다. 모두가 리버 공화국을 주시하고 있습니다."
  rivercity.1935.a:0 "빨리 시작했으면 좋겠군!"
  
  rivercity.1936.t:0 "대회의 끝"
- rivercity.1936.d:0 "[This.GetNewspaperHeader]As usual, the River Games delivered, with hoofbiting finishes, dramatic upsets, and inspirational accomplishments in nearly every field.\n\nThe various sprints and marathons were consistently dominated by [won_river_games_sprint.GetRGWinnerSprint]. A usual favourite for ocean nations, the sailing events were carried by [won_river_games_sailing.GetRGWinnerSailing]. Long jump, popular despite its simplicity, was won by [won_river_games_longjump.GetRGWinnerJump]. The javelin category, harkening back to ancient military traditions, was held by [won_river_games_javelin.GetRGWinnerJavelin]. Finally, the prize for the noble art of fencing went to [won_river_games_fencing.GetRGWinnerFencing]." 
+ rivercity.1936.d:0 "여느 때처럼 리버 대회 소식은 대부분의 분야에서 훈훈한 마무리, 극적인 역전, 그리고 감명을 주는 성과와 함께 전달되었습니다.\n\n 여러 달리기와 마라톤 종목은 꾸준히 [won_river_games_sprint.GetRGWinnerSprint]의 선두 하에 있었습니다. 대양국들이 흔히 즐기는 요트 종목은[won_river_games_sailing.GetRGWinnerSailing]이(가) 이끌었습니다. 단순함에도 불구하고 인기 있는 멀리뛰기는 [won_river_games_longjump.GetRGWinnerJump]이(가) 우승하였습니다.  고대 군사 전통으로 거슬러 올라가는 투창 종류 종목은 [won_river_games_javelin.GetRGWinnerJavelin]의 주도로 진행되었습니다. 마지막으로, 펜싱의 고귀한 예술에 대한 상이 [won_river_games_fencing.GetRGWinnerFencing]에게 주어졌습니다." 
  rivercity.1936.a:0 "환상적인 경기였다!"
  
  river_games_get_owner_sprint:0 "[won_river_games_sprint.Owner.GetName]"
@@ -1014,8 +1014,8 @@
  river_games_get_DMT:0 "다이아몬드 산"
  river_games_get_WIT:0 "비텐란트"
  river_games_get_RCT:0 "리버 공화국"
- river_games_get_FRE:0 "Pònaidhean"
- river_games_get_FIR:0 "Firtree Villages"
+ river_games_get_FRE:0 "포나이드헨"
+ river_games_get_FIR:0 "피어트리 마을"
  river_games_get_FBK:0 "파브룩"
  river_games_get_WAT:0 "워터타운즈"
  river_games_get_NCH:0 "그레네클리프"
