@@ -420,41 +420,41 @@
  BRZ_spot_crisis_2_desc:0 "어떤 이들은 격변하는 시대가 과감한 조치를 요구한다고 말합니다. 이는 우리를 괴롭히는 위기에 맞서기 위해 수세기 동안 팽배해 있던 사회 질서와 법적인 관료주의를 없애야 했던 우리에게는 사실로 증명되었습니다. 하지만 이러한 조치들이 효과를 볼 수 있었던 근본적인 이유는 우리나라가 지난 수십년 동안 그랬던 것보다 더 강하게 자랐기 때문일 것입니다."
  
  BRZ_spread_the_revolution:0 "혁명 전파"
- BRZ_spread_the_revolution_desc:0 "There are many throughout Griffonia who support communist ideals. If we can contact these groups and provide them the support they need, they could prove to be useful in supporting our crusade against the corrupt aristocracy that threaten the Emperor and the citizens of Griffonia."
+ BRZ_spread_the_revolution_desc:0 "그리포니아 전역에는 공산주의 이상을 지지하는 이들이 많이 있습니다. 만약 우리가 이 단체들과 접촉해서 그들이 필요로 하는 지원을 제공할 수 있다면 후에 황제와 그리포니아 시민들을 위협하는 부패한 귀족들에 대항하는 우리의 십자군 운동을 지지하는데 유용하게 쓸 수 있을 것입니다."
 
  # Kimball Communism
 
- BRZ_military_first_theory:0 "킴볼의 칙령"
- BRZ_military_first_theory_desc:0 "With Kimball Barking-Sun's seizure of power from Rosey Luxembark, the philosophies of the Council of the Left have become heavily influenced by his philosophies. Instead of the more traditional views of the council, who see the monarch as a figurehead, he instead sees him as the head of the revolution, the guiding light of the nation, a nigh immortal and all powerful being."
+ BRZ_military_first_theory:0 "김볼의 칙령"
+ BRZ_military_first_theory_desc:0 "김볼 바킹선이 로지 룩셈바크로부터 권력을 탈취하면서 좌파 회의의 철학은 그에게 큰 영향을 받게 되었습니다. 군주를 가장으로 보는 전통적인 견해 대신, 그는 자기 자신을 혁명의 수장, 국가의 지도적 빛, 그리고 불멸에 가까운 강력한 존재로 봅니다."
 
- BRZ_kim_war_support:0 "Align the Generals"
- BRZ_kim_war_support_desc:0 "Without the military, the dreams of reclaiming the emperor, and ensuring his reign, are impossible. As such, Kimball has approached the generals of Bronzehill, offering them ministries, prestigious posts, and generous salaries within his new government."
+ BRZ_kim_war_support:0 "장군들과의 동맹"
+ BRZ_kim_war_support_desc:0 "군대가 없다면 황제를 되찾고 그의 통치를 보장받으려는 꿈은 불가능합니다. 이에 김볼은 브론즈힐의 장군들에게 접근하여 그들에게 장관직, 명성 있는 직책, 그리고 그의 새 정부 내에서 후한 급여를 제공했습니다."
 
  BRZ_self_reliance:0 "Unz-Kravakgash"
- BRZ_self_reliance_desc:0 "The ideals of Unz-Kravakgash are that imports make our nation weak, creating a reliance upon foreign goods in order to meet our own needs. In order to address this weakness, our government has called upon the nation to domestically produce all its goods, creating a self-reliant system that can not be bullied by threats of sanctions or trade war."
+ BRZ_self_reliance_desc:0 "Unz-Kravakgash는 수입은 우리 나라를 약하게 만들며 우리의 생활을 외국 상품에 의존하게 만든다는 사상입니다. 이런 문제점을 해소하기 위해 우리 정부는 경제 제재나 무역전쟁의 위협에 시달릴 수 없는 독자적인 시스템을 만들어 모든 상품을 국내에서 생산할 것을 요구해 왔습니다."
 
  BRZ_mass_production:0 "전쟁의 동력"
- BRZ_mass_production_desc:0 "TFor too long our nation has been geared towards a pompous and bourgeois economy, more focused upon the production of baubles and trinkets than the things that are really important. This era of needless luxury must come to an end and our nation must be geared towards producing the necessities of the revolution."
+ BRZ_mass_production_desc:0 "우리 나라는 너무 오랫동안 거만하고 부르주아적인 경제를 지향해 왔습니다. 우리는 정말 중요한 것들보다는 싸구려 보석들과 값싼 장식품들의 생산에만 집중해 왔습니다. 이 불필요한 사치의 시대를 끝내고 혁명의 필수품을 생산하는 데 초점이 맞춰져야 합니다."
 
  BRZ_ten_principals:0 "열 가지 원칙"
- BRZ_ten_principals_desc:0 "1. We must give our all in the struggle to unify the entire society with the revolutionary ideology of the Great Leader comrade Grover VI.\n2. We must honour the Great Leader comrade Grover VI with all our loyalty.\n3. We must make absolute the authority of the Great Leader comrade Grover VI."
+ BRZ_ten_principals_desc:0 "1. 우리는 위대한 지도자 동지 그로버 6세의 혁명 이데올로기와 사회 전체를 통일하기 위한 투쟁에 모든 것을 바쳐야 한다.\n2. 우리는 위대한 지도자인 그로버 6세를 충실히 존경해야 한다.\n3. 우리는 위대한 지도자인 그로버 6세의 권위를 절대화해야 한다."
 
  BRZ_kim_crisis_2:0 "중도파 숙청"
- BRZ_kim_crisis_2_desc:0 "When the Council of the Left first formed it called upon a broad base of faction, looking to overthrow the oppressive crown of Count Bronzetail. However, some of these supposed 'revolutionaries' are little more than capitalists and reactionaries in disguise, hoping to use our suffering to further their own gains. As such, these dogs must be purged from our society."
+ BRZ_kim_crisis_2_desc:0 "좌파 회의가 처음 결성되었을 때 그들은 브론즈테일 백작의 억압적인 왕좌를 타도하려는 광범위한 세력을 구성했습니다. 하지만 이러한 '혁명가'로 추정되는 개들 중 일부는 그들의 이익만을 얻기 위해 우리의 고통을 이용하기를 원하는 위장한 자본가와 반동들에 지나지 않습니다. 이 개들은 우리 사회에서 추방되어야 합니다."
 
  BRZ_prepare_for_the_war_of_libertation:0 "해방 전쟁"
- BRZ_prepare_for_the_war_of_libertation_desc:0 "Across Grover VI's domains, various petty nobles, fat merchants, and opportunistic warlords run rampant, raping his lands, plundering his treasure, and exploiting his populace. We, as the defenders of our glorious leader, must step in and liberate these domains, bringing them under proper administration."
+ BRZ_prepare_for_the_war_of_libertation_desc:0 "그로버 6세의 땅에는 다양한 귀족들, 뚱뚱한 상인, 기회주의적 군벌들이 횡행하여 그의 땅과 보물을 약탈하고 그의 민중을 착취하고 있습니다. 우리는 영광스러운 지도자의 수호자로서 여기에 개입하여 그곳을 해방시켜 적합한 관리를 받도록 해야 합니다."
 
  # Free Harmony
  BRZ_appeal_to_the_harmonists:0 "바나비에게 권력을"
- BRZ_appeal_to_the_harmonists_desc:0 "With the nation in chaos, Count Ignatius Bronzetail believes it is best he abdicates the throne in favour of his young and popular son, Barnaby. The Prince has many friends in the pro-harmony parties in Bronzehill and there is no doubt that they will come to influence the Bronze Council."
+ BRZ_appeal_to_the_harmonists_desc:0 "나라가 혼란에 빠진 가운데 이그나티우스 브론즈테일 백작은 그의 젊고 인기 있는 아들 바나비에게 왕위를 물려주는 것이 최선이라고 믿고 있습니다. 왕자는 브론즈힐의 친 조화파 정당에 많은 친구들을 두고 있으며, 그들이 브론즈 회의에 영향을 미칠 것이라는 데는 의심의 여지가 없습니다."
 
  BRZ_the_count_and_the_princess:0 "공주와 백작"
- BRZ_the_count_and_the_princess_desc:0 "For years, Princess Molly of the Diamond Mountain and Sir Barnaby have been in secret correspondence, joined together by their common harmony-aligned interests. With both now holding leadership positions in their respective regimes, it is hoped that their friendship will foster a warming of relations."
+ BRZ_the_count_and_the_princess_desc:0 "다이아몬드 마운틴의 몰리 공주와 바나비 경은 오랜 세월 동안 조화에 대한 공통적인 관심으로 만나게 되어 서로 비밀 서신을 주고받았습니다. 현재 두 나라 모두 각자의 정권에서 지도자의 위치에 있기 때문에, 그들의 우정이 관계의 진전을 조장할 것으로 기대됩니다."
 
  BRZ_seek_pony_support:0 "리버 동맹과의 협력"
- BRZ_seek_pony_support_desc:0 "As the various nations of Herzland stand ready to tear each other apart, it has become vital for Bronzehill to expand its diplomatic presence. For generations, our relationship to the lands of the River Federations have been strained under our vassalage to the empire. However, we both have much to gain from Grover VI gaining a sound-minded regent."
-
+ BRZ_seek_pony_support_desc:0 "헤르츠란트의 여러 나라들이 서로를 분열시키려 하면서 브론즈힐이 외교력을 확장하는 것은 매우 중요한 일이 되었습니다. 수 세대에 걸쳐, 리버 동맹과 우리의 관계는 제국의 속국이라는 우리의 위치 때문에 불편하게 지속되어 왔습니다. 하지만, 우리는 모두 그로버 6세가 건전한 섭정을 얻음으로써 서로에게 얻을 것이 많을 것입니다."
+ 
  BRZ_barnaby_reduce_crisis_1:0 "산업 보조금"
  BRZ_barnaby_reduce_crisis_1_desc:0 "The current crisis has greatly affected the stability of Bronzehill's economy, as our trade networks within the Griffon Empire are strained by conflict. This has led to the closure of factories and the unemployment of many dogs. By subsidises factories, not only can we increase employment, but we can also grow domestic demand and create a stable market for consumer goods."
 
