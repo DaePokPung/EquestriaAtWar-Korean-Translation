@@ -194,10 +194,10 @@
  
  #Dab on the empire
  RCT_phoenix_programme:0 "피닉스 프로그램"
- RCT_phoenix_programme_desc:0 "At first we thought the death of Grover V would finally bring the collapse of the Empire. Alas, this did not happen and OHS agents report of a military buildup in the West. The Empire has attacked the Riverlands before and it may do so again. We must ensure the Griffon Phoenix does not become strong enough to rival our entire Coalition!"
+ RCT_phoenix_programme_desc:0 "처음에 우리는 그로버 5세의 죽음이 마침내 제국의 멸망을 가져올 것이라고 생각했습니다. 슬프게도, 그런 일은 일어나지 않았고 OHS 요원들은 서방의 군사력 증강에 대해 보고했습니다. 제국은 이전에 리버랜드를 공격한 적이 있으며, 다시 그렇게 할지도 모릅니다. 그리폰 피닉스가 우리 연합군과 견줄 만큼 강해지지 않도록 해야 합니다!"
 
  RCT_replace_the_unstable_government:0 "불안정한 정부 교체"
- RCT_replace_the_unstable_government_desc:0 "The Office of Harmonic Services has assessed the situation and found that the bickering between the parties in the Sabor is a clear and dangerous security risk. It is time to convince River Swirl that drastic measures must be taken to stabilise the government, lest we become too weak and divided to resist the Empire."
+ RCT_replace_the_unstable_government_desc:0 "조화 사무국은 상황을 평가했고, 사보르에서 정당 간의 끈임없는 다툼이 분명하고 심각한 보안 위험 요소라는 것을 발견했습니다. 우리가 너무 약화되고 분열되어 제국에 저항할 수 없게 되지 않도록 이제 정부를 안정시키기 위한 과감한 조치가 취해져야 한다는 것을 리버 스월에게 납득시켜야 할 때입니다."
  
  RCT_secure_the_riverlands:0 "리버랜드 보호"
  RCT_secure_the_riverlands_desc:0 "We cannot afford cracks in the River Coalition. Every country in the Riverlands that does not stand with us may provide an easy way for the Griffon Empire to corner us politically and militarily. The Coalition must stand together as a bulwark against griffonkind, but we cannot afford countries backing out. Even though it pains us, we must secure the Riverlands."
@@ -1029,34 +1029,34 @@
  ### END RIVER GAMES ###
  
  ### Harmonist Infiltration of Griffons ###
- rivercity.1939.t:0 "Harmonist Influence Growing In [Root.GetNameDef]"
- rivercity.1939.d:0 "Our agents have reported increasing presence and organisation of Harmonist political groups within our nation.\n\nAlthough there is no definitive proof, all evidence supports to meddling from [RCT.GetNameDef]"
- rivercity.1939.a:0 "We'll have to keep an eye on them."
+ rivercity.1939.t:0 "[Root.GetNameDef]에서 조화주의자들의 영향력이 커지다"
+ rivercity.1939.d:0 "우리의 첩보원은 우리나라 내의 조화파 정치 단체의 입지와 조직력이 증대되고 있다고 보고했습니다.\n\n결정적인 증거는 없지만, 현재까지의 모든 증거는 [RCTGetNameDef](으)로부터의 간섭을 향하고 있습니다."
+ rivercity.1939.a:0 "우린 계속 그들을 주시해야 할 것이다."
  
- rivercity.1940.t:0 "Harmonist Groups are Arming"
- rivercity.1940.d:0 "Our agents have informed us that several radical Harmonist groups, likely supported by [RCT.GetNameDef] have gained possession of illegal weaponry, stockpiling them for "defense against tyrrany and oprression". Although arrests have been made we fear it was only the tip of the iceberg"
- rivercity.1940.a:0 "We need to do something."
+ rivercity.1940.t:0 "조화주의파들이 무장하다."
+ rivercity.1940.d:0 "우리의 첩보원은 [RCTGetNameDef]이(가) 지원하는 여러 급진적인 조화주의자 단체들을 알려왔습니다. 그들은 불법 무기들을 "폭력과 탄압에 대한 방어"를 위해 비축해두었다고 합니다. 비록 체포가 이루어졌지만 우리는 그것이 빙산의 일각에 불과한지 두려워하고 있습니다.."
+ rivercity.1940.a:0 "우리는 무언가 해야한다."
  
- rivercity.1941.t:0 "Officers Training Harmonist Groups"
- rivercity.1941.d:0 "Armed Harmonist groups have grown bolder recently, organising raids on transports, government officers and isolated military units. Their tactics and coordination suggests professional military support."
- rivercity.1941.a:0 "Curse those rabble-rousers!"
+ rivercity.1941.t:0 "장교들이 조화주의파 단체를 훈련시키다"
+ rivercity.1941.d:0 "무장 조화주의파 단체들은 최근 수송기, 정부 관리, 고립된 군부대에 대한 공격을 조직하면서 더욱 대담해지고 있습니다. 그들의 전술과 조직화는 전문적인 군사적 지원이 있음을 시사하고 있습니다."
+ rivercity.1941.a:0 "저 민중의 선동자들을 처리하라!"
  
- rivercity.1942.t:0 "Harmonists Rise Up!"
- rivercity.1942.d:0 "The Harmonic insurrection has finally made its move, with groups across the country, storming government buildings, ambushing military units and seizing key facilities."
- rivercity.1942.a:0 "This is all [RCT.GetNameDef]'s doing!"
+ rivercity.1942.t:0 "조화주의자들이여 일어나라!"
+ rivercity.1942.d:0 "전국에 걸쳐 무리들이 정부 청사를 습격하고 군부대를 매복공격하고 주요 시설을 점령하는 등, 마침내 조화주의파들의 반란이 일어났습니다."
+ rivercity.1942.a:0 "이게 다 [RCT.GetNameDef]의 계획이야!"
  
- rivercity.1943.t:0 "River Republic Asserts its Influence"
- rivercity.1943.d:0 "Citing our shared interest in peace, democracy, and freedom from tyrrany, [RCT.GetNameDef] have sent an "invitation" to join its "Golden Curtain" - an  expansion of the River Coalition as a greater bulwark against the Griffonian Empire and other foreign oppressors.\n\nDespite the honeyed words, they have made it clear that any state that does not join them shall be considered an enemy "Whose continued lack of support for Friendship constitutes a threat to the security of the River Coalition"."
- rivercity.1943.a:0 "Friendship and Freedom requires Security."
- rivercity.1943.b:0 "Protection? This is simple warmongering!"
+ rivercity.1943.t:0 "리버 공화국이 영향력을 행사하다"
+ rivercity.1943.d:0 "평화, 민주주의, 테러로부터의 자유에 대한 우리의 공통된 가치를 인용하여,[RCT.GetNameDef]은(는) 우리로부터 "금빛 장막"으로의 "초대장"을 보냈습니다. 이는 그리포니아 제국과 다른 외부의 압력들에 대항하는 더 큰 방벽으로서 리버 동맹국의 확장입니다.\n\n순화적인 단어선택에도 불구하고, 그들은 그들과 함께 하지 않는 어떤 국가도 "우정에 대한 지속적인 지지 부족으로 리버 동맹의 안전에 위협이 되는" 적으로 간주되어야 한다는 것을 분명히 했습니다.."
+ rivercity.1943.a:0 "우정과 자유에는 안전이 보장되어야 한다."
+ rivercity.1943.b:0 "보호? 이건 그냥 전쟁광이잖아!"
   
- rivercity.1944.t:0 "[From.GetName] Agrees to Join Us"
- rivercity.1944.d:0 "As expected, the government of [From.GetName] has agreed to join our initiative, and thus come under our protection from the threat of the Empire."
- rivercity.1944.a:0 "They are better off with us, even if they don't know it yet."
+ rivercity.1944.t:0 "[From.GetName]이(가) 가입을 승인하다"
+ rivercity.1944.d:0 "예상했던대로, [From.GetName]의 정부는 우리의 주도권 아래 가입하는 것을 승인했습니다, 따라서 제국의 위협으로부터 우리의 보호를 받게 될 것입니다."
+ rivercity.1944.a:0 "우리와 함께하는게 더 좋을겁니다, 그들이 아직 깨닫지 못했더라도 말이죠."
 
- rivercity.1945.t:0 "[From.GetName] Refuses to Join Us!"
- rivercity.1945.d:0 "[From.GetName] has refused to join the Golden Curtain, with [From.GetLeader] declaring it "simple warmongering"! It seems that in order to maintain our own security, we will need to impose our terms by force."
- rivercity.1945.a:0 "Security requires sacrifices!"
+ rivercity.1945.t:0 "[From.GetName]이(가) 가입을 거절하다!"
+ rivercity.1945.d:0 "[From.GetName]이(가) 금빛 장막 가입을 거부했습니다.[From.GetLeader]은(는) 우리를 "순전히 전쟁광"이라고 표현하였습니다. 우리 스스로의 안보를 유지하기 위해서는 강제적으로 요구를 수용하게 만들어야겠습니다."
+ rivercity.1945.a:0 "안보에는 희생이 필요한 법이다!"
 
  #rivercity.1918.t:0 "Revolutionaries Formenting Dissent!"# Identical duplicate from Eaw
  #rivercity.1918.d:0 "Our law-keeping forces have arrested several individuals who are suspected of spreading propaganda and disrupting public order. After interrogations it became clear all of them were part of a larger underground socialist organization which continues to be active. If we do not act, we might have to deal with a red revolution."# Identical duplicate from Eaw
@@ -1236,41 +1236,41 @@
  
  # Equestrian exchange
  
- rivercity.318.t:0 "[From.GetNameDef] Requests Cooperation"
- rivercity.318.d:0 "The skittish ponies of the Riverlands have long been cool to our overtures, suspicious of foreigners, quarrelsome amongst themselves, and doubtful of the legitimacy of alicorn rule.\n\nSo it is to our great surprise that a diplomatic mission has arriveed from [RCT.GetNameDef], requesting technological support and cooperation. Our advisors credit the influence of their leader, River Swirl, who once studied in Equestria.\n\nAs pleased as we are to receive such an approach, this is not a decision to be made lightly."
- rivercity.318.a:0 "Ongoing Cooperation."
- rivercity.318.b:0 "Send a Technical Aid Mission."
- rivercity.318.c:0 "Why not both?"
- rivercity.318.e:0 "The East is too violent to be trusted with such power."
+ rivercity.318.t:0 "[From.GetNameDef]에서의 협력 요청"
+ rivercity.318.d:0 "리버랜드의 경박한 포니들은 오랫동안 우리의 접촉에 냉담했고, 포니 외의 다른 종들을 의심했고, 그들끼리 다투었으며, 알리콘 통치의 정당성을 의심해 왔습니다.\n\n그렇기 때문에 [RCT.GetNameDef]에서 외교 사절단이 도착한 것은 매우 놀라운 일입니다, 그들은 기술 지원 및 협력을 요청했습니다. 우리의 고문들은 그들의 지도자이며 이퀘스트리아에서 학문을 공부한 적이 있는 리버 스월에 대해 신용을 가지고 있습니다.\n\n이러한 제안을 받아들이게 되어 기쁘지만, 이것은 가볍게 내려질 결정이 아닙니다."
+ rivercity.318.a:0 "지속적인 협력을 약속하자."
+ rivercity.318.b:0 "기술 지원을 보내라."
+ rivercity.318.c:0 "둘 다는 안되나?"
+ rivercity.318.e:0 "동부 대륙은 너무나 폭력적이라 그들을 믿어서는 안된다."
  
- rivercity.319.t:0 "Equestrian Cooperation"
- rivercity.319.d:0 "Whilst not providing any special aid, Equestria has agreed to full cooperation between our research communities and sharing of progress."
- rivercity.319.a:0 "Equestrian support will give us the edge we need."
+ rivercity.319.t:0 "이퀘스트리아와의 협력"
+ rivercity.319.d:0 "이퀘스트리아는 특별한 지원은 보내지 않았지만 연구 공동체 간의 완전한 협력과 진행 상황의 공유에는 동의했습니다."
+ rivercity.319.a:0 "이퀘스트리아의 지원이 우리의 부족한 부분을 채울것이다."
  
- rivercity.320.t:0 "Equestrian Aid"
- rivercity.320.d:0 "Whilst ruling out ongoing cooperation, citing the distances and effort involved, Equestria has provided a technical aid mission to help develop our basic industry and military package."
- rivercity.320.a:0 "Every bit helps."
+ rivercity.320.t:0 "이퀘스트리아의 지원"
+ rivercity.320.d:0 "국가 간 거리 및 관련 비용을 언급하면서 지속적인 협력에 대해서는 배제했지만, 이퀘스트리아는 우리의 기본 산업 및 군사력 증강과 개발을 돕기 위한 기술 지원 사절단을 제공했습니다."
+ rivercity.320.a:0 "동전 하나하나가 소중한 법이지."
  
- rivercity.321.t:0 "Equestrian Generosity!"
- rivercity.321.d:0 "Not only has Equestria agreed to full cooperation with our scientists, but they have assembled a technical aid mission to help get our basic military and industrial knowledge up to speed.\n\nAlready ships arrive carrying the electronic and industrial wonders of the West!"
- rivercity.321.a:0 "If not for pride, we could have asked decades ago!"
+ rivercity.321.t:0 "이퀘스트리아의 관용!"
+ rivercity.321.d:0 "이퀘스트리아는 우리 과학자들과의 완전한 협력에 동의했을 뿐만 아니라, 그들은 우리의 기본적인 군사 및 산업 지식을 빠르게 발전시키는 데 도움이 되는 기술 지원 사전단을 집결시켰습니다.\n\n벌써 서대륙의 전자공학 및 산업계의 경이로운 결과물들을 실은 수송선이 도착했습니다!"
+ rivercity.321.a:0 "자존심이 아니었다면, 우리는 10년 전부터 물어볼 수 있었을텐데!"
  
- rivercity.322.t:0 "Equestria Refuses"
- rivercity.322.d:0 "Citing the difficulties of cooperating over long distances, and the long history of unchecked violence and abuse of technology in Griffonia, Equestria have refused to cooperate or support our research efforts."
- rivercity.322.a:0 "Easy to say when Griffons aren't trying to murder you."
+ rivercity.322.t:0 "이퀘스트리아의 거절"
+ rivercity.322.d:0 "이퀘스트리아는 장거리 협력의 어려움과 그리포니아에서의 고삐 풀린 폭력과 기술 남용의 오랜 역사를 들먹이며 우리의 연구 활동에 협력하거나 지원하는 것을 거부했습니다."
+ rivercity.322.a:0 "당장 그리폰들이 위협이 되지 않으니까 그렇게 쉽게 말하겠지"
  
- rivercity.323.t:0 "[From.GetNameDef] Requests Aid"
- rivercity.323.d:0 "Currently at war, [RCT.GetNameDef] has sent a diplomatic mission from the Riverlands requesting military support, in the interests of preserving pony Harmony and defending their way of life."
- rivercity.323.a:0 "Anything for our eastern cousins!"
- rivercity.323.b:0 "Lets not arm conflicts a world away."
+ rivercity.323.t:0 "[From.GetNameDef]에서의 지원 요청"
+ rivercity.323.d:0 "현재 전시 상황인 국가, [RCT.GetNameDef]에서 포니들의 조화를 지키고 그들의 삶을 보장하기 위해 군사 지원을 요청하는 외교 사절단을 리버랜드에서 보냈습니다."
+ rivercity.323.a:0 "동부의 형제들을 위해서라면 뭐든지!"
+ rivercity.323.b:0 "다른 대륙에서의 무력 충돌은 원치 않는다."
  
- rivercity.324.t:0 "Equestrian Aid"
- rivercity.324.d:0 "Equestria has agreed to provide some shipments of basic military equipment to support our effort."
- rivercity.324.a:0 "Ponies must stick together."
+ rivercity.324.t:0 "이퀘스트리아의 지원"
+ rivercity.324.d:0 "이퀘스트리아는 우리의 노력의 성과를 지원하기 위해 몇 가지 기본적인 군사 장비들을 제공하기로 합의했습니다."
+ rivercity.324.a:0 "포니들은 반드시 뭉쳐야한다."
  
- rivercity.325.t:0 "Equestria Refuses"
- rivercity.325.d:0 "Equestria has refused our request for military assistance, citing their preference to not get involved in foreign conflicts."
- rivercity.325.a:0 "Typical Equestrian arrogance."
+ rivercity.325.t:0 "이퀘스트리아의 거절"
+ rivercity.325.d:0 "이퀘스트리아는 외국과의 분쟁에 연루되지 않는 것이 더 좋아보인다는 이유로 우리의 군사 지원 요청을 거절했습니다."
+ rivercity.325.a:0 "전형적인 이퀘스트리아의 오만함이군."
  
  #### Decissions   ####
  RCT_restore_order:0 "Restore Order in [From.GetName]"
@@ -1449,9 +1449,9 @@
  DefaultProclamation:0 "The time has come for us to proclaim the Riverland Socialist Union!"
  
  #### Politics ####
- POLITICS_RIVERSWIRL_DESC:0 "River Swirl is a former teacher from Rijekograd who studied abroad in Celestia's School For Gifted Unicorns. She later entered politics and quickly rose through the ranks of the Rijeka Harmony Party. She was elected Chancellor of the River Republic in 1001 and her term was mostly successful, allowing her to win the elections for the second time. However, continued modernization has led to growing social issues in cities which in turn has greatly increased the popularity of the left. Her second term is unlikely to be as unproblematic as the first."
- POLITICS_NOVAWHIRL_DESC:0 "Nova Whirl is a rising star in the political scene of the River Republic, having entered it only in 1004. She grew in the factory district of Rijekograd, where conditions were far from ideal, which influenced her political values greatly. Soon enough she joined a socialist youth club where she discussed the Stalliongrad revolution with others and eventually developed her own ideology: A mixture of market socialism, gradualism and internationalism. She finally entered politics to turn her socialist dreams into a reality."
- POLITICS_CARAMELHAZE_DESC:0 "Some consider him a bold hero of the revolution, others a dangerous tyrannical lunatic. To say the least, Caramel Haze is a controversial figure. He joined the ranks of the army at a young age, being attracted by wages which were above those of common labourers. At this time, he cared little for politics, but meeting a Bakaran economic advisor called Bray Foam would give his life new purpose. Caramel read the writings of his namesake, Caramel Marks, and then learned of Steel Stallion and his more radical principles. Soon he was filled with revolutionary fervour and joined the SKR, rising through the ranks rapidly.\n\nWhile Nova Whirl never trusted him, she realized his usefulness and so the two cooperated closely. But Caramel was not fond of Whirl either, thinking she was a revisionist and a social fascist. Ever since he has patiently waited for the time to seize control of SKR from her."
+ POLITICS_RIVERSWIRL_DESC:0 "리버 스월은 셀레스티아의 재능있는 유니콘들을 위한 학교에서 유학한 리예코그라드 출신의 전직 교사입니다. 그녀는 후에 정치에 입문했고 리예카 조화당의 지위를 통해 빠르게 성장했습니다. 그녀는 1001년에 리버 공화국의 수상으로 선출되었고 그녀의 임기는 대부분 순탄하고 성공적이었으며, 그녀가 두 번째로 선거에서 승리할 수 있게 해주었습니다. 하지만, 지속적인 현대화는 도시에서의 사회적 이슈들을 증가시켰고, 이것은 결국 좌파의 인기를 크게 증가시켰습니다. 그녀의 두 번째 임기는 첫 번째 임기만큼 문제가 없을 것 같지 않습니다."
+ POLITICS_NOVAWHIRL_DESC:0 "노바 월은 리버 공화국의 정치 현황에서 떠오르는 스타로, 1004년에야 입성했습니다. 그녀는 이상과는 거리가 먼 리예코그라드의 공장 지역에서 성장했고, 이는 그녀의 정치적 가치에 큰 영향을 미쳤습니다. 곧 그녀는 사회주의 청년 클럽에 가입하여 다른 사람들과 스탈리온그라드 혁명을 논의했고 결국 그녀 자신의 이념을 발전시켰습니다. 시장 사회주의, 점진주의, 그리고 국제주의가 혼합된 가치입니다. 그녀는 마침내 자신의 사회주의 꿈을 현실로 바꾸기 위해 정치에 발을 들였습니다."
+ POLITICS_CARAMELHAZE_DESC:0 "어떤 사람들은 그를 혁명의 대담한 영웅으로 여기기도 하고, 어떤 사람들은 위험하고 독재적인 미치광이로 여기기도 합니다. 간단히 말해서, 카라멜 헤이즈는 논란이 많은 인물입니다. 그는 젊은 나이에 일반 노동자보다 높은 임금에 이끌려 군에 입대했습니다. 이 시기에, 그는 정치에 별로 관심이 없었지만, 브레이 폼이라고 불리는 바카라의 경제 고문을 만난 것은 그의 삶에 새로운 목표를 가져다 주었습니다. 카라멜은 그와 이름이 같은 작자인 카라멜 마크스의 글을 읽고 스틸 스탈리온과 그의 보다 급진적인 원칙들을 배웠습니다. 곧 그는 혁명적인 열정으로 가득 차서 SKR에 가입했고, 빠르게 자신의 지지도를  높여갔습니다.\n\n노바 월은 처음에 그를 믿지 않았지만, 그녀는 그의 유용성을 깨달았고, 그래서 두 사람은 긴밀히 협력했습니다. 하지만 카라멜은 월이 자신처럼 수정주의자이자 사회주의 파시스트가 아니라고 생각하면서 월을 좋아하지 않았습니다. 그는 참을성 있게 그녀로부터 SKR을 장악할 시간을 기다려왔습니다."
  
  lewd_dane_nerd:0 "A bit of an oddball in the military, Arcane's talent doesn't actually lie in military matters, rather, it lies in technology and magic.\n\nHe originally joined the Army as an engineer, before climbing the ranks through supply and logistics. Pioneering a computerized system for keeping track of both divisions and armies, he has since taken the offer to lead in a more direct role, rather than the behind-the-curtains role he occupied until now."
 
