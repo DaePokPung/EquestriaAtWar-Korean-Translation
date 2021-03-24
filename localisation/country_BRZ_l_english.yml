@@ -456,108 +456,108 @@
  BRZ_seek_pony_support_desc:0 "헤르츠란트의 여러 나라들이 서로를 분열시키려 하면서 브론즈힐이 외교력을 확장하는 것은 매우 중요한 일이 되었습니다. 수 세대에 걸쳐, 리버 동맹과 우리의 관계는 제국의 속국이라는 우리의 위치 때문에 불편하게 지속되어 왔습니다. 하지만, 우리는 모두 그로버 6세가 건전한 섭정을 얻음으로써 서로에게 얻을 것이 많을 것입니다."
  
  BRZ_barnaby_reduce_crisis_1:0 "산업 보조금"
- BRZ_barnaby_reduce_crisis_1_desc:0 "The current crisis has greatly affected the stability of Bronzehill's economy, as our trade networks within the Griffon Empire are strained by conflict. This has led to the closure of factories and the unemployment of many dogs. By subsidises factories, not only can we increase employment, but we can also grow domestic demand and create a stable market for consumer goods."
+ BRZ_barnaby_reduce_crisis_1_desc:0 "지금의 위기는 브론즈힐의 경제 안정에 큰 영향을 미쳤습니다. 그리폰 제국 내의 무역망이 분쟁으로 인해 경색되고 있기 때문입니다. 이것은 공장의 폐쇄와 많은 개들의 실업으로 이어졌습니다. 공장을 보조함으로써 우리는 고용을 늘릴 수 있을 뿐만 아니라 내수를 성장시키고 안정적인 소비재 시장을 창출할 수 있습니다."
 
  BRZ_barnaby_factories:0 "외국 사업체와의 협상"
- BRZ_barnaby_factories_desc:0 "Much of Bronzehill's economy is owned by firms operated within Griffenheim and other parts of the empire, meaning that our shift in imperial policy has greatly undermined their willingness to operate within our borders. By reassuring these firms, we can begin to mend this broken trust and rebuild the soundness of investing within Bronzehill."
+ BRZ_barnaby_factories_desc:0 "브론즈힐의 경제 대부분은 그리펜하임과 제국의 다른 지역에서 운영되는 회사들에 의해 소유된 상태입니다. 이는 우리의 제국에 대한 태도의 변화가 우리의 땅 안에서 회사를 운영하려는 그들의 우려를 자아냈다는 것을 의미합니다. 이 회사들을 안심시켜서 무너진 신뢰를 회복하고 브론즈힐에 투자하는 것의 건전성을 재강조할 수 있습니다."
 
- BRZ_barnaby_output_bonus:0 "해외 산업수단 수입"
- BRZ_barnaby_output_bonus_desc:0 "Our industrial methodology is severely archaic when compared to some of our more developed neighbours. Factories are run more like farms, operating only for limited hours per day. To overcome this barrier, we must reform our methodology, seeking help from foreign experts in order to transition from an agricultural to industrial economy."
+ BRZ_barnaby_output_bonus:0 "해외 산업론 도입"
+ BRZ_barnaby_output_bonus_desc:0 "우리의 산업론은 더 발전된 몇몇 이웃들과 비교했을 때 매우 구식입니다. 공장은 농장처럼 운영되며 하루에 제한된 시간 동안만 운영됩니다. 이러한 장벽을 극복하기 위해서는 농업에서 산업경제로의 전환을 위해 외국 전문가의 도움을 받아 산업론을 개혁해야 합니다."
 
- BRZ_barnaby_research_slot:0 "지인의 피난처 제공"
- BRZ_barnaby_research_slot_desc:0 "As conflict brews in the Empire, many intellectuals, across its various domains, find themselves under harsh and oppressive governments. Many, wish to break free of this chaffing restriction and return to relative freedom. By opening our borders to these potential refugees, we could benefit greatly from the work of these scientists, engineers, and other trained professionals."
+ BRZ_barnaby_research_slot:0 "지식인의 피난처 제공"
+ BRZ_barnaby_research_slot_desc:0 "제국에 갈등이 일어나면서 여러 분야에 걸쳐 많은 지식인들이 가혹하고 억압적인 정부 아래 놓이게 되었습니다. 많은 이들이 이 허황된 감옥에서 벗어나 상대적으로 자유로운 곳을 바라고 있습니다. 이러한 잠재적 난민들에게 우리의 국경을 개방함으로써, 우리는 과학자들, 기술자들, 그리고 다른 훈련된 전문가들로부터 큰 이익을 얻을 수 있습니다."
 
- BRZ_barnaby_defence_bonus:0 "백작령의 방어"
- BRZ_barnaby_defence_bonus_desc:0 "With war looking increasingly likely, the popularity of Count Barnaby and his reforms have created a fighting spirit amongst our populace. Their newfound liberty has become something they cherish and they are prepared to sacrifice greatly in order to ensure that it endures through this coming conflict."
+ BRZ_barnaby_defence_bonus:0 "백국의 방어"
+ BRZ_barnaby_defence_bonus_desc:0 "전쟁이 점점 더 가까워지는 가운데 바나비 백작의 인기와 그의 개혁은 우리 국민들 사이에 불굴의 투지를 만들고 있습니다. 그들이 얻은 새로운 자유는 곧 그들이 소중히 여기는 것이 되었고 그들은 다가오는 폭풍에서도 자유의 지속을 위해 희생할 준비가 되어 있습니다."
 
- BRZ_barnaby_reduce_crisis_2:0 "브론즈 의회 민주화"
- BRZ_barnaby_reduce_crisis_2_desc:0 "It is hard to claim that we are a pillar of harmony when our legislative branch is appointed from the nobility. With economic affairs finally sorted, Count Barnaby can now go about reforming the Bronze Council into a more democratic body and begin the process of setting up Bronzehill's first elections."
+ BRZ_barnaby_reduce_crisis_2:0 "브론즈 회의 민주화"
+ BRZ_barnaby_reduce_crisis_2_desc:0 "우리의 입법부가 귀족으로부터 임명되는 상황에서 우리는 스스로를 조화의 기둥이라고 주장하기 어렵습니다. 경제 문제가 마침내 정리되면서 바나비 백작은 이제 브론즈 회의를 보다 민주적인 기구로 개혁하고 브론즈힐의 첫 선거를 준비하는 과정을 시작할 수 있게 되었습니다."
 
  BRZ_barnaby_harmony:0 "보편적 선거권"
- BRZ_barnaby_harmony_desc:0 "With Bronzehill's first elections coming ever closer, Count Barnaby has mandated universal suffrage. Every stud and bitch will receive the right to vote, regardless of class or ownership of land. No longer will the affairs of state be exclusively run by the nobility."
+ BRZ_barnaby_harmony_desc:0 "브론즈힐의 첫 선거가 다가옴에 따라 바나비 백작은 보편적인 선거권을 위임했습니다. 모든 국민들은 토지 소유 여부나 계급에 관계없이 투표권을 받게 됩니다. 더 이상 귀족들만이 국정을 독점적으로 운영하지 않을 것입니다."
 
- BRZ_barnaby_stability:0 "모든 생명체를 위한 백작령"
- BRZ_barnaby_stability_desc:0 "Count Barnaby has fashioned himself a count for everycreature. He has beseeched his populace, asking for them to be tolerant in these intolerant times. After all, Bronzehill was born as a sanctuary from the tyranny of the Diamond Mountain and that legacy should be extended to refugees from all species attempting to flee similar conditions."
+ BRZ_barnaby_stability:0 "모든 생명체를 위한 백국"
+ BRZ_barnaby_stability_desc:0 "바나비 백작은 모든 생명체를 위한 백작을 자처했습니다. 그는 대중들에게 이 힘든 시대에 관용을 베풀어 달라고 간청했습니다. 브론즈힐은 다이아몬드 마운틴의 폭압으로부터의 보호구역으로 태어났고, 그 유산은 비슷한 조건을 피하려는 모든 종족의 난민들에게까지 확대되어야 합니다."
 
  BRZ_barnaby_remove_crisis:0 "위대한 동맹"
- BRZ_barnaby_remove_crisis_desc:0 "With the conclusion of elections, a number of new political parties have formed in the Bronze Council. While a vocal minority is made up of extremist voices, form both the left and right, a number of moderate parties have come together to form a grand coalition. The two most prominent voices are Winston Coppertail of the Conservatives and Greyhound Attlee of the Democratic Labour Union"
+ BRZ_barnaby_remove_crisis_desc:0 "선거가 마무리되면서 브론즈 회의에 새로운 정당이 다수 탄생했습니다. 극좌파와 극우파들이 소수의 의석만 차지한 반면, 다수의 온건파 정당들이 모여 대연정을 이뤘습니다. 그 중에서도 가장 두드러진 두 목소리는 보수당의 윈스턴 카퍼테일과 민주노동연합의 그레이하운드 애틀리입니다."
 
  BRZ_barnaby_manpower:0 "카퍼테일 총리"
- BRZ_barnaby_manpower_desc:0 "Winston Coppertail has come to dominate the grand coalition, assuming the title of Bronzehill's First Prime Minister. Under his leadership, he wishes to see the scope of our military increased in order to shore up our defences against foreign invasion. To do this, he has opened up military service to members of every species, stating that everycreature has a stake in our collective defence."
+ BRZ_barnaby_manpower_desc:0 "윈스턴 카퍼테일이 브론즈힐의 초대 총리를 맡으면서 대연정을 장악하게 되었습니다. 그의 지도 아래서 그는 외국의 침략에 대한 우리의 방어를 강화하기 위해 우리 군의 범위가 넓어지기를 바라고 있습니다. 이를 위해 그는 모든 종족의 구성원들에게 군복무를 개방했고, 모든 생명체들은 우리의 집단방어에 참여할 자격을 가지고 있다고 말했습니다."
 
- BRZ_barnaby_better_industry:0 "아틀리 총리"
- BRZ_barnaby_better_industry_desc:0 "Greyhound Attlee has come to dominate the grand coalition, assuming the title of Bronzehill's First Prime Minister. Under his leadership, he wishes to see the strengthening of labour rights for Bronzehill's workers, ensuring they receive fair treatment and wages. In order to promote this mandate, he has legalised the formation of unions and established the Ministry of Labour."
+ BRZ_barnaby_better_industry:0 "애틀리 총리"
+ BRZ_barnaby_better_industry_desc:0 "그레이하운드 애틀리가 브론즈힐의 초대 총리를 맡으면서 대연정을 장악하게 되었습니다. 그의 지도 아래서 그는 브론즈힐의 노동자들에게 공정한 대우와 임금을 보장하면서 노동권을 강화하기를 희망합니다. 이 를 위해 그는 노동조합의 설립을 합법화하고 노동부를 설립했습니다."
 
  # Free Fascism
  BRZ_seek_national_union_support:0 "라우드바크와의 만남"
- BRZ_seek_national_union_support_desc:0 "Rufus Loudbark, the leader of the National Union party, has often been dismissed as a troublemaker, but it is clear that in these desperate times an iron paw is needed to guide the nation towards freeing the Emperor. The count will ensure the NU will have a prime spot in the Bronze Council."
+ BRZ_seek_national_union_support_desc:0 "국가연합의 당수인 루퍼스 라우드바크는 종종 골칫거리로 치부되어 왔지만, 이러한 절박한 시기에 황제를 해방시키기 위해서 국가를 지도할 강철 주먹이 필요한 것은 분명합니다. 개표는 국가연합이 브론즈 회의에서 가장 중요한 위치를 차지할 것을 보장할 것입니다."
 
- BRZ_nu_propaganda:0 "전국연맹 선전방송"
- BRZ_nu_propaganda_desc:0 "After Loudbark's admittance to the Bronze Council, many of the less patriotic factions within the nation began to protest, we should try as much as possible to keep a positive image of ourselves with the new power we have."
+ BRZ_nu_propaganda:0 "국가연합 선전방송"
+ BRZ_nu_propaganda_desc:0 "라우드바크의 브론즈 회의 입회 이후 국내에서 애국심이 약한 많은 세력들이 반발하기 시작한 만큼 우리가 가진 새로운 힘으로 우리에 대한 긍정적인 이미지를 유지할 수 있도록 최대한 노력해야 합니다."
  
  BRZ_nu_restore_order:0 "질서의 회복"
- BRZ_nu_restore_order_desc:0 "Our nation is in chaos as the Count is coming under pressure to remove the NU from the Bronze Council, we must act fast and decisively to make sure that at thevery least our ship keeps floating!"
+ BRZ_nu_restore_order_desc:0 "백작이 브론즈 회의에서 국가연합을 퇴출하라는 압력을 받으면서 나라가 혼란에 빠져 있습니다. 우리는 적어도 우리 배가 계속 떠다닐 수 있도록 신속하고 단호하게 행동해야 합니다!"
  
  BRZ_nu_military_loyalty:0 "군대의 충성심 유지"
- BRZ_nu_military_loyalty_desc:0 "The NU's greatest tool lies in that many generals are sympathetic to our cause, we must monopolise this and in this times of strife, use the military to keep order."
+ BRZ_nu_military_loyalty_desc:0 "국가연합의 가장 큰 무기는 많은 장군들이 우리의 대의에 동조하고 있다는 데 있습니다. 우리는 군을 독점하고 이 혼란의 시기에 군을 이용해 질서를 유지해야 합니다."
  
  BRZ_nu_fascist_democracy:0 "자유의 제한"
- BRZ_nu_fascist_democracy_desc:0 "One belief that sets Loudbark apart from many other politicians in Bronezehill is his genuine belief in democracy, or at least people voting on which NU candidate they want... and never to replace him."
+ BRZ_nu_fascist_democracy_desc:0 "라우드바크를 브론즈힐의 많은 다른 정치가들과 차별화하는 하나의 믿음은 민주주의에 대한 그의 진정한 믿음입니다. 적어도 국가연합에게 투표하는 개들한테는 적용되는 말입니다."
  
  BRZ_nu_free_state:0 "자유 개들"
- BRZ_nu_free_state_desc:0 "Bronezehill shall bow to none but the emperor! We are his true protectors and none shall stand in our way to true liberty from opression! We shall foster this feeling amongst the populace so they know that it is the NU who serves them, and truly serves the emperor. Not some stilly noble or stuffy priest!"
+ BRZ_nu_free_state_desc:0 "브론즈힐은 황제에게만 고개를 숙일 것입니다! 우리는 그의 진정한 보호자이고 아무도 억압에서 벗어나려는 진정한 자유를 가로막지 않을 것입니다! 우리는 민중들 사이에서 이러한 감정을 키워 조용한 귀족들이나 답답한 성직자들이 아닌, 오직 국가연합만이 진정으로 황제를 섬기는 자들이라는 것을 알 수 있도록 할 것입니다!"
  
- BRZ_nu_chancellor_loudbark:0 "국가의 수상"
- BRZ_nu_chancellor_loudbark_desc:0 "Now that Loudbark has consolodated his position on the Bronze Council, and gotten enough support with the common folk and the army, he can finally make his bid to rule alongside his monarch, to free the Emperor.\nSlave to Chancellor, now that's a story."
+ BRZ_nu_chancellor_loudbark:0 "국가의 총리"
+ BRZ_nu_chancellor_loudbark_desc:0 "이제 라우드바크는 브론즈 회의에서 자신의 지위를 공고히 했고, 평민들과 군대의 지지를 충분히 받고 있기에 마침내 그는 황제를 해방하고 그와 함께 왕권을 통치할 준비가 되었습니다.\n노예에서 총리까지, 멋진 이야기입니다."
  
  BRZ_nu_factories:0 "산업화 프로그램"
- BRZ_nu_factories_desc:0 "The NU economic plan is a mix of light nationalisation, compromising with nobles and corporations and guaranteeing rights to workers. As well as codifying that none shall ever lie as chattel to another. Such a plan is sure to recieve support."
+ BRZ_nu_factories_desc:0 "국가연합의 경제 계획은 국유화, 귀족 및 기업과의 타협, 노동자에 대한 권리 보장 등이 혼합된 것입니다. 또한 어떤 것도 다른 이들에게 세습될 수 없음을 성문화할 것입니다. 이 계획은 확실히 지지를 받을 것입니다."
  
  BRZ_nu_industry_buff:0 "산업 재교정"
- BRZ_nu_industry_buff_desc:0 "In order to better serve our interests, it is time we take a more direct role in the economy. Influencing the tides of the market in order to benefit the nation the most."
+ BRZ_nu_industry_buff_desc:0 "우리의 이익을 위해 이제는 우리가 경제에서 더 직접적인 역할을 맡아야 할 때입니다. 국가의 이익을 가장 많이 얻기 위해 시장의 흐름에 개입할 것입니다."
  
- BRZ_nu_military_pensions:0 "군인 연금 프로그램"
- BRZ_nu_military_pensions_desc:0 "A key NU policy since its inception, was the belief that any dog who fights deserves an income to live on when he is done fighting. We should make sure that this is followed through with, for both the good of the populace, and all the new recruits who will sign up."
+ BRZ_nu_military_pensions:0 "군견 연금 프로그램"
+ BRZ_nu_military_pensions_desc:0 "국가연합의 창당 이래로 내려온 주요 이념은 전투가 끝나면 전투에 참전한 모든 개들은 자급자족할 수 있을 정도의 수입을 받을 자격이 있다는 것입니다. 우리는 대중의 이익과 향후 입대할 모든 신병들을 위해서 이 원칙이 지켜질 수 있도록 보장해야 합니다."
  
  BRZ_nu_smart_dogs:0 "지식인의 시대"
- BRZ_nu_smart_dogs_desc:0 "In the begining, the main opposition to our government was from the intellectual class, who called us barbaric for doing what was right. But now that Loudbark is the Chancellor, we will be sure to convince them to comply. And some may actually believe it!"
+ BRZ_nu_smart_dogs_desc:0 "처음에 우리 정부에 대한 주된 반대는 지식층에서 나왔는데, 그들은 옳은 일을 한 우리를 야만적이라고 불렀습니다. 하지만 라우드바크가 총리가 된 지금, 우리는 반드시 그들이 우리를 따르도록 설득할 것입니다. 그리고 일부 개들은 실제로 우리를 믿을지도 모릅니다!"
  
  BRZ_nu_nu_rule:0 "통제의 완성"
- BRZ_nu_nu_rule_desc:0 "With many of our promises sorted in ways many never thought we could, we can now declare our regime stable. And with that we can move on to our greater task of liberation!"
+ BRZ_nu_nu_rule_desc:0 "우리의 많은 가능성들이 전에는 우리가 할 수 있다고 생각하지 못했던 방식으로 해결되면서 이제 우리는 정권의 안정을 선언할 수 있습니다. 그리고 이제 우리는 우리의 더 큰 해방 과제로 나아갈 수 있습니다!"
  
  BRZ_nu_we_are_number_one:0 "엘리트 군대"
- BRZ_nu_we_are_number_one_desc:0 "Loudbark is a proponent of a small professional army that shall serve as the very backbone of our state, so much so it may seem there is no state without our army. This level of professionalism wi require cutting back on conscription but it could be well worth it!"
+ BRZ_nu_we_are_number_one_desc:0 "라우드바크는 국가의 중추 역할을 하는 소규모 전문 군대를 지지합니다. 이로 인해 군이 마치 국가 어디에서나 보이고 활동하는 것처럼 보일 것입니다. 이런 수준의 높은 전문성은 징병을 줄여야 하겠지만 그럼에도 불구하고 충분히 그럴 가치가 있을 것입니다!"
  
  BRZ_nu_leve_en_masse:0 "상비군"
- BRZ_nu_leve_en_masse_desc:0 "Lassie Goldcoat, one of our prominent advisors and generals supports the idea of sacrificing dicipline in our ranks, to implement a complex bureaucracy of conscription to acquire as many dogs as possible with minimal effort. Of course many will be unwilling, damaging our preformance, but they will learn to fight for the emperor!"
+ BRZ_nu_leve_en_masse_desc:0 "우리의 저명한 조언가이자 장군 중 한 명인 라시 골드코트는 군 내부의 규율을 희생시키더라도 최소한의 노력으로 가능한 많은 개들을 얻기 위한 징병제를 지지하고 있습니다. 물론 많은 개들이 이 정책을 좋아하진 않을 것이고, 또 우리의 훈련 수준에도 악영향을 미치겠지만, 그들은 황제를 위해 싸우는 법을 배울 것입니다!"
 
  # Empire Expansion
- BRZ_alles_erdreich_ist_der_kaiser_untertan:0 "Alles Erdreich ist der Kaiser Untertan"
- BRZ_alles_erdreich_ist_der_kaiser_untertan_desc:0 "While the control over the Empire is secure, our work is not yet done. There are others in our surrounding that we've yet to regain control of. All belongs to the Emperor."
+ BRZ_alles_erdreich_ist_der_kaiser_untertan:0 "모든 땅은 황제에게 예속된다"
+ BRZ_alles_erdreich_ist_der_kaiser_untertan_desc:0 "제국은 이제 안전하지만, 우리의 일은 아직 끝나지 않았습니다. 우리 주변에는 아직 통제권을 되찾지 못한 것들이 남아 있습니다. 그리고 그들은 모두 황제의 것입니다."
 
  BRZ_meetings_with_strawberry:0 "스트로베리와의 만남"
- BRZ_meetings_with_strawberry_desc:0 "On the radar, we've Strawberry, our former vassal, we have to meet with them and negotiate the terms of them rejoining the Empire. While we have not forgotten the past, in the present they have but two possibilities, join, or be conquered. All belongs to the Emperor."
+ BRZ_meetings_with_strawberry_desc:0 "제국 너머에 우리의 옛 속국 스트로베리가 있습니다. 그들과 만나서 제국의 재가입 조건을 모색해야 합니다. 우리가 과거를 잊은 것은 아니지만, 현재 그들의 선택지는 단 두 가지, 즉 가입을 하거나 정복되는 것 뿐입니다. 모든 것은 황제의 것입니다."
 
  BRZ_feathrisian_diplomacy:0 "페디시아 외교"
- BRZ_feathrisian_diplomacy_desc:0 "An attempt at diplomacy with Feathisia will be made, but our goals are quite clear. Their lands belong to us, and we will have them, willingly or by force, such is the decree of our Emperor. They should meet our delegates with dignity. In the end, all belongs to the Emperor."
+ BRZ_feathrisian_diplomacy_desc:0 "우선 페디시아와의 외교적 접근이 있을 것이지만, 우리의 목표는 매우 명확합니다. 그들의 땅은 우리의 것이며, 우리는 그들을 필요하다면 무력을 써서라도 가져갈 것입니다. 이것은 우리 황제의 명령입니다. 그들은 우리의 대표단을 정중하게 만날 것입니다. 모든 것은 황제의 것입니다."
 
  BRZ_secure_the_northern_mountains:0 "북부 산맥 보호"
- BRZ_secure_the_northern_mountains_desc:0 "Our neighbouring regions can still be useful to us, specifically the territories to the north are of particular interest to the Empire's expansion. We will secure the northern mountains at any cost, for the Empire claims all. In the end, all belongs to the Emperor."
+ BRZ_secure_the_northern_mountains_desc:0 "우리 주변 지역은 여전히 우리에게 유용할 수 있습니다. 특히 북쪽 지역은 제국의 확장에 있어 주된 관심사입니다. 무슨 수를 써서라도 제국의 영유권인 북쪽 산을 확보할 것입니다. 모든 것은 황제의 것입니다."
 
  BRZ_deal_with_the_republicans:0 "공화주의자 처리"
- BRZ_deal_with_the_republicans_desc:0 "Those who oppose the rule of the Emperor are a threat and will be dealt with. The will of the Emperor is infallible, and it will be enforced. The pathetic republicans dare object the Empire's jurisdiction, and they will pay for it in the fullest. In the end, all belongs to the Emperor."
+ BRZ_deal_with_the_republicans_desc:0 "황제의 통치에 반대하는 위협적인 세력들은 처리되어야 합니다. 황제의 의지는 반드시 지켜져야 합니다. 그리고 가엾은 공화주의자들이 감히 제국의 관할권에 반대하고 있습니다. 그들은 충분히 대가를 치를 것입니다. 모든 것은 황제의 것입니다."
 
  BRZ_the_vedina_negotiations:0 "베디나 협상"
- BRZ_the_vedina_negotiations_desc:0 "Vedina, the land of the free, will be the next on the end of our negotiations envoy. We expect them to use their choice wisely, for there will not be a second chance. It is time for them to decide, do they stand by our side, or will they be crushed under our might? In the end, all belongs to the Emperor."
+ BRZ_the_vedina_negotiations_desc:0 "자유의 땅 베디나가 우리의 다음 협상 위원단의 목적지가 될 것입니다. 그들에게 두 번째 기회는 없을 것이기 때문에 현명한 선택을 기대하고 있습니다. 이제는 그들이 우리와 함께 가기로 할까요, 아니면 우리의 힘에 눌릴까요? 모든 것은 황제의 것입니다."
 
  BRZ_the_romau_accords:0 "로마우 합의"
- BRZ_the_romau_accords_desc:0 "There are some who must respect our former accords, we shall see where their loyalty disposes now. In the eyes of the Emperor, no one is forgotten, and nothing is forgotten. The envoys of the Emperor's will are to be be dispatched shortly, submit or be quelled, that is their message. In the end, all belongs to the Emperor."
+ BRZ_the_romau_accords_desc:0 "우리의 이전 합의를 존중해야 하는 이들이 있습니다. 이제 그들의 충성심이 어떤 방향으로 흘러갈지 지켜봐야 할 것입니다. 황제에게는 아무도, 아무것도 잊혀지지 않습니다. 황제의 사절들이 곧 파견될 것이며, 메세지는 간단합니다: 항복하던지, 싸우던지. 모든 것은 황제의 것입니다."
 
  BRZ_subdue_the_southern_troublemakers:0 "남쪽의 골칫거리 진압"
- BRZ_subdue_the_southern_troublemakers_desc:0 "Those troublemakers in the south have been a thorn in the Empire's side long enough, it's time to change that. They too will have the pleasure of meeting the Emperor's envoys to decide their fate, stand with us, or against us. In the end, all belongs to the Emperor."
+ BRZ_subdue_the_southern_troublemakers_desc:0 "남쪽의 골칫거리들은 충분히 오랫동안 제국을 괴롭혀 왔습니다. 이제는 바꿀 때입니다. 그들 역시 황제의 사절들을 만나는 기쁨을 누른 뒤 우리와 함께 가거나, 혹은 우리와 맞서는 운명을 결정하게 될 것입니다. 모든 것은 황제의 것입니다."
 
  BRZ_deal_with_the_knights:0 "기사단 처리"
- BRZ_deal_with_the_knights_desc:0 "The knights of Hellquill and their allies cannot be left unchecked. They will be reminded of our former oaths, and they will be given a generous proposal from the Emperor to review them once more under new terms, where they may keep their autonomy. The Empire's might will be recognised, either by them submitting to us, or when our forces crush their opposition. In the end, all belongs to the Emperor."
+ BRZ_deal_with_the_knights_desc:0 "헬퀼 기사단들과 그 동맹들을 그냥 남겨둘 수는 없습니다. 그들은 옛 맹세를 다시 상기하게 될 것이고, 자치권을 유지할 수 있는 새로운 조건 하에서 이를 다시 검토하도록 황제의 후한 제안을 받게 될 것입니다. 제국의 힘은 그들이 우리에게 복종하거나 우리 군대가 그들의 저항을 박살날 때 그 진가를 인정받을 것입니다. 모든 것은 황제의 것입니다."
 
  BRZ_bring_peace_to_the_lakeside:0 "호수가에 평화를 가져오다"
  BRZ_bring_peace_to_the_lakeside_desc:0 "The disturbance at the lakeside is not one to be ignored. The Emperor sees all, and his dictate is unwavering. The Empire will bring peace to their region, the negotiators are en route in order to spread the message of the Empire and our way of peace. In the end, all belongs to the Emperor."
