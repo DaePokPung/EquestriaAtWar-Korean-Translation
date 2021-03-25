@@ -1417,8 +1417,8 @@ changelings_paxchrysalia.12.d:0 ""폐하." Jachs 소장은 베살리폴리스에
 changelings_paxchrysalia.12.a:0 "물론입니다, 폐하."
 
 changelings_paxchrysalia.13.t:0 "사랑의 산업"
-changelings_paxchrysalia.13.d:0 "Generaloberstabsarzt Marsilio sighed and flipped through the binder of notes sitting in his lap as he awaited the decision of the Royal Court. Why did he even bring so many papers? He knew the Queen wouldn't read a single one. Ever since Equestria had fallen, she'd been pushing off all her royal duties as queen of the changelings to go play conqueror in Canterlot, and it had taken a not insubstantial amount of effort on behalf of the Court to get her to return to Vesalipolis and attend to her duties back home. But if he could convince the advisors, however... oh, but who was he kidding? The advisors were all from the greater hives, places like Vraks, Ditrysium, Soryth, and even Vesalipolis itself. Surely none of the bugs on the Queen's council had even heard of the no-name hive he was from.\n\nAt the very least, the proposals in his binder gave him something to do while the advisors debated his proposal. He flipped through page after page of notes, each one explaining in detail how the industrial capability of the Changeling Hives could be improved by allowing the workers increased access to Love to make up for longer hours and more demanding work. Sure, it would pull Love away from the military, but wasn't keeping the machines of industry working even more important than supplying a few bugs on patrol? Not only that, but Marsilio's thoughts were set in the future, once the garrisons could be scaled back and Equestria trusted to run itself. The initiatives he set forward today could go a long way toward building up changeling industry in the future...\n\nThe door opening startled him out of his thoughts, and Councilor Commoragh stepped forward, turning toward Marsilio. "Generaloberstabsarzt?"\n\n"Yes?" Marsilio responded.\n\n"Do it," was all the councilor said, before closing the doors and returning to the important business taking place inside. Marsilio blinked blankly at the doors for several moments, before a pleased smile settled on his face. It was time to get to work."
-changelings_paxchrysalia.13.a:0 "Looks like this bug is moving up in the world..."
+changelings_paxchrysalia.13.d:0 "Marsilio 상급의무대장은 한숨을 내쉬고 왕실 의회의 결정을 기다리면서 무릅에 놓여있는 노트의 바인더를 뒤적였습니다. 왜 그렇게 많은 서류를 가져왔을까요? 그는 여왕이 단 하나도 읽어보지 않을 것을 알고 있었습니다. 이퀘스트리아가 무너진 이후, 그녀는 캔틀롯에서 정복자 놀이를 하기 위해 체인질링의 여왕으로서의 왕실 업무를 미루고 있었고, 그녀를 베살리폴리스로 돌아가게 해서 본국의 직무를 수행시키기 위해 의회를 대신해 상당한 노력을 기울였습니다. 하지만 그가 조언가들을 설득할 수 있다면... 오, 그가 누구에게 장난을 친 걸까요? 조언가들은 모두 브락스, 디트리시움, 소리스 그리고 심지어 베살리폴리스와 같은 대군락 출신이였습니다. 확실히 여왕의 의회에 있던 벌레들 중 아무도 그가 왔던 무명 군락에 대해 알고있는 자들은 없었습니다.\n\n적어도, 그의 바인더에 있던 제안들은 고문들이 그의 제안에 대해 토론하는 동안 할 일을 주었습니다. 그는 한 장씩 노트를 넘겼고, 각 페이지마다 노동자들이 더 긴 시간동안 더 힘든일을 할 수 있돌고 사랑의 접근을 늘림으로써 어떻게 체인질링의 산업력을 향상시킬 수 있는지를 자세히 설명해 주었습니다물론 그것은 사랑을 군대로부터 뺏는 것이지만, 산업 기계들을 계속 작동시키는 것이 순찰을 도는 벌레 몇 마리를 공급하는 것보단 훨씬 중요하지 않을까요? 그뿐만 아니라 Marsilio는 미래에는 수비대를 축소시키고 이퀘스트리아가 스스로 운영되는 것을 믿을 수 있다고 생각했습니다오늘 그가 내놓은 계획들은 미래에 체인질링 산업을 구축하는 데 크게 도움이 될 것입니다\n\n문이 열리자 깜짝 놀라며 생각을 떨쳐냈고, 코모라그 고문은 Marsilio 쪽으로 몸을 돌렸습니다. "상급의무대장?"\n\n"응?" Marsilio가 응답했습니다.\n\n"그렇게 해," 라고 고문들이 말한 후, 문을 닫고 안에서의 중요한 사업으로 돌아왔습니다. Marsilio는 즐거운 미소가 그의 얼굴에 나타나기 전에, 몇 분동안 문 앞에서 눈을 깜박였습니다. 일하러 갈 시간입니다."
+changelings_paxchrysalia.13.a:0 "이 벌레가 세상을 움직이는 것 같아..."
 
 changelings_paxchrysalia.14.t:0 "여왕의 사랑수집 부대"
 changelings_paxchrysalia.14.d:0 "Generaloberstabsarzt Marsilio watched the Love collection process from the other end of the doctor's office in the small town of Bridleville, a clipboard and pen sitting on the desk in front of him. Ever since his proposed reforms to the Love collection system had begun to be implemented throughout the Hives, the efficiency at which the newly-established Kollektiontruppen could harvest the mandated Love tax from the ponies and deer had only increased. The mandatory taxation, though overseen and enforced by armed soldiers riding into town on trucks, had largely gone off without any difficulties, apart from a few noted cases of exhaustion and dizziness in elderly ponies and deer, as well as among the very young. Marsilio scratched a few notes onto his clipboard as a teenage couple stood up from the collection chairs and staggered away, leaning heavily against each other for support. He'd seen enough collections by now to know that they would have to limit at what ages ponies and deer should be expected to pay the Love tax. Making it mandatory at 18 and then ending it at 58 seemed to be the most reasonable age bracket to work with, as below and above that range, the nasty side effects of collection were more prevalent and often more impactful. Still, that gave the Hives forty years out of each subject to collect their Love taxes, and so long as the worst excesses in the Heer were curbed, it would be sustainable for a long time to come."
@@ -2430,17 +2430,17 @@ CHN_factories_for_love_decision_desc:0 "We will assign several civilian factorie
 CHN_factories_for_love_decision_req_tt:0 "We possess at least §Y6§! civilian factories that can be used for projects."
 CHN_erots_TOOLTIP_FOR_FACTORY_GAIN:0 "(§G+0.20§!) §YErots'§! worth of synthetic £lovetax_text  §CLove§! will be added to [CHN.GetAdjective] stockpiles.\n"
 
-CHN_rations_for_political_power:0 "Rations for Political Power"
-CHN_rations_for_war_support:0 "Rations for War Support"
-CHN_rations_as_growth_incentive:0 "Rations for Economic Growth"
-CHN_rations_for_stability:0 "Rations for Stability"
-CHN_rations_for_drones:0 "Rations for Productivity"
-CHN_rations_for_researchers:0 "Rations for Research"
-CHN_rations_for_recruits:0 "Rations for Recruits"
-CHN_rations_for_settlers:0 "Rations for Population Growth"
+CHN_rations_for_political_power:0 "정치력을 위한 식량"
+CHN_rations_for_war_support:0 "전쟁 지지도를 위한 식량"
+CHN_rations_as_growth_incentive:0 "경제 성장을 위한 식량"
+CHN_rations_for_stability:0 "안정도를 위한 식량"
+CHN_rations_for_drones:0 "생산성을 위한 식량"
+CHN_rations_for_researchers:0 "연구를 위한 식량"
+CHN_rations_for_recruits:0 "식량을 위한 식량"
+CHN_rations_for_settlers:0 "인구 성장을 위한 식량"
 
-CHN_superweapon:0 "Military Research & Development"
-CHN_railway_gun_plans:0 "Soryth-Klasse Schematics"
+CHN_superweapon:0 "군사 연구 & 개발"
+CHN_railway_gun_plans:0 "소리스-급 설게도"
 CHN_railway_gun_build:0 "Construct the S.K. Eisenbahnwaffe"
 
 CHN_equestrian_insurgency_category:0 "반-체인질링 반란"
@@ -2590,7 +2590,7 @@ CHN_event_19_research_seized_tt:0 "We will prioritise the seizure of Equestrian 
 CHN_event_19_research_seized_country_flag_tt:0 "Prioritised the seizure of Equestrian §Ymilitary and scientific research§!."
 CHN_event_20_intellectuals_arrested_tt:0 "We will prioritise the incarceration of Equestrian §Yscientists and intellectuals§!."
 CHN_event_20_intellectuals_arrested_country_flag_tt:0 "Prioritised the incarceration of Equestrian §Yscientists and intellectuals§!."
-CHN_event_26_tech_buff_tt:0 "§Y§!:\nGlobal Stats:\n      건설 속도: §G+5.00%§!\n      공장 생산량: §G+10.00%§!\n      조선소 생산량: §G+10.00%§!"
+CHN_event_26_tech_buff_tt:0 "§Y효과§!:\nGlobal Stats:\n      건설 속도: §G+5.00%§!\n      공장 생산량: §G+10.00%§!\n      조선소 생산량: §G+10.00%§!"
 CHN_event_28_loyalty_affirmed_tt:0 "We must be mindful of the political climate..."
 CHN_event_29_science_cooperation_tt:0 "Science is politics, as are all things, but an individual's morality is their own."
 CHN_event_29_science_cooperation_country_flag_tt:0 "Laid the groundwork for §YChangeling-Equestrian scientific cooperation§!."
@@ -2630,7 +2630,7 @@ CHN_glossus_sicarus_tt:0 "\n§YGlossus Sicarus§! (with traits §YQueen's Guard�
 CHN_arcus_venn_tt:0 "\n§YArcus Venn§! (with traits §YCareer Officer§!, §YSkilled Staffer§!, §YAdaptable§!, §YRecently Promoted§!) becomes a General.\n"
 
 CHN_hegemony_compact_science_tech_name:0 "H패권 S과학과 I산업 R연구 C컴팩트"
-CHN_hegemony_compact_science_tech_desc:0 "Headquartered in Vraks, the HSIRC is the transnational polity responsible for the centralised coordination of scientific research amongst the member states of the Changeling Hegemony."
+CHN_hegemony_compact_science_tech_desc:0 "브락스에 본부를 두고 있는 HSIRC는 체인질링 패권 회원국들의 과학 연구의 중앙화를 담당하는 초국가적인 정치 입니다."
 
 CHN_form_pony_volunteer_divisions_tt:0 "\nFour §YDivisions§! of §YEquestrian Conscripts§! will be formed and deployed:\n  - 301. Freiwilligen-Infanterie-Division 'Zügel'\n  - 302. Freiwilligen-Infanterie-Division 'Zäumen'\n  - 303. Freiwilligen-Infanterie-Division 'Halfter'\n  - 304. Freiwilligen-Infanterie-Division\n"
 CHN_form_griffon_merc_company_tt:0 "A §YCompany§! of §YGriffonian Mercenaries§! will be formed and deployed:\n  - Ritterkohorte-Garde-Division 'Königin Chrysalis'"
