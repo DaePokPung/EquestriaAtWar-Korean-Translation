@@ -55,16 +55,16 @@
  NIM_nimbusian_general_staff_desc:0 "수 년간의 군사 훈련과 전투 경험,그리고 전통을 통해 님부시아의 참모는 무시할 수 없는 존재입니다."
 
  NIM_boule:0 "입법 의회"
- NIM_boule_desc:0 "The Boule is the governing council of Nimbusia made up of 500 citizens randomly selected each year from a pool of candidates chosen by each of the 10 tribes. While this system of government ensures all citizens have a say in the nation's government and almost eliminates corruption, there is a chance that those in power may not be the most capable."
+ NIM_boule_desc:0 "입법 의회는 10개 부족이 선출한 후보군 중 무작위로 선정된 500명의 시민들로 구성된 님부시아의 행정자치위원회입니다. 이 정부 체계는 모든 시민이 발언권을 가질 수 있도록 보장하고 부패를 억제하지만, 주권자가 걸출한 이가 아닐 수 있다는 문제점이 있습니다."
 
- NIM_boule2:0 "The Boule" #Honour and Virtue - neutrality path
- NIM_boule2_desc:0 "The Boule is the governing council of Nimbusia made up of 500 citizens randomly selected each year from a pool of candidates chosen by each of the 10 tribes. While this system of government ensures all citizens have a say in the nation's government and almost eliminates corruption, there is a chance that those in power may not be the most capable. However, recent reforms have at least made sure that every citizen chosen will act according to the highest standards, those of virtue."
+ NIM_boule2:0 "입법 의회" #Honour and Virtue - neutrality path
+ NIM_boule2_desc:0 "입법 의회는 10개 부족이 선출한 후보군 중 무작위로 선정된 500명의 시민들로 구성된 님부시아의 행정자치위원회입니다. 이 정부 체계는 모든 시민이 발언권을 가질 수 있도록 보장하고 부패를 거의 제거하지만, 주권자가 걸출한 이가 아닐 수 있다는 문제점이 있습니다. 허나, 최근의 개혁이 선정된 시민들이 최소한 넘어야할 높은 미덕의 기준을 선정했습니다."
 
- NIM_boule3:0 "The Boule" #Wisdom Comes With Age - neutrality path
- NIM_boule3_desc:0 "The Boule is the governing council of Nimbusia made up of 500 citizens randomly selected each year from a pool of candidates chosen by each of the 10 tribes. While this system of government ensures all citizens have a say in the nation's government and almost eliminates corruption, there is a chance that those in power may not be the most capable. However, the members of the Boule can draw inspiration from their venerable ancestors, who imbue us with their wisdom, even after their deaths."
+ NIM_boule3:0 "입법 의회" #Wisdom Comes With Age - neutrality path
+ NIM_boule3_desc:0 "입법 의회는 10개 부족이 선출한 후보군 중 무작위로 선정된 500명의 시민들로 구성된 님부시아의 행정자치위원회입니다. 이 정부 체계는 모든 시민이 발언권을 가질 수 있도록 보장하고 부패를 거의 제거하지만, 주권자가 걸출한 이가 아닐 수 있다는 문제점이 있습니다. 그러나, 입법 의회의 구성원들은 탁월한 조상들의 지혜로부터 영감을 얻어낼 수 있을 겁니다."
 
- NIM_boule4:0 "The Boule" #boule after dem reforms (exclusive with Ecclesial Democracy)
- NIM_boule4_desc:0 "The Boule is the governing council of Nimbusia made up of 500 citizens elected every two years from candidates running to represent their tribe. This new modern system allows more capable politicians to take a seat in the Boule, it is now liable to political games. To control the actions of this Parliamentary Boule, the Ecclesia still holds some power to curb any extreme decisions."
+ NIM_boule4:0 "입법 의회" #boule after dem reforms (exclusive with Ecclesial Democracy)
+ NIM_boule4_desc:0 "입법 의회는 2년 마다 500명의 시민을 선출해 구성하는 님부시아의 자치회입니다. 새로 도입된 현대적 체계는 보다 유능한 이들이 의회의 좌석에 앉을 수 있게 해주었으며, 의원들은 정치 투쟁에 익숙해져 있습니다. 이 의회의 힘을 견제하기 위해서, 에클레시아는 여전히 무모한 결정들을 억제할 힘을 가지고 있습니다."
 
  NIM_boule_rep:0 "Ecclesial Democracy"
  NIM_boule_rep_desc:0 "Many powers that were delegated to the 500 pony strong Boule before, have instead been given to the Ecclesia. This bastion of direct democracy now has even more power. However, the new laws passed by the reformists also structured debate amongst the assembly and limited speaking time per pony, in order to make the Ecclesia itself a more effective decision-making body. Although the members of the Ecclesia are just everyday ponies, their democratic nature strengthens the bonds of Nimbusian society."
@@ -102,50 +102,50 @@
  NIM_caste_system_democratic4:0 "시민, 페리오이코이, 헬롯"
  NIM_caste_system_democratic4_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 최근 페리오이코이들은 정치적 권리를 포함하여 거의 시민에 준하는 대우를 받고 있습니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 헬롯들은 비록 아직 자유롭지는 않지만, 그들과 그들의 생계를 보호하는 다양한 법이 있습니다. 또 헬롯들은 스스로를 사 해방될 수 있으며 보조 부대의 일원으로 전투 현장에서 용맹을 발휘하여 시민권을 얻을 수 있습니다."
 
- NIM_warrior_society:0 "Martial Society"
- NIM_warrior_society_desc:0 "Every Nimbusian Citizen is or was a soldier. Few other nations can pride themselves on a populace that values martial skill, discipline and physical prowess as Nimbusians do. Of course that means some other areas of society suffer - especially ones seen as frivolous or not befitting a Nimbusian Pegasus."
+ NIM_warrior_society:0 "군사 사회"
+ NIM_warrior_society_desc:0 "모든 님부시아 시민은 군인이거나 이었습니다. 님부시아처럼 무예, 규율, 체력을 중시하는 나라는 거의 없을 겁니다. 물론 그것은 그 외의 부분을 희생시키고 있다는 말입니다. 특히 님부시아 페가수스에 맞지 않거나 경박해 보이는 분야는 더더욱 그러합니다."
 
- NIM_warrior_society2:0 "Martial Society"
- NIM_warrior_society2_desc:0 "Every Nimbusian Citizen is or was a soldier. Few other nations can pride themselves on a populace that values martial skill, discipline and physical prowess as Nimbusians do. Of course that means some other areas of society suffer - especially ones seen as frivolous or not befitting a Nimbusian Pegasus."
+ NIM_warrior_society2:0 "군사 사회"
+ NIM_warrior_society2_desc:0 "모든 님부시아 시민은 군인이거나 이었습니다. 님부시아처럼 무예, 규율, 체력을 중시하는 나라는 거의 없을 겁니다. 물론 그것은 그 외의 부분을 희생시키고 있다는 말입니다. 특히 님부시아 페가수스에 맞지 않거나 경박해 보이는 분야는 더더욱 그러합니다."
 
- NIM_warrior_society3:0 "Martial Society"
- NIM_warrior_society3_desc:0 "Every Nimbusian Citizen is or was a soldier. Few other nations can pride themselves on a populace that values martial skill, discipline and physical prowess as Nimbusians do. Of course that means some other areas of society suffer - especially ones seen as frivolous or not befitting a Nimbusian Pegasus."
+ NIM_warrior_society3:0 "군사 사회"
+ NIM_warrior_society3_desc:0 "모든 님부시아 시민은 군인이거나 이었습니다. 님부시아처럼 무예, 규율, 체력을 중시하는 나라는 거의 없을 겁니다. 물론 그것은 그 외의 부분을 희생시키고 있다는 말입니다. 특히 님부시아 페가수스에 맞지 않거나 경박해 보이는 분야는 더더욱 그러합니다."
 
- NIM_warrior_society4:0 "Martial Society"
- NIM_warrior_society4_desc:0 "Every Nimbusian Citizen is or was a soldier. Few other nations can pride themselves on a populace that values martial skill, discipline and physical prowess as Nimbusians do. Of course that means some other areas of society suffer - especially ones seen as frivolous or not befitting a Nimbusian Pegasus."
+ NIM_warrior_society4:0 "군사 사회"
+ NIM_warrior_society4_desc:0 "모든 님부시아 시민은 군인이거나 이었습니다. 님부시아처럼 무예, 규율, 체력을 중시하는 나라는 거의 없을 겁니다. 물론 그것은 그 외의 부분을 희생시키고 있다는 말입니다. 특히 님부시아 페가수스에 맞지 않거나 경박해 보이는 분야는 더더욱 그러합니다."
 
- NIM_warrior_society5:0 "Martial Society"
- NIM_warrior_society5_desc:0 "Every Nimbusian Citizen is or was a soldier. Few other nations can pride themselves on a populace that values martial skill, discipline and physical prowess as Nimbusians do. Of course that means some other areas of society suffer - especially ones seen as frivolous or not befitting a Nimbusian Pegasus."
+ NIM_warrior_society5:0 "군사 사회"
+ NIM_warrior_society5_desc:0 "모든 님부시아 시민은 군인이거나 이었습니다. 님부시아처럼 무예, 규율, 체력을 중시하는 나라는 거의 없을 겁니다. 물론 그것은 그 외의 부분을 희생시키고 있다는 말입니다. 특히 님부시아 페가수스에 맞지 않거나 경박해 보이는 분야는 더더욱 그러합니다."
 
- NIM_warrior_society6:0 "Martial Society"
- NIM_warrior_society6_desc:0 "Every Nimbusian Citizen is or was a soldier. Few other nations can pride themselves on a populace that values martial skill, discipline and physical prowess as Nimbusians do. Of course that means some other areas of society suffer - especially ones seen as frivolous or not befitting a Nimbusian Pegasus."
+ NIM_warrior_society6:0 "군사 사회"
+ NIM_warrior_society6_desc:0 "모든 님부시아 시민은 군인이거나 이었습니다. 님부시아처럼 무예, 규율, 체력을 중시하는 나라는 거의 없을 겁니다. 물론 그것은 그 외의 부분을 희생시키고 있다는 말입니다. 특히 님부시아 페가수스에 맞지 않거나 경박해 보이는 분야는 더더욱 그러합니다."
 
- NIM_farmes_on_the_road:0 "Farmers in Industry"
- NIM_farmes_on_the_road_desc:0 "We can use excess serfs not needed for agriculture as a workforce for our growing industry, allowing us more efficient production."
- NIM_hillponies_mining:0 "Hillpony Mining"
- NIM_hillponies_mining_desc:0 "The hillponies are well accustomed to their homelands in the hills, and as such make a perfect candidates for our expanding mining operations."
- NIM_smart_pegasus:0 "Schools of Philosophy"
- NIM_smart_pegasus_desc:0 "Our traditions of philosophy have instilled certain strong values in our population, regarding reason and learning."
- NIM_business:0 "Economic Revival"
- NIM_business_desc:0 "While we have in recent times stagnated economically, we have managed to industrialise our society to a point where further growth is becoming easier and easier."
- NIM_theaters:0 "Promotion of Theatre"
- NIM_theaters_desc:0 "While theatre is a popular passtime in our country even without our help, if we support it we can help provide a unifying factor for our culture, and bolster support for our regime."
- NIM_glorreich:0 "Glorious Army"
- NIM_glorreich_desc:0 "While our nation already reveres the army greatly, further propoganda campaigns in regards to the glory of our army still will help us get recruits."
- NIM_moraly_efforts:0 "Morale Efforts"
- NIM_moraly_efforts_desc:0 "By instilling a strong sense of pride and discipline in our troops, we can assure that morale will stay high even through troubled times."
- NIM_attack_efforts:0 "Offensive Efforts"
- NIM_attack_efforts_desc:0 "You cannot win a war through anything but offense- if we are to win our future conflicts we must focus on the most essential aspects of warfare, the attack."
- NIM_fill_the_skies:0 "Fill the Skies"
- NIM_fill_the_skies_desc:0 "There are still ways we can further increase our fighter production, allowing mass-production of our fighters. With these new techniques we can gain total control of the skies of our nation."
- NIM_what_to_grow_harmony:0 "Grow Grapes!"
- NIM_what_to_grow_harmony_desc:0 "Grapes, both for consumption and the production of wine, are one of the most popular crops to grow in our nation. We have decided to promote them further, for wealth and luxury."
- NIM_what_to_grow_neutrality:0 "Grow Olives!"
- NIM_what_to_grow_neutrality_desc:0 "Olives are grown throughout our nation, and are a popular ingredient for many dishes. Olives are also often cured and eaten alone. These "fruit of wisdom", a traditional food of our culture, are being further promoted."
- NIM_what_to_grow_fascism:0 "Grow Grain!"
- NIM_what_to_grow_fascism_desc:0 "Grain is a staple crop of our nation and much of the world. Simple and efficient, it is a perfect crop for us to promote, allowing our people and soldiers to get through times tough and good."
- NIM_city_culture_harmony:0 "Unicorn Culture"
- NIM_city_culture_harmony_desc:0 "The noble unicorns of Wittenland are well known for their extravagant parties and high culture. While this is often looked down apon as decadent by many of our people, as our cities develop we may begin thinking about importing some of this culture."
+ NIM_farmes_on_the_road:0 "농부를 공단으로"
+ NIM_farmes_on_the_road_desc:0 "농촌의 남는 인력을 공단에 투입함으로서 생산성이나 효율성의 개선을 기대할 수 있을 겁니다."
+ NIM_hillponies_mining:0 "힐포니 광부"
+ NIM_hillponies_mining_desc:0 "힐포니들은 고국의 언덕에 익숙한 상태이며, 우리 광업 확장에 큰 도움이 되어 줄 것입니다."
+ NIM_smart_pegasus:0 "학당"
+ NIM_smart_pegasus_desc:0 "우리들의 철학 전통은 우리들이 이성과 배움을 하나의 가치로서 추구하게 만들어 주었습니다."
+ NIM_business:0 "경제 회생"
+ NIM_business_desc:0 "최근 우리 경제는 침체되어 있었지만, 우리들이 행한 산업화 조율이 경제 성장을 쉽게 만들어 주었습니다."
+ NIM_theaters:0 "극장 건설"
+ NIM_theaters_desc:0 "우리의 발 없이도 극장은 우리나라에 인기가 있는 매체입니다. 하지만 우리가 극에 지원을 해준다면, 우린 우리 문화에 통일된 요소를 뿌리내리고 지지율을 높일 수 있을 겁니다."
+ NIM_glorreich:0 "영광스런 군대"
+ NIM_glorreich_desc:0 "군은 이미 우리나라에서 충분히 존경을 받고 있긴하나, 그것이 군의 영광에 대한 선전이 신병을 확보하는데에 유용하지 않을 것이라는 말은 아닙니다."
+ NIM_moraly_efforts:0 "사기 증진"
+ NIM_moraly_efforts_desc:0 "우리 군에 강한 자긍심과 기강을 심어준다면, 어려운 시기에도 높은 사기를 유지시킬 수 있을 겁니다."
+ NIM_attack_efforts:0 "공격성 증진"
+ NIM_attack_efforts_desc:0 "공격 이외의 수단으로 전쟁에서 이길 순 없습니다. 만일 우리가 앞으로 벌어질 분쟁에서 이기고자 한다면, 우리는 전쟁의 가장 본질적인 측면에 집중해야 합니다."
+ NIM_fill_the_skies:0 "하늘을 매워라"
+ NIM_fill_the_skies_desc:0 "전투기의 양산을 시행함으로서 전투기의 생산량을 증진시킬 수 있습니다. 새 기술을 이용한다면 우리는 우리나라의 하늘을 완전히 통제할 수 있을 겁니다."
+ NIM_what_to_grow_harmony:0 "포도를 키워라!"
+ NIM_what_to_grow_harmony_desc:0 "포도는 그 자체로도 훌륭하지만 와인의 생산에 이용되기에, 우리나라에서 재배되는 작물 중 가장 인기가 있습니다. 부와 호화를 위해서라도 포도 생산을 증진시킬 필요가 있습니다."
+ NIM_what_to_grow_neutrality:0 "올리브를 키워라!"
+ NIM_what_to_grow_neutrality_desc:0 "올리브는 국가 전역에서 재배되고 있으며, 많은 요리에 사용됩니다. 올리브는 또 약재로 이용되기도 하며 그 자체로 훌륭한 음식이기도 합니다. 그래서 올리브는 전통적으로 "지혜의 열매"라 불리며 재배가 권장되고 있습니다."
+ NIM_what_to_grow_fascism:0 "곡물을 키워라!"
+ NIM_what_to_grow_fascism_desc:0 "곡물은 아국뿐만 아니라 전세계의 주요 작물입니다. 재배가 간단하고 효율적이기 때문에, 아국의 국민과 군인들이 힘들거나 좋은 시기를 무사히 보낼 수 있도록 그 생산을 늘려야 합니다."
+ NIM_city_culture_harmony:0 "유니콘 문화"
+ NIM_city_culture_harmony_desc:0 "비텐란트의 유니콘 귀족 문화는 화려한 파티와 수준 높은 문화로 명성이 자자합니다. 이는 종종 퇴폐적이라 질시받지만, 도시들이 발전함에 따라 그들의 문화를 들여오는 것에 대해 생각을 해볼 필요가 있는 것 같습니다."
  NIM_renovate_acropolis_neutrality:0 "Akropolis Renovated"
  NIM_renovate_acropolis_neutrality_desc:0 "The old Nimbusi Akropolis has been renovated using ancient designs."
  NIM_renovate_acropolis_fascism:0 "Martial Akropolis"
@@ -206,11 +206,11 @@
  NIM_helot_rebellion_idea_desc:0 "We have broken free from our tyrannical overlords, and our spirits are higher than ever- we must put everything we have into this rebellion, or be crushed and forced back into slavery."
  NIM_helot_rebellion_nim_idea:0 "Helot Rebellion!"
  NIM_helot_rebellion_nim_idea_desc:0 "The traitorous helots have broken away from us, citing our oppression of them as a trigger for all out war. This has sadly deprived us of our essential workforce- we must crush this rebellion if we are to be productive any more."
- NIM_revolt_political_1:0 "Political Chaos"
+ NIM_revolt_political_1:0 "정치 혼란"
  NIM_revolt_political_1_desc:0 "There are currently no real political factions in Nimbusia. What passes for politics often ends up as a massive brawl between rival gangs, with the victor essentially drafting laws as they please."
- NIM_revolt_political_2:0 "Political Recovery"
+ NIM_revolt_political_2:0 "안정되고 있는 정치"
  NIM_revolt_political_2_desc:0 "The political situation has recovered somewhat. There is no longer open fighting between the various factions of Nimbusia, and those factions have finally started to adopt solid ideologies. Although assassinations of rivals are still common, the political climate is somewhat calm, when measured against the previous situation."
- NIM_revolt_political_3:0 "Political Stabilization"
+ NIM_revolt_political_3:0 "안정된 정치"
  NIM_revolt_political_3_desc:0 "Slowly and steadily the Politics of Nimbusia have returned to a situation which might be called normal. Violence no longer dominates the political climate and parties are finally starting to establish themselves."
  NIM_revolt_economy_1:0 "Nonexistent Economy"
  NIM_revolt_economy_1_desc:0 "The Nimbusian economy was annihilated during the revolution and has now practically reverted to a barter system, with the currency losing all value after the mint was looted after the sack of Nimbusi. It will take a true miracle to salvage any shred of the economy."
@@ -868,7 +868,7 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  NIM_give_farmers_new_jobs:0 "농부들에게 새 일자리를"
  NIM_give_farmers_new_jobs_desc:0 "With some of our recent investments into agriculture, an issue has reached our attention. Many Helots have found themselves out of work in agriculture, their labor no longer being necessary. The surplus of jobless Helots is a major issue, as it both represents wasted potential workforce, and a possibly rebellious contingent of serfs. We must quickly put these ponies to work in other forms of work."
 
- NIM_merchants:0 "Merchants of Nimbusia"
+ NIM_merchants:0 "님부시아 상인"
  NIM_merchants_desc:0 "The merchant class of our society may be sparse and disliked, seen as weak and worthless, but they may be of great use to us. They bring to our nation not only goods, but stories- stories of industrial processes, great factories and the many things they produce. While we may avoid frivolities, it is best we don't ignore such things."
 
  NIM_foreign_factory_tacticts:0 "Foreign Industrial Tactics"
@@ -907,7 +907,7 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  NIM_modern_industryies:0 "A Modern Industry"
  NIM_modern_industryies_desc:0 "While we are far from the industrial might of some far-off nations, our potential is great. With proper care, our fledgeling industry can be nurtured into a mighty and modernised industrial sector, and our nation can thrive."
 
- NIM_theater:0 "Theatre"
+ NIM_theater:0 "극"
  NIM_theater_desc:0 "The theatre is an old and well-loved tradition in Nimbusia, where ponies gather to watch performances of epics, tragedies, and other great oratary works. Promoting nation-wide theatres both would bolster government support and bring more cultural uniformity to our nation."
 
  NIM_hillponies_in_factorys:0 "Hillpony Workers"
@@ -1093,10 +1093,10 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  NIM_demand_tribute_from_RIV:0 "Tribute for Protection"
  NIM_demand_tribute_from_RIV_desc:0 "The nations of the River Coalition are nothing but pompous xenoi. Nimbusia has been the true protector of the East ever since the battle of Thermoponylae. It is time the Riverponies recognise our superiority."
 
- NIM_quick_wargoals:0 "Might Makes Right"
+ NIM_quick_wargoals:0 "힘이 곧 법이다"
  NIM_quick_wargoals_desc:0 "We have the greatest military might on the planet and we should show it. Why wait for an opportune moment to strike? Why bother with flimsy justifications and forged claims? The Nimbusians will fight whoever they see as a worthy opponent, whenever they see fit."
 
- NIM_strike_at_fed:0 "Subjugate the Riverlands"
+ NIM_strike_at_fed:0 "리버랜드 종속화"
  NIM_strike_at_fed_desc:0 "We have given the Riverponies time and patience. They have not listened to our words of warning. They disrespect our culture and our people! They refuse to recognise our endless sacrifice for their safety!\nSo be it. We will show them the true might of Nimbusia."
 
  NIM_strike_at_griffons:0 "Pick a Fight With\nthe Ancient Enemies"
@@ -1129,13 +1129,13 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  NIM_industry_research:0 "Industrial Cooperation"
  NIM_industry_research_desc:0 "Some of our friends have industrialised to a much greater extent than we have. It is imperative that we catch up with them. Surely they will be willing to help if we ask nicely."
 
- NIM_border_defences:0 "Border Defence"
+ NIM_border_defences:0 "국경 방어"
  NIM_border_defences_desc:0 "Even though the Riverponies are our allies for now, we can never be too careful. Usually, fortifications are not our way of fighting, but they might just deter an invasion. We noble Nimbusians, of course, are willing to make this investment to keep the peace."
 
- NIM_integration:0 "Integration"
+ NIM_integration:0 "합병"
  NIM_integration_desc:0 "We share a bond and a common cause with the River Coalition. We fought together against the griffons and we fight together to create a better future for everypony in Eastern Griffonia. We will overcome our distrust of others and cooperate fully with our friends and partners."
 
- NIM_increase_trade:0 "Encourage Trade"
+ NIM_increase_trade:0 "무역 장려"
  NIM_increase_trade_desc:0 "Nimbusia has much to offer its friends. We do not only possess a formidable military, but also luxury goods and resources in ample supply. We need to make sure the other countries actually know that we are open for business and accommodate traders, by launching a charm offensive in foreign media."
 
  NIM_joint_exercises:0 "Joint Exercises"
@@ -1149,28 +1149,28 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  
  #Slave Revolt
  
- NIM_Slave_Revolt_Wins:0 "Triumph of the Helots"
- NIM_Slave_Revolt_Wins_desc:0 "The Helots of Nimbusia have long been oppressed by our cruel overlords, but as our victorious army marches through Nimbusi, we Helots have finally realized our dream of true freedom.\nHowever, there remains one small problem that we have yet to deal with, how do you actually run a country?\nSurely it can't be that hard, right?"
+ NIM_Slave_Revolt_Wins:0 "헬롯들의 승리"
+ NIM_Slave_Revolt_Wins_desc:0 "님부시아의 헬롯들은 오랜 세월동안 압제자들에게 잔혹하게 짓눌려 왔습니다. 허나 지금은, 우리 군이 님부시를 행진하고 있습니다. 자유의 꿈이 실현된 것입니다.\n하지만, 아직 한가지 문제가 남아있습니다. 나라를 어떻게 운영해야 할까요?\n그렇게 어렵진 않겠죠?"
  
- NIM_Political_Vaccum:0 "The Political Vacuum"
+ NIM_Political_Vaccum:0 "정치 공백"
  NIM_Political_Vaccum_desc:0 "We now lead a country, and are sadly required to enter the dreary world of "politics". Unfortunately most of the politicians and experts lie dead. This problem needs to be dealt with."
  
- NIM_Exile_Nimbusians:0 "Exile the Nimbusians"
+ NIM_Exile_Nimbusians:0 "님부시아마 추방"
  NIM_Exile_Nimbusians_desc:0 "The remaining Nimbusians in our custody pose no real threat to us. We can't really be bothered with keeping them all under lock and key. Thus, the solution is simple - we kick them all out."
  
- NIM_Kill_Nimbusians:0 "Kill Them All"
+ NIM_Kill_Nimbusians:0 "다 죽여라"
  NIM_Kill_Nimbusians_desc:0 "The simplest solution to a problem is often the best one, the Nimbusians lived by the sword, it is only fitting that they die by the sword."
  
- NIM_Traditional_Counties:0 "Traditional Counties"
+ NIM_Traditional_Counties:0 "전통적 행정 체계"
  NIM_Traditional_Counties_desc:0 "While the previous rulers of Nimbusia might have been cruel and oppressive, the traditional organization of the counties was not inherently flawed. Keeping them as they are is surely the right decision. In addition, a massive upheaval in the administrative structure of Nimbusia might not be the best idea at this time."
  
- NIM_New_Counties:0 "New Counties"
+ NIM_New_Counties:0 "새 행정 체계"
  NIM_New_Counties_desc:0 "Nimbusia was organized into several distinct counties during the rule of the Citizens, and memories of the cruel oppression we suffered during that long period are still fresh in many minds. In order to make sure that no trace remains of the previous administration, we will redraw the counties. Most of them were badly drawn anyways."
  
- NIM_Hold_Elections:0 "The First Helot Election"
+ NIM_Hold_Elections:0 "제 1차 헬롯 선거"
  NIM_Hold_Elections_desc:0 "The ability to participate in the elections of Nimbusia has long been a closely guarded privilege of the Citizens. The very idea of helots participating in such events seemed ridiculous just a few years ago. But as the first truly free elections of Nimbusia draw closer and closer, our long-held dream of true equality seems within our grasp."
  
- NIM_Economic_Collapse:0 "The Economic Collapse"
+ NIM_Economic_Collapse:0 "경제 붕괴"
  NIM_Economic_Collapse_desc:0 "The economy is dependent on slave labour, a fact that our recent ban on slave labour has revealed. This has presented several problems, notably economic collapse. This should probably be addressed."
  
  NIM_Redistribute_Wealth:0 "Redistribute the Wealth!"
@@ -1179,10 +1179,10 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  NIM_Nationalisation:0 "Nationalization"
  NIM_Nationalisation_desc:0 "While it may be tempting to finally give the wealth the Citizens and Perioeci have long hoarded to our fellow helots, it's probably not the best way to help our devastated economy. It is a far better idea to put the former assets of the upper classes to work so that we can at the very least try to reverse this massive economic downturn."
  
- NIM_Market_Investment:0 "Market Investments"
+ NIM_Market_Investment:0 "시장 투자"
  NIM_Market_Investment_desc:0 "One of the many varies problems our economy currently faces is the lack of any investment, be it local or foreign, into our economy. In order to solve this problem we will attempt to attract foreign investors to Nimbusia, whatever the temporary costs to our economy may be."
  
- NIM_Protectionism:0 "Protectionism"
+ NIM_Protectionism:0 "보호무역"
  NIM_Protectionism_desc:0 "We might have located a solution to our desperate lack of funds, tariffs. Large amounts of goods go through our borders and isn't it only fair that we get a share of the vast amount of wealth that goes through Nimbusia. The other members of the River Coalition may object, but what can they really do to us?"
  
  NIM_Open_For_Business:0 "Open for Business"
@@ -1206,7 +1206,7 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  NIM_Strong_United:0 "Stronger United"
  NIM_Strong_United_desc:0 "We have finally managed to sort out our armed forces, and have started the process of transforming our ragtag army into a truly professional force. We shall never suffer the oppression we endured again, and anyone who tries to attack us shall suffer the fate of our masters."
  
- NIM_New_Nimbusia:0 "The New Nimbusia"
+ NIM_New_Nimbusia:0 "새로운 님부시아"
  NIM_New_Nimbusia_desc:0 "With the last of the critical problems facing our nation dealt with, the time has come to deal with the other members of the River Coalition. Whatever they may decide to do, our victory can never be erased from the annals of history.\n\nGlory to the Helots, slaves no more!"
  
 
@@ -1228,7 +1228,7 @@ nimbusia.61.t:0 "Pegicles Passes Away"
 
 
  #NIM fascists take control
- nimbusia_news.3.t:0 "Purist Coup in Nimbusia"
+ nimbusia_news.3.t:0 "순수주의자들의 님부시아 쿠데타"
  nimbusia_news.3.d_dem_win:0 "[This.GetNewspaperHeader]Under the leadership of a general, part of the Nimbusian military staged a coup in Nimbusia today. The chief of the army revealed the plot early, so the conspirators rushed to occupy important locations before they could be arrested. A pitched battle took place at the Akropolis of Nimbusi, the highest hill on the capital. But at the end of the day, the pegasi-first purist faction stood victorious. Tension had been brewing for some time in Nimbusia, but not many ponies expected such a dramatic result."
  nimbusia_news.3.d_dem_lose:0 "[This.GetNewspaperHeader]Under the leadership of a general, part of the Nimbusian military staged a coup in Nimbusia today. The chief of the army revealed the plot early, so the conspirators rushed to occupy important locations before they could be arrested. A pitched battle took place at the Akropolis of Nimbusi, the highest hill on the capital. At the end of the day, the purist conspirators were defeated, fighting to the last stallion and mare. Tension had been brewing for some time in Nimbusia, but not many ponies expected the military to go through with a coup. Nevertheless, democracy has triumphed in Nimbusia."
  nimbusia_news.3.d_neu_win:0 "[This.GetNewspaperHeader]Under the leadership of a general, part of the Nimbusian military staged a coup in Nimbusia today. Reportedly, only few ponies resisted, with the military leaders assuring the citizens their takeover was for the good of the nation. Tension had been brewing for some time in Nimbusia, but not many ponies expected such a dramatic result."
@@ -1238,7 +1238,7 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  nimbusia_news.3.a_rightful:0 "We have taken our rightful place." #NIM
  nimbusia_news.3.a_saved:0 "The people saved democracy!" #NIM
  nimbusia_news.3.a_thank_gods:0 "Thank the Gods we chose him!" #NIM
- nimbusia_news.3.a_wont_give_up:0 "We will not give up so easily!" #NIM
+ nimbusia_news.3.a_wont_give_up:0 "포기하지 않으리라!" #NIM
  nimbusia_news.3.b:0 "[NIM.GetNimbusia3B]" #Other riv fed
  nimbusia_news.3.b_troublesome:0 "Troublesome, to be sure." #Other riv fed
  nimbusia_news.3.b_we_knew_we_could:0 "We knew we could count on Nimbusia!" #Other riv fed
@@ -1256,25 +1256,25 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  nimbusia_news.4.t:0 "Traditionalists Maintain Control in Nimbusia"
  nimbusia_news.4.d:0 "[This.GetNewspaperHeader]After political tension heated up in Nimbusia these last few months, the traditionalists came out on top. They represent the status quo in Nimbusia and are determined to maintain ancient customs. It appears that nothing is going to change for the Nimbusians and the country will remain the vigilant guardian of the River Coalition."
  nimbusia_news.4.a:0 "Steady as she goes." #NIM
- nimbusia_news.4.b:0 "We can rely on Nimbusia." #Other riv fed
- nimbusia_news.4.c:0 "They will keep hating us, then." #Griffon countries
- nimbusia_news.4.e:0 "Nothing interesting." #Others
+ nimbusia_news.4.b:0 "어쨋든 도움이 될거야." #Other riv fed
+ nimbusia_news.4.c:0 "그래, 계속 우릴 증오하겠단 말이군." #Griffon countries
+ nimbusia_news.4.e:0 "딱히 관심 없다." #Others
 
  #NIM democrats take control
  nimbusia_news.5.t:0 "개혁가들이 님부시아를 장악하다!"
- nimbusia_news.5.d:0 "[This.GetNewspaperHeader]After political tension heated up in Nimbusia these last few months, the reformists came out on top. They have been formed by harmonic influence from other River Coalition countries. They propose emancipating some second-class citizens and lightening the burden on the slaves. The reformist leader, Metakeros has also made it clear that he plans to cooperate closely with other harmonic nations in the area."
- nimbusia_news.5.a:0 "Reform is the path to modernity." #NIM
- nimbusia_news.5.b:0 "Not so stubborn after all." #Other riv fed
- nimbusia_news.5.c:0 "Unbelievable, they changed." #Griffon countries
- nimbusia_news.5.e:0 "We will see how they manage." #Others
+ nimbusia_news.5.d:0 "[This.GetNewspaperHeader]한동안 님부시아에 긴장이 팽팽했습니다. 그리고 권좌에 오른 것은 개혁가 파벌이었습니다. 개혁가들은 다른 리버 연방 구성국의 조화주의의 영향을 받아 형성된 정치 세력이었습니다. 그들은 이등 시민들을 해방시키고 노예들의 부담을 덜라 부르짖습니다. 개혁가들의 지도자인 메타케로스가 리버 연방의 다른 조화로운 국가들과 긴밀히 협력할 계획임을 밝히 상태입니다.."
+ nimbusia_news.5.a:0 "개혁은 현대성으로의 길이다." #NIM
+ nimbusia_news.5.b:0 "생각만큼 꽉막힌 나라는 아니었나 보네." #Other riv fed
+ nimbusia_news.5.c:0 "님부시아에 변화? 믿기 힘들군." #Griffon countries
+ nimbusia_news.5.e:0 "어찌될지 보자고." #Others
 
  #NIM democratic reforms (change to representative democracy)
- nimbusia_news.6.t:0 "님부시아의 새 민주주의"
+ nimbusia_news.6.t:0 "님부시아 민주주의의 여명"
  nimbusia_news.6.d:0 "[This.GetNewspaperHeader]The reformists in Nimbusia have enacted another reform! The ancient direct democracy, famous throughout the Riverlands, will be replaced by representative democracy, to more easily represent the growing population of the country. Metakeros, the reformist leader, expects this change to make it easier to represent minority voices from citizens outside of the capital. Soon, the Nimbusian citizens will be at the polls for the first time."
- nimbusia_news.6.a:0 "Time to vote!" #NIM
- nimbusia_news.6.b:0 "A model member state!" #Other riv fed
- nimbusia_news.6.c:0 "Surprising." #Griffon countries
- nimbusia_news.6.e:0 "Let's see who wins." #Others
+ nimbusia_news.6.a:0 "투표할 시간이다!" #NIM
+ nimbusia_news.6.b:0 "참으로 자랑스러운 가입국이야!" #Other riv fed
+ nimbusia_news.6.c:0 "놀랍군." #Griffon countries
+ nimbusia_news.6.e:0 "누가 이길지 보자고." #Others
 
  nimbusia_news.7.t:0 "Counter-coup in Nimbusia!"
  nimbusia_news.7.d:0 "[This.GetNewspaperHeader]In a truly shocking series of events, the newly risen military government of Nimbusia has been shattered by a counter-coup. The military had previously seized absolute power in nimbusia through a putsch, capturing and exiling all their potential political opponents. During their exile, these politicians and philosophers banded together and started to gather their forces from those discontent with the new administration. An army of common ponies soon marched on Nimbusi and, after heavy fighting with the military garrison stationed there, overthrew the military government. This news has come as a massive relief to most nations near Nimbusia, as the military government had already started to make aggressive moves towards its neighbors."
