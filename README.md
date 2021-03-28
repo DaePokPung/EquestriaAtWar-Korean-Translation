@@ -18,6 +18,8 @@
   - [베디나 공국](localisation/country_VED_l_english.yml)
   - [님부시아](localisation/country_NIM_l_english.yml)
   - [바카라](localisation/country_BAK_l_english.yml)
+  - [롱소드 백국](localisation/country_LNS_l_english.yml)
+  - [브론즈힐 백국](localisation/country_BRZ_l_english.yml)
 
 ***
 
