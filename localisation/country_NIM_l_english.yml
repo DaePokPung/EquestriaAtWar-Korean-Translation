@@ -156,23 +156,23 @@
  NIM_censorship_neutrality_desc:0 "앞으로 이방의 작가와 철학자들의 작품들을 허가 없이 소유하는 것은 불법행위가 될 것입니다."
  NIM_guard_neutrality:0 "아고게 추가 지원"
  NIM_guard_neutrality_desc:0 "아고게에 대한 추가적인 지원은 어린 님부시아 포니들의 학습에 도움이 될 것입니다."
- NIM_state_of_war_idea:0 "Perpetual State of War"
- NIM_state_of_war_idea_desc:0 "Nimbusia is a state of warriors, and to survive we must stay in perpetual warfare. Peace breeds stagnancy and weakness- we must not let it take hold in our nation."
- NIM_fascism_focus_3_idea:0 "Perpetual Agoge"
- NIM_fascism_focus_3_idea_desc:0 "While the Agoge instills our values into every young pegasus, as some grow older they forget these values- we must send them back to be re-educated in the proper Nimbusian ways."
- NIM_fascism_focus_5_idea:0 "The Krypteia"
- NIM_fascism_focus_5_idea_desc:0 "To keep the slaves from growing uneasy, we have estabished a secret organisation to monitor the helots and stop any attempts at rebellion or resistance."
+ NIM_state_of_war_idea:0 "영구전시체제"
+ NIM_state_of_war_idea_desc:0 "님부시아는 전사들의 나라이며, 영구적 전쟁만이 살길입니다. 평화는 정체와 약점을 낳습니다. 평화가 우리나라에 둥지를 틀어선 안됩니다."
+ NIM_fascism_focus_3_idea:0 "아고게 평생 교육"
+ NIM_fascism_focus_3_idea_desc:0 "아고게는 모든 어린 페가수스들에게 미덕을 가르칩니다. 하지만 나이를 먹으며 페가수스들은 미덕을 잊어버리게 됩니다. 그렇기에 우리는 나이 먹은 이들도 아고게로 보내야합니다."
+ NIM_fascism_focus_5_idea:0 "크립테이아"
+ NIM_fascism_focus_5_idea_desc:0 "노예를 믿는 이만큼 어리석은 이들은 없을 겁니다. 비밀 조직을 설립해서 헬롯들을 감시하고 반란이나 저항의 조짐이 보인다면 그를 분쇄하도록 해야합니다."
  NIM_fascism_focus_7_idea:0 "강철 페가수스"
- NIM_fascism_focus_7_idea_desc:0 "While our soldiers once ruled the skies, with recent technology our pegasi have grown unable to compete. We must maximise the efficiency and power of our planes to once take our place as rulers of the skies."
- NIM_fascism_focus_9_idea:0 "They Will Fear Them"
- NIM_fascism_focus_9_idea_desc:0 "The weakling helots are fools, and if we do not keep them in check they will disturb the natural order. By using the Krypteia to spread propoganda of griffon atrocities, we can make sure they fear the enemy more than us- and will rely on our protection against the "barbarians"."
- NIM_fascism_focus_13_idea:0 "Military Exercise"
- NIM_fascism_focus_13_idea_desc:0 "Our military has grown tired of practicing on cheap targets, the only real practice being nonlethal practice with eachother. However, we have an excess of rebellious helots- there may be a way to dispose of troublemakers and satisfy our military's need for practice targets."
- NIM_fascism_focus_14_idea:0 "Revoked Rights Of Perioikoi"
- NIM_fascism_focus_14_idea_desc:0 "The earth ponies and unicorns of our nation are weak and useless, they deserve none of the rights we have so generously given them in the past. Let us revoke their rights and let them take their rightful place below us pegasi."
- NIM_fascism_focus_15_idea:0 "Unquestioning Discipline"
+ NIM_fascism_focus_7_idea_desc:0 "우리 병사들은 한때 하늘을 지배했습니다. 하지만 그것도 기술의 발전으로 옛날 이야기가 되었습니다. 비행기의 효율성과 힘을 활용하여 하늘의 지배자였던 과거를 되찾아야 합니다."
+ NIM_fascism_focus_9_idea:0 "두려워하리라"
+ NIM_fascism_focus_9_idea_desc:0 "나약해빠진 헬롯들은 어리석습니다. 우리가 그들을 통제하지 않는다면 자연적 질서가 훼손될 뿐입니다. 크립테이아를 이용해 그리폰의 잔한 행위에 대한 선전을 하게 된다면, 놈들은 우리보다 적을 더 두려워 할 것이며, "바르바리"들로부터의 보호를 갈구하며 우리에게 의존하게 될 것입니다."
+ NIM_fascism_focus_13_idea:0 "군사 훈련"
+ NIM_fascism_focus_13_idea_desc:0 "우리 군은 값싼 물건들로 연습을 하는데 진저리가 나있습니다. 유일한 실전 연습이란 비살상 연습 뿐입니다. 헬롯 중에 반란분자들이 차고 넘치는데 말입니다. 우리는 반항꾼 처치와 군 연습, 두가지를 이룰 것입니다..."
+ NIM_fascism_focus_14_idea:0 "페리오이코이 권리 박탈"
+ NIM_fascism_focus_14_idea_desc:0 "어스포니와 유니콘놈들은 약하고 쓸모없습니다. 놈들은 과거 우리가 줬던 권리를 누릴 자격이 없습니다. 놈들의 권리를 박탈하고 페가시 아래에서 제 자리를 깨닫게 해야합니다."
+ NIM_fascism_focus_15_idea:0 "상명하복"
  NIM_fascism_focus_15_idea_desc:0 "Our soldiers shall follow any order, with no questions asked. We shall instill the strongest discipline of the world, breeding a army of unquestioning, disciplined and strong warriors who will obey our every demand."
- NIM_quick_wargoals_idea:0 "Might Makes Right"
+ NIM_quick_wargoals_idea:0 "쌘 놈이 옳다"
  NIM_quick_wargoals_idea_desc:0 "The weak may go on about the rights of beings, but that is nothing but the coping of weaklings. We are the strong, and our enemies are the weak- it is the natural order that we subjugate them and force them in their place as servants to us."
  NIM_tribute_idea:0 "Tribute for Protection"
  NIM_tribute_idea_desc:0 "The River Republic is providing us tribute in excahnge for us protecting them."
@@ -344,7 +344,7 @@
 
  ### 12-21 are random events that may or may not happen in the political tree, some are related to specific factions, others to the country as a whole ###
  ### NIM Harmony Good event
- nimbusia.12.t:0 "Library of Nimbusi Opened"
+ nimbusia.12.t:0 "님부시 도서관 개관"
  nimbusia.12.d:0 "Over the last two years, construction on a grand library has been ongoing within the city of Nimbusi. While this is by no means the city's greatest store of knowledge and information, it still promises to be a highly regarded institution.\n\nThe project was undertaken by Louloudi Levantas, a respected unicorn merchant who has generously used her wealth to sponsor projects related to the arts, philosophy, and education. She has also created quite the controversy for her very vocal support of reforming the Boules and instituting universal suffrage within Nimbusia.\n\nOn opening day, Louloudi took the stage before a crowd composed of a few thousand citizens. In her speech she commemorated the library in the ideals of free-thinking, education, and democracy, publicly expressing a hope that one day these walls would be open to all ponies, regardless of race, class, or political affiliation.\n\nThis speech caused quite a stir and the controversy of the situation was only reinforced when the first group of VIPs entered the library. What they found was that one of the library's wings was left empty and roped off, with a simple plaque hanging before them. On it was a promise to truly finish this library once the embargo upon foreign literature was finally lifted."
  nimbusia.12.a_good:0 "Nimbusia needs more ponies like Louloudi."
  nimbusia.12.a_bad:0 "Education and politics should never intermingle."
@@ -382,7 +382,7 @@
  nimbusia.19.d:0 "A merchant, Louloudi Levantas, sponsored a poetry contest in the city of Nimbusi today. As usually, it was a fierce competition with the poets Frikti Poiitis and Polytimos Stichos taking an immediate lead.\n\nFrikti went into events bearing a catalogue of work inspired by religion, philosophy, and life within Nimbusia, attempting to win over the crowd with light-hearted bardic verses which uplifted the public's spirit.\n\nStichos on the other hoof went in with a far more traditionalist set of work, focusing upon imagery related to warfare and valour in order to win over the crowd with patriotism and heroism.\n\nIn the end, Stichos etched out a slight lead with his work titled "Strife", it goes like this.\n\n"Let a Pony learn how to fight by daring to perform mighty deeds."\n\n"Not where the missiles won't reach, if they are armed with a shield,"\n\n"But getting in close where fighting is hoof to hoof, inflicting a wound"\n\n"With their long spear or sword, taking the enemy's life,"\n\n"With his hoof planted alongside a hoof and his shield pressed against shield"\n\n"And barrel against barrel, embroiled in the action – let them fight Pony to Griffon""
  nimbusia.19.a:0 "흥미롭군."
  ### NIM Stability - event
- nimbusia.20.t:0 "Oracles Provide a Bad Omen"
+ nimbusia.20.t:0 "불길한 징조"
  nimbusia.20.d:0 ""It will be like a flash in the pan, violent, hot, and bright all at once."\n\nThese words were said by the Oracle of Prancetras today, as dignitaries from the Boules came to seek her advice.\n\nThe traditionalist assume that she speaks of the current political climate, assuming that the climax of the current instability will lead to a bout of violence which will burn through the streets of Nimbusi quickly.\n\nThe reformers assume that she speaks of the purists, discussing how they are hot headed and showy. Yet, when push comes to shove they will rapidly collapse in the face of change, harming Nimbusia violently as they plummet from their perch.\n\nThe purists assume that she speaks of the Helot class and how their radicalization will bring the very downfall of our society, as they take up arms and attempt to burn down the institutions and society which have taken care of them for eons.\n\nNo matter the faction, everypony agrees that this is some very bad news indeed."
  nimbusia.20.a:0 "Pray that she delivers us some good news soon."
  ### NIM Stability - event 2
@@ -394,13 +394,13 @@
  ###First you can decide to let fate decide or to rig the chances in your favour by spending pp. Then there is a debate and it ends with the Boule making a decision###
 
  ### NIM Censorship choose to spend PP
- nimbusia.22.t:0 "Censorship of Foreign Works"
+ nimbusia.22.t:0 "외국 작품 검열"
  nimbusia.22.d:0 "The reformists and the traditionalists have picked a fight over a growing concern about foreign influence in Nimbusia. Works from far off places like Equestria and Stalliongrad are being consumed by the youth, especially students. While the reformists consider this natural and think that foreign ideas could be adapted into Nimbusian culture, the traditionalists have rallied to defend Nimbusia's own culture. With only limited political resources at their disposal, both parties can still choose to influence the Ecclesia and the Boule with bribes, flatteries and smearing campaigns, for a price."
  nimbusia.22.a:0 "A campaign for free speech!" #harmony
  nimbusia.22.b:0 "Let fate decide." #let fate decide
  nimbusia.22.c:0 "A campaign for public decency!" #neutrality
  ### NIM Censorship first ideology speaks
- nimbusia.23.t:0 "Metakeros Speaks"
+ nimbusia.23.t:0 "메타케로스의 연설"
  nimbusia.23.d:0 "The leader of the reformist faction, the wealthy unicorn merchant known as Metakeros, was about to speak to the Ecclesia. The theatre at Nimbusi was packed with the citizens who were going to vote on the issue at hand. An entire evening was set aside for the issue of censorship. The unicorn took a deep breath, steeling himself for the task ahead. The political situation was slowly reaching a boiling point and Metakeros didn't even cross the street alone at night anymore, afraid of fanatical opponents. Soon, all of that would be over and Nimbusia would be safe and free again. The unicorn raised his voice...\n\n"Citizens, Nimbusians, we have been brought together to face a grave danger. This foe is not one we can fight with spears or even guns, nay! But yet we have to muster all our courage to stand against it. The danger of which I speak, is tyranny disguised behind a seemingly noble cause!" The very mention of tyranny already riled up the crowd, as Metakeros expected. "Freedom! A word which under the traditionalists has lost all meaning! Citizens, Nimbusians, I do not hold you for fools! I do not seek to control your spirit. When you vote on this matter, do not consider your political faction. Consider if Nimbusia stands for freedom or for tyranny!" Loud cheering and applause broke out from the theatre and Metakeros tried to gauge whether his speech convinced enough ponies. It was going to be close..."
  nimbusia.23.a:0 "Pegalaios speaks next..."
  ### NIM Censorship second ideology speaks
@@ -428,10 +428,10 @@
  nimbusia.28.d:0 "Andreia took the stage, her eyes glowing with fiery determination. As the people had come to expect of the pegasus officer, she had donned a full military uniform. Her voice was commanding and in a way it seemed like she was instructing the Ecclesia instead of speaking to it.\n\n"Citizens, I have heard the protests of the aging stallion Pegalaios, but I have found these not only ungrounded, but also offensive. Pegalaios has the gall to call me a tyrant, while I only seek the best for the citizens of Nimbusia! Seeking merely to protect the life of an honourable member of the military is not tyranny. No, those who would risk his life on the basis of rumour and lies are the ones who deserve your righteous anger, citizens." Andreia's challenging words were riling up both her supporters and opponents, which made the officer smirk, she was thoroughly enjoying this. "So noble citizens, it is your duty to safe the Strategos's life from those who plan the demise of our military! We are ready to serve the general, we but require your command!" The end of Andreia's speech inflamed debate on the rows of seats of the theatre, this would be another close call..."
  nimbusia.28.a:0 "The Ecclesia seems rowdy..."
  ### NIM guard boule decides
- nimbusia.29.t:0 "The Citizens' Choice"
+ nimbusia.29.t:0 "시민들의 선택"
  nimbusia.29.d:0 "Debate between the citizens lasted longer than usual and the night was well and truly underway when the voting could commence. As tradition, a raise of hooves would determine the outcome. Pegalaios watched on, concerned about what may happen, while Andreia seemed sure of her victory already..."
- nimbusia.29.a:0 "The Ecclesia rejects the Bodyguard!" #neutrality
- nimbusia.29.b:0 "The Ecclesia accepts the Bodyguard!" #fascism
+ nimbusia.29.a:0 "민회가 경비대의 설립에 반대했습니다!" #neutrality
+ nimbusia.29.b:0 "민회가 경비대의 설립에 찬성했습니다!" #fascism
  NIM_guard_fascism_tt:0 "Spawns an elite §YBodyguard division§! with full Ponypower and 50% equipment\n"
 
  ### NIM education choose to spend PP
@@ -664,11 +664,11 @@ nimbusia.61.t:0 "Pegicles Passes Away"
  nimbusia_revolt.9.d:0 "It seems that we have managed to please the vague whims of the Coalition, and our government has been declared legitimate. Although they insist on creating a Nimbusian Reconstruction Authority, which will oversee our every action, effectively turning us into a protectorate of the Coalition, but the fact remains that we have earned our freedom. Shipments of food and water, along with soldiers to help secure the country are already arriving. We made it, we are finally free to return to our homes."
  nimbusia_revolt.9.a:0 "The road was long and hard."
  nimbusia_revolt.9.b:0 "But those conditions... they are a sham!"
- nimbusia_revolt.10.t:0 "The Helot Revolt"
+ nimbusia_revolt.10.t:0 "헬롯 반란"
  nimbusia_revolt.10.d:0 "Nimbusia is a society shaped by fear, the fear of a helot revolt. The helots greatly outnumber the citizens of Nimbusia, and a revolt would be disastrous for Nimbusia. But there was never a real danger of a revolt, with the Nimbusians making sure to prevent any such thoughts in the Helots. But the recent massive shifts in Nimbusian society have pushed the Helots to the breaking point. \n\nThis all began when the Helots, to the immense surprise of many, declared a strike. It seems that they had managed to organize themselves under the command of a Helot named Dialusides. Demanding immediate recognition of their rights as ponies, and their complete freedom from servitude. When the Nimbusians responded, they did so through the only method they knew, force.\n\nBut this was not unexpected, the Nimbusians had always made it clear that they would not hesitate to attack the Helots should they rebel. But when the attacks came, they met stiff resistance. The Helots had been hoarding weapons for years, all in preparation for this one chance at freedom. Multiple groups have managed to organize themselves into military units, and now make their way to the capital. Nimbusia is now in a state of civil war, and the old fears of the Citizens are now given shape."
- nimbusia_revolt.10.a:0 "For Nimbusia!"
- nimbusia_revolt.10.b:0 "For freedom!"
- nimbusia_revolt.11.t:0 "Order Restored in Nimbusia"
+ nimbusia_revolt.10.a:0 "님부시아를 위하여!"
+ nimbusia_revolt.10.b:0 "자유를 위하여!"
+ nimbusia_revolt.11.t:0 "님부시아 질서 회복"
  nimbusia_revolt.11.d:0 "The new Helot government has wisely decided to accept our terms, and our troops are now preparing to move in to help them secure the country. Additionally, our advisers will be present at most levels of government to help them manage the country. Massive shipments of food, water, and other essentials are ready to be delivered to distribution centers across Nimbusia. Nimsuaia was ravaged by the war and the specter of a possible famine still looms over the country. Rebuilding Nimbusia will certainly be a herculean task."
  nimbusia_revolt.11.a:0 "Great!"
  nimbusia_revolt.12.t:0 "The Helot Reply"
