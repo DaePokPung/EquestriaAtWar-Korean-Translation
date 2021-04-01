@@ -8,60 +8,60 @@
 
 ######## Not Faction related
 DED_Council:0 "드레드 평의회의 결정"
-DED_Council_desc:0 "드레드 리그의 리더를 뽑아야 할 때가 다시 왔다. 로사 말레딕타는 이 직책에 가장 유력한 후보다. 그녀는 암흑 마법에 관한 훌륭한 실력과 그에 걸맞는 거대한 야망을 지니고 있다. 참으로, 그녀는 드레드 리그가 필요로 하는 리더가 될 것이다."
+DED_Council_desc:0 "현재의 드레드 리그의 지도자를 선택할 때가 다시 한번 왔습니다. 로사 말레딕타는 이 직책에 가장 유망한 후보입니다. 그녀는 흑마법의 숙련도에 걸맞은 거대한 야망을 가지고 있습니다. 진실로, 그녀는 드레드 리그가 필요로 하는 지도자가 될 것입니다."
 
 DED_Army_Dead:0 "망자의 군대"
-DED_Army_Dead_desc:0 "모든 군대는 지도자가 필요하다.우리는 드레드 리그 최고의 전술적 지식을 지닌 자들을 모아야 하고, 그들의 복합적인 경험과 지도력의 질은 다가올 후년에 큰 역할을 하게 될 것이다. 리그는 그들의 군대가 마땅히 받아야 할 존경을 위해 싸우는 것을 목격할 것이다."
+DED_Army_Dead_desc:0 "모든 군대는 지도자가 필요합니다. 우리는 드레드 리그의 최고의 전술가들을 모으는 것을 고려해야 합니다. 그들의 다채로운 경험과 지도자로서의 자질은 앞으로의 일에서 우리에게 큰 도움이 될 것입니다. 리그는 그들의 군대가 그들이 마땅히 받아야 할 존경을 위하여 싸우는 것을 보게 될 것입니다."
 
-DED_Prep_Crusade:0 "검은 성전을 준비하다"
-DED_Prep_Crusade_desc:0 "여왕 폐하, 아크투리아 기사단이 몇 년째 우리를 억압하고 있사옵니다. 폐하께선 드레드 리그를 저 빛의 비열한 숭배자들과의 전쟁으로 그들의 사소한 질서의 통치를 종식시키는 것을 염두하셔야 합니다."
+DED_Prep_Crusade:0 "죽음의 성전을 준비하다"
+DED_Prep_Crusade_desc:0 "여왕 폐하, 아크튜러스 기사단은 수년 동안 우리를 방해해 왔습니다. 폐하께서는 드레드 리그를 빛을 숭배하는 비열한 자들을 상대로 전쟁을 벌일 수 있는 위치까지 인도하시어, 그들의 하찮은 기사단의 통치에 종지부를 찍으셔야 합니다."
 
-DED_Unquiet:0 "망자에게 휴식은 없다"
-DED_Unquiet_desc:0 "드레드 리그는 계획된 검은 성전를 받쳐줄 산업 능력이 부족하다. 이는 지역의 거주자 중 일부를 활용할 수 있는 기회로 제시되는데, 로사와 그녀의 군대의 필요 물자를 확보 위해서는 제조업체가 건설되어야 할 필요가 있을 것이기 때문이다. 이러한 산업용 건물에 대한 계획은 드레드 리그의 가장 신뢰받는 건축가에 의해 작성되었으며, 그들은 로사 말레딕타의 승인을 기다리고 있다."
+DED_Unquiet:0 "언데드를 위한 휴식은 없다"
+DED_Unquiet_desc:0 "드레드 리그는 다가오는 죽음의 성전을 지탱할 만큼의 산업 역량이 부족합니다. 그렇기 때문에, 이것은 로사와 그녀의 군대의 수요를 충족시켜주는 물자들을 제작하는 공장들의 건설에 거주민들 중 일부를 사용할 수 있는 기회가 될 것입니다. 산업 건물에 대한 계획은 드레드 리그에서 가장 신뢰받는 건축가들에 의해 세워졌으며, 그들은 로사 말레딕타의 승인을 기다리고 있습니다."
 
-DED_Loyalty:0 "죽지 않는 충성심"
-DED_Loyalty_desc:0 "로사 말레딕타 그녀도 암흑 마법의 실력자이다. 그녀는 자기 군대의 충성을 확고화하기 위해 그들에게 기아스를 걸었다. 기아스는 그녀의 군대, 장군들, 그리고 조언자들 중 몇몇에게 그녀에 대한 충성을 맹세하도록 보장한다. 드레드 리그는 그녀의 의지에 크게 구속될 것이다."
+DED_Loyalty:0 "불멸의 충성심"
+DED_Loyalty_desc:0 "로사 말레딕타는 흑마법에 정통합니다. 그녀는 그녀의 군대의 충성심을 보장하기 위하여, 그들에게 기아스를 걸었습니다. 이 기아스는 그녀의 군대, 장군들, 그리고 조언자들이 그녀에게 충성을 맹세하도록 합니다. 드레드 리그는 그녀의 의지에 결속될 것입니다."
 
 ##### Death of Light
 DED_Unholy_War:0 "Mors Lucis(빛의 죽음)"
-DED_Unholy_War_desc:0 "셀 수 없는 세대 동안 드레드 리그는 광신적인 아크투리안 기사단에 의해 공격당하고 포위되어 왔다. 수년간의 준비는 우리의 장애물을 극복하고 남쪽으로 내려올 군대를 준비하는 데 들어갔다. 우리의 의도를 기사단을 향해 선언하는 것은 우리의 위대한 십자군 전쟁이 시작되기 전에 우리가 취해야 할 마지막 조치다. 전쟁을 위하여!"
+DED_Unholy_War_desc:0 "수많은 세대 동안, 드레드 리그는 광신적인 아크튜러스 기사단에 의해 포위되어왔습니다. 수년 동안, 우리는 장애물을 극복하고 남쪽으로 내려가기 위한 군대를 준비하는데 보냈습니다. 우리의 의도를 기사단에게 선언하는 것은 우리의 위대한 성전이 시작되기 전에 취해야 할 마지막 조치입니다. 전쟁을 향해!"
 
 ##### The end of all the lives
 DED_Black_Crusade:0 "Finis Omnium Vitarum(모든 생명을 끝내리라)"
-DED_Black_Crusade_desc:0 "드디어 날이 밝았다. 아크투리안 기사단은 잿더미가 되었고 과거의 백성들은 이제 우리의 죽지 않은 군대의 품에 들어왔으며, 우리는 마침내 우리의 진정한 목표에 눈을 돌릴 수 있다. 모든 생명에 대한 십자군 전쟁과 로사 말레딕타가 '진정한 질서'라고 부르는 것의 시작이다. 마침내 어둠의 십자군을 선포할 때가 왔다! 세계는 드레드 리그의 이름을 두려워할 것이다!"
+DED_Black_Crusade_desc:0 "드디어 이날이 왔습니다. 아크튜러스 기사단은 잿더미 위에 누워 있으며, 그들의 옛 시민들 중 많은 사람들이 우리의 언데드 군대에서 복무하고 있기 때문에, 우리는 마침내 우리의 진정한 목표를 향해 눈을 돌릴 수 있습니다. 모든 생명에 대한 성전은 로사 말레딕타가 말하는 '진정한 질서'의입니다. 마침내 죽음의 성전을 시작할 때가 왔습니다! 세계는 드레드 리그의 이름을 두려워할 것입니다!"
 
 ######## Society of Bones
 DED_Soc_Bone:0 "뼈들의 협회"
-DED_Soc_Bone_desc:0 "뼈들의 협회는 네크로멘서들과 리치들에 의해 운영된다. 이 파벌의 편을 드는 것은 피의 집회를 분노하게 할 것이지만, 우리에게 대량의 해골과 구울의 군대를 일으켜 필멸의 국가들에게 공포를 불러 일으킬 능력을 가질 수 있게 될 것이다."
+DED_Soc_Bone_desc:0 "뼈들의 협회는 네크로맨서들과 리치들에 의해 운영됩니다. 이 파벌의 편을 들면 피의 집회를 분노하게 만들 것입니다. 그러나 이들은 우리에게 많은 숫자의 스켈레톤과 구울들을 일으켜서 필멸자들의 국가에 공포를 일으킬 능력을 부여해 줄 것입니다."
 
-DED_Flesh_Bone:0 "육신에 약점이 있다"
-DED_Flesh_Bone_desc:0 "우리는 국경에 존재하는 유약한 자들을 효율적인 병사로 전환하는 것에 대해 생각했다. 논리는 그럴듯 하지만 우리의 방법이 우아한지는 따져보아야 한다. 인생에서 고통받은 사람들은 죽음에서 의심할 여지 없이 봉사한다."
+DED_Flesh_Bone:0 "육신은 나약하다"
+DED_Flesh_Bone_desc:0 "우리는 우리 국경 내에 있는 약자들과 노쇠한 존재들을 효과적인 군인들로 변환하는 것을 제안했습니다. 논리는 타당해 보이며, 우리의 방법은 품격 있어 보입니다. 삶에서 고통받았던 존재들은, 죽음에서 의심의 여지없이 봉사하게 될 것입니다."
 
-DED_Work_Bone:0 "뼈로 일하게 하다"
-DED_Work_Bone_desc:0 "우리 시체들은 무기가 필요하다!협회는 신식 군대와 같은 적절한 무장이 없이는 그들의 스켈레톤을 전투에 투입하지 않을 것이다. 생명에 대한 대성전을 대비하려면, 우리 병력을 위해 장비를 공급하기 위한 공장을 건설해야 한다!"
+DED_Work_Bone:0 "그들의 뼈로 일하게 하다"
+DED_Work_Bone_desc:0 "우리 시체들은 무기가 필요합니다! 협회는 현대식 군대의 적절한 무기 없이는 그들의 해골을 전투에 내보내지 않을 것입니다. 우리 군대에 무기를 공급하고, 생명에 대항하는 거대한 성전을 준비하기 위한 공장들이 건설되어야 합니다!"
 
-DED_Nec_Off:0 "망자들의 규율"
-DED_Nec_Off_desc:0 "뼈들의 협회는 그들의 군대를 전쟁으로 이끌기를 원한다. 전술적 지식을 지닌 네크로맨서가 드레드 리그 군대의 지휘를 담당한다면, 네크로맨시 주문을 사용할 수 없는 사람들보다 더 능숙하게 지휘할 수 있을 것이다. 만약 그들이 각각 군대를 이끌게 한다면, 우리는 틀림없이 전반적인 전투 능력이 향상될 것이다."
+DED_Nec_Off:0 "죽은 자들의 규율"
+DED_Nec_Off_desc:0 "뼈들의 협회는 그들의 군대를 이끌고 전쟁을 일으키기를 희망하고 있습니다. 전략에 대하여 잘 이해하고 있는 네크로맨서들 중 한 명이 드레드 리그의 지휘관을 맡게 되었으며, 네크로맨서들은 강령술을 쓸 수 없는 사람들보다 군대를 더 능숙하게 이끌 것입니다. 만약 그들이 각각의 부대를 지휘한다면, 우리의 전반적인 전투능력은 확실하게 증가할 것입니다."
 
 DED_Adv_Skele:0 "진보한 스켈레톤 적응"
 DED_Adv_Skele_desc:0 "스켈레톤은 육신과 피를 다루는 포니들과는 다르다; 그들은 포니들이 가지지 않은 결점들이 있다. 이러한 문제에 대한 해결책을 설계하는 데 중점을 둔 기관을 뼈들의 협회 내에 설립해야 한다. 그것은 심지어 네크로멘서들에게 그들의 자존심을 세울 수 있게 할 것이다."
 
-DED_Skele_Skin:0 "살아 있어요,로사! 살아 있다고요!"
+DED_Skele_Skin:0 "살아 있어요, 로사! 살아 있다고요!"
 DED_Skele_Skin_desc:0 "극단적인 시기에는 극단적인 조치가 요구된다. 뼈들의 협회는 최근의 내부 혁신으로 이것을 깨달았다. 웅장한 언데드 군대는 점점 커지는 세계 분쟁에 맞설 만큼 빠르게 성장하지 못하고 있다. 최근에 죽은 자들은 군대를 지원하고 로사의 야망을 부채질하기 위해 등장할 것이다."
 
 DED_Skele_Armor:0 "장갑 스켈레톤"
 DED_Skele_Armor_desc:0 "협회의 노력을 통해 아군 대부분은 스켈레톤으로 구성되어졌고, 좀비는 일부가 되었다. 마술에 조예가 깊은 일부 네크로맨서들은 스켈레톤 전용의 특화 장갑을 부여할 능력을 제공할 수 있다. 완벽한 해결책은 되지는 않겠지만, 아군은 전장에서 더 오래 버틸 것이다."
 
-DED_Skele_School:0 "진보한 네크로맨시"
+DED_Skele_School:0 "진보한 강령술"
 DED_Skele_School_desc:0 "뼈들의 협회는 그들의 네크로맨시 주문과 마법적 능력을 향상시키고 있다. 이러한 향상은 제한적으로 학습이 가능한 선천적인 능력을 지닌 스켈레톤으로 결실을 맺었는데, 이는 스켈레톤에 프로그래밍된 전술과 행동을 삽입하는 이전의 방법과 차이점을 보였다."
 
 DED_Skele_on_Skele:0 "행진하는 군대"
 DED_Skele_on_Skele_desc:0 "언데드 군대도 이제 제한적으로 새로운 기술을 배울 수 있게 되었으니, 우리는 마침내 우리 군대에 대한 적절한 군사 훈련을 시작할 수 있게 되었다. 무리지어 무턱대고 총을 쏘고 칼을 휘두르는 시대는 지나갔고, 논리 정연하고 지적인 언데드 군대의 시대가 왔다. 미래는 드레드 리그와 뼈들의 협회에 긍정적이다."
 
-DED_Skele_In_Plane:0 "세상에, 플라잉 스켈레톤아다!"
+DED_Skele_In_Plane:0 "세상에, 플라잉 스켈레톤이다!"
 DED_Skele_In_Plane_desc:0 "네크로맨시 마법의 발달로 해골은 비행기처럼 진보된 차량을 조종할 수 있게 되었다. 이를 최대한 활용하기 위해, 우리는 곧 만들어질 스켈레톤 조종사들을 위한 새로운 항공기 디자인을 개발하는 데 우리의 자원을 투자함으로써 유리함을 얻을 수 있을 것이다. 하늘은 다시 한번 드레드 리그의 영역이 될 것이다!"
 
-DED_Spooky_Factory:0 "대단위 네크로맨시"
+DED_Spooky_Factory:0 "대규모 강령술"
 DED_Spooky_Factory_desc:0 "뼈들의 협회는 그들의 주문영창을 매우 효율적으로 개선하고 있다. 드레드 리그가 통제하고 있는 땅에 거대한 네크로맨시 마법이 드리워지고 있다. 마법이 땅을 수놓으면, 고대의 죽은 자들의 거대한 무리들이 일어설 것이다. 모두 로사의 언데드 군대로 통합될 준비가 되었다. 드레드 리그의 지배가 확대된다면 네크로맨서들은 이 주문을 계속해서 새로 얻은 영토를 수놓아 나갈 것이다."
 
 ##### Life to Death
@@ -84,7 +84,7 @@ DED_Ed_Nob_desc:0 "귀족들은 우리 사회의 핵심을 형성하고 있지�
 DED_Blood_Slave:0 "피로써 묶이다"
 DED_Blood_Slave_desc:0 "더 높은 수준의 복종은 혈마법을 통해 달성할 수 있다. 흡혈귀인 우리는 이런 종류의 주술에 천부적인 재능을 가지고 있다. 혈 마법을 통해 우리는 우리의 전투노예들의 충성심을 보장하고 그들의 최대한의 능력을 발휘하게 할 수 있을 것이다. 오직 강한 의지만이 우리의 마법에 저항할 수 있을 것이다."
 
-DED_New_Blood:0 "외부인을 받아들이다"
+DED_New_Blood:0 "신출내기들을 받아들이다"
 DED_New_Blood_desc:0 "로사 말레딕타는 열악한 위치에 놓인 인구에 대해 관심을 가지고 있다. 집회 구성원에 포함시키는 혜택을 베품으로써, 우리의 구성원을 늘려야만 한다. 우리는 정복을 추구하지만, 피정복자들 모두가 전투노예나 피 가축이 되지는 않을 것이다. 우리가 유용하다고 생각하는 자들은 우리의 집회의 일부가 될 것이다."
 
 DED_Vamp_Club:0 "고위 뱀파이어"
@@ -96,10 +96,10 @@ DED_Fact_Farm_desc:0 "피의 집회가 교양 없는 뼈의 협회 무식쟁이�
 DED_Food_Ed_Nob:0 "주인 가르치기"
 DED_Food_Ed_Nob_desc:0 "기술적 변화랄 것이 거의 없던 과거에는 필요에 의해 집회의 귀족들이 노예들에게 뭔가를 가르치고는 했습니다. 그러나, 현대 사회에서는 반대로 노예와 하인들이 우리에게 현대 문물과 특히 현대 무기의 사용법을 가르칠 것입니다. 이러한 로사의 계획은 우리에게 큰 이득이 될 것입니다."
 
-DED_Blood_Elect:0 "To Elect Thine Leader"
+DED_Blood_Elect:0 "지도자를 선출하다"
 DED_Blood_Elect_desc:0 "Whilst the Dread League may be run by Rosa Maledicta. The Coven has a loose political structure, defined by the two echelons of Nobility. With a newly instituted law, both levels of the nobility will be required to vote for a leader of the Coven. This would be not only to represent the Coven, but to lead them on most internal matters."
 
-DED_Blood_Soil:0 "Cursed be Thine Intruder"
+DED_Blood_Soil:0 "침입자들을 저주하다"
 DED_Blood_Soil_desc:0 "The Coven despise intruders on their lands, they view them as sacred and holy. Only their thralls, themselves, and invited guests are permitted within the Coven's borders. To solve this abhorrent problem, the Coven will weave dark blood rituals into the land. The Dread League's land will be coated in vampyric spells, all of them designed to drain the life out of foreign invading armies."
 
 ##### The immortal blood
@@ -230,8 +230,8 @@ POLITICS_ROSAVAMPIRE_DESC:0 "While the beauty of some ponies is a blissful dream
 
 ##### Generic
 
-magehold:0 "Magehold"
-magehold_desc:0 "§WInfantry Width:§! §G-0.5§!\n§WMagical Infantry Width:§! §G-0.5§!\n\nThe haunted fortress of Magehold is a tenebrous location in which time does not flow, laws of nature are ignored and the very ground is cursed for an eternity. Its inhabitants are all ancient and powerful, having seen many historical events come and pass - and have participated in many battles as well. Yet their power has waned and they are now a remnant of their former terrible glory, but one can still fulfill their dread calling..."
+magehold:0 "메이지홀드"
+magehold_desc:0 "§W보병 너비:§! §G-0.5§!\n§W마법 보병 너비:§! §G-0.5§!\n\nThe haunted fortress of Magehold is a tenebrous location in which time does not flow, laws of nature are ignored and the very ground is cursed for an eternity. Its inhabitants are all ancient and powerful, having seen many historical events come and pass - and have participated in many battles as well. Yet their power has waned and they are now a remnant of their former terrible glory, but one can still fulfill their dread calling..."
 
 ### army
 ded_army_chief:0 "지도자 래틀본"
@@ -243,19 +243,19 @@ ded_navy_chief:0 "제독 크투 아다나"
 ### high command
 ded_high_command1:0 "에드후프 슐라이어츠"
 
-ded_high_command2:0 "예카테린 부켄헤임"
+ded_high_command2:0 "예카테리나 부켄헤임"
 
-ded_high_command3:0 "알렉산드리 어센후프"
+ded_high_command3:0 "알렉산드리 아센후프"
 
 ### theorist
-ded_theorist:0 "Somvas Nc. Aromancer"
+ded_theorist:0 "솜바스 Nc. 아로맨서"
 
 ### politics
-ded_political_1:0 "Commissar Khemsarov"
+ded_political_1:0 "정치 위원 켐사로브"
 
-ded_political_2:0 "Sonya Götzmane"
+ded_political_2:0 "소냐 괴츠마네"
 
-ded_political_3:0 "Bitzen Van Castreins"
+ded_political_3:0 "비첸 반 카스트레인"
 
 
 ###### Political Tree ideas
@@ -603,16 +603,16 @@ DED_shield_crisis_cat:0 "Shield of Hope"
 DED_shield_crisis:0 "The Return of Hope"
 DED_shield_crisis_desc:0 "If the Shield of Hope was to fall into the talons of the Arcturian Order, it could spell disaster for our forces. We must assure that the Arcturians are dealt with before they launch their potential raid."
 
-AT_LEAST_2_CRYSTALS:0 "Has at least §Y2§! £resources_strip|7  available"
-DED_LOSE_2_CRYSTALS:0 "§Y2§! £resources_strip|7  will be unavailable for use"
-AT_LEAST_8_CRYSTALS:0 "Has at least §Y8§! £resources_strip|7  available"
-DED_LOSE_8_CRYSTALS:0 "§Y8§! £resources_strip|7  will be unavailable for use"
-AT_LEAST_10_CRYSTALS:0 "Has at least §Y10§! £resources_strip|7  available"
-DED_LOSE_10_CRYSTALS:0 "§Y10§! £resources_strip|7  will be unavailable for use"
-AT_LEAST_12_CRYSTALS:0 "Has at least §Y12§! £resources_strip|7  available"
-DED_LOSE_12_CRYSTALS:0 "§Y12§! £resources_strip|7  will be unavailable for use"
+AT_LEAST_2_CRYSTALS:0 "적어도 §Y2개§!의 £resources_strip|7  을 보유하고 있습니다"
+DED_LOSE_2_CRYSTALS:0 "§Y2개의§! £resources_strip|7  을 사용할 수 없게 됩니다"
+AT_LEAST_8_CRYSTALS:0 "적어도 §Y8개§!의 £resources_strip|7  을 보유하고 있습니다"
+DED_LOSE_8_CRYSTALS:0 "§Y8개의§! £resources_strip|7 을 사용할 수 없게 됩니다"
+AT_LEAST_10_CRYSTALS:0 "적어도 §Y10개§!의 £resources_strip|7  을 보유하고 있습니다"
+DED_LOSE_10_CRYSTALS:0 "§Y10개의§! £resources_strip|7  을 사용할 수 없게 됩니다"
+AT_LEAST_12_CRYSTALS:0 "적어도 §Y12개§!의 £resources_strip|7 을 보유하고 있습니다"
+DED_LOSE_12_CRYSTALS:0 "§Y12개의§! £resources_strip|7  을 사용할 수 없게 됩니다"
 
-DED_stop_raise_converted_dead_timeout:0 "Has been converting for §Y<30§! days"
+DED_stop_raise_converted_dead_timeout:0 "§Y30일 이상§! 전환되었습니다"
 
 ###Post Black Crusade Decisions
 DED_black_crusade_decisions:0 "Black Crusade"
@@ -719,22 +719,22 @@ deadempire.58.a:0 "Foolishness."
 
 ######################FLAGS
 
-Unholy_War_Flag:0 "Fighting has broken out between the Arcturian Order and the Dread League"
-DED_Went_Blood:0 "Rosa chose the Coven of Blood"
-DED_Went_Bone:0 "Rosa chose the Society of Bone"
+Unholy_War_Flag:0 "아크튜러스 기사단과 드레드 리그 사이에서 전쟁이 일어났습니다"
+DED_Went_Blood:0 "로사가 피의 집회를 선택했다"
+DED_Went_Bone:0 "로사가 뼈들의 협회를 선택했다"
 
 ############################################
 ### ABILITIES ##############################
 ############################################
 
-ABILITY_UNDYING:0 "Undying"
-ABILITY_UNDYING_DESC:0 "Your armies will get major Strength and Organisation bonuses."
+ABILITY_UNDYING:0 "불멸"
+ABILITY_UNDYING_DESC:0 "당신의 군대는 내구도 및 조직력 보너스를 받게 될 것입니다."
 
-ABILITY_DROWN_THEM:0 "Drown them in Bodies"
-ABILITY_DROWN_THEM_DESC:0 "Your armies will get an offensive bonus at the expense of some disadvantages."
+ABILITY_DROWN_THEM:0 "시체로 익사시키다"
+ABILITY_DROWN_THEM_DESC:0 "당신의 군대는 약간의 불이익을 감수하고 공격 보너스를 받게 될 것입니다."
 
-ABILITY_TERRORIZE:0 "Terrorize"
-ABILITY_TERRORIZE_DESC:0 "Your armies will get offensive and speed bonuses."
+ABILITY_TERRORIZE:0 "공포"
+ABILITY_TERRORIZE_DESC:0 "당신의 군대는 공격 및 속도 보너스를 받게 될 것입니다."
 
-DED_occupation:0 "Roaming Undead"
-occupation_of_DED:0 "Purification (only against Dread League)"
+DED_occupation:0 "로밍 언데드"
+occupation_of_DED:0 "정화 (오직 드레드 리그를 상대로만 사용 가능)"
