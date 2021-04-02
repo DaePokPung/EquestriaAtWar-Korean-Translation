@@ -11,8 +11,8 @@
  RIV_river_union_member_desc:0 "이 국가는 리버 경제 공동체를 승계하는 리버 연합(River Union)의 회원국입니다. 연합은 이전 조약보다 훨씬 더 중앙집권화되어 있으며 모든 종류의 정책 분야에 대한 책임을 지고 있습니다. 연방 의회가 더 많은 중앙집권화를 추진하면 연합이 본격적인 연방으로 발전할 것이라는 전망이 떠오를 수도 있습니다."
  RIV_rdc:0 "리버 산업개발"
  RIV_rdc_desc:0 "과거에 연합은 그들의 이웃을 발전시키기 위해 많은 노력을 하였지만, 그 도움은 방향을 잃고 분산되었습니다. 연합 국가들의 선의를 가장 필요로 하는 곳으로 향하게 하기 위해, 리버 개발 회사(RDC)가 설립되었습니다. RDC는 모든 회원국의 자금과 전문가를 통합하여 그들의 자산을 사용하여 새로운 공장, 고속도로, 철도 및 부두 농장의 건설을 돕습니다."
- RIV_beings_rights_idea:0 "River Convention on Beings Rights"
- RIV_beings_rights_idea_desc:0 "This nation is a signatory of the River Convention on Beings Rights"
+ RIV_beings_rights_idea:0 "리버 권리 선언 협약"
+ RIV_beings_rights_idea_desc:0 "이 국가는 시민 권리에 대한 리버 협약의 서명국입니다."
  RIV_development_grants_idea:0 "산업 보조금"
  RIV_development_grants_idea_desc:0 "이 나라는 리버 동맹으로부터 낙후된 경제 개선을 위한 너그로운 개발 보조금을 지원받고 있습니다."
  RIV_centeral_bank_idea:0 "리버 중앙 은행"
@@ -136,25 +136,25 @@
 
  #### EVENT ####
  riverfed.1.t:0 "리버 과학회"
- riverfed.1.d:0 "[From.GetName] has proposed a student exchange program along with a permanent knowledge sharing initiative. This River Society of Science, will help to improve learning throughout the Riverlands. Although the plan would benefit our country, some nationalists are concerned about sharing our technology with foreigners, even if they are our friends."
+ riverfed.1.d:0 "[From.GetName]에서는 영구적인 지식 공유라는 독창적인 계획과 함께 교환학생 프로그램을 제안했습니다. 이 리버 과학회는 리버랜드 전역에서 교육 시스템을 개선하는 데 도움이 될 것입니다. 이 계획은 우리나라에 이익이 되겠지만, 일부 민족주의자들은 비록 그들이 우리의 친구일지라도 우리의 기술을 외국과 공유하는 것에 대해 우려하고 있습니다."
  riverfed.1.a:0 "정말 멋진 생각이야!"
  riverfed.1.b:0 "우리는 아무하고도 우리의 지식을 나누지 않을 것이다."
  
  riverfed.2.t:0 "리버 석탄 철강 공동체"
- riverfed.2.d:0 "[From.GetName] has proposed a plan they call the River Coal and Steel Community. With it, we will share the base raw materials between our coalition members more fairly and with less competition. An additional idea is to prevent war between members of the coalition by putting control over the resources required for warfare in the hands of a supranational committee. This committee would be chaired by independent experts.\n\nAlthough these plans could improve our economy and many of our citizens sympathise with the idea of stopping warfare between members of the Coalition, giving up control over our resources to some outside 'experts' is an unprecedented step."
+ riverfed.2.d:0 "[From.GetName]은(는) 리버 석탄 철강 공동체라는 계획을 제안했습니다. 이를 통해 우리 연합 회원국은 서로 보다 공정하고 평등하게 기본 원자재를 공유할 것입니다. 또 다른 생각은 전쟁에 필요한 자원을 초국가 위원회의 손에 쥐어줌으로써 연합국들간의 전쟁을 막자는 것입니다. 이 위원회는 각 분야의 독립적인 전문가들로 의장이 구성될 것입니다.\n\n비록 이러한 계획들이 우리의 경제를 향상시킬 수 있고 많은 시민들이 연합국 구성원들 간의 경쟁을 중단시킬 수있다는 것에도 공감하지만, 우리의 자원이 외부의 '전문가'들에게 통제된다는 것은 전례가 없는 조치입니다."
  riverfed.2.a:0 "이를 통해 평화를 이룩할 수 있을 것이다!"
  riverfed.2.b:0 "우리는 우리의 권리를 위원회에게 넘기지 않을 것이다."
  
  riverfed.3.t:0 "[From.GetName]의 산업 원조"
- riverfed.3.d:0 "[From.GetName] has built a factory for us to help us along with our industrialisation efforts. With state of the art machines they cleared a large plot of land for development and even funded construction of a new factory. Our citizens are amazed that our friends would help us in such a way."
+ riverfed.3.d:0 "[From.GetName]은(는) 산업화 노력과 함께 우리를 도울 수 있는 공장을 설립했습니다. 최첨단 기계로 그들은 개발을 위한 넓은 땅을 평탄화시키고 심지어 새 공장의 자금도 지원했습니다. 자국의 시민들은 친구들이 그런 식으로 우리를 도와준다는 것에 놀란듯 합니다."
  riverfed.3.a:0 "[From.GetName] 친구들을 위해 건배!"
  
  riverfed.5.t:0 "[From.GetName]의 도로 건설 지원"
- riverfed.5.d:0 "[From.GetName] has funded an infrastructure project inside our country. They cited strategic considerations for the entire coalition. Without roads, it would be hard to transport forces through our country against any attack by the states that surround us. Either way, these brand new roads will serve us well."
+ riverfed.5.d:0 "[From.GetName]은(는) 우리 나라의 기반시설 프로젝트에 자금을 지원하고 있습니다. 그들은 연합국 전체에 대한 전략적 고려사항을 언급했습니다. 도로가 없다면, 우리를 둘러싸고 있는 적들의 공격에 대항하여 우리나라를 통해 병력을 수송하는 것은 어려울 것입니다. 어느 쪽이든, 이 새로운 도로들은 우리에게 도움이 될 것입니다."
  riverfed.5.a:0 "그들의 관대함은 정말 겸손하다."
  
  riverfed.7.t:0 "[From.GetName]의 산업 보조금"
- riverfed.7.d:0 "[From.GetName] has granted us aid to help develop our industrial base. A temporary program of grants, along with a delegation of engineers from [From.GetName] have been sent to help us. The ambassador [From.GetName] said that their country considered helping friends as important as helping themselves and that [From.GetName] truly seek no compensation for their aid."
+ riverfed.7.d:0 "[From.GetName]은(는) 당사의 산업 기반 개발을 돕기 위한 지원을 제공했습니다. 임시 보조금 프로그램과 함께 [From.GetName]의 엔지니어 대표단이 우리를 돕기 위해 보내졌습니다. [From.GetName]의 엠버서더는 자신의 나라가 친구를 돕는 것을 자기들 자신을 돕는 것만큼이나 중요하게 여겼으며, 정말로 자신들의 원조에 대한 보상을 바라지 않는다고 말했습니다."
  riverfed.7.a:0 "이 기회를 낭비해서는 안 된다."
  
  riverfed.8.t:0 "[From.GetName]의 산업 보조금"
@@ -268,24 +268,24 @@
  
  #### TOOLTIPS ####
  RIV_rdc_rail_projects_tt:0 "5개 미만의 기반시설을 갖춘 §Y모든 소유의 핵심 주§!에 §Y1개의 기반시설§!이 건설 될 것입니다.\n"
- RIV_eastern_transport_fund_tt:0 "All other countries that fund the RDC will benefit from this.\n"
+ RIV_eastern_transport_fund_tt:0 "RDC에 투자한 다른 모든 국가들은 혜택을 얻을 것입니다.\n"
  RIV_fed_race_plus_tt:0 "§Y리버 연방 형성을 향한 경쟁§!에서 당신의 지지도를 §G1§!만큼 상승시킬 것입니다.\n"
  RIV_fed_race_minus1_tt:0 "§Y리버 연방 형성을 향한 경쟁§!에서 당신의 지지도를 §R1§!만큼 하락시킬 것입니다.\n"
  RIV_fed_race_minus3_tt:0 "§Y리버 연방 형성을 향한 경쟁§!에서 당신의 지지도를 §R3§!만큼 하락시킬 것입니다.\n"
- RIV_river_army_trigger_tt:0 "은(는) §Y리버 연합§!의 일원입니다.\n"
- RIV_the_federation_trigger_tt:0 "No other nation has done more to §YFound the Federation§! than this nation has.\n"
- RIV_found_the_federation_tt:0 "§YAll nations§! who are full River Union Members will §Yjoin the Federation§! under your command.\n"
- is_river_fed_member_tt:0 "은(는) §Y리버 연합§!의 일원입니다.."
- is_in_same_war_as_river_fed:0 "Is in the same war as §YThe River Union§!"
- is_guaranteed_by_river_fed:0 "Is guaranteed by §YThe River Union§! and fighting a defensive war"
- apply_for_membership_tt:0 "Allows §YRiver Coalition§! nations to §YOffer Membership to [Root.GetName]§!."
- RIV_leave_fed_tt:0 "Leave §YThe River Union§!.\n"
+ RIV_river_army_trigger_tt:0 "§Y리버 연합§!의 일원입니다.\n"
+ RIV_the_federation_trigger_tt:0 "다른 어떤 나라도 우리보다 §Y연방 형성§!을 향해 많이 행동하지 않았습니다.\n"
+ RIV_found_the_federation_tt:0 "리버 연합의 회원국인 §Y모든 국가§!가 당신의 명령아래 §Y연방에 가입§!할 것입니다.\n"
+ is_river_fed_member_tt:0 "§Y리버 연합§!의 일원입니다."
+ is_in_same_war_as_river_fed:0 "§Y리버 연합§!으로서 전쟁에 참여중입니다."
+ is_guaranteed_by_river_fed:0 "§Y리버 연합§!의 일원이며 방어 전쟁에서 싸우고 있습니다."
+ apply_for_membership_tt:0 "§Y리버 연합§!의 국가들의 §Y[Root.GetName]으로의 회원국 제안 결정§!을 활성화합니다."
+ RIV_leave_fed_tt:0 "§Y리버 연합§!을 떠납니다.\n"
  #### OTHER ####
  RIV_science_society_group_name:0 "리버 과학회"
  RIV_science_society_group_desc:0 ""
- RIV_develop_friends_opinion:0 "Friendship Delegation"
- RIV_friendship_delegation:0 "Friendship Delegation"
- RIV_friendship_delegation_rejected:0 "Friendship Delegation Rejected"
+ RIV_develop_friends_opinion:0 "친선 대표단"
+ RIV_friendship_delegation:0 "친선 대표단"
+ RIV_friendship_delegation_rejected:0 "친선 대표단 거절"
  river_coalition_faction:0 "리버 동맹"
  river_united_faction:0 "동부 그리포니아 조약기구"
  ally_river_fed_decision:0 "리버 동맹 가입"
@@ -297,7 +297,7 @@
  RIV_race_cat_desc:0 "§Y리버 연방 형성을 향한 경쟁:§!\n\n§Y연방의 꿈§!을 시작으로 하는 §Y고유 중점§!을 완료해 당신의 지지도를 증가시키십시오. 포커스를 완료한 첫 번째 국가만이 포인트를 얻지만 모든 동맹 국가들은 혜택을 공유합니다. 마지막에 가장 높은 지지를 얻은 국가 만이 §Y리버 연방을 형성§!할 수 있습니다!\n\n[Root.GetRivFedRaceLeader]"
  RIV_race_counter:0 "리버 연방 형성"
  RIV_NO_LEADER:0 "§Y리버 연방 형성을 향한 경쟁§!이 아직 시작되지 않았습니다."
- RIV_LEADER:0 "Current leader: §Y[RIV_fed_race_leader.GetNameWithFlag]§!"
+ RIV_LEADER:0 "현재 주도국: §Y[RIV_fed_race_leader.GetNameWithFlag]§!"
  RIV_YOU_ARE_LEADER:0 "§G당신은 주도국입니다!§!"
  RIV_GUI_LIST_ENTRY:0 "[This.GetRivFedRaceEntry]"
  RIV_GUI_LIST_ENTRY_US:0 "§G[?this.GetNameWithFlag]§!"
@@ -325,13 +325,13 @@
  RIV_join_river_union_decision:0 "리버 연합 가입"
  RIV_join_river_government_decision:0 "연합 정부와의 통합"
  RIV_join_riv_centeral_bank_decision:0 "리버 중앙은행 도입"
- RIV_sign_beings_rights_decision:0 "Sign the Declaration of Beings' Rights"
+ RIV_sign_beings_rights_decision:0 "권리 선언문 "
  RIV_leave_federation_decision:0 "리버 연합 탈퇴"
  RIV_join_federation_decision:0 "리버 동맹 가입"
 
- RIV_expand_fed_decisions:0 "Offer Membership to the North"
- RIV_invite_country_decision:0 "Offer Membership to [From.GetName]"
- RIV_invite_country_decision_desc:0 "Formally ask [From.GetName] to join the treaty of Coltstream." 
+ RIV_expand_fed_decisions:0 "북부로의 회원국 제안"
+ RIV_invite_country_decision:0 "[From.GetName]에게 회원국 제안"
+ RIV_invite_country_decision_desc:0 "공식적으로 [From.GetName]을(를) 콜트스트림 조약 회원으로 초대합니다." 
 
  RivCol_capitulation_TT:0 "§R리버 동맹의 주도국은 다른 모든 구성국들이 항복하지 않는 한 항복하지 않을 것입니다!§!"
  river_federation_founder:0 "Founded the §YRiver Federation§!"
@@ -725,9 +725,9 @@ coltstream.11.t:0 "The King in the Woods"
 coltstream.11.d:0 "King Grimhoof cut a strange figure as he arrived at the summit. Dressed in an ermine robe and the royal crown of Deponya, he stood out among the other ponies to say the least, as did his entourage. Grimhoof, however, chose to not pay it much mind, instead greeting River Swirl as he would distant family members that he had not seen in a long while, no matter who they were. While all smiles, he noticed how so many of the delegates were tense. Poor River Swirl was dealing with the fallout of her strange system of governance, the Bakarans were having their own issues, the bloody tragedy in Longsword was ever unfolding before all their eyes. And he knew how likely it was that it would spillover in Hellquill.\n\nGrimhoof hoped that this unease was a passing thing, and that the future was going to look bright for them. Yet if it wasn't, then the coalition needed to hold."
 coltstream.11.a:0 "We must hope they all remember."
 
-coltstream.12.t:0 "A Warm Welcome"
-coltstream.12.d:0 "There were good days and bad days. Mostly mediocre days though, but despite this, it was a good day today. She had looked forward to a few days away from the leftist hotbed that was Rijekograd and in relaxing conditions as the medieval town of Coltstream was arrayed before her. A few hours of boring meetings, but other than that, three relaxing weeks of nothing while Iron Hoof ran the show. There would be a price to pay for it in the end but that lay in the future.\n\nAnd the high point had been the arrival of Water Lily. They both led their nations against the communist hordes. They both were harmonists in a world and continent that was decidedly hostile to those same ideas. And they were both facing a tough reelection fight between communists, military, business interests and all the other groups they had to keep track of and defeat.\n\nThe biggest lie is that negotiation happens in the open. Most happens in backrooms and built up on friendships, drinks and shared enemies. Perhaps this was why Bakara and the Republic worked so well lately. But the time for waiting was over. They had all arrived, the monks, the pegasi and even the more...traditional heads of state from the three Kingdoms. The summit was soon to begin."
-coltstream.12.a:0 "Splendid"
+coltstream.12.t:0 "따뜻한 환영인사"
+coltstream.12.d:0 "좋은 날도 있고 나쁜 날도 있었습니다. 요즘 대부분은 썩 좋지 않은 날들이었지만 그럼에도 불구하고, 오늘은 기분좋은 하루였습니다. 그녀는 리예코그라드라는 좌파들의 온상에서 며칠 떨어진 곳에 있는 중세풍 마을인 콜트스트림에 도착하기 전 즐거운 기분으로 지낼 수 있기를 기대했습니다. 몇 시간 동안의 지루한 회의가 있었지만, 그 외에는 아이언 후프가 잡다한 일을 맡고있을 동안 3주간의 편안한 휴가가 있었습니다. 대가를 치르게 되겠지만 그것은 나중의 일이였습니다.\n\n가장 기뻤던 것은 워터 릴리의 도착이었습니다. 그들은 둘 다 공산주의 파벌에 맞서 나라를 이끌어왔으며 그러한 사상에  분명하게 적대적인 대륙의 조화주의자였습니다. 그리고 둘 다 공산주의자, 군대, 국가기관, 타도시켜야 하는 다른 모든 파벌들 사이에서 힘든 재선거 싸움에 직면해 있었습니다.\n\n가장 잘못 알려진 편견이 바로 타협과 협조는 공적 자리에서 일어난다는 것입니다. 실제로는 대부분 사적인 자리에서 일어나며 서로 우정, 술, 그리고 공동의 적을 만들면서 형성됩니다. 아마도 이것이 그들이 바카라와 리버 공화국을 지금까지 잘 이끌어왔던 이유일 것입니다. 하지만 기다리는 시간은 끝이 났습니다. 승려, 페가수스들, 그리고 세 왕국의 혈통있는 국가 원수들도 모두 도착했습니다. 정상회담이 곧 시작될겁니다."
+coltstream.12.a:0 "훌륭하군"
 
 coltstream.13.t:0 "The Missing President"
 coltstream.13.d:0 "There were good days and bad days. Mostly mediocre days though, and this day was just one such mediocre day. She had looked forward to a few days away from the leftist hotbed that was Rijekograd and in relaxing conditions as the medieval town of Coltstream was arrayed before her. A few hours of boring meetings, but other than that, three relaxing weeks of nothing while Iron Hoof ran the show. There would be a price to pay for it in the end but that lay in the future.\n\nIt was a shame that Water Lily hadn't shown up then. She had looked forward to the two getting to vent their shared frustrations with their shared adversaries and their unique national ones. A way to talk out all the things that would be a catastrophe to say out loud in public.\n\nA damn shame."
@@ -746,7 +746,7 @@ coltstream.16.d:0 "Pegicles had decided to fly with his entourage to the summit.
 coltstream.16.a:0 "Let’s proceed."
 
 coltstream.17.t:0 "따뜻한 인사말"
-coltstream.17.d:0 "워터 릴리가 콜트스트림으로 그녀를 데려다 준 여객선에서 내렸을 때, 그녀는 그녀를 만나기 위해 부두에서 기다리는 리버 스월을 보았습니다. "다시 보니 반갑네." 리버 스월은 그녀의 목소리에 분명히 안도감을 느끼며 말했습니다. "솔직히, 난 너가 시간 내서 여기까지 올 줄은 몰랐어." 그녀는 인사를 하며 한 발짝 앞으로 다가왔습니다.\n\n"장난해?" 워터 릴리가 물었습니다. "세상을 위해서라면 절대 이 기회를 놓치지 않을 거라고!"\n\n리버 스월이 빙그레 웃었습니다. "저 위쪽 상황이 그렇게 안 좋아?" 워터 릴리는 발굽으로 악수를 하며 다정히 웃었습니다.\n\n"내가 감당하지 못하는 건 없어." 워터 릴리는 무시하듯 발굽을 흔들었습니다. "단지 몇 개의 떠들썩한 동맹국 회의론자들만이 전부지. 물론, 이곳도 소풍 같은 분위기는 아니라고 들었어. HSR이 들어오기 힘든 곳인 것 같네." 리버 스월은 다 알고 있다는 듯이 고개를 끄덕였습니다. "어떤 일을 하든 모든 포니들을 만족시킬 수는 없는 것 같아."\n\n"고마워. 우린 우리 정부의 친구와 조금... 문제가 생겼었어." 리버 스월의 목소리는 약간 긴장되었습니다. "하지만, 결국 냉정한 사고와 판단력이 승리할 것이라고 난 확신해." 그녀는 잠시 먼 곳을 응시했습니다. "정치 문제에 대해서는 이제 충분해! 나중에라도 이야기할 시간은 차고 넘칠거야. 우선, 우리 모두 오늘 밤 근사한 국빈 만찬을 즐기러 가자고."\n\n"그거 정말 군침이 싹 도네" 워터 릴리가 호기심에 차서 말했습니다. "메뉴가 뭐야? '데포냐'는 아니길 빌게." 두 사람은 부두를 떠나 함께 걸으면서 깔깔 웃었습니다."
+coltstream.17.d:0 "워터 릴리가 콜트스트림으로 그녀를 데려다 준 여객선에서 내렸을 때, 그녀는 그녀를 만나기 위해 부두에서 기다리는 리버 스월을 보았습니다. "다시 보니 반갑네." 리버 스월은 그녀의 목소리에 분명히 안도감을 느끼며 말했습니다. "솔직히, 난 너가 시간 내서 여기까지 올 줄은 몰랐어." 그녀는 인사를 하며 한 발짝 앞으로 다가왔습니다.\n\n"장난해?" 워터 릴리가 물었습니다. "세상을 위해서라면 절대 이 기회를 놓치지 않을 거라고!"\n\n리버 스월이 빙그레 웃었습니다. "저 위쪽 상황이 그렇게 안 좋아?" 워터 릴리는 발굽으로 악수를 하며 다정히 웃었습니다.\n\n"내가 감당하지 못하는 건 없어." 워터 릴리는 무시하듯 발굽을 흔들었습니다. "단지 몇 개의 떠들썩한 동맹국 회의론자들만이 전부지. 물론, 이곳도 소풍 같은 분위기는 아니라고 들었어. HSR이 들어오기 힘든 곳인 것 같네." 리버 스월은 다 알고 있다는 듯이 고개를 끄덕였습니다. "어떤 일을 하든 모든 포니들을 만족시킬 수는 없는 것 같아."\n\n"고마워. 우린 우리 정부의 친구와 조금... 문제가 생겼었어." 리버 스월의 목소리는 약간 긴장되었습니다. "하지만, 결국 냉정한 사고와 판단력이 승리할 것이라고 난 확신해." 그녀는 잠시 먼 곳을 응시했습니다. "정치 문제에 대해서는 이제 충분해! 나중에라도 이야기할 시간은 차고 넘칠거야. 우선, 우리 모두 오늘 밤 근사한 국빈 만찬을 즐기러 가자고."\n\n"그거 정말 군침이 싹 도네" 워터 릴리가 호기심에 차서 말했습니다. "메뉴가 뭐야? '데포니아'는 아니길 빌게." 두 사람은 부두를 떠나 함께 걸으면서 깔깔 웃었습니다."
 coltstream.17.a:0 "여기 오길 잘했어!"
 
 coltstream.18.t:0 "Summit Arrivals"
@@ -776,7 +776,7 @@ coltstream.23.d:0 "Grimhoof wondered if he was the sole delegate who asked for n
 coltstream.23.a:0 "Deponya is a friend to all, in equal measure."
 
 coltstream.24.t:0 "사실상의 휴가"
-coltstream.24.d:0 "몇몇 포니들에게는, 정상회담은 성가신 일이였습니다.\n\n또다른 포니들에게는, 그것은 더 큰 이익을 위한 의무였습니다.\n\n리버스월에게는, 이것은 사실상 휴일이었습니다.\n\n사보르의 적대적인 분위기와, 노바 월과의 논쟁에서의 끈임없는 고통은, 맛있는 음식과 포도주가 있는 작고 조화로운 도시, 심지어 외교 중의 일상적인 공손함마저도 리버 스월을 크게 달래주었습니다. 레이크 시티와 데포니아의 오랜 친구들과 오랫동안 보지 못했던 외교단과, 모든 지도자들이 체면을 지키기 위해 그들 직무의 일환으로 참석해야 했던 저녁 만찬에서 함께 이야기했습니다. 그녀는 18년 전 리예칸의 정치현장에서 그녀의 의석인 두브로브네이 서부로 선출된 발랄했던 아가씨로 느껴질 뻔까지 했습니다.\n\n이 문제를 쓸데없는 일로 삼았던 페기클레스와 다이아몬드쉴드를 포함한 모든 이에게 리버 스월은 정상회담을 개최할 수 있어 기쁨이자 영광이라고 확신했습니다. 그리폰들을 견제하기 위한 석탄철강공동체와 과학회의 두 기관의 통합을 위한 작은 회의였지만 말입니다.\n\n그 회담은 정말 즐거웠습니다. 국제 정치에 대해 긴 시간 동안 이야기를 나누며 그들과 곧 맞닥뜨리게 될 공산주의자들의 운명에 대해 논의했습니다. 리버 스월의 입장에서는, 이것은 수다, 와인, 파티, 그리고 때때로 일과 관련된 책무의 일주일이였습니다."
+coltstream.24.d:0 "몇몇 포니들에게는, 정상회담은 성가신 일이였습니다.\n\n또다른 포니들에게는, 그것은 더 큰 이익을 위한 의무였습니다.\n\n리버스월에게는, 이것은 사실상 휴일이었습니다.\n\n사보르의 적대적인 분위기와, 노바 월과의 논쟁에서의 끈임없는 고통은, 맛있는 음식과 포도주가 있는 작고 조화로운 도시, 심지어 외교 중의 일상적인 공손함마저도 리버 스월을 크게 달래주었습니다. 레이크 시티와 데포니아의 오랜 친구들, 오랫동안 보지 못했던 외교단과, 모든 지도자들이 체면을 지키기 위해 그들 직무의 일환으로 참석해야 했던 저녁 만찬에서 함께 이야기했습니다. 그녀는 18년 전 리예칸의 정치현장에서 그녀의 의석인 두브로브네이 서부로 선출된 발랄했던 아가씨로 느껴질 뻔까지 했습니다.\n\n이 문제를 쓸데없는 일로 삼았던 페기클레스와 다이아몬드쉴드를 포함한 모든 이에게 리버 스월은 정상회담을 개최할 수 있어 기쁨이자 영광이라고 확신했습니다. 그리폰들을 견제하기 위한 석탄철강공동체와 과학회의 두 기관의 통합을 위한 작은 회의였지만 말입니다.\n\n그 회담은 정말 즐거웠습니다. 국제 정치에 대해 긴 시간 동안 이야기를 나누며 그들과 곧 맞닥뜨리게 될 공산주의자들의 운명에 대해 논의했습니다. 리버 스월의 입장에서는, 이것은 수다, 와인, 파티, 그리고 때때로 일과 관련된 책무의 일주일이였습니다."
 coltstream.24.a:0 "일과 삶은 공존할 수 없다고 누가 그러던가요?"
 
 coltstream.25.t:0 "The Summit"
@@ -797,10 +797,10 @@ coltstream.28.a:0 "If we don't stand for what's right, what do we stand for?"
 
 coltstream.29.t:0 "정상 회담"
 coltstream.29.d:0 "이제 연합국의 멤버들이 모두 자리를 잡아 콜트스트림 정상회담이 본격적으로 시작됐습니다. 이미 정상회담에서는 외교 활동이 활발해졌습니다. 소식통에 따르면 참석자들 사이에 수완을 가리지않는 거래가 있었으며 대부분의 참석자들의 최우선 목표는 상대 연합국으로부터 양보를 얻는 것으로 보였습니다. 바라건대 그들은 우리 서부 국경과 가까운 곳에서 해결해야 할 긴급한 상황들을 놓치지 않기를 바랍니다. 그 회담에서 우리측 대표는 서쪽에서 저질러진 잔학 행위를 규탄하는 어떠한 결정도 시도하고 지원하라는 지시를 받았습니다. 이런 문제에 대한 2차 회의가 이날 오후 늦게 열릴 예정이지만 최종 합의는 어떤 모습일지 지켜봐야 할겁니다."
-coltstream.29.a:0 "이 다음에 무슨일이?"
+coltstream.29.a:0 "이 다음 무슨일이?"
 
 coltstream.30.t:0 "동맹답지 않은 동맹"
-coltstream.30.d:0 "정상회담은 많은 회의들로 이루어졌고, 그 중 많은 논의들은 양자간 협상이 이루어지도록 했습니다. 하지만, 한 가지 주요 이벤트가 있었는데, 이 회의에서의 결론이 정상회담의 최종 선언문 초안으로 작성될 것입니다.\n\n각자가 한번씩 발언했습니다. 올해의 사회자로써 리버 스월은 소극적이지만 명랑한 연설로 문을 열었습니다. 다음 발언은 스트래티고스 페기클레스로, 조약에 대한 엄격한 해석과 노예제도의 인식된 비판에 대한 방어 의식으로 회의장을 살벌한 분위기로 만들었습니다. 그림후프 왕이 이어서 서쪽의 문제와 롱소드에서의 학살 문제에 대한 논의를 제시하고 주제를 바꾸려고 했습니다. 워터 릴리 지도자는 이에 대해 단언하고 도덕적인 리더십과 그러한 잔학 행위를 예방할 필요성에 대해 말했습니다. 화이트 스타 여왕도 롱소드를 비난했지만 그리피안의 습격 문제에 중점을 맞췄고 이에 대한 논란의 여지는 없었습니다. 크림슨 닉 하트 수상은 남부지역의 외이스튀를란드와 바라드에서 일어난 범죄와 함께, 무장단체인 카사와의 관계 개선에 대해 논쟁중인 의견을 자세히 검토해보라고 조언했습니다. 로버 다이아몬드쉴드 왕은 공개적으로 자신의 왕국에 대한 모욕과 노예제도의 지속적인 사용에 대한 비판에 질색하면서, 그의 동맹국들이 대신 자신들의 군사비 지출을 부담해줄 것을 요구했습니다. 조용한 스프링타임 프로스트 시장만 남은 가운데 정상회담은 마치 좋지 않은 결말로 끝날 것 같았고 조용했던 시장은 대신 서남쪽의 잔혹 행위, 민주주의의 중요성과 아름다움, 그리고 동맹국들 사이 보다 가까운 유대관계 형성을 바라는 자신의 열망을 드러낸 열정적인 연설을 했습니다.\n\n이 마지막 연설은 참석자들을 침묵하게 만들었고 로버 왕의 못마땅함에도 불구하고 작은 박수갈채를 유발했습니다. 그것은 결국 현 상황에 대해 현실적인 지도자와 연합국 중 가장 호전적인 국가 사이의 합의가 이루어졌던 드문 순간이었습니다.\n\n이제 연합국의 기자들이 최종 선언문의 초안을 작성하게 되었습니다."
+coltstream.30.d:0 "정상회담은 많은 회의들로 이루어졌고, 그 중 많은 논의들은 양자간 협상이 이루어지도록 했습니다. 하지만, 한 가지 주요 이벤트가 있었는데, 이 회의에서의 결론이 정상회담의 최종 선언문 초안으로 작성될 것입니다.\n\n각자가 한번씩 발언했습니다. 올해의 사회자로써 리버 스월은 소극적이지만 명랑한 연설로 문을 열었습니다. 다음 발언은 스트래티고스 페기클레스로, 조약에 대한 엄격한 해석과 노예제도의 인식된 비판에 대한 방어 의식으로 회의장을 살벌한 분위기로 만들었습니다. 그림후프 왕이 이어서 서쪽의 문제와 롱소드에서의 학살 문제에 대한 논의를 제시하면서 주제를 바꾸려고 했습니다. 워터 릴리 지도자는 이에 대해 단언하고 도덕적인 리더십과 그러한 잔학 행위를 예방할 필요성에 대해 말했습니다. 화이트 스타 여왕도 롱소드를 비난했지만 그리피안의 습격 문제에 중점을 맞췄고 이에 대한 논란의 여지는 없었습니다. 크림슨 닉 하트 수상은 남부지역의 외이스튀를란드와 바라드에서 일어난 범죄와 함께, 무장단체인 카사와의 관계 개선에 대해 논쟁중인 의견을 자세히 검토해보라고 조언했습니다. 로버 다이아몬드쉴드 왕은 공개적으로 자신의 왕국에 대한 모욕과 노예제도의 지속적인 사용에 대한 비판에 질색하면서, 그의 동맹국들이 대신 자신들의 군사비 지출을 부담해줄 것을 요구했습니다. 조용한 스프링타임 프로스트 시장만 남은 가운데 정상회담은 마치 좋지 않은 결말로 끝날 것 같았고 조용했던 시장은 대신 서남쪽의 잔혹 행위, 민주주의의 중요성과 아름다움, 그리고 동맹국들 사이 보다 가까운 유대관계 형성을 바라는 자신의 열망을 드러낸 열정적인 연설을 했습니다.\n\n이 마지막 연설은 참석자들을 침묵하게 만들었고 로버 왕의 못마땅함에도 불구하고 작은 박수갈채를 유발했습니다. 그것은 결국 현 상황에 대해 현실적인 지도자와 연합국 중 가장 호전적인 국가 사이의 합의가 이루어졌던 드문 순간이었습니다.\n\n이제 연합국의 기자들이 최종 선언문의 초안을 작성하게 되었습니다."
 coltstream.30.a:0 "언론사에 가서 한번 읽어봐야겠군"
 coltstream.31.b:0 "언론사에 가서 한번 읽어봐야겠군"
 
@@ -822,7 +822,7 @@ coltstream.34.d:0 "As the summit drew to an end, Grimhoof could not deny that he
 coltstream.34.a:0 "As Deponya was, so she will be."
 
 coltstream.35.t:0 "휴일의 끝"
-coltstream.35.d:0 "모든 휴가와 휴일의 공통점은 어느 시점에 끝이난다는 것입니다.\n\n그리고 정상회담이 끝나면서, 리버 스월의 휴일도 끝이 났습니다. 리예코그라드의 앞날에 기대할 것은 그리 많지 않았습니다. 사보르 외부의 끈임없는 SKR 무리의 시위대가 HSR을 공격 할 때마다 노바 월은 기세양양한 표정을 지었습니다. \n\n리버 스월은 한숨을 내쉬고는 리예코그라드로 향하는 기차에 올라탔습니다. 그 곳엔 항상 또 다른 싸움이 있었고, 항상 또 다른 하루가 있었고, 항상 또 다른 계획이 있었습니다."
+coltstream.35.d:0 "모든 휴가와 휴일의 공통점은 어느 시점에 끝이난다는 것입니다.\n\n그리고 정상회담이 끝나면서, 리버 스월의 휴일도 끝이 났습니다. 리예코그라드의 앞날에 기대할 것은 그리 많지 않았습니다. 사보르 외부의 끈임없는 SKR 무리의 시위대가 HSR을 공격 할 때마다 그들의 배후에 있던 노바 월은 기세양양한 표정을 지었습니다. \n\n리버 스월은 한숨을 내쉬고는 리예코그라드로 향하는 기차에 올라탔습니다. 그 곳엔 항상 또 다른 싸움이 있었고, 항상 또 다른 하루가 있었고, 항상 또 다른 계획이 있었습니다."
 coltstream.35.a:0 "하루만 지나면"
 
 coltstream.36.t:0 "The Trot Back Home"
