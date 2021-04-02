@@ -325,11 +325,11 @@
  RIV_join_river_union_decision:0 "리버 연합 가입"
  RIV_join_river_government_decision:0 "연합 정부와의 통합"
  RIV_join_riv_centeral_bank_decision:0 "리버 중앙은행 도입"
- RIV_sign_beings_rights_decision:0 "권리 선언문 "
+ RIV_sign_beings_rights_decision:0 "권리 선언문 작성"
  RIV_leave_federation_decision:0 "리버 연합 탈퇴"
  RIV_join_federation_decision:0 "리버 동맹 가입"
 
- RIV_expand_fed_decisions:0 "북부로의 회원국 제안"
+ RIV_expand_fed_decisions:0 "북방으로의 회원국 제안"
  RIV_invite_country_decision:0 "[From.GetName]에게 회원국 제안"
  RIV_invite_country_decision_desc:0 "공식적으로 [From.GetName]을(를) 콜트스트림 조약 회원으로 초대합니다." 
 
