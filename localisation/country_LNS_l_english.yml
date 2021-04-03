@@ -709,7 +709,7 @@ LSC_fascist_education_desc:0 "적색당과 백색당 모두 어떤 면에서는 
 LSC_interspecies_study_groups:0 "종간 연구모임"
 LSC_interspecies_study_groups_desc:0 "포니와 그리폰이 바르타이에 함께 산 지가 수백년이 넘었는데 아직까지 아무도 이들의 재능과 마법을 하나로 합칠 생각을 못 했다는 것이 황당할 지경입니다. 그리폰과 포니를 통합시키기 위한 의무적인 종간 연구모임을 모든 교육시설에 설립해 이 실수를 바로잡아야 합니다."
 LSC_pantheon_construction:0 "새 만신전 건설"
-LSC_pantheon_construction_desc:0 "이 땅에는 그리폰의 창조신들을 섬기는 포니들이 있고, 리버랜드의 만신전에 기도를 올리는 그리폰들도 있습니다. 골든 모닝은 본인 또한 그리폰 신들과 바레네를 동시에 섬기고 있으며 이 두 신앙이 충분히 하나로 호환될 수 있으며 우리의 목적을 위해서 이들을 합쳐 하나의 신앙으로 재건해야 한다고 주장합니다.  
+LSC_pantheon_construction_desc:0 "이 땅에는 그리폰의 창조신들을 섬기는 포니들이 있고, 리버랜드의 만신전에 기도를 올리는 그리폰들도 있습니다. 골든 모닝은 본인 또한 그리폰 신들과 바레네를 동시에 섬기고 있으며 이 두 신앙이 충분히 하나로 호환될 수 있으며 우리의 목적을 위해서 이들을 합쳐 하나의 신앙으로 재건해야 한다고 주장합니다."
 LSC_language_reconstruction:0 "언어의 변환"
 LSC_language_reconstruction_desc:0 "국가 변혁은 공사 구분없이 사회와 삶의 모든 부분에 뿌리내려야만 합니다. 우리가 사용하는 언어마저도 우리의 정체성을 변화시키기에 우리는 언어조차 통제해야 합니다. 학습 자료 겸 언어 표준화 작업을 위한 책과 사전이 제작될 것이며 "포니"와 "그리폰" 이라는 단어는 전부 삭제될 것입니다. 우리는 그저 "생물" 입니다.."
 LSC_ideocracy:0 "이념정치"
@@ -939,7 +939,7 @@ LSM_landtag:0 "Restore the Tradition of Landtags"
 LSM_landtag_desc:0 "The Komturs and the Ritterschaftsausschuss are not enough for proper governance of a realm as diverse in conditions, religious, racial composition and knightly influence as Longsword. It only makes sense that with such issue, the old tradition of Landtags should be instituted again, for better regional governance."
 	
 
-LSM_go_with_silvertalon:0 "실버탈론과 "
+LSM_go_with_silvertalon:0 "실버탈론과 함께하다"
 LSM_go_with_silvertalon_desc:0 "General Conrad Silvertalon sees in Longsword a chance to restore its honor. The military will oversee a transformation of the state into a democratic, harmonious government."
 LSM_provisional_government:0 "Form the Provisional Government"
 LSM_provisional_government_desc:0 "A path to a harmonious and democratic government is long and hard, especially for place as brutalized as Longsword. For now an interim government will have to do."
