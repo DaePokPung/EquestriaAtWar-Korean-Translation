@@ -335,7 +335,7 @@
  RCT_red_saturday:0 "붉은 토요일"
  RCT_red_saturday_desc:0 "여느 토요일과 같았습니다. 사보르는 리예코그라드에서 최근의 정치적 발전과 리버 사회당의 급속한 대두를 논의하기 위한 회의를 준비했습니다. 그때, 무슨 일이 일어났습니다..."
  
- RCT_proletarian_dictatorship:0 "프롤레테리안 독재"
+ RCT_proletarian_dictatorship:0 "프롤레타리아 독재"
  RCT_proletarian_dictatorship_desc:0 "리예코그라드의 노동자들이여, 잠에서 깨어나라! 우린 너무 오랫동안 고통받아왔다. 혁명의 때가 왔으니 일어나서 무기를 들어라! 거리에는 쓰레기 부르주아 놈의 피가 흥건히 흐르리라! 노바 월 및 동료 반역자들을 법정에 세워라!"
  
  RCT_the_commissars:0 "정치 위원"
@@ -474,31 +474,31 @@
  
  # Industry foci
  RCT_industry_start:0 "경제 개혁 재개"
- RCT_industry_start_desc:0 "Our economy grew greatly during Chancellor River Swirl's term. This development needs to continue, so more reforms shall be enacted to ensure our modernization."
+ RCT_industry_start_desc:0 "우리 경제는 리버 스월 수상의 임기 동안 크게 성장했습니다. 이러한 발전은 계속되어야 하며, 우리의 현대화를 촉진시키기 위해 더 많은 개혁법이 제정되어야 합니다."
  
  RCT_industry_electronics:0 "KONJČAR 국유화"
- RCT_industry_electronics_desc:0 "KONJČAR is a manufacturer of electrical components and has grown quickly in recent years, yet has become rather indebted. We must secure the supply of vital parts by nationalizing the company and taking care of their debts."
+ RCT_industry_electronics_desc:0 "KONJČAR은 전기 부품 제조업체로 최근 몇 년 동안 빠르게 성장했지만, 상당한 빚을 지고 있습니다. 우리는 이 회사의 국유화와 부채 탕감을 통해 필수적인 부품의 공급을 확보해야 합니다."
  
  RCT_industry_infrastructur:0 "기반시설 투자"
- RCT_industry_infrastructur_desc:0 "Riverlands are very mountainous, which makes roads expensive to build. Nevertheless, the importance of transport infrastructure cannot be overstated. Our national companies shall begin work immediately and connect our major cities and towns."
+ RCT_industry_infrastructur_desc:0 "리버랜드는 산맥이 매우 많아서 도로를 건설하는 데 비용이 많이 듭니다. 그럼에도 교통 기반시설의 중요성은 아무리 강조해도 지나치지 않습니다. 우리의 국가 기업들은 즉시 일을 시작하고 우리의 주요 도시와 지방을 연결할 것입니다."
  
  RCT_industry_civ_factories:0 "기계 산업 지원"
- RCT_industry_civ_factories_desc:0 "The mountains in our country provide much iron ore, which is refined into steel and then into machine parts. Production of engines, turbines, gears, pistons, tools and more is a vital sector of our economy. Its growth shall continue stronger than before with governmental support: Investments, debt relief and nationalization."
+ RCT_industry_civ_factories_desc:0 "우리나라의 산에서는 강철로 정제하고 기계 부품의 원료가 되는 철광석이 많이 산출됩니다. 엔진, 터빈, 기어, 피스톤, 공구 등의 생산은 우리 경제의 필수적인 부문입니다. 그것의 성장은 투자, 부채 경감 및 국유화등의 정부의 지원으로 이전보다 더욱 강하게 지속될 것입니다."
  
  RCT_industry_reduce_Illiteracy:0 "의무교육"
- RCT_industry_reduce_Illiteracy_desc:0 "During her last term River Swirl founded many public schools across the nation, but only a fraction of our foals attend them. A new law will make school attendance compulsory up to a certain age, for both fillies and colts."
+ RCT_industry_reduce_Illiteracy_desc:0 "리버 스월은 그녀의 지난 마지막 임기 동안 전국에 많은 공립학교를 설립했지만, 우리의 망아지들 중 극히 일부만이 이 학교에 다니고 있습니다. 새로운 법은 암망아지와 숫망아지 모두에 대해 특정 연령까지의 학교 출석을 의무화할 것입니다."
  
  RCT_industry_computing:0 "이퀘스트리아 컴퓨팅"
- RCT_industry_computing_desc:0 "During River Swirl's term some cooperation was established with Equestrian universities and schools, which were developing computing machines. Now our scientists are developing our very first analog computers based on western research. With our subsidies, they'll be able to make a breakthrough."
+ RCT_industry_computing_desc:0 "리버 스월의 임기 동안 이퀘스트리아의 대학 및 학교들과 협력 관계를 맺은 적이 있었는데, 그들은 컴퓨터 기계를 개발하고 있었습니다. 현재 우리의 과학자들은 서대륙의 연구를 기반으로 한 최초의 아날로그 컴퓨터를 개발하고 있습니다. 우리의 국가 보조금으로 그들은 빛을 볼 수 있을 것입니다."
  
  RCT_industry_all_in_one:0 "콜트스트림과 리제코그라드 연결"
- RCT_industry_all_in_one_desc:0 "While a regular road exists between Colstream and Rijekograd, a modern railroad should be constructed across the Griffking river. Colstream will become more tightly connected to the capital, allowing increased commerce and industrial cooperation between the two cities."
+ RCT_industry_all_in_one_desc:0 "콜트스트림과 리예코그라드 사이에  국도가 존재하지만, 현대식의 철도가 그리프킹 강을 가로질러 건설되어야 합니다. 콜트스트림은 수도와 더욱 밀접하게 연결되어 두 도시 사이의 상업과 산업 협력을 증대시킬 것입니다."
  
  RCT_industry_millitary_factories:0 "리버 무기 산업"
- RCT_industry_millitary_factories_desc:0 "Our military industry is average, but with the geopolitical situation changing it needs to improve. By imposing tariffs on foreign weapons and getting equipment for our army from domestic producers instead, we will encourage the growth of our arms industry."
+ RCT_industry_millitary_factories_desc:0 "우리의 군사산업은 평균적이지만 국제정세에 맞춰서, 우리는 발전해야 합니다. 외국산 무기에 관세를 부과하고 대신 국내 생산업체로부터 우리 군의 장비를 공급받음으로써, 우리는 우리의 무기 산업의 성장을 촉진할 것입니다."
  
  RCT_industry_reduce_poverty:0 "복지 프로그램"
- RCT_industry_reduce_poverty_desc:0 "Despite the growth of our economy many ponies continue to languish in poverty. With this new program we will pass a series of reforms aiming to improve the lives of our populace. Benefits, basic security and free public services for all!"
+ RCT_industry_reduce_poverty_desc:0 "우리의 경제 성장에도 불구하고 많은 포니들이 빈곤 속에서 계속 나약해지고 있습니다. 이 새로운 프로그램으로 우리는 국민들의 삶을 개선하기 위한 일련의 개혁안을 통과시킬 것입니다. 모두에게 이익이 되는 기본적인 안전 보장 및 무료 공공 서비스를 제공합니다!"
  
  RCT_industry_resource_tech:0 "지질 조사 실시"
  RCT_industry_resource_tech_desc:0 "We already know our many mountains contain countless riches, but using modern methods to carry out a comprehensive survey of the land will allow us to know exactly where these deposists are and what their size is. After the survey, we must decide how to invest our limited funds."
@@ -976,7 +976,7 @@
  rivercity.1930.b:0 "당장은 약간의 자본주의도 도입할 수는 있다..."
  
  rivercity.1931.t:0 "끈질긴 국가주의"
- rivercity.1931.d:0 "경비 병력과 프로파간다들의 최선의 노력에도 불구하고, 국가주의 저항 단체들은 계속해서 혁명에 위협이 되고 있습니다. 넓고 험준한 리버랜드는 그늘에서 활동하는 조직들에게 훌륭한 무대 공간을 제공하고있습니다. 불법 선전물 언론사를 하나폐쇄하면, 다른 곳에서는 총을 찾기 위해 무기고가 습격당하는 상황입니다. 우리는 반혁명적 위협을 뿌리뽑기 위해 별로 진전을 이루지 못하고 있는 것 같습니다. 사실, 수도의 일부 관료들은 우리의 노력을 중단하고 이 단체들과 협상해서 소요 사태를 막을 수 있도록 제안하고 있습니다. 물론 그렇게 되면 우리가 한 모든 진전을 잃게 될 것입니다."
+ rivercity.1931.d:0 "경비 병력과 프로파간다들의 최선의 노력에도 불구하고, 국가주의 저항 단체들은 계속해서 혁명에 위협이 되고 있습니다. 넓고 험준한 리버랜드는 그늘에서 활동하는 조직들에게 훌륭한 무대 공간을 제공하고있습니다. 불법 선전물 언론사를 하나 폐쇄하면, 다른 곳에서는 총을 찾기 위해 무기고가 습격당하는 상황입니다. 우리는 반혁명적 위협을 뿌리뽑기 위해 별로 진전을 이루지 못하고 있는 것 같습니다. 실제로, 수도의 일부 관료들은 우리의 노력을 중단하고 이 단체들과 협상해서 소요 사태를 막을 수 있도록 제안하고 있습니다. 물론 그렇게 되면 우리가 한 모든 진전을 잃게 될 것입니다."
  rivercity.1931.a:0 "우리는 테러리스트들과 협상하지 않는다."
  rivercity.1931.b:0 "다른 포니들이 더 피해를 입기 전에 나서야 한다."
  ### END COMMUNIST INTEGRATION OF THE RIVER FEDERATION ###
@@ -1079,7 +1079,7 @@
  #rivercity.28.a:0 ""
 
  #River War Games, every coalition member gets this
- rivercity.29.t:0 "River War Games"
+ rivercity.29.t:0 "리버 전쟁 게임"
  rivercity.29.d:0 "[RCT.GetNameDef] invited us to participate in a series of wargames to improve military readiness and cooperation between members of the River Coalition. The exercises were conducted without incident and have already highlighted several potential areas for improvement in our military."
  rivercity.29.a:0 "Good."
  
@@ -1345,13 +1345,13 @@
  
  RCT_golden_curtain_decision:0 "Guarantee [From.GetName]"
  
- RCT_emergency_powers:0 "Emergency Powers"
- RCT_invoke_emergency_powers:0 "Invoke the Emergency Powers"
+ RCT_emergency_powers:0 "비상권한법"
+ RCT_invoke_emergency_powers:0 "비상권한법을 공포합니다"
  
  #RCT_electioneering:0 "Snap Election"# Different duplicate from Eaw
  
  #### TOOL TIPS ####
- RCT_nova_hint:0 "§RCountries with Communist governments or with more than 30% Communism support will join with you. Others will declare war. Hope that your partisan efforts have weakened them sufficiently.§!\n"
+ RCT_nova_hint:0 "§R공산주의 정당이 집권하고 있거나 공산주의 정당 지지율이 30% 이상인 나라들이 여러분과 함께 할 것입니다. 이외의 국가들은 전쟁을 선포할 것입니다. 당신의 파르티잔 활동들이 그들을 충분히 약화시켰기를 바랍니다.§!\n"
  RCT_socialist_partisans:0 "We have begun to support Socialists Partisans"
  RCT_socialist_agitators:0 "We have begun to support Socialists Agitators"
  RCT_hector_revolted_against_you:0 "Hector has risen up in revolt against us"
@@ -1405,25 +1405,25 @@
  RCT_fabian:0 "This will allow you to make §Rsubtle socialist indoctrination§! a key part of Federation policy. If you are the first to implement a §YReform§! from the §Yshared Federation focus tree§!, that idea will §Rslowly convert anyone who accepts it to Socialism§!. " 
  RCT_solidarity_tooltip:0 "This will unlock decisions allowing you to §Ypeacefully integrate§! any Riverlands nations with more than 50% §RCommunist§! popularity."
  RCT_owns_the_riverlands:0 "The §Yoriginal§! §Ccapitals§! of §YLake City§!, §YDiamond Mountain§!, §YDeponya§!, §YRiver Republic§!, §YNimbusia§!, §YWittenland§! and §YPonadhain§! are controlled by either us or by one of our §Csubject states§!\n\n"
- RCT_army_special_forces_tt:0 "Gain 3 units with §Y6 Paratrooper§! battalions and §YRecon§!, §YArtillery§!, and §YEngineer§! companies.\n"
- RCT_sfodr_tt:0 "Gain an elite unit with §Y6 Paratrooper§! battalions, a §YRecon§! company and an §YUnicorn§! company.\n"
+ RCT_army_special_forces_tt:0 "§Y6 공수부대§!와 §Y정찰§!,§Y포병§!,§정비§!중대를 지니는 사단 3개를 얻습니다.\n"
+ RCT_sfodr_tt:0 "§Y6 공수부대§!와 §정찰§!중대, §유니콘§!중대를 지니는 정예 사단을 얻습니다.\n"
  RCT_ranger_regiment_tt:0 "Gain a unit with §Y9 Mountaineer§! battalions and §YRecon§!, §YArtillery§!, §YEngineer§! and §YUnicorn§! companies.\n"
  RCT_night_stalkers_tt:0 "Gain a unit with §Y9 Pegasi§! battalions and §YRecon§!, §YArtillery§!, §YEngineer§! and §YUnicorn§! companies.\n"
  RCT_marine_raiders_tt:0 "Gain a unit with §Y9 Marine§! battalions and §YRecon§!, §YArtillery§!, §YEngineer§! and §YUnicorn§! companies.\n"
  RCT_reals_tt:0 "Gain 6 elite units with §Y3 Marine§! battalions, a §YEngineer§! company and an §YUnicorn§! company.\n"
  RCT_force_recon_tt:0 "Gain a unit with §Y6 Marine§! battalions and §YRecon§!, §YEngineer§! and §YUnicorn§! companies.\n"
  RCT_dep_aid:0 "Aid from Deponya received"
- RCT_babushka:0 "Baba will be very happy!\n"
- RCT_babushka_mad:0 "Baba will be disappointed but she still loves you.\n"
- RCT_idiot:0 "You will find some low level administrator to fill the position.\n"
- Promoted_Cousin_Pumpkin:0 "Cousin Pumpkin has been given the job."
- Cousin_Pumpkin_timeout:0 "Baba would be very upset if you remove Cousin Pumpkin from her position. It's better to wait a while."
- pumpkin_swirl_trait:0 "Baba's Favorite"
+ RCT_babushka:0 "할머니는 매우 기뻐할 것입니다!\n"
+ RCT_babushka_mad:0 "할머니는 실망하겠지만 여전히 당신을 사랑할 겁니다.\n"
+ RCT_idiot:0 "공석을 채울 하위 직급의 행정관리자를 찾을 수 있을 것입니다.\n"
+ Promoted_Cousin_Pumpkin:0 "펌킨 사촌이 직무를 맡았습니다."
+ Cousin_Pumpkin_timeout:0 "당신이 펌킨 사촌을 직급에서 제거한다면 할머니는 매우 속상해 할 것입니다. 조금만 기다려보는게 좋겠습니다."
+ pumpkin_swirl_trait:0 "할머니의 보물"
  RCT_grovers_dead:0 "§Y그로버 5세§!가 죽었습니다"
- RCT_caramel_will_be_stronger:0 "§RThis may backfire, and it will embolden any Socialist resistance that survives.§!"
- RCT_harmonist_electioneering:0 "Slander The Socialists"
- RCT_socialist_electioneering:0 "Undermine The Government"
- RCT_coalition_government_tt:0 "During this focus, §Yevents§! and §Ydecisions§! will be available to help guide the nation's future and remove §YUnstable Government§!."
+ RCT_caramel_will_be_stronger:0 "§R이것은 역효과를 불러올 수있습니다, 소탕되지 못한 사회주의 저항단체들을 대담하게 만들 것입니다.§!"
+ RCT_harmonist_electioneering:0 "사회주의자들을 비방합니다"
+ RCT_socialist_electioneering:0 "정부를 약화시킵니다"
+ RCT_coalition_government_tt:0 "이 중점을 진행하는 동안 국가의 미래를 정하는 §Y이벤트§!와 §Y결정§!을 통해 §Y불안정한 정부§! 국민정신을 제거할 수 있습니다."
  
  RCT_destroyer_tt:0 "This Focus adds the Technology §YEarly Destroyer§! and then gives you a §G7% research bonus§! on your next research for destroyers."
  RCT_cruiser_tt:0 "This Focus adds the Technology §YEarly Cruiser§! and then gives you a §G7% research bonus§! on your next research for Cruisers."
@@ -1608,7 +1608,7 @@
  Equestria_exchange_mission_name:0 "The Equestrian Exchange"
  Equestria_exchange_mission_desc:0 "Rijekan and Equestrian scientists coordinate together, to help the harmonic Riverland nation to catch up to latest developments in Canterlot. Although the distant between the countries is vast, modern communication means that knowledge can still be shared effectively."
 
- Riverland_Socialist_Union:0 "Riverland Socialist Union"
+ Riverland_Socialist_Union:0 "리버랜드 사회주의 연합"
 
  RCT_EQS_Helped:0 "Equestrian Exchange"
  RCT_EQS_Helped_a_Lot:0 "Equestrian Exchange"
