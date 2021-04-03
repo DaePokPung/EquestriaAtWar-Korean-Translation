@@ -4,7 +4,7 @@
 ***
 
 # 공지사항
-- 21.03.12 기준 한패 업데이트되었습니다.
+- 21.04.03 기준 한패 업데이트되었습니다.
 
 # 번역 추천 국가
 현재 번역이 진행중인 국가 문서들입니다. 어떤 나라를 번역해야 할지 모르겠다면 아래 국가들의 번역에 참여해 주세요!
@@ -14,12 +14,12 @@
   - [뉴메어랜드 연방](localisation/country_EQC_l_english.yml)
   - [이퀘스트리아 해방전선](localisation/country_MAN&ELF_l_english.yml)
   - [스탈리온그라드](localisation/country_STG_l_english.yml)
-  - [예일 학장국](localisation/country_YAL_l_english.yml)
   - [베디나 공국](localisation/country_VED_l_english.yml)
   - [님부시아](localisation/country_NIM_l_english.yml)
   - [바카라](localisation/country_BAK_l_english.yml)
   - [롱소드 백국](localisation/country_LNS_l_english.yml)
   - [브론즈힐 백국](localisation/country_BRZ_l_english.yml)
+  - [앵그리버 남국](localisation/country_ANG_l_english.yml)
 
 ***
 
