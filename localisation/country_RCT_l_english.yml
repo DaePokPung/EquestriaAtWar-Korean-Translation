@@ -65,7 +65,7 @@
  RCT_union_control_desc:0 "노동 조합은 자주 개혁을 추진하면서 정치 내각에서 매우 활발해 졌습니다."
  RCT_our_socialism:0 "우리들의 사회주의"
  RCT_our_socialism_desc:0 "리버 공화국은 이제 희귀한 시장사회주의 국가입니다. 포니들은 행복하고 경제는 빠르게 성장하고 있습니다."
- RCT_cultural_divides:0 "강학 문화적 분리"
+ RCT_cultural_divides:0 "강한 문화적 분리"
  RCT_cultural_divides_2:0 "보통 문화적 분리"
  RCT_cultural_divides_3:0 "약한 문화적 분리"
  RCT_antisocialist_militia:0 "강력한 반사회주의 의용군"
@@ -1286,11 +1286,11 @@
  RCT_marine_raiders:0 "River Raiders"
  RCT_force_recon:0 "River Force Recon"
 
- RCT_electioneering:0 "The Snap Election"
- RCT_slander_socialists:0 "Slander The Socialists"
- RCT_slander_socialists_desc:0 "It is absolutely imperative that we win this election, or the Republic may fall to the forces of Communism! We will use every trick and resource available to us to win the public over, even if it means we have to borrow money to do it."
- RCT_undermine_government:0 "Undermine The Government"
- RCT_undermine_government_desc:0 "The Workers must be free, and winning this election would be a major step on the road to freedom for them. We must use any means necessary to overthrow the cruel system of capitalism."
+ RCT_electioneering:0 "갑작스러운 선거"
+ RCT_slander_socialists:0 "사회주의자 비방"
+ RCT_slander_socialists_desc:0 "이번 선거에서 반드시 우리가 승리해야 합니다. 그렇지 않으면 공화국이 공산주의의 세력에 넘어갈 것입니다! 공화국의 승리를 위해 우리가 돈을 빌리더라도 이용할 수 있는 모든 기술과 자원을 사용할 것입니다."
+ RCT_undermine_government:0 "정부 약화"
+ RCT_undermine_government_desc:0 "노동자들은 자유로워야 하며, 이번 선거에서 승리하는 것은 노동자들의 자유로 향하는 중요한 발걸음이 될 것입니다. 우리는 자본주의의 잔혹한 체계를 뒤엎기 위해 필요한 모든 수단을 동원해야 합니다."
  
  RCT_ally_trade:0 "Riverland Technological Exchange Program"
  RCT_DEP_trade:0 "The Olde Country"
@@ -1311,21 +1311,21 @@
  RCT_deal_with_dogs:0 "Deal with the Dogs"
  RCT_prepare_the_coup_dogs:0 "Prepare the Coup"
  
- RCT_agitators_partisans:0 "Spreading the Revolution"
- RCT_agitate_in_from:0 "Seed Agitators in [From.GetName]"
- RCT_militants_in_from:0 "Send Miltants into [From.GetName]"
+ RCT_agitators_partisans:0 "혁명 전파"
+ RCT_agitate_in_from:0 "[From.GetName]에 선동가 침투"
+ RCT_militants_in_from:0 "[From.GetName]에 무장세력 투입"
  
- RCT_KGB:0 "Anti-Capitalist Espionage"
- RCT_KGB_in_from:0 "Infiltrate Spies in [From.GetName]"
+ RCT_KGB:0 "반자본주의 첩보 활동"
+ RCT_KGB_in_from:0 "[From.GetName]에 스파이 침투"
  
- RCT_solidarity_decisions:0 "Solidarity in the Riverlands"
- RCT_integrate_someone:0 "Integrate [From.GetName]"
+ RCT_solidarity_decisions:0 "리버랜드의 결속"
+ RCT_integrate_someone:0 "[From.GetName] 합병"
  
- RCT_deal_with_crash:0 "A More Perfect Union"
- RCT_establish_monoculture:0 "Eradicate Nationalism"
- RCT_integrate_armies:0 "Unite The Armies"
- RCT_integrate_economies:0 "Spread Socialism"
- RCT_subdue_terrorists:0 "Subdue Reactionaries"
+ RCT_deal_with_crash:0 "좀 더 완벽한 연방"
+ RCT_establish_monoculture:0 "민족주의 근절"
+ RCT_integrate_armies:0 "군대 통합"
+ RCT_integrate_economies:0 "사회주의 전파"
+ RCT_subdue_terrorists:0 "반동분자 진압"
  
  RCT_magic_star_decisions:0 "Operation: Magic Star"
  RCT_magic_star_decisions_desc:0 "To the western marches of the Riverlands are the troublesome griffon knightly orders, a remainder of Grover the Second's legacy. They are certain to cause misery for ponies and they need to be dealt with, one way or the other. "
@@ -1346,7 +1346,7 @@
  RCT_golden_curtain_decision:0 "Guarantee [From.GetName]"
  
  RCT_emergency_powers:0 "비상권한법"
- RCT_invoke_emergency_powers:0 "비상권한법을 공포합니다"
+ RCT_invoke_emergency_powers:0 "비상권한법 공포"
  
  #RCT_electioneering:0 "Snap Election"# Different duplicate from Eaw
  
@@ -1421,8 +1421,8 @@
  pumpkin_swirl_trait:0 "할머니의 보물"
  RCT_grovers_dead:0 "§Y그로버 5세§!가 죽었습니다"
  RCT_caramel_will_be_stronger:0 "§R이것은 역효과를 불러올 수있습니다, 소탕되지 못한 사회주의 저항단체들을 대담하게 만들 것입니다.§!"
- RCT_harmonist_electioneering:0 "사회주의자들을 비방합니다"
- RCT_socialist_electioneering:0 "정부를 약화시킵니다"
+ RCT_harmonist_electioneering:0 "사회주의자 비방"
+ RCT_socialist_electioneering:0 "정부 약화"
  RCT_coalition_government_tt:0 "이 중점을 진행하는 동안 국가의 미래를 정하는 §Y이벤트§!와 §Y결정§!을 통해 §Y불안정한 정부§! 국민정신을 제거할 수 있습니다."
  
  RCT_destroyer_tt:0 "This Focus adds the Technology §YEarly Destroyer§! and then gives you a §G7% research bonus§! on your next research for destroyers."
