@@ -268,7 +268,7 @@ ANG_jet_fighters_desc:0 "After multiple prototypes and false-starts, the first e
 ANG_industrial_stuff:0 "경제 살리기"
 ANG_industrial_stuff_desc:0 "앵그리버의 경제는 그야말로 한심한 수준으로, 오랫동안 방치된데다 돌아다니는 도적떼도 많아 앵그리버의 경제는 완전 밑바닥으로 추락해버린 상태입니다. 심지어 헤르츠란트의 다른 국가들과 비교해봐도, 앵그리버는 제일 아래이지요. 앵그리버를 이러한 경제침체로부터 일으켜 세우지 못한다면, 앵그리버에 밝은 미래는 결코 찾아오지 않을 것입니다."
 ANG_clearing_out_shitforest:0 "샤이스발트 개간"
-ANG_clearing_out_shitforest_desc:0 "앵그리버의 국토 대부분은 숲으로 뒤덮여있어 개발에는 적합하지 않습니다. 대규모 벌채 작업을 진행한다면, 새 농장이나 목초지, 마을이 들어설 땅은 물론, 외국에 수출할 수 있는 목재도 얻을 수 있을 것입니다. 어차피 그런 어둡고 도적이 들끓는 숲을 좋아하는 자는 없으니까요"
+ANG_clearing_out_shitforest_desc:0 "앵그리버의 국토 대부분은 숲으로 뒤덮여있어 개발에는 적합하지 않습니다. 대규모 벌채 작업을 진행한다면, 새 농장이나 목초지, 마을이 들어설 땅은 물론, 외국에 수출할 수 있는 목재도 얻을 수 있을 것입니다. 어차피 그런 어둡고 도적이 들끓는 숲을 좋아하는 자는 없으니까요."
 ANG_electronics_research:0 "Electronic Experiments"
 ANG_electronics_research_desc:0 "Electronics have proven themselves to be vital to any modern state. Indeed electricity has transformed nearly every facet of daily life, and nations are quickly making advancements in the field. If we are to ever reach the same heights as the economic powerhouses of Griffonia an investment in the development of our own electronics would not be unwise."
 ANG_farmland:0 "Expanding the Farms"
