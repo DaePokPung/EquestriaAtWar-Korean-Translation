@@ -8,7 +8,7 @@ CHN_infantry_equipment_2:0 "머신피스톨레 1010"
 CHN_infantry_equipment_2_short:0 "MP 10"
 CHN_infantry_equipment_3:0 "머신피스톨레 1013"
 CHN_infantry_equipment_3_short:0 "MP 13"
-CHN_infantry_equipment_x:0 "머신피스톨레 1013"
+CHN_infantry_equipment_x:0 "슈투름게베어 1019"
 CHN_infantry_equipment_x_short:0 "STG 19"
 CHN_infantry_equipment_x_desc:0 "설계를 개선하고 무게를 줄인 덕분에 효율과 화력이 크게 향상되었습니다."
 infantry_equipment_x_2:0 "체인질링 돌격소총 1025"
@@ -51,7 +51,7 @@ CHN_support_weapons2:0 "MG 34 & 5 cm 중박격포 36"
 CHN_support_weapons3:0 "MG 42 & 8 cm 중박격포 34"
 CHN_support_weapons4:0 "MG 45 & 12 cm 중박격포 42"
 
-CHN_gw_tank_equipment:0 "제7 일반교통 및 군수송부"
+CHN_gw_tank_equipment:0 "제7 일반교통 및 군수송부 전차"
 CHN_gw_tank_equipment_desc:0 "A7V는 체인질링이 체인질링이 처음으로 생산한 전차입니다. 이제껏 체인질링의 산업 능력이 너무 뒤떨어져 주목할 만한 군사기술의 발전을 이끌어내지 못 했지만, 최근들어 여왕은 전체 군락의 목표를 급속한 산업화에 두었습니다. 그 덕에 체인질링군은 벡트 장군의 주도 하에 "트랙터"라는 코드명을 지닌 비밀 프로젝트를 수행할 수 있었고, 무장 차량과 포병기의 개발이 크게 진전되었습니다."
 CHN_gw_tank_equipment_short:0 "A7V"
 CHN_heavy_tank_artillery_equipment_2:0 "슈투름티거"
@@ -622,9 +622,9 @@ chn_queen_argynnis_desc:0 "군사 군락 브락스는 베살리폴리스의 오�
 chn_queen_yaria:0 "야리아 여왕"
 chn_queen_yaria_desc:0 "북부에서 가장 넓은 호수이자 마법의 힘이 깃들어있다고 알려진 키 호수의 해안가에 자리 잡은 소리스 군락의 여왕 야리아는 종족의 번영을 위해서 크리살리스에게 귀부 한 여왕 중 하나로 현재는 소리스의 미래를 위해서 수정의 힘을 연구하고 있습니다. 또한 야리아는 지난 수세기간 북부의 혹독한 기후에서 살아남기 위해 마법을 사용해온 군락의 역사적 경험으로 체인질링도 충분히 단련한다면 유니콘처럼 마법을 사용할 수 있다고 믿습니다."
 chn_spymaster:0 "바스피어 오른 클라디시움" 
-chn_spymaster_desc:0 "처음에는 체인질링의 고락 군락 근처 가장 시골지역에서 태어났지만, 아무도 Vaspier를 모를 순 있더라도 체인질링 행정의 핵심 인물입니다. 어린 나이부터 재빠른 판단력을 보인 후 고등 교육을 받기 위해 파견되었고, Vaspier는 곧 그의 나라의 정치적 투쟁에 관여하게 되었습니다. 그는 군락을 통합시키려는 크리살리스와 뻐르게 협력한 체인질링들 중 하나로, 그 때 부터 정보 수집가로 일했습니다. 이 처지에서 그는 체인질링 정보국, VOPS를 세워서 그를 무시할수 없는 존재로 만들었습니다. 사실은, 그가 크리살리스의 캔틀롯 첫 공격작전을 제안했습니다. 그 실패는 그의 위신을 실추시켰고, 그 이후로 여왕에게 도움이 되기 위해 더욱 열심히 일했습니다. 그리고 이 분야에서 그는 성공했습니다. VOPS는 주변에서 가장 비밀스러운 정보기관으로, 이로부터 그의 별명이 유래됬습니다."
+chn_spymaster_desc:0 "처음에는 체인질링의 고락 군락 근처 가장 시골지역에서 태어났지만, 아무도 바스피어를 모를 순 있더라도 체인질링 행정의 핵심 인물입니다. 어린 나이부터 재빠른 판단력을 보인 후 고등 교육을 받기 위해 파견되었고, 바스피어는 곧 그의 나라의 정치적 투쟁에 관여하게 되었습니다. 그는 군락을 통합시키려는 크리살리스와 뻐르게 협력한 체인질링들 중 하나로, 그 때 부터 정보 수집가로 일했습니다. 이 처지에서 그는 체인질링 정보국, VOPS를 세워서 그를 무시할수 없는 존재로 만들었습니다. 사실은, 그가 크리살리스의 캔틀롯 첫 공격작전을 제안했습니다. 그 실패는 그의 위신을 실추시켰고, 그 이후로 여왕에게 도움이 되기 위해 더욱 열심히 일했습니다. 그리고 이 분야에서 그는 성공했습니다. VOPS는 주변에서 가장 비밀스러운 정보기관으로, 이로부터 그의 별명이 유래됬습니다."
 chn_spymaster_lar:0 "바스피어 오른 클라디시움"
-chn_spymaster_lar_desc:0 "처음에는 체인질링의 고락 군락 근처 가장 시골지역에서 태어났지만, 아무도 Vaspier를 모를 순 있더라도 체인질링 행정의 핵심 인물입니다. 어린 나이부터 재빠른 판단력을 보인 후 고등 교육을 받기 위해 파견되었고, Vaspier는 곧 그의 나라의 정치적 투쟁에 관여하게 되었습니다. 그는 군락을 통합시키려는 크리살리스와 뻐르게 협력한 체인질링들 중 하나로, 그 때 부터 정보 수집가로 일했습니다. 이 처지에서 그는 체인질링 정보국, VOPS를 세워서 그를 무시할수 없는 존재로 만들었습니다. 사실은, 그가 크리살리스의 캔틀롯 첫 공격작전을 제안했습니다. 그 실패는 그의 위신을 실추시켰고, 그 이후로 여왕에게 도움이 되기 위해 더욱 열심히 일했습니다. 그리고 이 분야에서 그는 성공했습니다. VOPS는 주변에서 가장 비밀스러운 정보기관으로, 이로부터 그의 별명이 유래됬습니다."
+chn_spymaster_lar_desc:0 "처음에는 체인질링의 고락 군락 근처 가장 시골지역에서 태어났지만, 아무도 바스피어를 모를 순 있더라도 체인질링 행정의 핵심 인물입니다. 어린 나이부터 재빠른 판단력을 보인 후 고등 교육을 받기 위해 파견되었고, 바스피어는 곧 그의 나라의 정치적 투쟁에 관여하게 되었습니다. 그는 군락을 통합시키려는 크리살리스와 뻐르게 협력한 체인질링들 중 하나로, 그 때 부터 정보 수집가로 일했습니다. 이 처지에서 그는 체인질링 정보국, VOPS를 세워서 그를 무시할수 없는 존재로 만들었습니다. 사실은, 그가 크리살리스의 캔틀롯 첫 공격작전을 제안했습니다. 그 실패는 그의 위신을 실추시켰고, 그 이후로 여왕에게 도움이 되기 위해 더욱 열심히 일했습니다. 그리고 이 분야에서 그는 성공했습니다. VOPS는 주변에서 가장 비밀스러운 정보기관으로, 이로부터 그의 별명이 유래됬습니다."
 queen_helvia:0 "디트리시움의 여왕"
 queen_aurantia:0 "릭티다의 여왕"
 queen_yaria:0 "소리스의 여왕"
@@ -922,7 +922,7 @@ changelingattache.6.a:0 "절대로 안 된다! 그는 재고할 것이다!"
 changelingattache.6.b:0 "여왕과 문제가 생길 위험을 감수할 순 없다."
 
 changelingattache.7.t:0 "사격대"
-changelingattache.7.d:0 "오늘 해가 뜨기 시작할 쯤 Thranx장군이 베살리폴리스에 도착했습니다. 당연히 사슬에 묶인 채로 도착했습니다.그는 커다란 군락에게 호위를 받았고, 길을 따라 많은 체인질링들에게 조롱과 모욕을 당했습니다. 그가 여왕에게 끌려오고, 그녀의 얼굴에 대한 혐오감이 젊은 장군의 운명이 결정했습니다. 베살리폴리스에 도착한 지 20분도 되지 않아, 그는 눈가리개를 했고 야전 원수 Trimmel이 사격대를 지휘했습니다 . 커다란 총소리가 군락 전체에 메아리쳤고, Thranx는 더 이상 없었습니다."
+changelingattache.7.d:0 "오늘 해가 뜨기 시작할 쯤 Thranx 장군이 베살리폴리스에 도착했습니다. 당연히 사슬에 묶인 채로 도착했습니다.그는 커다란 군락에게 호위를 받았고, 길을 따라 많은 체인질링들에게 조롱과 모욕을 당했습니다. 그가 여왕에게 끌려오고, 그녀의 얼굴에 대한 혐오감이 젊은 장군의 운명이 결정했습니다. 베살리폴리스에 도착한 지 20분도 되지 않아, 그는 눈가리개를 했고 야전 원수 Trimmel이 사격대를 지휘했습니다 . 커다란 총소리가 군락 전체에 메아리쳤고, Thranx는 더 이상 없었습니다."
 changelingattache.7.a:0 "그를 잘 응대해 줘라."
 
 changelingattache.8.t:0 "그리포니아의 답장"
@@ -948,7 +948,7 @@ changelingattache.12.a_tt:0 "§Y두 개의 제국 의용병 사단§!이 소환�
 
 changelingattache.13.t:0 "여왕의 명령"
 changelingattache.13.d:0 "여왕은 두 지휘관인 Thranx 장군과 Synovial 원수를 포함한 체인질링-그리포니아 원정대의 귀환을 발표했습니다. 그녀는 더 이상 임무를 수행할 필요가 없다고 믿고 있으며, 체인질링의 노력이 이퀘스트리아에 완전히 집중되는 것이 최선이라고 믿고 있습니다."
-changelingattache.13.a:0 "At once my queen!"
+changelingattache.13.a:0 "알겠습니다, 여왕 폐하!"
 
 changelingattache.14.t:0 "조국의 부름"
 changelingattache.14.t_annex:0 "집이 없는 병사들"
@@ -1067,15 +1067,15 @@ changelings.61.d:0 "오늘 베살리폴리스의 군락도시 거리는 공중�
 changelings.61.a:0 "체인질링 여왕국에 영광을!"
 
 changelings.63.t:0 "토랙스파 추적"
-changelings.63.d:0 "크리살리스 여왕은 지금까지 본 것 중 가장 불쾌한 분위기로 VOPS 본부로 난입했습니다. 그녀는 바쁘게 보이려고 필사적으로 노력하는 체인질링들을 지나 걸어가다가 잠시 멈춰 그들을 경멸적으로 노려보고 난 후 VOPS 정보국장 바스피어 오른 클라디시움에게 다가갔습니다. 그녀는 바스피어의 사무실을 발로 차서 열고 마닐라지 폴더를 그의 책상 위에 올려놓았는데, 그녀의 마법으로 서류가 구겨지자 화가 나서 고함을 쳤습니다. Vaspier는 움찔했지만,  여왕이 말할 때까지 아무 말도 하지 않았습니다. 그녀가 화나 있을때 방해하는 것은... 현명하지 못합니다. "그가 도망쳤어," 크리살리스가 낮게 말했고, 그녀의 목소리는 죽은듯이 조용했습니다. "토랙스가 탈출했어."\n\nVaspier는 화가난 여왕을 달래려고 천천히 고개를 흔들었습니다. "여왕님, 저는 그를 찾으려고 노력을—"\n\n"조용히," 그녀는 거칠게 명령했습니다. "국장, 넌 실패했어. 나는 네가 무능하다는 걸 기억하기 전에 네가 직접 토랙스파들에게 총에 맞도록 할 생각이 반 정도 있었어. 난 아무도 너의 감시을 벗어날 수 없다고 생각했거든?"\n\n"제 실패를 용서해 주십시오," 그는 움찔하며 말했습니다. 맞서 싸우는 것보다 턱 위의 여왕의 모욕을 받아들이는 것이 낫습니다; 자신을 방어하는 것은 격노한 여왕의 눈에 반역이라고 쉽게 오해할 수 있습니다. "토랙스를 잡기 위한 작전을 전개하고 있었지만, VOPS의 누군가가 그에게 귀띔을 해준 것 같습니다; 그는 조직 내부에도 협력자들이 있습니다. 다시는 그런 일이 일어나지 않도록 중앙에서 요원들을 검토하는 중입니다."\n\n"애초에 내 정보기관에 토랙스 스파이가 있으면 안돼," 그녀가 싸늘하게 대답했습니다. "그것만으로는 네가 무엇을 하고 있는지 기대를 할 수 없다. 이 일은 제대로 끝내야 하니까, 어쨌든 내가 도와주지. 그는 조화주의 국가로 도망갈 것이니, 우리가 가진 모든 스파이를 이퀘스트리아, 크리스탈 제국, 야크야키스탄으로 보내라. 잠재적인 정치적 파장을 무시해라; 그들은 어쨌든 내부 반역자를 체포한다고 해서 전쟁을 선포하지는 않을 것이다."\n\n"전부요, 여왕님?" 바스피어가 되물었습니다.\n\n"전부!" 그녀는 거의 포효했다. "난 그가 지금 발견되고 처리되길 원해!"\n\n바스피어는 겸손하게 고개를 숙였다. "물론입니다, 폐하. 명령하겠습니다."\n\n만족했는지, 크리살리스가 떠나려고 돌아섰다. 그녀는 어깨 너머로 흘낏 돌아보았고, 그녀의 입에 사악한 미소가 스쳤습니다. "한 가지 더, 바스피어." 그는 조심스럽게 올려다 봤습니다. "그를 살려놔.""
+changelings.63.d:0 "크리살리스 여왕은 지금까지 본 것 중 가장 불쾌한 분위기로 VOPS 본부로 난입했습니다. 그녀는 바쁘게 보이려고 필사적으로 노력하는 체인질링들을 지나 걸어가다가 잠시 멈춰 그들을 경멸적으로 노려보고 난 후 VOPS 정보국장 바스피어 오른 클라디시움에게 다가갔습니다. 그녀는 바스피어의 사무실을 발로 차서 열고 마닐라지 폴더를 그의 책상 위에 올려놓았는데, 그녀의 마법으로 서류가 구겨지자 화가 나서 고함을 쳤습니다. 바스피어는 움찔했지만,  여왕이 말할 때까지 아무 말도 하지 않았습니다. 그녀가 화나 있을때 방해하는 것은... 현명하지 못합니다. "그가 도망쳤어," 크리살리스가 낮게 말했고, 그녀의 목소리는 죽은듯이 조용했습니다. "토랙스가 탈출했어."\n\n바스피어는 화가난 여왕을 달래려고 천천히 고개를 흔들었습니다. "여왕님, 저는 그를 찾으려고 노력을—"\n\n"조용히," 그녀는 거칠게 명령했습니다. "국장, 넌 실패했어. 나는 네가 무능하다는 걸 기억하기 전에 네가 직접 토랙스파들에게 총에 맞도록 할 생각이 반 정도 있었어. 난 아무도 너의 감시을 벗어날 수 없다고 생각했거든?"\n\n"제 실패를 용서해 주십시오," 그는 움찔하며 말했습니다. 맞서 싸우는 것보다 턱 위의 여왕의 모욕을 받아들이는 것이 낫습니다; 자신을 방어하는 것은 격노한 여왕의 눈에 반역이라고 쉽게 오해할 수 있습니다. "토랙스를 잡기 위한 작전을 전개하고 있었지만, VOPS의 누군가가 그에게 귀띔을 해준 것 같습니다; 그는 조직 내부에도 협력자들이 있습니다. 다시는 그런 일이 일어나지 않도록 중앙에서 요원들을 검토하는 중입니다."\n\n"애초에 내 정보기관에 토랙스 스파이가 있으면 안돼," 그녀가 싸늘하게 대답했습니다. "그것만으로는 네가 무엇을 하고 있는지 기대를 할 수 없다. 이 일은 제대로 끝내야 하니까, 어쨌든 내가 도와주지. 그는 조화주의 국가로 도망갈 것이니, 우리가 가진 모든 스파이를 이퀘스트리아, 크리스탈 제국, 야크야키스탄으로 보내라. 잠재적인 정치적 파장을 무시해라; 그들은 어쨌든 내부 반역자를 체포한다고 해서 전쟁을 선포하지는 않을 것이다."\n\n"전부요, 여왕님?" 바스피어가 되물었습니다.\n\n"전부!" 그녀는 거의 포효했다. "난 그가 지금 발견되고 처리되길 원해!"\n\n바스피어는 겸손하게 고개를 숙였다. "물론입니다, 폐하. 명령하겠습니다."\n\n만족했는지, 크리살리스가 떠나려고 돌아섰다. 그녀는 어깨 너머로 흘낏 돌아보았고, 그녀의 입에 사악한 미소가 스쳤습니다. "한 가지 더, 바스피어." 그는 조심스럽게 올려다 봤습니다. "그를 살려놔.""
 changelings.63.a:0 "분부대로 하겠습니다, 폐하."
 
 changelings.64.t:0 "토랙스 보고서"
-changelings.64.d:0 "§RTOP SECRET§!\n\n§RVOPS COMMAND EYES ONLY§!\n\n우리의 정보기관은 토랙스가 야크야키스탄에 있다고 추적했습니다. 요원들이 배치되었고 구할 수 있는 최고의 정찰 및 신호 장비와 클로로포름 및 기타 무력화 화학 물질을 갖추고 있었습니다. 작은 규모의 야크 주민들과 야크들이 이미 의심하고 있어서 침입이 어려워졌기 때문에, 많은 잡입자들이 인적이 드문 멀리서 머물면서 관찰했습니다. 우리는 토랙스가 이미 체인질링의 행동에 대해 루머를 퍼뜨려놓은 것으로 추측하고 있지만, 우리의 국경 근처의 야크들의 자연스럽게 피해망상적으로 변했을 가능성도 있습니다. 우리는 이 점에 대한 결정적인 증거가 없으므로 추가 조사에 맡기겠습니다.\n\n그럼에도 불구하고, 우리 요원들 중 한 명이 야키스타운에서 토랙스와 맞닥뜨렸씁니다. 불행하게도, 많은 수의 경호원이 토랙스가 그에게 잡히지 않도록 막았습니다. 토랙스는 우리 요원들에게 쫒기며, 남쪽으로 도망쳤습니다. 잘못된 의사소통으로 그는 크리스탈 제국으로 탈출했고, 그는 우리의 추격 요원들보다 빠르게 크리스탈 시티에 도착했습니다. 우리는 그가 그 도시를 이동 할 것이라고 생각했고, 그 도시에 먼저 스파이를 배치했습니다.\n\n암살을 하기 좋겠지만, 임무를 수행하려면 그를 살려두어야 했기 때문에, 선택할 수 없었습니다. 그는 자신의 대의에 동정을 표하고 크리살리스와 솜브라의 공통점을 찾은 케이던스 공주 앞에서 그의 상황이 진짜임을 알렸습니다. 크리스탈 시티에서 그를 잡으려는 시도는 지역 경비원이 개입하면서 실패로 돌아갔습니다. 토랙스는 케이던스에게 그를 납치하려 온 스파이들에게 자비를 베풀어달라고 재촉했고, 조화의 전형적인 나약함이 드러났습니다. 우리 요원은 간첩 혐의로 10년간 투옥되었으며, 조만간 그녀를 구출할 수 있기를 바랍니다.\n\n토랙스는 남부 이퀘스트리아로 여행했고, 그 길은 차가웠습니다. 그를 찾기 위한 모든 시도는 정보의 부족이 아니라, 엄청난 양의 잘못된 정보로 인해 좌절되었습니다. 발티메어, 라스 페가수스, 캔틀롯, 스탈리온그라드, 요틀란트, 심지어 베살리폴리스에서도 토랙스의 출현에 대한 보도가 쇄도했습니다. 이 중 일부는 대중의 과잉 흥분 신호일 수 있지만, VOPS를 마비시키기 위해 의도적으로 확산되었을 가능성이 있습니다. 유감스럽지만, 이것으로 크게 성공했습니다. 이 시점에서 우리는 집중조사할 곳이 없고, 토랙스가 대륙을 떠날 가능성이 있습니다."
-changelings.64.a:0 "크리살리스는 이것을 좋아하지 앟을 것이다..."
+changelings.64.d:0 "§R일급 기밀§!\n\n§RVOPS 지도부만 볼 것§!\n\n우리의 정보기관은 토랙스가 야크야키스탄에 있다고 추적했습니다. 요원들이 배치되었고 구할 수 있는 최고의 정찰 및 신호 장비와 클로로포름 및 기타 무력화 화학 물질을 갖추고 있었습니다. 작은 규모의 야크 주민들과 야크들이 이미 의심하고 있어서 침입이 어려워졌기 때문에, 많은 잡입자들이 인적이 드문 멀리서 머물면서 관찰했습니다. 우리는 토랙스가 이미 체인질링의 행동에 대해 루머를 퍼뜨려놓은 것으로 추측하고 있지만, 우리의 국경 근처의 야크들의 자연스럽게 피해망상적으로 변했을 가능성도 있습니다. 우리는 이 점에 대한 결정적인 증거가 없으므로 추가 조사에 맡기겠습니다.\n\n그럼에도 불구하고, 우리 요원들 중 한 명이 야키스타운에서 토랙스와 맞닥뜨렸씁니다. 불행하게도, 많은 수의 경호원이 토랙스가 그에게 잡히지 않도록 막았습니다. 토랙스는 우리 요원들에게 쫒기며, 남쪽으로 도망쳤습니다. 잘못된 의사소통으로 그는 크리스탈 제국으로 탈출했고, 그는 우리의 추격 요원들보다 빠르게 크리스탈 시티에 도착했습니다. 우리는 그가 그 도시를 이동 할 것이라고 생각했고, 그 도시에 먼저 스파이를 배치했습니다.\n\n암살을 하기 좋겠지만, 임무를 수행하려면 그를 살려두어야 했기 때문에, 선택할 수 없었습니다. 그는 자신의 대의에 동정을 표하고 크리살리스와 솜브라의 공통점을 찾은 케이던스 공주 앞에서 그의 상황이 진짜임을 알렸습니다. 크리스탈 시티에서 그를 잡으려는 시도는 지역 경비원이 개입하면서 실패로 돌아갔습니다. 토랙스는 케이던스에게 그를 납치하려 온 스파이들에게 자비를 베풀어달라고 재촉했고, 조화의 전형적인 나약함이 드러났습니다. 우리 요원은 간첩 혐의로 10년간 투옥되었으며, 조만간 그녀를 구출할 수 있기를 바랍니다.\n\n토랙스는 남부 이퀘스트리아로 여행했고, 그 길은 차가웠습니다. 그를 찾기 위한 모든 시도는 정보의 부족이 아니라, 엄청난 양의 잘못된 정보로 인해 좌절되었습니다. 발티메어, 라스 페가수스, 캔틀롯, 스탈리온그라드, 요틀란트, 심지어 베살리폴리스에서도 토랙스의 출현에 대한 보도가 쇄도했습니다. 이 중 일부는 대중의 과잉 흥분 신호일 수 있지만, VOPS를 마비시키기 위해 의도적으로 확산되었을 가능성이 있습니다. 유감스럽지만, 이것으로 크게 성공했습니다. 이 시점에서 우리는 집중조사할 곳이 없고, 토랙스가 대륙을 떠날 가능성이 있습니다."
+changelings.64.a:0 "여왕님이 좋아하시진 않겠는데..."
 
 changelings.65.t:0 "또다른 방법"
-changelings.65.d:0 "크리살리스는 개인 숙소에서 왔다갔다 했습니다. 한 버릇없는 유충이 모든 군대와 최고의 VOPS 요원들을 따돌렸습니다. 그들의 수많은 무능력자들! 그녀는 바보들, 어쩌면 반역자들에게 둘러싸여 있었습니다. 바스피어는 분명 배신자가 아니였지만, 토랙스가 그를 계속 피할 수 있었던 것은 그가 VOPS의 어딘가에서 내부 도움을 받은것이 아니가 의심하게 만들었습니다. 그녀는 한숨을 쉬며 여왕의 친위대장을 불렀습니다. "Dieter, 안으로 들어와."\n\n여왕의 친위대장이 인사하며 들어왔습니다. "여왕님, 무슨 일입니까?"\n\n"내가 믿을 수 있는 자는 너 뿐이다. VOPS에 대한 전반적인 감사를 실시해라. 처형도, 체포도 없다. 신중함이 핵심이다; 토랙스를 찾기 위해 증거를 찾는다고 밀해라. 사실, 네 임무는 VOPS에서 토랙스파들을 찾는 일이 될 것이다. 사소한 부패는 상관없지만, 나는 반역자들에게 시달리지 않을 것이다. 바스피어는 혐의가 없다; 그는 무능하지만 충성스럽다. 다른 모든 자들을 용의자로 간주해라. 뭔가 찾아낸다면, 나에게 직접 증거를 가져와라. 내가 처리할 것이다."\n\n디터가 경례했습니다. "명령에 따르겠습니다."\n\n크리살리스가 미소지었습니다. "고맙네. 논의할 다른 문제가 더 있다."\n\n 디터가 의아한 듯 눈썹을 치켜올렸습니다. "무엇입니까, 여왕님?"\n\n"토랙스가 현재 우리의 손에 닿지 않는 곳에 있기 때문에, 난 그를 흉내낸 충성스럽고 숙련된 침투원과 함께 재판을 열 생각을 했었다. 우린 그를 '고소' 할 수 있고, 그는 '자백' 할 것이고 그를 '처형'시킬 것이다."\n\n디터는 말을 신중하게 골랐습니다. "우리가 그렇게 성공적으로 할 수 있다면, 그것은 정말 유용할 것입니다. 하지만 만약 그가 살아있고 자유롭다는 것이 증명된다면, 우리의 속임수에 화가 날 지도 모릅니다."\n\n크리살리스는 그의 말을 깊이 생각해봤습니다. 물론, 그가 옳았습니다. 하지만 아무것도 하지 않는 것은 정부를 약해 보이게 할 것입니다. 그녀는 어떻게 해야 할까요?"
+changelings.65.d:0 "크리살리스는 개인 숙소에서 왔다갔다 했습니다. 한 버릇없는 유충이 모든 군대와 최고의 VOPS 요원들을 따돌렸습니다. 그들의 수많은 무능력자들! 그녀는 바보들, 어쩌면 반역자들에게 둘러싸여 있었습니다. 바스피어는 분명 배신자가 아니였지만, 토랙스가 그를 계속 피할 수 있었던 것은 그가 VOPS의 어딘가에서 내부 도움을 받은것이 아니가 의심하게 만들었습니다. 그녀는 한숨을 쉬며 여왕의 친위대장을 불렀습니다. "디터, 안으로 들어와."\n\n여왕의 친위대장이 인사하며 들어왔습니다. "여왕님, 무슨 일입니까?"\n\n"내가 믿을 수 있는 자는 너 뿐이다. VOPS에 대한 전반적인 감사를 실시해라. 처형도, 체포도 없다. 신중함이 핵심이다; 토랙스를 찾기 위해 증거를 찾는다고 밀해라. 사실, 네 임무는 VOPS에서 토랙스파들을 찾는 일이 될 것이다. 사소한 부패는 상관없지만, 나는 반역자들에게 시달리지 않을 것이다. 바스피어는 혐의가 없다; 그는 무능하지만 충성스럽다. 다른 모든 자들을 용의자로 간주해라. 뭔가 찾아낸다면, 나에게 직접 증거를 가져와라. 내가 처리할 것이다."\n\n디터가 경례했습니다. "명령에 따르겠습니다."\n\n크리살리스가 미소지었습니다. "고맙네. 논의할 다른 문제가 더 있다."\n\n 디터가 의아한 듯 눈썹을 치켜올렸습니다. "무엇입니까, 여왕님?"\n\n"토랙스가 현재 우리의 손에 닿지 않는 곳에 있기 때문에, 난 그를 흉내낸 충성스럽고 숙련된 침투원과 함께 재판을 열 생각을 했었다. 우린 그를 '고소' 할 수 있고, 그는 '자백' 할 것이고 그를 '처형'시킬 것이다."\n\n디터는 말을 신중하게 골랐습니다. "우리가 그렇게 성공적으로 할 수 있다면, 그것은 정말 유용할 것입니다. 하지만 만약 그가 살아있고 자유롭다는 것이 증명된다면, 우리의 속임수에 화가 날 지도 모릅니다."\n\n크리살리스는 그의 말을 깊이 생각해봤습니다. 물론, 그가 옳았습니다. 하지만 아무것도 하지 않는 것은 정부를 약해 보이게 할 것입니다. 그녀는 어떻게 해야 할까요?"
 changelings.65.a:0 "우리는 이 재판을 열고, 전국에 방송할 것이다!"
 changelings.65.b:0 "가짜 재판은 잠재적인 위험을 감수할 가치가 없다. VOPS에 집중하자."
 
@@ -1088,7 +1088,7 @@ changelings.67.d:0 "어젯밤, 죽은것으로 추정되는 자의 목소리가 
 changelings.67.a:0 "젠장."
 
 changelings.68.t:0 "감사된 VOPS"
-changelings.68.d:0 "여왕의 친위대장인 하인리히가 VOPS 감사에 대한 노트를 바스피어와 함께 검토했습니다. 비록 크리살리스 여왕은 VOPS를 통해서 토랙스파들을 찾으라고 지시했지만, 그는 자신이 침투원 파일을 뒤적거리자마자 내가 무슨일을 하고 있는지 남들이 알게 될 거라고 생각했습니다. 대신 바스피어에게 직접 다가가서 위대한 제국의 보잘것 없는 자와 함께 일할 것을 제안했는데, 그는 여왕이 그를 인정한 것보다 더 유능하지 않고서는 체인질링이 그런 별명을 얻지 못한다는 것은 알고 있었습니다.\n\n" 토랙스파는 모두 4마리야," 디터가 말했습니다, 그의 앞에 있는 메모를 보고 얼굴을 찡그렸습니다. "이렇게 적다니 놀라운걸."\n\n바스피어는 마치 그가 자신에 대한 모든 비밀을 알고있는 것처럼, 그리고 어쩌면 내가 알지 못한 몇 마리도 알고있는 것처럼 그의 음흉한 미소로 그를 향해 미소를 지었습니다. "이렇게 많다니 놀라운걸," 그가 말했고, 디터는 바스피어가 그에게 얘기하지 않은 더 많은 VOPS의 체인질링들이 조심스럽게 제거되었다는 의심을 가졌습니다. "비록 저게 내가 직원들 검토를 개인적으로 하지 않은 탓에 생긴것 같지만. 이런 일은 다시는 일어나지 않을 거야."\n\n"그러지 않는 게 좋아," 디터가 노트 폴더를 닫고 일어나면서 말했습니다. "그렇지 않으면 네가 더 이상 VOPS의 수장이 되지 못할 것 같아."\n\n"난 내 머리를 걱정하고; 너는 네 머리를 걱정해," 바스피어가 고개를 끄덕이며 말했습니다. "어쨌든, 요즘 누군가를 정확한 증거 없이 토랙스파라고 부르는 것은 아주 심각한 주장이야. 하지만 우리 둘 다 잘 해낼 수 있을 것 같아, 우리가 함께 뭉친다면."\n\n바스피어의 경고로 그의 껍질이 근질근질 했지만, 디터는 그저 VOPS의 수장에게 퉁명스러운 경례를 했을 뿐이였습니다. "물론이지. 여왕님께 모든 일이 처리됬다고 알릴게.""
+changelings.68.d:0 "여왕의 친위대장인 하인리히가 VOPS 감사에 대한 노트를 바스피어와 함께 검토했습니다. 비록 크리살리스 여왕은 VOPS를 통해서 토랙스파들을 찾으라고 지시했지만, 그는 자신이 침투원 파일을 뒤적거리자마자 내가 무슨일을 하고 있는지 남들이 알게 될 거라고 생각했습니다. 대신 바스피어에게 직접 다가가서 위대한 제국의 보잘것 없는 자와 함께 일할 것을 제안했는데, 그는 여왕이 그를 인정한 것보다 더 유능하지 않고서는 체인질링이 그런 별명을 얻지 못한다는 것은 알고 있었습니다.\n\n" 토랙스파는 모두 4마리야," 디터가 말했습니다, 그의 앞에 있는 메모를 보고 얼굴을 찡그렸습니다. "이렇게 적다니 놀라운걸."\n\n바스피어는 마치 그가 자신에 대한 모든 비밀을 알고있는 것처럼, 그리고 어쩌면 내가 알지 못한 몇 마리도 알고있는 것처럼 그의 음흉한 미소로 그를 향해 미소를 지었습니다. "이렇게 많다니 놀라운걸," 그가 말했고, 디터는 바스피어가 그에게 얘기하지 않은 더 많은 VOPS의 체인질링들이 조심스럽게 제거되었다는 의심을 가졌습니다. "비록 저게 내가 직원들 검토를 개인적으로 하지 않은 탓에 생긴것 같지만. 이런 일은 다시는 일어나지 않을 거야."\n\n"그러지 않는 게 좋아," 디터가 노트 폴더를 닫고 일어나면서 말했습니다. "그렇지 않으면 네가 더 이상 VOPS의 수장이 되지 못할 것 같아."\n\n"난 내 머리를 걱정하고; 너는 네 머리를 걱정해," 바스피어가 고개를 끄덕이며 말했습니다. "어쨌든, 요즘 누군가를 정확한 증거 없이 토랙스파라고 부르는 것은 아주 심각한 주장이야. 하지만 우리 둘 다 잘 해낼 수 있을 것 같아, 우리가 함께 뭉친다면."\n\n바스피어의 경고로 그의 껍질이 근질근질 했지만, 디터는 그저 VOPS의 수장에게 퉁명스러운 경례를 했을 뿐이였습니다. "물론이지. 여왕님께 모든 일이 처리됐다고 알릴게.""
 changelings.68.a:0 "크리살리스가 이 소식을 들으면 가장 기뻐할 것이다."
 
 changeling_diplo.1.t:0 "북극곰들을 침략한 체인질링"
@@ -1128,49 +1128,49 @@ PLB_break_ties_with_CHN:0 "행동할 시간!"
 PLB_break_ties_with_CHN_desc:0 "체인질링들은 패배하고 있습니다! 그들이 자신조차 보호하지 못한다면 그들의 보호는 무슨 가치가 있을까요? 우리는 그들을 배신하고 승리하는 쪽에 같이 설 기회가 있습니다! 우리가 그럴 수 있을까요?"
 flag_CHN_negociations_ended:0 "북극곰들과의 협상이 끝나다"
 
-CHN_DESC_HERBIS_THYSBE:0 "§YBorn§!: 962년 8월 31일, 베살리폴리스\n§Y계급§!: 중장\n§Y일대기§!: TBD\n§YPortrait By§!: Scroup"
+CHN_DESC_HERBIS_THYSBE:0 "§Y출생§!: 962년 8월 31일, 베살리폴리스\n§Y계급§!: 중장\n§Y일대기§!: TBD\n§Y초상화 제작§!: Scroup"
  
-CHN_DESC_TRIMMEL:0 "§Y출생§!: 973년 5월 17일, 가디스\n§Y계급§!: 군락원수\n§Y일대기§!: 가디스 군락의 하급 행정관에게서 태어난 트리멜 오이겐 하이드리히 추 가디스는 항상 국가에 봉사해야 할 운명이였습니다. 그의 부모에게서 두 번째로 태어난 그는 일반적으로 남는 애로 여겨졌기 때문에 그가 원하는 교육을 받을 수 있었고, 반면에 그의 누이는 그들의 왕가의 지위를 계승하기 위해 차려입었습니다. 그렇게 선택의 자유를 얻은 그는 그가 잘하는 한 가지인: 전쟁을 선택했습니다. 18세에 트리멜은 지역 124 보병연대에 입대했고, 992년에 그는 베살리폴리스의 사관학교에서 공부를 하기 위해 이동했습니다. 그는 993년 11월에 졸업하고 이듬해 중위로 임관해서 46 침투여단에 배치된 뒤 이퀘스트리아 각지로 이종했습니다. 초기 공산주의 반란을 지원하던 체인질링들은 스탈리온그라드의 겨울 혁명에서 눈에 띄는 성과를 보였고, 그의 첫 전투 경험은 995년 8월 22일 세베로크홀름 근처 소대장으로서였습니다. 준비가 안된 이퀘스트리아 왕립 근위대를 잡을 떄 - 트리멜 대위와 그의 침투부대 3명이 그의 남은 소대에게 명령을 하지 않고  그들을 향해 발포했습니다. 겨울 혁명 동안의 그의 공로로, 트리멜은 "페테르후프 방어 훈장"과 "전투 공로 훈장"과 같은 그의 Severyana 출신이 획득한 훈장과 함께 2급 철십자훈장을 받았습니다. 분쟁이 끝나기 직전에 그는 스탈리온그라드에 근무하던 그의 모습과 침투소대의 죽음을 위조하고 체인질링 랜드로 돌아와 대령으로 진급하고 1002년 이퀘스트리아 침공을 위해 이퀘스트리아로 빠르게 배치되어 이퀘스트리아 작전참모요원 변장을 맡게 되었습니다. 그의 행동이 수도에 대한 크리살리스의 재빠른 공격에 대응할 수 있는 이퀘스트리아의 능력을 심각하게 방해했지만, 그럼에도 불구하고 실패를 맛보게 되었습니다. 군락원수 Synovial가 강등되자, 트리멜은 크리살리스로부터 '비참하게 실패하지 않은'대령이라는 직책을 받았습니다. 그 이후 그는 체인질링에 반하는 모든것을 분쇄할 수 있는 빠르고 강력한 기동군에 대한 자신과 크리살리스의 의견이 채택되도록 군을 개혁했습니다.\n§YPortrait By§!: Scroup"
+CHN_DESC_TRIMMEL:0 "§Y출생§!: 973년 5월 17일, 가디스\n§Y계급§!: 군락원수\n§Y일대기§!: 가디스 군락의 하급 행정관에게서 태어난 트리멜 오이겐 하이드리히 추 가디스는 항상 국가에 봉사해야 할 운명이였습니다. 그의 부모에게서 두 번째로 태어난 그는 일반적으로 남는 애로 여겨졌기 때문에 그가 원하는 교육을 받을 수 있었고, 반면에 그의 누이는 그들의 왕가의 지위를 계승하기 위해 차려입었습니다. 그렇게 선택의 자유를 얻은 그는 그가 잘하는 한 가지인: 전쟁을 선택했습니다. 18세에 트리멜은 지역 124 보병연대에 입대했고, 992년에 그는 베살리폴리스의 사관학교에서 공부를 하기 위해 이동했습니다. 그는 993년 11월에 졸업하고 이듬해 중위로 임관해서 46 침투여단에 배치된 뒤 이퀘스트리아 각지로 이종했습니다. 초기 공산주의 반란을 지원하던 체인질링들은 스탈리온그라드의 겨울 혁명에서 눈에 띄는 성과를 보였고, 그의 첫 전투 경험은 995년 8월 22일 세베로크홀름 근처 소대장으로서였습니다. 준비가 안된 이퀘스트리아 왕립 근위대를 잡을 떄 - 트리멜 대위와 그의 침투부대 3명이 그의 남은 소대에게 명령을 하지 않고  그들을 향해 발포했습니다. 겨울 혁명 동안의 그의 공로로, 트리멜은 "페테르후프 방어 훈장"과 "전투 공로 훈장"과 같은 그의 Severyana 출신이 획득한 훈장과 함께 2급 철십자훈장을 받았습니다. 분쟁이 끝나기 직전에 그는 스탈리온그라드에 근무하던 그의 모습과 침투소대의 죽음을 위조하고 체인질링 랜드로 돌아와 대령으로 진급하고 1002년 이퀘스트리아 침공을 위해 이퀘스트리아로 빠르게 배치되어 이퀘스트리아 작전참모요원 변장을 맡게 되었습니다. 그의 행동이 수도에 대한 크리살리스의 재빠른 공격에 대응할 수 있는 이퀘스트리아의 능력을 심각하게 방해했지만, 그럼에도 불구하고 실패를 맛보게 되었습니다. 군락원수 Synovial가 강등되자, 트리멜은 크리살리스로부터 '비참하게 실패하지 않은'대령이라는 직책을 받았습니다. 그 이후 그는 체인질링에 반하는 모든것을 분쇄할 수 있는 빠르고 강력한 기동군에 대한 자신과 크리살리스의 의견이 채택되도록 군을 개혁했습니다.\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_CIMEX:0 "§Y출생§!: 946년 12월 2일, 베살리폴리스\n§Y계급§!: 중장\n§Y일대기§!: TBD\n§YPortrait By§!: Scroup"
+CHN_DESC_CIMEX:0 "§Y출생§!: 946년 12월 2일, 베살리폴리스\n§Y계급§!: 중장\n§Y일대기§!: TBD\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_LASCOR:0 "§Y출생§!: 978년 11월 18일, 볼리스타드\n§Y계급§!: 소장\n§Y일대기§!: TBD\n§YPortrait By§!: Scroup"
+CHN_DESC_LASCOR:0 "§Y출생§!: 978년 11월 18일, 볼리스타드\n§Y계급§!: 소장\n§Y일대기§!: TBD\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_NARCYS:0 "§Y출생§!: 981년 4월 2일, 브락스\n§Y계급§!: 소장\n§Y일대기§!: TBD\n§YPortrait By§!: Scroup"
+CHN_DESC_NARCYS:0 "§Y출생§!: 981년 4월 2일, 브락스\n§Y계급§!: 소장\n§Y일대기§!: TBD\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_CAROLINA:0 "§Y출생§!: 984년 10월 13일, 베살리폴리스\n§Y계급§!: 대령\n§Y일대기§!: TBD\n§YPortrait By§!: Scroup"
+CHN_DESC_CAROLINA:0 "§Y출생§!: 984년 10월 13일, 베살리폴리스\n§Y계급§!: 대령\n§Y일대기§!: TBD\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_CINCTUS:0 "§Y출생§!: 981년 2월 14일, 베살리폴리스\n§Y계급§!: 대령\n§Y일대기§!: TBD\n§YPortrait By§!: Scroup"
+CHN_DESC_CINCTUS:0 "§Y출생§!: 981년 2월 14일, 베살리폴리스\n§Y계급§!: 대령\n§Y일대기§!: TBD\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_LIMACUS:0 "§Y출생§!: 953년 7월 26일, 디트리시움\n§Y계급§!: 소장\n§Y일대기§!: TBD\n§YPortrait By§!: Scroup"
+CHN_DESC_LIMACUS:0 "§Y출생§!: 953년 7월 26일, 디트리시움\n§Y계급§!: 소장\n§Y일대기§!: TBD\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_GLOSSUS:0 "§Y출생§!: 980년 9월 26일, 시카루스\n\n§Y계급§!: 대령\n\n§Y일대기§!: TBD\n\n§YPortrait By§!: Rich May"
+CHN_DESC_GLOSSUS:0 "§Y출생§!: 980년 9월 26일, 시카루스\n\n§Y계급§!: 대령\n\n§Y일대기§!: TBD\n\n§Y초상화 제작§!: Rich May"
 
-CHN_DESC_ARCUS:0 "§Y출생§!: 979년 1월 21일, 소리스\n\n§Y계급§!: 대장\n\n§Y일대기§!: TBD\n\n§YPortrait By§!: Rich May"
+CHN_DESC_ARCUS:0 "§Y출생§!: 979년 1월 21일, 소리스\n\n§Y계급§!: 대장\n\n§Y일대기§!: TBD\n\n§Y초상화 제작§!: Rich May"
 
-CHN_DESC_DIETER:0 "§Y출생§!: §R알 수 없음§!\n\n§Y계급§!: 상급대장\n\n§Y일대기§!: 디터 하인리히로 알려진 체인질링을 탄생시킨 끔찍한 장소를 정확히 아는 자는 아무도 없습니다. 그는 어느 날 베살리폴리스 북쪽의 Svart 숲의 괴물이 들끓는 숲에서 크리살리스 여왕의 친위대의 상징인 칠흑색 유니폼을 입고 그의 루거로 무장한 채 죽은 팀버울프와 갖은 생물 잔해들 뒤에서 나타났습니다. 그는 즉시 베살리폴리스로 가서 크리살리스 여왕과의 알현을 요구했지만, 그들 사이의 이야기는 그들만 알고 있습니다. 다음 날, 전 여왕의 친위대장이 기이한 상황에서 죽었고 즉시 디터로 교체되었으며, 오늘날 알려진 대로 친위대는 오직 크리살리스와 그에게만 복종하는 괴물 같은 무자비한 조직으로 개혁되었습니다.\n\n§YPortrait By§!: Flake"
+CHN_DESC_DIETER:0 "§Y출생§!: §R알 수 없음§!\n\n§Y계급§!: 상급대장\n\n§Y일대기§!: 디터 하인리히로 알려진 체인질링을 탄생시킨 끔찍한 장소를 정확히 아는 자는 아무도 없습니다. 그는 어느 날 베살리폴리스 북쪽의 Svart 숲의 괴물이 들끓는 숲에서 크리살리스 여왕의 친위대의 상징인 칠흑색 유니폼을 입고 그의 루거로 무장한 채 죽은 팀버울프와 갖은 생물 잔해들 뒤에서 나타났습니다. 그는 즉시 베살리폴리스로 가서 크리살리스 여왕과의 알현을 요구했지만, 그들 사이의 이야기는 그들만 알고 있습니다. 다음 날, 전 여왕의 친위대장이 기이한 상황에서 죽었고 즉시 디터로 교체되었으며, 오늘날 알려진 대로 친위대는 오직 크리살리스와 그에게만 복종하는 괴물 같은 무자비한 조직으로 개혁되었습니다.\n\n§Y초상화 제작§!: Flake"
 
-CHN_DESC_RECINA:0 "§Y출생§!: 976년 7월 23일, 디트리시움\n\n§Y계급§!: 상급대장\n\n§YBiography§!: Recina is a curious sight among the Changeling Admiralty, being the only Royal Admiral, and a Princess at that. Hatched a few minutes too late after Queen Helvia, their mother left Recina mostly to fend for herself and focused instead on Helvia. As a result of her upbringing consisting of mostly being surrounded by drones more so than by her siblings and barely loved, Recina's physical status and magical capability are notably reduced for a Royal Changeling; so much so that she is mistaken for a Royal Male at times. Had it not been for Helvia's support and personal friendship, Recina may have wasted away as a nymph.\n\nHowever, Recina's innate knack for leadership is as sharp as that of any queen, and she found her calling in the navy, where she proved to be a very capable admiral. Ditrysium's submission to Queen Chrysalis and the subsequent mutiny of the Ditrysium sailours brought a halt to Recina's rise to fame, as the Vesalipolis Queen saw Recina as a threat, even though she had nothing to do with the mutiny. Recina's forced retirement was both unceremonious and a personal slight against her. Queen Chrysalis even planned to have Recina executed were it not for Helvia's timely intervention.\n\nBringing Recina out of retirement wasn't easy, for she had strong reservations against serving under Chrysalis. However, through Helvia's convincing and respect for her sister, Recina agreed to take on the job once more, this time under the leadership from Vesalipolis.\n\nAn aviation enthusiast, Recina brings to the forefront the importance of air power in naval combat and is the foremost proponent of carrier development, arguing that a naval airforce would be able to strike farther and harder than a conventional fleet.\n\n§YPortrait By§!: Scroup"
+CHN_DESC_RECINA:0 "§Y출생§!: 976년 7월 23일, 디트리시움\n\n§Y계급§!: 상급대장\n\n§Y일대기§!: Recina is a curious sight among the Changeling Admiralty, being the only Royal Admiral, and a Princess at that. Hatched a few minutes too late after Queen Helvia, their mother left Recina mostly to fend for herself and focused instead on Helvia. As a result of her upbringing consisting of mostly being surrounded by drones more so than by her siblings and barely loved, Recina's physical status and magical capability are notably reduced for a Royal Changeling; so much so that she is mistaken for a Royal Male at times. Had it not been for Helvia's support and personal friendship, Recina may have wasted away as a nymph.\n\nHowever, Recina's innate knack for leadership is as sharp as that of any queen, and she found her calling in the navy, where she proved to be a very capable admiral. Ditrysium's submission to Queen Chrysalis and the subsequent mutiny of the Ditrysium sailours brought a halt to Recina's rise to fame, as the Vesalipolis Queen saw Recina as a threat, even though she had nothing to do with the mutiny. Recina's forced retirement was both unceremonious and a personal slight against her. Queen Chrysalis even planned to have Recina executed were it not for Helvia's timely intervention.\n\nBringing Recina out of retirement wasn't easy, for she had strong reservations against serving under Chrysalis. However, through Helvia's convincing and respect for her sister, Recina agreed to take on the job once more, this time under the leadership from Vesalipolis.\n\nAn aviation enthusiast, Recina brings to the forefront the importance of air power in naval combat and is the foremost proponent of carrier development, arguing that a naval airforce would be able to strike farther and harder than a conventional fleet.\n\n§Y초상화 제작§!: Scroup"
 
 CHN_RECINA_stats_tp:0 "§RDamage Skill§!: §Y5§!\n§YDefense Skill§!: §Y2§!\n§CPositioning Skill§!: §Y4§!\n§GCoordination Skill§!: §Y2§!\n\n"
 
-CHN_DESC_MIMIC:0 "§Y출생§!:TBA\n\n§Y계급§!: 상급대장\n\n§Y일대기§!: The Commander of the Kriegsmarine's Submarine Fleet, Mimic has always believed firmly in the idea that the changeling fleet must behave as the changelings themselves, being able to strike quickly and vanish into the fog before any counterattack can be mounted. Her doctrinal rivalry with Generaladmiral Lysander has developed into a personal feud, and the two have become bitter political opponents.\n\n§YPortrait By§!: Scroup"
+CHN_DESC_MIMIC:0 "§Y출생§!:TBA\n\n§Y계급§!: 상급대장\n\n§Y일대기§!: The Commander of the Kriegsmarine's Submarine Fleet, Mimic has always believed firmly in the idea that the changeling fleet must behave as the changelings themselves, being able to strike quickly and vanish into the fog before any counterattack can be mounted. Her doctrinal rivalry with Generaladmiral Lysander has developed into a personal feud, and the two have become bitter political opponents.\n\n§Y초상화 제작§!: Scroup"
 
-CHN_DESC_LYSANDER:0 "§Y출생§!: TBA\n\n§Y계급§!: 상급대장\n\n§Y일대기§!: As Commander of the Kriegsmarine's Surface Fleet, Lysander enjoys the control of the biggest ships the Kriegsmarine can muster. He believes that all parts of the fleet must work in tandem, and that one decisive battle can turn the tide of the sea war. He finds Mimic's ideas of hit-and-run tactics irritating, and over time they have become harsh rivals.\n\n§YPortrait By§!: Scroup"
+CHN_DESC_LYSANDER:0 "§Y출생§!: TBA\n\n§Y계급§!: 상급대장\n\n§Y일대기§!: As Commander of the Kriegsmarine's Surface Fleet, Lysander enjoys the control of the biggest ships the Kriegsmarine can muster. He believes that all parts of the fleet must work in tandem, and that one decisive battle can turn the tide of the sea war. He finds Mimic's ideas of hit-and-run tactics irritating, and over time they have become harsh rivals.\n\n§초상화 제작§!: Scroup"
 
-CHN_DESC_PALPUS:0 "§Y출생§!: TBA\n\n§Y계급§!: 대장\n\n§Y일대기§!: TBD\n\n§YPortrait By§!: TBA"
+CHN_DESC_PALPUS:0 "§Y출생§!: TBA\n\n§Y계급§!: 대장\n\n§Y일대기§!: TBD\n\n§Y초상화 제작§!: TBA"
 
-CHN_DESC_MAXILLA:0 "§Y출생§!: TBA\n\n§Y계급§!: 중장\n\n§Y일대기§!: TBD\n\n§YPortrait By§!: TBA"
+CHN_DESC_MAXILLA:0 "§Y출생§!: TBA\n\n§Y계급§!: 중장\n\n§Y일대기§!: TBD\n\n§Y초상화 제작§!: TBA"
 
-CHN_DESC_CLYPEUS:0 "§Y출생§!: TBA\n\n§Y계급§!: 중장\n\n§Y일대기§!: TBD\n\n§YPortrait By§!: TBA"
+CHN_DESC_CLYPEUS:0 "§Y출생§!: TBA\n\n§Y계급§!: 중장\n\n§Y일대기§!: TBD\n\n§Y초상화 제작§!: TBA"
 
-CHN_DESC_LABRUM:0 "§Y출생§!: TBA\n\n§Y계급§!: 대장\n\n§Y일대기§!: TBD\n\n§YPortrait By§!: TBA"
+CHN_DESC_LABRUM:0 "§Y출생§!: TBA\n\n§Y계급§!: 대장\n\n§Y일대기§!: TBD\n\n§Y초상화 제작§!: TBA"
 
 CHN_OLE_brigade_tt:0 "점령한 올레니아 도시에서 몇몇 올레니아 의용병 사단들이 구성됩니다.\n"
 
 queens_tower_flag:0 "여왕의 첨탑 건설과정"
 changeling_school_of_war_trait:0 "체인질링 전쟁학교"
-queens_tower_finish_trigger_tt:0 "§Y첨탑 건설§!은 §Y4번§! 완료해야 합니다."
+queens_tower_finish_trigger_tt:0 "§Y첨탑 건설§!을 §Y4번§! 완료해야 합니다."
 
 CHN_annexed_olenia_by_event:0 "올레니아가 어떤 사건으로 인해 항복하다"
 
