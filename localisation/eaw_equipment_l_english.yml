@@ -220,24 +220,24 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
 
 
  #### STG
- artillery_equipment_0:0 "Pre-Industrial Artillery"
+ artillery_equipment_0:0 "산업화 이전 야포"
  artillery_equipment_0_desc:0 "Various towed pre-industrial artillery, including cannons, howitzers and mortars. These artillery lack many of the features of modern artillery, including breech loading, cylindrical shells and hydraulic recoil (allowing the artillery to be fired repeatedly without reaiming)."
 
- pre_gw_artillery:0 "Pre-Industrial Artillery"
+ pre_gw_artillery:0 "산업화 이전 야포"
 
 
- melee_equipment:0 "Pre-Industrial Equipment"
- melee_equipment_short:0 "Pre-Industrial Eq."
+ melee_equipment:0 "산업화 이전 장비"
+ melee_equipment_short:0 "산업화 이전 장비"
  melee_equipment_desc:0 "Cheap and simple equipment produced by blacksmiths, bowyers and gunsmiths."
 
- melee_equipment_0:0 "Pre-Gunpowder Equipment"
- melee_equipment_0_short:0 "Primitive Weapons"
+ melee_equipment_0:0 "화약 이전 무기"
+ melee_equipment_0_short:0 "원시적인 무기"
  melee_equipment_0_desc:0 "Before the invention of gunpowder polearms, swords, shields, slings, bows, crossbows, basic handcannons and numerous other weapons along with metal armours were common on the battlefield, and still are in less advanced places of the world."
- melee_equipment_1:0 "Muzzle-loading Guns"
- melee_equipment_1_short:0 "Muzzle-loaders"
+ melee_equipment_1:0 "전장식 총"
+ melee_equipment_1_short:0 "전장식 총"
  melee_equipment_1_desc:0 "Gunpowder weapons are slowly being adapted, but so far gunsmiths are only able to make basic muzzle-loading firearms with wheellocks, flintlocks or matchlocks, which use black powder to propel bullets across a relatively long distance. The weapons are highly inaccurate and take a long time to reload, which means the most effective way to use the weapon in battle is to form up in long, organized lines."
- melee_weapons:0 "Primitive Weapons"
- melee_weapons1:0 "Muzzle-loaders"
+ melee_weapons:0 "원시적인 무기"
+ melee_weapons1:0 "전장식 총"
 
  magical_equipment:0 "Magical Infantry Equipment"
  magical_equipment_short:0 "Magical Eq."
