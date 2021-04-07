@@ -70,78 +70,78 @@ DED_Bone_Queen_desc:0 "뼈들의 협회는 로사 여왕에게 감명을 받았�
 
 ######## Vampires
 DED_Guild_Blood:0 "피의 집회"
-DED_Guild_Blood_desc:0 "피의 집회는 뱀파이어들에 의해 독점적으로 운영되며, 이들 대부분은 포니들이다. 이 뱀파이어들은 국가의 군대를 소수의 엘리트 뱀파이어들과 그들을 보조하는 전투노예들로 구성된 전문적인 정예군으로 구성할 것이다. 이 파벌의 편을 드는 것은 뼈의 협회를 화나게 할 것이다"
+DED_Guild_Blood_desc:0 "피의 집회는 뱀파이어가 독점적으로 운영하는데, 이들 대부분은 포니들로 구성되어 있습니다. 뱀파이어들은 국가의 군대를 소수의 정예병들과 그들을 지원하는 노예들의 군대로 바꾸는 것을 진행할 것입니다. 이 파벌의 편을 들면 뼈들의 협회를 분노하게 만들 것입니다."
 
 DED_Lord_Lady_Death:0 "우아한 죽음의 무도"
-DED_Lord_Lady_Death_desc:0 "유니콘이 에워싸여 서 있다. 무장한 그리핀 기사들이 씩 웃으며 그녀를 에워싸고, 그녀는 포니와 강철의 흐릿함이 된다. 그녀는 타고난 우아함과 놀라운 강렬함으로 다섯 명의 기사단을 휘감고 돌았다. 그녀가 멈추면서, 마지막 기사는 죽은 채 땅에 쓰러진다.'재미있었어, 진작부터 이 일을 시작했어야 했는데. 그래도, 아가씨는 음식을 가지고 놀지는 않지.'"
+DED_Lord_Lady_Death_desc:0 "유니콘이 둘러싸여 있습니다. 갑옷 입은 그리폰 기사들이 빙그레 웃으며 그녀를 에워싸고 있습니다; 그녀는 강철에 둘러싸여 모습이 잘 보이지 않았습니다. 그녀는 타고난 우아함과 놀라운 흉포함을 겸비한채로 5명의 기사들 사이를 휘젓고 다녔습니다. 그녀가 멈추었을 때, 마지막 기사가 땅으로 쓰러져 죽었습니다. "재미있었어, 진작에 해볼 걸 그랬지만, 레이디라면 음식을 가지고 놀아서는 안되지.""
 
 DED_Sen_Livestock:0 "지성이 있는 가축"
-DED_Sen_Livestock_desc:0 "필멸자들은 우리 뱀파이어의 아래에 있고, 우리의 먹이가 되는 특권이 없는 자들은 공장에 투입될 것이다. 거기서 일하는 뱀파이어들의 먹이가 되던지, 아니면 실제로 그곳에서 일하는 것이든 간에, 모두 우리를 섬길 것이다."
+DED_Sen_Livestock_desc:0 "필멸자들은 우리 뱀파이어의 아래에 있으며, 우리의 먹잇감이 될 수 있는 특권 없는 노예들은 우리 공장에서 사용될 것입니다. 공장에서 일하게 될 노예들이 뱀파이어들의 먹이가 될지, 아니면 실제로 공장에서 일하게 되던지 간에, 모두가 우리를 섬기게 될 것입니다."
 
 DED_Ed_Nob:0 "귀족 교육"
-DED_Ed_Nob_desc:0 "귀족들은 우리 사회의 핵심을 형성하고 있지만, 때때로 귀족들 자신들이 우리 사회보다 위에 있다고 여기지만, 그들 역시 국가를 위해 열심히 일해야 한다. 따라서 전투에 나서지 않는 귀족들은 기술과 교리를 연구해야 한다. 우리의 뱀파이어적 본성은 우리가 큰 진보를 이루게 할 것이다. 반면에 필멸자들은 고군분투할 것이다."
+DED_Ed_Nob_desc:0 "귀족들은 우리 사회의 핵심을 형성하고 있으며, 때때로 그들 자신이 그 이상의 존재들이라고 생각하기도 하지만, 그들 역시 국가를 위하여 열심히 일해야만 합니다. 전투에 투입되지 않는 귀족의 구성원들은 앞으로 기술과 교리를 연구하게 될 것입니다; 우리의 뱀파이어적인 본성으로, 우리는 커다란 발전을 이루어낼 것이지만, 반면에 필멸자들은 힘겹게 나아갈 것입니다."
 
 DED_Blood_Slave:0 "피로써 묶이다"
-DED_Blood_Slave_desc:0 "더 높은 수준의 복종은 혈마법을 통해 달성할 수 있다. 흡혈귀인 우리는 이런 종류의 주술에 천부적인 재능을 가지고 있다. 혈 마법을 통해 우리는 우리의 전투노예들의 충성심을 보장하고 그들의 최대한의 능력을 발휘하게 할 수 있을 것이다. 오직 강한 의지만이 우리의 마법에 저항할 수 있을 것이다."
+DED_Blood_Slave_desc:0 "더 높은 수준의 복종은 혈마법을 통하여 이루어낼 수 있습니다. 뱀파이어들로 구성된 피의 집회이기 때문에 이런 종류의 마법에는 타고난 소질을 가지고 있습니다. 혈마법을 통하여 우리는 노예들이 자신의 역할에 충실하며, 그들의 능력을 최대한 발휘할 수 있도록 만들어낼 수 있습니다. 오직 가장 강한 의지만이 우리의 마법에 저항할 수 있을 것입니다."
 
 DED_New_Blood:0 "신출내기들을 받아들이다"
-DED_New_Blood_desc:0 "로사 말레딕타는 열악한 위치에 놓인 인구에 대해 관심을 가지고 있다. 집회 구성원에 포함시키는 혜택을 베품으로써, 우리의 구성원을 늘려야만 한다. 우리는 정복을 추구하지만, 피정복자들 모두가 전투노예나 피 가축이 되지는 않을 것이다. 우리가 유용하다고 생각하는 자들은 우리의 집회의 일부가 될 것이다."
+DED_New_Blood_desc:0 "로사 말레딕타는 열악한 상황에 놓여있는 인구수에 관심을 가지고 있습니다. 우리는 집회 구성원으로 포함될 수 있다는 혜택을 베풂으로써, 우리의 숫자를 늘려야만 합니다. 우리는 정복을 추구하지만, 피정복자들 모두가 노예가 되거나 피 가축이 되지는 않을 것입니다. 우리가 유용하다고 생각하는 자들은 우리 집회의 일부가 될 것입니다."
 
 DED_Vamp_Club:0 "고위 뱀파이어"
-DED_Vamp_Club_desc:0 "집회는 뱀파이어 귀족정으로 구성되어 있는데, 상위 그리고 하위 두 계층으로 이루어져 있다. 계층을 엄밀히 정의하면, 하급 귀족들은 전쟁에 나서고, 상위 귀족들은 자금을 활용해 드레드 리그의 발전을 위해 일할 것이다. 그들은 여전히 전쟁을 배울 것이지만, 교리를 통해 배울 것이다."
+DED_Vamp_Club_desc:0 "집회는 뱀파이어 귀족들에 의해 운영되고 있는데, 하류층과 상류층으로 구성된 두 개의 계층으로 나누어져 있습니다. 계층에 대하여 좀 더 자세히 정의하자면, 하류층 귀족들은 직접 전쟁을 수행하며, 상류층 귀족들은 학문을 통하여 드레드 리그의 발전을 위하여 일하고 있습니다. 그들은 교리 연구를 바탕으로, 전쟁의 방식을 배우게 될 것입니다."
 
 DED_Fact_Farm:0 "리그 산업화"
-DED_Fact_Farm_desc:0 "피의 집회가 교양 없는 뼈의 협회 무식쟁이들 보다 우위에 있지만, 미래의 적들에 맞서기 위해서는 노예던 뱀파이어던 새로운 무기가 필요함을 인정해야합니다. 이를 위해 전쟁 기계를 생산해 낼 공장들이 설립될 것입니다."
+DED_Fact_Farm_desc:0 "피의 집회는 교양 없는 뼈들의 협회의 방식보다 자신들이 위에 있다고 주장했습니다. 모든 노예들과 신생과 순혈 뱀파이어들 모두가 미래의 적들과 싸우기 위해서는 전쟁 무기가 필요하다는 것을 알고 있습니다. 우리는 전쟁 기계 생산을 돕기 위하여 공장들을 설립할 것입니다."
 
 DED_Food_Ed_Nob:0 "주인 가르치기"
-DED_Food_Ed_Nob_desc:0 "기술적 변화랄 것이 거의 없던 과거에는 필요에 의해 집회의 귀족들이 노예들에게 뭔가를 가르치고는 했습니다. 그러나, 현대 사회에서는 반대로 노예와 하인들이 우리에게 현대 문물과 특히 현대 무기의 사용법을 가르칠 것입니다. 이러한 로사의 계획은 우리에게 큰 이득이 될 것입니다."
+DED_Food_Ed_Nob_desc:0 "기술적인 변화가 멀고 드물었던 과거에는, 집회의 귀족들이 자신들의 요구 조건을 충족시키기 위하여 그들의 노예들을 가르치곤 했습니다. 그러나, 전쟁이 다가오는 이 시기에는, 우리의 노예들과 하인들이 우리에게 전 세계의 전쟁의 방식을 가르쳐줄 것입니다. 특히나 그들은 우리에게 현대 무기의 작동 방식을 알려줄 것입니다. 이러한 로사 말레딕타의 계획은 우리에게 큰 도움이 될 것입니다."
 
 DED_Blood_Elect:0 "지도자를 선출하다"
-DED_Blood_Elect_desc:0 "Whilst the Dread League may be run by Rosa Maledicta. The Coven has a loose political structure, defined by the two echelons of Nobility. With a newly instituted law, both levels of the nobility will be required to vote for a leader of the Coven. This would be not only to represent the Coven, but to lead them on most internal matters."
+DED_Blood_Elect_desc:0 "한편으로, 로사 말레딕타는 드레드 리그를 운영해야 합니다. 그러나, 집회는 두 귀족 계층으로 운영되는 느슨한 정치 구조로 이루어져 있습니다. 새로 제정된 법에 따라, 두 귀족 계층은 집회의 지도자를 선출하게 될 것입니다. 그는 집회를 대표할 뿐만 아니라, 대부분의 내부 문제를 해결하게 될 것입니다."
 
 DED_Blood_Soil:0 "침입자들을 저주하다"
-DED_Blood_Soil_desc:0 "The Coven despise intruders on their lands, they view them as sacred and holy. Only their thralls, themselves, and invited guests are permitted within the Coven's borders. To solve this abhorrent problem, the Coven will weave dark blood rituals into the land. The Dread League's land will be coated in vampyric spells, all of them designed to drain the life out of foreign invading armies."
+DED_Blood_Soil_desc:0 "집회는 자신들의 땅에 침입한 자들을 경멸합니다. 그들은 그들 자신을 신성하고 성스러운 존재로 여기고 있습니다. 집회의 국경은 그들의 노예들과 그들 자신 그리고 초대된 손님들만을 허용하고 있습니다. 이 혐오스러운 문제를 해결하기 위하여, 집회는 어둠의 피 의식을 이 땅에 시행할 것입니다. 드레드 리그의 땅은 뱀파이어 마법으로 뒤덮일 것이며, 이 모든 주문들은 외국의 침략군의 생명을 빼앗기 위하여 고안된 것입니다."
 
 ##### The immortal blood
 DED_Blood_Queen:0 "불멸의 피(Sanguis Immortalis)"
-DED_Blood_Queen_desc:0 "로사 말리딕타여 드디어 때가 왔다, 그대는 드레드 리그는 공포 그 자체로 개혁해냈으며 권력 또한 공고히 했다. 그러나, 전통에 의거해 '진홍 여왕'의 지위에 오르기까지는 집회의 진정한 지도자라고 할 수 없다. 이를 얻기 위해서는 지난 수세기간 상실된 피의 성배를 되찾아야만 할 것이다."
+DED_Blood_Queen_desc:0 "드디어 로사 말레딕타 그대에게 때가 왔다. 그대는 그대의 권력을 공고히 했으며, 드레드 리그를 두려워할 수 있는 국가로 변화시켰다. 그러나, 전통적으로 그대가 '진홍 여왕'의 지위에 오르기 전까지는 그대가 집회의 진정한 지도자라고 할 수 없다. 이를 위해서는 수 세기 전에 사라진 전설적인 피의 성배를 되찾아야만 할 것이다."
 
 ######## Ghouls
 
-DED_Ghoul_School:0 "Send Those Ghouls to the Schools"
+DED_Ghoul_School:0 "구울들을 학교로 보내다"
 DED_Ghoul_School_desc:0 "Ghouls make up the majority of the residential population of Magehold and the Dread League. Despite outwards appearances, most ghouls retain the intellect they had whilst alive. But since times have changed, and with it the knowledge required to survive in it has as well. Ghoul education plans will be drafted and implemented by the council in Magehold. You can teach an old ghoul new tricks."
 
-DED_Ghoul_Union:0 "A Ghoul's Workers' Union"
+DED_Ghoul_Union:0 "구울 노동조합"
 DED_Ghoul_Union_desc:0 "The ghouls of the Dread League wish to unite under a common interest and form a workers union. This would allow the ghouls of Magehold to come together on issues affecting them in the workplace and even approach other groups within the Dread League over concerns or trade agreements. Technically forming a faction themselves, they will need to appoint a representative to go before the council during meetings."
 
-DED_Approach_Blood:0 "Ghouls Approach the Coven of Blood"
+DED_Approach_Blood:0 "구울들이 피의 집회와 접촉하다"
 DED_Approach_Blood_desc:0 "The Worker's Union desires to approach the Coven of Blood to reach a trade agreement, as they wish to broker a deal with the cove that will benefit the ghouls that work in Coven-owned workplaces. The deal that is eventually brokered would benefit both parties as the ghouls will get access to the brain markets, and the Coven gets to enjoy a more efficient workforce in the factories they own."
 
-DED_Approach_Bone:0 "Ghouls Approach the Society of Bones"
+DED_Approach_Bone:0 "구울들이 뼈들의 협회와 접촉하다"
 DED_Approach_Bone_desc:0 "For too long have the Society of Bones and their ilk have had power over the ghouls, as they are responsible for the creation of more ghouls. As a political entity, the GWU wishes to approach the Society to work out a mutually beneficial deal for both parties. The ghouls get to enjoy greater numbers, whilst the necromancers get more ghouls to work in their undead army and factories."
 
-DED_Brain_Market:0 "The Brain Markets"
+DED_Brain_Market:0 "두뇌 시장"
 DED_Brain_Market_desc:0 "Following the agreement with the Coven, the GWU has gained access to the brain markets. The brain market is in a relatively secluded part of Magehold, to protect the grey matter from the elements due to the large variety of uses brains have. Ghouls can maintain the state of their slowly decaying brains through the consumption of this grey matter, as eating them stalls the process."
 
-DED_Flesh_Market:0 "The Flesh Markets"
+DED_Flesh_Market:0 "살점 시장"
 DED_Flesh_Market_desc:0 "Even though ghouls are undead beings, they still require satiating their physical needs. After their agreement with the Society, the GWU can now secure large quantities of flesh for its own ponies. Flesh isn't just sold separate like a commodity however, as corpses are also sold in this market. Following the agreement with the Society of Bones, necromancers are making ghouls out of corpses to fuel the workforce."
 
-DED_Cool_Ghoul:0 "Cold on the Inside"
+DED_Cool_Ghoul:0 "내면의 차가움"
 DED_Cool_Ghoul_desc:0 "Ghouls are dead ponies and griffons that most likely once lived happy lives, for some that was probably hundreds of years ago. Ghoul physiology is similar to that of which the ghoul was before he or she died, except for the fact that ghouls do not need to keep warm in the cold. To take advantage of this, we should start focusing the ghouls in our army towards more winter and mountainous combat roles."
 
-DED_Brain_Train:0 "Putting our Brains on a Train"
+DED_Brain_Train:0 "우리의 두뇌를 기차에 태우다"
 DED_Brain_Train_desc:0 "Ghouls can be very ravenous people, and can consume large quantities of meat. Replacing meat with rationed cuts of brain matter will provide ghouls and zombies with a more sating food to consume on the field. This should allow more efficient management with supplies during long wars, as much the ghouls do not need to consume as much brain as they do flesh. This way the undead army has a way of staying ahead!"
 
-DED_High_Ed:0 "The Ghoulish Institute"
+DED_High_Ed:0 "구울 기관"
 DED_High_Ed_desc:0 "Our armies need training. The Council of the Dread League will implement plans to put together a training institute to further improve the potency of our soldiers. This training institute is much more efficient with their training drills, and is geared towards all forms of undead soldiers. Further plans may be drafted to introduce morale officers if army cohesion remains a problem."
 
-DED_Work_Tool_Ghoul:0 "Factory Ghouls"
+DED_Work_Tool_Ghoul:0 "공장의 구울들"
 DED_Work_Tool_Ghoul_desc:0 "Not all ghouls are destined for the army or smarter jobs within the Dread League, some ghouls remain permanently handicapped as their brains have partially rotted. Their bodies will not go to waste however! Those who failed the ghoul education program can submit straight to the Ghoul's Workplace Initiative where every ghoul has a place in a factory, and where they work for the future of the League!"
 
-DED_Spook_Regulate:0 "Ghoulish Regulations"
+DED_Spook_Regulate:0 "구울 규정"
 DED_Spook_Regulate_desc:0 "The Dread League is starting to feel the burden of not organising its internal structure. The Council wishes to change this and impose regulations on the League. It would curtail the consumption of food and other basic commodities, the Dread League would be more capable of developing its land with less factory space dedicated to the domestic needs of its people."
 
-DED_Commisar_Ghoul:0 "A Very Ghoulish Commissar"
+DED_Commisar_Ghoul:0 "구울 정치 위원"
 DED_Commisar_Ghoul_desc:0 "Our armies need stronger leadership in the field, so squads and regiments should be led by fearsome commissars trained by the Institute. With commissars in our armies, soldiers that work under them will surely follow orders. Commissars can lead by example, punishing those who refuse to fall in line and generally bring order to the less obedient ghouls and zombies."
 
 ######## Voodoo
