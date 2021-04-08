@@ -40,7 +40,7 @@
  NIM_fascism_army_chief:0 "길히프포스"
  NIM_fascism_army_chief_2:0 "안드레이아"
  NIM_high_command_3:0 "팔레도네우스"
- NIM_advisor_3:0 "은빛 아침"
+ NIM_advisor_3:0 "실버 모닝"
  NIM_advisor_4:0 "헤레클레스"
 
  NIM_harmony_advisor:0 "마타고라스"
@@ -52,7 +52,7 @@
  NIM_trials_of_the_cyclone_desc:0 "15세의 나이에 모든 님부시아의 젊은 포니들은 사이클론의 시험을 맞닥드립니다. 이러한 시련을 통해 그들의 힘, 충성심, 정직, 헌신과 용기를 시험해볼 수 있었으며 이를 통과한 사람만이 시민이 될 권리를 얻었습니다. 이는 우리 모두를 강하게 만들어왔습니다."
 
  NIM_nimbusian_general_staff:0 "님부시아 참모"
- NIM_nimbusian_general_staff_desc:0 "수 년간의 군사 훈련과 전투 경험,그리고 전통을 통해 님부시아의 참모는 무시할 수 없는 존재입니다."
+ NIM_nimbusian_general_staff_desc:0 "수 년간의 군사 훈련과 전투 경험, 그리고 전통을 통해 님부시아의 참모는 무시할 수 없는 존재입니다."
 
  NIM_boule:0 "블레"
  NIM_boule_desc:0 "블레는 10개 부족이 선출한 후보군 중 무작위로 선정된 500명의 시민들로 구성된 님부시아의 행정자치위원회입니다. 이 정부 체계는 모든 시민이 발언권을 가질 수 있도록 보장하고 부패를 억제하지만, 주권자가 걸출한 이가 아닐 수 있다는 문제점이 있습니다."
@@ -69,11 +69,11 @@
  NIM_boule_rep:0 "민회 민주주의"
  NIM_boule_rep_desc:0 "Many powers that were delegated to the 500 pony strong Boule before, have instead been given to the Ecclesia. This bastion of direct democracy now has even more power. However, the new laws passed by the reformists also structured debate amongst the assembly and limited speaking time per pony, in order to make the Ecclesia itself a more effective decision-making body. Although the members of the Ecclesia are just everyday ponies, their democratic nature strengthens the bonds of Nimbusian society."
 
- NIM_trials_of_the_cyclone2:0 "Trials of the Cyclone"
- NIM_trials_of_the_cyclone2_desc:0 "At the age of fifteen, every young Nimbusian faces the Trials of the Cyclone. These trials test their strength, loyalty, honesty, dedication and bravery. On those who pass earn the right to be a citizen - and it makes us all stronger."
+ NIM_trials_of_the_cyclone2:0 "사이클론의 시험"
+ NIM_trials_of_the_cyclone2_desc:0 "15세의 나이에 모든 님부시아의 젊은 포니들은 사이클론의 시험을 맞닥드립니다. 이러한 시련을 통해 그들의 힘, 충성심, 정직, 헌신과 용기를 시험해볼 수 있었으며 이를 통과한 사람만이 시민이 될 권리를 얻었습니다. 이는 우리 모두를 강하게 만들어왔습니다."
 
- NIM_nimbusian_general_staff2:0 "Nimbusian General Staff"
- NIM_nimbusian_general_staff2_desc:0 "Through years of military training, combat experience and tradition, the Nimbusian general staff is a force to be reckoned with."
+ NIM_nimbusian_general_staff2:0 "님부시아 참모"
+ NIM_nimbusian_general_staff2_desc:0 "수 년간의 군사 훈련과 전투 경험, 그리고 전통을 통해 님부시아의 참모는 무시할 수 없는 존재입니다."
 
  NIM_caste_system:0 "시민, 페리오이코이, 헬롯"
  NIM_caste_system_desc:0 "님부시아 사회는 세 가지의 경직된 신분들로 구성되어 있습니다. 사이클론의 시련을 통과한 페가시들로 구성된 시민들은 아고게에 참여하여 정치적인 힘을 가지고 있지만 군에 복무해야 합니다. 비시민인 페리오이코이들은 비록 정치적인 힘을 가지고 있지는 않지만 자유인입니다. 페리오이코이는 시민들을 위하여 상인, 장인, 관료로 종사합니다. 마지막 계급이자 최하위 계급인 헬롯들은 님부시아 농업의 근간입니다. 타국의 동산 노예보다는 나은 대우를 받기는 하지만, 그들은 진정한 권리나 자유를 가지고 있지 않으며 국가나 시민의 재산으로 대우받습니다."
@@ -741,14 +741,14 @@ nimbusia.61.t:0 "페기클레스 사망"
 
  ##########FOCUS##########
  #The Boule political path
- NIM_choose_harmony:0 "Support the Reformist Cause"
- NIM_choose_harmony_desc:0 "Although Metakeros, a wealthy unicorn merchant, served in the army and gained citizenship, many non-pegasi did not get the chance. In the Boule, he has gathered some support to reform Nimbusian society into one where non-pegasi and non-soldiers will also be represented fairly. To represent the reformist cause, the unicorn has decided to hire the services of a well-known orator..."
+ NIM_choose_harmony:0 "개혁주의자 이상 지지"
+ NIM_choose_harmony_desc:0 "비록 부유한 유니콘 상인 메타케로스는 군에서 복무하여 시민권을 얻었으나, 많은 비 페가수스들은 그러한 기회를 얻어보지 못했습니다. 메타케로스는 님부시아를 비 페가수스와 비 군인 포니들도 공평히 대우받는 나라로 만들기 위해 블레에서 어느 정도의 지지를 모았으며, 또 개혁주의의 이상을 대변하기 위해 유명한 연설가를 고용하기로 결정했습니다... "
 
  NIM_choose_neutrality:0 "전통의 수호"
- NIM_choose_neutrality_desc:0 "Pegalaios, an older and well respected pegasus is the spokesstallion for the traditionalists. They see Nimbusia's ancient traditions and values as the cornerstone of the state. Seeking to have the state run by ancient virtues such as justice and bravery, Pegalaios hopes to steer the Boule away from radical change. On his side, the veteran turned politician a follower of Aristrotle called Demarescios."
+ NIM_choose_neutrality_desc:0 "나이 지긋하며 모두에게 존경받는 페가수스, 페가라이오스가 전통주의자들을 대변합니다. 전통주의자들은 님부시아의 오래된 전통과 가치가 나라의 주춧돌이라 생각하는 파벌로, 그 대변자인 페가라이오스는 정의와 용기같은 고대의 미덕으로써 나라가 운영되기를 바라며, 블레를 극단적인 변화로부터 떨어트리고자 합니다. 페가라이오스는 전직 군인이자 아리스토틀의 추종자인 데마레시오스라는 정치인에게 지지를 받고 있습니다."
 
- NIM_choose_fascism:0 "Fight for Strength"
- NIM_choose_fascism_desc:0 "Andreia, a young officer in the army, heads the purist faction. They argue that the Boule makes Nimbusia indecisive and vulnerable. She has rallied many young pegasi to her side, who seek to claim their right as undisputed rulers of Nimbusia. To accomplish this, Andreia allied herself with the philosopher Speushippos, who forged the radical ideas in Palton's "Republic" into an antidemocratic platform."
+ NIM_choose_fascism:0 "힘을 위해 싸워라"
+ NIM_choose_fascism_desc:0 "젊은 군 장교, 안드레이아가 순수주의자 파벌을 이끕니다. 순수주의자들은 블레가 님부시아를 우유부단하고 약하게 만든다고 생각하며, 그 지도자 안드레이아는 님부시아의 유일무이한 통치자를 꿈꾸는 여러 젊은 페가수스들을 자기 편으로 끌어모은 상태입니다. 안드레이아는 이 목표를 이루기 위해 팔톤의 '공화국' 내의 급진적인 이상들을 반민주주의적인 공약으로 합친 철학자 스페오시포스와 동맹을 맺고 있습니다."
 
  NIM_boule_deliberates:0 "The Boule Deliberates"
  NIM_boule_deliberates_desc:0 "The Boule, the citizens' council, is the excecutive of the Nimbusian democracy. But the citizens of Nimbusi can't seem to agree on anything. With both reformists and purists seeking to break the status quo, even the smallest issues turn into an ideological struggle. However, the chaos is an opportunity for ambitious ponies to steer the citizenry with the ancient skill of rhetoric..."
@@ -907,7 +907,7 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_modern_industryies:0 "A Modern Industry"
  NIM_modern_industryies_desc:0 "While we are far from the industrial might of some far-off nations, our potential is great. With proper care, our fledgeling industry can be nurtured into a mighty and modernised industrial sector, and our nation can thrive."
 
- NIM_theater:0 "극"
+ NIM_theater:0 "극장"
  NIM_theater_desc:0 "The theatre is an old and well-loved tradition in Nimbusia, where ponies gather to watch performances of epics, tragedies, and other great oratary works. Promoting nation-wide theatres both would bolster government support and bring more cultural uniformity to our nation."
 
  NIM_hillponies_in_factorys:0 "Hillpony Workers"
