@@ -402,27 +402,27 @@
  
  
  RCT_fund_the_revolution:0 "사회주의 병기창"
- RCT_fund_the_revolution_desc:0 "It is our solemn duty to supply and support socialists abroad, so they can accomplish what we did and overthrow their oppressors, either violently or peacefully. River Republic will be the seed from which liberation shall sprout. Workers of the East, unite!" 
+ RCT_fund_the_revolution_desc:0 "해외의 사회주의자들에게 무기를 지원하고 지지하는 것은 우리의 엄숙한 의무입니다. 그래야 그들이 우리가 해왔던 길을 따라 그들의 억압자들을 폭력적이든 평화적이든 전복시킬 수 있을 겁니다. 리버 공화국은 해방이 싹트게 될 씨앗이 될 것입니다. 동부의 노동자들이여, 단결하라!" 
  
  RCT_support_socialist_politicians:0 "사회주의 운동가 지원"
- RCT_support_socialist_politicians_desc:0 "Class consciousness must be fostered in undereducated foreigners, so they become aware of their oppression and work together to set themselves free. We will send money and instructions to trusted contacts abroad so they can begin to spread word of revolution."
+ RCT_support_socialist_politicians_desc:0 "저학력의 외국 시민들에게 계급의식을 심어준다면 곧 억압을 자각하고 스스로를 해방시키기 위해 함께 노력할 것입니다. 우리는 그들이 혁명의 불씨를 퍼뜨리기 시작할 수 있도록 해외의 신뢰할 수 있는 연락책들에게 돈과 명령을 전할 것입니다."
  
  RCT_support_socialist_partisans:0 "사회주의 파르티잔 지원"
- RCT_support_socialist_partisans_desc:0 "We already know of small groups of socialist freedom fighters in foreign countries. However, they are unable to do much because they lack weapons, training and support in general. They need our help, and we will send it in secret."
+ RCT_support_socialist_partisans_desc:0 "우리는 이미 외국에 있는 사회주의 자유 투사들의 작은 단체를 알고 있습니다. 하지만, 그들은 일반적으로 무기, 훈련, 지원이 부족하기 때문에 많은 것을 할 수 없습니다. 그들은 우리의 도움이 필요하고, 우리는 비밀리에 그것을 보낼 것입니다."
  
  RCT_KGB_misinformation:0 "오보 캠페인"
- RCT_KGB_misinformation_desc:0 "To ensure our operations remain undiscovered, we must confound the lawkeepers, soldiers and agents of foreign countries. Our own agents will infiltrate them so they can spread false information and provide a distraction when necessary. They will cooperate with the partisans and agitators so they can act unnoticed."
+ RCT_KGB_misinformation_desc:0 "우리의 작전이 발견되지 않도록, 우리는 외국의 법률가, 군인, 그리고 그들의 첩보원들을 혼란스럽게 만들어야 합니다. 우리 요원이 침투해서 거짓 정보를 퍼뜨리고 필요할 때 주의를 분산시킬 수 있을 겁니다. 그들은 파르티잔, 선동가들과 협력하여 그들이 눈치채지 못하게 행동할 것입니다."
  
  
  
  RCT_peaceful_beacon:0 "평화의 표지"
- RCT_peaceful_beacon_desc:0 "Nova Whirl has assured the people that the River Republic will be a haven of stability and prosperity in the East, and no military conflicts will be started. If war comes, Rijekan ponies will of course have to defend themselves, but Nova promises to do everything she can to maintain peace with diplomacy."
+ RCT_peaceful_beacon_desc:0 "노바 월은 국민들에게 리버 공화국이 동부의 안정과 번영의 안식처가 될 것이며, 어떠한 군사적 충돌도 일어나지 않을 것이라고 장담했습니다. 만약 전쟁이 일어난다면, 리예칸의 포니들은 당연히 스스로를 보호해야 할 것입니다. 하지만 노바는 외교와 평화를 유지하기 위해 그녀가 할 수 있는 모든 것을 할 것을 약속했습니다."
  
- RCT_fabian_strategy:0 "조시페안 계획"
- RCT_fabian_strategy_desc:0 ""For the right moment you must wait, as Grand Prince Josip Grivačić did most patiently, when warring against the griffons, though many censured his delays; but when the time comes you must strike hard, as Josip did, or your waiting will be in vain, and fruitless."\nNova Whirl plans to adopt a new stratagem, which will slowly but surely transition the Riverlands to socialism."
+ RCT_fabian_strategy:0 "요십의 방식"
+ RCT_fabian_strategy_desc:0 ""지금은 잠시 기다려야 할 때 입니다. 요십 그리바치치 대공이 그리폰과 싸울 때, 많은 자들이 그의 지체를 비난했지만 그는 참을성 있게 그들을 기다렸습니다. 그리고 때가 되면 강하게 부딪혀야 합니다. 마치 요십이 그랬던 것처럼요, 그렇지 않으면 여러분의 기다림은 성과없이 헛수고가 될 것입니다."\n노바 월은 리버랜드를 사회주의로 천천히, 하지만 확실히 전환시키는 새로운 전략을 채택한 것 같습니다."
  
  RCT_solidarity:0 "연대감"
- RCT_solidarity_desc:0 "Proletariat of the East must stand together, for divided they are too weak to resist reactionary aggression. Besides, nations and borders are all constructs made to turn us against each other when in reality we are all brothers and sisters. It is time to begin consolidating the Riverlands into a single Republic!"
+ RCT_solidarity_desc:0 "동부의 프롤레타리아들은 함께 서야 합니다. 분열된 그들은 반정부적인 저항에 버티기에는 나약한 상태일 것입니다. 뿐만 아니라, 국경과 문화는 모두 우리가 형제자매일 때 서로 등을 돌리기 위해 만들어진 구성요소일 뿐입니다. 이제 리버랜드를 하나의 공화국으로 통합하기 시작할 때입니다!"
  
  
  
@@ -491,10 +491,8 @@
  RCT_industry_computing:0 "이퀘스트리아 컴퓨팅"
  RCT_industry_computing_desc:0 "리버 스월의 임기 동안 이퀘스트리아의 대학 및 학교들과 협력 관계를 맺은 적이 있었는데, 그들은 컴퓨터 기계를 개발하고 있었습니다. 현재 우리의 과학자들은 서대륙의 연구를 기반으로 한 최초의 아날로그 컴퓨터를 개발하고 있습니다. 우리의 국가 보조금으로 그들은 빛을 볼 수 있을 것입니다."
  
- RCT_industry_all_in_one:0 "콜트스트림과 리
-
-코그라드 연결"
- RCT_industry_all_in_one_desc:0 "콜트스트림과 리예코그라드 사이에  국도가 존재하지만, 현대식의 철도가 그리프킹 강을 가로질러 건설되어야 합니다. 콜트스트림은 수도와 더욱 밀접하게 연결되어 두 도시 사이의 상업과 산업 협력을 증대시킬 것입니다."
+ RCT_industry_all_in_one:0 "콜트스트림과 리예코그라드 연결"
+ RCT_industry_all_in_one_desc:0 "콜트스트림과 리예코그라드 사이에 국도가 존재하기는 하지만, 현대식의 철도가 그리프킹 강을 가로질러 건설되어야 합니다. 콜트스트림은 수도와 더욱 밀접하게 연결되어 두 도시 사이의 상업과 산업 협력을 증대시킬 것입니다."
  
  RCT_industry_millitary_factories:0 "리버 무기 산업"
  RCT_industry_millitary_factories_desc:0 "우리의 군사산업은 평균적이지만 국제정세에 맞춰서, 우리는 발전해야 합니다. 외국산 무기에 관세를 부과하고 대신 국내 생산업체로부터 우리 군의 장비를 공급받음으로써, 우리는 우리의 무기 산업의 성장을 촉진할 것입니다."
@@ -531,52 +529,52 @@
 
  ######################### Military Focuses ###########  
  RCT_military_start:0 "군사에 집중"
- RCT_military_start_desc:0 "The River Armed Forces are one of the most modern in the East, but that does not mean we can ignore its development. We must reform it for the future, because warfare is always evolving."
+ RCT_military_start_desc:0 "리버 군은 동부에서 가장 현대적인 군대 중 하나이지만, 그렇다고 해서 우리 군의 개발을 경시할 수 있는 것은 아닙니다. 전쟁 양상은 지금도 진화하고 있으니 우리도 미래를 위해 군대를 개혁해야 합니다."
  
  RCT_grand_army_of_the_republic:0 "공화국 군인회"
- RCT_grand_army_of_the_republic_desc:0 "We should hold a military parade to not only show our citizens how great our army truly is, but to also boost its popularity which will get us many more recruits in no time."
+ RCT_grand_army_of_the_republic_desc:0 "우리 군이 얼마나 위대한지 시민들에게 보여줄 뿐만 아니라, 군대의 인기를 높여 순식간에 많은 신병을 확보할 수 있는 열병식을 열어야 합니다."
  
  RCT_inf_stuff:0 "최상의 무기"
- RCT_inf_stuff_desc:0 "The bread and butter of any army are the common infantryponies, so we should ensure they are all equipped with the finest guns of the east."
+ RCT_inf_stuff_desc:0 "보병은 군대의 가장 기본적인 요소입니다, 우리는 그들이 모두 동부에서 최고급의 총기를 갖추고 있는지 확인해야 합니다."
  
  RCT_river_games_military:0 "리버 모의전투 훈련"
  RCT_river_games_military_desc:0 "리버 동맹의 모든 구성원들이 참가하는 대규모 군사 훈련은 우리의 유대감을 강화시킬 뿐만 아니라 우리 포니들이 진정한 싸움에 대비할 수 있도록 필요한 연습을 제공할 것입니다."
  
  RCT_unicorn:0 "유니콘 훈련기관 기금"
- RCT_unicorn_desc:0 "Unicorns can turn the tide with their magic and many battles have been won thanks to them. We should fund more training camps for unicorns so they are capable to support the army even more than they already do."
+ RCT_unicorn_desc:0 "유니콘들은 그들의 마법으로 전세를 역전시킬 수 있었고 그들 덕분에 많은 전투에서 승리를 가져올 수 있었습니다. 우리는 현재 복무중인 유니콘보다도 훨씬 더 많은 유니콘들이 지원할 수 있도록 그들을 위한 훈련 캠프에 더 많은 투자를 행해야 합니다."
  
  RCT_pegasus:0 "페가수스 비행훈련기관 기금"
- RCT_pegasus_desc:0 "While we are physically weaker than griffons, our pegasi have proven time and time again that they can fight evenly in the air, and what they lack in strength they make up in speed. Funding more flight camps will ensure our pegasi have the upper hoof in aerial combat."
+ RCT_pegasus_desc:0 "우리는 그리폰보다 신체적으로 열세이지만, 페가수스는 자신들이 공중에서 대등하게 싸울 수 있다는 것과 힘으로 할 수 없는 것을 속도로 대신할 수 있다는 것을 계속해서 증명히왔습니다. 더 많은 비행 캠프에 투자를 하는 것은 우리의 페가수스들이 공중전에서 우세를 점할 것을 보장할 것입니다."
  
  RCT_ask_allies:0 "동맹국의 원조"
- RCT_ask_allies_desc:0 "Our friends in the Coalition have their own army traditions and modernization programs. We should ask them about their art of war and exchange our knowledge. This way we not only find out what they are doing, but also learn new strategies, tactics and training methods."
+ RCT_ask_allies_desc:0 "우리의 동맹에 있는 친구들은 그들만의 군대 전통과 현대화 계획을 가지고 있습니다. 우리는 그들에게 그들의 전쟁의 기술에 대해 물어보고 우리의 지식을 교환해야 합니다. 이러한 방법으로 우리는 그들이 무엇을 하고있는지 알아낼 뿐만 아니라 새로운 전략, 전술, 훈련 방법을 배울 수 있을 겁니다."
  
  RCT_art_stuff:0 "멀리서 온 죽음"
- RCT_art_stuff_desc:0 "Artillery is the foundation of modern warfare and has proven its usefulness time and time again. Only a fool would not thrive to make them better and better then they already are."
+ RCT_art_stuff_desc:0 "포병은 현대 전쟁의 근간이며, 그 유용성을 계속해서 증명해 왔습니다. 바보가 아니라면 그들을 현재보다 더 발전시킨다는데에 이의가 없을 겁니다."
  
  RCT_moutain_guns:0 "산포"
- RCT_moutain_guns_desc:0 "We have many mountains within our land, so we should make sure that our artillery is designed and built with that in mind. This will make our army able to rain shells on our foes from above."
+ RCT_moutain_guns_desc:0 "우리의 국토에는 산맥이 많기 때문에 그것을 염두에 두고 야포를 설계, 생산하도록 해야 합니다. 이렇게 되면 우리 군은 저 높은곳에서 적에게 포탄을 퍼부을 수 있을 것입니다."
  
  RCT_mobile:0 "현대식 이동수단"
- RCT_mobile_desc:0 "Thanks to combustion engines our soldiers no longer need to pull wagons on their own. These new vehicles are also fast and can traverse all kinds of terrain, only getting stuck in mud. Part of our military budget should be dedicated to increasing the use of trucks in the River Army."
+ RCT_mobile_desc:0 "내연기관 엔진 덕분에 우리 병사들은 더 이상 스스로 마차를 끌 필요가 없게 되었습니다. 이 신형 차량은 속도도 빠르고 진흙탕을 제외하면 거의 모든 종류의 지형을 통과할 수 있습니다. 우리 군 예산의 일부는 리버 군에서 트럭의 사용을 증가시키는 데 쓰여야 합니다."
  
  RCT_tanks:0 "기갑 전투차량"
- RCT_tanks_desc:0 "There is a new innovation that is used on the battlefield in the west, the so called "tank", that has a great amount of potential. With armoured vehicles it is easy to strike at the enemy swiftly and break through defences that otherwise would be impenetrable. We should immediately begin researching these "tanks"."
+ RCT_tanks_desc:0 "서부의 전장에서 사용되고 있는 새로운 혁신, 이른바 "탱크"는 엄청난 잠재력을 가지고 있습니다. 장갑화된 차량이라면 적을 신속하게 공격할 수 있고 보통의 방식으로는 뚫지 못하던 방어선도 돌파할 수 있을 것입니다. 우리는 즉시 이 "탱크"에 대한 연구를 시작해야 합니다."
  
  RCT_doctrain_2:0 "군을 위한 개선된 교리"
- RCT_doctrain_2_desc:0 "Our military doctrines are slowly becoming outdated and there are many new innovations in warfare that we do not yet understand. Sending observers abroad to study the most modern militaries should allow us to reform our doctrines."
+ RCT_doctrain_2_desc:0 "우리의 군사 교리는 점차 시대에 뒤떨어지고 있으며, 우리가 아직 이해하지 못하는 새로운 전쟁 양상의 발전은 지금도 일어나고 있습니다. 현대적인 군대를 학습하기 위해 파견단들을 해외로 보내고 우리의 교리를 개선할 수 있도록 해야 합니다."
  
  RCT_mobile2:0 "무기 혼합"
- RCT_mobile2_desc:0 "What our research showed us was clear: tanks and motorized infantry go hoof to hoof. The two must be combined into a single unit, but that is not all. We also have to make sure that we have the newest models out there, as what good do combined arms do if the arms are outdated?"
+ RCT_mobile2_desc:0 "우리의 연구가 보여준 것은 분명했습니다. 탱크와 차량화 보병들이 따로따로 움직였다는 것입니다. 이 두 가지를 하나의 부대로 결합할 뿐만 아니라 그것들의 신식 모델들을 확보해야 합니다. 군대가 구식이라면, 그 둘을 합쳐봤자 무슨 의미가 있겠습니까?"
  
  RCT_staff_start:0 "유능한 장관들"
- RCT_staff_start_desc:0 "A good commander can lead a dozen sheep to victory against an army of wolves. We must ensure we have enough officers and that they are well-trained to fight a modern war."
+ RCT_staff_start_desc:0 "훌륭한 지휘관은 늑대 무리에 맞선 십여 마리의 양을 승리로 이끌 수도 있습니다. 우리는 우리에게 충분한 장교가 있고 그들이 현대 전쟁을 치르기 위해 잘 훈련되어 있는지 확인해야 합니다."
  
  RCT_defensive_staff:0 "방어적 참모총장"
- RCT_defensive_staff_desc:0 "The most senior officer of the River Army must have a defensive mindset. The Riverlands have many natural defenses, such as rivers, mountains and forests, and it would be foolish not to utilize them."
+ RCT_defensive_staff_desc:0 "리버 군의 최고위 장교는 방어적인 태도를 가지고 있어야 합니다. 리버랜드는 강, 산, 숲으로 이루어진  천혜의 요새이고, 이것을 이용하지 않는 것은 어리석은 일일 것입니다."
  
  RCT_offensive_staff:0 "공격적 참모총장"
- RCT_offensive_staff_desc:0 "The River Army's leader should not foolishly rely solely on our defences, but must remain active for modern warfare is offensive and mobile warfare. We cannot allow our enemy to prepare attacks in peace, but harass them and break their lines."
+ RCT_offensive_staff_desc:0 "리버 군의 지도자는 바보같이 우리의 방어에만 의존해서는 안 되며, 현대전의 공격적이고 기동전술의 성향을 따라 적극적이여야 할 것입니다. 우리는 적이 평화롭게 공격을 준비하는 것을 용납하지 않으며, 그들을 괴롭히고 그들의 전선을 무너뜨릴겁니다."
  
  RCT_special_ops:0 "특수부대"
  RCT_special_ops_desc:0 "We need to establish a unit dedicated to fulfilling special missions, during both war and peace. They will receive extensive, even dangerous training and be given our finest equipment to ensure they are the best of the best. All are invited, few are chosen."
