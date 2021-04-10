@@ -78,10 +78,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  EQS_infantry_equipment_x_2_short:0 "Starlight"
  EQS_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- EQS_melee_equipment_0:0 "Canterlot Swords"
- EQS_melee_equipment_1:0 "Macintosh Muskets"
- EQS_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- EQS_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ EQS_melee_equipment_0:0 "캔틀롯 검"
+ EQS_melee_equipment_1:0 "매킨토시 머스킷"
+ EQS_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ EQS_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  NLR_infantry_equipment_x:0 "Lightning"
  NLR_infantry_equipment_x_short:0 "Lightning"
@@ -90,10 +90,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  NLR_infantry_equipment_x_2_short:0 "Starlight"
  NLR_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- NLR_melee_equipment_0:0 "Canterlot Swords"
- NLR_melee_equipment_1:0 "Macintosh Muskets"
- NLR_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- NLR_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ NLR_melee_equipment_0:0 "캔틀롯 검"
+ NLR_melee_equipment_1:0 "매킨토시 머스킷"
+ NLR_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ NLR_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  NMS_infantry_equipment_x:0 "Lightning"
  NMS_infantry_equipment_x_short:0 "Lightning"
@@ -102,10 +102,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  NMS_infantry_equipment_x_2_short:0 "Starlight"
  NMS_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- NMS_melee_equipment_0:0 "Canterlot Swords"
- NMS_melee_equipment_1:0 "Macintosh Muskets"
- NMS_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- NMS_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ NMS_melee_equipment_0:0 "캔틀롯 검"
+ NMS_melee_equipment_1:0 "매킨토시 머스킷"
+ NMS_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ NMS_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  CES_infantry_equipment_x:0 "Lightning"
  CES_infantry_equipment_x_short:0 "Lightning"
@@ -114,10 +114,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  CES_infantry_equipment_x_2_short:0 "Starlight"
  CES_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- CES_melee_equipment_0:0 "Canterlot Swords"
- CES_melee_equipment_1:0 "Macintosh Muskets"
- CES_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- CES_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ CES_melee_equipment_0:0 "캔틀롯 검"
+ CES_melee_equipment_1:0 "매킨토시 머스킷"
+ CES_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ CES_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  JUN_infantry_equipment_x:0 "Lightning"
  JUN_infantry_equipment_x_short:0 "Lightning"
@@ -126,10 +126,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  JUN_infantry_equipment_x_2_short:0 "Starlight"
  JUN_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- JUN_melee_equipment_0:0 "Canterlot Swords"
- JUN_melee_equipment_1:0 "Macintosh Muskets"
- JUN_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- JUN_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ JUN_melee_equipment_0:0 "캔틀롯 검"
+ JUN_melee_equipment_1:0 "매킨토시 머스킷"
+ JUN_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ JUN_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  VAN_infantry_equipment_x:0 "Lightning"
  VAN_infantry_equipment_x_short:0 "Lightning"
@@ -138,9 +138,9 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  VAN_infantry_equipment_x_2_short:0 "Starlight"
  VAN_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- VAN_melee_equipment_0:0 "Canterlot Swords"
- VAN_melee_equipment_1:0 "Macintosh Muskets"
- VAN_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
+ VAN_melee_equipment_0:0 "캔틀롯 검"
+ VAN_melee_equipment_1:0 "매킨토시 머스킷"
+ VAN_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  VAN_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
 
  BAL_infantry_equipment_x:0 "Lightning"
@@ -150,10 +150,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  BAL_infantry_equipment_x_2_short:0 "Starlight"
  BAL_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- BAL_melee_equipment_0:0 "Canterlot Swords"
- BAL_melee_equipment_1:0 "Macintosh Muskets"
- BAL_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- BAL_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ BAL_melee_equipment_0:0 "캔틀롯 검"
+ BAL_melee_equipment_1:0 "매킨토시 머스킷"
+ BAL_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ BAL_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  SCS_infantry_equipment_x:0 "Lightning"
  SCS_infantry_equipment_x_short:0 "Lightning"
@@ -162,10 +162,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  SCS_infantry_equipment_x_2_short:0 "Starlight"
  SCS_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- SCS_melee_equipment_0:0 "Canterlot Swords"
- SCS_melee_equipment_1:0 "Macintosh Muskets"
- SCS_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- SCS_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ SCS_melee_equipment_0:0 "캔틀롯 검"
+ SCS_melee_equipment_1:0 "매킨토시 머스킷"
+ SCS_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ SCS_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
  
  LSP_infantry_equipment_x:0 "Lightning"
  LSP_infantry_equipment_x_short:0 "Lightning"
@@ -174,10 +174,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  LSP_infantry_equipment_x_2_short:0 "Starlight"
  LSP_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- LSP_melee_equipment_0:0 "Canterlot Swords"
- LSP_melee_equipment_1:0 "Macintosh Muskets"
- LSP_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- LSP_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ LSP_melee_equipment_0:0 "캔틀롯 검"
+ LSP_melee_equipment_1:0 "매킨토시 머스킷"
+ LSP_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ LSP_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  ROC_infantry_equipment_x:0 "Lightning"
  ROC_infantry_equipment_x_short:0 "Lightning"
@@ -186,15 +186,15 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  ROC_infantry_equipment_x_2_short:0 "Starlight"
  ROC_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
- ROC_melee_equipment_0:0 "Canterlot Swords"
- ROC_melee_equipment_1:0 "Macintosh Muskets"
- ROC_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- ROC_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ ROC_melee_equipment_0:0 "캔틀롯 검"
+ ROC_melee_equipment_1:0 "매킨토시 머스킷"
+ ROC_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ ROC_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- SOL_melee_equipment_0:0 "Canterlot Swords"
- SOL_melee_equipment_1:0 "Macintosh Muskets"
- SOL_melee_equipment_0_desc:0 "Finest swords from Canterlot smiths. An elegant weapon for a more civilised age, now used strictly for parade grounds and last resorts."
- SOL_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
+ SOL_melee_equipment_0:0 "캔틀롯 검"
+ SOL_melee_equipment_1:0 "매킨토시 머스킷"
+ SOL_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
+ SOL_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
  CRY_infantry_equipment_x:0 "Lightning"
  CRY_infantry_equipment_x_short:0 "Lightning"
