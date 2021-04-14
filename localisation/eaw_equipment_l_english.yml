@@ -71,11 +71,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  armored_car_at_equipment2_desc:0 "Specialized anti-tank cars can engage at lightning speed and punch through the armor of even some modern tanks. These will lead our armored cars to victory against any foes they may face!"
 
  #### Equestria
- EQS_infantry_equipment_x:0 "Lightning"
- EQS_infantry_equipment_x_short:0 "Lightning"
+ EQS_infantry_equipment_x:0 "라이트닝"
+ EQS_infantry_equipment_x_short:0 "라이트닝"
  EQS_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- EQS_infantry_equipment_x_2:0 "Starlight"
- EQS_infantry_equipment_x_2_short:0 "Starlight"
+ EQS_infantry_equipment_x_2:0 "스타라이트"
+ EQS_infantry_equipment_x_2_short:0 "스타라이트"
  EQS_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  EQS_melee_equipment_0:0 "캔틀롯 검"
@@ -83,11 +83,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  EQS_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  EQS_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- NLR_infantry_equipment_x:0 "Lightning"
- NLR_infantry_equipment_x_short:0 "Lightning"
+ NLR_infantry_equipment_x:0 "라이트닝"
+ NLR_infantry_equipment_x_short:0 "라이트닝"
  NLR_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- NLR_infantry_equipment_x_2:0 "Starlight"
- NLR_infantry_equipment_x_2_short:0 "Starlight"
+ NLR_infantry_equipment_x_2:0 "스타라이트"
+ NLR_infantry_equipment_x_2_short:0 "스타라이트"
  NLR_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  NLR_melee_equipment_0:0 "캔틀롯 검"
@@ -95,11 +95,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  NLR_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  NLR_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- NMS_infantry_equipment_x:0 "Lightning"
- NMS_infantry_equipment_x_short:0 "Lightning"
+ NMS_infantry_equipment_x:0 "라이트닝"
+ NMS_infantry_equipment_x_short:0 "라이트닝"
  NMS_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- NMS_infantry_equipment_x_2:0 "Starlight"
- NMS_infantry_equipment_x_2_short:0 "Starlight"
+ NMS_infantry_equipment_x_2:0 "스타라이트"
+ NMS_infantry_equipment_x_2_short:0 "스타라이트"
  NMS_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  NMS_melee_equipment_0:0 "캔틀롯 검"
@@ -107,11 +107,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  NMS_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  NMS_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- CES_infantry_equipment_x:0 "Lightning"
- CES_infantry_equipment_x_short:0 "Lightning"
+ CES_infantry_equipment_x:0 "라이트닝"
+ CES_infantry_equipment_x_short:0 "라이트닝"
  CES_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- CES_infantry_equipment_x_2:0 "Starlight"
- CES_infantry_equipment_x_2_short:0 "Starlight"
+ CES_infantry_equipment_x_2:0 "스타라이트"
+ CES_infantry_equipment_x_2_short:0 "스타라이트"
  CES_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  CES_melee_equipment_0:0 "캔틀롯 검"
@@ -119,11 +119,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  CES_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  CES_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- JUN_infantry_equipment_x:0 "Lightning"
- JUN_infantry_equipment_x_short:0 "Lightning"
+ JUN_infantry_equipment_x:0 "라이트닝"
+ JUN_infantry_equipment_x_short:0 "라이트닝"
  JUN_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- JUN_infantry_equipment_x_2:0 "Starlight"
- JUN_infantry_equipment_x_2_short:0 "Starlight"
+ JUN_infantry_equipment_x_2:0 "스타라이트"
+ JUN_infantry_equipment_x_2_short:0 "스타라이트"
  JUN_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  JUN_melee_equipment_0:0 "캔틀롯 검"
@@ -131,11 +131,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  JUN_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  JUN_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- VAN_infantry_equipment_x:0 "Lightning"
- VAN_infantry_equipment_x_short:0 "Lightning"
+ VAN_infantry_equipment_x:0 "라이트닝"
+ VAN_infantry_equipment_x_short:0 "라이트닝"
  VAN_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- VAN_infantry_equipment_x_2:0 "Starlight"
- VAN_infantry_equipment_x_2_short:0 "Starlight"
+ VAN_infantry_equipment_x_2:0 "스타라이트"
+ VAN_infantry_equipment_x_2_short:0 "스타라이트"
  VAN_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  VAN_melee_equipment_0:0 "캔틀롯 검"
@@ -143,11 +143,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  VAN_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  VAN_melee_equipment_1_desc:0 "Muskets of the old Macintosh mastery."
 
- BAL_infantry_equipment_x:0 "Lightning"
- BAL_infantry_equipment_x_short:0 "Lightning"
+ BAL_infantry_equipment_x:0 "라이트닝"
+ BAL_infantry_equipment_x_short:0 "라이트닝"
  BAL_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- BAL_infantry_equipment_x_2:0 "Starlight"
- BAL_infantry_equipment_x_2_short:0 "Starlight"
+ BAL_infantry_equipment_x_2:0 "스타라이트"
+ BAL_infantry_equipment_x_2_short:0 "스타라이트"
  BAL_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  BAL_melee_equipment_0:0 "캔틀롯 검"
@@ -155,11 +155,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  BAL_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  BAL_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- SCS_infantry_equipment_x:0 "Lightning"
- SCS_infantry_equipment_x_short:0 "Lightning"
+ SCS_infantry_equipment_x:0 "라이트닝"
+ SCS_infantry_equipment_x_short:0 "라이트닝"
  SCS_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- SCS_infantry_equipment_x_2:0 "Starlight"
- SCS_infantry_equipment_x_2_short:0 "Starlight"
+ SCS_infantry_equipment_x_2:0 "스타라이트"
+ SCS_infantry_equipment_x_2_short:0 "스타라이트"
  SCS_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  SCS_melee_equipment_0:0 "캔틀롯 검"
@@ -167,11 +167,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  SCS_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  SCS_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
  
- LSP_infantry_equipment_x:0 "Lightning"
- LSP_infantry_equipment_x_short:0 "Lightning"
+ LSP_infantry_equipment_x:0 "라이트닝"
+ LSP_infantry_equipment_x_short:0 "라이트닝"
  LSP_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- LSP_infantry_equipment_x_2:0 "Starlight"
- LSP_infantry_equipment_x_2_short:0 "Starlight"
+ LSP_infantry_equipment_x_2:0 "스타라이트"
+ LSP_infantry_equipment_x_2_short:0 "스타라이트"
  LSP_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  LSP_melee_equipment_0:0 "캔틀롯 검"
@@ -179,11 +179,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  LSP_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  LSP_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- ROC_infantry_equipment_x:0 "Lightning"
- ROC_infantry_equipment_x_short:0 "Lightning"
+ ROC_infantry_equipment_x:0 "라이트닝"
+ ROC_infantry_equipment_x_short:0 "라이트닝"
  ROC_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- ROC_infantry_equipment_x_2:0 "Starlight"
- ROC_infantry_equipment_x_2_short:0 "Starlight"
+ ROC_infantry_equipment_x_2:0 "스타라이트"
+ ROC_infantry_equipment_x_2_short:0 "스타라이트"
  ROC_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  ROC_melee_equipment_0:0 "캔틀롯 검"
@@ -196,11 +196,11 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  SOL_melee_equipment_0_desc:0 "캔틀롯의 대장장이들이 제작한 최고급 검. 과거 고상했던 시대의 우아한 무기로, 오늘날에는 행사용이나 최후의 수단으로써만 쓰입니다."
  SOL_melee_equipment_1_desc:0 "오래된 매킨토시 방식으로 만든 머스킷 총입니다."
 
- CRY_infantry_equipment_x:0 "Lightning"
- CRY_infantry_equipment_x_short:0 "Lightning"
+ CRY_infantry_equipment_x:0 "라이트닝"
+ CRY_infantry_equipment_x_short:0 "라이트닝"
  CRY_infantry_equipment_x_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
- CRY_infantry_equipment_x_2:0 "Starlight"
- CRY_infantry_equipment_x_2_short:0 "Starlight"
+ CRY_infantry_equipment_x_2:0 "스타라이트"
+ CRY_infantry_equipment_x_2_short:0 "스타라이트"
  CRY_infantry_equipment_x_2_desc:0 "Better equipment layouts and reductions in weight have led to great advances in efficiency and power."
 
  GRW_melee_equipment_0:0 "Amaryll Swords"
@@ -213,10 +213,10 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  BRF_melee_equipment_0_desc:0 "Weapons from the oldest smithy in Prywhen, remnants of a pre-gunpowder era."
  BRF_melee_equipment_1_desc:0 "Amaryll muskets from the workshops of weapon masters."
 
- BUF_melee_equipment_0:0 "Pies"
- BUF_melee_equipment_1:0 "Appleloosian Muskets"
- BUF_melee_equipment_0_desc:0 "Finest Pies."
- BUF_melee_equipment_1_desc:0 "Muskets built from the design of those bought from Appleloosian settlers."
+ BUF_melee_equipment_0:0 "파이"
+ BUF_melee_equipment_1:0 "애플루사제 머스킷총"
+ BUF_melee_equipment_0_desc:0 "맛좋은 파이입니다."
+ BUF_melee_equipment_1_desc:0 "애플루사의 정착민들에게서 산 설계를 따라 만든 머스킷총입니다."
 
 
  #### STG
@@ -232,7 +232,7 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
 
  melee_equipment_0:0 "화약 이전 무기"
  melee_equipment_0_short:0 "원시적인 무기"
- melee_equipment_0_desc:0 "Before the invention of gunpowder polearms, swords, shields, slings, bows, crossbows, basic handcannons and numerous other weapons along with metal armours were common on the battlefield, and still are in less advanced places of the world."
+ melee_equipment_0_desc:0 "화약의 발명 이전까지는 금속 갑옷과 함께 창, 검, 방패, 투석끈, 활, 석궁, 원시적인 핸드캐넌 등을 비롯한 여러 다양한 무기들이 전장에서 쓰였으며, 아직 기술이 발전하지 못한 곳에서는 지금도 주무기로써 쓰이고 있습니다."
  melee_equipment_1:0 "전장식 총"
  melee_equipment_1_short:0 "전장식 총"
  melee_equipment_1_desc:0 "Gunpowder weapons are slowly being adapted, but so far gunsmiths are only able to make basic muzzle-loading firearms with wheellocks, flintlocks or matchlocks, which use black powder to propel bullets across a relatively long distance. The weapons are highly inaccurate and take a long time to reload, which means the most effective way to use the weapon in battle is to form up in long, organized lines."
@@ -343,9 +343,9 @@ dragon_equipment_desc:0 "Draconic equipment consists of huge metallic plates use
  BAL_EQUIPMENT_VERSION_7:0 "Mk. VII"
  BAL_EQUIPMENT_VERSION_8:0 "Mk. VIII"
  BAL_EQUIPMENT_VERSION_9:0 "Mk. IX"
- BAL_gw_tank_equipment:0 "Yak 'Tank' Infantry Fighting Vehicle"
+ BAL_gw_tank_equipment:0 "야크 '탱크' 보병전투차량"
  BAL_gw_tank_equipment_desc:0 "Equestria, embarrassed by their losses during the conflict with Stalliongrad, rushed to produce prototype copies of the makeshift Stalliongrad vehicles. One tester, nearly overwhelmed by the exhaust choking the poorly ventilated interior, likened the experience to 'sitting inside of a fuel tank'. Critics of the project seized on the comment, and the nickname 'tank' stuck, with the true name quickly forgotten."
- BAL_gw_tank_equipment_short:0 "Yak 'Tank'"
+ BAL_gw_tank_equipment_short:0 "야크 '탱크'"
  BAL_heavy_tank_aa_equipment_2:0 "Celestia Airshredder"
  BAL_heavy_tank_aa_equipment_2_short:0 "Celestia Airshredder"
  BAL_heavy_tank_aa_equipment_3:0 "Ursa Minor Airshredder Type E"
