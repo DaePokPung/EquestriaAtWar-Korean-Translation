@@ -171,8 +171,8 @@
  NIM_fascism_focus_14_idea:0 "페리오이코이 권리 박탈"
  NIM_fascism_focus_14_idea_desc:0 "어스포니와 유니콘놈들은 약하고 쓸모없습니다. 놈들은 과거 우리가 줬던 권리를 누릴 자격이 없습니다. 놈들의 권리를 박탈하고 페가시 아래에서 제 자리를 깨닫게 해야합니다."
  NIM_fascism_focus_15_idea:0 "상명하복"
- NIM_fascism_focus_15_idea_desc:0 "Our soldiers shall follow any order, with no questions asked. We shall instill the strongest discipline of the world, breeding a army of unquestioning, disciplined and strong warriors who will obey our every demand."
- NIM_quick_wargoals_idea:0 "쌘 놈이 옳다"
+ NIM_fascism_focus_15_idea_desc:0 "우리 병사들은 어떤 명령에라도 따를 것이며 그 어떠한 질문도 하지 않을겁니다. 우리는 이 세상에서 가장 엄중한 군기를 보여줄 것이며, 우리는 모든 요구에 의심없이 순종하는 단련되고 강한 전사들을 양성할 것입니다."
+ NIM_quick_wargoals_idea:0 "강자가 옳다"
  NIM_quick_wargoals_idea_desc:0 "The weak may go on about the rights of beings, but that is nothing but the coping of weaklings. We are the strong, and our enemies are the weak- it is the natural order that we subjugate them and force them in their place as servants to us."
  NIM_tribute_idea:0 "Tribute for Protection"
  NIM_tribute_idea_desc:0 "The River Republic is providing us tribute in excahnge for us protecting them."
@@ -364,10 +364,10 @@
  nimbusia.15.a_good:0 "So even the oracles have become politicized?"
  nimbusia.15.a_bad:0 "How can the traditionalists stand against the waters of change?"
  ### NIM Fascism Good event
- nimbusia.16.t:0 "March of the Hoplites"
+ nimbusia.16.t:0 "호플리테스의 행진"
  nimbusia.16.d:0 "In ancient times, Hoplites would frequently parade through the cities of Nimbusia, proudly displaying their rigid discipline, sparkling bronze armour, and impressive iron-tipped dorus. To this day, this tradition has continued, and while the armour and weaponry have evolved, from our primitive past, the discipline our armies display cannot be matched.\n\nThousands upon thousands of disciplined hoplite musketeers marched through Nimbusi today, their hooves moving perfectly in-sync with their brothers and sisters. Officers barked orders and postures were kept stiff, as not a single mistake was allowed to permeate through the ranks.\n\nAlong the parade route, citizens, perioikoi, and even helots watched in awe as the formations slowly moved throughout the streets. They were heading towards an inner-city plaza, with great determination.\n\nThe ponies intrigued enough to follow, found that the formations stopped there, standing perfectly still at attention. A crowd began to form on the edges, as a whispered murmur of anticipation oozed through the audience.\n\nA few minutes later, a young officer took the stage adorned in the bronze hoplite armour of old. It was none other than Andreia of the purist faction. She delivered a speech to her troops, praising them for their discipline and professionalism.\n\nHer attention then turned to the crowd as she made them the focus of her dialog. She called upon the citizens who had formerly served to remember their service to the Army and use their voices to pressure their elders into appointing pro-purist members to the Boules. Only then could the superiority and glory of the old Nimbusian Hoplites be truly realized."
- nimbusia.16.a_good:0 "The army needs more officers like Andreia."
- nimbusia.16.a_bad:0 "This is an abuse of the military! Does Andreia have no shame?"
+ nimbusia.16.a_good:0 "군에 안드레이아와 같은 장교가 더 많아야한다."
+ nimbusia.16.a_bad:0 "이딴거에 군을 오용했다고! 안드레이아는 부끄럼도 모르나?"
  ### NIM Fascism Bad event
  nimbusia.17.t:0 "Nekrikotita's Play"
  nimbusia.17.d:0 "Nekrikotita is an earth pony whose name is uttered with both praise and disdain, depending on which social circles you populate in Nimbusia. He is known for creating comedies which have been called hilarious, crude, depraved, outrageous, inspired, and horrible by all manner of fans and critics.\n\nHis most recent play, A Day for Speushippos might be his most ambitious project yet. The play tells the story of purist philosopher Speushippos who is so engrossed with pegasus purity that he refuses to touch his hooves upon the ground. However, due to this aerial life he begins to miss important events.\n\nThese start innocently enough as Speushippos misses social parties, speeches, and political happenings. However, things begin to rapidly ramp up as Speushippos is called to debate Ponetagoras. However, the debate is to happen upon the ground. So, Speushippos settles for yelling his rebuttals from his cloud, with Ponetagoras taking each of these muffled complaints and altering them into either, points in favour of his argument, or mocking various attributes of his opponent.\n\nThings really start to heat up in the last act however, when Speushippos' wife begins to have an affair on the ground with a unicorn merchant. She confides in her lover, admitting that this isn't her first time partaking in an affair and that Speushippos' had once been 'cuckolded by a Helot' with the play openly questioning the legitimacy of Speushippos' heirs.\n\nCritics have once again called this play both a masterpiece and the most repulsive thing to come from Nekrikotita's quill."
@@ -441,7 +441,7 @@
  nimbusia.30.b:0 "신께서 결정하도록 하자." #let fate decide
  nimbusia.30.c:0 "시민이 먼저다!" #fascism
  ### NIM Education first ideology speaks
- nimbusia.31.t:0 "Andreia attacks the Education Plan"
+ nimbusia.31.t:0 "안드레이아가 교육 계획을 비난하다"
  nimbusia.31.d:0 "Andreia's heart was pounding in her chest, almost as if it was trying to burst out. Nimbusi had been heating up ever since the last debate of the Ecclesia and she felt her victory was near. She had but to bash the education plan of the reformists and their unicorn leader Metakeros. The very idea of anypony letting themselves be led by a unicorn was making her disgusted. When she took over, there would indeed be much work to do...\n\n"Citizens, friends, we have gathered here tonight for a deliberation on the matter of education. Or at least, that is what you have been led to believe. For the reformists seek to give their lackeys citizenship, so they can control us all. Their weak, despicable perioikoi allies! Those ponies who are obsessed with coins and would rather sell their mothers than to fight a battle!" Andreia felt that she was letting herself go, her rage flowed uncontrollably out of her mouth into the ears of the crowd. "Instead, I seek to strengthen the knowledge of our children. The citizens of Nimbusia are the pride of the Gods and our proposal will ensure that they gain the best possible education. Vote for Nimbusia, or perish from the reformists' weakness." Andreia took a deep breaths, the speech, which almost devolved into her shouting. The Ecclesia was riled up and chanting phrases at her. Had she won already?"
  nimbusia.31.a:0 "Metakeros takes the stand."
  ### NIM Education second ideology speaks
@@ -590,12 +590,12 @@
  nimbusia.57.a:0 "They have much to learn."
 
  ### NIM return of the Exiles ###
- nimbusia.58.t:0 "Return of the Purists"
+ nimbusia.58.t:0 "순수주의자들의 귀환"
  nimbusia.58.d:0 "The purists, who were ostracised and banished from Nimbusia have returned from their exile. Those who met them have found that they have fundamentally changed. Where before they were full of energy, arrogant and easily worked up, they have become calm, speaking only after careful consideration. After a public apology for their past deeds, the military welcomed back her lost sons and daughters. It seemed that time away from home really helped the young soldiers to mature."
  nimbusia.58.a:0 "They really changed?"
 
  ###FRE return of the Exiles###
- nimbusia.59.t:0 "The Exiles go Home"
+ nimbusia.59.t:0 "망명자들의 귀환"
  nimbusia.59.d:0 "It took a long time for the pegasi exiles from Nimbusia to step over the shadow of their pride and to accept our help. But a combination of solemn meditation and a harsh training regimen help to clean their mind from the foul thoughts that plagued them. The hatred and anger melted away from the Nimbusians' soul, leaving only that which was good. However, the Nimbusians still desired to go back to their homeland, counting the days until their exile would be over. When that day arrived, changed mares and stallions left the monastery tucked deep in the highlands of Pònaidhean. The headmaster had great faith that these pegasi would now use their martial prowess in the pursuit of good."
  nimbusia.59.a:0 "They have been taught well."
 
@@ -607,11 +607,11 @@
 nimbusia.61.t:0 "페기클레스 사망"
  nimbusia.61.d:0 "[This.GetNewspaperHeader]Nimbusia entered mourning today, as noted Nimbusian leader and politician Pegicles was laid to rest in his tomb after dying of natural causes. He was a highly popular figure in Nimbuisa, and according to many ponies represented the core values of Nimbusian society. The funeral was appropriately humble, but nevertheless, many representatives and leaders of the Union traveled to the agora of Nimbusi to pay their respects to the dauntless leader. The death of Pegicles has caused a political shift of sorts, as many ponies believe that only the respect he commanded in Nimbusia prevented the political situation from deteriorating any further. With his uniting presence now removed, it seems that these factions are growing bolder by the day. With the death of its leader, the time has come for Nimbusia to change, and the Riverlands wait to see what will come next."
  nimbusia.61.a:0 "그는 우리의 귀감이었다."
- nimbusia.61.b:0 "지도자 없이 님부시아마들이 뭘 할까?"
+ nimbusia.61.b:0 "님부시아마들이 지도자 없이 무얼 할까?"
 
  nimbusia.62.t:0 "페기클레스의 장례"
  nimbusia.62.d:0 "In the middle of the agora, surrounded by mourning ponies, lay the body of Strategos Pegicles. He had passed away peacefully in his home and his body had been prepared with the utmost care. This great hero of Nimbusia was an embodiment of the values the nation cherished. The general was brave, but did not risk his life foolishly. He was charitable, but didn't spend too much money. He was likeable, but never overpraised anypony. The wailing of crying mares filled the air of the great city of Nimbusi for many hours and even the stallions could not keep their tears to themselves. A great pony had gone into the afterlife and more than ever, the Nimbusians realised that they stood at the end of an era.\n\nThat day, everypony forgot their political allegiance or their standing as the Strategos was laid to rest outside the city's gate in a plain tomb, as was tradition. Nopony held a funeral oration for the great hero, since any leader that would do so would be seen as taking advantage of the situation. Nopony would stoop that low. So the stalwart defender of Nimbusia went without praise, although no words were necessary for the pegasus. With him the last thing that bound the factions of Nimbusian politics also vanished. Now would be a time of mourning, but many feared for the safety of his legacy now that the pegasus had passed to another world..."
- nimbusia.62.a:0 "Woe unto us."
+ nimbusia.62.a:0 "비통하구나."
 
  nimbusia.63.t:0 "Return of Barrad"
  nimbusia.63.d:0 "The pegasi of Nimbusia have recently waged a war against the Barrad Magocracy, the breakaway state of unicorns who used forbidden magic to get their way. The spells and magic might of these unicorns could not stand against the determination and martial might of the pegasi army and now Barrad is under their control.\n\nHowever, [From.GetLeader] has decided to cede the land they conquered back to us as a sign of good faith. The population cheered when our troops marched in to take over, happy that they were finally freed from the dark experiments of the evil mages."
@@ -638,7 +638,7 @@ nimbusia.61.t:0 "페기클레스 사망"
 
  nimbusia_revolt.1.t:0 "헬롯의 승리"
  nimbusia_revolt.1.d:0 "The Helots of Nimbusia have long served as an underclass of sorts, doing the menial labor and tasks that the upper classes considered beneath them. The Helots had few to no rights, and the mere idea of them participating in an election was laughable. The Helots were there to be shaped to their master's whims. But it could also be said that as the Helots were shaped by their masters, their masters were shaped by the Helots.\n\nThe Helots greatly outnumbered the citizens of Nimbusia, and this fact was not lost on the Numbusians. While the Nimbusians valued their martial strength as a way of defending from external aggression, their greatest fear was always the Helots.\n\nAnd as the slave army of the Helots marches victoriously through the broken gates of Nimbusi, those old fears are given shape. The old order of Nimbusia lies dead, along with most of its politicians. The Helots must now shape their own future and accept whatever consequences come from this radical change."
- nimbusia_revolt.1.a:0 "We are free at last."
+ nimbusia_revolt.1.a:0 "드디어 자유로워졌다."
  nimbusia_revolt.2.t:0 "정치적 폭풍"
  nimbusia_revolt.2.d:0 "The philosophers and politicians of Nimbusia prided themselves in their democratic tradition. That is not to say that debate within the Boule was always civilized, or even rational at all, but there was a certain pedigree that ponies were expected to live up to. Whatever the subject matter was, be it the troublesome Xenoi or a political scandal, it could be trusted that the various factions within the Boule would have clear agendas. \n\nBut as the Helots seize control over the political apparatus of Nimbusia, those days seem like distant memories. While the Helots might have been united by class during their revolution, once the dust had settled they quickly congregated into various cliques. \n\nThese groupings are often centered around charismatic and influential leaders, ones who have few agendas besides the accumulation of power. The Helots have little in common with the citizens of Nimbusia, lacking anything beyond the most basic education, and most subjects of debate are the division of looted wealth or the control of territory in Nimbusi. Whatever debate is had often devolves into brawls between the various factions that now inhabit the Helot-lead Boule.\n\nIt seems that political stabilization is a long way off from the Helots, and some measure of order must be achieved soon, lest the River Coalition intervene. "
  nimbusia_revolt.2.a:0 "We will endure."
@@ -804,16 +804,16 @@ nimbusia.61.t:0 "페기클레스 사망"
 
  #Puritans win
  NIM_state_of_war:0 "전시체제"
- NIM_state_of_war_desc:0 "In the minds of the people, there is a difference between peace and war. It is clear, however, that there will always be another war and we should prepare for it. By declaring Nimbusia to be in a perpetual state of war, we will be able to take all the necessary measures for the defence of our Nation."
+ NIM_state_of_war_desc:0 "국민의 마음 속에는 평화와 전쟁이 깃들어있습니다. 우리가 얼마나 평화를 바라건, 전쟁은 언젠가 우리를 찾아올 것입니다. 그럴것이라면 차라리 님부시아가 항구적 전쟁 상태에 빠져있다 선언하고 국가의 방위에 필요한 모든 조치를 취하는 것이 낫습니다."
 
  NIM_keep_young:0 "금권정"
- NIM_keep_young_desc:0 "It was the bold spirit and search for glory of the young officers of Nimbusia which led us to finally take full control of the state. It is therefore only fair that the most energetic and brave pegasi should lead the country. We will proclaim Andreia as our Autokratessa."
+ NIM_keep_young_desc:0 "우리가 국가를 완전히 장악하는데는 님부시아의 젊은 장교들의 대담한 정신과 영광에 대한 추구의 도움이 컸습니다. 그러므로 가장 활기차고 용감한 페가시가 나라를 이끎은 정당합니다. 안드레이아가 우리들의 아우토크라테사가 될 것입니다."
 
- NIM_get_old:0 "전제정"
- NIM_get_old_desc:0 "더 유능한 사람에게 더 많은 책임을 지우는 것이야말로 지혜의 상징입니다. 베테랑 장교인 길히포스는 이성적이고 경험이 풍부한 페가수습니다. 그의 지도가 님부시아를 진정한 힘으로 이끌 수 있도록 우리는 그를 주권자의 반석에 앉혀야합니다."
+ NIM_get_old:0 "귀족정"
+ NIM_get_old_desc:0 "더 유능한 사람에게 더 많은 책임을 지우는 것이야말로 지혜의 상징입니다. 베테랑 장교인 길히포스는 이성적이고 경험이 풍부한 페가수습니다. 그의 지도가 님부시아를 진정한 힘으로 이끌 수 있도록 우리는 그를 아우토크라토르의 자리에 앉혀야합니다."
 
  NIM_fascism_focus_1:0 "비행군단"
- NIM_fascism_focus_1_Tech:0 "A Flying Army"
+ NIM_fascism_focus_1_Tech:0 "비행군단"
  NIM_fascism_focus_1_desc:0 "Our Army consists purely of pegasi now, which opens the door for some interesting modern doctrines. The Nimbusian soldiers will be able to utilise both horizontal and vertical formations and our pegasi will always outmanoeuvre the enemy!"
 
  NIM_fascism_focus_2:0 "The Search For Glory"
@@ -826,7 +826,7 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_fascism_focus_4:0 "The Advisory Boule"
  NIM_fascism_focus_4_desc:0 "Although the opinions and ideas of our most respected citizens are to be taken seriously, the bickering Boule can become a true security hazard. By removing legislative powers from the people and giving them to our ruler, we will ensure stability and continued security."
 
- NIM_fascism_focus_5:0 "The Krypteia"
+ NIM_fascism_focus_5:0 "크립테이아"
  NIM_fascism_focus_5_desc:0 "To keep the slave population in check, we must establish a secret organisation to monitor them. Who knows what the earth ponies and unicorns might be plotting. Naturally, the skills we learn from suppressing dissent at home, can be useful in warfare as well."
 
  NIM_fascism_focus_15:0 "Unquestioning Discipline"
@@ -857,8 +857,8 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_fascism_focus_13:0 "Military Exercise"
  NIM_fascism_focus_13_desc:0 "It has occurred to us that our army might need training on live targets. Luckily, we have those in ample supply..."
 
- NIM_fascism_focus_14:0 "Revoke The Rights Of Perioikoi"
- NIM_fascism_focus_14_desc:0 "Pegasi are clearly the only ponies fit to have any responsibility. The past struggle for power along with the miserable state of our neighbours' military shows that unicorns and earth-ponies cannot be trusted to do anything independently. No matter, we will guide them."
+ NIM_fascism_focus_14:0 "페리오이코이 권리 축소"
+ NIM_fascism_focus_14_desc:0 "페가시만이 존엄합니다. 페가시만이 제 책무를 다할 수 있습니다. 이는 우리 이웃의 비참한 군기와 과거 우리가 해야했던 권력투쟁은 유니콘과 어스포니가 혼자서는 무엇 하나 할 수 없음을 보여줍니다. 무슨 일이 있더라도 우리가 해내야 할 것입니다."
 
 
  #Economy
@@ -901,34 +901,34 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_back_in_business:0 "Back in Business"
  NIM_back_in_business_desc:0 "Our nation has taken a turn for a better, and many ponies who were once impoverished have found their place in the new industrial society we are creating. Our ambitious programs of industrialisation have had a great positive effect on our nation, and our industrial strength is beginning its exponential growth."
 
- NIM_industry_might:0 "Industrial Research"
+ NIM_industry_might:0 "산업 연구"
  NIM_industry_might_desc:0 "With the growth of our industry, our capability to research grows as well. No longer needing to import scientific tools and with larger funding, our researchers have begun to expand their scope further."
 
- NIM_modern_industryies:0 "A Modern Industry"
+ NIM_modern_industryies:0 "현대 산업"
  NIM_modern_industryies_desc:0 "While we are far from the industrial might of some far-off nations, our potential is great. With proper care, our fledgeling industry can be nurtured into a mighty and modernised industrial sector, and our nation can thrive."
 
  NIM_theater:0 "극장"
  NIM_theater_desc:0 "The theatre is an old and well-loved tradition in Nimbusia, where ponies gather to watch performances of epics, tragedies, and other great oratary works. Promoting nation-wide theatres both would bolster government support and bring more cultural uniformity to our nation."
 
- NIM_hillponies_in_factorys:0 "Hillpony Workers"
+ NIM_hillponies_in_factorys:0 "힐포니 노동자"
  NIM_hillponies_in_factorys_desc:0 "The hillpony tribes have an excess of workers, and our local factories need a workforce. We must encourage more hillponies to work in our factories, or else we may run out of labor to fuel our ever-growing industry."
 
- NIM_mines:0 "Hillpony Miners"
+ NIM_mines:0 "힐포니 광부"
  NIM_mines_desc:0 "The hillponies, well suited to the hills they call home, make perfect candidates to use as labor in mines. With good enough pay as incentive, surely we will be able to make good use of the resources in the hills with the use of the local workforce."
 
- NIM_millitary_begining:0 "Blacksmiths to Factories"
+ NIM_millitary_begining:0 "대장장이를 공장으로"
  NIM_millitary_begining_desc:0 "In the past we have relied on blacksmiths and craftsponies to supply the weapons for our armies, however it is time to make a change to this. With foreign threats growing stronger and the obsolescence of our current military growing more apparent, we must begin the first reforms by upgrading our methods of production."
 
- NIM_look_into_the_army:0 "Begin Army Reforms"
+ NIM_look_into_the_army:0 "군제 개혁 시작"
  NIM_look_into_the_army_desc:0 "While our army is strong, loyal, and one of the most disciplined in the world, it is far from modern. By inviting our highest military staff to contemplate the future of our armed forces, we may be able to create a path to modernisation."
 
- NIM_new_guns:0 "New Guns"
+ NIM_new_guns:0 "새 화기"
  NIM_new_guns_desc:0 "Our nation is currently armed with merely muskets- while superior to the primitive swords used by some nations, they still cannot stand up to the weapons used by modern nations. Our soldiers deserve the very best weaponry, and it would not do to leave them with outdated guns."
 
- NIM_new_artillery:0 "New Artillery"
+ NIM_new_artillery:0 "새 포"
  NIM_new_artillery_desc:0 "Artillery is a rather useful weapon, allowing us to perform precision strikes on enemy positions from a safe distance. While some traditionalists have brought up concerns about artillery being a cowardly weapon, its effectiveness is undeniable."
 
- NIM_new_battle_plans:0 "New Theory"
+ NIM_new_battle_plans:0 "신이론"
  NIM_new_battle_plans_desc:0 "The outdated strategies of old have proven to be next to worthless in the face of a modern army, and we must entirely change our way of thinking about war in order to fix this blatant flaw with our military."
 
  NIM_mountain_fighters:0 "Mountain Guns"
@@ -943,7 +943,7 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_improve_spec_ops:0 "Special Operative Training"
  NIM_improve_spec_ops_desc:0 "We currently train all of our soldiers with the same methods, providing little room for the training of special forces. If we expand our training to allow special programs for such soldiers, however, we may see a marked increase in their performance."
 
- NIM_war_makes_smart:0 "War Makes Progress"
+ NIM_war_makes_smart:0 "전쟁이 진보를 만든다"
  NIM_war_makes_smart_desc:0 "We are not afraid of war, as some fools are. While many see war as a purely destructive force, we know otherwise- war breeds progress in many ways, and the fields of battle are always where you will find the world's latest inventions in play."
 
  NIM_more_factorys:0 "Military Development"
@@ -1036,11 +1036,11 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_with_your_shield_tech:0 "With Your Shield or Upon it!"
  NIM_with_your_shield_desc:0 "A Nimbusian mother once told her son, who was doubting his own bravery, what he ought to do. "Come back with your shield, or upon it." It is a very simple definition of bravery, but one that all our soldiers must follow. Nimbusians will never surrender!"
 
- NIM_martial_culture:0 "Martial Culture"
+ NIM_martial_culture:0 "군사문화"
  NIM_martial_culture_desc:0 "We have honed the martial society which is our pride. The Nimbusian soldier is the envy of the known world. Disciplined and without equal. Skilled and unrelenting. The pegasi soldiers of Nimbusi will fight for their homes!"
 
   #harmonist victory
- NIM_harmonia:0 "Harmonia"
+ NIM_harmonia:0 "하르모니아"
  NIM_harmonia_desc:0 "With our political victory in the Boule, we can start to quickly implement reforms to better the country.  Metakeros has gone from merchant to political leader. Under his leadership, we will live in harmony with all the ponies in our realm, with our friends in the coalition and with modern culture and technology!"
 
  NIM_free_mind:0 "Cultivating a Free Mind"
@@ -1055,7 +1055,7 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_elections_for_the_boule:0 "Elections for the Boule"
  NIM_elections_for_the_boule_desc:0 "With our large population and territory, a direct democracy is simply unsustainable. Instead, we should transform the Boule into an elected body of representatives. This will make it easier to pass laws and will strengthen democracy. Of course the Ecclesia will still be heard on the most important issues, but we cannot rely on it anymore."
 
- NIM_power_to_the_ecclesia:0 "Strengthen the Ecclesia"
+ NIM_power_to_the_ecclesia:0 "민회 강화"
  NIM_power_to_the_ecclesia_desc:0 "Even if we'd like to take the easy path and restrict direct democracy to increase effectiveness, we should not. Ponies are political animals and we will only find satisfaction if we can debate and decide the course of the community. The Boule should be marginalised and the Ecclesia strengthened, so that we may utilise the wisdom of all citizens!"
 
  NIM_syntagma:0 "The Syntagma"
@@ -1064,19 +1064,19 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_diversify_recruitment:0 "Diversify Recruitment"
  NIM_diversify_recruitment_desc:0 "Using the Agoge to train and test young ponies has led to a rigid system where most of the population is disqualified from military service. This is a grave injustice as only few non-pegasi, like Metakeros himself, could make it through the system. Although we might lose some army quality by changing this, we will most certainly give our army potential to grow beyond its current size."
 
- NIM_nimbusianism:0 "Nimbusianism"
+ NIM_nimbusianism:0 "님부시아주의"
  NIM_nimbusianism_desc:0 "Our culture has wrongly always been about pegasi soldiers, but there is so much more. Let us emphasise the art, architecture, philosophy, poetry, democracy our culture has made. Perhaps our people will realise that the different races and classes all belong together so that Nimbusia can finally prosper!"
  
- NIM_citizenship_for_non_citizens:0 "Citizenship for Xenoi"
+ NIM_citizenship_for_non_citizens:0 "제노이 시민권 부여"
  NIM_citizenship_for_non_citizens_desc:0 "There exists a more hidden class in our society, the xenoi, or strangers. Immigrants, merchants and outcasts who fall outside any sort of law. These ponies are always wary of discrimination and unjust persecution. No more! We shall bring these hardworking foreigners into society as citizens."
 
- NIM_expand_the_curriculum:0 "Expand the Curriculum"
+ NIM_expand_the_curriculum:0 "커리큘럼 확대"
  NIM_expand_the_curriculum_desc:0 "The idea of intensive education as allowed by the Agoge is not necessarily a bad one, but the focus of training is wasteful. Only strength, constitution and martial skills are trained, in a world that is all about economy, industry and trade. By giving our children a better and more diverse education, we will broaden our horizons."
 
  NIM_strength_in_diversity:0 "Strength in Diversity"
  NIM_strength_in_diversity_desc:0 "Nimbusia is finally moving beyond the era of discrimination by the pegasi-soldier class. More and more ponies dare participate in political life and even the army. By emphasising diversity, we will be able to move towards a more harmonious society."
 
- NIM_protect_the_helots:0 "Protect the Helots"
+ NIM_protect_the_helots:0 "헬롯 보호"
  NIM_protect_the_helots_desc:0 "The Helots, our servants, have been treated appallingly. They do the brunt of physical labour in horrendous conditions, oppressed and terrorised by our military. We should give the helots better rights and make an effort to improve their lot. Nimbusia will be a nice society, even for slaves."
 
  NIM_citizenship_for_auxilaries:0 "Citizenship for Auxiliaries"
@@ -1153,13 +1153,13 @@ nimbusia.61.t:0 "페기클레스 사망"
  NIM_Slave_Revolt_Wins_desc:0 "님부시아의 헬롯들은 오랜 세월동안 압제자들에게 잔혹하게 짓눌려 왔습니다. 허나 지금은, 우리 군이 님부시를 행진하고 있습니다. 자유의 꿈이 실현된 것입니다.\n하지만, 아직 한가지 문제가 남아있습니다. 나라를 어떻게 운영해야 할까요?\n그렇게 어렵진 않겠죠?"
  
  NIM_Political_Vaccum:0 "정치 공백"
- NIM_Political_Vaccum_desc:0 "We now lead a country, and are sadly required to enter the dreary world of "politics". Unfortunately most of the politicians and experts lie dead. This problem needs to be dealt with."
+ NIM_Political_Vaccum_desc:0 "우린 지금 한 나라를 이끌고 있습니다. 슬프게도 "정치"라는 음울한 세계로 들어가야한단 말이죠. 불행히도 대부분의 정치마들과 전문가들이 죽어버렸습니다. 이 문제를 해결해야합니다."
  
  NIM_Exile_Nimbusians:0 "님부시아마 추방"
- NIM_Exile_Nimbusians_desc:0 "The remaining Nimbusians in our custody pose no real threat to us. We can't really be bothered with keeping them all under lock and key. Thus, the solution is simple - we kick them all out."
+ NIM_Exile_Nimbusians_desc:0 "살아남은 님부시아마들이 모두 감옥에 갇혀있기 때문에 우리에게 그리 큰 위협이 되지 않는겁니다. 모든 놈들을 관리하기 위해 자물쇠를 잠그고 열쇠를 숨기고, 해야 할 이유가 있을까요? 간단한 해결책이 있습니다. 다 쫓아내면 됩니다."
  
  NIM_Kill_Nimbusians:0 "다 죽여라"
- NIM_Kill_Nimbusians_desc:0 "The simplest solution to a problem is often the best one, the Nimbusians lived by the sword, it is only fitting that they die by the sword."
+ NIM_Kill_Nimbusians_desc:0 "가끔은 가장 쉬운 해결책이 가장 좋은 해결책입니다. 님부시아마들이 칼에 의해 살았으니, 그들이 칼에 의해 죽는 것도 나쁘지만은 않을겁니다."
  
  NIM_Traditional_Counties:0 "전통적 행정 체계"
  NIM_Traditional_Counties_desc:0 "While the previous rulers of Nimbusia might have been cruel and oppressive, the traditional organization of the counties was not inherently flawed. Keeping them as they are is surely the right decision. In addition, a massive upheaval in the administrative structure of Nimbusia might not be the best idea at this time."
@@ -1211,20 +1211,20 @@ nimbusia.61.t:0 "페기클레스 사망"
  
 
  #NIM_fascism_focus_4, death of Nimbusian democracy D:
- nimbusia_news.1.t:0 "The Death of Nimbusian Democracy"
- nimbusia_news.1.d:0 "[This.GetNewspaperHeader]When the purist faction took over Nimbusia with a military coup, many already suspected that these military-minded pegasi were not supportive of democracy. However, for some time, they kept the democratic institutions of their country intact, using intimidation to get their way. However, the Nimbusian Autocracy has now formally removed any real power from the civilian government, giving the military free reign over the country. With opposition now out of the question, many wonder what will happen in the borders of the pegasus state."
- nimbusia_news.1.a:0 "Good Riddance." #NIM
- nimbusia_news.1.b:0 "What do we do now?" #Other riv fed
- nimbusia_news.1.c:0 "And they call themselves superior?" #Griffon countries
- nimbusia_news.1.e:0 "Their democracy was a relic of another age..." #Others
+ nimbusia_news.1.t:0 "죽어버린 님부시아 민주주의"
+ nimbusia_news.1.d:0 "[This.GetNewspaperHeader]순수주의자 파벌이 군부 쿠데타로 님부시아를 점거하였을 때, 많은 이들이 그들이 민주주의를 지지하지 않는다 의심했습니다. 하지만 얼마 동안은, 그들은 그들의 길을 걷기 위해 협박을 하면서도, 민주적 기관을 그대로 유지했었습니다. 그러나 님부시아의 독재정권이 이제 공식적으로 민간 정부의 실권을 갈취해버렸고, 국가가 군의 사유물이 되어버렸습니다. 이제 페가수스 국의 국경에 무슨 일이 일어날지 온 세계가 지켜보게 되었습니다."
+ nimbusia_news.1.a:0 "거 참, 속시원하다!" #NIM
+ nimbusia_news.1.b:0 "이제 어떡하죠?" #Other riv fed
+ nimbusia_news.1.c:0 "지들이 우월하다 말한다고?" #Griffon countries
+ nimbusia_news.1.e:0 "님부시아 민주주의는 결국 구세기의 유물이었군..." #Others
 
  #NIM fascism, atrocities news event D:
- nimbusia_news.2.t:0 "Atrocities in Nimbusia"
+ nimbusia_news.2.t:0 "님부시아의 만행"
  nimbusia_news.2.d:0 "[This.GetNewspaperHeader]News from purist-controlled Nimbusia has slowly been travelling to the outside world. It was a well-known fact that the Nimbusians had a class of slaves to cater to their every need, but usually, these helots were treated quite well. The purists, however, have grown paranoid about a helot uprising and have gone to extreme measures to quell any dissent. Random killings are being used to spread fear amongst the poor ponies who are now at the mercy of their own government. "
  nimbusia_news.2.a:0 "They're just helots though!" #NIM
  nimbusia_news.2.b:0 "This cannot be left unanswered!" #Other riv fed
- nimbusia_news.2.c:0 "I thought they hated us, not each other." #Griffon countries
- nimbusia_news.2.e:0 "Terrible." #Others
+ nimbusia_news.2.c:0 "오, 우리만 싫어하는 줄 알았는데, 서로도 싫어했구만." #Griffon countries
+ nimbusia_news.2.e:0 "끔찍하군." #Others
 
 
  #NIM fascists take control
