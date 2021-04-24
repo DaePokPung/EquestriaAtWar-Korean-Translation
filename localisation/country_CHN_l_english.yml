@@ -2428,7 +2428,7 @@ CHN_average_resistance_TOOLTIP_FOR_MILITARY_LOVE_REQUISITIONS_selected:0 "(§R[?
 CHN_factories_for_love_decision:0 "추가 사랑 합성"
 CHN_factories_for_love_decision_desc:0 "우리는 몇몇 민간공장을 소비에 부적합한 저품질 사랑의 처리와 정제에 할당할 것입니다."
 CHN_factories_for_love_decision_req_tt:0 "특별 프로젝트에 사용할 수 있는 민간공장이 최소 §Y6§!개 있어야 합니다."
-CHN_erots_TOOLTIP_FOR_FACTORY_GAIN:0 "(§G+0.20§!) §Y에롯§!만큼의 합성된 £lovetax_text  §C사랑§!이 [CHN.GetAdjective]의 보유고에 비축될 것입니다.\n"
+CHN_erots_TOOLTIP_FOR_FACTORY_GAIN:0 "합성된 £lovetax_text  §C사랑§!이 (§G+0.20§!) §Y에롯§!만큼 [CHN.GetAdjective] 보유고에 비축될 것입니다.\n"
 
 CHN_rations_for_political_power:0 "정치력을 위한 식량"
 CHN_rations_for_war_support:0 "전쟁 지지도를 위한 식량"
