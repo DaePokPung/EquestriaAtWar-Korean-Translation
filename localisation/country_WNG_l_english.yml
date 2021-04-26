@@ -1,26 +1,26 @@
 ﻿l_english:
  #### NEW IDEAS ####
- WNG_garibald_talonuel_iii:0 "Garibald Talonuel III"
- WNG_garibald_talonuel_iii_desc:0 "§YBorn§!: 11th November 940, Karthin, Wingbardy.\n\n§YBiography§!: Known as the 'Soldier King' due to his leadership during the Falcor War, Garibald Talonuel di Almieri is well respected and beloved by the Wingbardian griffons. In 972 ALB his father, King Gumberto, was murdered in the Imperial Palace in Griffenheim while attending a party for the young Grover V. The newly crowned Garibald demanded justice but was given none. In protest he severed all ties with the Empire, declaring Wingbardy to be independent for the first time in over a century. The rest of the empire soon took Wingbardy's lead, quickly leading to the Empire's collapse.\n\nThe first few years of independence was prosperous for Wingbardy, however a border dispute with Falcor in 985 lead to four long and bloody years of conflict that scarred Wingbardy to this day. During the war, King Garibald Talonuel III was known to often visit the frontline and had significant support among his troops.\n\nHowever, the years since the war have only seen Wingbardy's situation grown worse. Failed government after failed government, along with a crippled economy, has lead to many Wingbardians demanding that he step in and find a way to resolve their situation. With the rise of Fascism and Communism, it became clear that only he could decide Wingbardy's future.\n\nHe sees his son, Gumberto, as a disappointment and secretly fears for the future of the monarchy unless his son can better himself. In the King's free time he is an avid stamp collector. His collection of postal stamps is the largest in the world.\n\n§YPortrait By§!: Sinister"
- WNG_gumberto_ii:0 "Gumberto II"
- WNG_political_deadlock:0 "Political Deadlock"
- WNG_political_deadlock_desc:0 "The Falcor War left the nation in a state of chaos. What was supposed to be a triumph quickly turned into a farce. So much Wingbardian blood was shed for only a few miles of Falcorian land and a single city devastated by the war. With the collapsing economy and the growing distrust of successive failed governments, the Wingbardian political system is in shatters and few see how it can survive without reform or revolution."
- WNG_political_deadlock_tt:0 "§RThis national spirit will only be removed if a party or coalition rules with a majority of seats in the Chamber of Deputies.§!"
- WNG_economic_crisis:0 "Economic Crisis"
- WNG_economic_crisis_desc:0 "Wingbardy experienced rapid industrial growth during the last few years of the Empire. However, the collapse of the Empire and the long, bloody war with Falcor has left the nation in catastrophic economic decline.\nNow there is rampant unemployment. The griffons of Wingbardy flock to the Communists and the Fascists, enticed by their promises of economic recovery and reform."
- WNG_stilted_education:0 "Stilted Education"
- WNG_stilted_education_desc:0 "Ever since the collapse of the Empire, our best and brightest have been leaving the country in search of better opportunities. Our schools and universities are suffering from chronic underfunding. Serious education reform is required if we are to ever rival Yale once again."
- WNG_outdated_army:0 "Outdated Army"
- WNG_outdated_army_desc:0 "Since our triumph in the long, brutal years of the Falcor war, it has become apparent that our pride in victory has come with some downsides. Our military is still rooted in the tactics that won us the city of Falcor and has been reluctant to innovate using new modern methods. We will need to fix this if we are to face any threats to our nation's survival."
- WNG_economic_growth:0 "Recovering Economy"
- WNG_education_reform:0 "Education Reform"
- WNG_blackwings:0 "The Blackwings"
- WNG_the_grand_council_of_fascism_idea:0 "The Grand Council of Fascism"
- WNG_martial_law:0 "Martial Law"
+ WNG_garibald_talonuel_iii:0 "가리발드 탈로누엘 3세"
+ WNG_garibald_talonuel_iii_desc:0 "§Y출생§!: 940년 11월 11일, 카르틴, 윙바르디\n\n§YBiography§!: Known as the 'Soldier King' due to his leadership during the Falcor War, Garibald Talonuel di Almieri is well respected and beloved by the Wingbardian griffons. In 972 ALB his father, King Gumberto, was murdered in the Imperial Palace in Griffenheim while attending a party for the young Grover V. The newly crowned Garibald demanded justice but was given none. In protest he severed all ties with the Empire, declaring Wingbardy to be independent for the first time in over a century. The rest of the empire soon took Wingbardy's lead, quickly leading to the Empire's collapse.\n\nThe first few years of independence was prosperous for Wingbardy, however a border dispute with Falcor in 985 lead to four long and bloody years of conflict that scarred Wingbardy to this day. During the war, King Garibald Talonuel III was known to often visit the frontline and had significant support among his troops.\n\nHowever, the years since the war have only seen Wingbardy's situation grown worse. Failed government after failed government, along with a crippled economy, has lead to many Wingbardians demanding that he step in and find a way to resolve their situation. With the rise of Fascism and Communism, it became clear that only he could decide Wingbardy's future.\n\nHe sees his son, Gumberto, as a disappointment and secretly fears for the future of the monarchy unless his son can better himself. In the King's free time he is an avid stamp collector. His collection of postal stamps is the largest in the world.\n\n§YPortrait By§!: Sinister"
+ WNG_gumberto_ii:0 "굼베르토 2세"
+ WNG_political_deadlock:0 "정치적 교착"
+ WNG_political_deadlock_desc:0 "팔코르 전쟁은 국가를 혼란에 빠뜨렸습니다. 승리라고 여겨지던 것은 순식간에 웃음거리로 전락했습니다. 그렇게 많은 윙바르드 병사의 피를 바쳐서 얻은 것은 겨우 몇 마일만의 팔코르 영토와 전쟁으로 황폐화된 도시 하나뿐이었습니다. 경제가 무너지고, 연이은 실패를 거듭하는 정부에 대한 불신이 커지면서 윙바르드 정치 체제는 파탄에 빠졌으며, 개혁이나 혁명 없이 윙바르디가 살아남을 수 있을 것이라고 생각하는 그리폰은 거의 없습니다."
+ WNG_political_deadlock_tt:0 "§R이 국민 정신은 한 정당 또는 연립정당이 국민 회의의 대부분의 의석 수를 확보해야 없어질 것입니다.§!"
+ WNG_economic_crisis:0 "경제 위기"
+ WNG_economic_crisis_desc:0 "윙바르디는 제국의 마지막 몇 년 동안 급속한 산업 성장을 경험했습니다. 하지만, 제국의 붕괴와 팔코르와의 긴 유혈전쟁은 국가를 치명적인 경제 쇠퇴로 몰아넣었습니다.\n이제 이 곳에는 실업이 만연하고 있습니다. 윙바르디의 그리폰들은 경제 회복과 개혁에 대한 약속에 이끌려 공산주의와 파시스트들에게 몰리고 있습니다."
+ WNG_stilted_education:0 "부자연스러운 교육"
+ WNG_stilted_education_desc:0 "제국이 멸망한 이후 우리의 가장 우수한 인재들은 더 나은 기회를 찾아 이 나라를 떠나고 있습니다. 그리고 학교와 대학들은 만성적인 자금 부족에 시달리고 있습니다. 만약 우리가 다시 한번 예일과 견줄 수 있는 교육 강국이 되려고 한다면 진중한 교육 개혁이 필요할 것입니다."
+ WNG_outdated_army:0 "구식 군대"
+ WNG_outdated_army_desc:0 "길고 잔인했던 팔코르 전쟁에서의 우리의 승리 이후, 승리에 대한 우리의 자부심은 몇 가지 부정적인 면을 가지고 왔습니다. 우리 군은 여전히 팔코르 시를 함락시켰던 시절의 전술에 뿌리를 두고 있으며 새로운 현대적 방법을 이용한 기술 혁신을 꺼려 왔습니다. 만약 우리가 국가의 생존에 대한 어떤 위협에도 직면하게 된다면, 우리는 이 상황을 고쳐야 할 것입니다."
+ WNG_economic_growth:0 "회복하는 경제"
+ WNG_education_reform:0 "교육 개혁"
+ WNG_blackwings:0 "검은 날개단"
+ WNG_the_grand_council_of_fascism_idea:0 "파시즘 대평의회"
+ WNG_martial_law:0 "계엄령"
  WNG_mass_public_works_idea:0 "Mass Public Works"
- WNG_productivism_idea:0 "Productivism"
- WNG_autarky_idea:0 "Wingbardian Autarky"
- WNG_liberty_or_death:0 "Liberty or Death"
+ WNG_productivism_idea:0 "생산주의"
+ WNG_autarky_idea:0 "윙바르디 자급경제"
+ WNG_liberty_or_death:0 "자유 아니면 죽음을"
  WNG_mobilised_the_trade_unions:0 "Mobilised Trade Unions"
  WNG_cpai:0 "CPAI"
  WNG_cpai_desc:0 "The Commissariato del popolo per gli affari interni will protect Wingbardy from counterrevolutionaries and dissidents."
@@ -28,9 +28,9 @@
  WNG_new_communist_griffon:0 "New Communist Griffon"
  WNG_equal_opportunity_education:0 "Equal Opportunity Education"
  WNG_red_army:0 "Esercito Rosso"
- WNG_command_ecomony:0 "Command Economy"
- WNG_socialist_ecomony:0 "Socialist Economy"
- WNG_new_home_of_communism:0 "New Home of Communism"
+ WNG_command_ecomony:0 "명령경제"
+ WNG_socialist_ecomony:0 "사회주의 경제"
+ WNG_new_home_of_communism:0 "공산주의의 새로운 고향"
 
  WNG_trains_run_on_time_idea:0 "The Trains Run on Time"
  WNG_trains_run_on_time_idea_desc:0 "Thanks to government intervention, the trains are finally running on time again."
@@ -514,28 +514,28 @@
  WNG_give_land_to_the_peasants_desc:0 "Already the new powers we have granted to the local governments have proven to be effective, so we must move onto the next phase of our plan: To take the massive chunks of land owned by greedy landlords and give them back to those that have nothing."
 
 ### FASCIST ###
- WNG_meet_with_beakolini:0 "Meet with Beakolini"
+ WNG_meet_with_beakolini:0 "비콜리니와의 만남"
  WNG_meet_with_beakolini_desc:0 "Beakolini's columns of Blackwings are nearly at the gates of Karthin, and it seems impossible to stop him without violent escalation. The Prime Minister has panicked and argued for martial law to restore order, but the King is hesitating. Instead of causing a clash in the capital, he could invite the fascist leader to the palace and work out a deal to ensure stability."
 
- WNG_wingbardian_stalliongrad_treaty:0 "Wingbardian - Stalliongrad Treaty"
+ WNG_wingbardian_stalliongrad_treaty:0 "윙바르디 - 스탈리온그라드 조약"
  WNG_wingbardian_stalliongrad_treaty_desc:0 "Stalliongrad is a curious entity which split from Equestria. Though they follow the inferior communist ideology, necessity makes for strange bedfellows. Both our countries eye Equestria with suspicion, so our interests may align. Maybe they would be open to diplomatic overtures?"
 
  WNG_bring_arantiga_back_under_heal:0 "Bring Arantiga Back to Heel"
  WNG_bring_arantiga_back_under_heal_desc:0 "The Arantigans have a long imperial history, but are nothing but an upstart backwater by now. Karthinia is the true heir of the Kingdom of Sparléos, and Arantiga will not stand against us in the modern age. If the Arantigans will not conform to our wishes, we will bring them back to heel."
 
- WNG_bring_TAL_back_under_heal:0 "Secure Talouse"
+ WNG_bring_TAL_back_under_heal:0 "탈로스 보호"
  WNG_bring_TAL_back_under_heal_desc:0 "The Duchy of Talouse has always been culturally aligned to Wingbardy and they occupy a strategic position towards pony-occupied New Mareland. It is imperative that we do not lose our influence in Talouse and that any notions of foreign-policy independence are snuffed out, by force if necessary."
 
- WNG_bring_FRN_back_under_heal:0 "Secure Francistria"
+ WNG_bring_FRN_back_under_heal:0 "프란시스트리아 보호"
  WNG_bring_FRN_back_under_heal_desc:0 "The County of Francistria has been an interesting bicultural country, mixing griffons from Tarrin and culturally Wingbardian griffons. The ruling Martlewing dynasty has long had an alliance with our country, but it seems they have decided to follow a more independent path. Francistria is key to the Duce's ambitions and cannot be left unaligned in the battles to come."
 
- WNG_secure_tarrin:0 "Secure Tarrin"
+ WNG_secure_tarrin:0 "탈린 보호"
  WNG_secure_tarrin_desc:0 "Tarrin forms a vital borderland between the spheres of Aquileia and [Root.GetName]. Securing the western border requires control of the region, which had previously been under the control of Francistria, our ally. On their behalf, Tarrin must be reclaimed and the west secured for good!"
 
  WNG_the_chiazbeacle_pact:0 "The Chiazbeacle Pact"
  WNG_the_chiazbeacle_pact_desc:0 "The old Griffonian Empire seems to be rising from the ashes, which means Aquileia and Wingbardy must act. To stop Imperial expansionism, we must look beyond our territorial struggles and history of conflict and sign a treaty. Wingbardy will approach Aquileia and suggest a non-aggression pact and a joint guarantee of Griffonstone independence, with options for a formal military alliance. "
 
- WNG_legitimise_the_blackwings:0 "Legitimise the Blackwings"
+ WNG_legitimise_the_blackwings:0 "검은 날개단 합법화"
  WNG_legitimise_the_blackwings_desc:0 "Beakolini's paramilitary organisation has been key to his political ambitions, and their loyalty to him above all other things is too valuable for the Duce to let go of. By signing their special status into law, the Duce will have his loyal warriors at his beck and call, no matter what happens."
 
  WNG_the_gacerbo_law:0 "The Gacerbo Law"
@@ -1834,8 +1834,8 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy_flavour.14.c:0 "Fratelli di Wingbardia, la Wingbardia s'è desta! The song of our nation!"
  
  #### NEWS ####
- news_wingbardy.1.t:0 "카르틴 행진"
- news_wingbardy.1.d:0 "[This.GetNewspaperHeader]몇 달 동안 우익 언론가인 줄리오 비콜리니는 윙바르디 정부와 도시의 거리에서 질서의 재편을 외쳐 왔습니다. 그의 우월주의 정당은 엄청난 지지를 얻었고, 많은 사람들이 '옛 윙바르디 질서'를 회복하라는 비콜리니의 메시지에 몰려들었습니다. 이 자칭 '검은 날개'들 중 상당수는 전직 군인이나 참전용사들로 PNF에 실질적인 군사력을 제공하고 있습니다. 정부의 많은 온건파들과 사회주의자들은 가리발디 국왕이 우월주의자들에 의해 계획된 카르틴 행진을 중단할 의사가 없다는 것을 알고 충격을 받았습니다. 정부군이 물러난 가운데, 수도의 그리폰들은 검은 옷을 입은 수천 명의 우월주의자들이 그들을 향해 행진하는 것을 초조하게 지켜보고 있습니다..."
+ news_wingbardy.1.t:0 "카르틴 진군"
+ news_wingbardy.1.d:0 "[This.GetNewspaperHeader]몇 달 동안 우익 언론가인 줄리오 비콜리니는 윙바르디 정부와 도시의 거리에서 질서의 재편을 외쳐 왔습니다. 그의 우월주의 정당은 엄청난 지지를 얻었고, 많은 사람들이 '옛 윙바르디 질서'를 회복하라는 비콜리니의 메시지에 몰려들었습니다. 이 자칭 '검은 날개단'들 중 상당수는 전직 군인이나 참전용사들로 PNF에 실질적인 군사력을 제공하고 있습니다. 정부의 많은 온건파들과 사회주의자들은 가리발디 국왕이 우월주의자들에 의해 계획된 카르틴 진군을 중단할 의사가 없다는 것을 알고 충격을 받았습니다. 정부군이 물러난 가운데, 수도의 그리폰들은 검은 옷을 입은 수천 명의 우월주의자들이 그들을 향해 진군하는 것을 초조하게 지켜보고 있습니다..."
  news_wingbardy.1.a:0 "비콜리니가 무엇을 하려는 거지?"
  
  news_wingbardy.2.t:0 "비콜리니가 수상이 되다"
@@ -2066,9 +2066,9 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_offer_alliance:0 "Offer an Alliance to [From.GetName]"
  WNG_secure_new_mareland:0 "Sue For Peace"
  WNG_secure_new_mareland_desc:0 "We have secured New Mareland and forced their government into exile. There is little their overlords across the sea can do, thanks to the might of our royal navy. Clearly they have lost, and should admit that New Mareland is now ours."
- WNG_beakolinis_march:0 "Beakolini's March"
- WNG_beakolinis_march_desc:0 "Beakolini's Blackwings are marching on Karthin to seize power. The King's army can easily deal with the rabble, but there's no denying his popularity and his rhetoric might perhaps offer a way to escape the current political situation.\n\nHowever, he is a dangerous and wild beast, one threatening to destabilise the nation and destroy its parliamentary democracy. Prime Minister Ventriglio is preparing to petition the king to declare martial law and crack down on the fascists. Meanwhile the communists and socialists look on fearfully, and some say they scheme in the shadows."
- WNG_beakolinis_march_mission:0 "The March on Karthin"
+ WNG_beakolinis_march:0 "비콜리니의 진군"
+ WNG_beakolinis_march_desc:0 "비콜리니의 검은 날개단이 권력을 잡기 위해 카르틴을 향해 진군하고 있습니다. 국왕의 군대는 손쉽게 이 폭도들을 제압할 수 있지만, 이들의 높은 인기를 부정할 수는 없으며 그의 미사여구는 아마도 현재의 정치 상황에서 벗어날 수 있는 방법을 제공할지도 모릅니다.\n\n그러나 그는 위험하고 야생적인 짐승으로, 나라를 불안정하게 하고 의회 민주주의를 파괴하겠다고 위협하고 있습니다. 벤트릴리오 총리는 국왕에게 계엄령을 선포하고 이 파시스트들을 단속할 것을 청원할 준비를 하고 있습니다. 한편 공산주의자들과 사회주의자들은 현 사태를 겁에 질린 눈으로 바라보고 있으며, 어떤 이들은 그들이 어둠 속에서 음모를 꾸민다고도 말합니다."
+ WNG_beakolinis_march_mission:0 "카르틴 진군"
  WNG_tarrin_conference_cat:0 "The Tarrin Conference"
  WNG_tarrin_conference_cat_desc:0 "The status of Tarrin has long been a source of conflict between Aquilia and Francistria. We should sit down and settle this issue once and for all."
  WNG_time_until_conference:0 "Preparations for the Conference"
@@ -3199,10 +3199,10 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  #TODO
  
  # PARLIAMENT DESCRIPTIONS
- WNG_wingbardian_parliament_cat:0 "La Camera dei Deputati"
- WNG_wingbardian_parliament_cat_desc:0 "The Chamber of Deputies is the lower house of the Wingbardian parliament. It has a total of 535 seats and is made up of representatives elected from constituencies across Wingbardy and from which the government is formed. A majority requires 268 seats.\n\n§YCurrent Prime Minister:§! [Root.GetLeader] of the [Root.GetRulingParty].\nThis government has a [Root.GetRulingIdeology] outlook.\n\n$WNG_parliament_1006_election_desc$"
+ WNG_wingbardian_parliament_cat:0 "국민 회의"
+ WNG_wingbardian_parliament_cat_desc:0 "국민 회의는 윙바르드 의회의 하원으로, 총 535석의 의석을 가지고 있으며 윙바르디 전역의 선거구와 정부에서 선출된 대표들로 구성되어 있습니다. 268석을 확보하면 과반수를 채울 수 있습니다.\n\n§Y현재 총리:§! [Root.GetRulingParty]의 [Root.GetLeader]\n이 정부는 [Root.GetRulingIdeology] 관점을 가지고 있습니다. \n\n$WNG_parliament_1006_election_desc$"
  
- WNG_parliament_1006_election_desc:0 "Total government seats: [?WNG_parliament_seats|Y0]\n\n§YThe current makeup of the Chamber of Deputies is:§!\n$WNGParliamentPartiesArrayDesc$"
+ WNG_parliament_1006_election_desc:0 "전체 정부 의석: [?WNG_parliament_seats|Y0]\n\n§Y현재 국민 회의의 구성은 다음과 같습니다:§!\n$WNGParliamentPartiesArrayDesc$"
  
  WNG_beakolini_parliament_b_tt:0 "The PLW will join us in a coalition government, boosting our number of seats to 174."
  WNG_beakolini_parliament_c_tt:0 "The PDSW will join us in a coalition government, boosting our number of seats to 203."
@@ -3231,14 +3231,14 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_decision_support_amount:0 "[Root.WNG_decision_support_amount_sl]"
  WNG_decision_support_amount_bad:0 "[?root.WNG_parliament_support|R0]/§Y535§!"
  WNG_decision_support_amount_good:0 "[?root.WNG_parliament_support|G0]/§Y535§!"
- WNG_decision_support_header:0 "§YTotal Support§!"
+ WNG_decision_support_header:0 "§Y전체 지지도§!"
  WNG_majority_government_tt:0 "Has a majority of seats in the Chamber of Deputies."
  WNG_majority_support_tt:0 "Has a majority in support of our government in the Chamber of Deputies."
 
- WNG_small_support_for_government_tt:0 "Between §Y10§! and §Y20§! deputies will §Ysupport the government§!."
- WNG_small_support_loss_for_government_tt:0 "Between §Y10§! and §Y20§! deputies will §Rstop their support for the government§!."
- WNG_medium_support_for_government_tt:0 "Between §Y20§! and §Y30§! deputies will §Ysupport the government§!."
- WNG_parliament_max_support_trigger_tt:0 "We can only win over a total of [?WNG.WNG_parliament_max_support] deputies to support us."
+ WNG_small_support_for_government_tt:0 "§Y10§!명과 §Y20§!명 사이의 의원들이 §Y정부를 지지할 것입니다§!."
+ WNG_small_support_loss_for_government_tt:0 "§Y10§!명과 §Y20§!명 사이의 의원들이 §R정부에 대한 지지를 철회할 것입니다§!."
+ WNG_medium_support_for_government_tt:0 "§Y20§!명과 §Y30§!명 사이의 의원들이 §Y정부를 지지할 것입니다§!."
+ WNG_parliament_max_support_trigger_tt:0 "우리는 우리를 지원해 줄 의원들을 최대 [?WNG.WNG_parliament_max_support]명까지만 확보할 수 있습니다."
 
 
  #Operations
