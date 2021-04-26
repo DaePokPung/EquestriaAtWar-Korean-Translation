@@ -1,6 +1,6 @@
 ﻿l_english:
- RECALL_VOLUNTEERS_TITLE:0 "Recall Volunteers"
- RECALL_VOLUNTEERS_ACTION_DESC:0 "We can decide to recall the volunteers we have sent to other countries."
- RECALL_VOLUNTEERS_TOOLTIP:0 "§Y[This.GetNameWithFlag]§! §Rmust have any volunteers from us we can recall.§!"
- RECALL_VOLUNTEERS_TOOLTIP_G:0 "§Y[This.GetNameWithFlag]§! must have any volunteers from us we can recall."
- RECALL_VOLUNTEERS_TOOLTIP_DISABLED:0 "§Y[Root.GetNameWithFlag]§! §Rcannot recall volunteers.§!"
+ RECALL_VOLUNTEERS_TITLE:0 "의용군 소환"
+ RECALL_VOLUNTEERS_ACTION_DESC:0 "우리는 타국에 보낸 의용군들을 다시 귀환시킬 수 있습니다."
+ RECALL_VOLUNTEERS_TOOLTIP:0 "§Y[This.GetNameWithFlag]§! §R우리가 소환할 의용군을 가지고 있어야 합니다.§!"
+ RECALL_VOLUNTEERS_TOOLTIP_G:0 "§Y[This.GetNameWithFlag]§! : 우리가 소환할 의용군을 가지고 있어야 합니다."
+ RECALL_VOLUNTEERS_TOOLTIP_DISABLED:0 "§Y[Root.GetNameWithFlag]§! §R의용군을 소환할 수 없습니다.§!"
