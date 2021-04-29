@@ -33,7 +33,7 @@
  RCT_service_guarantees_citizenship:0 "서비스 보증 시민권"
  RCT_friendship_without_borders_idea:0 "국경 없는 우정"
  RCT_city_of_three_rivers:0 "세 강물의 도시"
- RCT_city_of_three_rivers_desc:0 "그리프킹, 골드, 그린 강이 만나는 리버랜드의 중심부에 위치한 리제코그라드는 동부 전역의 무역 중심지입니다."
+ RCT_city_of_three_rivers_desc:0 "그리프킹, 골드, 그린 강이 만나는 리버랜드의 중심부에 위치한 리예코그라드는 동부 전역의 무역 중심지입니다."
 
  RCT_recruitment_drive_idea:0 "징병 선전"
  
@@ -64,8 +64,8 @@
  RCT_union_control:0 "정치 연합"
  RCT_union_control_desc:0 "노동 조합은 자주 개혁을 추진하면서 정치 내각에서 매우 활발해 졌습니다."
  RCT_our_socialism:0 "우리들의 사회주의"
- RCT_our_socialism_desc:0 "리버 공화국은 이제 희귀한 시장사회주의 국가입니다. 포니들은 행복하고 경제는 빠르게 성장하고 있습니다."
- RCT_cultural_divides:0 "강학 문화적 분리"
+ RCT_our_socialism_desc:0 "리버 공화국은 이제 보기 드문 시장사회주의 국가입니다. 포니들은 행복해하고 경제는 빠르게 성장하고 있습니다."
+ RCT_cultural_divides:0 "강한 문화적 분리"
  RCT_cultural_divides_2:0 "보통 문화적 분리"
  RCT_cultural_divides_3:0 "약한 문화적 분리"
  RCT_antisocialist_militia:0 "강력한 반사회주의 의용군"
@@ -200,25 +200,25 @@
  RCT_replace_the_unstable_government_desc:0 "조화 사무국은 상황을 평가했고, 사보르에서 정당 간의 끈임없는 다툼이 분명하고 심각한 보안 위험 요소라는 것을 발견했습니다. 우리가 너무 약화되고 분열되어 제국에 저항할 수 없게 되지 않도록 이제 정부를 안정시키기 위한 과감한 조치가 취해져야 한다는 것을 리버 스월에게 납득시켜야 할 때입니다."
  
  RCT_secure_the_riverlands:0 "리버랜드 보호"
- RCT_secure_the_riverlands_desc:0 "우리는 리버 동맹의 균열을 감당할 수 없습니다. 우리와 함께하지 않는 리버랜드의 모든 나라들은 그리폰 제국이 정치적으로나 군사적으로 우리를 궁지에 몰아넣을 수 있는 좋은 수단이 될 것입니다. 동맹국들은 그리폰 국가들에 대항하는 방벽으로 함께 서야 하지만, 우리는 국가들을 지원할 여유가 없습니다. 고통스러운 상황이여도, 우리는 리버랜드를 지켜야 합니다."
+ RCT_secure_the_riverlands_desc:0 "우리는 리버 동맹의 분열을 감당할 수 없을 겁니다. 우리와 함께하지 않는 리버랜드의 모든 나라들은 그리폰 제국이 정치적으로나 군사적으로 우리를 궁지에 몰아넣을 수 있는 좋은 수단이 될 것입니다. 동맹국들은 그리폰 국가들에 대항하는 방벽으로 함께 서야 하지만, 우리는 국가들을 지원할 여유가 없습니다. 고통스러운 상황이 오더라도 우리는 리버랜드를 지켜야 합니다."
  
  RCT_progpganda_opperations:0 "반제국주의 선전"
- RCT_progpganda_opperations_desc:0 "OHS는 그리폰들의 사회 속에서 우리에게 유리하게 사용할 수 있는 충분한 장면들을 포착했습니다. 시민들을 갈취하는 음모를 꾸미는 그리폰 자본가들, 끝없는 전쟁과 불명예스러운 귀족들... 우리는 이러한 고정관념들을 성능 좋은 선전 기계로 더욱 강화시켜 모든 포니들에게 누가 진짜 적인지 알 수 있도록 할 것입니다."
+ RCT_progpganda_opperations_desc:0 "OHS는 그리폰들의 사회 속에서 우리에게 유리하게 사용할 수 있는 충분한 장면들을 포착했습니다. 시민들을 갈취하는 음모를 꾸미는 그리폰 자본가들, 끝없는 전쟁과 불명예스러운 귀족들... 우리는 이러한 고정관념들을 성능 좋은 선전 기계로 더욱 확고히시켜 모든 포니들에게 누가 진짜 적인지 알 수 있도록 할 것입니다."
 
  RCT_war_harmony:0 "전시 조화주의"
- RCT_war_harmony_desc:0 "우리 정부와 국민이 그토록 강하게 고수해 온 조화의 원칙은 본질적으로 잘못됐을 뿐만 아니라 오히려 우리에게 위험을 초래할 것입니다. 전쟁에서는 당신이 소중히 여기는 가치가 눈앞에서 사라질 것입니다. 하지만, 우리는 이 힘든 시기에도 우리에게 가장 소중한 가치들을 간직할 것입니다. 전시조화는 우리가 이상적인 세계에서 꿈꾸는 것과 다를 수 있지만, 그것이 우리의 마음속에 있는 것을 바꾸지는 못할 것입니다."
+ RCT_war_harmony_desc:0 "우리 정부와 국민이 그토록 강하게 고수해 온 조화의 원칙은 본질적으로 잘못됐을 뿐만 아니라 오히려 우리에게 위험을 초래할 것입니다. 전쟁에서는 당신이 소중히 여기는 가치가 눈앞에서 사라질 것입니다. 하지만, 우리는 이 힘든 시기에도 우리에게 가장 소중한 가치들을 간직할 것입니다. 전시조화는 우리가 이상적인 세계에서 꿈꾸는 것과 다를 수 있지만, 그것이 우리의 마음속에 있는 본질을 바꾸지는 못할 것입니다."
 
  RCT_crackdown_on_dissent:0 "반대파 퇴출"
  RCT_crackdown_on_dissent_desc:0 "많은 포니들이 우리의 통치 방식에 의문을 제기하고 있습니다. 그들이 보기에 현재 극단적으로 전쟁에 대비하는 것보다 좀더 평화로운 방향으로 우리 나라를 이끌어 나아가야 한다고 주장합니다. 다른 때에는, 우리는 그들의 비판을 소중하게 여기겠지만, 이 중요한 시기에 우리는 호전적인 그리폰에 대항하여 통일된 전선을 만들어야 합니다. 우리는 앞으로 반정부 시위에 가혹하게 대응할 것입니다."
 
  RCT_reconcile_nova:0 "노바 월의 수용"
- RCT_reconcile_nova_desc:0 "노바 월은 사회주의자기 때문에, 그녀가 완전히 용서받을 수 있는 것은 아닙니다. 그녀는 여전히 마음속으로는 조화를 믿지만, 우리와는 다른 방식으로 그것을 성취하려 했습니다. 우리나라가 국내외의 공산주의 집단을 타도하지 않을 것이라는 보장이 있기 때문에, 우리는 노바 월에게 우리의 대의를 지지하도록 설득할 수 있을 것입니다."
+ RCT_reconcile_nova_desc:0 "노바 월은 사회주의자였기 때문에, 그녀가 완전히 용서받을 수 있는 것은 아닙니다. 그녀는 여전히 마음속으로는 조화를 믿지만, 우리와는 다른 방식으로 그것을 성취하려 했습니다. 우리나라가 국내외의 공산주의 집단을 타도하지 않을 것이라는 보장을 약속했기에, 우리는 노바 월에게 우리의 대의를 지지하도록 설득할 수 있을 것입니다."
 
  RCT_disappear_skr_leadership:0 "사건 계획"
  RCT_disappear_skr_leadership_desc:0 "OHS는 사회주의 정당의 지도력을 주시해 왔습니다. 그들 중 상당수는 우리 정부에 대한 불만이 점점 커지고 있으며 신중히 대처하지 않을 경우 우리 정부에 대한 저항 무리를 조직할 수도 있을 것입니다. 만약 사회주의 지도자들 중 일부가 '사고'를 당한다면 정말 행운일 것입니다..."
 
  RCT_the_southern_communists:0 "그리핀 공산주의자들"
- RCT_the_southern_communists_desc:0 "리버 동맹의 남쪽에는 새로운 위협이 발생하고 있습니다. 그리폰의 귀족들이 노동자들과 농민들을 너무 심하게 다루는 바람에 그들이 반란을 일으켰습니다. 그러나 이 조류들은 조화를 받아들이기보다는 공산주의를 받아들였습니다. 세계적인 통합에 대한 그들의 잘못된 이상은 그들이 조만간 우리를 침략하려고 한다는 것을 의미합니다. 우리가 먼저 공격을 개시해야 합니다."
+ RCT_the_southern_communists_desc:0 "리버 동맹의 남쪽에는 새로운 위협이 발생하고 있습니다. 그리폰의 귀족들이 노동자들과 농민들을 가혹하게 다루는 바람에 마침내 반란이 일어났습니다. 그러나 이 조류들은 조화를 받아들이기보다는 공산주의를 받아들였습니다. 세계적인 통합에 대한 그들의 잘못된 이상은 그들이 조만간 우리를 침략하려고 한다는 것을 의미합니다. 우리가 먼저 공격을 개시해야 합니다."
 
  RCT_OHS_divisions:0 "조화사무국 사단"
  RCT_OHS_divisions_desc:0 "The Office of Harmonic Services will need to form special military units to keep the regular soldiers in check. These units will an example for our frontline units by showing their willingness to die for our harmonic cause. Of course, these units will be able to take over regular army units if they perform below expectations. "
@@ -233,48 +233,48 @@
  RCT_the_western_corridor_desc:0 "The time has come to secure our path towards the empire. The knights of Hellquill and Longsword act as a bufferzone for the regime in Griffenheim, using rightful pony land to fortify themselves from our assault. We will liberate these suffering ponies and forge a path to Grover’s doorstep."
 
  RCT_end_of_empire:0 "제국의 종말"
- RCT_end_of_empire_desc:0 "기나긴 장정이 거의 끝나가고 있습니다. 그리포니아 제국의 광대한 영토가 우리 앞에 놓여 있습니다. 그 안에는 조화를 파괴하고 모든 포니 종족을 쇠발톱의 손아귀장정이 거의 끝나가고 있습니다. 그리포니아 제국의 광대한 영토가 우리 앞에 놓여 있습니다. 그 안에는 조화를 파괴하고 모든 포니 종족을 쇠발톱의 손아귀 안으로 가져오려는 수백만 마리의 그리폰이 살고 있습니다. 리버 공화국은 절대 그런 일이 발생하지 않도록 할 것입니다!"
+ RCT_end_of_empire_desc:0 "기나긴 장정이 거의 끝나가고 있습니다. 그리포니아 제국의 광대한 영토가 우리 앞에 놓여 있습니다. 그 안에는 조화를 파괴하고 모든 포니 종족을 쇠발톱의 손아귀 안으로 가져오려는 수백만 마리의 그리폰이 살고 있습니다. 리버 공화국은 절대 그런 일이 발생하지 않도록 할 것입니다!"
  
  RCT_jobs_done:0 "잘 해낸 일"
- RCT_jobs_done_desc:0 "OHS는 리버 공화국과 전국의 조화로운 세상에 대한 의무를 다했습니다. 세계 평화에 큰 위협이 된 그리포니아 제국은 무력화되었습니다. 그러나 기관이 기존의 정권을 복귀시키지 않고 계속 상징적으로 유지시킨다면 지금까지의 성과는 아무런 가치가 없을 것입니다."
+ RCT_jobs_done_desc:0 "OHS는 리버 공화국과 전국의 조화로운 세상에 대한 의무를 다했습니다. 세계 평화에 큰 위협이 된 그리포니아 제국은 무력화되었습니다. 그러나 사무국이 기존의 정권을 복귀시키지 않고 계속 허수아비로만 유지시킨다면 지금까지의 어떤 성과도 아무런 가치가 없을 것입니다."
 
  RCT_neverending_emergency:0 "끝나지 않는 긴급상황"
  RCT_neverending_emergency_desc:0 "그리포니아 제국은 무력화되었을지 모르지만, 많은 위협들이 여전히 눈에 밟히고 있습니다. 공산주의의 망령들과 파시즘의 공포는 여전히 대륙을 맴돌고 있습니다. 지금 물러나는 것은 치명적인 실수가 될 것입니다. OHS는 리버 공화국을 영원히 지킬 것입니다."
 
  #River Swirl's pillowfort, socialists and imperialists get out reee
  RCT_bastion_of_the_east:0 "동부 방벽"
- RCT_bastion_of_the_east_desc:0 "Countless times have the Riverlands been attacked, and countless times have our enemies broken against our mountains like waves break against cliffs. The Riverlands must remain an unassailable bastion, and become a true safe haven of harmony and democracy."
+ RCT_bastion_of_the_east_desc:0 "리버랜드는 수없이 공격당했고, 우리의 적들은 절벽에 부딪혀 사라지는 파도같이 우리의 산맥에 가로막혔습니다. 반드시 리버랜드는 무너지지 않는 보루로 남아 조화와 민주주의의 진정한 안식처가 되어야 합니다."
 
  RCT_golden_curtain:0 "금빛 장막"
- RCT_golden_curtain_desc:0 "We must ensure that the Empire does not directly threaten the borders of the Coalition. A Golden Curtain needs to be raised around us: A sphere of influence consisting of allies and friends that will safeguard us from foreign invasion."
+ RCT_golden_curtain_desc:0 "우리는 제국이 동맹국의 국경을 직접 위협하는 일이 없도록 해야 합니다. 우리 주위에 대외의 침략으로부터 우리를 지켜줄 동맹과 친구들로 구성된 세력권, 금빛 장막을 전개해야 합니다."
  
  RCT_establish_the_minutemares:0 "긴급 소집병 설립"
- RCT_establish_the_minutemares_desc:0 "The Griffonian Empire may strike at neighbouring democratic nations at any moment. We need to do all we can to prevent their expansion at the expense of liberty and harmony! New militia units of volunteers will be organized, ready to respond to threats abroad quickly, hence the name."
+ RCT_establish_the_minutemares_desc:0 "그리포니아 제국은 가까운 민주주의 국가들을 언제라도 공격할 수 있습니다. 그들의 팽창을 막기 위해 우리가 할 수 있는 모든 것을 해야 합니다! 비록 자유와 조화를 희생하더라도 말입니다. 새로운 민병대가 조직될 것이며 이름에서 알 수 있듯이, 해외의 위협에 신속하게 대응할 수 있도록 항시 준비될 것입니다."
  
  RCT_operation_cherry_party:0 "체리파티 작전"
- RCT_operation_cherry_party_desc:0 "A buffer zone needs to be created in the Evi valley to guard the Coalition's southwestern border. For too long have Lake City and Wittenland suffered from griffon raids! Lushi, Gryphia and Gryphus should all embrace democratic, liberal and pacifistic government, lest they threaten us or become the Empire's pawns." 
+ RCT_operation_cherry_party_desc:0 "동맹국의 남서쪽 경계를 지키려면 에비 계곡에 완충지대가 필요합니다. 레이크 시티와 비텐란트는 그리폰들의 습격으로 너무 오랫동안 고통받았습니다! 루시, 그리피아, 그리퍼스 모두에게 민주주의, 자유주의, 평화주의적인 정부를 받아드리게 해야 합니다. 그들이 우리를 위협하거나 제국의 졸개들이 되지 않도록 말입니다." 
  
  RCT_intervene_in_brodfeld:0 "프리웬 개입"
- RCT_intervene_in_brodfeld_desc:0 "The kingdom of Brodfeld has long been a concern to us, since they suffered from a devastating famine and instability which led to King Kloseu assuming autocratic powers. The situation has only worsened after a bloody civil war. We must bring peace and freedom to the griffons of Prywhen who have suffered long enough!"
+ RCT_intervene_in_brodfeld_desc:0 "브로드펠트 왕국은 오랫동안 우리에게 골칫거리였습니다. 그들의 심각한 기근과 불안감의 고통이 클로제우 왕의 독재적인 권력 장악을 형성했을 때 부터 말입니다. 피비린내 나는 내전은 상황을 더욱 악화시킬 뿐이였습니다. 우리는 충분히 오랫동안 고통받아았던 프라이웬의 그리폰들에게 평화와 자유를 가져다 주어야 합니다!"
  
  RCT_operation_magic_star:0 "매직스타 작전"
- RCT_operation_magic_star_desc:0 "Hellquill and Longsword, both creations of the Empire, have been rivals of the entire Coalition for centuries. They are responsible for countless raids and crimes, such as the sacking of Diamond Mountain and the burning of Lake City. It is time the barbaric knights abandon their violent ways, embrace harmony and align with the East instead of the West."
+ RCT_operation_magic_star_desc:0 "제국의 부산물인 헬퀼과 롱소드는 수세기 동안 동맹국의 라이벌이었습니다. 그들은 다이아몬드 마운틴으로의 약탈과 레이크 시티에서의 방화와 같은 무수히 많은 습격과 범죄에 책임이 있습니다. 야만적인 기사들은 그들의 폭력적인 방식을 버리고, 조화를 포용하고, 서쪽이 아닌 동쪽과 협력해야 할 때입니다."
  
  RCT_friendship_without_borders:0 "국경 없는 우정"
- RCT_friendship_without_borders_desc:0 "As our Golden Curtain expands, liberty and democracy are brought to numerous lands and millions finally enjoy lives of freedom and harmony. The new governments we have set up are in debt to us and are willing to pay with military aid. Let the Empire and their armies come! They will learn to respect the true power of friendship."
+ RCT_friendship_without_borders_desc:0 "우리의 금빛 장막이 확장되면서 자유와 민주주의가 수많은 땅에 내려오고 마침내 수백만 명이 자유와 조화의 삶을 누리게 되었습니다. 우리가 세운 새 정부는 우리에게 감사를 뜻하고 있고 군사 원조를 마다 하지 않을 것입니다. 제국과 그들의 군대를 불러들이십시오! 그들은 우정의 진정한 힘을 존중하는 법을 배우게 될 것입니다."
  
  RCT_the_final_battle:0 "최후의 결전"
- RCT_the_final_battle_desc:0 "OHS agents report of a massive military buildup in the Empire. It is clear they are preparing to strike at us with full force! We cannot allow the imperialist scum to have the initiative, but must go on the offensive, despite it going against our morals and values. Desperate times call for desperate measures."
+ RCT_the_final_battle_desc:0 "OHS 요원들이 제국의 대규모 군사력 증강에 대해 보고했습니다. 그들이 전력을 다해 우리를 공격할 준비를 하고 있는 것이 분명합니다! 우리는 쓰레기 제국주의자들이 공격 주도권을 쥐는 것을 용납할 수 없습니다. 우리의 도의와 가치에 어긋나는 일이기는 하지만, 우리는 선제 공격을 감행해야 합니다. 절망적인 상황에는 극단적인 조치가 필요한 법입니다."
  
  # Friendship is magic
  RCT_ready_the_storm:0 "폭풍 대비"
- RCT_ready_the_storm_desc:0 "A storm is brewing in the West, but for now peace reigns in the East. While we can, we must strengthen our bonds with other Coalition members and ensure the alliance is strong enough to withstand any tempest."
+ RCT_ready_the_storm_desc:0 "서부에서는 폭풍이 일어나고 있지만, 현재 동부에서는 평화가 자리잡고 있습니다. 우리가 할 수 있는 한, 다른 동맹국 회원들과의 유대를 강화해야 합니다. 그리고 우리의 동맹을 어떠한 난국에도 견딜 수 있을 만큼 충분히 굳건하게 만들어야 합니다."
  
  RCT_river_games:0 "리버 대회"
- RCT_river_games_desc:0 "Riverlands Cup is already an established tradition and has brought us all closer together. Indeed, few things can make people bond as well as sports do. Therefore we should organize a new grand event with a variety of different sports, allowing each member to excel in something even if hoofball isn't their cup of tea."
+ RCT_river_games_desc:0 "리버랜드 대회는 오래전부터 확고한 전통이였고 우리 모두를 더 가깝게 만들었습니다. 사실, 스포츠만큼 유대감을 쌓을 수 있는 수단은 거의 없습니다. 그러니 우리는 다양한 스포츠 종목으로 이루어진 새로운 웅장한 행사를 준비해야 합니다. 각 회원국들이 비록 후프볼이 그들의 적성이 아니더라도 다른 어떤 것에 부각을 보일 수 있도록 말입니다."
  
  RCT_scholarship_programme:0 "리버 학위 프로그램"
- RCT_scholarship_programme_desc:0 "The Riverlands are home to many brilliant minds who live in different countries, yet their talents are unrecognized. We should conduct an academic scholarship competition open to all students and reward the highest-achieving competitors with generous scholarships. This will allow us to find the most capable students and support them financially."
+ RCT_scholarship_programme_desc:0 "리버랜드는 다른 여러 나라에 사는 많은 고급 인재들의 고향이지만, 그들의 재능은 아직 인정받지 못하고 있습니다. 우리는 모든 학생들이 참여할 수 있는 학술 장학금 대회를 실시하고, 성취도가 가장 높은 참가자들에게 후한 장학금을 제공해야 합니다. 이것은 우리가 가장 유능한 학생들을 찾고 재정적으로 그들을 지원할 수 있게 해줄 것입니다."
  
  RCT_united_joint_river_works:0 "통합 건설 규제"
  RCT_united_joint_river_works_desc:0 "Currently all member nations have their own laws and traditions when it comes to building. This makes cooperation rather difficult. Construction practices should be regulated and harmonized so no matter where the workers are from, they can work together on large projects."
@@ -402,27 +402,27 @@
  
  
  RCT_fund_the_revolution:0 "사회주의 병기창"
- RCT_fund_the_revolution_desc:0 "It is our solemn duty to supply and support socialists abroad, so they can accomplish what we did and overthrow their oppressors, either violently or peacefully. River Republic will be the seed from which liberation shall sprout. Workers of the East, unite!" 
+ RCT_fund_the_revolution_desc:0 "해외의 사회주의자들에게 무기를 지원하고 지지하는 것은 우리의 엄숙한 의무입니다. 그래야 그들이 우리가 해왔던 길을 따라 그들의 억압자들을 폭력적이든 평화적이든 전복시킬 수 있을 겁니다. 리버 공화국은 해방이 싹트게 될 씨앗이 될 것입니다. 동부의 노동자들이여, 단결하라!" 
  
  RCT_support_socialist_politicians:0 "사회주의 운동가 지원"
- RCT_support_socialist_politicians_desc:0 "Class consciousness must be fostered in undereducated foreigners, so they become aware of their oppression and work together to set themselves free. We will send money and instructions to trusted contacts abroad so they can begin to spread word of revolution."
+ RCT_support_socialist_politicians_desc:0 "저학력의 외국 시민들에게 계급의식을 심어준다면 곧 억압을 자각하고 스스로를 해방시키기 위해 함께 노력할 것입니다. 우리는 그들이 혁명의 불씨를 퍼뜨리기 시작할 수 있도록 해외의 신뢰할 수 있는 연락책들에게 돈과 명령을 전할 것입니다."
  
  RCT_support_socialist_partisans:0 "사회주의 파르티잔 지원"
- RCT_support_socialist_partisans_desc:0 "We already know of small groups of socialist freedom fighters in foreign countries. However, they are unable to do much because they lack weapons, training and support in general. They need our help, and we will send it in secret."
+ RCT_support_socialist_partisans_desc:0 "우리는 이미 외국에 있는 사회주의 자유 투사들의 작은 단체를 알고 있습니다. 하지만, 그들은 일반적으로 무기, 훈련, 지원이 부족하기 때문에 많은 것을 할 수 없습니다. 그들은 우리의 도움이 필요하고, 우리는 비밀리에 그것을 보낼 것입니다."
  
  RCT_KGB_misinformation:0 "오보 캠페인"
- RCT_KGB_misinformation_desc:0 "To ensure our operations remain undiscovered, we must confound the lawkeepers, soldiers and agents of foreign countries. Our own agents will infiltrate them so they can spread false information and provide a distraction when necessary. They will cooperate with the partisans and agitators so they can act unnoticed."
+ RCT_KGB_misinformation_desc:0 "우리의 작전이 발견되지 않도록, 우리는 외국의 법률가, 군인, 그리고 그들의 첩보원들을 혼란스럽게 만들어야 합니다. 우리 요원이 침투해서 거짓 정보를 퍼뜨리고 필요할 때 주의를 분산시킬 수 있을 겁니다. 그들은 파르티잔, 선동가들과 협력하여 그들이 눈치채지 못하게 행동할 것입니다."
  
  
  
  RCT_peaceful_beacon:0 "평화의 표지"
- RCT_peaceful_beacon_desc:0 "Nova Whirl has assured the people that the River Republic will be a haven of stability and prosperity in the East, and no military conflicts will be started. If war comes, Rijekan ponies will of course have to defend themselves, but Nova promises to do everything she can to maintain peace with diplomacy."
+ RCT_peaceful_beacon_desc:0 "노바 월은 국민들에게 리버 공화국이 동부의 안정과 번영의 안식처가 될 것이며, 어떠한 군사적 충돌도 일어나지 않을 것이라고 장담했습니다. 만약 전쟁이 일어난다면, 리예칸의 포니들은 당연히 스스로를 보호해야 할 것입니다. 하지만 노바는 외교와 평화를 유지하기 위해 그녀가 할 수 있는 모든 것을 할 것을 약속했습니다."
  
- RCT_fabian_strategy:0 "조시페안 계획"
- RCT_fabian_strategy_desc:0 ""For the right moment you must wait, as Grand Prince Josip Grivačić did most patiently, when warring against the griffons, though many censured his delays; but when the time comes you must strike hard, as Josip did, or your waiting will be in vain, and fruitless."\nNova Whirl plans to adopt a new stratagem, which will slowly but surely transition the Riverlands to socialism."
+ RCT_fabian_strategy:0 "요십피언 계획"
+ RCT_fabian_strategy_desc:0 ""지금은 잠시 기다려야 할 때 입니다. 요십 그리바치치 대공이 그리폰과 싸울 때, 많은 자들이 그의 지체를 비난했지만 그는 참을성 있게 그들을 기다렸습니다. 그리고 때가 되면 강하게 부딪혀야 합니다. 마치 요십이 그랬던 것처럼요, 그렇지 않으면 여러분의 기다림은 성과없이 헛수고가 될 것입니다."\n노바 월은 리버랜드를 사회주의로 천천히, 하지만 확실히 전환시키는 새로운 전략을 채택한 것 같습니다."
  
  RCT_solidarity:0 "연대감"
- RCT_solidarity_desc:0 "Proletariat of the East must stand together, for divided they are too weak to resist reactionary aggression. Besides, nations and borders are all constructs made to turn us against each other when in reality we are all brothers and sisters. It is time to begin consolidating the Riverlands into a single Republic!"
+ RCT_solidarity_desc:0 "동부의 프롤레타리아들은 함께 서야 합니다. 분열된 그들은 반정부적인 저항에 버티기에는 나약한 상태일 것입니다. 뿐만 아니라, 국경과 문화는 모두 우리가 형제자매일 때 서로 등을 돌리기 위해 만들어진 구성요소일 뿐입니다. 이제 리버랜드를 하나의 공화국으로 통합하기 시작할 때입니다!"
  
  
  
@@ -438,7 +438,7 @@
  RCT_everypony_must_fight:0 "모든 포니들은 싸워야 한다"
  RCT_everypony_must_fight_desc:0 "전쟁이 다가오고 있습니다. 그리고 우리의 사회주의 낙원의 생존을 보장하기 위해서 모든 포니들은 그들의 역할을 다 해야 할 것입니다. 군인, 노동자, 농부, 모든 시민들! 우리 공화국은 오직 하나의 목표를 가지고 효율적인 전쟁 부품이 될 것입니다: 바로 자본주의 침략자들의 완전한 파멸을 위해서 말입니다."
  
- RCT_declare_riverland_soviet_union:0 "리버랜드 사회주의 연합 선언"
+ RCT_declare_riverland_soviet_union:0 "리버랜드 사회주의 연방 선언"
  RCT_declare_riverland_soviet_union_desc:0 "[Root.SocialistUnionProclamationDesc]"
  
  #Revolution Triumphant! What could possibly go wrong?
@@ -491,8 +491,8 @@
  RCT_industry_computing:0 "이퀘스트리아 컴퓨팅"
  RCT_industry_computing_desc:0 "리버 스월의 임기 동안 이퀘스트리아의 대학 및 학교들과 협력 관계를 맺은 적이 있었는데, 그들은 컴퓨터 기계를 개발하고 있었습니다. 현재 우리의 과학자들은 서대륙의 연구를 기반으로 한 최초의 아날로그 컴퓨터를 개발하고 있습니다. 우리의 국가 보조금으로 그들은 빛을 볼 수 있을 것입니다."
  
- RCT_industry_all_in_one:0 "콜트스트림과 리제코그라드 연결"
- RCT_industry_all_in_one_desc:0 "콜트스트림과 리예코그라드 사이에  국도가 존재하지만, 현대식의 철도가 그리프킹 강을 가로질러 건설되어야 합니다. 콜트스트림은 수도와 더욱 밀접하게 연결되어 두 도시 사이의 상업과 산업 협력을 증대시킬 것입니다."
+ RCT_industry_all_in_one:0 "콜트스트림과 리예코그라드 연결"
+ RCT_industry_all_in_one_desc:0 "콜트스트림과 리예코그라드 사이에 국도가 존재하기는 하지만, 현대식의 철도가 그리프킹 강을 가로질러 건설되어야 합니다. 콜트스트림은 수도와 더욱 밀접하게 연결되어 두 도시 사이의 상업과 산업 협력을 증대시킬 것입니다."
  
  RCT_industry_millitary_factories:0 "리버 무기 산업"
  RCT_industry_millitary_factories_desc:0 "우리의 군사산업은 평균적이지만 국제정세에 맞춰서, 우리는 발전해야 합니다. 외국산 무기에 관세를 부과하고 대신 국내 생산업체로부터 우리 군의 장비를 공급받음으로써, 우리는 우리의 무기 산업의 성장을 촉진할 것입니다."
@@ -501,80 +501,80 @@
  RCT_industry_reduce_poverty_desc:0 "우리의 경제 성장에도 불구하고 많은 포니들이 빈곤 속에서 계속 나약해지고 있습니다. 이 새로운 프로그램으로 우리는 국민들의 삶을 개선하기 위한 일련의 개혁안을 통과시킬 것입니다. 모두에게 이익이 되는 기본적인 안전 보장 및 무료 공공 서비스를 제공합니다!"
  
  RCT_industry_resource_tech:0 "지질 조사 실시"
- RCT_industry_resource_tech_desc:0 "We already know our many mountains contain countless riches, but using modern methods to carry out a comprehensive survey of the land will allow us to know exactly where these deposists are and what their size is. After the survey, we must decide how to invest our limited funds."
+ RCT_industry_resource_tech_desc:0 "우리나라의 많은 산들이 무지막지한 양의 금을 보유하고 있는 금고임을 이미 알고 있지만, 현대적인 방법을 사용한 토지의 포괄적인 조사는 이 금고의 위치와 그들의 가치가 정확히 얼마인지 알 수 있게 해줄 것입니다. 측량을 마친 뒤에, 우리는 우리의 한정된 자금을 어떻게 투자할지 결정해야 합니다."
  
  RCT_industry_steel_work:0 "리예코그라드 강철산업"
- RCT_industry_steel_work_desc:0 "Steel is the backbone of modern industry, and thus iron processing is important. Our mines already produce a great amount of ore and we found several rich deposits in our survey, but our steel mills are a bottleneck. They must be expanded at once! With our funds, new state-owned mills will be built in the capital, which will make us one of the greatest producers of steel in the East."
+ RCT_industry_steel_work_desc:0 "강철은 현대 산업의 근간인 만큼, 철강 생산은 중요합니다. 우리 광산은 이미 많은 양의 광석을 생산하고 있고 우리는 실시한 조사에서 몇 개의 풍부한 매장지를 발견했지만, 우리의 제철소는 병목 현상을 겪고 있습니다. 그것들은 즉시 확장되어야 합니다! 우리의 투자로 새로운 국영 공장들이 수도에 건설될 것이며, 이것은 우리를 동쪽의 가장 훌륭한 철강 생산국들 중 하나로 만들 것입니다."
  
  RCT_industry_alumimum_work:0 "알루미늄 용광로"
- RCT_industry_alumimum_work_desc:0 "The survey revealed that Wild-Vodina has notable deposits of bauxite ore. Mining operations in the region must be expanded greatly and modern smelters built in Coltstream. Our aluminium production is predicted to grow rapidly with our investment."
+ RCT_industry_alumimum_work_desc:0 "조사 결과 와일드-보디나는 보크사이트 광석이 상당량 퇴적돼 있는 것으로 드러났습니다. 이 지역의 광산업은 크게 확장되어야 하며 콜트스트림에 현대적인 제련소가 건설되어야 할 것입니다. 우리의 알루미늄 생산은 우리의 투자로 빠르게 성장할 것으로 예상됩니다."
  
  RCT_industry_improve_society_2:0 "노동조합 합법화"
- RCT_industry_improve_society_2_desc:0 "The legal status of trade unions has long been unclear. Now it is time for us to legalize and recognize them. They are clearly beneficial for not only workers but employers as well."
+ RCT_industry_improve_society_2_desc:0 "노동조합의 법적 지위는 오랫동안 불분명했습니다. 이제 우리는 그들을 합법화하고 인정할 때입니다. 그들은 노동자들뿐만 아니라 고용주들에게도 분명히 이로울 겁니다."
  
  RCT_industry_improve_society_1:0 "산업화의 진전"
- RCT_industry_improve_society_1_desc:0 "The growth of our economy continues even stronger than before. Our policies have been successful and new factories are opened every month. Our nation will be truly prosperous and advanced, a true forerunner of the East!"
+ RCT_industry_improve_society_1_desc:0 "우리 경제의 성장은 이전보다 훨씬 더 빠르게 가속되고 있습니다. 우리의 정책은 성공적이었고 매달 새로운 공장들이 문을 열고 있습니다. 우리나라는 진정한 번영을 누리는 선진국이 되고, 동부의 진정한 선구자가 될 것입니다!"
  
  RCT_industry_research_slot:0 "리예코그라드 대학"
- RCT_industry_research_slot_desc:0 "The university of Rijekograd is among the oldest ones in the East. Now it will become one of the largest ones as well. More teachers, more subjects, more students from all across the Riverlands, along with increased student exchange with our western pony relatives."
+ RCT_industry_research_slot_desc:0 "리예코그라드 대학은 동부에서 가장 오래된 대학 중 하나입니다. 그리고 이제 가장 거대한 학교 중 하나가 될 것입니다. 더 많은 교수, 과목, 학생들이 리버랜드 전역에서 오고 갈 것이고, 우리의 서쪽 포니 친구들과 더 많은 교환학생 프로그램을 진행할 것입니다."
  
  RCT_industry_jets:0 "로켓 엔진 실험"
- RCT_industry_jets_desc:0 "Some scientists in the Rijekograd university have begun developing advanced combustion engines that can propel objects over a great distance. It might be wise for us to support this program with state funding."
+ RCT_industry_jets_desc:0 "리예코그라드 대학의 몇몇 과학자들은 대단히 먼 거리까지 물체를 추진시킬 수 있는 첨단 연소 엔진을 개발하기 시작했습니다. 우리가 이 프로그램을 정부 자금으로 지원하는 것은 현명할지도 모릅니다."
  
  RCT_industry_atomisiert:0 "크리스탈의 힘"
- RCT_industry_atomisiert_desc:0 "While we already recognize some of the potential in the magic stored in crystals, our researches suggest we have grossly underestimated it. Done correctly, it might be possible to overload the crystals with magic and unleash it by breaking them, which would result in something... horrible.\nPerhaps we can take advantage of this."
+ RCT_industry_atomisiert_desc:0 "크리스탈이 가지고있는 마법의 잠재력은 알고 있었지만, 우리의 연구는 지금까지 그것을 완전히 과소평가했다는 것을 암시하고 있습니다. 설명하자면,  크리스탈을 과부화시켜 깨트리는 것으로 그 안의 마법을 방출시킬 수 있습니다. 그리고 그것은...끔찍한 결과를 초래할 겁니다.\n아마도 우리는 이것을 이용할 수 있을 것으로 보입니다."
  
  RCT_industry_science_base:0 "크리스탈 시대의 새벽"
  RCT_industry_science_base_desc:0 "Crystals are becoming an increasingly important part of our society as we learn to understand them and their secrets better. They allow us to unravel the inner workings of magic and use it in ways never imagined before. Truly, a new age is dawning for us."
 
  ######################### Military Focuses ###########  
  RCT_military_start:0 "군사에 집중"
- RCT_military_start_desc:0 "The River Armed Forces are one of the most modern in the East, but that does not mean we can ignore its development. We must reform it for the future, because warfare is always evolving."
+ RCT_military_start_desc:0 "리버 군은 동부에서 가장 현대적인 군대 중 하나이지만, 그렇다고 해서 우리 군의 개발을 경시할 수 있는 것은 아닙니다. 전쟁 양상은 지금도 진화하고 있으니 우리도 미래를 위해 군대를 개혁해야 합니다."
  
  RCT_grand_army_of_the_republic:0 "공화국 군인회"
- RCT_grand_army_of_the_republic_desc:0 "We should hold a military parade to not only show our citizens how great our army truly is, but to also boost its popularity which will get us many more recruits in no time."
+ RCT_grand_army_of_the_republic_desc:0 "우리 군이 얼마나 위대한지 시민들에게 보여줄 뿐만 아니라, 군대의 인기를 높여 순식간에 많은 신병을 확보할 수 있는 열병식을 열어야 합니다."
  
  RCT_inf_stuff:0 "최상의 무기"
- RCT_inf_stuff_desc:0 "The bread and butter of any army are the common infantryponies, so we should ensure they are all equipped with the finest guns of the east."
+ RCT_inf_stuff_desc:0 "보병은 군대의 가장 기본적인 요소입니다, 우리는 그들이 모두 동부에서 최고급의 총기를 갖추고 있는지 확인해야 합니다."
  
- RCT_river_games_military:0 "리버 전쟁 게임"
- RCT_river_games_military_desc:0 "A large military exercise where all members of the River Coalition participate will not only strengthen our bonds, but will also give our ponies some much needed practice so that they are prepared for the real fight."
+ RCT_river_games_military:0 "리버 모의전투 게임"
+ RCT_river_games_military_desc:0 "리버 동맹의 모든 구성원들이 참가하는 대규모 군사 훈련은 우리의 유대감을 강화시킬 뿐만 아니라 우리 포니들이 진정한 싸움에 대비할 수 있도록 필요한 연습을 제공할 것입니다."
  
  RCT_unicorn:0 "유니콘 훈련기관 기금"
- RCT_unicorn_desc:0 "Unicorns can turn the tide with their magic and many battles have been won thanks to them. We should fund more training camps for unicorns so they are capable to support the army even more than they already do."
+ RCT_unicorn_desc:0 "유니콘들은 그들의 마법으로 전세를 역전시킬 수 있었고 그들 덕분에 많은 전투에서 승리를 가져올 수 있었습니다. 우리는 현재 복무중인 유니콘보다도 훨씬 더 많은 유니콘들이 지원할 수 있도록 그들을 위한 훈련 캠프에 더 많은 투자를 행해야 합니다."
  
  RCT_pegasus:0 "페가수스 비행훈련기관 기금"
- RCT_pegasus_desc:0 "While we are physically weaker than griffons, our pegasi have proven time and time again that they can fight evenly in the air, and what they lack in strength they make up in speed. Funding more flight camps will ensure our pegasi have the upper hoof in aerial combat."
+ RCT_pegasus_desc:0 "우리는 그리폰보다 신체적으로 열세이지만, 페가수스는 자신들이 공중에서 대등하게 싸울 수 있다는 것과 힘으로 할 수 없는 것을 속도로 대신할 수 있다는 것을 계속해서 증명히왔습니다. 더 많은 비행 캠프에 투자를 하는 것은 우리의 페가수스들이 공중전에서 우세를 점할 것을 보장할 것입니다."
  
  RCT_ask_allies:0 "동맹국의 원조"
- RCT_ask_allies_desc:0 "Our friends in the Coalition have their own army traditions and modernization programs. We should ask them about their art of war and exchange our knowledge. This way we not only find out what they are doing, but also learn new strategies, tactics and training methods."
+ RCT_ask_allies_desc:0 "우리의 동맹에 있는 친구들은 그들만의 군대 전통과 현대화 계획을 가지고 있습니다. 우리는 그들에게 그들의 전쟁의 기술에 대해 물어보고 우리의 지식을 교환해야 합니다. 이러한 방법으로 우리는 그들이 무엇을 하고있는지 알아낼 뿐만 아니라 새로운 전략, 전술, 훈련 방법을 배울 수 있을 겁니다."
  
  RCT_art_stuff:0 "멀리서 온 죽음"
- RCT_art_stuff_desc:0 "Artillery is the foundation of modern warfare and has proven its usefulness time and time again. Only a fool would not thrive to make them better and better then they already are."
+ RCT_art_stuff_desc:0 "포병은 현대 전쟁의 근간이며, 그 유용성을 계속해서 증명해 왔습니다. 바보가 아니라면 그들을 현재보다 더 발전시킨다는데에 이의가 없을 겁니다."
  
  RCT_moutain_guns:0 "산포"
- RCT_moutain_guns_desc:0 "We have many mountains within our land, so we should make sure that our artillery is designed and built with that in mind. This will make our army able to rain shells on our foes from above."
+ RCT_moutain_guns_desc:0 "우리의 국토에는 산맥이 많기 때문에 그것을 염두에 두고 야포를 설계, 생산하도록 해야 합니다. 이렇게 되면 우리 군은 저 높은곳에서 적에게 포탄을 퍼부을 수 있을 것입니다."
  
  RCT_mobile:0 "현대식 이동수단"
- RCT_mobile_desc:0 "Thanks to combustion engines our soldiers no longer need to pull wagons on their own. These new vehicles are also fast and can traverse all kinds of terrain, only getting stuck in mud. Part of our military budget should be dedicated to increasing the use of trucks in the River Army."
+ RCT_mobile_desc:0 "내연기관 엔진 덕분에 우리 병사들은 더 이상 스스로 마차를 끌 필요가 없게 되었습니다. 이 신형 차량은 속도도 빠르고 진흙탕을 제외하면 거의 모든 종류의 지형을 통과할 수 있습니다. 우리 군 예산의 일부는 리버 군에서 트럭의 사용을 증가시키는 데 쓰여야 합니다."
  
  RCT_tanks:0 "기갑 전투차량"
- RCT_tanks_desc:0 "There is a new innovation that is used on the battlefield in the west, the so called "tank", that has a great amount of potential. With armoured vehicles it is easy to strike at the enemy swiftly and break through defences that otherwise would be impenetrable. We should immediately begin researching these "tanks"."
+ RCT_tanks_desc:0 "서부의 전장에서 사용되고 있는 새로운 혁신, 이른바 "탱크"는 엄청난 잠재력을 가지고 있습니다. 장갑화된 차량이라면 적을 신속하게 공격할 수 있고 보통의 방식으로는 뚫지 못하던 방어선도 돌파할 수 있을 것입니다. 우리는 즉시 이 "탱크"에 대한 연구를 시작해야 합니다."
  
  RCT_doctrain_2:0 "군을 위한 개선된 교리"
- RCT_doctrain_2_desc:0 "Our military doctrines are slowly becoming outdated and there are many new innovations in warfare that we do not yet understand. Sending observers abroad to study the most modern militaries should allow us to reform our doctrines."
+ RCT_doctrain_2_desc:0 "우리의 군사 교리는 점차 시대에 뒤떨어지고 있으며, 우리가 아직 이해하지 못하는 새로운 전쟁 양상의 발전은 지금도 일어나고 있습니다. 현대적인 군대를 학습하기 위해 파견단들을 해외로 보내고 우리의 교리를 개선할 수 있도록 해야 합니다."
  
  RCT_mobile2:0 "무기 혼합"
- RCT_mobile2_desc:0 "What our research showed us was clear: tanks and motorized infantry go hoof to hoof. The two must be combined into a single unit, but that is not all. We also have to make sure that we have the newest models out there, as what good do combined arms do if the arms are outdated?"
+ RCT_mobile2_desc:0 "우리의 연구가 보여준 것은 분명했습니다. 탱크와 차량화 보병들이 따로따로 움직였다는 것입니다. 이 두 가지를 하나의 부대로 결합할 뿐만 아니라 그것들의 신식 모델들을 확보해야 합니다. 군대가 구식이라면, 그 둘을 합쳐봤자 무슨 의미가 있겠습니까?"
  
  RCT_staff_start:0 "유능한 장관들"
- RCT_staff_start_desc:0 "A good commander can lead a dozen sheep to victory against an army of wolves. We must ensure we have enough officers and that they are well-trained to fight a modern war."
+ RCT_staff_start_desc:0 "훌륭한 지휘관은 늑대 무리에 맞선 십여 마리의 양을 승리로 이끌 수도 있습니다. 우리는 우리에게 충분한 장교가 있고 그들이 현대 전쟁을 치르기 위해 잘 훈련되어 있는지 확인해야 합니다."
  
  RCT_defensive_staff:0 "방어적 참모총장"
- RCT_defensive_staff_desc:0 "The most senior officer of the River Army must have a defensive mindset. The Riverlands have many natural defenses, such as rivers, mountains and forests, and it would be foolish not to utilize them."
+ RCT_defensive_staff_desc:0 "리버 군의 최고위 장교는 방어적인 태도를 가지고 있어야 합니다. 리버랜드는 강, 산, 숲으로 이루어진  천혜의 요새이고, 이것을 이용하지 않는 것은 어리석은 일일 것입니다."
  
  RCT_offensive_staff:0 "공격적 참모총장"
- RCT_offensive_staff_desc:0 "The River Army's leader should not foolishly rely solely on our defences, but must remain active for modern warfare is offensive and mobile warfare. We cannot allow our enemy to prepare attacks in peace, but harass them and break their lines."
+ RCT_offensive_staff_desc:0 "리버 군의 지도자는 바보같이 우리의 방어에만 의존해서는 안 되며, 현대전의 공격적이고 기동전술의 성향을 따라 적극적이여야 할 것입니다. 우리는 적이 평화롭게 공격을 준비하는 것을 용납하지 않으며, 그들을 괴롭히고 그들의 전선을 무너뜨릴겁니다."
  
  RCT_special_ops:0 "특수부대"
  RCT_special_ops_desc:0 "We need to establish a unit dedicated to fulfilling special missions, during both war and peace. They will receive extensive, even dangerous training and be given our finest equipment to ensure they are the best of the best. All are invited, few are chosen."
@@ -868,12 +868,12 @@
  rivercity.26.a:0 "잠시 생각해 봐야겠군..."
  
  rivercity.27.t:0 "붉은 토요일"
- rivercity.27.d:0 "노바 월과 그녀의 2인자 카라멜 헤이즈는 조화당이 집권한 기간 동안 동맹관계였지만, 그들은 한 번도 의견 일치를 본 적이 없었습니다. 카라멜은 항상 지나치게 급진적이었고, 기꺼이 싸울 기세였으며, 너무 무뚝뚝하거나 상식을 무시했습니다. 그는 광신자였고, 혁명이 성공하기 위해 필요한 것은 공산주의자들이 충분한 열성을 가지고 그것을 위해 싸우는 것뿐이라고 생각했습니다. 실제로 노바가 언젠가 그에게 화가 나서 부르주아 민주주의를 내부에서 전복시키겠다는 이유로 혼자서 리버 연합 전체를 상대로 싸우겠냐고 묻자 그는 망설임 없이 "그렇다"라고 대답했습니다.\n두 사람이 그렇게 사이가 좋지 않은 것은 특히 이런 이유 때문입니다. 오늘, 그 갈등은 극적으로 치달았습니다. 노바의 스파이들은 육군 고위장성인 카라멜 헤이즈는 많은 사단을 움직일 수 있는 권한을 지니고 있으며, 지난 몇 주 동안 리제코그라드를 보호하기 위해 배정된 사단이 헤이즈의 통제하에 서서히 들어왔다는 것을 알게 되었습니다. 이것은 두 사회주의계 지도자들이 최근 의회에서 논쟁을 벌였고, 마침내 카라멜의 인내심이 바닥났다는 것을 고려할 때 아주 심각한 사안입니다. 모든 증거는 쿠데타를 가리키고 있습니다. 노바 월의 스파이들이 제때에 보고할 수 있을까요?"
+ rivercity.27.d:0 "노바 월과 그녀의 2인자 카라멜 헤이즈는 조화당이 집권한 기간 동안 동맹관계였지만, 그들은 한 번도 의견 일치를 본 적이 없었습니다. 카라멜은 항상 지나치게 급진적이었고, 기꺼이 싸울 기세였으며, 너무 무뚝뚝하거나 상식을 무시했습니다. 그는 광신자였고, 혁명이 성공하기 위해 필요한 것은 공산주의자들이 충분한 열성을 가지고 그것을 위해 싸우는 것뿐이라고 생각했습니다. 실제로 노바가 언젠가 그에게 화가 나서 부르주아 민주주의를 내부에서 전복시키겠다는 이유로 혼자서 리버 연합 전체를 상대로 싸우겠냐고 묻자 그는 망설임 없이 "그렇다"라고 대답했습니다.\n두 사람이 그렇게 사이가 좋지 않은 것은 특히 이런 이유 때문입니다. 오늘, 그 갈등은 극적으로 치달았습니다. 노바의 스파이들은 육군 고위장성인 카라멜 헤이즈는 많은 사단을 움직일 수 있는 권한을 지니고 있으며, 지난 몇 주 동안 리예코그라드를 보호하기 위해 배정된 사단이 헤이즈의 통제하에 서서히 들어왔다는 것을 알게 되었습니다. 이것은 두 사회주의계 지도자들이 최근 의회에서 논쟁을 벌였고, 마침내 카라멜의 인내심이 바닥났다는 것을 고려할 때 아주 심각한 사안입니다. 모든 증거는 쿠데타를 가리키고 있습니다. 노바 월의 스파이들이 제때에 보고할 수 있을까요?"
  rivercity.27.a:0 "카라멜의 충성스런 군인들이 정부를 장악했습니다!"
  rivercity.27.b:0 "스파이들의 보고가 전달되었고, 군대가 카라멜을 체포했습니다."
  
  rivercity.1917.t:0 "노바 월의 초대장"
- rivercity.1917.d:0 "리버 공화국 대표단이 오늘 우리 수도에 도착했습니다. 그들은 우리에게 노바 월 수상이 (구)리버 연합을 대신할 새로운 리버랜드 사회주의 연합에 가입할 것을 알리는 정식 초청장을 보냈습니다. 콜트스트림 조약과 그 모든 조항들은 무효가 될 것이고 모든 나라들은 리제코그라드 조약에 서명하도록 요구될 것입니다. 리제코그라드 조약은 모든 회원국의 사유권을 폐지하고 사회의 모든 면에서 자유와 평등을 촉진하는 사회주의 헌법을 갖도록 요구하고 있습니다. 만약 우리가 이를 받아들일 수 없다면, 우리는 이 연합에 가입하지 않을 것입니다."
+ rivercity.1917.d:0 "리버 공화국 대표단이 오늘 우리 수도에 도착했습니다. 그들은 우리에게 노바 월 수상이 (구)리버 연합을 대신할 새로운 리버랜드 사회주의 연합에 가입할 것을 알리는 정식 초청장을 보냈습니다. 콜트스트림 조약과 그 모든 조항들은 무효가 될 것이고 모든 나라들은 리예코그라드 조약에 서명하도록 요구될 것입니다. 리예코그라드 조약은 모든 회원국의 사유권을 폐지하고 사회의 모든 면에서 자유와 평등을 촉진하는 사회주의 헌법을 갖도록 요구하고 있습니다. 만약 우리가 이를 받아들일 수 없다면, 우리는 이 연합에 가입하지 않을 것입니다."
  rivercity.1917.a:0 "그녀의 초대에 흔쾌히 응한다."
  rivercity.1917.b:0 "뭐라고? 이건 말도 안 돼!"
  
@@ -902,7 +902,7 @@
  
  #Investigation succeeds
  rivercity.1923.t:0 "콜트스트림 간섭의 증거"
- rivercity.1923.d:0 "[From.GetName]은(는) 최근 리버 연합을 구성하는 조약과 규정들이 추가된 후, 사회주의에 대한 지지가 점차 증가했다는 것을 알게 되었고, 그들은 무엇이 대중들의 태도 변화를 야기시키고 있는지를 알아보기 위해 관료들과 조사관들로 구성된 위원회를 보냈습니다. 철저한 조사 후에, 그들은 리버 공화국이 콜트스트림 조약의 변경에 개입해 있다는 사실을 발견했습니다. 이런 지시들은 우리 외교관들이 눈치채지 못한 채 이미 산더미처럼 쌓여 있던 서류더미의 사소한 변화들 가운데 숨겨져 있었습니다. 리버 대표가 추가한 항목들은 첫눈에 보기에는 나쁜 건 없는 것 같았기에, [From.GetAdjective] 관료들은 큰 그림을 보지 못한 채 의문을 제기하지 않고 지시를 따랐던 것입니다.. 하지만 수사관들은 이러한 변화들이 사실 리버랜드 전역에서 사회주의자들의 지지를 증가시키기 위한 수단이었다는 것을 발견했습니다.\n\n공개 기자 회견에서 [From.GetAdjective] 관리들은 범인을 노바 월의 리버 공화국으로 지목했습니다. 이 발표는 리버랜드의 대부분의 나라들로부터 분노한 반응들이 뒤따랐고, 그들은 리버인들이 그들의 신뢰를 남용했다고 비난했습니다. 곧이어 노바 월는 사과문을 보내 다시는 다른 회원국들의 일에 개입하지 않겠다고 약속했습니다."
+ rivercity.1923.d:0 "[From.GetName]은(는) 최근 리버 연합을 구성하는 조약과 규정들이 추가된 후, 사회주의에 대한 지지가 점차 증가했다는 것을 알게 되었고, 그들은 무엇이 대중들의 태도 변화를 야기시키고 있는지를 알아보기 위해 관료들과 조사관들로 구성된 위원회를 보냈습니다. 철저한 조사 후에, 그들은 리버 공화국이 콜트스트림 조약의 변경에 개입해 있다는 사실을 발견했습니다. 이런 지시들은 우리 외교관들이 눈치채지 못한 채 이미 산더미처럼 쌓여 있던 서류더미의 사소한 변화들 가운데 숨겨져 있었습니다. 리버 대표가 추가한 항목들은 첫눈에 보기에는 나쁜 건 없는 것 같았기에, [From.GetAdjective] 관료들은 큰 그림을 보지 못한 채 의문을 제기하지 않고 지시를 따랐던 것입니다.. 하지만 수사관들은 이러한 변화들이 사실 리버랜드 전역에서 사회주의자들의 지지를 증가시키기 위한 수단이었다는 것을 발견했습니다.\n\n공개 기자 회견에서 [From.GetAdjective] 관리들은 범인을 노바 월의 리버 공화국으로 지목했습니다. 이 발표는 리버랜드의 대부분의 나라들로부터 분노한 반응들이 뒤따랐고, 그들은 리버인들이 그들의 신뢰를 남용했다고 비난했습니다. 곧이어 노바 월은 사과문을 보내 다시는 다른 회원국들의 일에 개입하지 않겠다고 약속했습니다."
  rivercity.1923.a:0 "그녀가 약속을 지키기를 바란다."
  
  #Investigation Fails
@@ -1079,9 +1079,9 @@
  #rivercity.28.a:0 ""
 
  #River War Games, every coalition member gets this
- rivercity.29.t:0 "리버 전쟁 게임"
- rivercity.29.d:0 "[RCT.GetNameDef] invited us to participate in a series of wargames to improve military readiness and cooperation between members of the River Coalition. The exercises were conducted without incident and have already highlighted several potential areas for improvement in our military."
- rivercity.29.a:0 "Good."
+ rivercity.29.t:0 "리버 모의전투 게임"
+ rivercity.29.d:0 "[RCT.GetNameDef]은(는) 우리를 일련의 모의전투에 참가하도록 초청했습니다. 각국의 군사 조직력과 리버 동맹국들 간의 협력을 향상시키기 위한 취지에서 말입니다. 훈련은 사고없이 무사히 진행되었고, 벌써 우리 군의 몇 가지 무선 가능성을 발견한 듯합니다."
+ rivercity.29.a:0 "좋아."
  
  #no trigger found, gives a land doctrine bonus
  # rivercity.30.t:0 ""
@@ -1141,7 +1141,7 @@
  ## DIAMOND MOUNTAIN HARMONIC COUP CHAIN ##
  
 #Let's ask Molly
- rivercity.300.t:0 "개 문제"
+ rivercity.300.t:0 "독스 문제"
  rivercity.300.d_fas:0 "King Rover has long been a bulwark against griffons, but it is fundamentally a relationship of convenience. He is a tyrant who enslaves dogs and ponies alike. They are no different from the Empire, and must be stopped.\n\nThere might be a solution. Slaves chafe under King Rover's rule, and his daughter Molly is heartbroken over his cruel behaviour.\n\nIf we promise no harm will come to King Rover, we may be able to convince Molly to aid us in fomenting a slave uprising..."
  rivercity.300.d_com:0 "Our once loyal ally King Rover was overthrown by Clifford the Red and his band of Communist agitators. They call us bourgeois oppressors even as the Griffons threaten us all. They must be brought back into the fold.\n\nThe former heir Princess Molly lives in exile with us and speaks wishfully of returning and creating a new Diamond Mountain of harmony, freedom and friendship. With our support, this dream could become reality."
  rivercity.300.a:0 "We will contact Molly."
@@ -1286,11 +1286,11 @@
  RCT_marine_raiders:0 "River Raiders"
  RCT_force_recon:0 "River Force Recon"
 
- RCT_electioneering:0 "The Snap Election"
- RCT_slander_socialists:0 "Slander The Socialists"
- RCT_slander_socialists_desc:0 "It is absolutely imperative that we win this election, or the Republic may fall to the forces of Communism! We will use every trick and resource available to us to win the public over, even if it means we have to borrow money to do it."
- RCT_undermine_government:0 "Undermine The Government"
- RCT_undermine_government_desc:0 "The Workers must be free, and winning this election would be a major step on the road to freedom for them. We must use any means necessary to overthrow the cruel system of capitalism."
+ RCT_electioneering:0 "비상 선거"
+ RCT_slander_socialists:0 "사회주의자 비방"
+ RCT_slander_socialists_desc:0 "이번 선거에서 반드시 우리가 승리해야 합니다. 그렇지 않으면 공화국이 공산주의의 세력에 넘어갈 것입니다! 공화국의 승리를 위해 우리가 돈을 빌리더라도 이용할 수 있는 모든 기술과 자원을 사용할 것입니다."
+ RCT_undermine_government:0 "정부 약화"
+ RCT_undermine_government_desc:0 "노동자들은 자유로워야 하며, 이번 선거에서 승리하는 것은 노동자들의 자유로 향하는 중요한 발걸음이 될 것입니다. 우리는 자본주의의 잔혹한 체계를 뒤엎기 위해 필요한 모든 수단을 동원해야 합니다."
  
  RCT_ally_trade:0 "Riverland Technological Exchange Program"
  RCT_DEP_trade:0 "The Olde Country"
@@ -1311,57 +1311,57 @@
  RCT_deal_with_dogs:0 "Deal with the Dogs"
  RCT_prepare_the_coup_dogs:0 "Prepare the Coup"
  
- RCT_agitators_partisans:0 "Spreading the Revolution"
- RCT_agitate_in_from:0 "Seed Agitators in [From.GetName]"
- RCT_militants_in_from:0 "Send Miltants into [From.GetName]"
+ RCT_agitators_partisans:0 "혁명 전파"
+ RCT_agitate_in_from:0 "[From.GetName]에 선동가 침투"
+ RCT_militants_in_from:0 "[From.GetName]에 무장세력 투입"
  
- RCT_KGB:0 "Anti-Capitalist Espionage"
- RCT_KGB_in_from:0 "Infiltrate Spies in [From.GetName]"
+ RCT_KGB:0 "반자본주의 첩보 활동"
+ RCT_KGB_in_from:0 "[From.GetName]에 스파이 침투"
  
- RCT_solidarity_decisions:0 "Solidarity in the Riverlands"
- RCT_integrate_someone:0 "Integrate [From.GetName]"
+ RCT_solidarity_decisions:0 "리버랜드의 결속"
+ RCT_integrate_someone:0 "[From.GetName] 합병"
  
- RCT_deal_with_crash:0 "A More Perfect Union"
- RCT_establish_monoculture:0 "Eradicate Nationalism"
- RCT_integrate_armies:0 "Unite The Armies"
- RCT_integrate_economies:0 "Spread Socialism"
- RCT_subdue_terrorists:0 "Subdue Reactionaries"
+ RCT_deal_with_crash:0 "좀 더 완벽한 연방"
+ RCT_establish_monoculture:0 "민족주의 근절"
+ RCT_integrate_armies:0 "군대 통합"
+ RCT_integrate_economies:0 "사회주의 전파"
+ RCT_subdue_terrorists:0 "반동분자 진압"
  
- RCT_magic_star_decisions:0 "Operation: Magic Star"
- RCT_magic_star_decisions_desc:0 "To the western marches of the Riverlands are the troublesome griffon knightly orders, a remainder of Grover the Second's legacy. They are certain to cause misery for ponies and they need to be dealt with, one way or the other. "
- RCT_support_magic:0 "Spread Harmony in [From.GetName]"
- RCT_guns_magic:0 "Smuggle Weapons into [From.GetName]"
- RCT_officers_magic:0 "Send Officers into [From.GetName]"
- RCT_stage_coup_magic:0 "Overthrow Tyranny in [From.GetName]"
- RCT_convince_harmonic_magic:0 "Invite [From.GetName] to the Golden Curtain"
+ RCT_magic_star_decisions:0 "작전명: 매직 스타"
+ RCT_magic_star_decisions_desc:0 "리버랜드에서 서북부의 연안에는 그로버 2세의 잔여물인 골칫거리 그리폰 기사단이 있습니다. 그들은 포니들에게 위협을 가할 것이 확실하고 우리는 어떤 방식으로든 그들을 손 봐줘야 할 것입니다."
+ RCT_support_magic:0 "[From.GetName](으)로 조화 전파"
+ RCT_guns_magic:0 "[From.GetName](으)로 무기 밀반입"
+ RCT_officers_magic:0 "[From.GetName](으)로 사무국 파견"
+ RCT_stage_coup_magic:0 "[From.GetName]의 폭정 타도"
+ RCT_convince_harmonic_magic:0 "[From.GetName]을(를) 금빛 장막으로 초대"
  
- RCT_cherry_party_decisions:0 "Operation: Cherry Party"
- RCT_cherry_party_decisions_desc:0 "To the south lie the griffon nations of the Evi Valley, who have frequently caused trouble for our allies. It would be prudent to invest our resources into toppling antagnostic regimes, while maintaining friendly relations with those that are open to dialogue."
- RCT_support_cherry:0 "Spread Harmony in [From.GetName]"
- RCT_guns_cherry:0 "Smuggle Weapons into [From.GetName]"
- RCT_officers_cherry:0 "Send Officers into [From.GetName]"
- RCT_stage_coup_cherry:0 "Overthrow Tyranny in [From.GetName]"
- RCT_convince_harmonic_cherry:0 "Invite [From.GetName] to the Golden Curtain"
+ RCT_cherry_party_decisions:0 "작전명: 체리 파티"
+ RCT_cherry_party_decisions_desc:0 "남쪽의 에비 계곡에는 몇몇의 그리폰 국가들이 있습니다. 그들은 자주 우리의 동맹국들에게 문제를 일으켰습니다. 대화의 길을 열어놓고 우호적인 관계를 유지하면서, 동시에 우리의 자원을 그들의 반체제 단체들에 투자하는 일은 신중하게 진행해야 할 겁니다."
+ RCT_support_cherry:0 "[From.GetName](으)로 조화 전파"
+ RCT_guns_cherry:0 "[From.GetName](으)로 무기 밀반입"
+ RCT_officers_cherry:0 "[From.GetName](으)로 사무국 파견"
+ RCT_stage_coup_cherry:0 "[From.GetName]의 폭정 타도"
+ RCT_convince_harmonic_cherry:0 "[From.GetName]을(를) 금빛 장막으로 초대"
  
- RCT_golden_curtain_decision:0 "Guarantee [From.GetName]"
+ RCT_golden_curtain_decision:0 "[From.GetName] 독립 보장"
  
  RCT_emergency_powers:0 "비상권한법"
- RCT_invoke_emergency_powers:0 "비상권한법을 공포합니다"
+ RCT_invoke_emergency_powers:0 "비상권한법 공포"
  
  #RCT_electioneering:0 "Snap Election"# Different duplicate from Eaw
  
  #### TOOL TIPS ####
  RCT_nova_hint:0 "§R공산주의 정당이 집권하고 있거나 공산주의 정당 지지율이 30% 이상인 나라들이 여러분과 함께 할 것입니다. 이외의 국가들은 전쟁을 선포할 것입니다. 당신의 파르티잔 활동들이 그들을 충분히 약화시켰기를 바랍니다.§!\n"
- RCT_socialist_partisans:0 "We have begun to support Socialists Partisans"
- RCT_socialist_agitators:0 "We have begun to support Socialists Agitators"
- RCT_hector_revolted_against_you:0 "Hector has risen up in revolt against us"
- RCT_adjacent_to_empire:0 "Either we, one of our puppets, or one of our faction members has a border with the Griffonian Empire"
- RCT_adjacent_to_knights:0 "Either we, one of our puppets, or one of our faction members has a border with Helquill or Longsword"
- RCT_adjacent_to_commies:0 "Either we, one of our puppets, or one of our faction members has a border with Gryphia, Lushi, or Prywhen" 
- RCT_no_gommies:0 "This will ensure that Communists never threaten our nation again. When the Civilian Government is restored, they will be marginalised and unable to partake in government."
- RCT_will_purge_reactionaries:0 "This will ensure that §Yonly faithful Communists§! will remain in our beautiful republic\n"
- RCT_not_by_revolt:0 "The government has not been overthrown by force"
- RCT_caramel_took_power:0 "Caramel Haze has seized control of the government"
+ RCT_socialist_partisans:0 "사회주의자 파르티잔을 지원하기 시작했습니다"
+ RCT_socialist_agitators:0 "사회주의자 선동가들을 지원하기 시작했습니다"
+ RCT_hector_revolted_against_you:0 "헥터가 우리에 대항하여 반란을 일으켰습니다"
+ RCT_adjacent_to_empire:0 "우리나라, 우리의 괴뢰국, 또는 우리 세력의 일원이 그리포니아 제국과 국경을 맞대고 있습니다."
+ RCT_adjacent_to_knights:0 "우리나라, 우리의 괴뢰국, 또는 우리 세력의 일원이 롱소드 또는 헬퀼과 국경을 맞대고 있습니다."
+ RCT_adjacent_to_commies:0 "우리나라, 우리의 괴뢰국, 또는 우리 세력의 일원이 그리피아, 루시, 또는 프라이웬과 국경을 맞대고 있습니다." 
+ RCT_no_gommies:0 "이것은 공산주의자들이 다시는 우리나라를 위협하지 못하도록 보장할 것입니다. 민주정부가 복구되면, 그들은 소외되고 정권에 참여할 수 없게 됩니다."
+ RCT_will_purge_reactionaries:0 "이는 오직 §Y충실한 공산주의자§!들만 우리의 아름다운 공화국에 남을 것을 보장할 것입니다\n"
+ RCT_not_by_revolt:0 "정부가 무력에 의해 무력화되지 않았습니다"
+ RCT_caramel_took_power:0 "카라멜 헤이즈가 권력을 장악했습니다"
  RCT_friendship_tooltip:0 "This will grant §Yall your current puppets§!, as well as any §Yfuture puppets§! you make, a National Spirit that will allow you to §Yharness more of their ponypower§!."
  RCT_harmonists_in:0 "Harmonists have built a base of support"
  RCT_guns_in:0 "Harmonist groups have had weapons shipped in"
@@ -1373,15 +1373,15 @@
  RCT_west_wargoal_tooltip:0 "If you have less than §Y30% War Support§!, this will cost you §YStability§! - the lower your War Support, the more Stability lost.\n" 
  RCT_can_justify:0 "Allows you to §Yjustify wargoals§! on nations that §Yhave not generated World Tension§!"
  RCT_OHS_in_power:0 "The OHS Director has §Yassumed full control§! of the state"
- RCT_river_swirl_is_a_puppet:0 "River Swirl has been convinced to §Ycooperate§! with the OHS"
- RCT_restore_government:0 "§YRiver Swirl will return to power§!"
- RCT_restore_government_communism:0 "§YCaramel Haze will become General Secretary§!"
- RCT_has_agitators:0 "Communist Agitators have infiltrated our nation and are inciting the peasantry!"
- RCT_has_militants:0 "Militant Socialists have infiltrated our nation!"
- RCT_has_KGB:0 "Hostile Intelligence Forces have infiltrated our country!"
- RCT_has_fabians:0 "Somehow, someone has ordered Socialist Propaganda injected into our institutions" 
- RCT_proof_nova_is_a_traitor:0 "Nova Whirl is subverting our institutions!" 
- RCT_commie_crash:0 "We are dealing with the aftershocks of integrating the Riverlands" 
+ RCT_river_swirl_is_a_puppet:0 "리버 스월은 순순히 OHS에 §Y협조§!할 것이라 믿어 의심치 않습니다"
+ RCT_restore_government:0 "§Y리버 스월이 다시 권력을 잡을 것입니다§!"
+ RCT_restore_government_communism:0 "§Y카라멜 헤이즈가 서기장이 될 것입니다§!"
+ RCT_has_agitators:0 "공산주의 선동가들이 우리나라에 침투하여 농민들을 선동하고 있습니다!"
+ RCT_has_militants:0 "무장한 사회주의자들이 우리나라에 침투했습니다!"
+ RCT_has_KGB:0 "적대적인 정보요원 세력이 우리나라에 침투했습니다!"
+ RCT_has_fabians:0 "왠지 누군가 사회주의 선전을 우리 정부 기관에 주입하라는 명령을 내린듯 보입니다" 
+ RCT_proof_nova_is_a_traitor:0 "노바 월이 우리 정부를 전복시키려 합니다!" 
+ RCT_commie_crash:0 "우리는 리버랜드 통일의 후폭풍에 대처해야 합니다."
  RCT_fight_communists:0 "This will unlock §Ydecisions§! that allow you to fight against the insurgents and, in time, punish the one responsible for supporting them." 
  RCT_overcome_cultural_barriers:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us to begin creating one united §CRiverlander§! §Yculture§!\n\n"
  RCT_suppress_terrorists:0 "§GCompleting§! this §Yfocus§! will unlock §CDecisions§! that will allow us dispose of the various §RAnti-Socialist militants§! infesting the §CRiverlands§!\n\n"
@@ -1395,7 +1395,7 @@
  RCT_electioneering_active:0 "이제 결정 메뉴에서 §Y선거§! 결정을 활성화하여 선거 결과에 영향을 줄 수 있습니다. §R선거의 결과는 선거일에 어느 정당이 더 많은 지지를 받느냐에 따라 달라질 것입니다.§!"
  RCT_harmony_prevails:0 "리버 스월이 수상직을 지켜냈습니다"
  RCT_communism_prevails:0 "노바 월이 수상직을 박탈하는데 성공했습니다"
- RCT_emergency_mesures_active:0 "Emergency Measures have been enacted."
+ RCT_emergency_mesures_active:0 "비상권한법이 발동되었습니다."
  #RCT_emergency_powers:0 "Desperate Times"# Different duplicate from Eaw
  #RCT_invoke_emergency_powers:0 "Sign The Emergency Powers Bill"# Different duplicate from Eaw
  RCT_gommies_tooltip:0 "§Y비상권한법§! 결정을 해제합니다. 이것은 당신의 정적들을 §R압도§!할 수 있게 있지만, 조심하십시오 - 비상권한법의 오용은 §R독재로 가는 지름길§!이 될 수 있습니다."
@@ -1407,12 +1407,12 @@
  RCT_owns_the_riverlands:0 "The §Yoriginal§! §Ccapitals§! of §YLake City§!, §YDiamond Mountain§!, §YDeponya§!, §YRiver Republic§!, §YNimbusia§!, §YWittenland§! and §YPonadhain§! are controlled by either us or by one of our §Csubject states§!\n\n"
  RCT_army_special_forces_tt:0 "§Y6 공수부대§!와 §Y정찰§!,§Y포병§!,§정비§!중대를 지니는 사단 3개를 얻습니다.\n"
  RCT_sfodr_tt:0 "§Y6 공수부대§!와 §정찰§!중대, §유니콘§!중대를 지니는 정예 사단을 얻습니다.\n"
- RCT_ranger_regiment_tt:0 "Gain a unit with §Y9 Mountaineer§! battalions and §YRecon§!, §YArtillery§!, §YEngineer§! and §YUnicorn§! companies.\n"
- RCT_night_stalkers_tt:0 "Gain a unit with §Y9 Pegasi§! battalions and §YRecon§!, §YArtillery§!, §YEngineer§! and §YUnicorn§! companies.\n"
- RCT_marine_raiders_tt:0 "Gain a unit with §Y9 Marine§! battalions and §YRecon§!, §YArtillery§!, §YEngineer§! and §YUnicorn§! companies.\n"
- RCT_reals_tt:0 "Gain 6 elite units with §Y3 Marine§! battalions, a §YEngineer§! company and an §YUnicorn§! company.\n"
- RCT_force_recon_tt:0 "Gain a unit with §Y6 Marine§! battalions and §YRecon§!, §YEngineer§! and §YUnicorn§! companies.\n"
- RCT_dep_aid:0 "Aid from Deponya received"
+ RCT_ranger_regiment_tt:0 "§Y9 산악대대§!와 §Y정찰§!, §Y포병§!, §Y정비§!, §Y유니콘§!중대를 지니는 사단을 얻습니다.\n"
+ RCT_night_stalkers_tt:0 "§Y9 페가수스대대§!와 §Y정찰§!, §Y포병§!, §Y정비§!, §Y유니콘§!중대를 지니는 사단을 얻습니다.\n"
+ RCT_marine_raiders_tt:0 "§Y9 해병대§!와 §Y정찰§!, §Y포병§!, §Y정비§!, §Y유니콘§!중대를 지니는 사단을 얻습니다.\n"
+ RCT_reals_tt:0 "§Y3 해병대§!와 §정비§!중대, §유니콘§!중대를 지니는 정예 사단 6개를 얻습니다.\n"
+ RCT_force_recon_tt:0 "§Y6 해병대§!와 §Y정찰§!, §Y정비§!, §Y유니콘§!중대를 지니는 사단을 얻습니다.\n"
+ RCT_dep_aid:0 "데포니아로부터의 원조를 받아들이다"
  RCT_babushka:0 "할머니는 매우 기뻐할 것입니다!\n"
  RCT_babushka_mad:0 "할머니는 실망하겠지만 여전히 당신을 사랑할 겁니다.\n"
  RCT_idiot:0 "공석을 채울 하위 직급의 행정관리자를 찾을 수 있을 것입니다.\n"
@@ -1421,8 +1421,8 @@
  pumpkin_swirl_trait:0 "할머니의 보물"
  RCT_grovers_dead:0 "§Y그로버 5세§!가 죽었습니다"
  RCT_caramel_will_be_stronger:0 "§R이것은 역효과를 불러올 수있습니다, 소탕되지 못한 사회주의 저항단체들을 대담하게 만들 것입니다.§!"
- RCT_harmonist_electioneering:0 "사회주의자들을 비방합니다"
- RCT_socialist_electioneering:0 "정부를 약화시킵니다"
+ RCT_harmonist_electioneering:0 "사회주의자 비방"
+ RCT_socialist_electioneering:0 "정부 약화"
  RCT_coalition_government_tt:0 "이 중점을 진행하는 동안 국가의 미래를 정하는 §Y이벤트§!와 §Y결정§!을 통해 §Y불안정한 정부§! 국민정신을 제거할 수 있습니다."
  
  RCT_destroyer_tt:0 "This Focus adds the Technology §YEarly Destroyer§! and then gives you a §G7% research bonus§! on your next research for destroyers."
@@ -1608,7 +1608,7 @@
  Equestria_exchange_mission_name:0 "The Equestrian Exchange"
  Equestria_exchange_mission_desc:0 "Rijekan and Equestrian scientists coordinate together, to help the harmonic Riverland nation to catch up to latest developments in Canterlot. Although the distant between the countries is vast, modern communication means that knowledge can still be shared effectively."
 
- Riverland_Socialist_Union:0 "리버랜드 사회주의 연합"
+ Riverland_Socialist_Union:0 "리버랜드 사회주의 연방"
 
  RCT_EQS_Helped:0 "Equestrian Exchange"
  RCT_EQS_Helped_a_Lot:0 "Equestrian Exchange"
