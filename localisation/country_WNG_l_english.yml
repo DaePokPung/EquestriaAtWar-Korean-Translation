@@ -529,7 +529,7 @@
  WNG_bring_FRN_back_under_heal:0 "프란시스트리아 보호"
  WNG_bring_FRN_back_under_heal_desc:0 "The County of Francistria has been an interesting bicultural country, mixing griffons from Tarrin and culturally Wingbardian griffons. The ruling Martlewing dynasty has long had an alliance with our country, but it seems they have decided to follow a more independent path. Francistria is key to the Duce's ambitions and cannot be left unaligned in the battles to come."
 
- WNG_secure_tarrin:0 "탈린 보호"
+ WNG_secure_tarrin:0 "타린 확보"
  WNG_secure_tarrin_desc:0 "Tarrin forms a vital borderland between the spheres of Aquileia and [Root.GetName]. Securing the western border requires control of the region, which had previously been under the control of Francistria, our ally. On their behalf, Tarrin must be reclaimed and the west secured for good!"
 
  WNG_the_chiazbeacle_pact:0 "The Chiazbeacle Pact"
@@ -678,10 +678,10 @@
  WNG_full_industralisation_desc:0 "Due to the economic malaise of the last years the factories that were still running have not been able to make the proper investments to catch up with modern industrial standards. To finally put the crisis behind us, our industry must be equipped with modern machinery."
 
  WNG_the_royal_intervention:0 "국왕의 개입"
- WNG_the_royal_intervention_desc:0 "In light of the Chamber of Deputies' complete ineptitude at safeguarding the country against violent extremism and to restore the rule of law in Wingbardy, it has behoved King Garibald Talonuel to dismiss the current parliament until further notice and to assume in full the legislative and executive authority vested in his royal prerogative."
+ WNG_the_royal_intervention_desc:0 "국민회의가 과격한 극단주의로부터 국가를 지키지도, 나라의 법치를 회복하지도 못한 만큼, 가리발드 탈루누엘 국왕이 현 국회를 당분간 해산시키고 왕실 대권을 이용해 직접 입법권과 행정권을 행사할 것입니다."
 
- WNG_create_a_loyal_government:0 "Create a Loyal Government"
- WNG_create_a_loyal_government_desc:0 "For quick and decisive action to take place, the wavering liberal government must be replaced by griffons the King can trust to carry out his orders. If he is to rule effectively, the King of Soldiers needs subordinates who follow his orders precisely and unquestionably."
+ WNG_create_a_loyal_government:0 "충성스런 정부 구성"
+ WNG_create_a_loyal_government_desc:0 "빠르고 결정적인 행동을 취하려면, 임무를 믿고 맡길 수 있는 그리폰들로 동요하는 자유당 정부를 대체해야만 합니다. 효율적으로 나라를 다스리려면 군인 왕에겐 명령을 정확하고 무조건적으로 따를 신하가 필요합니다."
 
  WNG_reach_out_to_the_common_griffon:0 "Reach out to the Common Griffon"
  WNG_reach_out_to_the_common_griffon_desc:0 "The citizens of Wingbardy are tired of the continuous political turmoil, but many of them are principally against the royal takeover. The King will need to sway supporters of liberal, fascist and socialist parties alike of his noble intentions or his government will collapse before it even gets started."
@@ -982,7 +982,7 @@
  wingbardy.10.a:0 "Let's hope this goes smoothly."
 
  wingbardy.11.t:0 "계엄령"
- wingbardy.11.d:0 "비콜리니와 검은 날개단의 카트린 진군이 거의 막바지에 다다르면서, 갈로 벤트릴리오 총리가 국왕이 계엄령을 선포하도록 설득하기 위해 마지막으로 다시 한번 가리발드 탈루누엘 국왕을 만났습니다. 국왕은 내각과 장군들의 설명에도 불구하고, 군대가 내전을 일으키지 않고선 검은 날개단을 진압할 수 없을 거라며 계엄령 선포를 여러 번 거절했었지만, 이젠 상황이 한계점에 다다랐고, 이번에도 거절당한다면 총리가 사임하여 정부가 붕괴할 것임이 확실해졌습니다.\n\n이 때문인지, 아니면 국왕이 마침내 계엄령으로 인해 윙바르디가 피해를 볼 일은 없다는 것을 이해해서인지는 몰라도, 국왕이 마침내 마음을 바꿨습니다. 가리발드 탈루누엘 국왕은 마침내 윙바르디에 계엄령을 선포하고 검은 날개단의 반란을 무력으로 진압한다는 문서에 서명했으며, 같은 주, 검은 날개단을 이미 한참 압도하던 군대가 파시스트들을 아무런 어려움 없이 몰아냈습니다. 마침내 정부를 위협하던 문제가 최소한의 피해로 끝난 것입니다.\n\n그렇지만, 아직 국회에서 교착상태가 계속되고 있는 만큼, 문제가 완전히 끝난 것은 아닙니다. PLW의 연정은 붕괴했고, 이제 PLW는 상황을 개선할 그 무엇도 추진할 수 없는 상태에 빠졌습니다. 벤트릴리오 정부는 얼마 안 가 무너질 것이며, 정부가 살아남으려면 윙바르디 정치가 어떻게든 변해야만 합니다. 윙바르디 정치가 과연 어떻게 변할지는 아직 불확실합니다."
+ wingbardy.11.d:0 "비콜리니와 검은 날개단의 카트린 진군이 거의 막바지에 다다르면서, 갈로 벤트릴리오 총리가 국왕이 계엄령을 선포하도록 설득하기 위해 마지막으로 다시 한번 가리발드 탈루누엘 국왕을 만났습니다. 국왕은 내각과 장군들의 설명에도 불구하고, 군대가 내전을 일으키지 않고선 검은 날개단을 진압할 수 없을 거라며 계엄령 선포를 여러 번 거절했었지만, 이젠 상황이 한계점에 다다랐고, 이번에도 거절당한다면 총리가 사임하여 정부가 붕괴할 것임이 확실해졌습니다.\n\n이 때문인지, 아니면 국왕이 마침내 계엄령으로 인해 윙바르디가 피해를 볼 일은 없다는 것을 이해해서인지는 몰라도, 국왕이 마침내 마음을 바꿨습니다. 가리발드 탈루누엘 국왕은 마침내 윙바르디에 계엄령을 선포하고 검은 날개단의 반란을 무력으로 진압한다는 문서에 서명했으며, 같은 주, 검은 날개단을 이미 한참 압도하던 군대가 파시스트들을 아무런 어려움 없이 몰아냈습니다. 마침내 정부를 위협하던 문제가 최소한의 피해로 끝난 것입니다.\n\n그렇지만, 아직 국회에서 교착상태가 계속되고 있는 만큼, 문제가 완전히 끝난 것은 아닙니다. PLW의 연정은 붕괴했고, 이제 PLW는 상황을 개선할 그 무엇도 추진할 수 없는 상태에 빠졌습니다. 벤트릴리오 정부는 얼마 안 가 무너질 것이며, 정부가 살아남으려면 윙바르디 정치가 어떻게든 변해야만 합니다. 윙바르디 정치가 과연 어떻게 변화할지는 아직 불확실합니다."
  wingbardy.11.a:0 "일이 순조롭게 진행되기를 바라자."
  
  wingbardy.12.t:0 "Wingbardy Proposes a Treaty"
@@ -1611,9 +1611,9 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy_king_struggle.2.d:0 "A decisive victory on the labourers' side in a major negotiation has garnered public attention and adoration. A new factory owner has caved in to his workers' demands for better wages, consequently strengthening the messaging from the socialist parties that espouse the working class's freedoms and rights.\n\nThere is not much we can do to stifle this development, as it is a private affair beyond the government's reach. We just have to hope that there are no other landmark victories to win over more support to the socialist cause..."
  wingbardy_king_struggle.2.a:0 "Bunch of bellyachers."
 
- wingbardy_king_struggle.3.t:0 "Fascist Soup Kitchens"
- wingbardy_king_struggle.3.d:0 "Scores of disaffected, unemployed, and impoverished Wingbardians were tended to by the PNF via several soup kitchens set up in the larger cities. Free food is offered on the condition for people to 'simply consider' supporting the PNF in their political struggle, often under the close watch of truncheon-armed thugs.\n\nIt is difficult to say how effective this strategy is, but the appeal is undeniable. Should these continue, the PNF will surely gain a boost in support."
- wingbardy_king_struggle.3.a:0 "Now they're just bribing our people!"
+ wingbardy_king_struggle.3.t:0 "파시스트 무료 급식소"
+ wingbardy_king_struggle.3.d:0 "PNF가 여러 대도시에 무료 급식소를 차려 여러 불평분자, 무직자, 빈자들에게 음식을 나눠줬습니다. PNF는 현재의 정치 투쟁에서 PNF를 지지하는 것을 '그냥 고려만' 하는 대가로 공짜 음식을 나눠줬으며, 경찰봉으로 무장한 깡패들이 급식소에 상주해 있는 경우도 많았습니다.\n\n이 전략이 얼마나 효과적인지는 불분명하지만, 이게 효과가 있다는 것은 확실합니다. 만약 이런 무료 급식이 계속된다면, PNF는 분명 상당한 지지를 얻게 될 것입니다."
+ wingbardy_king_struggle.3.a:0 "이젠 그냥 국민을 매수하고 있군!"
 
  wingbardy_king_struggle.4.t:0 "Republican Rally Wins Over Crowds"
  wingbardy_king_struggle.4.d:0 "A massive public speaking event was held by members of the more moderate democratic parties. The speeches entailed many issues. Though they were nothing new, the eloquence and rhetoric helped hammer home the republican message: reforms are necessary, and that a true republic is the answer.\n\nMany seemed to only join in the fervourous applause and cheers just by being part of the crowd, but it appears that more than a few spectators were convinced by the speakers. We're sure to encounter more republican support in the foreseeable future."
@@ -2017,13 +2017,13 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  school_for_gifted_griffons_desc:0 "Equestrian-Wingbardian Science Exchange"
 
  WNG_neutrality_party:0 "PLW"
- WNG_neutrality_party_long:0 "Partito Liberale Wingbardo"
- WNG_monarchy_party:0 "Consiglio Reale"
- WNG_monarchy_party_long:0 "Consiglio Reale"
+ WNG_neutrality_party_long:0 "윙바르디 자유당"
+ WNG_monarchy_party:0 "왕실 자문회"
+ WNG_monarchy_party_long:0 "왕실 자문회"
  WNG_communism_party:0 "PCW"
- WNG_communism_party_long:0 "Partito Comunista Wingbardo"
+ WNG_communism_party_long:0 "윙바르디 공산당"
  WNG_democratic_party:0 "PPW"
- WNG_democratic_party_long:0 "Partito Popolare Wingbardo"
+ WNG_democratic_party_long:0 "윙바르디 인민당"
  WNG_fascism_party:0 "PNF"
  WNG_fascism_party_long:0 "Partito Nazionale Fascista"
  WNG_nlc:0 "National Liberation Committee"
@@ -2079,14 +2079,14 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_bribe_franmistrian_ministers_tt:0 "Will §Yreasonably increase§! the chance of Francistria accepting whatever deal we work out."
  WNG_visit_franmistria_tt:0 "Will §Ygreatly increase§! the chance of Francistria accepting whatever deal we work out."
 
- WNG_royal_support_decision_cat:0 "Royal Support"
- WNG_royal_support_decision_cat_desc:0 "The king cannot hope to rule the country without the support of the people, but the dismissal of parliament has caused much outrage across the nation. The king must act fast to win the hearts and minds of the common griffons before his political opponents can convince them to revolt against his rule.\n\n§GThe maximum support for the king can only be as high as the support for the non-aligned party.§!\n\n§YCurrent Support:§! [?WNG_popular_support|G0]\n§YMinimum Support:§! [?WNG_popular_support_min|G0]\n§YMaximum Support:§! [?WNG_popular_support_max|G0]"
- WNG_anti_monarchy_uprising:0 "Anti-Monarchy Uprising"
+ WNG_royal_support_decision_cat:0 "왕실의 지지도"
+ WNG_royal_support_decision_cat_desc:0 "국왕은 국민들의 지지가 없다면 나라를 다스릴 수 없으나, 최근의 의회 해산으로 인해 윙바르디의 국민들이 크게 분노한 상태입니다. 국왕은 정적들이 자신을 상대로 국민들이 반란을 일으키게 만들기 전, 빠르게 국민들의 마음을 얻어야만 합니다.\n\n§G국왕의 최대 지지도는 비동맹주의 정당의 인기도만큼만 높아질 수 있습니다.§!\n\n§Y현재 지지도:§! [?WNG_popular_support|G0]\n§Y최소 지지도:§! [?WNG_popular_support_min|G0]\n§Y최대 지지도:§! [?WNG_popular_support_max|G0]"
+ WNG_anti_monarchy_uprising:0 "반군주제 봉기"
  WNG_raido_speach:0 "Speak to the Nation"
- WNG_newspaper_campaign:0 "Launch Newspaper Campaigns"
- WNG_clamp_down_on_socalist_newspapers:0 "Clamp Down on Socialist Newspapers"
- WNG_visit_the_workers:0 "Visit Local Workers"
- WNG_crackdown_on_fascists:0 "Crackdown on the Fascists"
+ WNG_newspaper_campaign:0 "신문 캠페인 개시"
+ WNG_clamp_down_on_socalist_newspapers:0 "사회주의 계열 신문 단속"
+ WNG_visit_the_workers:0 "지역 노동자 방문"
+ WNG_crackdown_on_fascists:0 "파시스트 탄압"
  WNG_less_than_100_popular_support_tt:0 "Has Less than 100 Popular Support"
 
  WNG_small_lobby_effort:0 "Lobby Effort"
@@ -2217,7 +2217,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_formalise_the_pact_tt_2:0 "§YAquileia§! and all allies will join the Karthin Pact. The Karthin Pact will be renamed to the Chiazbeacle Pact."
  WNG_the_chiazbeacle_pact_tt:0 "This focus will §Rcancel§! if §YAquileia§! rejects our proposal.\n"
  WNG_improve_army_tt:0 "Will reduce the penalties of §YOutdated Army§!.\n"
- WNG_the_royal_intervention_tt:0 "This action will be very unpopular and the king must work fast to gain support for his rule. Firstly by raising support for the Consiglio Reale, and then winning over the hearts and minds of the common griffons."
+ WNG_the_royal_intervention_tt:0 "국민들은 이에 크게 반발할 것이며, 국왕은 먼저 왕실 자문회의 인기를 높이고, 그런 다음 평민들의 마음을 얻음으로써 국민들의 지지를 빠르게 확보해야 할 것입니다."
  WNG_one_night_in_griffenheim_tt:0 "Unlocks decisions allowing the king to §Yinvestigate the murder of 972§! and finally §Yput his father's ghost to rest§!.\nUnlocks decisions allowing the king to §Ytutor the wayward Prince Gumberto§! in the hopes of turning him into a good and proper king for Wingbardy."
  WNG_the_gacerbo_law_tt:0 "If the new law is passed, then during the next election the party with a majority of the votes will gain a 2/3's majority in the Chamber of Deputies.\n"
  WNG_the_gacerbo_law_tt_2:0 "A vote will happen on the law. If we have over §Y267 deputies§! supporting the government the the vote will pass.\n§RWithout at least 268 deputies supporting the government the vote will fail.§!\nIf the vote passes, §Yan election will be held a month after the focus is complete§!.\nWhen the PNF wins the election the following will happen:\n"
