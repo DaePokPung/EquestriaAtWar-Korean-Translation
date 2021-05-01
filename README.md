@@ -14,12 +14,12 @@
   - [뉴메어랜드 연방](localisation/country_EQC_l_english.yml)
   - [이퀘스트리아 해방전선](localisation/country_MAN&ELF_l_english.yml)
   - [스탈리온그라드](localisation/country_STG_l_english.yml)
-  - [베디나 공국](localisation/country_VED_l_english.yml)
   - [님부시아](localisation/country_NIM_l_english.yml)
   - [바카라](localisation/country_BAK_l_english.yml)
   - [롱소드 백국](localisation/country_LNS_l_english.yml)
-  - [브론즈힐 백국](localisation/country_BRZ_l_english.yml)
   - [앵그리버 남국](localisation/country_ANG_l_english.yml)
+  - [윙바르디 왕국](localisation/country_WNG_l_english.yml)
+  - [바라드 마권정부](localisation/country_BAR_l_english.yml)
 
 ***
 
