@@ -448,7 +448,7 @@
  WNG_restore_the_redwings_desc:0 "The Redwings where founded by Garibaldi Giuseppe as an international force of Wingbardian volunteers with the goal of spreading liberty and democracy around the world. They are most famous for the role they played in the Republican Revolution in 978, but the force was all but destroyed during the Republican Long March. Now that the Republican Dream has come to Wingbardy we should follow their example."
 
 ### HARMONY ###
- WNG_negotiate_with_the_PWDA:0 "The Wisdom of Politicians"
+ WNG_negotiate_with_the_PWDA:0 "정치인들의 지혜"
  WNG_negotiate_with_the_PWDA_desc:0 "Even if the government and the recent coalition has once again failed in times of crisis, we must not lose faith in our democracy. For the future of Wingbardy we must convince the Partito Popolare Wingbardo, now the most popular centrist party to rally together, and find a new coalition to finally bring an end to this deadlock."
 
  WNG_crackdown_on_the_fascists:0 "Hunt Blackwing Commanders"
@@ -457,10 +457,10 @@
  WNG_invite_gallus_to_speak:0 "The Equestrian Connection"
  WNG_invite_gallus_to_speak_desc:0 "Without the consultation of King or Parliament, Deputy De Gaspwingi has sent out an invitation to the land of Equestria, inviting a griffon friend of the Princess of Friendship to Wingbardy. Since this was a letter sent from a Deputy to a foreign leader, it should have been authorized. After a private meeting De Gaspwingi has apologized for the incident, and we can only hope this doesn't cause any issues."
 
- WNG_hold_new_elections:0 "한 번만 더..."
- WNG_hold_new_elections_desc:0 "한번 더 시도해 볼 시간입니다. 새로운 선거와 함께 윙바르디 인민당은 이미 여론조사 결과를 휩쓸고 상원과 하원에 모두에서 과반수를 차지할 것이며 총리직을 확보할 수 있을 것이 확실합니다. 하지만 그들이 혼자서 국정을 운영할 수 있을 정도로 충분한 의석까지 확보하지는 못한 상태이며, 누구와 연정을 이룰지도 아직 결정되지 않았습니다."
+ WNG_hold_new_elections:0 "One More Try..."
+ WNG_hold_new_elections_desc:0 "It is time to try this one more time. With fresh elections, it is already certain that the PPW will be able to sweep the polls and take both a majority in parliament and the position of Prime Minister. However, they will also most likely not have enough seats to push proposals on their own, and who they will create a coalition with is yet to be decided..."
 
-#Don Luigi Guturzo keeps power in the PPW(윙바르디 인민당)
+#Don Luigi Guturzo keeps power in the PPW
  WNG_an_alliance_of_the_centre:0 "Alliance of the Centre"
  WNG_an_alliance_of_the_centre_desc:0 "A Priest of Boreas, Luigi Guturzo holds the support of many conservative and religious voters, while still maintaining a party filled with liberal politicians. Being a true Prime Minister of the center, he plans to create a coalition of both left and right parties to reach out to all parts of the political moderates."
 
@@ -480,8 +480,8 @@
  WNG_tritheism_democracy_desc:0 "Religion and democracy are not naturally opposed. Quite the contrary, as politicians too must believe in a cause greater than themselves if they wish to accomplish anything truly great in a country. By tying these two together, we can strength both institutions, and Wingbardy as a whole."
 
 #Giovanni De Gaspwingi is made leader of the PPW after Don Guturzo steps down
- WNG_give_way_to_the_left_ppw:0 "인민당 좌파에게 양보"
- WNG_give_way_to_the_left_ppw_desc:0 "윙바르디 인민당원들 사이의 내부 논쟁으로 인해 루이지 구투르초는 당 지도자의 자리에서 물러나 그의 오른발 조반니 데 가스프빈지에게 그 자리를 물려주기로 결정했습니다. 훨씬 더 진보적이며 윙바르디의 이퀘스트리아화 사상을 지지하는 그리폰이 권력의 중심에 서면서 인민당은 처음 예상했던 것보다 훨씬 더 좌파에 가까운 연합의 궤도에 오른 것으로 보입니다."
+ WNG_give_way_to_the_left_ppw:0 "Give Way to the Left PPW"
+ WNG_give_way_to_the_left_ppw_desc:0 "Following an internal debate between PPW members, Luigi Guturzo has decided to step down as party leader and allow his right-claw griffon, Giovanni de Gaspwingi to lead in his stead. A much more liberal-minded figure and proponent of Equestrian ideas in Wingbardy, it seems the PPW is now on track for a much more left-leaning coalition than first imagined."
 
  WNG_look_to_equestria:0 "Look to Equestria"
  WNG_look_to_equestria_desc:0 "In light of the recent conflicts within our government combined with the enlightening conversation he had with the young Equestrian griff, Gallus, Giovanni has opted to implement additional trade agreements with Equestria and her colony."
@@ -532,7 +532,7 @@
  WNG_secure_tarrin:0 "타린 확보"
  WNG_secure_tarrin_desc:0 "Tarrin forms a vital borderland between the spheres of Aquileia and [Root.GetName]. Securing the western border requires control of the region, which had previously been under the control of Francistria, our ally. On their behalf, Tarrin must be reclaimed and the west secured for good!"
 
- WNG_the_chiazbeacle_pact:0 "The Chiazbeacle Pact"
+ WNG_the_chiazbeacle_pact:0 "치아즈비클 조약"
  WNG_the_chiazbeacle_pact_desc:0 "The old Griffonian Empire seems to be rising from the ashes, which means Aquileia and Wingbardy must act. To stop Imperial expansionism, we must look beyond our territorial struggles and history of conflict and sign a treaty. Wingbardy will approach Aquileia and suggest a non-aggression pact and a joint guarantee of Griffonstone independence, with options for a formal military alliance. "
 
  WNG_legitimise_the_blackwings:0 "검은 날개단 합법화"
@@ -544,7 +544,7 @@
   WNG_accountable_only_to_the_king:0 "Accountable Only to the King" 
  WNG_accountable_only_to_the_king_desc:0 "All that Beakolini has done was for one purpose and one purpose only: the prosperity and glory of Wingbardy. All other things are vestigial issues that cannot be allowed to stand in his way. That is why he will be beholden to the king only. If courts, politicians or other meddlers plan to drag him from his position, they can try to do so by force."
 
- WNG_the_grand_council_of_fascism:0 "The Grand Council of Fascism"
+ WNG_the_grand_council_of_fascism:0 "파시즘 대평의회"
  WNG_the_grand_council_of_fascism_desc:0 "The bickering politicians almost brought Wingbardy to ruin, but that doesn't mean that the entire system is wholly rotten. If loyal birds who know what truly matters are selected on the council, we can use the flawed parliamentary system in a way that actually benefits Wingbardy."
 
  WNG_control_the_local_governments:0 "Control the Local Governments"
@@ -581,7 +581,7 @@
  WNG_the_tarrin_compromise:0 "The Tarrin Compromise"
  WNG_the_tarrin_compromise_desc:0 "It is time to put an end to the most persistent source of conflict between Aquileia and Wingbardy. The question of Tarrin. We shall have a conference between us, Aquileia and Francistria to work out a compromise on the status of Tarrin. It might be prudent to sweet-talk the Francistrians before calling the conference, as they might have strong feelings about any compromise that changes their borders."
 
- WNG_formalise_the_pact:0 "Formalise the Pact"
+ WNG_formalise_the_pact:0 "조약 공식화"
  WNG_formalise_the_pact_desc:0 "With outsiders rapidly building up and threatening our borders, we can no longer afford to leave the Chiazbeacle Pact a mere gentlegriff's agreement. With the thorny issue of Tarrin out of the way, there is enough support to formalise the pact into a strong military alliance for a secure future in Griffonia."
 
  WNG_support_griffonstone:0 "Support Griffonstone"
@@ -590,13 +590,13 @@
  WNG_joint_naval_training:0 "Joint Naval Training"
  WNG_joint_naval_training_desc:0 "Aquileia has a proud naval tradition only inferior to ours. The Regia Marina might benefit from some outside perspectives on doctrines and crew training, and a joint naval training would also help cement our newfound friendship."
 
- WNG_economic_agreement:0 "Trade Deal with Aquileia"
+ WNG_economic_agreement:0 "아퀼레이아와의 무역협정"
  WNG_economic_agreement_desc:0 "Because of the expansionism of other nations, the Chiazbeacle Pact has been mostly focussed on military security. However, Aquileia and Wingbardy have much to gain from a trade deal as well. Now that trust between our countries is at an all-time high, we could kick-start mutual investment with an economic clause to the pact."
 
  WNG_only_fascism:0 "Fascism Only"
  WNG_only_fascism_desc:0 "The Camera dei Deputati is nothing but a waste of time allowing opposition parties to agitate against the rightful government of the strong. Fascism is the only politics suitable for Wingbardy. Our great nation will be led to a glorious future. A future in which there is no need for opposition."
 
- WNG_found_the_ovra:0 "Found the OVRA"
+ WNG_found_the_ovra:0 "OVRA 창설"
  WNG_found_the_ovra_desc:0 "Subversive socialist and even liberal politicians have been organising resistance against our rule, calling our takeover undemocratic. We will found the Organizzazione per la Vigilanza e la Repressione dell'Antifascismo, the Organisation for Vigilance and the Repression of Antifascism, consisting of senior blackwings and police officers, to tear down these rotten elements of our society."
 
  WNG_glory_to_wingbardy:0 "Glory to Wingbardy"
@@ -671,22 +671,22 @@
  WNG_declare_martial_law:0 "계엄령 선포"
  WNG_declare_martial_law_desc:0 "벤트릴리오 총리가 비콜리니와 검은 날개단 파시스트들의 카르틴 진군을 막기 위해 가리발드 국왕에게 계엄령 선포를 요청할 것입니다. 군대가 이 준군사조직 폭도들을 금방 처리하겠지만, 폭력 사태가 악화하여 정치 상황은 더 위태로워질 것입니다. 윙바르디를 구하려면, 계엄령에 이어 정치적 결단을 내려야만 할 것입니다."
 
- WNG_economic_regeneration_act:0 "Economic Regeneration Act"
+ WNG_economic_regeneration_act:0 "경제회생법"
  WNG_economic_regeneration_act_desc:0 "If the country is to be stable, Wingbardy must be dragged out of this chronic economic misery. The Economic Regeneration Act is a comprehensive package of laws and budget measures to encourage spending and investment. Investors and the commongriff alike need to see our commitment to solving the crisis."
 
- WNG_full_industralisation:0 "Full Industrialisation"
+ WNG_full_industralisation:0 "완전한 산업화"
  WNG_full_industralisation_desc:0 "Due to the economic malaise of the last years the factories that were still running have not been able to make the proper investments to catch up with modern industrial standards. To finally put the crisis behind us, our industry must be equipped with modern machinery."
 
  WNG_the_royal_intervention:0 "국왕의 개입"
  WNG_the_royal_intervention_desc:0 "국민회의가 과격한 극단주의로부터 국가를 지키지도, 나라의 법치를 회복하지도 못한 만큼, 가리발드 탈루누엘 국왕이 현 국회를 당분간 해산시키고 왕실 대권을 이용해 직접 입법권과 행정권을 행사할 것입니다."
 
  WNG_create_a_loyal_government:0 "충성스런 정부 구성"
- WNG_create_a_loyal_government_desc:0 "빠르고 결정적인 행동을 취하려면, 임무를 믿고 맡길 수 있는 그리폰들로 동요하는 자유당 정부를 대체해야만 합니다. 효율적으로 나라를 다스리려면 군인 왕에겐 명령을 정확하고 무조건적으로 따를 신하가 필요합니다."
+ WNG_create_a_loyal_government_desc:0 "빠르고 결정적인 행동을 취하려면, 임무를 믿고 맡길 수 있는 그리폰들로 동요하는 자유당 정부를 대체해야만 합니다. 효율적으로 나라를 다스리려면 군인 왕에겐 명령을 정확하게 망설임 없이 따를 신하가 필요합니다."
 
  WNG_reach_out_to_the_common_griffon:0 "Reach out to the Common Griffon"
  WNG_reach_out_to_the_common_griffon_desc:0 "The citizens of Wingbardy are tired of the continuous political turmoil, but many of them are principally against the royal takeover. The King will need to sway supporters of liberal, fascist and socialist parties alike of his noble intentions or his government will collapse before it even gets started."
 
- WNG_secure_army_loyalty:0 "Secure Army Loyalty"
+ WNG_secure_army_loyalty:0 "군 충성 확보"
  WNG_secure_army_loyalty_desc:0 "The Royal Military has long been the darling of the nation, especially after the arduous conflict with Falcor. Many officers are already loyal to their King, but the military contains fascist and communist supporters as well. The King will need to use his charms and his image as the Soldier King to the fullest effect if he wants to remind these soldiers of their duty to the nation."
 
  WNG_placate_the_interlectuals:0 "Placate the Intellectuals"
@@ -695,16 +695,16 @@
  WNG_viva_il_re:0 "대왕 만세"
  WNG_viva_il_re_desc:0 "The griffons of Wingbardy have rallied behind their King in this dark hour for the nation. By taking decisive action to secure the support of key actors, the Royal Council now has a tight grip on power. Let Wingbardy's rallying cry be now and forevermore:\n\nViva il Re!"
 
- WNG_clamp_down_on_political_extreamists:0 "Clamp Down on Political Extremism"
+ WNG_clamp_down_on_political_extreamists:0 "정치적 극단주의 단속"
  WNG_clamp_down_on_political_extreamists_desc:0 "The rotten and empty promises of communism and fascism have cast their bloody shadow over Wingbardy for too long. The government has tolerated these totalitarian philosophies for too long. Now that the King is firmly in control, it is time to take action against any organisation that propagates extremism."
 
- WNG_absolute_rule:0 "Absolute Rule"
+ WNG_absolute_rule:0 "절대 통치"
  WNG_absolute_rule_desc:0 "The democratic experiment in Wingbardy has failed, collapsing at the first sign of adversity. Only a noble royal power can safeguard the nation against foreign and domestic threats. The King will force through a change of the constitution which will enshrine his absolute power in matters of state permanently."
 
- WNG_appease_the_moderates:0 "Appease the Moderates"
+ WNG_appease_the_moderates:0 "중도파 달래기"
  WNG_appease_the_moderates_desc:0 "1007 was an exceptional moment in Wingbardian history, and while royal intervention was necessary, that does not prove that liberal ideas are entirely without merit. To appease the democrats, we will reduce repression and promise to gradually reform back to a parliamentary system when the crisis has abated."
 
- WNG_the_commoners_king:0 "The Commoners' King"
+ WNG_the_commoners_king:0 "평민들의 대왕"
  WNG_the_commoners_king_desc:0 "The King is loved by the people as the one figure who saved Wingbardy from civil war. Soldiers are said to tuck photos of the King into their uniforms, believing that carrying his likeness will grant them favour with Arcturius. It is time to capitalise on that popularity!\n\nAvanti Wingbardia! Avanti Talonuel!"
 
  WNG_invest_in_the_future:0 "Invest in the Future"
@@ -713,11 +713,11 @@
  WNG_royal_youth_awards:0 "Royal Youth Awards"
  WNG_royal_youth_awards_desc:0 "To encourage excellence, the King has deemed it necessary to instate the Royal Youth Award system. Whether it is for sports or studying, students that perform above average can be eligible for a reward, with the very best receiving their reward at the Palace itself on a newly instated National Day of the Youth."
 
- WNG_expand_the_regia_marina:0 "Expand the Regia Marina"
+ WNG_expand_the_regia_marina:0 "왕립 해군 확장"
  WNG_expand_the_regia_marina_desc:0 "The Regia Marina is the pride of Wingbardy and its shrunken size and outdated capital ships reflect badly on the royal house. The government will sponsor a naval build-up program to bring the Royal Navy up to the standards of the new millennium."
 
- WNG_one_night_in_griffenheim:0 "One Night in Griffenheim"
- WNG_one_night_in_griffenheim_desc:0 "For Emperor Grover V's 12th birthday a great party was held in Griffenheim. Prince Garibald Talonuel attended it with his father, King Gumberto I.\n\nIt was a night Garibald Talonuel has never forgotten."
+ WNG_one_night_in_griffenheim:0 "그리펜하임에서의 하룻밤"
+ WNG_one_night_in_griffenheim_desc:0 "972년, 그로버 5세의 12번째 생일을 축하하는 거대한 파티가 그리펜하임에서 열렸습니다. 여기엔 가리발드 탈루누엘 왕자도 아버지 굼베르토 1세와 함께 참석했었습니다.\n\n이날 밤은, 가리발드 탈루누엘이 절대 잊지 못할 밤이었습니다."
 
  WNG_bastion_of_the_south:0 "Bastion of the South"
  WNG_bastion_of_the_south_desc:0 "Wingbardy has no need to expand beyond her current borders. Our country will weather the storm. If necessary for years, if necessary, alone. We will defy all those expansionist states who come to conquer us for some greater ideology or simply to add our jewel to their crown. Let them come. We will be prepared!"
@@ -728,7 +728,7 @@
  WNG_wingbardy_rises:0 "Wingbardy Rises"
  WNG_wingbardy_rises_desc:0 "Wingbardy has met the challenges of economic recession and political instability and the Pearl of the South now shines like never before. With the country united behind their King, it is time for Wingbardy to secure her place in a hostile world. We will also prepare to show the northerners once and for all that our nation has not forgiven the Griffonian Empire for what it has done to us."
 
- WNG_fortify_the_boarder:0 "Fortify the Border"
+ WNG_fortify_the_boarder:0 "국경 요새화"
  WNG_fortify_the_boarder_desc:0 "Not an inch of Wingbardian soil must be lost to the invading foreigner again. We shall commission mighty bulwarks to break any enemy assault upon our lines and keep our troops save from even the most deadly artillery shells. And then, when the enemy assault has been weathered, we shall emerge from our forts to drive the enemy back!"
 
  WNG_finish_the_fight:0 "Finish the Fight"
@@ -757,7 +757,7 @@
  WNG_build_a_military_economy:0 "Build a Military Economy"
  WNG_build_a_military_economy_desc:0 "With the threat of war looming, Wingbardy must be prepared in case fighting does break out. An able-bodied Wingbardian is only half a soldier without his rifle, so let us make sure that the State will be able to provide him ten rifles!"
 
- WNG_university_of_feathara:0 "University of Feathara"
+ WNG_university_of_feathara:0 "페더라 대학교"
  WNG_university_of_feathara_desc:0 "The University of Feathara is the oldest education institution in South Griffonia. With some extra funding, it can open up its doors to more Wingbardians to ensure that our nation continues to stay ahead in the education leagues."
 
  WNG_expand_the_rubber_industry:0 "Expand the Rubber Industry"
@@ -772,7 +772,7 @@
  WNG_synthethic_oil_exp:0 "Create the AGWP - DRPS"
  WNG_synthethic_oil_exp_desc:0 "Extracting what little oil the gods have seen fit to provide us with will only take us so far. We will need alternatives to fuel our economy and military. Thus, we will create the Divisione di Raffinata e Produzione Sintetica within the AGWP to refine imported crude oil and explore synthetic gasoline production."
 
- WNG_rubber_production:0 "Rubber Autarky"
+ WNG_rubber_production:0 "고무 자급"
  WNG_rubber_production_desc:0 "The DRPS has seen some success in producing artificial rubber. If we invest wisely into it, we can expand our vulcanized rubber production on a vast scale. And with it, true autarky in that sector is achievable, something that will make both our industry and military the envy of the world."
 
  WNG_develop_talouse:0 "Invest in Talouse"
@@ -784,13 +784,13 @@
  WNG_wingbardian_motor_industry:0 "Wingbardian Motor Industry"
  WNG_wingbardian_motor_industry_desc:0 "In the past, the name of Taloncia brought to mind top of the line cars and trucks, and Wingbardy was once the home of the griffon-made motorised vehicles. We've fallen a long way from grace since, but we can still reclaim that proud title once more!"
 
- WNG_owlivetti_electronics:0 "Owlivetti Electronics"
+ WNG_owlivetti_electronics:0 "오블리베티 전자회사"
  WNG_owlivetti_electronics_desc:0 "Founded by Guglielmo Owlivetti, the latest in a long line of great Wingbardian scientists, Owlivetti Electronics is one of the most prestigious and well-known electronics brands in the world. We should provide support to help them expand their capabilities."
 
  WNG_counting_engine:0 "The Counting Engine"
  WNG_counting_engine_desc:0 "Guglielmo Owlivetti, the pioneer of Wingbardian electronics, has developed a new machine capable of calculating complex mathematical equations in a fraction of a second. This machine will revolutionise the future of electronics and mathematics; he calls it the Counting Engine."
 
- WNG_economic_recovery:0 "Economic Recovery"
+ WNG_economic_recovery:0 "경제 회복"
  WNG_economic_recovery_desc:0 "It has been a long time coming, but we have finally revitalised our ailing economy and industry. Not only have we brought back the spark of life to Wingbardy, but we have improved our fiscal and industrial capacity to the point that no one can honestly call our country economically or industrially backwards. Wingbardy is once more the pride of the continent!"
 
  WNG_connect_falcor:0 "Connect Falcor"
@@ -814,7 +814,7 @@
  WNG_reaffirm_the_karthin_proticals_desc:0 "The Karthin Pact has kept the south safe for decades since the fall of the Empire. We should take time to reaffirm our commitments to our allies and celebrate our long friendship."
  WNG_renew_the_southern_alliance:0 "Renew the Southern Alliance"
  WNG_renew_the_southern_alliance_desc:0 "Our allies have long stood by us. We should renew our commitment to peace and security in the South. Together we shall stand against any foe."
- WNG_alliance_with_the_minotaurs:0 "Expand The Pact"
+ WNG_alliance_with_the_minotaurs:0 "조약 확장"
  WNG_alliance_with_the_minotaurs_desc:0 "To truly ensure the freedom of the south and the leading position of Wingbardy, the Karthinian Pact must be expanded. Only together can we stand against northern expansionists and the wicked beast of communism."
  WNG_southern_sociaty_of_science:0 "Southern Society of Science"
  WNG_southern_sociaty_of_science_desc:0 "The Southern States were once the home of the greatest of griffon minds. We should build a united research and development society to help bring us back to the forefront of the world."
@@ -973,28 +973,28 @@
  wingbardy.8.d:0 "[From.GetLeader] has foolishly refused our benign and reasonable call for peace between our nations. They want to keep fighting, vainly hoping to greedily seize New Mareland from our claws. Very well, let them come! The royal navy is ready to face them."
  wingbardy.8.a:0 "New Mareland is ours!"
 
- wingbardy.9.t:0 "The Fascists Seize Karthin"
+ wingbardy.9.t:0 "파시스트들이 카르틴을 점거하다"
  wingbardy.9.d:0 "The crisis that has been consuming Wingbardy over the past few months has finally boiled over, as Giulio Beakolini marched into Karthin alongside his blackwing paramilitary supporters. Just a few hours before, Beakolini had made a simple announcement regarding the PNF's political program. They would rule Wingbardy by the end of the day, no matter the cost. \n\nAnd the cost would be steep indeed, as Karthin's inhabitants would come to find out over the next few hours. The blackwings moved quickly to secure control over the city's police stations, railways, and other institutions. Arrayed against them were the city's police forces and various anti-fascist paramilitary groups that had risen to resist the blackwings.\n\nGunfire echoed through the streets as the cities defenders hurriedly set up barricades. The offices of liberal newspapers and political parties were looted and burnt to the ground. Critics of the PNF were tracked down and punished. Parliament itself was invaded and occupied by the blackwings after a short battle. The only building that remained untouched was the royal palace, but this was cold comfort to the city's ordinary inhabitants.\n\nAs night fell, the burning buildings stood out like torches, providing ample illumination for the citizens to appreciate how far the eternal city had fallen. Shortly after, relief finally came to the city's beleaguered residents, as King Talonuel invited Beakolini to form a government over the radio. The new fascist government seems intent on stabilizing the situation, but much damage has been done."
- wingbardy.9.a:0 "At least it's over..."
+ wingbardy.9.a:0 "일단 끝나기는 했군..."
 
- wingbardy.10.t:0 "만남"
- wingbardy.10.d:0 "줄리오 비콜리니가 자신을 총리로 임명할 것을 요구하며 그의 검은 날개단이 카르틴을 향해 행진할 것을 선언했을 때, 그는 사실상 계산된 도박을 하고 있었습니다. 국왕과 벤트릴리오 총리의 정부 사이의 관계가 약화되었다고 생각한 그는 약간의 압력을 가함으로써 둘의 관계를 완전히 끊을 수 있다고 생각했습니다.\n\n이는 예리한 관찰로 판명되었습니다. 국왕의 계엄령 선포 거부로 벤트릴리오 총리가 사임하면서 자유당 정부가 사실상 붕괴되었습니다. 국왕은 공산주의자들과 힘을 합치는 것도 꺼려했고, 윙바르디 자유당은 다가오는 운명에 대해 아무것도 할 수 없는 상태였습니다.\n\n승리한 비콜리니는 오늘 아침 국왕의 초청으로 새로운 정부를 구성하기 위해 왕궁에 들어갔습니다. 하지만 그의 진군에 참여한 그리폰들은 갑자기 관심이 비콜리니에게만 쏠리는 것에 다소 당황한 듯 했습니다. 아직 확정된 것은 아니지만, 마지막에 비콜리니의 권력 승계를 방해하는 것은 아무것도 없는 것 같습니다."
- wingbardy.10.a:0 "일이 순조롭게 진행되기를 바라자."
+ wingbardy.10.t:0 "The Meeting"
+ wingbardy.10.d:0 "When Giulio Beakolini declared that his blackwings would march on Karthin unless he were installed as prime minister, he was in effect making a calculated gamble. Assuming that the relationship between the King and Prime Minister Ventriglio's government was deteriorating and by adding a little pressure to the mix, he could sever it completely.\n\nThis proved to be an astute observation. The King's unwillingness to declare martial law has led to the resignation of Prime Minister Ventriglio and the collapse of the PLW's government. The King was unwilling the work with the communists. The PLW was out of power for the foreseeable future. This state of affairs left Beakolini and his PNF as the last griffons standing.\n\nA triumphant Beakolini entered the Royal Palace this morning, invited by the King to form a new government. However, the participants in his march looked somewhat embarrassed to have their thunder stolen from them. While nothing is set in stone yet, it seems unlikely that anything will derail Beakolini's ascent to power at the last moment. "
+ wingbardy.10.a:0 "Let's hope this goes smoothly."
 
  wingbardy.11.t:0 "계엄령"
- wingbardy.11.d:0 "비콜리니와 검은 날개단의 카트린 진군이 거의 막바지에 다다르면서, 갈로 벤트릴리오 총리가 국왕이 계엄령을 선포하도록 설득하기 위해 마지막으로 다시 한번 가리발드 탈루누엘 국왕을 만났습니다. 국왕은 내각과 장군들의 설명에도 불구하고, 군대가 내전을 일으키지 않고선 검은 날개단을 진압할 수 없을 거라며 계엄령 선포를 여러 번 거절했었지만, 이젠 상황이 한계점에 다다랐고, 이번에도 거절당한다면 총리가 사임하여 정부가 붕괴할 것임이 확실해졌습니다.\n\n이 때문인지, 아니면 국왕이 마침내 계엄령으로 인해 윙바르디가 피해를 볼 일은 없다는 것을 이해해서인지는 몰라도, 국왕이 마침내 마음을 바꿨습니다. 가리발드 탈루누엘 국왕은 마침내 윙바르디에 계엄령을 선포하고 검은 날개단의 반란을 무력으로 진압한다는 문서에 서명했으며, 같은 주, 검은 날개단을 이미 한참 압도하던 군대가 파시스트들을 아무런 어려움 없이 몰아냈습니다. 마침내 정부를 위협하던 문제가 최소한의 피해로 끝난 것입니다.\n\n그렇지만, 아직 국회에서 교착상태가 계속되고 있는 만큼, 문제가 완전히 끝난 것은 아닙니다. 윙바르디 자유당의 연정은 붕괴했고, 이제 윙바르디 자유당은 상황을 개선할 그 무엇도 추진할 수 없는 상태에 빠졌습니다. 벤트릴리오 정부는 얼마 안 가 무너질 것이며, 정부가 살아남으려면 윙바르디 정치가 어떻게든 변해야만 합니다. 윙바르디 정치가 과연 어떻게 변화할지는 아직 불확실합니다."
+ wingbardy.11.d:0 "비콜리니와 검은 날개단의 카트린 진군이 거의 막바지에 다다르면서, 갈로 벤트릴리오 총리가 국왕이 계엄령을 선포하도록 설득하기 위해 마지막으로 다시 한번 가리발드 탈루누엘 국왕을 만났습니다. 국왕은 내각과 장군들의 설명에도 불구하고, 군대가 내전을 일으키지 않고선 검은 날개단을 진압할 수 없을 거라며 계엄령 선포를 여러 번 거절했었지만, 이젠 상황이 한계점에 다다랐고, 이번에도 거절당한다면 총리가 사임하여 정부가 붕괴할 것임이 확실해졌습니다.\n\n이 때문인지, 아니면 국왕이 마침내 계엄령으로 인해 윙바르디가 피해를 볼 일은 없다는 것을 이해해서인지는 몰라도, 국왕이 마침내 마음을 바꿨습니다. 가리발드 탈루누엘 국왕은 마침내 윙바르디에 계엄령을 선포하고 검은 날개단의 반란을 무력으로 진압한다는 문서에 서명했으며, 같은 주, 검은 날개단을 이미 한참 압도하던 군대가 파시스트들을 아무런 어려움 없이 몰아냈습니다. 마침내 정부를 위협하던 문제가 최소한의 피해로 끝난 것입니다.\n\n그렇지만, 아직 국회에서 교착상태가 계속되고 있는 만큼, 문제가 완전히 끝난 것은 아닙니다. PLW의 연정은 붕괴했고, 이제 PLW는 상황을 개선할 그 무엇도 추진할 수 없는 상태에 빠졌습니다. 벤트릴리오 정부는 얼마 안 가 무너질 것이며, 정부가 살아남으려면 윙바르디 정치가 어떻게든 변해야만 합니다. 윙바르디 정치가 과연 어떻게 변화할지는 아직 불확실합니다."
  wingbardy.11.a:0 "일이 순조롭게 진행되기를 바라자."
  
- wingbardy.12.t:0 "Wingbardy Proposes a Treaty"
+ wingbardy.12.t:0 "윙바르디가 조약을 제안하다"
  wingbardy.12.d:0 "In a surprising turn of events, representatives sent by Giulio Beakolini—architect of the fascist ideology—have come to Stalliongrad on a diplomatic mission. Although Mr. Beakolini has only recently taken his position within the Wingbardian state, he has already abandoned the previous government's hostile attitude towards our nation.\n\nThe representatives are proposing a Wingbardian-Stalliongrad treaty of friendship and an economic and trade deal which would support our industrialisation goals. In addition, they offer to recognise us as the de jure government of our territory and establish full diplomatic relations with us. Although this deal seems quite favourable, many Stalliongradians question Beakolini's motives. No doubt the griffon has his own agenda, and sees us as little more than tools for advancing Wingbardain interests."
  wingbardy.12.a:0 "We shall accept this proposal."
  wingbardy.12.b:0 "Fascism is antithetical to everything we stand for! "
 
- wingbardy.13.t:0 "Stalliongrad Agrees"
+ wingbardy.13.t:0 "스탈리온그라드가 동의하다"
  wingbardy.13.d:0 "Wonderful news, as our representatives return from Stalliongrad having signed a treaty formalising the amity between our two great nations! We now officially recognise the Stalliongradian government and have established a mutually beneficial economic relationship. This new accord will no doubt prove vital to ensuring our shared security in an increasingly dangerous world."
  wingbardy.13.a:0 "Excellent."
 
- wingbardy.14.t:0 "Stalliongrad Declines"
+ wingbardy.14.t:0 "스탈리온그라드가 거절하다"
  wingbardy.14.d:0 "Bad news, as our representatives return from Stalliongrad having failed to secure their cooperation for our proposed treaty of friendship. Despite continuous advances, the Stalliongradian government proved both hostile and intractable, killing any chance for a mutually beneficial relationship between our nations. This is highly unfortunate, as they would have proved a valuable check on Equestrian intentions."
  wingbardy.14.a:0 "Communist scum!"
 
@@ -1088,14 +1088,14 @@
  wingbardy.35.d:0 "Recently King Garibald of Wingbardy was forced to flee his homeland. He has crossed our borders and sought official refuge in our country. Due to the extended conflict with communist and republican forces in his realm, it does not look like he will be returning any time soon. Until such a time comes when he can reclaim the throne, we will gladly grant asylum to the rightful king of Wingbardy."
  wingbardy.35.a:0 "He'll be safe with us."
 
- wingbardy.36.t:0 "윙바르디 자유당의 위기"
- wingbardy.36.d:0 "비콜리니의 카르틴 행진을 막으려던 갈리오 벤트릴리오의 시도가 실패하고 총리직에서 해임됨에 따라 윙바르디 자유당은 투표를 통해 당 지도자를 벤트릴리오에서 그들의 옛 지도자인 조반니 졸리티로 교체했습니다. 졸리티는 오랫동안 윙바르디 정치계에서 높은 영향력과 많은 존경을 받는 그리폰이었으며, 과거에 가리발드 탈로누엘 3세와 그의 아버지 굼베르토 국왕 치하에서 총리직을 다섯 번이나 지냈습니다.\n\n졸리티는 비콜리니에게 자유당의 전폭적인 지원을 제안하면서 연립 정부에 참여할 의사를 드러냈습니다. 이 제안은 단지 겉으로 보이는 자유당의 권력 형태만이라도 유지하기 위한 것일테지만, 이는 그들의 지지와는 별개로 우리의 개혁을 시기적절하게 추진하는 것에 큰 도움이 될 것입니다."
- wingbardy.36.a:0 "우리는 이 지원을 받아들이겠다."
- wingbardy.36.b:0 "우리는 이 소위 진보주의자들의 도움 따윈 필요없다."
+ wingbardy.36.t:0 "Crisis in the PLW"
+ wingbardy.36.d:0 "With Gallo Ventriglio's faliure to prevent Beakolini's March on Karthin and his dismissal as Prime Minister, the Partito Liberale Wingbardo have voted to replace him with their old leader Giovanni Giolitti. Giolitti has long been a predominant and respected voice in Wingbardian politics and has been Prime Minister five times in the past, both under King Garibald Talonuel III and his father King Gumberto.\n\nGiolitti has approached Beakolini for talks of forming a coalition government, offering the full support of the PLW. This might just be a move to keep some semblance of power for the PLW, but regardless having their support will help us greatly in pushing through our reforms in a timely manner."
+ wingbardy.36.a:0 "We accept this support."
+ wingbardy.36.b:0 "We don't need no help from those so-called liberals."
 
- wingbardy.37.t:0 "윙바르디 사회민주당의 지원"
- wingbardy.37.d:0 "윙바르디 자유당의 지도자 조반니 졸리티는 최근 조반니 안토니아 골론나와 급진파 정당 윙바르디 사회민주당의 지도자들과 우리의 연립 정부 참여에 대해 대화를 해왔습니다. 조반니 졸리티는 그의 정치적 입지를 통해 사회민주당의 지원을 이끌어내는데 성공했고, 이제 비콜리니와 국가파시스트당을 지지할 준비가 끝난 것 같습니다. 이를 통해 우리는 국민 회의에서 우위를 점할 수 있고 윙바르디의 파시즘을 확보하는 데 필요한 법들을 통과시킬 수 있는 추진력을 얻을 수 있을 것입니다."
- wingbardy.37.a:0 "급진파들은 그들이 생각했던 것보다 더 많은 변화를 겪을 것이다."
+ wingbardy.37.t:0 "The PDSW has Offered Their Support"
+ wingbardy.37.d:0 "Giovanni Giolitti, leader of the PLW, has been in talks with Giovanni Antonio Golonna and the leadership of the radical Partito Democratico Sociale Wingbardo over their inclusion into our governing coalition. It seems that through his political respect he has won over the PDSW's leadership and they are now fully ready to support Beakolini and the PNF. This will give us the edge in the Chamber of Deputies and help ensure that we can push through the laws we need to secure fascism in Wingbardy."
+ wingbardy.37.a:0 "Those radicals will get more change then they bargained for."
 
  wingbardy.38.t:0 "The Gacerbo Law"
  wingbardy.38.d:0 "Initially created by a PNF economist named Giacomo Gacerbo, the Gacerbo Law is a proposal for a parliamentary reform aimed at the proportions of deputies each party will gain in elections.\n\nThe law would grant the party got the largest share of the votes, provided that they had at least twenty-five percent of them, two-thirds the seats in the Chamber of Deputies.\n\nThe PNF and its allies have stressed that this is the only way to end the political deadlock that has plagued Wingbardy since the Falcor War. By granting the most popular party a majority reforms needed to improve the economic and welfare situation of the common Wingbardian can be forced through without the standard opposition and petty infighting that has caused the dire situation the country had found itself in.\n\nOpponents of the law however see this as northing sort of a power-grab by Beakolini and the PNF and proof that Beakolini is not at all interested in bipartisan politics or compromise. However, there are murmurings in the chamber that Beakolini does have a point and the current political situation is unfixable without a radical solution.\n\nRegardless the PNF will have a lot of work to do to ensure that the majority of Deputies will vote in favour of the law."
@@ -1113,9 +1113,9 @@
  wingbardy.41.d:0 "A major setback occurred yesterday as the Gacerbo Law failed to pass through the Chamber of Deputies. The vote was tight, but without a majority of support from the Deputies the bill was doomed to fail. Its defeat was a clear signal to Beakolini and the Fascists that their plans to secure an absolute majority legally have failed and their efforts will continue to be hampered by the liberal and socialist opposition.\n\nHaving failed in installing their dictatorship peacefully, alternative options would now have to be considered to ensure Beakolini's dream of a fascist Wingbardy..."
  wingbardy.41.a:0 "Curses!"
 
- wingbardy.42.t:0 "윙바르디 인민당의 분열"
- wingbardy.42.d:0 "수도원장의 지지를 얻은 것은 우리가 처음에 생각했던 것보다 더 큰 성공이었던 것 같습니다. 윙바르디 인민당은 오랫동안 우리에게 골칫거리였지만, 수도원장의 지지로 우리는 그들의 유권자 중 상당수를 가져올 수 있었습니다. 이 때문에 인민당 내부에서는 당의 강경한 반 파시즘 정책에 반대하는 목소리가 높아지고 있습니다. 인민당 당수 돈 루이지 구투르초는 비콜리니에 대한 수도원장의 지지에 근심이 깊어진 상태이며, 수도원장과의 사적인 만남 이후 윙바르디 인민당 대표직을 사임했다고 합니다. 그의 후임자는 그의 오른발 조반니 데 가스프빈지라고 합니다.\n\n가스프빈지 역시 돈 구투르초만큼이나 우리에게 강력히 반대하는 입장이지만, 현재 그의 정당은 심각하게 분열된 상태이기에 우리에게 큰 위협이 되지는 않을 것입니다."
- wingbardy.42.a:0 "예상치 못했지만 훌륭하다."
+ wingbardy.42.t:0 "Divisions in the PPW"
+ wingbardy.42.d:0 "It appears that gaining the support of the Prelate was a greater success then we first thought. The PPW has long been a thorn in our side, however with the Prelate's backing we have won over a substantial portion of their voter base to support us. This has caused a crisis within the PPW with many Deputies now speaking out against the party's hard like anti-fascist policy. It is reported that Don Luigi Guturzo was severely distressed by the Prelate's support for Beakolini and after a private meeting with the Prelate he resigned as head of the PPW. His successor is his right-claw griffon Giovanni De Gaspwingi.\n\nWhile De Gaspwingi opposes us just as much as Don Guturzo, he is now leading a party that is very much divided and will not pose a significant unified threat against us."
+ wingbardy.42.a:0 "Unexpected but excellent."
 
  wingbardy.43.t:0 "The Prelate's Support"
  wingbardy.43.d:0 "The Prelate of Karthin is the spiritual leader to thousands of Wingbardians. His word and opinion was valued by many, from the common griffon his everyday issues to politicians on gaining the support of the religious. It was for that reason that Beakolini had arranged a private meeting at the Prelatine. The PPW is a strongly religious party and many of its members have sworn to resist any attempt by Beakolini to seize power, but by gaining the blessing of the Prelate their opposition would suddenly become a crisis of faith and the integrity of the party would shatter.\n\nUnfortunately, Beakolini would not be able to use many of his normal tactics here. The Prelate was a faithful and holy griffon and trying to intimidate or bribe him would only end in disaster. Some said that the gods gave him the ability to see through lies as well. So the only thing he could do was to speak with him, be honest about his intentions, and hope that they would give him their blessing.\n\nThe meeting was held at the High Temple of Boreas. As they walked the temple grounds Beakolini gave a passionate speech about his worries for the nation and his desire to help the common Griffon. At the end of the visit, they had coffee on a balcony and the Prelate granted Beakolini his blessing. A public statement was released a few hours later and immediately it had the effect Beakolini desired. Griffons across all layers of society reconsidered their stance on the PNF, giving us some much-needed votes."
@@ -1276,17 +1276,17 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.812.d:0 ""So let me get your story straight." The imposing griffon rested his claws on his desk, "You were born in Griffonstone, and you're being raised by that Grandpa Gruff fellow. He then decided to send you all the way to Equestria as a griffon envoy to study under this "Princess of Friendship" named Twilight, to bring the values she represents back to Griffonstone." Gallus stared into his lap, not wanting to meet the griffon with his eyes; this King Garibald was one intimidating griffon, not very tall, but intimidating nonetheless. Gallus wasn't even sure how he hadn't gotten sick yet, then he heard Garibald sigh; "Ey, ragazzo, look up, won't you?" Gallus slowly raised his head, the King of Wingbardy seated in front of him, as a million thoughts, mainly of fear, raced through his head. "Look... Gallus. I do believe you. Equestria is a special place with strange customs, and I actually have a lot of respect for you learning to live and thrive there. Gruff put you in a difficult spot, and it seems you've come out fine." Gallus smiled. It seems the King wasn't that bad of a guy.\n\nBut before Gallus had time to let the comments sink in, a door to the office was thrown open, and an even scarier griffon stepped in. Wearing cold steel glasses with slicked-back grey and black hair, a three-piece suit, and a blue tie, Gallus immediately wondered what he had done wrong, and what terrible things this griffon would do to him. Instead, after seeing Gallus, a smile opened up on his face, larger than it seemed he was physically able to have. Rushing over to him, the griffon seized Gallus' claw and began to shake it, "Miei dei! Mr. Gallus, welcome to Wingbardy! We are so thrilled to have you here!" Seemingly only now noticing the King, the griffon released Gallus and turned to Garibald. "My King, apologies for this mishandling of the situation. When we received no reply from Equestria, we assumed Gallus would not be coming. But I see you two have already been acquainted." Garibald nodded, "It's okay Mr. Gaspwingi. Gallus is a lovely young griff." Gallus turned to the formally dressed griffon beside him, "You're Mr. Gaspwingi? Then you invited me here, right?" Gaspwingi nodded, "Yes Mr. Gallus. I've always been interested in the Equestrian way of life, and how we may adapt it to my native land. So when I heard a griffon had studied with the Princesses, why I had to invite him!"\n\nGaribald motioned for Gaspwingi to pull up another chair, then turned back to Gallus, "So Gallus. From what I was told, you are meant to teach us a bit about "friendship and harmony," now I am not quite versed on these subjects, but Giovanni here tells me they can help solve my nation's problems. So I am all ears." Gallus gulped, solve a nation's problems? He wasn't taught anything like that in school! What was Twilight thinking when she asked him to come here? No, Gallus thought, I can do this, I graduated the friendship school, and these griffons need some of what I learned. "Alright," he said, "what do you need to know first?""
  wingbardy.812.a:0 ""Tell me how to defeat enemies with friendship.""
 
- wingbardy.82.t:0 "새로운 선거"
- wingbardy.82.d:0 "윙바르디의 계엄령이 끝나면서 오랫동안 지속된 의회의 교착상태를 타개하기 위한 새로운 선거가 다가왔습니다. 그리고 많은 그리폰들이 예상했던 대로 윙바르디 인민당이 과반수의 의석을 차지하면서 갈로 벤트릴리오와 윙바르디 자유당이 각각 총리직과 주요 정당의 자리에서 밀려났습니다. 그들의 지도자인 돈 루이지 구투르초가 새 총리가 될 예정이고, 시민들은 마침내 그가 이 교착 상태를 종식시키고 윙바르디를 다시 한번 위대하게 만들어 주리라 기대하고 있습니다. 하지만 아직 상황이 결코 그렇게 쉬운 것은 아닙니다. 그리고 여전히 해결해야 할 문제들이 남아 있습니다.\n\n윙바르디 인민당에는 법률과 발의안을 통과시킬 수 있는 충분한 수의 의원이 없습니다. 이는 윙바르디 정치계에서 늘 그렇듯이 연립 정부가 이루어져야 한다는 것을 의미합니다. 불행하게도 인민당은 정확히 누구와 연정을 이룰 것인가에 대해 의견이 분분합니다. 구투르초는 양쪽의 중도 정당과 연합해 중도 연정을 이루기를 희망하고 있으며, 2인자 조반니 데 가스프빈지는 사회주의자들과 연합해 좌파 연정을 지지하고 있습니다. 연정에는 양보가 필요하기에 둘 다 취할 수는 없습니다. 따라서 우리가 하나의 국가로써 앞으로 나아가려면 이 중 하나만을 선택해야 할 것입니다."
- wingbardy.82.a:0 "그럼에도 불구하고 이것은 민주주의의 승리다!"
+ wingbardy.82.t:0 "The New Elections"
+ wingbardy.82.d:0 "Now that the period of martial law has ended in Wingbardy, the time had come for fresh elections to hopefully break the deadlock in parliament that had lasted for so long. And just as many expected, Gallo Ventriglio and the PLW were outsted from their position as Prime Minister and major party of the Chamber of Deputies respectively, with the PPW taking their place and a majority of seats. Their leader, Don Luigi Guturzo is set to become the new Prime Minister of the country, and the citizenry is finally gaining hope in ending this deadlock and fixing the country to make Wingbardy great once more. Things are never that easy, though, and there is still one last issue to address.\n\nThe PPW does not have enough Deputies to pass laws and motions on their own. That means that, as usual in Wingbardian politics, coalitions will have to be made. Unfortunately the party has been split on who exactly to create a coalition with. Guturzo wishes to ally with both sides of the moderate political parties to create a centre coalition, while his second-in-command, Giovanni de Gaspwingi advocates a more leftist coalition with the socialists. With the concessions necessary we can not have both, and so one must be decided if we are to move forward as a party and a nation together."
+ wingbardy.82.a:0 "A victory for democracy nonetheless!"
 
- wingbardy.83.t:0 "주도권을 잡은 윙바르디 인민당 좌파"
- wingbardy.83.d:0 "루이지 구투르초가 윙바르디 인민당의 지도자이자 임시 총리로서 자진 사임한 후 조반니 데 가스프빈지가 두 직위를 맡게 되었습니다. 오랫동안 구투르초의 측근이었던 이 그리폰은 그의 지도부가 그의 경제, 정치, 외교 정책을 포함한 전체 당의 좌파로의 전환될 것을 예고하고 있습니다. 그는 이퀘스트리아 우정학교 학생이었던 갤러스의 방문 이후 이퀘스트리아와 그 정부를 동경하는 것으로 잘 알려져 있습니다. 이미 그가 과거 인민당과 함께 일했던 보수주의 정당인 민주자유당, 그리고 PSW에서 민주주의 체제에 대한 견해 차이로 갈라져 나온 사회주의 정당 PSW와 접촉한 상태라는 소문이 파다한 상태입니다. 가스프빈지는 이제 새롭고 보다 이퀘스트리아스러운 윙바르디를 만들기 위한 그의 의제를 추진할 수 있는 강력한 위치에 놓여 있습니다."
- wingbardy.83.a:0 "그가 선을 너무 넘지만 않았으면 좋겠군..."
+ wingbardy.83.t:0 "The Left PPW Take the Lead"
+ wingbardy.83.d:0 "Following Luigi Guturzo's voluntary resignation as leader and temporary Prime Minister of the PPW, Giovanni de Gaspwingi has taken his place in both positions. A griffon who has long been Guturzo's close second, his leadership signals a shift to the left of the entire party, including his economic, political and diplomatic policies. He is known for his admiration of Equestria and its government, especially since the visit of the supposed student Gallus. Word has already spread of talks with the PLD, a party that has worked with the PPW in the past and the more controversial PSU, socialists who split off from the larger PSW due to their belief in the democratic system. The coalition in place, Gaspwingi is now in a strong position to push his agenda for a new, possibly more Equestrian Wingbardy."
+ wingbardy.83.a:0 "Let us just hope he doesn't go too far with this..."
 
- wingbardy.84.t:0 "중도파의 승천"
- wingbardy.84.d:0 "돈 구투르초가 윙바르디 인민당 지도부에 대한 자신의 입장을 굽히지 않으면서 윙바르디는 현재의 방침을 유지할 것으로 보입니다. 진보 성향의 의원들의 지지 하에 당 통합을 다시 한 번 강화한 그는 총리직을 유지하고 있으며 인민당의 오랜 우방인 민주자유당과 이전 집권정당이자 보수적인 입장을 취하고 있던 자유당의 지지를 이미 공개적으로 호소했습니다. 구투르초가 원했던 것처럼, 이 연합은 윙바르드 정치의 중심부에 광범위하게 퍼지면서 많은 중도파들을 끌어들였습니다. 이러한 지지를 바탕으로 인민당은 마침내 정치적 교착 상태를 타개할 충분한 의석을 확보하게 되었습니다. 이를 통해 윙바르디에게 의미 있는 변화를 다시 한 번 가져올 수 있기를 희망합니다."
- wingbardy.84.a:0 "중도파 동맹이 우리에게 평화를 가져다 줄 것이다!"
+ wingbardy.84.t:0 "The Centre Ascent"
+ wingbardy.84.d:0 "It seems that Wingbardy will remain on its current course today, for Don Guturzo has not budged on his position both for the PPW or for his leadership of the party. Both reigning in the liberal-leaning deputies and tightening the party unity once more, he is remaining Prime Minister and has already publicly courted the support of both the PLD, long-standing allies of the PPW as well as the PLW, the former lead party and having a much more conservative outlook. This coalition, just as Guturzo said and wanted is wide-reaching across the centre of Wingbardian politics, bringing in all sorts of moderates. With this support, the PPW finally has enough seats to break the political deadlock, and hopefully bring meaningful change to Wingbardy once more."
+ wingbardy.84.a:0 "An alliance of centrism shall bring us peace!"
  
  wingbardy.85.t:0 "The Republic Vote"
  wingbardy.85.d:0 "The griffons of Wingbardy are in shock, for today the highly controversial "Republic Vote" has gotten the popular vote and been approved by Prime Minister Gaspwingi. Vehemently opposed by the conservatives in both the Chamber of Deputies and among the people, it is in all terms a complete abolishment of the monarchy in the nation, something many had thought unimaginable. During the reign of Talonuel II such a concept would have never passed as the King was too beloved by his people, but his son Gumberto II has shaken the once rock-hard faith of Wingbardians in the institution. Multiple liberal parties, led by the PPW itself capitalized on this and, though almost tearing the country in half in the process, got their support base to narrowly pass the law leaving Wingbardy a full republic.\n\nNow-former King Gumberto II has been unavailable for comment by the press, but sources inside the Royal Palace have reported him enraged at this development, calling it "a betrayal to the Kingdom and everything it stood for". Many royalists have followed suit, denouncing the act and agitating for a monarchist restoration immediately. They seem to be in the minority, however, and politicians are already widely accepting the end to the crown, and the start of a new age for the fledgling republic."
@@ -2016,7 +2016,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  school_for_gifted_griffons_name:0 "Equestrian-Wingbardian Science Exchange"
  school_for_gifted_griffons_desc:0 "Equestrian-Wingbardian Science Exchange"
 
- WNG_neutrality_party:0 "윙바르디 자유당"
+ WNG_neutrality_party:0 "PLW"
  WNG_neutrality_party_long:0 "윙바르디 자유당"
  WNG_monarchy_party:0 "왕실 자문회"
  WNG_monarchy_party_long:0 "왕실 자문회"
@@ -2024,12 +2024,12 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_communism_party_long:0 "윙바르디 공산당"
  WNG_democratic_party:0 "PPW"
  WNG_democratic_party_long:0 "윙바르디 인민당"
- WNG_fascism_party:0 "국가파시스트당"
- WNG_fascism_party_long:0 "국가파시스트당"
- WNG_nlc:0 "민족 해방 위원회"
+ WNG_fascism_party:0 "PNF"
+ WNG_fascism_party_long:0 "Partito Nazionale Fascista"
+ WNG_nlc:0 "National Liberation Committee"
 
- WNG_civil_war_name:0 "윙바르디 내전"
- WNG_civil_war:0 "윙바르디 내전이 시작되었습니다."
+ WNG_civil_war_name:0 "The Wingbardian Civil War"
+ WNG_civil_war:0 "The Wingbardian Civil War has started."
  union_of_griffon_workers:0 "Union of Griffon Workers"
  WNG_fanteria_marina_bonus:0 "Expansion of the Fucilieri Navali"
 
@@ -2069,7 +2069,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_beakolinis_march:0 "비콜리니의 진군"
  WNG_beakolinis_march_desc:0 "비콜리니의 검은 날개단이 권력을 잡기 위해 카르틴을 향해 진군하고 있습니다. 국왕의 군대는 손쉽게 이 폭도들을 제압할 수 있지만, 이들의 높은 인기를 부정할 수는 없으며 그의 미사여구는 아마도 현재의 정치 상황에서 벗어날 수 있는 방법을 제공할지도 모릅니다.\n\n그러나 그는 위험하고 야생적인 짐승으로, 나라를 불안정하게 하고 의회 민주주의를 파괴하겠다고 위협하고 있습니다. 벤트릴리오 총리는 국왕에게 계엄령을 선포하고 이 파시스트들을 단속할 것을 청원할 준비를 하고 있습니다. 한편 공산주의자들과 사회주의자들은 현 사태를 겁에 질린 눈으로 바라보고 있으며, 어떤 이들은 그들이 어둠 속에서 음모를 꾸민다고도 말합니다."
  WNG_beakolinis_march_mission:0 "카르틴 진군"
- WNG_tarrin_conference_cat:0 "The Tarrin Conference"
+ WNG_tarrin_conference_cat:0 "타린 회의"
  WNG_tarrin_conference_cat_desc:0 "The status of Tarrin has long been a source of conflict between Aquilia and Francistria. We should sit down and settle this issue once and for all."
  WNG_time_until_conference:0 "Preparations for the Conference"
  WNG_influence_franmistria:0 "Influence [FRN.GetNameDef]"
@@ -2079,10 +2079,10 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_bribe_franmistrian_ministers_tt:0 "Will §Yreasonably increase§! the chance of Francistria accepting whatever deal we work out."
  WNG_visit_franmistria_tt:0 "Will §Ygreatly increase§! the chance of Francistria accepting whatever deal we work out."
 
- WNG_royal_support_decision_cat:0 "왕실의 지지도"
- WNG_royal_support_decision_cat_desc:0 "국왕은 국민들의 지지가 없다면 나라를 다스릴 수 없으나, 최근의 의회 해산으로 인해 윙바르디의 국민들이 크게 분노한 상태입니다. 국왕은 정적들이 자신을 상대로 국민들이 반란을 일으키게 만들기 전, 빠르게 국민들의 마음을 얻어야만 합니다.\n\n§G국왕의 최대 지지도는 비동맹주의 정당의 인기도만큼만 높아질 수 있습니다.§!\n\n§Y현재 지지도:§! [?WNG_popular_support|G0]\n§Y최소 지지도:§! [?WNG_popular_support_min|G0]\n§Y최대 지지도:§! [?WNG_popular_support_max|G0]"
+ WNG_royal_support_decision_cat:0 "국왕의 지지도"
+ WNG_royal_support_decision_cat_desc:0 "국왕은 국민들의 지지가 없다면 나라를 다스릴 수 없으나, 최근의 의회 해산으로 인해 윙바르디의 국민들이 크게 분노한 상태입니다. 국왕은 정적들이 자신을 상대로 국민들이 반란을 일으키게 만들기 전, 빠르게 국민들의 마음을 얻어야만 합니다.\n\n§G국왕의 최대 지지도는 비동맹주의 정당의 인기도만큼 높아집니다.§!\n\n§Y현재 지지도:§! [?WNG_popular_support|G0]\n§Y최소 지지도:§! [?WNG_popular_support_min|G0]\n§Y최대 지지도:§! [?WNG_popular_support_max|G0]"
  WNG_anti_monarchy_uprising:0 "반군주제 봉기"
- WNG_raido_speach:0 "Speak to the Nation"
+ WNG_raido_speach:0 "국민을 위한 연설"
  WNG_newspaper_campaign:0 "신문 캠페인 개시"
  WNG_clamp_down_on_socalist_newspapers:0 "사회주의 계열 신문 단속"
  WNG_visit_the_workers:0 "지역 노동자 방문"
@@ -2278,8 +2278,8 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
 
  WNG_school_for_gifted_griffons:0 "Equestrian-Wingbardian Science Exchange"
  WNG_school_for_gifted_griffons_refused:0 "Refused Science Exchange"
- WNG_give_way_to_the_left_ppw_tt:0 "우리는 민주자유당과 PSU과 정부를 구성할 것입니다."
- WNG_an_alliance_of_the_centre_tt:0 "우리는 민주자유당과 윙바르디 자유당과 정부를 구성할 것입니다."
+ WNG_give_way_to_the_left_ppw_tt:0 "We will form a government with the PLD and the PSU."
+ WNG_an_alliance_of_the_centre_tt:0 "We will form a government with the PLD and the PLW."
  WNG_can_intergrate_nation_tt:0 "Unlocks §YDecisions§! to intergrate this nation peacefully."
 
  WNG_develop_the_south_tt:0 "We will build 2 civilian factories in each of our South Griffonian allies providing they have less factories then us."
@@ -2301,7 +2301,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_STG_treaty:0 "§YStalliongrad§! has sighed the treaty with us.\n"
  WNG_STG_treaty_trade:0 "Wingbardy-Stalliongrad Treaty"
  WNG_STG_treaty_modifier:0 "Wingbardy-Stalliongrad Treaty"
- chiazbeacle_pact_faction:0 "Chiazbeacle Pact"
+ chiazbeacle_pact_faction:0 "치아즈비클 조약"
  WNG_JER_rejected_pact:0 "§YAquileia§! rejected our proposal."
  WNG_tarrin_compromise_met:0 "A compromise over the status of Tarrin has been made with §YAquileia§!."
  is_wng_empire:0 "Has re-established the §YKarthinian Empire§!."
@@ -3079,7 +3079,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  AIR_WING_NAME_FAL_FALLBACK:0 "$NUMBER$° Stormo"
 
  ### Traits ###
- WNG_oil_genius:0 "Administrative Genius"
+ WNG_oil_genius:0 "행정의 천재"
 
  ### OLD FOCUSES ###
  ### FASCIST ###
@@ -3204,8 +3204,8 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  
  WNG_parliament_1006_election_desc:0 "전체 정부 의석: [?WNG_parliament_seats|Y0]\n\n§Y현재 국민 회의의 구성은 다음과 같습니다:§!\n$WNGParliamentPartiesArrayDesc$"
  
- WNG_beakolini_parliament_b_tt:0 "윙바르디 자유당이 연립정부에 합류하면서 우리의 의석 수를 174석으로 증가시킬 것입니다."
- WNG_beakolini_parliament_c_tt:0 "윙바르디 사회민주당이 연립정부에 합류하면서 우리의 의석 수를 203석으로 증가시킬 것입니다."
+ WNG_beakolini_parliament_b_tt:0 "The PLW will join us in a coalition government, boosting our number of seats to 174."
+ WNG_beakolini_parliament_c_tt:0 "The PDSW will join us in a coalition government, boosting our number of seats to 203."
 
  WNGParliamentPartiesArrayDesc:0 "[?parliament_parties_description^0.IsWNGPartyInCoalition][?parliament_parties_description^0.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^0]\n[?parliament_parties_description^1.IsWNGPartyInCoalition][?parliament_parties_description^1.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^1]\n[?parliament_parties_description^2.IsWNGPartyInCoalition][?parliament_parties_description^2.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^2]\n[?parliament_parties_description^3.IsWNGPartyInCoalition][?parliament_parties_description^3.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^3]\n[?parliament_parties_description^4.IsWNGPartyInCoalition][?parliament_parties_description^4.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^4]\n[?parliament_parties_description^5.IsWNGPartyInCoalition][?parliament_parties_description^5.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^5]\n[?parliament_parties_description^6.IsWNGPartyInCoalition][?parliament_parties_description^6.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^6]\n[?parliament_parties_description^7.IsWNGPartyInCoalition][?parliament_parties_description^7.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^7]\n[?parliament_parties_description^8.IsWNGPartyInCoalition][?parliament_parties_description^8.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^8]\n[?parliament_parties_description^9.IsWNGPartyInCoalition][?parliament_parties_description^9.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^9]\n[?parliament_parties_description^10.IsWNGPartyInCoalition][?parliament_parties_description^10.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^10]\n[?parliament_parties_description^11.IsWNGPartyInCoalition][?parliament_parties_description^11.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^11]\n[?parliament_parties_description^12.IsWNGPartyInCoalition][?parliament_parties_description^12.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^12]\n[?parliament_parties_description^13.IsWNGPartyInCoalition][?parliament_parties_description^13.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^13]\n[?parliament_parties_description^14.IsWNGPartyInCoalition][?parliament_parties_description^14.WNGParliamentParties] - [?root.parliament_parties^root.parliament_parties_description^14]"
 
@@ -3216,16 +3216,16 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_parliament_party_2:0 "§CPartito Socialista Unitario§!"
  WNG_parliament_party_3:0 "§CPartito Socialista Riformista Wingbardo§!"
  WNG_parliament_party_4:0 "§CPartito Repubblicano Wingbardo§!"
- WNG_parliament_party_5:0 "§C윙바르디 사회민주당§!"
+ WNG_parliament_party_5:0 "§CPartito Democratico Sociale Wingbardo§!"
  WNG_parliament_party_6:0 "§CPartito Riformista Democratico§!"
  WNG_parliament_party_7:0 "§CPartito Falcoro d'Azione§!"
- WNG_parliament_party_8:0 "§C민주자유당§!"
- WNG_parliament_party_9:0 "§C윙바르디 인민당§!"
+ WNG_parliament_party_8:0 "§CPartito Liberale Democratico§!"
+ WNG_parliament_party_9:0 "§CPartito Popolare Wingbardo§!"
  WNG_parliament_party_10:0 "§WPartito dei Contadini d'Wingbardia§!"
- WNG_parliament_party_11:0 "§W윙바르디 자유당§!"
+ WNG_parliament_party_11:0 "§WPartito Liberale Wingbardo§!"
  WNG_parliament_party_12:0 "§WPartito dei Combattenti§!"
  WNG_parliament_party_13:0 "§LAssociazione Nazionalista Wingbardo§!"
- WNG_parliament_party_14:0 "§L국가 파시스트당§!"
+ WNG_parliament_party_14:0 "§LPartito Nazionale Fascista§!"
 
  WNG_parliament_party_in_coalition:0 "§Y(G) §!"
  WNG_decision_support_amount:0 "[Root.WNG_decision_support_amount_sl]"
