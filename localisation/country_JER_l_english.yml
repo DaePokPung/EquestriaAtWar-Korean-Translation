@@ -1,39 +1,39 @@
 ﻿ l_english:
   
  ### ideas ###
- JER_memories:0 "Memories of the Republic"
+ JER_memories:0 "공화국의 기억"
  JER_memories_desc:0 "Shortly after the collapse of the Griffonian Empire the Kingdom of Aquileia experienced a revolution of its own.\n\nThe Revolution itself abolished the Discret Monarchy, and resulted in the proclamation of the First Aquileian Republic with Théodore Vérany at its head. Unfortunately, only five years after the Republic was created Marshal Berthelot led a counter-revolution which resulted in the Discret Restoration.\n\nIn spite of the Restoration there are still many within the country who refuse to let go of the dream of an Aquileian Republic thus making King Moriset's hold on the country tenuous at best."
- JER_memories_2:0 "Memories of the Republic"
+ JER_memories_2:0 "공화국의 기억"
  JER_memories_2_desc:0 "Shortly after the collapse of the Griffonian Empire the Kingdom of Aquileia experienced a revolution of its own.\n\nThe Revolution itself abolished the Discret Monarchy, and resulted in the proclamation of the First Aquileian Republic with Théodore Vérany at its head. Unfortunately, only five years after the Republic was created Marshal Berthelot led a counter-revolution which resulted in the Discret Restoration.\n\nEven now after the Second Revolution was crushed there are still many within the country who dream of an Aquileian Republic"
- JER_revolutionary:0 "The Second Revolution"
- JER_revolutionary_desc:0 "Long live the Revolution!"
- JER_grand_army_1:0 "Grande Armée"
+ JER_revolutionary:0 "두 번째 혁명"
+ JER_revolutionary_desc:0 "혁명 만세!"
+ JER_grand_army_1:0 "대육군"
  JER_grand_army_1_desc:0 "Our new army is expanding its conscription and standardizing its training. No more will Aquileia cower from her enemies, both from within and without. Instead, our armies shall rise to new glories, and the griffons of Aquileia will fight as one in defense of their queen!"
- JER_build_the_nation_idea:0 "A Shining Beacon"
+ JER_build_the_nation_idea:0 "빛나는 등대"
  JER_build_the_nation_idea_desc:0 "We have now suffered through and risen from two destructive revolutions; there will not be a third. Twice now, we have shown the world that the rule of the Discrets brings prosperity without equal, and now it is young Queen Vivienne's turn to carry the torch and leave Aquileia shining brighter than ever before."
- JER_new_law_code_idea:0 "The Discret Code"
+ JER_new_law_code_idea:0 "디스크레 법전"
  JER_new_law_code_idea_desc:0 "Through Queen Vivienne's efforts, the Aquileian legal system has been greatly simplified and standardized, allowing the courts to function in a more efficient manner and our administration of the country to proceed unfettered."
- JER_old_glories_idea:0 "A Cœur Vaillant"
+ JER_old_glories_idea:0 "용맹한 마음"
  JER_old_glories_idea_desc:0 "Nothing is impossible! The time is ripe for Aquileia to rise to her rightful place in the world, a nation without equals and a roaring lion to sit atop the world! Let us claim Aquileia's destiny and rewrite the history of Griffonia!"
- JER_grand_army_2:0 "Grande Armée"
+ JER_grand_army_2:0 "대육군"
  JER_grand_army_2_desc:0 "The expansion of Aquileia's Grande Armée has been a success. Our troops are better trained and better drilled than ever before. The Queen's grand army is rivaled by none in the world, and their ferocity and courage will be legendary across Griffonia!"
  JER_union_representation_act_idea:0 "Loi sur la représentation syndicale" #NavyMongoose
  JER_union_representation_act_idea_desc:0 "As a trial of syndicalist theory, unions have been granted representation in local governments. This allows for better coordination between the needs of the state and the abilities of the workers."
  JER_state_housing_idea:0 "Logement d'état" #NavyMongoose
  JER_state_housing_idea_desc:0 "Our government ensures that all citizens have homes. As the quality of life improves substantially for all Aquileians, even for the indigent and (formerly) homeless, we are already seeing significant demographic dividends."
- JER_tax_policy_revisions_idea:0 "Revised Tax Code" #NavyMongoose
+ JER_tax_policy_revisions_idea:0 "국세법 개편" #NavyMongoose
  JER_tax_policy_revisions_idea_desc:0 "More streamlined and rational tax laws have boosted citizen purchasing power and enabled freer flow of trade."
  JER_rural_electrification_commission_idea:0 "Commission d'electrification rurale" #NavyMongoose
  JER_rural_electrification_commission_idea_desc:0 "The state endeavours to electrify every household in the Aquileian countryside, promoting industrial output and enriching the lives of many. With every new power station, more utility can be derived from the same places."
- JER_labour_law_revisions_idea:0 "Code du Travail" #NavyMongoose
+ JER_labour_law_revisions_idea:0 "노동법" #NavyMongoose
  JER_labour_law_revisions_idea_desc:0 "Aquileian law guarantees certain rights to workers, such as the right to unionise, fostering equality between labour and capital."
  JER_repatriation_act_idea:0 "Idole Aquiléenne"
  JER_repatriation_act_idea_desc:0 "With their recent legalization, the Idole Aquiléenne has become closely affiliated with the MPA and works to support and promote their policies among ponies in Aquileia."
  JER_urban_expansion_act_idea:0 "Loi Sur l'Expansion Urbaine"
  JER_urban_expansion_act_idea_desc:0 "Recent government efforts have focused on the major cities in Aquileia, investing and modernizing them for future development and expansion."
- JER_institute_of_cultural_preservation_idea:0 "Institut de Préservation Culturelle"
+ JER_institute_of_cultural_preservation_idea:0 "문화 보존 협회"
  JER_institute_of_cultural_preservation_idea_desc:0 "Preserving the Aquileian cultural identity is a top priority for the nation. As such, the Institute of Culturual Preservation, a new government agency will promote and display the uniqueness of both Aquileian culture and nationality."
- JER_reform_the_national_bank_of_aquileia_idea:0 "Banque nationale d'Aquilée" #NavyMongoose
+ JER_reform_the_national_bank_of_aquileia_idea:0 "아퀼레이아 국립은행" #NavyMongoose
  JER_reform_the_national_bank_of_aquileia_idea_desc:0 "A centralised banking system provides loans to the government, stabilizing the financial system and maintaining the proper level of liquidity in the markets. With the supply of cash guaranteed, the capitalists boost their investments."
  JER_increase_military_funding_idea:0 "Large Military Spending" #NavyMongoose
  JER_increase_military_funding_idea_desc:0 "The government supplies a generous amount of funding to the defence budget, increasing recruitment and making the armed forces more visible to the average citizen."
@@ -49,7 +49,7 @@
  JER_union_representation_act_idea_2_desc:0 "Unions are represented by councils at all levels of government. The greater power of coordination between the state and the workers has unlocked new possibilities for bolstering our arsenal."
  JER_civil_nationalism_idea:0 "Civic Nationalism" #NavyMongoose
  JER_civil_nationalism_idea_desc:0 "A culture of citizen camaraderie prevails. Let all Aquileians be united in their love of the revolution!"
- JER_ammend_gun_ownership_laws_idea:0 "Droit des armements" #NavyMongoose
+ JER_ammend_gun_ownership_laws_idea:0 "무기소장권" #NavyMongoose
  JER_ammend_gun_ownership_laws_idea_desc:0 "We protect our citizens' right to bear arms, thus ensuring that they are always ready to defend our country from tyranny."
  JER_invest_in_the_people_idea:0 "Decentralised Education System" #NavyMongoose
  JER_invest_in_the_people_idea_desc:0 "Regional school districts are granted some autonomy by the government, leading to novel innovations."
@@ -57,23 +57,23 @@
  JER_tax_policy_revisions_idea_2_desc:0 "Fairer tax laws that reduce overhead, treat citizens more equitably, and remove special privileges from large companies have boosted economic and trade activity significantly."
  JER_the_republican_gednermerie_idea:0 "Gendarmerie nationale" #NavyMongoose
  JER_the_republican_gednermerie_idea_desc:0 "Our national police keeps an eye out for any threats to the safety of the citizenry and to the stability of the Republic."
- JER_cultural_pluralism_idea:0 "Cultural Pluralism" #NavyMongoose
+ JER_cultural_pluralism_idea:0 "문화 다원주의" #NavyMongoose
  JER_cultural_pluralism_idea_desc:0 "The state fosters the local cultures and languages within the various regions of the country, especially in the Périphérie. Our citizens enjoy the greater expressiveness available to them."
- JER_labour_law_revisions_idea_2:0 "Code du travail" #NavyMongoose
+ JER_labour_law_revisions_idea_2:0 "노동법" #NavyMongoose
  JER_labour_law_revisions_idea_2_desc:0 "Aquileian law guarantees the right of workers to assemble, to unionize, to negotiate for fair wages, and furthermore grants the poorest among them a right to food grants. The workers now give back according to their greater ability."
- JER_urban_expansion_act_idea_2:0 "Syndicats d'Etat"
+ JER_urban_expansion_act_idea_2:0 "국가 노동조합"
  JER_urban_expansion_act_idea_2_desc:0 "Though unorthodox, the process of creating state-sponsored unions has both improved working conditions while also allowing us to keep our control of the economy."
- JER_urban_expansion_act_idea_3:0 "Syndicats d'Etat" #NavyMongoose
+ JER_urban_expansion_act_idea_3:0 "국가 노동조합" #NavyMongoose
  JER_urban_expansion_act_idea_3_desc:0 "State-sponsored unions collaborate with state-owned industries on projects of national importance, working claw-in-hoof for the betterment of the people and of the nation."
- JER_aquileiafication_campaign_idea:0 "Cultural Integralism"
+ JER_aquileiafication_campaign_idea:0 "문화 통합주의"
  JER_aquileiafication_campaign_idea_desc:0 "Recent campaigns by the nation have pushed towards the integration of the griffons of the Périphérie into a greater Aquileian culture."
- JER_aquileiafication_campaign_idea_2:0 "Cultural Integralism" #NavyMongoose
+ JER_aquileiafication_campaign_idea_2:0 "문화 통합주의" #NavyMongoose
  JER_aquileiafication_campaign_idea_2_desc:0 "The nationalist government is pushing hard for the full assimilation of the Périphérie cultures into an unified Aquileian identity. The people there chafe beneath the growing power of the state."
- JER_aquileiafication_campaign_idea_3:0 "Cultural Integralism" #NavyMongoose
+ JER_aquileiafication_campaign_idea_3:0 "문화 통합주의" #NavyMongoose
  JER_aquileiafication_campaign_idea_3_desc:0 "The nationalist government allows some local cultural expressions to remain, while still situating them within the official Aquileian culture."
- JER_repatriation_act_idea_2:0 "Légion Etrangère"
+ JER_repatriation_act_idea_2:0 "외인부대"
  JER_repatriation_act_idea_2_desc:0 "With the Idole Aquiléenne integrated into the Aquileian army, the Légion Etrangère is now a special forces group made up of MPA ponies to fight for the nation."
- JER_repatriation_act_idea_3:0 "Légion Etrangère" #NavyMongoose
+ JER_repatriation_act_idea_3:0 "외인부대" #NavyMongoose
  JER_repatriation_act_idea_3_desc:0 "Aquileia's ponies serve proudly and honourably in a well-supplied and much-supported Légion, and their prowess in the art of war shows it."
  JER_institute_of_cultural_preservation_idea_2:0 "Liberté, Egalité, Fraternité, Nationalité"
  JER_institute_of_cultural_preservation_idea_2_desc:0 "With a fourth addition to Théodore Vérany's original principles of the Revolution, nationalism has become enshrined in the nation as griffons take pride in their culture, identity and nationality."
@@ -85,23 +85,23 @@
  JER_griffonian_citizenship_act_idea_desc:0 "Republican activists and dissidents from abroad are granted free citizenship in Aquileia. In addition to massively increasing immigration, the state also gains additional intelligence on other countries."
  JER_equal_lingustic_representation_act_idea:0 "Loi de libération du langage" #NavyMongoose
  JER_equal_lingustic_representation_act_idea_desc:0 "All languages in the country have legal equality, paving the way for the greater integration of different cultures into the Republic and providing the government with valuable information on those cultures, as well."
- JER_on_our_own_idea:0 "The Great Trial" #NavyMongoose
+ JER_on_our_own_idea:0 "대심판" #NavyMongoose
  JER_on_our_own_idea_desc:0 "To the northeast, our greatest enemy awaits us, its baleful influence seeping into the air, poisoning our dreams for tomorrow. Now is the time to stand against them. Now is the time to overthrow their decrepit and decaying regime and bring all griffonkind into a vibrant and glorious age!"
  JER_advisors_idea:0 "Aquileian Military Mission" #NavyMongoose
  JER_advisors_idea_desc:0 "Our generals are receiving timely advice from Aquileian mentors, who provide them with recommendations for improving our tactics and battle procedure."
- JER_integration_woes_worse:0 "Herzland Blues" #NavyMongoose
+ JER_integration_woes_worse:0 "헤르츠란트 블루스" #NavyMongoose
  JER_integration_woes_worse_desc:0 "Aquileian occupation forces are facing open rebellion as mass resistance roils the whole countryside. Aquileian soldiers face multiple assaults a day, and fear pervades the streets."
- JER_integration_woes:0 "Herzland Blues" #NavyMongoose
+ JER_integration_woes:0 "헤르츠란트 블루스" #NavyMongoose
  JER_integration_woes_desc:0 "Our government's policies have angered the people of our newly-acquired territories significantly. Strikes, riots, and even attacks on our garrisons occur regularly."
- JER_integration_woes_2:0 "Herzland Blues" #NavyMongoose
+ JER_integration_woes_2:0 "헤르츠란트 블루스" #NavyMongoose
  JER_integration_woes_2_desc:0 "Resistance is slowly building in the occupied zones in opposition to Aquileian rule. Our garrisons are able to hold back some of the discontent, but just barely."
  JER_literally_GIGN_idea:0 "GIGN" #NavyMongoose
  JER_literally_GIGN_idea_desc:0 "The elite operatives who comprise the Groupe d'intervention de la Gendarmerie nationale conduct special operations abroad and fight dangerous criminals at home. They are also the ultimate defenders of the state, protecting the most vital assets and personnel."
  JER_help_them_rebuild_idea:0 "Aquileian Military Assistance" #NavyMongoose
  JER_help_them_rebuild_idea_desc:0 "Aquileian military advisors travel across the country helping us boost recruitment, rebuild our forces, and return to our place as a great military power."
- JER_economic_stimulus_idea:0 "The Murat Plan" #NavyMongoose
+ JER_economic_stimulus_idea:0 "뮈라 계획" #NavyMongoose
  JER_economic_stimulus_idea_desc:0 "Instituted by the Aquileian general Félix Murat, this program injects Aquileian capital into our strategic industries so that we might recover from the war and get back on our proverbial feet all the sooner."
- JER_legacy_of_coltbert:0 "The Legacy of Coltbert"
+ JER_legacy_of_coltbert:0 "콜베르의 유산"
  JER_legacy_of_coltbert_desc:0 "Coltbert was the Restoration's saving grace, a pony fully devoted to solving the kingdom's poor financial and economical situation. And while he did a lot of good, his untimely death in 1005 caused many of his reforms to fail. Nevertheless, he showed that Aquileia still had a tremendous amount of potential, and there are many visionaries among us who wish to continue his legacy of reform."
  JER_agrarian_reforms_idea:0 "The Agrarian Law" #NavyMongoose
  JER_agrarian_reforms_idea_desc:0 "Through targeted subsidies, the Aquileian state ensures that there is always an abundance of grain. The people thrive and prosper amidst a cornucopia of vittles."
@@ -239,81 +239,81 @@
  ### Events ###
  aquileia.1.t:0 "수도로부터 온 무기들"
  aquileia.1.d:0 "A large delivery of weapons has come from Aquila, courtesy of the royal armoury. With revolutionary tensions rising, these weapons likely will be invaluable in the coming months."
- aquileia.1.a:0 "Magnifique!"
+ aquileia.1.a:0 "대단해!"
  
  aquileia.2.t:0 "The Chouette Raids"
  aquileia.2.d:0 "The secret police has been on the move recently. Through their usual methods - unsavory as they are - they have revealed several revolutionary headquarters and raided them in the middle of the night. Hopefully, this will be enough to thwart the rebels."
  aquileia.2.a:0 "This will force the rats into the open..."
  
- aquileia.3.t:0 "The Pony March"
+ aquileia.3.t:0 "포니 대행진"
  aquileia.3.d:0 "A grand march through the countryside took place this week. Ponies, numbering in the thousands, marched from Pelis to Rila, holding royal banners and placards with pro-royalist slogans on them. In every village they passed more ponies join them, and as they reached Rila they filled the city square, singing the Royal Hymn and declaring their loyalty to the crown."
  aquileia.3.a:0 "Glad to see our Equine friends are still supporting us"
  
- aquileia.4.t:0 "Republicans Within the MPA Arrested"
+ aquileia.4.t:0 "MPA의 공화주의자들이 체포되다"
  aquileia.4.d:0 "It seems that the local MPA have had greater issues than we suspected. The Chouette, acting on orders from Aquila, arrested over a dozen high ranking MPA members on charges of revolutionary activities."
- aquileia.4.a:0 "How Embarrassing"
+ aquileia.4.a:0 "부끄러운 일이군"
  
  aquileia.5.t:0 "비노비아 방문"
  aquileia.5.d:0 "Vinovia has been graced by the presence of the royal family. With tensions high, many had feared that a visit from the tempramental king would only make things worse, but thankfully the visitor turned out to be princess Vivienne. The princess, as charming as any griffin could be, took her time with both commoner and noble and was all smiles and delight. Even with the possibility of revolution ahead, for one evening the princess managed to assuage fears and give a moment of joy to all."
- aquileia.5.a:0 "Thank Eyr Moriset sent Vivienne instead..."
+ aquileia.5.a:0 "모리제 왕이 비비엔 공주를 대신 보낸 걸 아이르께 감사드려야겠군..."
  
  aquileia.6.t:0 "Letting Loose"
  aquileia.6.d:0 "So the revolutionary rats have crawled out of their holes again to make a mess of things, have they? Well, if they did not learn the last time, it seems we will have to teach them a lesson again. Let's make sure we are suitably excessive this time around."
- aquileia.6.a:0 "Violence solves most things"
+ aquileia.6.a:0 "폭력은 많은 것들을 해결해 주지"
  
- aquileia.7.t:0 "Search And Destroy"
+ aquileia.7.t:0 "수색 섬멸"
  aquileia.7.d:0 "Pridean forces have struck all over Pridea, dragging the traitors and their sympathisers out of their holes kicking and screaming. The citizens are too afraid to defy us, knowing the price of treason, and by the time we're done there will not be a single rat left in all of Pridea!"
- aquileia.7.a:0 "None can hide from us!"
+ aquileia.7.a:0 "아무도 우리에게서 숨을 수 없다!"
  
  aquileia.8.t:0 "Friends In the MPA"
  aquileia.8.d:0 "It seems the MPA have been receiving aid from Aquila. That's splendid news as it means that there's more fighters out there, willing to fight for Aquileia. "
- aquileia.8.a:0 "Magnifique"
+ aquileia.8.a:0 "훌륭해"
  
- aquileia.9.t:0 "Rila Holds"
+ aquileia.9.t:0 "릴라가 버티다"
  aquileia.9.d:0 "The revolutionaries came, and the revolutionaries failed. They thought they could break Rila, but it broke them instead. Raise the royal banner high, Rila Holds!"
- aquileia.9.a:0 "Hurray!"
+ aquileia.9.a:0 "만세!"
  
  aquileia.10.t:0 "릴라에서의 혁명"
  aquileia.10.d:0 "Early this morning, the Duke fled Rila after the streets were blocked by revolutionaries and several military units declared for the Republic! Things are still chaotic and the road ahead is long, but with the Jewel of the North in our claws, it is clear that the first great step has been taken!"
- aquileia.10.a:0 "Long live the Republic!"
+ aquileia.10.a:0 "공화국 만세!"
  
  aquileia.11.t:0 "군주주의자 MPA 쿠데타"
  aquileia.11.d:0 "The revolutionaries had sunk their claws deep into Westkeep, but early this morning the loyalist MPA launched a counter-coup, securing the capitol and declaring their intent to stand by the King."
- aquileia.11.a:0 "Long live the Discrets!"
+ aquileia.11.a:0 "디스크레 왕가 만세!"
  
  aquileia.12.t:0 "웨스트킵에서의 혁명"
  aquileia.12.d:0 "The MPA are patriots, but that means they believe in Aquileia, not the Discrets. Westkeep has declared for the revolution. It is time to throw down these old tyrants and free the people of Aquileia."
- aquileia.12.a:0 "For the Revolution and the Aquileian people!"
+ aquileia.12.a:0 "혁명과 아퀼레이아의 민중을 위해!"
  
- aquileia.13.t:0 "Vinovia Holds"
+ aquileia.13.t:0 "비노비아가 버티다"
  aquileia.13.d:0 "It seemed like disaster might strike, but in the end, the Duke's leadership has seen us through, and the revolutionaries have failed in their objectives. Despite the chaos in the streets, all reports say that the loylaist forces are driving them back and the rightful order remains intact."
- aquileia.13.a:0 "As if there was ever any doubt"
+ aquileia.13.a:0 "의심의 여지 없지"
  
  aquileia.14.t:0 "비노비아에서의 혁명"
  aquileia.14.d:0 "폭군들을 타도해라! Our forces have secured the Ducal palace and the outlying regions of the capitol. Raise high the banner of Vinovia and march forth! We march for freedom, to victory!"
  aquileia.14.a:0 "혁명과 비노비아의 인민을 위해!"
  
- aquileia.15.t:0 "Pridea Holds"
+ aquileia.15.t:0 "프리데아가 버티다"
  aquileia.15.d:0 "Despite the efforts of the traitors and revolutionaries, Pridea remains loyal to the crown. They tried their best, but it was all for naught, and it seems we are dragging more traitors to the wall again."
- aquileia.15.a:0 "Magnifique!"
+ aquileia.15.a:0 "대단해!"
  
  aquileia.16.t:0 "혁명"
  aquileia.16.d:0 "In a stunning display of boldness and élan, former exile Théodore Vérany returned to Aquileia, an army of Aquileian peasantry and formerly hidden supporters at his back, and stormed the Royal Palace, capturing the King and proclaiming the creation of the Second Aquileian Republic, as both the Aquileian Republican Army and Socialists fought the Aquileian military in the streets themselves. Time will tell what this means for the country, as it falls once again into bloodshed."
- aquileia.16.a:0 "Long live the Republic!"
+ aquileia.16.a:0 "공화국 만세!"
 
- aquileia.17.t:0 "The Triumphant Revolution"
+ aquileia.17.t:0 "혁명의 승리"
  aquileia.17.d:0 "It has been a long and bloody road, but today, the last of the monarchist vassals has finally collapsed beneath the unstoppable tide of freedom! Thanks to widespread and organized revolutionary fervor and the countless valiant sacrifices of so many griffons, the supporters of the old monarchy have been crushed, and the lineage of the Discrets scattered to the winds. Even the officers that once begrudgingly fought beneath the banners of cruelty and tyranny have been swayed by our cause, and have pledged their undying support to the new republic. They will safeguard Aquileia from the return of the Discrets, as surely the taint of their royal blood lingers in bastards across Griffonia, but for now Aquileia is free, and a new day dawns on us and our new Republic!"
- aquileia.17.a:0 "Long live the Republic!"
+ aquileia.17.a:0 "공화국 만세!"
  
- aquileia.18.t:0 "The Triumphant Revolution"
+ aquileia.18.t:0 "혁명의 승리"
  aquileia.18.d:0 "It has been a long and bloody road, but today, the last of the monarchist vassals has finally collapsed beneath the unstoppable tide of freedom! Thanks to widespread and organized revolutionary fervor and the countless valiant sacrifices of so many griffons, the supporters of the old monarchy have been crushed, and the lineage of the Discrets scattered to the winds. Though our enemies fought on to the bitter end, they have all been defeated on the field of battle, their armies crushed and routed. A new generation of heroes will safeguard Aquileia from those that would see the monarchy restored yet again, but for now Aquileia is free, and a new day dawns on us and our new Republic!""
- aquileia.18.a:0 "Long live the Republic!"
+ aquileia.18.a:0 "공화국 만세!"
  
  aquileia.19.t:0 "A Few Missing Rifles"
  aquileia.19.d:0 "The quartermaster walked through the depot, a clipboard clutched in one claw. "Twenty-four new artillery pieces," she murmured to herself, counting out the new cannons and scratching a note in the clipboard. "Fifty mortar tubes and grenades... check. Replacement rifle parts... check."\n\nShe hummed to herself as all the numbers on her charts added up. So far, so good. She prided herself on taking good notes, and not having a mishap in her depot since her posting. "Let's count the guns, then I can get some tea with Louis..."\n\nIt was always the chore she saved for last. Not only did she have to count the crates, but the factories never rigorously checked how many rifles they put in the crates, so sometimes her numbers could be off. Even years after the revolution had been crushed, not all of Aquileia's wheels turned smoothly.\n\n"...forty-six, forty-seven, forty-eight... forty-eight?" She counted the crates again. "There were supposed to be fifty crates..." Maybe the factories had crammed more guns into the crates to save wood? But after spending an hour cracking open crates and counting their contents, the quartermaster had no answer for the missing guns.\n\nShe'd have to report this to her higher ups. Lunch with Louis would have to wait."
  aquileia.19.a:0 "Quite odd wouldn't you say?"
  
- aquileia.20.t:0 "Gone Like The Wind"
+ aquileia.20.t:0 "바람처럼 사라지다"
  aquileia.20.d:0 "The spymaster general dug his claws into his skull. The reports kept rolling in, one after the other. It seemed like every revolutionary cell in the kingdom had simply disappeared overnight, their members gone with the wind. Some of his spies believed that the cells had simply given up the fight, but he knew better. They wouldn't all disperse in unison. They had to be planning something. But there were dozens of cells with hundreds of griffons that his spies were keeping track of. Now, not a one could be found. Where did they all go?!"
  aquileia.20.a:0 "Now where did they go off to?"
  
@@ -329,7 +329,7 @@
  aquileia.23.d:0 "With revolutionary sentiment rising throughout the Kingdom of Aquileia, several companies of soldiers and additional support for our gendarmerie arrived today to bolster our numbers, bearing official papers signed by the king himself. These extra griffons will help keep an eye out for any rebel organizations in our lands, and are already swiftly being integrated into our local gendarmeries and briefed on the current situation."
  aquileia.23.a:0 "That's absolutely grand!"
  
- aquileia.24.t:0 "The Fire Rises"
+ aquileia.24.t:0 "불길이 솟아오르다"
  aquileia.24.d:0 "Private Noelle stared at the growing mound of papers gathering in the gendarmerie station. The police had been bringing them in all day, with griffons constantly coming and going ever since the sun rose that morning. She was barely literate and struggled to read out the words on the pamphlet clutched in her talons, but the revolutionary tricolour was easy enough to see. She needed no script to know what that meant.\n\n"Find the printers that helped them make these," her sergeant grumbled, tearing a pamphlet in half out of frustration. "Better yet, just arrest all the printers in the city. We can't have anymore pamphlets on the streets, you understand?"\n\nNoelle saluted in acknowledgement. "It will be done, sir," she said, and then quickly slipped out of the station at his dismissal. But even as she stepped outside, she saw a pair of griffons down the street snatching two pamphlets off the ground and tucking them into their overcoats. Arresting all the printers in Pridea might put a pause to new pamphlets being spread, but once words put an idea in a griffons head, it was notoriously hard to shake out.\n\nPerhaps for the first time in her life, Noelle was glad she couldn't read."
  aquileia.24.a:0 "If only more of our subjects were illiterate"
  
@@ -345,7 +345,7 @@
  aquileia.27.d:0 "The past few days have seen Vinovia erupt into a veritable volcano of chaos and extremism. It began with a public speech by a revolutionary sympathizer in the town square that was quickly interrupted by our loyal gendarmerie. However, before they could disperse the crowd and place the sympathizer under arrest, a brick thrown from a nearby building struck a gendarme in the back of the skull, killing him instantly. The sergeant in charge of the gendarmerie then attempted to place every griffon present under arrest, and when some began to resist, his unit began indiscriminately firing into the crowd, killing seventeen and wounding dozens more. Riots broke out that night, and the city took on an orange glow as the mob set fires to storefronts and the homes of gendarmes and loyalists to the monarchy. Another confrontation between the mob and the gendarmes led to a brutal fistfight that saw scores wounded on both sides before a battalion of professional soldiers arrived to scatter the mob. Over the next few days, revolutionary sentiment has only seemed to increase, with more protests and riots throughout Vinovia. Our gendarmerie and the army are doing the best they can to control the situation, but calling it a tense time would be an understatement."
  aquileia.27.a:0 "It will pass"
  
- aquileia.28.t:0 "The Scandal"
+ aquileia.28.t:0 "스캔들"
  aquileia.28.d:0 "A snicker from the adjacent room took Duke Gadiffer's attention away from the book he read in his study. Frowning, the Duke placed a marker between the pages and looked up, his eyes meeting those of a pair of maids looking at him from the other room. Too late, the griffonesses realized that the Duke had heard him, and their faces paled at his stern look.\n\n"Come here," he ordered them, setting the book aside. Reluctantly, the two maids nervously stepped into his study, bowing their heads before the duke. After a moment to look them over, the Duke sharply frowned. "Were you laughing at me?"\n\n"N-No, milord," the first maid answers. "We would never!" exclaims the other.\n\n"Lie to me, and I'll take your tongues," the Duke warns them. After letting that threat sink in, he steeples his claws together. "Now," he says, staring them down. "What have I done that you find so amusing?"\n\n"I-It's lies, milord," the first maid says. "We were laughing at how absurd they are."\n\n"Lies?" Duke Gadiffer asks. "What lies?"\n\n"They commonfolk... they say your beak is crooked."\n\n"Crooked?" Gadiffer blinked. Then he laughed. "Oh, that's it? That's what's so funny?"\n\n"They also said you've got a balding spot on your head... and your talons are dull... but your brain is duller..." Gadiffer and the first maid looked at the second, who rattled off the talk of the town. "You're impotent and prefer the presence of gentlegriffs to hens... and chicks aren't allowed near the castle for their own safety..."\n\nThe duke held up a claw, silencing her. "Say one more thing and forget losing your tongue, I'll have your head." His simmering rage left the two maids fidgeting uncomfortably before them, before he angrily waved them away. "Leave me. Now."\n\nThe two maids wasted no time curtsying and scampering out of the room as fast as they could, leaving the Duke to fume on the slander that was apparently making its way around Vinovia. Finally, sighing, he opened his book back up and tore through the pages with renewed energy, simply trying to take his mind away from the lies of the revolutionaries."
  aquileia.28.a:0 "No griffon will believe them, right?"
  
@@ -357,7 +357,7 @@
  aquileia.30.d:0 "Marshal Berthelot, the griffon most responsible for the destruction of the First Aquileian Republic and the restoration of Moriset Discret to the throne of Aquileia passed away today at the age of 87. The old Marshal was found dead in his manor in Vyzima by one of his servants, a quick examination proved that Berthelot had passed away naturally and a funeral procession was organised by his family and friends. Although Berthelot is seen as a hero by some Aquileians the majority of our people considered him a scoundrel and a lackey of the Discret family, thus making both him and his death a deeply dividing matter."
  aquileia.30.a:0 "Rest in peace old friend."
  
- aquileia.31.t:0 "The Royal Execution"
+ aquileia.31.t:0 "왕실 처형"
  aquileia.31.d:0 "The Republic claimed its grandest prize yet today with the capture and swift execution of the hated King Moriset. A daring raid last night saw the royal palace seized just before the break of day, and King Moriset was captured before he could slip out of a hidden passage in his bedroom. The King was immediately taken to his throne room in irons, where the Council had set up a court to try him from the room where he once condemned thousands of Revolutionaries to their deaths with his words alone. Today, however, the King seemed less interested in defending himself from his crimes, instead spewing insults at Théodore Vérany, the Republic, and the griffons of Aquileia who had brought him to justice. He was swiftly found guilty by unanimous decision of the court, and was dragged to the town square to meet the guillotine that had claimed so many of our comrades. The royal continued to spit forth vile slander against the Republic, threatening his unending wrath were he not released, up until the moment the blade removed his head from his body. He had very little to say after that.\n\nUnfortunately, the King's daughter, Vivienne, did not meet the same fate as her father. It seems there may have been a secret monarchist guarding her cell; either that, or the harlot used her charms to seduce a weak-willed comrade and convinced him to let her go free. Whatever the case may be, the hated Discret dynasty lives on, though with the king dead, Vivienne is likely to see her friends and supporters abandon her in the coming weeks. It is only a matter of time now."
  aquileia.31.a:0 "Thus Unto Tyrants!"
  
@@ -369,9 +369,9 @@
  aquileia.33.d:0 "A deafening blast broke windows and shook the buildings of central Rila today. Dazed citizens staggered out of their buildings and into the street, only to be greeted by a rising cloud of black smoke over the town square. This morning, vile rebels detonated a bomb in front of the statue of King Gerad, demolishing the statue and killing a platoon of soldiers marching by at that moment. Similar bombings were coordinated throughout the city, with the targets being a recruitment station, a post office, and a naval dockyard. Altogether, twenty soldiers lost their lives in these vicious attacks, and the city of Rila has been placed under martial law until the suspects have been apprehended."
  aquileia.33.a:0 "Bollocks!"
  
- aquileia.34.t:0 "The Word Spreads"
+ aquileia.34.t:0 "혁명이 퍼지다"
  aquileia.34.d:0 ""Sergeant Dupont!"\n\nSergeant Dupont raised his head from the papers in front of him, missives from his superiors in Aquileia. "What is it, Henri?" the sergeant asked. Henri was supposed to be with the rest of his patrol along the wharves. Were they attacked by rebels?\n\nHis answer came when Henri held out a claw. In it was a piece of paper, marked with the distinct tricolour of the long-lost revolution. "We found these down by the shipyards."\n\n"These?" Sergeant Dupont asked, taking the paper from the private. It was a revolutionary pamphlet, decrying the monarchy and urging the peasants to fight for their 'freedom', whatever misguided concept the rebels supposed that was. "Are there more?"\n\nHenri nodded and dug into his bags. When he pulled his claw out, a fat stack of pamphlets came with it. "We tried collecting all we could, but..."\n\nSergeant Dupont stared at the stack in disbelief. How did the rebels manage to print so many pamphlets? He stood up and moved past Henri, heading for the door, the confused private following in his wake. Turning the latch with a claw, the sergeant looked out into the street, beak falling slack at the dozens of pamphlets drifting down the cobbles, carried along by the breeze.\n\n"I won't need to go far to look for stationary to tell the general about this...""
- aquileia.34.a:0 "Bloody Revolutionaries!"
+ aquileia.34.a:0 "망할 혁명가놈들!"
  
  aquileia.35.t:0 "The Meshorio Raid"
  aquileia.35.d:0 "While the previous revolution may have have centralized in the holdings of the previous King of Aquileia, one of its most fervent and chaotic breeding grounds was the Duchy of Rila. Here, revolutionary sentiment took root in dozens of different flavors, leading to the foundations of almost innumerous Revolutionary Clubs throughout the Duchy. While most nominally attempted to organize to beat back Monarchist sentiment, cooperation between the clubs has never been a guaranteed thing, and most were almost more eager to backstab each other than to take the fight to the monarchists. That sentiment seems to be changing today for the fractured clubs, however. One club in particular, the Meshorio Peasants, has been growing in strength lately. Where they are getting the additional support from, we cannot say, but their activity and recruitment has increased dramatically throughout the Duchy. Other clubs are either falling in line behind them or disappearing entirely, but one thing is absolutely certain: the clubs are growing in strength once more, and when the clubs begin to grow, Revolution is not far behind."
@@ -385,9 +385,9 @@
  aquileia.37.d:0 "For years, the loyal pony minorities throughout the Barony of Pridea have formed the backbone of Baron Dennis Discret's militant gendarmerie. They aided him in retaking the city during the first Revolution, and were amply rewarded with high postings throughout the new gendarmerie and his personal army. Today, however, that seems to have made the ponies a target of the Revolution. Dozens of pony gendarmes and low-ranking military officers were systematically targeted and murdered throughout the previous week, crippling our gendarmerie and sending our loyal ponies into a fearful frenzy. While this has raised support for the monarchy to an all-time high amongst the pony population, they remain still a minority, and for every new pony swearing themselves to protect the monarchy, five new griffons meet in secret to plot its downfall, throwing their traitorous weight behind the coming of a second revolution."
  aquileia.37.a:0 "Damn them!"
  
- aquileia.38.t:0 "The Strike"
+ aquileia.38.t:0 "파업"
  aquileia.38.d:0 "The dockyards of Pridea are the pride of the Barony, and Pridea's naval thinkers are some of Aquileia's finest. Thus it was a great blow to the monarchy and Baron Dennis Discret's hold over the city when a massive strike broke out along the wharves, shutting down the dockyards. Hundreds of griffons gathered outside of the property, denying entry to any and all, and demanding better pay, better treatment, and better hours before they would return to work. The strike was broken up by the local marshal and the ringleaders arrested after a furious melee that saw more than a few griffs tumble into the harbor waters, but there is no guarantee it won't happen again... "
- aquileia.38.a:0 "The Dockyards of all places?"
+ aquileia.38.a:0 "하필 조선소야?"
  
  aquileia.39.t:0 "Funding From Aquila"
  aquileia.39.d:0 "Wagons full of gold bullion arrived today in Westkeep, having made a difficult and perilous journey across the Kingdom, managing to somehow skirt past the pockets of unrest and republican sentiment scattered throughout. Colonel Colette personally received the wagons outside of her keep, and after exchanging a few words with the soldiers guarding the wagons, gave them permission to enter the stronghold. The wagons presumably came from the crown, but no royal mark was present on the crates of bullion; perhaps that was to keep their journey secret, their contents unassuming. Instead, only a short letter accompanied the shipment. "Make good use of this in the coming struggle," it said. "We know where your loyalties lie." No names demarcated the parchment, and the only signature plainly listing off the sender as "Your Friends in Aquileia."\n\nCollete smiled as she put the letter away. Was was coming to the Kingdom once more, and there was no better place for a soldier than on the front lines."
@@ -413,17 +413,17 @@
  aquileia.45.d:0 "Today we rise up once again! Despite the tyrants who have tried to keep us in chains, we now rise up in defiance of the monarchists. For the Commune and for Liberty!"
  aquileia.45.a:0 "Long live the Revolution!"
  
- aquileia.46.t:0 "The Second Revolution"
+ aquileia.46.t:0 "두 번째 혁명"
  aquileia.46.d:0 "The worst has come to pass! Despite all our efforts, the revolutionaries have risen up against the crown. Armed militants are in the streets, garrisons have been bombed and the royal palace itself was assaulted by a force of disloyal soldiers.\n\nThe revolutionaries' first attack was beaten back by the valiant Royal Guard, but now the nation is aflame as chaos reigns everywhere. We must rally our forces and strike back at these traitors before they have a chance to achieve their goals."
- aquileia.46.a:0 "We shall crush them once again!"
+ aquileia.46.a:0 "우리는 놈들을 다시 한번 박살낼 것이다!"
  
- aquileia.47.t:0 "The End of the Revolution"
+ aquileia.47.t:0 "혁명의 끝"
  aquileia.47.d:0 "Despite their plots and schemes, the revolutionary plot failed before it could truly begin. Thanks to the decisive action by our king and our vassals we have managed to nip the revolution in the bud. Aquileia stands firm today as loyalty won out among the people!"
- aquileia.47.a:0 "Long live the King!"
+ aquileia.47.a:0 "국왕 폐하 만세!"
  
- aquileia.48.t:0 "The End of the Revolution"
+ aquileia.48.t:0 "혁명의 끝"
  aquileia.48.d:0 "The streets run red with the blood of traitors and patriots alike, but as the dust settles we stand triumphant! The revolutionaries came at us with as great force as during the first revolution, but unlike then we did not fall apart. Instead we have held the line and let them break themselves upon us! Aquileia's royal banner flies high and victorious today!"
- aquileia.48.a:0 "Long live the King!"
+ aquileia.48.a:0 "국왕 폐하 만세!"
  
  aquileia.49.t:0 "An Unfortunate Incident"
  aquileia.49.d:0 "Terrible news from the royal palace!\n\nDuring one of His Majesty's baths, a servant snuck into the quarters and stabbed him! While the servant was swiftly apprehended by the Royal Guards, it was too late to save His Majesty. At 16:23, His Most Honorable Majesty King Moriset Discret passed away even as the doctors did all they could.\n\nAll of Aquileia is in shock from the terrible event, having thought that the revolution was over and yet those damn rebels managed to spite the nation with their last breath. The one small comfort available for us in this dark time is princess Viviane, whom all thought would be paralyzed by grief. Instead, she appeared before the gathered court that very evening, being crowned Queen Vivienne Discret of Aquileia."
@@ -2281,65 +2281,65 @@
  JER_develop_eagleton_oil_fields_desc:0 ""
  
  ### Advisors ###
- JER_advisor_1:0 "Pierre des Trois Nids"
- JER_advisor_2:0 "Michaile Leprélat"
- JER_advisor_3:0 "Count Armand de la Ferrière"
- JER_advisor_4:0 "Jean Laboyer"
- JER_advisor_5:0 "Bérengère d'Arrière-Garde"
+ JER_advisor_1:0 "피에르 드 트와 니드"
+ JER_advisor_2:0 "미셸 르프렐라"
+ JER_advisor_3:0 "백작 아르망 드 라 페리에르"
+ JER_advisor_4:0 "쟝 라부와예"
+ JER_advisor_5:0 "후군의 베렝졔흐"
  JER_advisor_6:0 "Raison d'Etat"
  JER_advisor_7:0 "Bon d'Etat"
- JER_advisor_8:0 "Prelate Lafeuille"
- JER_advisor_9:0 "Jansen Dupont"
- JER_advisor_10:0 "Sémaphore Delabedaine"
- JER_advisor_11:0 "Paul Becuse"
- JER_advisor_12:0 "Hubert Buse-Méry"
+ JER_advisor_8:0 "프렐라 라퓨"
+ JER_advisor_9:0 "쟝셍 뒤퐁"
+ JER_advisor_10:0 "세마포흐 들라브데인"
+ JER_advisor_11:0 "폴 브쿠즈"
+ JER_advisor_12:0 "위베르 뷔즈-메리"
  JER_advisor_13:0 "Affaire d'Etat"
- JER_advisor_14:0 "Etienne d'Archon-Simon"
- JER_advisor_15:0 "Jeanne Lebec"
- JER_advisor_16:0 "Guy Labarricade"
- JER_advisor_17:0 "Roch Halphan d'Aquilée"
- JER_advisor_18:0 "Anne-Marie Belinchon"
+ JER_advisor_14:0 "에티엔 다흐숑-시몬"
+ JER_advisor_15:0 "쟌 르베크"
+ JER_advisor_16:0 "기 라바리카드"
+ JER_advisor_17:0 "로흐 알팡 다퀼레"
+ JER_advisor_18:0 "안-마리 벨린숑"
  JER_advisor_19:0 "Secret d'Etat"
- JER_advisor_20:0 "Armand Delaferrière"
- JER_advisor_21:0 "Monique Shatterclaw"
+ JER_advisor_20:0 "아르망 드 라 페리에르"
+ JER_advisor_21:0 "모니크 셰터클로"
  JER_advisor_22:0 "Hippolyte de Nidmessant"
  JER_advisor_23:0 "Charles Pasdequoi"
- JER_advisor_24:0 "Pierrette Debecet"
+ JER_advisor_24:0 "피에레트 드베세"
  JER_advisor_25:0 "Coup d'Etat"
- JER_advisor_26:0 "Jacques Nidville"
- JER_advisor_27:0 "Henriette de Guet-Apens"
- JER_advisor_28:0 "Marion Paul"
+ JER_advisor_26:0 "쟈크 니드빌"
+ JER_advisor_27:0 "앙리에트 드 계타펑"
+ JER_advisor_28:0 "마리옹 폴"
  JER_advisor_29:0 "Alphonse de Branchebrillante"
- JER_advisor_30:0 "Gilberte Piquette"
+ JER_advisor_30:0 "길베르트 피케트"
  JER_advisor_31:0 "Cabinet Noir"
- JER_advisor_32:0 "Charles-Atan Gagnon-Roy"
+ JER_advisor_32:0 "샤를-아탕 갸뇽-로이"
  JER_advisor_33:0 "Adélaïde de Délit-d'Initié"
  JER_advisor_34:0 "Pierre-Marie Gribelin"
- JER_advisor_35:0 "Miryam Laflèche"
- JER_Gabriel_Ostwind:0 "Gabriel Duval"
- JER_jeanne:0 "Jeanne Lavolière"
- JER_jeanne_lar:0 "Jeanne Lavolière"
- JER_erion:0 "Archon Erion XII"
+ JER_advisor_35:0 "미리얌 라플레시"
+ JER_Gabriel_Ostwind:0 "가브리엘 뒤발"
+ JER_jeanne:0 "쟝 라볼리에르"
+ JER_jeanne_lar:0 "쟝 라볼리에흐"
+ JER_erion:0 "집정관 에리온 12세"
  JER_archon_boreas:0 "Archon Bienheureux Bénédict I"
  JER_archon_arcturius:0 "Archon Bienvoulu Amédéo I"
  
- rodier_l:0 "Léonard Rodier"
- victor_l:0 "Victor Moreau"
- simon_l:0 "Simon Guilbert"
- cyril_l:0 "Cyril Durand"
- lionel_l:0 "Lionella Brochard"
- renaud:0 "Renaud Ardouin"
+ rodier_l:0 "레오나르 로디에르"
+ victor_l:0 "빅토르 모호"
+ simon_l:0 "시몽 길베르"
+ cyril_l:0 "시릴 뒤랑"
+ lionel_l:0 "리오넬라 브로샤흐"
+ renaud:0 "르노 아흐뒤앙"
  severine:0 "Séverine Vidal"
  elric:0 "Elric Grimtail"
  xavier:0 "Jean Xavier Aquileios"
  albert:0 "Albert Rousselot"
  gunther:0 "Gunther Whitequill"
- edmond:0 "Edmond Deat"
+ edmond:0 "에드몽 데아"
  rodier_l2:0 "Raymond Laurent"
  victor_l2:0 "Victor Moreau"
- simon_l2:0 "Simon Guilbert"
- cyril_l2:0 "Cyril Durand"
- lionel_l2:0 "Lionella Brochard"
+ simon_l2:0 "시몽 길베르"
+ cyril_l2:0 "시릴 뒤랑"
+ lionel_l2:0 "리오넬라 브로샤흐"
  cecilia_l:0 "Gilbert La Fauvette"
  felix:0 "Félix Murat"
  herwing:0 "Herwing Crownfeather"
