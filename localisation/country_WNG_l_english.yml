@@ -461,7 +461,7 @@
  WNG_hold_new_elections_desc:0 "한번 더 시도해 볼 시간입니다. 새로운 선거와 함께 윙바르디 인민당은 이미 여론조사 결과를 휩쓸고 상원과 하원에 모두에서 과반수를 차지할 것이며 총리직을 확보할 수 있을 것이 확실합니다. 하지만 그들이 혼자서 국정을 운영할 수 있을 정도로 충분한 의석까지 확보하지는 못한 상태이며, 누구와 연정을 이룰지도 아직 결정되지 않았습니다..."
 
 #Don Luigi Guturzo keeps power in the PPW
- WNG_an_alliance_of_the_centre:0 "Alliance of the Centre"
+ WNG_an_alliance_of_the_centre:0 "중도파의 동맹"
  WNG_an_alliance_of_the_centre_desc:0 "A Priest of Boreas, Luigi Guturzo holds the support of many conservative and religious voters, while still maintaining a party filled with liberal politicians. Being a true Prime Minister of the center, he plans to create a coalition of both left and right parties to reach out to all parts of the political moderates."
 
  WNG_denounce_the_archons:0 "Denounce the Archons"
@@ -489,10 +489,10 @@
  WNG_friendship_schools:0 "우정 학교"
  WNG_friendship_schools_desc:0 "The history of ponies is filled with conflicts being settled peacefully, but the same cannot be said for the history of griffons. We will open new schools modeled after an Equestrian education so we can teach our young griffons that by working together, they can accomplish much more than they could otherwise achieve with traditional griffon methods."
 
- WNG_develop_the_south:0 "Develop the South"
+ WNG_develop_the_south:0 "남부 개발"
  WNG_develop_the_south_desc:0 "The nations of Southern Griffonia, those in the Karthinian Pact have been our allies for a long time now. However, with their underdeveloped nations and economies they can barely defend themselves should a major power attack. We must remedy this immediately, starting with a major investment into their industrial sectors."
 
- WNG_the_abdication_vote:0 "Vote for a Republic"
+ WNG_the_abdication_vote:0 "공화국 국민투표"
  WNG_the_abdication_vote_desc:0 "The day of reckoning has come, for Wingbardy’s legacy as a Kingdom is nearly over. Though Gumberto II has vehemently opposed us up to this point, he must accept that it is time for him and his family’s dynasty to come to a political end. All that’s left is to hold the vote, and most would agree that the outcome is already certain."
 
  WNG_trans_celestial_defence_treaty:0 "Trans-Celestial Defence Treaty"
@@ -504,7 +504,7 @@
  WNG_joint_science_exchange:0 "Equestrian-Wingbardian Science Exchange"
  WNG_joint_science_exchange_desc:0 "The success of our schools has proven to the naysayers that not only is the Equestrian model of education effective, it is also superior to ours in most ways. But we could go even further. To advance our flourishing science program, we will offer an exchange program with Equestria in the hopes that our future generations will also become the most intelligent."
 
- WNG_electorial_reform:0 "Electoral Reform"
+ WNG_electorial_reform:0 "선거제도 개혁"
  WNG_electorial_reform_desc:0 "For too long the instability of our government has hindered any significant change, but no longer. Giovanni has worked beak and talon to propose a set of reformations aimed to solidify a functional democratic system, and all that’s left is to implement it."
 
  WNG_greater_power_to_regional_governments:0 "Greater Power to the Regional Governments"
@@ -533,7 +533,7 @@
  WNG_secure_tarrin_desc:0 "Tarrin forms a vital borderland between the spheres of Aquileia and [Root.GetName]. Securing the western border requires control of the region, which had previously been under the control of Francistria, our ally. On their behalf, Tarrin must be reclaimed and the west secured for good!"
 
  WNG_the_chiazbeacle_pact:0 "치아즈비클 조약"
- WNG_the_chiazbeacle_pact_desc:0 "The old Griffonian Empire seems to be rising from the ashes, which means Aquileia and Wingbardy must act. To stop Imperial expansionism, we must look beyond our territorial struggles and history of conflict and sign a treaty. Wingbardy will approach Aquileia and suggest a non-aggression pact and a joint guarantee of Griffonstone independence, with options for a formal military alliance. "
+ WNG_the_chiazbeacle_pact_desc:0 "옛 그리포니아 제국이 잿더미로부터 일어나고 있으니, 아퀼레이아와 윙바르디는 이에 대응해야만 합니다. 제국의 팽창주의를 막기 위해 양국은 영토 분쟁과 과거의 갈등을 덮어두고 조약을 체결할 필요가 있습니다. 윙바르디는 아퀼레이아에 접근해 불가침조약과 그리폰스톤 독립의 합동 보장을 제안할 것이며, 공식적인 군사 동맹의 가능성 또한 제시할 것입니다."
 
  WNG_legitimise_the_blackwings:0 "검은 날개단 합법화"
  WNG_legitimise_the_blackwings_desc:0 "Beakolini's paramilitary organisation has been key to his political ambitions, and their loyalty to him above all other things is too valuable for the Duce to let go of. By signing their special status into law, the Duce will have his loyal warriors at his beck and call, no matter what happens."
@@ -563,7 +563,7 @@
  WNG_strike_at_griffenheim_desc:0 "It is finally time to take our final revenge for the humiliations generations of Grovers have dealt us. No longer will Karthin stand in the shadow of another empire. No longer will Wingbardians be considered second rate. The so-called Griffonian Empire will be relegated to the dustbin of history and the world will learn of Karthinian Supremacy! Onwards to final victory!"
 
 
- WNG_army_experiance_sharing:0 "Meet with the Red Army"
+ WNG_army_experiance_sharing:0 "붉은 군대와의 만남"
  WNG_army_experiance_sharing_desc:0 "The Stalliongradians fought to be free of Equestrian rule, and they have experience in warfare against them, not the least in the use of the tank. While we would need to be subtle about it to not ruffle too many feathers, there is nothing saying we can't trade notes."
 
  WNG_beakolinis_education_reform:0 "Beakolini's Education Reform"
@@ -591,7 +591,7 @@
  WNG_joint_naval_training_desc:0 "Aquileia has a proud naval tradition only inferior to ours. The Regia Marina might benefit from some outside perspectives on doctrines and crew training, and a joint naval training would also help cement our newfound friendship."
 
  WNG_economic_agreement:0 "아퀼레이아와의 무역협정"
- WNG_economic_agreement_desc:0 "Because of the expansionism of other nations, the Chiazbeacle Pact has been mostly focussed on military security. However, Aquileia and Wingbardy have much to gain from a trade deal as well. Now that trust between our countries is at an all-time high, we could kick-start mutual investment with an economic clause to the pact."
+ WNG_economic_agreement_desc:0 "치아즈비클 조약은 타국들의 팽창주의 때문에 원래 군사 협력에 초점을 맞췄었습니다. 그렇지만, 아퀼레이아와 윙바르디는 무역협정으로도 얻을 것이 많습니다. 양국이 서로를 사상 최고로 신뢰하고 있는 만큼, 조약에 경제와 관련된 조항을 추가해 상호간의 투자를 촉진시킵시다."
 
  WNG_only_fascism:0 "Fascism Only"
  WNG_only_fascism_desc:0 "The Camera dei Deputati is nothing but a waste of time allowing opposition parties to agitate against the rightful government of the strong. Fascism is the only politics suitable for Wingbardy. Our great nation will be led to a glorious future. A future in which there is no need for opposition."
@@ -599,22 +599,22 @@
  WNG_found_the_ovra:0 "OVRA 창설"
  WNG_found_the_ovra_desc:0 "Subversive socialist and even liberal politicians have been organising resistance against our rule, calling our takeover undemocratic. We will found the Organizzazione per la Vigilanza e la Repressione dell'Antifascismo, the Organisation for Vigilance and the Repression of Antifascism, consisting of senior blackwings and police officers, to tear down these rotten elements of our society."
 
- WNG_glory_to_wingbardy:0 "Glory to Wingbardy"
+ WNG_glory_to_wingbardy:0 "윙바르디에 영광을"
  WNG_glory_to_wingbardy_desc:0 "Wingbardy has long been the jewel of the South. Since we first spread our wings as the Karthinian Empire, our great nation has been the envy of all griffons: a beacon to look up to. We must regain these past glories. We shall rebuild our empire and seize what has always been rightfully ours."
 
  WNG_national_recreational_club:0 "National Recreational Club"
  WNG_national_recreational_club_desc:0 "Our citizens' time off is as important for their wellbeing as their time working. To make sure our griffons have high spirits and are well taken care off, they will be given the opportunity to take part in the National Recreational Club, which will provide useful free time activities to keep them in shape and teach skills a true patriot could need. We will expect every citizen to enrol in their local NRC."
 
- WNG_pressure_falcor:0 "Pressure Falcor"
+ WNG_pressure_falcor:0 "팔코르 압박"
  WNG_pressure_falcor_desc:0 "Falcor has hated us ever since their defeat twenty years ago resulted in the rightful conquest of their namesake city. They have continually pushed to regain their ancient capital. So long as a Falcorian nation exists, it will be a threat to Wingbardy. So, we will not allow a Falcorian nation to exist."
 
  WNG_claim_griffonstone:0 "Claim Griffonstone"
  WNG_claim_griffonstone_desc:0 "With the South secured, the ancient cradle of all griffons lies before us. Griffonstone has long since languished in its torpor, and its former glory is but a faded memory. Under Wingbardian rule, we shall restore its prestige and add to ours!"
 
- WNG_the_sicameon_question:0 "The Sicameon Question"
+ WNG_the_sicameon_question:0 "시카메온 문제"
  WNG_the_sicameon_question_desc:0 "Sicameon has made it clear that they're not our friends. They have denounced our "anti-democratic" and "aggressive" policies. We should teach them a lesson of humility and remind the pathetic federation who is the true ruler of the South!"
 
- WNG_demand_the_colonies:0 "Demand New Mareland"
+ WNG_demand_the_colonies:0 "뉴메어랜드 요구"
  WNG_demand_the_colonies_desc:0 "For too long have the ponies of Equestria had a hoofhold on our rightful continent. They oppress the native griffons and exploit the land which rightfully belongs to griffons. We will demand our lands back, or we will back our demands with the sword."
 
  WNG_wingbard_empire:0 "Reform the Karthinian Empire"
@@ -675,7 +675,7 @@
  WNG_economic_regeneration_act_desc:0 "If the country is to be stable, Wingbardy must be dragged out of this chronic economic misery. The Economic Regeneration Act is a comprehensive package of laws and budget measures to encourage spending and investment. Investors and the commongriff alike need to see our commitment to solving the crisis."
 
  WNG_full_industralisation:0 "완전한 산업화"
- WNG_full_industralisation_desc:0 "Due to the economic malaise of the last years the factories that were still running have not been able to make the proper investments to catch up with modern industrial standards. To finally put the crisis behind us, our industry must be equipped with modern machinery."
+ WNG_full_industralisation_desc:0 "몇 년간의 경제적 문제로 인해, 계속 운영되던 공장들도 제대로 된 투자를 받지 못해 현대 산업 기준에 뒤처져버렸습니다. 경제 위기를 완전히 마무리 지으려면, 윙바르디의 산업을 현대식 산업기계로 무장시켜야만 합니다."
 
  WNG_the_royal_intervention:0 "국왕의 개입"
  WNG_the_royal_intervention_desc:0 "국민회의가 과격한 극단주의로부터 국가를 지키지도, 나라의 법치를 회복하지도 못한 만큼, 가리발드 탈로누엘 국왕이 현 국회를 당분간 해산시키고 왕실 대권을 이용해 직접 입법권과 행정권을 행사할 것입니다."
@@ -754,19 +754,18 @@
  WNG_reignite_the_industrial_sector:0 "Reignite the Industrial Sector"
  WNG_reignite_the_industrial_sector_desc:0 "Wingbardy's industry was once the envy of all Griffonia, but it has stagnated for years, falling into disarray. We must reignite this nation's industrial spark to ensure that once again Wingbardy comes out on top."
 
- WNG_build_a_military_economy:0 "Build a Military Economy"
+ WNG_build_a_military_economy:0 "군사 경제 건설"
  WNG_build_a_military_economy_desc:0 "With the threat of war looming, Wingbardy must be prepared in case fighting does break out. An able-bodied Wingbardian is only half a soldier without his rifle, so let us make sure that the State will be able to provide him ten rifles!"
 
  WNG_university_of_feathara:0 "페더라 대학교"
- WNG_university_of_feathara_desc:0 "The University of Feathara is the oldest education institution in South Griffonia. With some extra funding, it can open up its doors to more Wingbardians to ensure that our nation continues to stay ahead in the education leagues."
-
+ WNG_university_of_feathara_desc:0 "페더라 대학교는 그리포니아 남부에서 가장 오래된 교육기관입니다. 대학에 자금을 좀 더 제공한다면, 더 많은 학생이 대학에서 교육을 받을 수 있게 되어, 윙바르디의 교육은 다른 나라들보다 앞서 나갈 수 있게 될 것입니다."
  WNG_expand_the_rubber_industry:0 "Expand the Rubber Industry"
  WNG_expand_the_rubber_industry_desc:0 "Many modern machine components require vulcanised rubber, and our current production isn't sufficient for a growing industry. We can expand current facilities to extract more rubber from our territories."
 
  WNG_create_agwp:0 "Create the AGWP"
  WNG_create_agwp_desc:0 "In this age of mass industry, we will need to expand and control our gasoline production if we are to compete. The Azienda Generale Wingbardia Petroli will be formed to oversee our oil industry. To prevent any private interests from harming its growth, we will nationalize our country's subsoil and ban any unapproved oil-related activities."
 
- WNG_librasia_talocana:0 "The Librarsia-Taloncana Pipeline"
+ WNG_librasia_talocana:0 "리브라시아-탈론카나 송유관"
  WNG_librasia_talocana_desc:0 "Like a body has veins, a modern country requires pipelines running through it. The Librarsia region is already well-connected to Karthin but we will need to build a new pipeline connecting it to Taloncana."
 
  WNG_synthethic_oil_exp:0 "Create the AGWP - DRPS"
@@ -793,7 +792,7 @@
  WNG_economic_recovery:0 "경제 회복"
  WNG_economic_recovery_desc:0 "It has been a long time coming, but we have finally revitalised our ailing economy and industry. Not only have we brought back the spark of life to Wingbardy, but we have improved our fiscal and industrial capacity to the point that no one can honestly call our country economically or industrially backwards. Wingbardy is once more the pride of the continent!"
 
- WNG_connect_falcor:0 "Connect Falcor"
+ WNG_connect_falcor:0 "팔코르 연결"
  WNG_connect_falcor_desc:0 "The large city of Falcor has been a relatively recent conquest from the Falcor War, but is still a relatively large economic contributor. It is therefore unacceptable that the city hasn't been integrated into the Wingbardian rail network. We must start treating the city as the integral part of Wingbardy it is. And if somegriffon questions that status, we will be able to more easily deploy troops to crush that challenge."
 
  WNG_karthin_wrobert_railway:0 "카르틴-브로베르트 철도"
@@ -815,7 +814,7 @@
  WNG_renew_the_southern_alliance:0 "Renew the Southern Alliance"
  WNG_renew_the_southern_alliance_desc:0 "Our allies have long stood by us. We should renew our commitment to peace and security in the South. Together we shall stand against any foe."
  WNG_alliance_with_the_minotaurs:0 "조약 확장"
- WNG_alliance_with_the_minotaurs_desc:0 "To truly ensure the freedom of the south and the leading position of Wingbardy, the Karthinian Pact must be expanded. Only together can we stand against northern expansionists and the wicked beast of communism."
+ WNG_alliance_with_the_minotaurs_desc:0 "그리포니아 남부의 자유와 윙바르디의 주도적 지위를 진정으로 보장하기 위해선, 카르티니아 조약을 확장할 필요가 있습니다. 북쪽의 팽창주의자들과 사악한 공산주의의 괴물을 막으려면, 우린 함께해야만 합니다."
  WNG_southern_sociaty_of_science:0 "Southern Society of Science"
  WNG_southern_sociaty_of_science_desc:0 "The Southern States were once the home of the greatest of griffon minds. We should build a united research and development society to help bring us back to the forefront of the world."
  WNG_southern_security_council:0 "Southern Security Council"
@@ -983,7 +982,7 @@
 
  wingbardy.11.t:0 "계엄령"
  wingbardy.11.d:0 "비콜리니와 검은 날개단의 카트린 진군이 거의 막바지에 다다르면서, 갈로 벤트릴리오 총리가 국왕이 계엄령을 선포하도록 설득하기 위해 마지막으로 다시 한번 가리발드 탈로누엘 국왕을 만났습니다. 국왕은 내각과 장군들의 설명에도 불구하고, 군대가 내전을 일으키지 않고선 검은 날개단을 진압할 수 없을 거라며 계엄령 선포를 여러 번 거절했었지만, 이젠 상황이 한계점에 다다랐고, 이번에도 거절당한다면 총리가 사임하여 정부가 붕괴할 것임이 확실해졌습니다.\n\n이 때문인지, 아니면 국왕이 마침내 계엄령으로 인해 윙바르디가 피해를 볼 일은 없다는 것을 이해해서인지는 몰라도, 국왕이 마침내 마음을 바꿨습니다. 가리발드 탈로누엘 국왕은 마침내 윙바르디에 계엄령을 선포하고 검은 날개단의 반란을 무력으로 진압한다는 문서에 서명했으며, 같은 주, 검은 날개단을 이미 한참 압도하던 군대가 파시스트들을 아무런 어려움 없이 몰아냈습니다. 마침내 정부를 위협하던 문제가 최소한의 피해로 끝난 것입니다.\n\n그렇지만, 아직 국회에서 교착상태가 계속되고 있는 만큼, 문제가 완전히 끝난 것은 아닙니다. PLW의 연정은 붕괴했고, 이제 PLW는 상황을 개선할 그 무엇도 추진할 수 없는 상태에 빠졌습니다. 벤트릴리오 정부는 얼마 안 가 무너질 것이며, 정부가 살아남으려면 윙바르디 정치가 어떻게든 변해야만 합니다. 윙바르디 정치가 과연 어떻게 변화할지는 아직 불확실합니다."
- wingbardy.11.a:0 "일이 순조롭게 진행되기를 바라자."
+ wingbardy.11.a:0 "앞으로 순조롭게 진행되기를 바라자."
  
  wingbardy.12.t:0 "윙바르디가 조약을 제안하다"
  wingbardy.12.d:0 "In a surprising turn of events, representatives sent by Giulio Beakolini—architect of the fascist ideology—have come to Stalliongrad on a diplomatic mission. Although Mr. Beakolini has only recently taken his position within the Wingbardian state, he has already abandoned the previous government's hostile attitude towards our nation.\n\nThe representatives are proposing a Wingbardian-Stalliongrad treaty of friendship and an economic and trade deal which would support our industrialisation goals. In addition, they offer to recognise us as the de jure government of our territory and establish full diplomatic relations with us. Although this deal seems quite favourable, many Stalliongradians question Beakolini's motives. No doubt the griffon has his own agenda, and sees us as little more than tools for advancing Wingbardain interests."
@@ -996,7 +995,7 @@
 
  wingbardy.14.t:0 "스탈리온그라드가 거절하다"
  wingbardy.14.d:0 "Bad news, as our representatives return from Stalliongrad having failed to secure their cooperation for our proposed treaty of friendship. Despite continuous advances, the Stalliongradian government proved both hostile and intractable, killing any chance for a mutually beneficial relationship between our nations. This is highly unfortunate, as they would have proved a valuable check on Equestrian intentions."
- wingbardy.14.a:0 "Communist scum!"
+ wingbardy.14.a:0 "이 빨갱이 새끼들!"
 
  wingbardy.15.t:0 "Anti-Imperial Talks in Chiazbeacle"
  wingbardy.15.d:0 "For years, Wingbardy has viewed the prospect of a resurgent Griffonian Empire as the gravest  threat to the stability of our entire continent, and under the leadership of [FROM.GetLeader], they seem willing to take bold action to forestall this possibility, including working with us. Our sources within the Wingbardian government indicate that they wish for a détente between our two nations.\n\nCritically, Wingbardian representatives have contacted us with a proposal to contain the threat by jointly preventing Imperial expansion. They have invited us to Chiazbeacle to meet about creating a united front against the Griffonian Empire, asking that we move beyond our past territorial struggles and sign a pact of non-aggression, in addition to both guaranteeing the independence of Griffonstone."
@@ -3163,7 +3162,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_balance_the_books_desc:0 "With our economy in shambles we must review our budget and tax plans. The nation shall rebuild itself, one coin at a time."
  WNG_strengthen_the_king:0 "Strengthen the King"
  WNG_strengthen_the_king_desc:0 "Despite our progress, the King is growing impatient with its slow pace. By taking more authority and control over the government, much of the usual bureaucratic processes can be expedited."
- WNG_aluminium:0 "Royal Aluminium Company"
+ WNG_aluminium:0 "왕립 알루미늄 회사"
  WNG_aluminium_desc:0 "The Royal Aluminium Company is a government funded organisation tasked with increasing the nation's supplies of aluminium and other metals in order to help boost Wingbardy's industrial capabilities."
  WNG_wingbardy_forever:0 "Wingbardy Forever"
  WNG_wingbardy_forever_desc:0 "Ever since time immemorial, Wingbardy has stood. It shall continue to stand until the end of time itself."
