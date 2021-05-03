@@ -420,8 +420,8 @@
  WNG_the_workers_empire_desc:0 "There is no real difference between a 'Wingbardian' worker and the worker of any other griffon state. We are all united in our one effort to modernise our cities and communities. We are the true Griffonian Empire: the Workers' Empire."
 
  #Wingbardian Socialist Party - Partito Socialista Wingbardo - Communist
- WNG_the_socialists_take_power:0 "The Socialist Party"
- WNG_the_socialists_take_power_desc:0 "The Partito Socialista Wingbardo has been one of the largest parties in Wingbardy for years now, but has been kept away from power by numerous desperate alliances of liberals and conservatives. Now it is time for the PSW to take responsibility and lead Wingbardy into a bright socialist future as the leading party of the Workers' Republic!"
+ WNG_the_socialists_take_power:0 "사회당"
+ WNG_the_socialists_take_power_desc:0 "윙바르디 사회당은 수년 동안 윙바르디에서 가장 큰 정당 중 하나였지만, 진보와 보수 세력들의 수많은 동맹에 의해 권력의 중심에서 밀려났었습니다. 이제 윙바르디 사회당이 윙바르디의 국정 운영을 도맡아 노동자 공화국의 주도 정당으로써 밝은 사회주의의 미래로 이끌 때입니다!"
 
  WNG_reconcile_with_the_reformers:0 "Reconcile with the Reformers"
  WNG_reconcile_with_the_reformers_desc:0 "The unitary wing of the socialist party has been getting anxious ever since the blackwings marched on Karthin. The democratically minded socialists have reluctantly followed the revolution, realising socialism was preferable over fascism even if established by force of arms. The party must stay together to stave up competition from liberals and communists, even if it means compromising with the reformists."
@@ -1114,24 +1114,24 @@
  wingbardy.41.a:0 "Curses!"
 
  wingbardy.42.t:0 "윙바르디 인민당의 분열"
- wingbardy.42.d:0 "수도원장의 지지를 얻은 것은 우리가 처음에 생각했던 것보다 더 큰 성공이었던 것 같습니다. 윙바르디 인민당은 오랫동안 우리에게 골칫거리였지만, 수도원장의 지지로 우리는 그들의 유권자 중 상당수를 가져올 수 있었습니다. 이 때문에 인민당 내부에서는 당의 강경한 반 파시즘 정책에 반대하는 목소리가 높아지고 있습니다. 인민당 당수 돈 루이지 구투르초는 비콜리니에 대한 수도원장의 지지에 근심이 깊어진 상태이며, 수도원장과의 사적인 만남 이후 윙바르디 인민당 대표직을 사임했다고 합니다. 그의 후임자는 그의 오른발 조반니 데 가스프빈지라고 합니다.\n\n가스프빈지 역시 돈 구투르초만큼이나 우리에게 강력히 반대하는 입장이지만, 현재 그의 정당은 심각하게 분열된 상태이기에 우리에게 큰 위협이 되지는 않을 것입니다."
+ wingbardy.42.d:0 "성직자의 지지를 얻은 것은 우리가 처음에 생각했던 것보다 더 큰 성공이었던 것 같습니다. 윙바르디 인민당은 오랫동안 우리에게 골칫거리였지만, 성직자의 지지로 우리는 그들의 유권자 중 상당수를 가져올 수 있었습니다. 이 때문에 인민당 내부에서는 당의 강경한 반 파시즘 정책에 반대하는 목소리가 높아지고 있습니다. 인민당 당수 돈 루이지 구투르초는 비콜리니에 대한 성직자의 지지에 근심이 깊어진 상태이며, 성직자와의 사적인 만남 이후 윙바르디 인민당 대표직을 사임했다고 합니다. 그의 후임자는 그의 오른발 조반니 데 가스프빈지라고 합니다.\n\n가스프빈지 역시 돈 구투르초만큼이나 우리에게 강력히 반대하는 입장이지만, 현재 그의 정당은 심각하게 분열된 상태이기에 우리에게 큰 위협이 되지는 않을 것입니다."
  wingbardy.42.a:0 "예상치 못했지만 훌륭하다."
 
- wingbardy.43.t:0 "The Prelate's Support"
- wingbardy.43.d:0 "The Prelate of Karthin is the spiritual leader to thousands of Wingbardians. His word and opinion was valued by many, from the common griffon his everyday issues to politicians on gaining the support of the religious. It was for that reason that Beakolini had arranged a private meeting at the Prelatine. The PPW is a strongly religious party and many of its members have sworn to resist any attempt by Beakolini to seize power, but by gaining the blessing of the Prelate their opposition would suddenly become a crisis of faith and the integrity of the party would shatter.\n\nUnfortunately, Beakolini would not be able to use many of his normal tactics here. The Prelate was a faithful and holy griffon and trying to intimidate or bribe him would only end in disaster. Some said that the gods gave him the ability to see through lies as well. So the only thing he could do was to speak with him, be honest about his intentions, and hope that they would give him their blessing.\n\nThe meeting was held at the High Temple of Boreas. As they walked the temple grounds Beakolini gave a passionate speech about his worries for the nation and his desire to help the common Griffon. At the end of the visit, they had coffee on a balcony and the Prelate granted Beakolini his blessing. A public statement was released a few hours later and immediately it had the effect Beakolini desired. Griffons across all layers of society reconsidered their stance on the PNF, giving us some much-needed votes."
- wingbardy.43.a:0 "A toast to our new friendship."
+ wingbardy.43.t:0 "성직자의 지지"
+ wingbardy.43.d:0 "카르틴 성직자는 수천 명의 윙바르디 시민들의 정신적 지도자입니다. 그의 말과 의견은 평민은 물론이고, 종교계의 지지에 민감한 정치가에게도 중요하게 작용했습니다. 비콜리니가 카르틴 수도원에서 사적인 만남을 주선한 것도 이런 이유에서였습니다. 윙바르디 인민당은 매우 종교적인 정당이고 많은 의원들은 비콜리니의 어떠한 정권 장악 시도에도 저항할 것을 천명했지만, 성직자의 축복을 얻어낸다면 그들의 반대는 곧 신앙심의 위기가 되어 당의 통합성을 무너트릴 것입니다.\n\n불행하게도 비콜리니는 그의 언변을 제대로 활용할 수 없었습니다. 성직자는 신실하고 거룩한 그리폰이었고 그를 위협하거나 뇌물을 주려는 시도는 재앙으로 끝날 것이었습니다. 어떤 이들은 신들이 그에게 거짓말을 꿰뚫어 볼 수 있는 능력을 주었다고도 말했습니다. 그래서 비콜리니가 할 수 있는 유일한 일은 그와 이야기하고, 의도를 솔직하게 털어놓고, 그들의 축복을 바라는 것 뿐이었습니다.\n\n만남은 보레아스 고사원에서 열렸습니다. 비콜리니는 사원을 거닐며 국가에 대한 그의 걱정과 평민들을 돕고자 하는 그의 열망에 대한 열정적인 연설을 했습니다. 방문이 끝날 무렵 그들은 발코니에서 커피를 마셨고 성직자는 비콜리니에게 축복을 내려 주었습니다. 몇 시간 후에 공개 성명이 발표되면서 즉각적으로 효과를 볼 수 있었습니다. 사회의 각 계층에서 국가파시스트당에 대한 그들의 입장을 재고한 뒤 우리에게 표를 준 것입니다."
+ wingbardy.43.a:0 "우리의 새로운 우정을 위해 건배!"
 
- wingbardy.44.t:0 "Giacomo Gatteotti Speaks Out Against Fascism"
- wingbardy.44.d:0 "Trouble against the PNF has risen in the parliament once again, as Giacomo Gatteotti, leader of the PSU party has made yet another speech denouncing both Beakolini's leadership and fascism as a whole in Wingbardy. Having long been the head of the Partito Socialista Unitario, he has ardently stood against the new Prime Minister since his first day in office, constantly pushing for the griffons of parliament to unite against him and the PNF. It seems that a large part of our opposition agreed with his rousing moment, and the griffon is proving to be a real thorn in our side. Beakolini has already expressed his displeasure at the constant attempts to undermine him."
- wingbardy.44.a:0 "Who will rid me of these communists?"
+ wingbardy.44.t:0 "파시즘에 반대하는 목소리를 낸 자코모 가테오티"
+ wingbardy.44.d:0 "단결사회당의 지도자 자코모 가테오티가 윙바르디에서 비콜리니의 지도력과 파시즘을 비난하는 또다른 연설을 하면서 국가파시스트당에 대한 반대가 다시 한번 더 불거졌습니다. 단결사회당의 수장으로 오랫동안 활동한 그는 취임 첫날부터 신임 총리에 대한 강경한 반대를 외쳐 왔으며, 그리폰 의원들을 비콜리니와 국가파시스트당에 대항하라고 끊임없이 압박해 왔습니다. 그리고 우리의 반대파의 상당수가 그의 격앙된 발언에 동의한 것 같습니다. 이 그리폰은 정말로 골칫거리임이 분명합니다. 비콜리니는 자신을 깎아내리려는 이 끊임없는 시도에 불쾌감을 드러냈습니다."
+ wingbardy.44.a:0 "이 빨갱이 놈들을 좀 누가 다 없애줬으면 좋겠군!"
 
- wingbardy.45.t:0 "Giacomo Gatteotti Disappears"
- wingbardy.45.d:0 "Shocking news has spread across Wingbardy as of late, for Giacomo Gatteotti, head of the PSU has mysteriously disappeared. While his whereabouts are unknown at the moment, witnesses say that they saw the socialist leader being bundled into a car by masked attackers. The search for him continues, yet many are already fearing that it is too late. It seems that the blame for the attack is being put mostly onto the local Blackwings, which have long had a violent history with such incidents. Both the local police and PSU members have cooperated in locating the missing politician."
- wingbardy.45.a:0 "This isn't what I meant!"
+ wingbardy.45.t:0 "사라진 자코모 가테오티"
+ wingbardy.45.d:0 "단결사회당의 자코모 가테오티 대표가 갑자기 사라졌다는 충격적인 소식이 최근 윙바르디 전역에 퍼졌습니다. 현재 그의 행방은 묘연하지만, 목격자들에 의하면 복면을 쓴 그리폰들이 그를 납치해 차에 태워갔다고 합니다. 그에 대한 수색이 계속되고 있지만, 많은 그리폰들은 이미 늦은 건 아닐까에 대해 두려워하고 있습니다. 테러의 책임은 오랫동안 이러한 사건들로 점철된 폭력적인 역사를 가지고 있던 검은 날개단에게 있는 것 같습니다. 현재 지역 경찰과 단결사회당 의원들은 실종된 정치가를 찾기 위해 힘을 모았습니다."
+ wingbardy.45.a:0 "내가 말하려던 건 이게 아니였는데..."
 
- wingbardy.46.t:0 "Giacomo Gatteotti's Body Found"
- wingbardy.46.d:0 "The worst fears of many came true a few days ago, as the body of Giacomo Gatteotti was finally found, hidden deep in the Warthog Jungle. A later autopsy by medical experts found that he had been stabbed no less than seven times by his assailants. Many in the PSU and beyond are in mourning, as Giacomo was a generally well-liked figure among the liberals and socialists for his moderate policies. While the party itself has fractured some and brought more into the PNF, the vast majority are already directing their anger at the government for letting this happen, as well as fanning the suspicion of Blackwing involvement."
- wingbardy.46.a:0 "I swear, I had nothing to do with this!"
+ wingbardy.46.t:0 "자코모 가테오티의 시신이 발견되다"
+ wingbardy.46.d:0 "며칠 전 많은 그리폰들의 최악의 공포가 다가왔습니다. 자코모 가테오티의 시신이 와르토그 정글 깊숙한 곳에서 발견된 것입니다. 그는 적어도 일곱 번 이상 칼에 찔린 것으로 밝혀졌습니다. 자코모는 진보주의자들과 사회주의자들에게 온건파로 잘 알려져 있었기 때문에 단결사회당과 많은 그리폰들이 애도를 보내고 있습니다. 단결사회당은 일부 분열되었고 국가파시스트당의 세력이 더 증가했지만, 대다수의 시민들은 이 사건에 대한 검은 날개단의 연루 의혹을 제기하면서 이런 일이 일어나도록 내버려둔 정부에 분노를 표출하고 있습니다."
+ wingbardy.46.a:0 "난 맹세코 이 일이랑 관련이 없어!"
 
  wingbardy.47.t:0 "Fascists Arrested over Gatteotti's Murder"
  wingbardy.47.d:0 "The griffons behind the murder of Giacomo Gatteotti have finally been caught, as the police have apprehended five individuals who were in relation to the crime. The evidence against them at this point is overwhelming, and many legal experts are already guaranteeing it to be an open-and-shut case. In a turn to the worse for the PNF and Beakolini, though, one of the alleged murderers is known and prominent Blackwing officer. Rumors are already spreading of Beakolini's possible involvement of the murder due to Gatteotti's known opposition to his government.\n\nTwo options have been put forward by our officials. The first is to save face and let the trial go ahead. While it would undoubtedly hurt the reputation and popularity of the PNF as a whole, Beakolini's innocence in the case would be proved and the government itself could get off scotch-free. The other option is to use our connections to get them off the hook. Our party wouldn't take the hit that an actual conviction could bring, but it would only increase suspicions of Beakolini's involvement and erode trust in the government."
@@ -1147,9 +1147,9 @@
  wingbardy.49.a:0 "We welcome the Wingbardians."
  wingbardy.49.b:0 "We're not interested at this time."
  
- wingbardy.50.t:0 "The Wingbardian Civil War"
- wingbardy.50.d:0 "Tensions have come to a head today, as the unstable situation has exploded into a full-blown civil war. The anti-fascist forces, made up mostly of republicans, socialists and communists have banded together under one banner, led by a "National Liberation Committee". The committee consists of Antonino Proletarino with the PCW, Giovanni Gacci of the PSW, and Giovanni De Gaspwingi of the PPW, bringing together a wide coalition of parties centered in Wrobert.\n\nMeanwhile around Falcor and Asbolus, Beakolini has received the blessing of King Talonuel to end the war, and now leads his Blackwings along with the rest of the royal army to put down the revolution. Fighting has already broken out all across the nation, as both sides seem willing to fight to the bitter end. Who will achieve victory though, is not yet certain."
- wingbardy.50.a:0 "Viva la rivoluzione!"
+ wingbardy.50.t:0 "윙바르디 내전"
+ wingbardy.50.d:0 "불안한 정세가 전면적인 내전으로 폭발하면서 긴장감이 최고조에 달했습니다. 대부분 공화주의자, 사회주의자, 공산주의자로 구성된 반파시스트 세력은 "민족해방위원회"가 이끄는 단일 깃발 아래 결속되었습니다. 위원회는 윙바르디 공산당의 안토니노 프롤레타리노, 윙바르디 사회당의 지오반니 가치, 그리고 윙바르디 인민당의 지오반니 데 가스프빈지를 중심으로 한 광범위한 정당의 연합으로 구성되어 있습니다.\n\n한편 팔코르와 아스볼루스에서 비콜리니는 전쟁을 끝내기 위한 탈로누엘 국왕의 축복을 받았고, 이제 혁명을 진압하기 위해 나머지 왕당파들과 검은 날개단을 이끌고 있습니다. 전투가 전국적으로 발생하면서 양쪽 모두 필사적으로 싸울 의지를 다지고 있는 듯 합니다. 누가 승리를 거둘지는 아직 확실하지 않습니다."
+ wingbardy.50.a:0 "혁명 만세!"
 
  wingbardy.51.t:0 "The Civil War is Over!"
 wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is finally over. The former king has fled the nation and Beakolini is nowhere to be found. The few remaining fascists have surrendered this morning as the flags of freedom wave above the cities of Wingbardy and the common griffons celebrate the return of peace. \n\nHowever, with the fascists and reactionaries out of the picture the NLC is starting to turn on itself. Socialists, communists, and republicans who were once allies in the revolution are dividing themselves and seeking to secure power for their own side. As the war ends, the future of Wingbardy remains uncertain."
@@ -1281,16 +1281,16 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.82.a:0 "그럼에도 불구하고 이것은 민주주의의 승리다!"
 
  wingbardy.83.t:0 "주도권을 잡은 윙바르디 인민당 좌파"
- wingbardy.83.d:0 "루이지 구투르초가 윙바르디 인민당의 지도자이자 임시 총리로서 자진 사임한 후 조반니 데 가스프빈지가 두 직위를 맡게 되었습니다. 오랫동안 구투르초의 측근이었던 이 그리폰은 그의 지도부가 그의 경제, 정치, 외교 정책을 포함한 전체 당의 좌파로의 전환될 것을 예고하고 있습니다. 그는 이퀘스트리아 우정학교 학생이었던 갤러스의 방문 이후 이퀘스트리아와 그 정부를 동경하는 것으로 잘 알려져 있습니다. 이미 그가 과거 인민당과 함께 일했던 보수주의 정당인 민주자유당, 그리고 PSW에서 민주주의 체제에 대한 견해 차이로 갈라져 나온 사회주의 정당 PSW와 접촉한 상태라는 소문이 파다한 상태입니다. 가스프빈지는 이제 새롭고 보다 이퀘스트리아스러운 윙바르디를 만들기 위한 그의 의제를 추진할 수 있는 강력한 위치에 놓여 있습니다."
+ wingbardy.83.d:0 "루이지 구투르초가 윙바르디 인민당의 지도자이자 임시 총리로서 자진 사임한 후 조반니 데 가스프빈지가 두 직위를 맡게 되었습니다. 오랫동안 구투르초의 측근이었던 이 그리폰은 그의 지도부가 그의 경제, 정치, 외교 정책을 포함한 전체 당의 좌파로의 전환될 것을 예고하고 있습니다. 그는 이퀘스트리아 우정학교 학생이었던 갤러스의 방문 이후 이퀘스트리아와 그 정부를 동경하는 것으로 잘 알려져 있습니다. 이미 그가 과거 인민당과 함께 일했던 보수주의 정당인 민주자유당, 그리고 윙바르디 사회당에서 민주주의 체제에 대한 견해 차이로 갈라져 나온 사회주의 정당 단결 사회당과 접촉한 상태라는 소문이 파다한 상태입니다. 가스프빈지는 이제 새롭고 보다 이퀘스트리아스러운 윙바르디를 만들기 위한 그의 의제를 추진할 수 있는 강력한 위치에 놓여 있습니다."
  wingbardy.83.a:0 "그가 선을 너무 넘지만 않았으면 좋겠군..."
 
  wingbardy.84.t:0 "중도파의 승천"
  wingbardy.84.d:0 "돈 구투르초가 윙바르디 인민당 지도부에 대한 자신의 입장을 굽히지 않으면서 윙바르디는 현재의 방침을 유지할 것으로 보입니다. 진보 성향의 의원들의 지지 하에 당 통합을 다시 한 번 강화한 그는 총리직을 유지하고 있으며 인민당의 오랜 우방인 민주자유당과 이전 집권정당이자 보수적인 입장을 취하고 있던 자유당의 지지를 이미 공개적으로 호소했습니다. 구투르초가 원했던 것처럼, 이 연합은 윙바르드 정치의 중심부에 광범위하게 퍼지면서 많은 중도파들을 끌어들였습니다. 이러한 지지를 바탕으로 인민당은 마침내 정치적 교착 상태를 타개할 충분한 의석을 확보하게 되었습니다. 이를 통해 윙바르디에게 의미 있는 변화를 다시 한 번 가져올 수 있기를 희망합니다."
  wingbardy.84.a:0 "중도파 동맹이 우리에게 평화를 가져다 줄 것이다!"
  
- wingbardy.85.t:0 "The Republic Vote"
- wingbardy.85.d:0 "The griffons of Wingbardy are in shock, for today the highly controversial "Republic Vote" has gotten the popular vote and been approved by Prime Minister Gaspwingi. Vehemently opposed by the conservatives in both the Chamber of Deputies and among the people, it is in all terms a complete abolishment of the monarchy in the nation, something many had thought unimaginable. During the reign of Talonuel II such a concept would have never passed as the King was too beloved by his people, but his son Gumberto II has shaken the once rock-hard faith of Wingbardians in the institution. Multiple liberal parties, led by the PPW itself capitalized on this and, though almost tearing the country in half in the process, got their support base to narrowly pass the law leaving Wingbardy a full republic.\n\nNow-former King Gumberto II has been unavailable for comment by the press, but sources inside the Royal Palace have reported him enraged at this development, calling it "a betrayal to the Kingdom and everything it stood for". Many royalists have followed suit, denouncing the act and agitating for a monarchist restoration immediately. They seem to be in the minority, however, and politicians are already widely accepting the end to the crown, and the start of a new age for the fledgling republic."
- wingbardy.85.a:0 "The end of an era for Wingbardy."
+ wingbardy.85.t:0 "공화국 투표"
+ wingbardy.85.d:0 "오늘 논란이 많았던 "공화국 투표"가 대중의 표를 받고 가스프빈지 총리의 승인을 받으면서 윙바르디의 그리폰들은 충격에 휩싸인 상태입니다. 하원의 보수파들과 국민들 사이에서 거센 반발을 일으키고 있는 것은 모든 면에서 국가의 군주제를 완전히 폐지하는 발의안 때문인데, 이는 많은 이들에게는 상상하기 어려운 일이었기 때문입니다. 탈로누엘 2세의 통치 기간동안 왕은 백성들의 많은 사랑을 받았기 때문에 이는 당연한 일일지도 모릅니다. 하지만 그의 아들 굼베르토 2세는 한때 윙바르디 국민들의 이 강한 믿음을 흔들었습니다. 윙바르디 인민당이 주도한 여러 진부 정당들은 이를 기회삼아 비록 나라를 거의 반토막나게 만들었지만 그들의 지지 기반을 확보할 수 있었고, 가까스로 법을 통과시켜 윙바르디를 완전한 공화국으로 만들었습니다.\n\n전 국왕 굼베르토 2세는 언론에 직접 모습을 드러내지는 않았지만, 왕궁 내부 소식통에 따르면 그가 "이것은 왕국과 왕국을 지지하는 모든 것에 대한 배신"이라며 격분했다고 합니다. 많은 왕당파들 역시 이 조치를 비난하며 군주주의의 복원을 주장했습니다. 그러나 그들은 소수에 불과한 것 같고, 정치가들은 이미 왕국의 종식과 신생 공화국을 위한 새로운 시대의 시작을 받아들이고 있습니다."
+ wingbardy.85.a:0 "윙바르디의 한 시대의 끝이다."
 
  wingbardy.86.t:0 "The Trans-Celestial Defence Training Plan"
  wingbardy.86.d:0 "A missive has reached us today, coming from the Wingbardians on Griffonia. In short it is an offer, a request for a joint training plan between our military and theirs to improve our combat readiness. They state the importance of being ready in case of an armed conflict, to defend one's own country and Harmony itself. We could learn much from them, and them from us, but some wonder if we should remain completely independent of Griffonian affairs, including such things as this. Should we go ahead?"
@@ -1612,7 +1612,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy_king_struggle.2.a:0 "Bunch of bellyachers."
 
  wingbardy_king_struggle.3.t:0 "파시스트 무료 급식소"
- wingbardy_king_struggle.3.d:0 "PNF가 여러 대도시에 무료 급식소를 차려 여러 불평분자, 무직자, 빈자들에게 음식을 나눠줬습니다. PNF는 현재의 정치 투쟁에서 PNF를 지지하는 것을 '그냥 고려만' 하는 대가로 공짜 음식을 나눠줬으며, 경찰봉으로 무장한 깡패들이 급식소에 상주해 있는 경우도 많았습니다.\n\n이 전략이 얼마나 효과적인지는 불분명하지만, 이게 효과가 있다는 것은 확실합니다. 만약 이런 무료 급식이 계속된다면, PNF는 분명 상당한 지지를 얻게 될 것입니다."
+ wingbardy_king_struggle.3.d:0 "국가 파시스트당이 여러 대도시에 무료 급식소를 차려 여러 불평분자, 무직자, 빈자들에게 음식을 나눠줬습니다. 그들은 현재의 정치 투쟁에서 파시스트당을 지지하는 것을 '그냥 고려만' 하는 대가로 공짜 음식을 나눠줬으며, 경찰봉으로 무장한 깡패들이 급식소에 상주해 있는 경우도 많았습니다.\n\n이 전략이 얼마나 효과적인지는 불분명하지만, 이게 효과가 있다는 것은 확실합니다. 만약 이런 무료 급식이 계속된다면, 국가 파시스트당은 분명 상당한 지지를 얻게 될 것입니다."
  wingbardy_king_struggle.3.a:0 "이젠 그냥 국민을 매수하고 있군!"
 
  wingbardy_king_struggle.4.t:0 "Republican Rally Wins Over Crowds"
@@ -1835,22 +1835,22 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  
  #### NEWS ####
  news_wingbardy.1.t:0 "카르틴 진군"
- news_wingbardy.1.d:0 "[This.GetNewspaperHeader]몇 달 동안 우익 언론가인 줄리오 비콜리니는 윙바르디 정부와 도시의 거리에서 질서의 재편을 외쳐 왔습니다. 그의 우월주의 정당은 엄청난 지지를 얻었고, 많은 사람들이 '옛 윙바르디 질서'를 회복하라는 비콜리니의 메시지에 몰려들었습니다. 이 자칭 '검은 날개단'들 중 상당수는 전직 군인이나 참전용사들로 PNF에 실질적인 군사력을 제공하고 있습니다. 정부의 많은 온건파들과 사회주의자들은 가리발디 국왕이 우월주의자들에 의해 계획된 카르틴 진군을 중단할 의사가 없다는 것을 알고 충격을 받았습니다. 정부군이 물러난 가운데, 수도의 그리폰들은 검은 옷을 입은 수천 명의 우월주의자들이 그들을 향해 진군하는 것을 초조하게 지켜보고 있습니다..."
+ news_wingbardy.1.d:0 "[This.GetNewspaperHeader]몇 달 동안 우익 언론가인 줄리오 비콜리니는 윙바르디 정부와 도시의 거리에서 질서의 재편을 외쳐 왔습니다. 그의 우월주의 정당은 엄청난 지지를 얻었고, 많은 사람들이 '옛 윙바르디 질서'를 회복하라는 비콜리니의 메시지에 몰려들었습니다. 이 자칭 '검은 날개단'들 중 상당수는 전직 군인이나 참전용사들로 국가 파시스트당에 실질적인 군사력을 제공하고 있습니다. 정부의 많은 온건파들과 사회주의자들은 가리발디 국왕이 우월주의자들에 의해 계획된 카르틴 진군을 중단할 의사가 없다는 것을 알고 충격을 받았습니다. 정부군이 물러난 가운데, 수도의 그리폰들은 검은 옷을 입은 수천 명의 우월주의자들이 그들을 향해 진군하는 것을 초조하게 지켜보고 있습니다..."
  news_wingbardy.1.a:0 "비콜리니가 무엇을 하려는 거지?"
  
  news_wingbardy.2.t:0 "비콜리니가 수상이 되다"
- news_wingbardy.2.d:0 "[This.GetNewspaperHeader]윙바르디의 국왕과 비콜리니의 치열한 밀실 회담이 마침내 결과를 낳았습니다. 국왕은 카르틴의 군중들 앞에서 극우정당 PNF의 지도자 줄리오 비콜리니를 윙바르디의 새 총리로 임명했습니다.\n\n기존의 벤트릴리오 정부를 대신해 비콜리니는 새로운 내각을 구성했는데, 놀랍게도 내각에는 사회주의자 장관들의 포함되어 있었으며, 또한 그는 정치적 교착상태의 빠른 종식을 약속했습니다.\n\n전문가들은 이에 대해 회의적이지만, 윙바르디의 시민들 사이에는 무언가의 희망이 감돌고 있습니다. 아마도 이 자신만만한 '두체'가 윙바르디에 질서를 가져다 줄 수 있을지도 모릅니다."
+ news_wingbardy.2.d:0 "[This.GetNewspaperHeader]윙바르디의 국왕과 비콜리니의 치열한 밀실 회담이 마침내 결과를 낳았습니다. 국왕은 카르틴의 군중들 앞에서 극우정당인 국가 파시스트당의 지도자 줄리오 비콜리니를 윙바르디의 새 총리로 임명했습니다.\n\n기존의 벤트릴리오 정부를 대신해 비콜리니는 새로운 내각을 구성했는데, 놀랍게도 내각에는 사회주의자 장관들의 포함되어 있었으며, 또한 그는 정치적 교착상태의 빠른 종식을 약속했습니다.\n\n전문가들은 이에 대해 회의적이지만, 윙바르디의 시민들 사이에는 무언가의 희망이 감돌고 있습니다. 아마도 이 자신만만한 '두체'가 윙바르디에 질서를 가져다 줄 수 있을지도 모릅니다."
  news_wingbardy.2.a:0 "흥미롭군."
  news_wingbardy.2.b:0 "우월주의만이 앞으로 나아갈 수 있는 길이다!"
  
  news_wingbardy.3.t:0 "윙바르디에서 공산당이 금지되다"
- news_wingbardy.3.d:0 "[This.GetNewspaperHeader]어제 오후 의회에서 윙바르디에 있는 모든 공산당과 사회주의 정당들이 사법부의 기소 위협으로 갑작스럽게 금지됐습니다. 투표 결과는 아슬아슬했지만, 원내 통과 동의의 핵심은 온건파들이었던 것으로 보입니다.\n\n그 결과, 많은 이들은 현명하게도 해외로 도피했지만, 정당에 대한 충성심을 포기하기를 거부하는 좌파 당원들이 대거 체포되었습니다. 윙바르디에 존재하는 공산주의와 사회주의 세력은 이제 그 위세가 크게 줄어 지하로 대피했으며, PNF는 당원 수가 크게 증가했습니다."
+ news_wingbardy.3.d:0 "[This.GetNewspaperHeader]어제 오후 의회에서 윙바르디에 있는 모든 공산당과 사회주의 정당들이 사법부의 기소 위협으로 갑작스럽게 금지됐습니다. 투표 결과는 아슬아슬했지만, 원내 통과 동의의 핵심은 온건파들이었던 것으로 보입니다.\n\n그 결과, 많은 이들은 현명하게도 해외로 도피했지만, 정당에 대한 충성심을 포기하기를 거부하는 좌파 당원들이 대거 체포되었습니다. 윙바르디에 존재하는 공산주의와 사회주의 세력은 이제 그 위세가 크게 줄어 지하로 대피했으며, 국가 파시스트당은 당원 수가 크게 증가했습니다."
  news_wingbardy.3.a:0 "이건 별로 민주적이지 않은 것 같은데..."
  news_wingbardy.3.b:0 "속이 다 시원하군!"
  news_wingbardy.3.c:0 "말도 안 돼!"
  
  news_wingbardy.4.t:0 "윙바르디 우월주의자가 의회를 장악하다"
- news_wingbardy.4.d:0 "[This.GetNewspaperHeader]획기적이게도, 윙바르디 의회는 아거르보 법을 통과시켜 다수당이 몇 표를 얻었건 상관없이 사실상 PNF가 의석의 과반수를 차지할 수 있도록 하는 데 동의했습니다. 온건파와 진보 진영의 거센 비판에도 불구하고, 어제 선거 개혁이 시행되었으며 의석 배정을 마무리하기 위한 새로운 선거 때까지 당을 나누기 위한 이전의 선거 투표를 일시적으로 적용했습니다. 그러나 대다수는 결과에 상관없이 우월주의자 다수당을 예상하고 있습니다. 이것은 윙바르디에서 민주주의 통치의 끝일지도 모릅니다."
+ news_wingbardy.4.d:0 "[This.GetNewspaperHeader]획기적이게도, 윙바르디 의회는 아거르보 법을 통과시켜 다수당이 몇 표를 얻었건 상관없이 사실상 국가 파시스트당이 의석의 과반수를 차지할 수 있도록 하는 데 동의했습니다. 온건파와 진보 진영의 거센 비판에도 불구하고, 어제 선거 개혁이 시행되었으며 의석 배정을 마무리하기 위한 새로운 선거 때까지 당을 나누기 위한 이전의 선거 투표를 일시적으로 적용했습니다. 그러나 대다수는 결과에 상관없이 우월주의자 다수당을 예상하고 있습니다. 이것은 윙바르디에서 민주주의 통치의 끝일지도 모릅니다."
  news_wingbardy.4.a:0 "걱정되는군."
  news_wingbardy.4.b:0 "우월주의만이 옳은 것이다!"
  
@@ -2036,12 +2036,12 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  coming_soon_with_zebrica:0 "Coming Soon with Zebrica."
  coming_soon_with_zebrica_tt:0 "Coming Soon with Zebrica."
 
- WNG_psw_long:0 "Partito Socialista Wingbardo"
- WNG_psw:0 "PSW"
- WNG_prw_long:0 "Partito Repubblicano Wingbardo"
- WNG_prw:0 "PRW"
- WNG_psu_long:0 "Partito Socialista Unitario"
- WNG_psu:0 "PSU"
+ WNG_psw_long:0 "윙바르디 사회당"
+ WNG_psw:0 "윙바르디 사회당"
+ WNG_prw_long:0 "윙바르디 공화당"
+ WNG_prw:0 "윙바르디 공화당"
+ WNG_psu_long:0 "단결 사회당"
+ WNG_psu:0 "단결 사회당"
 
  ### Decisions ###
  form_WNG_workers_empire_category:0 "Declare the Workers' Empire"
@@ -2278,7 +2278,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
 
  WNG_school_for_gifted_griffons:0 "Equestrian-Wingbardian Science Exchange"
  WNG_school_for_gifted_griffons_refused:0 "Refused Science Exchange"
- WNG_give_way_to_the_left_ppw_tt:0 "우리는 민주자유당과 PSU과 정부를 구성할 것입니다."
+ WNG_give_way_to_the_left_ppw_tt:0 "우리는 민주자유당과 단결사회당과 정부를 구성할 것입니다."
  WNG_an_alliance_of_the_centre_tt:0 "우리는 민주자유당과 윙바르디 자유당과 정부를 구성할 것입니다."
  WNG_can_intergrate_nation_tt:0 "Unlocks §YDecisions§! to intergrate this nation peacefully."
 
@@ -3213,18 +3213,18 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
 
  WNG_parliament_party_0:0 "§R윙바르디 공산당§!"
  WNG_parliament_party_1:0 "§R윙바르디 사회당§!"
- WNG_parliament_party_2:0 "§CPartito Socialista Unitario§!"
- WNG_parliament_party_3:0 "§CPartito Socialista Riformista Wingbardo§!"
+ WNG_parliament_party_2:0 "§C단결 사회당§!"
+ WNG_parliament_party_3:0 "§C윙바르디 개혁주의 사회당§!"
  WNG_parliament_party_4:0 "§C윙바르디 공화당§!"
  WNG_parliament_party_5:0 "§C윙바르디 사회민주당§!"
- WNG_parliament_party_6:0 "§CPartito Riformista Democratico§!"
- WNG_parliament_party_7:0 "§CPartito Falcoro d'Azione§!"
- WNG_parliament_party_8:0 "§C민주자유당§!"
+ WNG_parliament_party_6:0 "§C민주 개혁당§!"
+ WNG_parliament_party_7:0 "§C팔코르 행동당§!"
+ WNG_parliament_party_8:0 "§C민주 자유당§!"
  WNG_parliament_party_9:0 "§C윙바르디 인민당§!"
- WNG_parliament_party_10:0 "§WPartito dei Contadini d'Wingbardia§!"
+ WNG_parliament_party_10:0 "§W윙바르디 농민당§!"
  WNG_parliament_party_11:0 "§W윙바르디 자유당§!"
- WNG_parliament_party_12:0 "§WPartito dei Combattenti§!"
- WNG_parliament_party_13:0 "§LAssociazione Nazionalista Wingbardo§!"
+ WNG_parliament_party_12:0 "§W전투당§!"
+ WNG_parliament_party_13:0 "§L윙바르디 민족주의 연합§!"
  WNG_parliament_party_14:0 "§L국가 파시스트당§!"
 
  WNG_parliament_party_in_coalition:0 "§Y(G) §!"
