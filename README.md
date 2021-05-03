@@ -19,6 +19,7 @@
   - [롱소드 백국](localisation/country_LNS_l_english.yml)
   - [앵그리버 남국](localisation/country_ANG_l_english.yml)
   - [윙바르디 왕국](localisation/country_WNG_l_english.yml)
+  - [아퀼레이아 왕국](localisation/country_JER_l_english.yml)
   - [바라드 마권정부](localisation/country_BAR_l_english.yml)
 
 ***
