@@ -294,7 +294,7 @@
  aquileia.14.a:0 "혁명과 비노비아의 인민을 위해!"
  
  aquileia.15.t:0 "프리데아가 버티다"
- aquileia.15.d:0 "Despite the efforts of the traitors and revolutionaries, Pridea remains loyal to the crown. They tried their best, but it was all for naught, and it seems we are dragging more traitors to the wall again."
+ aquileia.15.d:0 "반역자들과 혁명가들의 공작에도 불구하고, 프리데아는 여전히 왕가에 충성합니다. 놈들은 최선을 다했지만, 전부 쓸데없는 짓이었습니다. 더 많은 반역자들을 형장으로 끌고갈 수 있겠군요."
  aquileia.15.a:0 "대단해!"
  
  aquileia.16.t:0 "혁명"
@@ -302,11 +302,11 @@
  aquileia.16.a:0 "공화국 만세!"
 
  aquileia.17.t:0 "혁명의 승리"
- aquileia.17.d:0 "It has been a long and bloody road, but today, the last of the monarchist vassals has finally collapsed beneath the unstoppable tide of freedom! Thanks to widespread and organized revolutionary fervor and the countless valiant sacrifices of so many griffons, the supporters of the old monarchy have been crushed, and the lineage of the Discrets scattered to the winds. Even the officers that once begrudgingly fought beneath the banners of cruelty and tyranny have been swayed by our cause, and have pledged their undying support to the new republic. They will safeguard Aquileia from the return of the Discrets, as surely the taint of their royal blood lingers in bastards across Griffonia, but for now Aquileia is free, and a new day dawns on us and our new Republic!"
+ aquileia.17.d:0 "멀고도 피비린내 나는 길이었지만, 오늘 드디어 마지막 군주주의자들이 자유의 파도 아래 무너졌습니다! 광범위하고 잘 조직된 혁명의 열정과 수많은 그리폰들의 용감한 희생으로, 옛 군주제의 지지자들은 분쇄되고 디스크레 왕조 또한 바람에 흩날려 사라졌습니다. 마지못해 잔인한 폭군의 휘하에서 싸우던 장교들도 우리의 대의를 듣고 새 공화국에 충성을 맹세했고, 이들은 디스크레 왕조의 귀환으로부터 아퀼레이아를 수호할 것입니다. 이제 아퀼레이아는 자유이며, 새로운 아침이 공화국에 밝아옵니다!"
  aquileia.17.a:0 "공화국 만세!"
  
  aquileia.18.t:0 "혁명의 승리"
- aquileia.18.d:0 "It has been a long and bloody road, but today, the last of the monarchist vassals has finally collapsed beneath the unstoppable tide of freedom! Thanks to widespread and organized revolutionary fervor and the countless valiant sacrifices of so many griffons, the supporters of the old monarchy have been crushed, and the lineage of the Discrets scattered to the winds. Though our enemies fought on to the bitter end, they have all been defeated on the field of battle, their armies crushed and routed. A new generation of heroes will safeguard Aquileia from those that would see the monarchy restored yet again, but for now Aquileia is free, and a new day dawns on us and our new Republic!""
+ aquileia.18.d:0 "멀고도 피비린내 나는 길이었지만, 오늘 드디어 마지막 군주주의자들이 자유의 파도 아래 무너졌습니다! 광범위하고 잘 조직된 혁명의 열정과 수많은 그리폰들의 용감한 희생으로, 옛 군주제의 지지자들은 분쇄되고 디스크레 왕조 또한 바람에 흩날려 사라졌습니다. 적들은 마지막까지 싸웠지만 결국 전장에서 패주하고 말았습니다. 새로운 세대의 영웅들이 군주제를 되돌리려는 이들로부터 아퀼레이아를 수호할 것입니다. 이제 아퀼레이아는 자유이며, 새로운 아침이 공화국에 밝아옵니다!.""
  aquileia.18.a:0 "공화국 만세!"
  
  aquileia.19.t:0 "A Few Missing Rifles"
@@ -422,7 +422,7 @@
  aquileia.47.a:0 "국왕 폐하 만세!"
  
  aquileia.48.t:0 "혁명의 끝"
- aquileia.48.d:0 "The streets run red with the blood of traitors and patriots alike, but as the dust settles we stand triumphant! The revolutionaries came at us with as great force as during the first revolution, but unlike then we did not fall apart. Instead we have held the line and let them break themselves upon us! Aquileia's royal banner flies high and victorious today!"
+ aquileia.48.d:0 "반역자와 애국자들의 피로 거리가 물들었지만, 결국 승리한 것은 우리입니다. 혁명가들은 첫 혁명때처럼 매섭게 몰아쳤지만, 우리가 그때와 달리 전선을 유지하고 반격하자 오히려 저들이 먼저 무너져 내렸습니다! 아퀼레이아의 왕실 깃발이 승리를 알리며 높게 휘날립니다!"
  aquileia.48.a:0 "국왕 폐하 만세!"
  
  aquileia.49.t:0 "An Unfortunate Incident"
@@ -498,7 +498,7 @@
  aquileia.66.d:0 "There has been a sudden influx of pro-monarchist Paramilitaries in the region. From what we can tell, the king decided to attempt to pre-empt the revolutionary uprising by sending more loyalits into the land. Of course, we are the ones who will have to make sure the situation is calm until then."
  aquileia.66.a:0 "He picked his side..."
  
- aquileia.67.t:0 "Orders From the Capital"
+ aquileia.67.t:0 "수도에서 온 지령"
  aquileia.67.d:0 "There have been news from Aquila. Our dear cousin have contacted us with quite... enthusiastic orders. Effective immediately, Vinovia is to treat the possibility of civil war as very likely. What more, he made sure to state, very clearly, that any revolutionary caught should be treated as an enemy soldier."
  aquileia.67.a:0 "Of course he did..."
  
@@ -510,9 +510,9 @@
  aquileia.69.d:0 "The royal army, coordination with local forces, carried out a series of arrests and ambushes in the countryside recently, flushing almost five hundred revolutionaries out of their holes. We can all sleep a bit easier now."
  aquileia.69.a:0 "Good job!"
  
- aquileia.70.t:0 "Moriset's Visit"
- aquileia.70.d:0 "His Highness the Baron's honorable nephew, his Majesty King Moriset, graced us with a brief visit today. The two shared a long talk about the state of the nation as they went on a hunt outside the city, followed by a luxurious dinner. The Baron loudly and fervently declared his intent to make sure that "any damn traitor is strung up like in the good old days" and the king seemed quite pleased by his uncle's fervor."
- aquileia.70.a:0 "That was nice."
+ aquileia.70.t:0 "모리제의 방문"
+ aquileia.70.d:0 "남작의 명예로운 조카인 모리제 국왕이 오늘 이곳을 방문할 예정입니다. 둘은 도시 외곽으로 사냥을 나가며 국가의 현 상태에 대해 긴 대화를 나누곤, 호화로운 저녁 식사로 하루를 마무리했습니다. 남작은 큰 목소리로 "어떤 빌어먹을 반역자놈들도 예전처럼 목이 매달릴 것" 이라 열렬히 선언했고, 국왕은 그의 삼촌의 열정에 꽤나 기뻐하는 듯 했습니다."
+ aquileia.70.a:0 "좋은 방문이었어."
  
  aquileia.71.t:0 "MPA Receives Resources From the Capital"
  aquileia.71.d:0 "Our local branch of the MPA have received funding from the crown, including weapons. Some would have blanched at the idea of arming Paramilitaries like this, but our Baron is not that kind of griffon. Rather, he greeted the news enthusiastically and said that when the rebels come, they'll find a Pridea packed with every roughneck and cutthroat the nation has to offer."
@@ -651,11 +651,11 @@
  aquileia.103.d:0 "Glorious news! The King has seen it fit to beeseech us with aid in our cause against the corrupt Colette and her revolutionary thugs. We should make preperations..."
  aquileia.103.a:0 "Now to get planning"
  
- aquileia.104.t:0 "An Unfortunate Incident"
+ aquileia.104.t:0 "불행한 사태"
  aquileia.104.d:0 ""We have to stand up for the monarchy!" Gerald screamed from the podium. The colors and livery of the MPA decorated the courthouse from where he gave his speech, and nearly a hundred fellow party members and soldiers had gathered to watch him speak. "The monarchy has brought stability back to the nation after the chaos of the Revolution! Do you remember the madness that seemed to possess every griffon, griffoness, and chick? Do you remember the blood that flowed down the streets? No more! It cannot happen again!"\n\nCheers went up from the assembled crowd, and Gerald allowed himself a little smile. Aging as he was, he was still the leader of the MPA's monarchist bloc, and one of the party's most influential members as a whole. "The real threat lies in the communists that the Revolution harbors. They have dangerous ideas that will see this nation burn even moreso than those who merely cry out for freedom, whatever mockery they attribute to that word! They must be stopped!"\n\nAgain, cheering roared to meet him, but then he saw several griffons slipping out the doors in disgust. "Fools," he muttered to himself. He'd have his loyal enforcers find out who had left early, and make them sorry for it. "I have with me a list of communist sympathizers in Westkeep, gathered by my talons in the dark. We shall start with them and rid Aquileia of the communist menace once and for all! Who is with me?!"\n\nGriffons stood up and raised their voices, ready to join the march. And in that instant, the courthouse exploded.\n\nThe plume of smoke was visible for miles. The scattered remains of the griffons caught in the bombing were far less so."
  aquileia.104.a:0 "Perhaps Gerhard should have retired sooner..."
  
- aquileia.105.t:0 "Increased Rebel Activity"
+ aquileia.105.t:0 "반란군 활동 증가"
  aquileia.105.d:0 "The past week has seen a dramatic uptick in rebel activity all throughout Westkeep. Fliers, pamphlets, and speeches in coffehouses and taverns have all been noted praising the revolution and the republicans with greater frequency, and it seems that they are having some effect on our populace. Once loyal griffons are turning their backs on the monarchy, and the tricolour is being raised in more places, and more openly as well. The Colonel has sent her soldiers to round up republicans and make arrests, but with the situation spiraling out of control as it is, it seems like a lost cause. To make matters worse, a recent meeting between the Colonel and nobles from the capital has made it clear that this increased recruitment has been going on throughout the Kingdom for some time, and it was only a matter of time before it made its way to Westkeep as well. Unfortunately, that information is now useless to us, considering the revolutionary cells have already taken root throughout Westkeep, and we have missed the opportunity to nip this problem in the bud."
  aquileia.105.a:0 "They could have warned us"
  
@@ -679,9 +679,9 @@
  aquileia.110.d:0 "As the various Revolutionary Clubs gear up to send their candidates off to champion their platforms in the upcoming election, the socialist PAT party has nominated Grand Cru to represent them before all of Aquileia. Cru's nomination was expected, as not only is he a more moderate, and thus more palatable, candidate to come from the communists, he is also a hero of the Revolution, having sheltered many revolutionaries during the furious fighting for the capital, providing food and water for families displaced by the war from stockpiles set aside before the revolution, and organizing the downfall of organized monarchist resistance in the capital and the surrounding countryside. Now, with Election Day drawing ever nearer, Grand Cru has promised to continue the work he performed during the Revolution, by expanding his party and bringing regional representation to all the far-flung corners of Aquileia. He even seeks to continue providing homes for families displaced by the war, a move sure to see him attain easy gains at the ballot box. Grand Cru presents an excellent look for the socialists, and is sure to draw the votes of countless griffons throughout Aquileia. But will he lead the PAT along more moderate and sensible paths, or is he merely a face to let the more radical griffons inside his party take control of the nation?"
  aquileia.110.a:0 "Hopefully they can keep all the loonies on the sideline..."
  
- aquileia.111.t:0 "The Rose Of Vinovia"
+ aquileia.111.t:0 "비노비아의 장미"
  aquileia.111.d:0 "While the glorious Second Revolution had the unfortunate side effect of bringing desolation, destruction, and ruination to large swaths of the Kingdom, the former Duchy of Vinovia was spared the worst of the carnage by a well known revolutionary by the name of Cécile Gaudreau. As chaos quickly engulfed the nation and the duchy, Cécile returned to her homeland of Vinovia from exile and took command of the revolutionary cells operating there, urging for the valiant soldiers of the Republic to only fight those that still openly supported the monarchy. Her messages of harmony amongst even enemies had a remarkable affect in the fighting, and Vinovia saw some of the least partisan bloodshed and extrajudicial killing in the entire Republic. Now Cécile, whom the revolutionaries of Vinovia call their rose, has come to Aquila to champion the peaceful reconstruction of the nation. In the power vacuum left by Vérany's departure, she has become the obvious successor as leader of the FJA, having clashed with Vérany on the same issues that caused the party split in their long history. Cécile intends to breathe new life into the party by championing it's founding tenets of the harmony and social democracy. She seeks to foster cooperation between the different parties in Aquileia, not competition, and is committed to restructuring Aquileia's tax code and bringing the nation into the modern era with electification for the countryside and modernized labor laws. But can such grand and peaceful plans sway the fervent supporters of the Revolution outside of Vinovia? Only time will tell."
- aquileia.111.a:0 "Gaudreau shall lead Aquileia to prosperity."
+ aquileia.111.a:0 "고드로가 아퀼레이아를 번영으로 이끌 것이다."
  
  aquileia.112.t:0 "The Maréchal"
  aquileia.112.d:0 "A last surprising entrant has put his name before the griffons of Aquileia in a bid of becoming their president. Léonard Rodier of the MPA, the Ultranationalists who claimed to have supported the monarchy in the years between the First and Second Revolutions, has stepped forward to champion the platform of his party. Centering around nationalism and Aquileian unity, the Ultranationalist Maréchal has unified griffons far and wide who fear the influence of the nations surrounding our great Republic and are looking for a strong leader to keep them safe. He champions the promotion of Aquileian culture and the expansion of our urban centers, as well as getting the former nobility to fall in line and provide some of their wealth to the Republic through generous pardons. Though the loyalties of the MPA throughout the revolutions are certainly suspect, it is quite clear that they are too large of a force with too much influence to simply label as traitors and be done with it. Perhaps we shall see just where the Ultranationalists' loyalties lie, and if they can truly court the votes of the loyal Republicans who brought us this grand victory."
@@ -2281,7 +2281,7 @@
  JER_develop_eagleton_oil_fields_desc:0 ""
  
  ### Advisors ###
- JER_advisor_1:0 "피에르 드 트와 니드"
+ JER_advisor_1:0 "피에르 데 트와 니드"
  JER_advisor_2:0 "미셸 르프렐라"
  JER_advisor_3:0 "백작 아르망 드 라 페리에르"
  JER_advisor_4:0 "쟝 라부와예"
