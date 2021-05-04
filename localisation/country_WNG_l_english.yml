@@ -698,7 +698,7 @@
  WNG_clamp_down_on_political_extreamists_desc:0 "The rotten and empty promises of communism and fascism have cast their bloody shadow over Wingbardy for too long. The government has tolerated these totalitarian philosophies for too long. Now that the King is firmly in control, it is time to take action against any organisation that propagates extremism."
 
  WNG_absolute_rule:0 "절대 통치"
- WNG_absolute_rule_desc:0 "The democratic experiment in Wingbardy has failed, collapsing at the first sign of adversity. Only a noble royal power can safeguard the nation against foreign and domestic threats. The King will force through a change of the constitution which will enshrine his absolute power in matters of state permanently."
+ WNG_absolute_rule_desc:0 "윙바르디의 민주주의 실험은 역경을 조금도 견디지 못한 채 붕괴하면서 실패로 끝나고 말았습니다. 외부와 내부의 위협으로부터 나라를 지키려면, 고귀한 국왕의 힘이 필요합니다. 국왕은 국왕 자신이 국정을 영구히 절대적으로 다스릴 수 있도록 개헌을 강행할 것입니다."
 
  WNG_appease_the_moderates:0 "중도파 달래기"
  WNG_appease_the_moderates_desc:0 "1007 was an exceptional moment in Wingbardian history, and while royal intervention was necessary, that does not prove that liberal ideas are entirely without merit. To appease the democrats, we will reduce repression and promise to gradually reform back to a parliamentary system when the crisis has abated."
@@ -718,7 +718,7 @@
  WNG_one_night_in_griffenheim:0 "그리펜하임에서의 하룻밤"
  WNG_one_night_in_griffenheim_desc:0 "972년, 그로버 5세의 12번째 생일을 축하하는 거대한 파티가 그리펜하임에서 열렸습니다. 여기엔 가리발드 탈로누엘 왕자도 아버지 굼베르토 1세와 함께 참석했었습니다.\n\n이날 밤은, 가리발드 탈로누엘이 절대 잊지 못할 밤이었습니다."
 
- WNG_bastion_of_the_south:0 "남부의 방패"
+ WNG_bastion_of_the_south:0 "남부의 보루"
  WNG_bastion_of_the_south_desc:0 "Wingbardy has no need to expand beyond her current borders. Our country will weather the storm. If necessary for years, if necessary, alone. We will defy all those expansionist states who come to conquer us for some greater ideology or simply to add our jewel to their crown. Let them come. We will be prepared!"
 
  WNG_royal_works:0 "The Royal Works"
@@ -750,7 +750,7 @@
 
 
 ### Industry ###
- WNG_reignite_the_industrial_sector:0 "산업 분야 재점화"
+ WNG_reignite_the_industrial_sector:0 "산업 분야 재활성화"
  WNG_reignite_the_industrial_sector_desc:0 "Wingbardy's industry was once the envy of all Griffonia, but it has stagnated for years, falling into disarray. We must reignite this nation's industrial spark to ensure that once again Wingbardy comes out on top."
 
  WNG_build_a_military_economy:0 "군사 경제 건설"
@@ -762,22 +762,22 @@
  WNG_expand_the_rubber_industry:0 "Expand the Rubber Industry"
  WNG_expand_the_rubber_industry_desc:0 "Many modern machine components require vulcanised rubber, and our current production isn't sufficient for a growing industry. We can expand current facilities to extract more rubber from our territories."
 
- WNG_create_agwp:0 "Create the AGWP"
+ WNG_create_agwp:0 "AGWP 설립"
  WNG_create_agwp_desc:0 "In this age of mass industry, we will need to expand and control our gasoline production if we are to compete. The Azienda Generale Wingbardia Petroli will be formed to oversee our oil industry. To prevent any private interests from harming its growth, we will nationalize our country's subsoil and ban any unapproved oil-related activities."
 
  WNG_librasia_talocana:0 "리브라시아-탈론카나 송유관"
- WNG_librasia_talocana_desc:0 "마치 몸에 피가 흐르는 혈관이 있듯이, 현대 국가에는 석유가 흐를 송유관이 필요합니다. 리브라시아 지역이 이미 카르틴과 잘 연결되어 있기는 해도, 여기에서 탈론카나 지역까지 연결해줄 송유관이 아직 필요합니다."
+ WNG_librasia_talocana_desc:0 "마치 몸에 피가 흐르는 혈관이 있듯이, 현대 국가에는 석유가 흐를 송유관이 필요합니다. 리브라시아 지역이 이미 카르틴과 잘 연결되어 있기는 해도, 이를 탈론카나 지역까지 연결해줄 송유관을 건설할 필요가 있습니다."
 
- WNG_synthethic_oil_exp:0 "Create the AGWP - DRPS"
+ WNG_synthethic_oil_exp:0 "AGWP - DRPS 설립"
  WNG_synthethic_oil_exp_desc:0 "Extracting what little oil the gods have seen fit to provide us with will only take us so far. We will need alternatives to fuel our economy and military. Thus, we will create the Divisione di Raffinata e Produzione Sintetica within the AGWP to refine imported crude oil and explore synthetic gasoline production."
 
  WNG_rubber_production:0 "고무 자립"
  WNG_rubber_production_desc:0 "The DRPS has seen some success in producing artificial rubber. If we invest wisely into it, we can expand our vulcanized rubber production on a vast scale. And with it, true autarky in that sector is achievable, something that will make both our industry and military the envy of the world."
 
- WNG_develop_talouse:0 "Invest in Talouse"
+ WNG_develop_talouse:0 "탈로스 투자"
  WNG_develop_talouse_desc:0 "Our friends in Talouse require a jumpstart for their economy so that they can put to use their factories to good use. Some investments in their industries will go a long way in improving their manufacturing capacity and improving Wingbardy's relations with Talouse."
 
- WNG_develop_franmistria:0 "Invest in Francistria and Arantiga"
+ WNG_develop_franmistria:0 "프란시스트리아 및 아란티가 투자"
  WNG_develop_franmistria_desc:0 "Francistria's and Arantiga's economies have been suffering for some time now, and are in dire need of a new stimulus package. Whereas they are unable to fund one themselves, we'll step in to assist, as good neighbours do."
 
  WNG_wingbardian_motor_industry:0 "윙바르디 자동차 산업"
@@ -796,7 +796,7 @@
  WNG_connect_falcor_desc:0 "The large city of Falcor has been a relatively recent conquest from the Falcor War, but is still a relatively large economic contributor. It is therefore unacceptable that the city hasn't been integrated into the Wingbardian rail network. We must start treating the city as the integral part of Wingbardy it is. And if somegriffon questions that status, we will be able to more easily deploy troops to crush that challenge."
 
  WNG_karthin_wrobert_railway:0 "카르틴-브로베르트 철도"
- WNG_karthin_wrobert_railway_desc:0 "Karthin and Wrobert are the two largest ports of Wingbardy, accounting for most of the sea-bound imports and exports. However, the railroad connecting these two economic powerhouses is outdated. By modernizing this railway and adding a connection to Talcara, all major coastal hubs will be properly serviced."
+ WNG_karthin_wrobert_railway_desc:0 "카르틴과 브로베르트는 윙바르디에서 제일 큰 항구도시들로, 윙바르디의 해상무역 대부분을 담당하고 있습니다. 그렇지만 두 경제 중심지를 연결하는 철도는 이제 낡은 상태입니다. 두 도시를 잇는 철도를 현대화하고, 탈카라로 이어지는 구간을 신설한다면, 윙바르디의 주요 항구도시를 모두 제대로 연결할 수 있을 것입니다."
 
  WNG_piumave_line:0 "피우마베 선로"
  WNG_piumave_line_desc:0 "The northern and central parts of our country have been underdeveloped for quite some time, owing to long travel times between the cities and the countryside. It is imperative that the government invests in new infrastructure projects to bring to connect the regions, with the proposed Piumave Line being the most costly endeavour. "
@@ -822,9 +822,9 @@
 
 ### NAVY ###
  WNG_regia_marina:0 "[Root.GetRegiaMarinaName]"
- WNG_regia_marina_name:0 "Regia Marina"
- WNG_regia_marina_name_commie:0 "Marina Rossa"
- WNG_regia_marina_name_republic:0 "Marina Militare"
+ WNG_regia_marina_name:0 "왕립 해군"
+ WNG_regia_marina_name_commie:0 "붉은 해군"
+ WNG_regia_marina_name_republic:0 "해군"
  WNG_regia_marina_desc:0 "Wingbardy has long since had a strong naval tradition that allowed it to exert its influence far with a powerful navy. Unfortunately, our navy has fallen upon hard times, and it has both shrunk and become antiquated. It is high time that we rectify this."
  WNG_restart_fleet_expansion:0 "Restart Fleet Expansion"
  WNG_restart_fleet_expansion_desc:0 "A navy is limited by its home ports, and our port facilities have been shown to be inadequate. Before we can begin to properly modernise our navy, we must first improve our dockyards and ports."
@@ -852,7 +852,7 @@
  WNG_naval_projection:0 "Naval Projection"
  WNG_naval_projection_desc:0 "The seas are vast and wide. Why limit our naval actions to the Mediolano or Celestiano when the whole world is out there for us?"
  
- WNG_advanced_torpedo_designs:0 "Advanced Torpedo Designs"
+ WNG_advanced_torpedo_designs:0 "선진 어뢰 설계"
  WNG_advanced_torpedo_designs_desc:0 "Torpedoes are perhaps some of the most effective weapons against ships, and Wingbardy has been at the forefront of their design for decades. We should fund extra research into these devastatingly effective weapons."
  
  WNG_mare_nostrum:0 "Nostro Mare"
@@ -863,9 +863,9 @@
 
 #### AIR ####
  WNG_regia_aeronautica:0 "[Root.GetRegiaAeronauticaName]"
- WNG_regia_aeronautica_name:0 "Regia Aeronautica"
- WNG_regia_aeronautica_name_commie:0 "Aeronautica Rossa"
- WNG_regia_aeronautica_name_republic:0 "Aeronautica Militare"
+ WNG_regia_aeronautica_name:0 "왕립 공군"
+ WNG_regia_aeronautica_name_commie:0 "붉은 공군"
+ WNG_regia_aeronautica_name_republic:0 "공군"
  WNG_regia_aeronautica_desc:0 "Prior to the collapse of the old Empire, Wingbardy was home to one of the most vibrant and active scenes of aeronautics experts on the continent. With our government once more united, we can once again make our nation the cradle of modern aviation."
  WNG_reinvest_in_air:0 "Reinvest in Air Development"
  WNG_reinvest_in_air_desc:0 "Designing a good fighter aircraft requires a degree of technical skill that we currently lack. Offering generous contracts for new models would entice designers to produce a truly modern fighter that we can use to be the pride of our air force."
@@ -878,21 +878,21 @@
  WNG_royal_aronautics_instatute_name_commie:0 "Red Aeronautics Institute"
  WNG_royal_aronautics_instatute_name_republic:0 "Military Aeronautics Institute"
  WNG_royal_aronautics_instatute_desc:0 "Wingbardy has a good number of competing aircraft designer companies, and while competition is normally a great motivator for innovation, it would perhaps be better if their efforts were better coordinated under a centralised body; Wingbardy needs an Aeronautics Institute."
- WNG_radar:0 "Radar Experiments"
+ WNG_radar:0 "레이더 실험"
  WNG_radar_desc:0 "In collaboration with the Aeronautics Institute, Guglielmo Owlivetti has come up with an advanced system for detecting aircraft using radio waves. The tactical implications that these systems provide are extremely tantalising."
- WNG_bomber_focuse:0 "Heavy Bombers"
+ WNG_bomber_focuse:0 "중폭격기"
  WNG_bomber_focuse_desc:0 "Our current bomber designs have a limited bomb capacity and range. New designs for even larger bombers that can carry more ordinance and fly for far longer will allow us to strike harder at our foes from farther away. Not even their homes will be safe from our wrath!"
  WNG_project_thunderflash:0 "Project Thunderflash"
  WNG_project_thunderflash_desc:0 "Some say Guglielmo Owlivetti has gone mad, while others say that his latest creation is his magnum opus. With a flash of light and the roar of thunder, our enemies will turn to ash and dust."
- WNG_g202_folgore:0 "G202 Folgore"
+ WNG_g202_folgore:0 "G202 폴고레"
  WNG_g202_folgore_desc:0 "Accipitri has approached us with schematics for a new fighter aircraft that is fully enclosed and has a more streamlined fuselage than previous models. They've been having trouble finding an engine powerful enough to power it, and have asked us to assist them in the search for a suitable engine."
  WNG_project_slingshot:0 "Project Slingshot"
  WNG_project_slingshot_desc:0 "Gaetano Chocco has worked for years perfecting on a reaction engineer that uses a jet rather than a propeller to create thrust. These consume large amounts of propellant, but put out much more energy than conventional engines. What if we were to strap bombs on them? Perhaps we could even mount them on aircraft..."
 #### ARMY ####
  WNG_regio_esercito:0 "[Root.GetRegioEsercitoName]"
- WNG_regio_esercito_name:0 "Regio Esercito"
- WNG_regio_esercito_name_commie:0 "Esercito Rosso"
- WNG_regio_esercito_name_republic:0 "Esercito Wingbardo"
+ WNG_regio_esercito_name:0 "왕립 육군"
+ WNG_regio_esercito_name_commie:0 "붉은 육군"
+ WNG_regio_esercito_name_republic:0 "윙바르디 육군"
  WNG_regio_esercito_name_fascist:0 "Esercito Nazionale Repubblicano"
  WNG_regio_esercito_desc:0 "Wingbardy once had a mighty army that could once rival that of the Griffonian Empire of old. We have fallen far from grace since then, but with our government once more united, we can begin to give our army the attention that it desperately needs."
  WNG_new_guns:0 "Refund the Firearms Industry"
@@ -2073,7 +2073,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_time_until_conference:0 "Preparations for the Conference"
  WNG_influence_franmistria:0 "Influence [FRN.GetNameDef]"
  WNG_bribe_franmistrian_ministers:0 "Bribe the [FRN.GetAdjective] Nobility"
- WNG_visit_franmistria:0 "Visit [FRN.GetLeader]"
+ WNG_visit_franmistria:0 "[FRN.GetLeader] 방문"
  WNG_influence_franmistria_tt:0 "Will §Yincrease§! the chance of Francistria accepting whatever deal we work out."
  WNG_bribe_franmistrian_ministers_tt:0 "Will §Yreasonably increase§! the chance of Francistria accepting whatever deal we work out."
  WNG_visit_franmistria_tt:0 "Will §Ygreatly increase§! the chance of Francistria accepting whatever deal we work out."
@@ -2109,7 +2109,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
 
  WNG_mafia_decisions_cat:0 "윙바르디 마피아"
  WNG_mafia_decisions_cat_desc:0 "오랫동안 우리나라를 괴롭혀 왔던 윙바르디의 마피아는 최근 몇 년 동안 그들은 모든 방면에서 부정적인 영향을 미치는 전염병이 되었습니다. 많은 그리폰들에게 그들은 팔코르 전쟁 이후 윙바르디는 괴롭히는 부패하고 비효율적인 정부에 대해 안정적인 대안을 제시하고 있지만, 그들의 안정은 폭력과 갈취를 대가로 하고 있습니다. 많은 그리폰들은 이 범죄 조직의 최후를 보고 싶어하지만, 그것은 꽤나 어려운 일일 것입니다."
- WNG_rising_mafia:0 "Rising Mafia Influence"
+ WNG_rising_mafia:0 "커지는 마피아 영향력"
  WNG_tackle_the_mafia:0 "마피아 공격"
  WNG_tackle_the_mafia_desc:0 "경찰들을 이용해서 마피아를 공격합니다. 하지만 비용이 비싼데다 부패와 뇌물이 만연하기 때문에 효과도 별로 없을 것입니다."
  WNG_send_in_grover_gori:0 "그로버 고리를 보내기"
@@ -2130,10 +2130,10 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
 
  WNG_altar_of_the_fatherland_cat:0 "조국의 제단"
  WNG_altar_of_the_fatherland_cat_desc:0 "아크투리우스를 위한 고대 카르티니아 신전에 세워진 조국의 제단은 카르틴 중심부에 서 있는 단일 건축물입니다. 건축 계획은 980년 처음 작성되었지만 공사의 실질적인 시작은 990년 팔코르 전쟁에서의 승리 이후 정부가 프로젝트를 승인한 뒤입니다.\n\n제단은 모든 윙바르디 시민들의 무덤, 사원 그리고 기념물 역할을 수행하는 큰 복합적인 건축물이 될 것입니다. 팔코르 전쟁 기념비가 날개에 위치할 것이며 그곳에 무명 용사들을 위한 무덤이 놓일 것입니다. 중앙의 방은 고대 아크투리우스 신전의 폐허로 지어졌으며 곧 다시 재건될 계획입니다. 그리고 마침내 거대한 입구에는 가리발드 탈로누엘 3세가 직접 축복해준 건축가들이 지은 굼베르토 국왕 기념비가 세워질 것입니다."
- WNG_finish_the_falcor_war_memorial:0 "팔코르 전쟁 기념비 완성"
- WNG_finish_the_gumburto_memorial:0 "굼베르토 1세 기념비 완성"
+ WNG_finish_the_falcor_war_memorial:0 "팔코르 전쟁 추모비 완성"
+ WNG_finish_the_gumburto_memorial:0 "굼베르토 1세 추모비 완성"
  WNG_complete_the_temple_of_arcturius:0 "아크투리우스 신전 완성"
- WNG_finish_the_falcor_war_memorial:0 "팔코르 전쟁 기념비 완성"
+ WNG_finish_the_falcor_war_memorial:0 "팔코르 전쟁 추모비 완성"
  WNG_the_monument_to_liberty:0 "자유의 기념비"
  WNG_build_the_monument_of_the_proletariat:0 "프롤레타리아 기념비"
  WNG_the_spirit_of_the_revolution:0 "혁명의 정신"
