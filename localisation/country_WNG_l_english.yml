@@ -510,7 +510,7 @@
  WNG_greater_power_to_regional_governments:0 "Greater Power to the Regional Governments"
  WNG_greater_power_to_regional_governments_desc:0 "There has long been a schism between the state government of Wingbardy and local city governments. This is something that we must remedy, and the first step to that is to grant more control to the more rural regions over their respective lands."
 
- WNG_give_land_to_the_peasants:0 "Give Land to the Peasants"
+ WNG_give_land_to_the_peasants:0 "농민들에게 토지를"
  WNG_give_land_to_the_peasants_desc:0 "Already the new powers we have granted to the local governments have proven to be effective, so we must move onto the next phase of our plan: To take the massive chunks of land owned by greedy landlords and give them back to those that have nothing."
 
 ### FASCIST ###
@@ -538,7 +538,7 @@
  WNG_legitimise_the_blackwings:0 "검은 날개단 합법화"
  WNG_legitimise_the_blackwings_desc:0 "Beakolini's paramilitary organisation has been key to his political ambitions, and their loyalty to him above all other things is too valuable for the Duce to let go of. By signing their special status into law, the Duce will have his loyal warriors at his beck and call, no matter what happens."
 
- WNG_the_gacerbo_law:0 "The Gacerbo Law"
+ WNG_the_gacerbo_law:0 "가체르보 법"
  WNG_the_gacerbo_law_desc:0 "Beakolini has achieved several of his goals, but the parliament keeps stymying his efforts. To counter this, he has motioned for a parliamentary reform, one that will tip the balance of the scales permanently in the PNF's favour. It is a real shame for the honourable opposition politicians that they will be powerless to stop it once the king gives his approval."
  
   WNG_accountable_only_to_the_king:0 "Accountable Only to the King" 
@@ -547,7 +547,7 @@
  WNG_the_grand_council_of_fascism:0 "파시즘 대평의회"
  WNG_the_grand_council_of_fascism_desc:0 "The bickering politicians almost brought Wingbardy to ruin, but that doesn't mean that the entire system is wholly rotten. If loyal birds who know what truly matters are selected on the council, we can use the flawed parliamentary system in a way that actually benefits Wingbardy."
 
- WNG_control_the_local_governments:0 "Control the Local Governments"
+ WNG_control_the_local_governments:0 "지역 정부 통제"
  WNG_control_the_local_governments_desc:0 "Local authorities have been allowed to run rampant for far too long. How can the nation be united when everygriff is marching in different directions? It's time to reorganise local democracy into a strongly hierarchical system, where the national government controls the direction of policymaking and more importantly, the use of law enforcement."
 
  WNG_war_with_asterion:0 "War with Asterion"
@@ -556,20 +556,19 @@
  WNG_infulence_cyanolisia:0 "Influence Cyanolisia"
  WNG_infulence_cyanolisia_desc:0 "Cyanolisia has a proud military tradition as a military garrison of the Griffonian Empire, but because of the fall of that rotten structure, the country has been left stranded. The Cyanolisians are in need of a new political direction, and we should make them see that fascism is the right direction for them too."
 
- WNG_deal_with_the_bandits:0 "Deal with the Bandits"
+ WNG_deal_with_the_bandits:0 "도적단 처리"
  WNG_deal_with_the_bandits_desc:0 "Griffonstone has collapsed so much it could not even keep its own ancestral realm together. A bandit warlord has taken over the Creeper Mountains and is threatening all civilised people. We must put an end to this unlawful upstart and restore order to the ancient home of griffonkind."
 
  WNG_strike_at_griffenheim:0 "Strike at Griffenheim"
  WNG_strike_at_griffenheim_desc:0 "It is finally time to take our final revenge for the humiliations generations of Grovers have dealt us. No longer will Karthin stand in the shadow of another empire. No longer will Wingbardians be considered second rate. The so-called Griffonian Empire will be relegated to the dustbin of history and the world will learn of Karthinian Supremacy! Onwards to final victory!"
 
-
  WNG_army_experiance_sharing:0 "붉은 군대와의 만남"
  WNG_army_experiance_sharing_desc:0 "The Stalliongradians fought to be free of Equestrian rule, and they have experience in warfare against them, not the least in the use of the tank. While we would need to be subtle about it to not ruffle too many feathers, there is nothing saying we can't trade notes."
 
- WNG_beakolinis_education_reform:0 "Beakolini's Education Reform"
+ WNG_beakolinis_education_reform:0 "비콜리니의 교육개혁"
  WNG_beakolinis_education_reform_desc:0 "If Wingbardy is to prosper, she must ensure that her children are given a good education both physically and mentally. Raising the school-leaving age, introducing new textbooks, reinforcing the status of the teachers (as well as making sure they are loyal to the nation) and giving them plenty of physical exercise will all help to strengthen our children." 
 
- WNG_mass_public_works:0 "Mass Public Works"
+ WNG_mass_public_works:0 "대규모 공공사업"
  WNG_mass_public_works_desc:0 "Unemployment is a scourge not just economically, but morally as well. Conscripting every unemployed griff into a series of infrastructure projects will not only ensure they have a stable income, but also teach them skills useful for the upcoming struggles. It will also help recover our nation from the all-consuming economic crisis and make it strong once again." 
 
  WNG_fix_the_resource_deficit:0 "Fix the Resource Deficit"
@@ -591,9 +590,9 @@
  WNG_joint_naval_training_desc:0 "Aquileia has a proud naval tradition only inferior to ours. The Regia Marina might benefit from some outside perspectives on doctrines and crew training, and a joint naval training would also help cement our newfound friendship."
 
  WNG_economic_agreement:0 "아퀼레이아와의 무역협정"
- WNG_economic_agreement_desc:0 "치아즈비클 조약은 타국들의 팽창주의 때문에 원래 군사 협력에 초점을 맞췄었습니다. 그렇지만, 아퀼레이아와 윙바르디는 무역협정으로도 얻을 것이 많습니다. 양국이 서로를 사상 최고로 신뢰하고 있는 만큼, 조약에 경제와 관련된 조항을 추가해 상호간의 투자를 촉진시킵시다."
+ WNG_economic_agreement_desc:0 "치아즈비클 조약은 타국들의 팽창주의 때문에 원래 군사 협력에 초점을 맞췄었습니다. 그렇지만, 아퀼레이아와 윙바르디는 무역협정으로도 얻을 것이 많습니다. 양국 간의 신뢰도가 사상 최고인 만큼, 조약에 경제와 관련된 조항을 추가해 상호간의 투자를 촉진시킵시다."
 
- WNG_only_fascism:0 "Fascism Only"
+ WNG_only_fascism:0 "파시즘만"
  WNG_only_fascism_desc:0 "The Camera dei Deputati is nothing but a waste of time allowing opposition parties to agitate against the rightful government of the strong. Fascism is the only politics suitable for Wingbardy. Our great nation will be led to a glorious future. A future in which there is no need for opposition."
 
  WNG_found_the_ovra:0 "OVRA 창설"
@@ -675,7 +674,7 @@
  WNG_economic_regeneration_act_desc:0 "If the country is to be stable, Wingbardy must be dragged out of this chronic economic misery. The Economic Regeneration Act is a comprehensive package of laws and budget measures to encourage spending and investment. Investors and the commongriff alike need to see our commitment to solving the crisis."
 
  WNG_full_industralisation:0 "완전한 산업화"
- WNG_full_industralisation_desc:0 "몇 년간의 경제적 문제로 인해, 계속 운영되던 공장들도 제대로 된 투자를 받지 못해 현대 산업 기준에 뒤처져버렸습니다. 경제 위기를 완전히 마무리 지으려면, 윙바르디의 산업을 현대식 산업기계로 무장시켜야만 합니다."
+ WNG_full_industralisation_desc:0 "몇 년간의 경제적 문제로 인해, 계속 운영되던 공장들도 제대로 된 투자를 받지 못해 현대의 산업 기준에 뒤처져버렸습니다. 경제 위기를 완전히 마무리 지으려면, 윙바르디의 산업을 현대식 산업기계로 무장시켜야만 합니다."
 
  WNG_the_royal_intervention:0 "국왕의 개입"
  WNG_the_royal_intervention_desc:0 "국민회의가 과격한 극단주의로부터 국가를 지키지도, 나라의 법치를 회복하지도 못한 만큼, 가리발드 탈로누엘 국왕이 현 국회를 당분간 해산시키고 왕실 대권을 이용해 직접 입법권과 행정권을 행사할 것입니다."
@@ -687,7 +686,7 @@
  WNG_reach_out_to_the_common_griffon_desc:0 "The citizens of Wingbardy are tired of the continuous political turmoil, but many of them are principally against the royal takeover. The King will need to sway supporters of liberal, fascist and socialist parties alike of his noble intentions or his government will collapse before it even gets started."
 
  WNG_secure_army_loyalty:0 "군 충성 확보"
- WNG_secure_army_loyalty_desc:0 "The Royal Military has long been the darling of the nation, especially after the arduous conflict with Falcor. Many officers are already loyal to their King, but the military contains fascist and communist supporters as well. The King will need to use his charms and his image as the Soldier King to the fullest effect if he wants to remind these soldiers of their duty to the nation."
+ WNG_secure_army_loyalty_desc:0 "왕립군은 오랫동안 나라의 사랑을 받아왔으며, 특히 팔코르와의 처절한 전쟁 이후로는 더더욱 사랑을 받았습니다. 대부분의 장교는 이미 국왕에게 충성을 다하고 있지만, 군대 내에는 파시즘이나 공산주의를 지지하는 자들 또한 여전히 존재합니다. 이들에게 국가에 대한 의무를 상기시키려면, 가리발드 국왕은 자신의 매력과 군인 왕으로서의 인상을 최대한 활용해야 할 것입니다."
 
  WNG_placate_the_interlectuals:0 "Placate the Intellectuals"
  WNG_placate_the_interlectuals_desc:0 "The universities and upper class salons have been a hotbed of pro-democracy protest ever since parliament has been dismissed. Young griffons riled up by extremist professors and socialist agitators. By promising investment and scientific and cultural programs, the government should be able to calm down all but the most idealistic intellectuals."
@@ -719,7 +718,7 @@
  WNG_one_night_in_griffenheim:0 "그리펜하임에서의 하룻밤"
  WNG_one_night_in_griffenheim_desc:0 "972년, 그로버 5세의 12번째 생일을 축하하는 거대한 파티가 그리펜하임에서 열렸습니다. 여기엔 가리발드 탈로누엘 왕자도 아버지 굼베르토 1세와 함께 참석했었습니다.\n\n이날 밤은, 가리발드 탈로누엘이 절대 잊지 못할 밤이었습니다."
 
- WNG_bastion_of_the_south:0 "Bastion of the South"
+ WNG_bastion_of_the_south:0 "남부의 방패"
  WNG_bastion_of_the_south_desc:0 "Wingbardy has no need to expand beyond her current borders. Our country will weather the storm. If necessary for years, if necessary, alone. We will defy all those expansionist states who come to conquer us for some greater ideology or simply to add our jewel to their crown. Let them come. We will be prepared!"
 
  WNG_royal_works:0 "The Royal Works"
@@ -746,12 +745,12 @@
  WNG_secure_the_lakeside:0 "Secure the Lakeside"
  WNG_secure_the_lakeside_desc:0 "It is almost time for the grand war against Griffenheim, but first our western flank must be secured. Francistria and Arantiga are vulnerable as long as they are bordered by the weak and unstable nations of Verenia. We will take this area into our protection to ensure that the next war is not fought on the soil of pact nations."
 
- WNG_the_war_of_vengence:0 "The War of Vengeance"
+ WNG_the_war_of_vengence:0 "복수의 전쟁"
  WNG_the_war_of_vengence_desc:0 "In 972 ALB, King Gumberto I of Wingbardy was assassinated at the birthday party of Grover V. His heir, King Garibald seceded from the Empire after this heinous act, but never found out the culprit because of  cover ups from Griffenheim. Wingbardy has not forgotten the murder of her beloved King. Wingbardy cries out for vengeance. Our battle cry will be: ‘Justice for Gumberto!'"
 
 
 ### Industry ###
- WNG_reignite_the_industrial_sector:0 "Reignite the Industrial Sector"
+ WNG_reignite_the_industrial_sector:0 "산업 분야 재점화"
  WNG_reignite_the_industrial_sector_desc:0 "Wingbardy's industry was once the envy of all Griffonia, but it has stagnated for years, falling into disarray. We must reignite this nation's industrial spark to ensure that once again Wingbardy comes out on top."
 
  WNG_build_a_military_economy:0 "군사 경제 건설"
@@ -759,6 +758,7 @@
 
  WNG_university_of_feathara:0 "페더라 대학교"
  WNG_university_of_feathara_desc:0 "페더라 대학교는 그리포니아 남부에서 가장 오래된 교육기관입니다. 대학에 자금을 좀 더 제공한다면, 더 많은 학생이 대학에서 교육을 받을 수 있게 되어, 윙바르디의 교육은 다른 나라들보다 앞서 나갈 수 있게 될 것입니다."
+ 
  WNG_expand_the_rubber_industry:0 "Expand the Rubber Industry"
  WNG_expand_the_rubber_industry_desc:0 "Many modern machine components require vulcanised rubber, and our current production isn't sufficient for a growing industry. We can expand current facilities to extract more rubber from our territories."
 
@@ -766,7 +766,7 @@
  WNG_create_agwp_desc:0 "In this age of mass industry, we will need to expand and control our gasoline production if we are to compete. The Azienda Generale Wingbardia Petroli will be formed to oversee our oil industry. To prevent any private interests from harming its growth, we will nationalize our country's subsoil and ban any unapproved oil-related activities."
 
  WNG_librasia_talocana:0 "리브라시아-탈론카나 송유관"
- WNG_librasia_talocana_desc:0 "Like a body has veins, a modern country requires pipelines running through it. The Librarsia region is already well-connected to Karthin but we will need to build a new pipeline connecting it to Taloncana."
+ WNG_librasia_talocana_desc:0 "마치 몸에 피가 흐르는 혈관이 있듯이, 현대 국가에는 석유가 흐를 송유관이 필요합니다. 리브라시아 지역이 이미 카르틴과 잘 연결되어 있기는 해도, 여기에서 탈론카나 지역까지 연결해줄 송유관이 아직 필요합니다."
 
  WNG_synthethic_oil_exp:0 "Create the AGWP - DRPS"
  WNG_synthethic_oil_exp_desc:0 "Extracting what little oil the gods have seen fit to provide us with will only take us so far. We will need alternatives to fuel our economy and military. Thus, we will create the Divisione di Raffinata e Produzione Sintetica within the AGWP to refine imported crude oil and explore synthetic gasoline production."
@@ -815,9 +815,9 @@
  WNG_renew_the_southern_alliance_desc:0 "Our allies have long stood by us. We should renew our commitment to peace and security in the South. Together we shall stand against any foe."
  WNG_alliance_with_the_minotaurs:0 "조약 확장"
  WNG_alliance_with_the_minotaurs_desc:0 "그리포니아 남부의 자유와 윙바르디의 주도적 지위를 진정으로 보장하기 위해선, 카르티니아 조약을 확장할 필요가 있습니다. 북쪽의 팽창주의자들과 사악한 공산주의의 괴물을 막으려면, 우린 함께해야만 합니다."
- WNG_southern_sociaty_of_science:0 "Southern Society of Science"
+ WNG_southern_sociaty_of_science:0 "남부 과학협회"
  WNG_southern_sociaty_of_science_desc:0 "The Southern States were once the home of the greatest of griffon minds. We should build a united research and development society to help bring us back to the forefront of the world."
- WNG_southern_security_council:0 "Southern Security Council"
+ WNG_southern_security_council:0 "남부 안전보장이사회"
  WNG_southern_security_council_desc:0 "With the growing tensions on the continent, we must form a unified strategy with our allies. Establishing a council of alliance members is the first step in achieving this."
 
 ### NAVY ###
@@ -1096,7 +1096,7 @@
  wingbardy.37.d:0 "윙바르디 자유당의 지도자 조반니 졸리티는 최근 조반니 안토니아 골론나와 급진파 정당 윙바르디 사회민주당의 지도자들과 우리의 연립 정부 참여에 대해 대화를 해왔습니다. 조반니 졸리티는 그의 정치적 입지를 통해 사회민주당의 지원을 이끌어내는데 성공했고, 이제 비콜리니와 국가파시스트당을 지지할 준비가 끝난 것 같습니다. 이를 통해 우리는 국민 회의에서 우위를 점할 수 있고 윙바르디의 파시즘을 확보하는 데 필요한 법들을 통과시킬 수 있는 추진력을 얻을 수 있을 것입니다."
  wingbardy.37.a:0 "급진파들은 그들이 생각했던 것보다 더 많은 변화를 겪을 것이다."
 
- wingbardy.38.t:0 "The Gacerbo Law"
+ wingbardy.38.t:0 "가체르보 법"
  wingbardy.38.d:0 "Initially created by a PNF economist named Giacomo Gacerbo, the Gacerbo Law is a proposal for a parliamentary reform aimed at the proportions of deputies each party will gain in elections.\n\nThe law would grant the party got the largest share of the votes, provided that they had at least twenty-five percent of them, two-thirds the seats in the Chamber of Deputies.\n\nThe PNF and its allies have stressed that this is the only way to end the political deadlock that has plagued Wingbardy since the Falcor War. By granting the most popular party a majority reforms needed to improve the economic and welfare situation of the common Wingbardian can be forced through without the standard opposition and petty infighting that has caused the dire situation the country had found itself in.\n\nOpponents of the law however see this as northing sort of a power-grab by Beakolini and the PNF and proof that Beakolini is not at all interested in bipartisan politics or compromise. However, there are murmurings in the chamber that Beakolini does have a point and the current political situation is unfixable without a radical solution.\n\nRegardless the PNF will have a lot of work to do to ensure that the majority of Deputies will vote in favour of the law."
  wingbardy.38.a:0 "Let us hope it goes through without a hitch."
 
@@ -1137,7 +1137,7 @@
  wingbardy.47.a:0 "Beakolini is innocent. The trial should go ahead."
  wingbardy.47.b:0 "Pull strings to get them off without charge."
 
- wingbardy.48.t:0 "A New Plan"
+ wingbardy.48.t:0 "새로운 계획"
  wingbardy.48.d:0 "The failure of the Gacerbo Law to pass have been a devastating blow to our efforts in Wingbardy. Without it, the parliament will continue to delay and hinder Beakolini in pushing forward his plans. Now that our motion to achieve full dominance in Wingbardian politics has failed, it is clear that our only option left is to take much more drastic measures.\n\nPlans are already being drawn up for a coup of the current government. Though it is unfortunate, acting against the king and those that oppose Beakolini is not only necessary to advance our interests, it is necessary for the future of Wingbardy itself. The Blackwings, the PNF and the rest of those loyal to fascism are already preparing for what must be done."
  wingbardy.48.a:0 "Let's hope Plan B goes well."
 
@@ -1150,13 +1150,13 @@
  wingbardy.50.d:0 "불안한 정세가 전면적인 내전으로 폭발하면서 긴장감이 최고조에 달했습니다. 대부분 공화주의자, 사회주의자, 공산주의자로 구성된 반파시스트 세력은 "민족해방위원회"가 이끄는 단일 깃발 아래 결속되었습니다. 위원회는 윙바르디 공산당의 안토니노 프롤레타리노, 윙바르디 사회당의 지오반니 가치, 그리고 윙바르디 인민당의 지오반니 데 가스프빈지를 중심으로 한 광범위한 정당의 연합으로 구성되어 있습니다.\n\n한편 팔코르와 아스볼루스에서 비콜리니는 전쟁을 끝내기 위한 탈로누엘 국왕의 축복을 받았고, 이제 혁명을 진압하기 위해 나머지 왕당파들과 검은 날개단을 이끌고 있습니다. 전투가 전국적으로 발생하면서 양쪽 모두 필사적으로 싸울 의지를 다지고 있는 듯 합니다. 누가 승리를 거둘지는 아직 확실하지 않습니다."
  wingbardy.50.a:0 "혁명 만세!"
 
- wingbardy.51.t:0 "The Civil War is Over!"
+ wingbardy.51.t:0 "내전의 종식!"
 wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is finally over. The former king has fled the nation and Beakolini is nowhere to be found. The few remaining fascists have surrendered this morning as the flags of freedom wave above the cities of Wingbardy and the common griffons celebrate the return of peace. \n\nHowever, with the fascists and reactionaries out of the picture the NLC is starting to turn on itself. Socialists, communists, and republicans who were once allies in the revolution are dividing themselves and seeking to secure power for their own side. As the war ends, the future of Wingbardy remains uncertain."
  wingbardy.51.d_war:0 ""With the fall of the last fascist strongholds the civil war is finally over. The former king has fled the nation and Beakolini is nowhere to be found. The few remaining fascists have surrendered this morning as the flags of freedom wave above the cities of Wingbardy. However the fight still goes on!\n\nThe Francistrians, now allied with the fascists, have vowed to continue to fight the revolution. Wingbardy cannot be safe until the reactionary and fascist forces crossing our borders are finally dealt with and freedom is brought to the Francistrians. Only then can we have peace."
- wingbardy.51.a:0 "Now to rebuild."
- wingbardy.51.b:0 "Avanti! To victory!"
+ wingbardy.51.a:0 "이제 재건을 시작할 시간이다."
+ wingbardy.51.b:0 "전진! 승리를 향하여!"
 
- wingbardy.52.t:0 "The Coup"
+ wingbardy.52.t:0 "쿠데타"
  wingbardy.52.d:0 "Chaos temporarily gripped Karthin today as the PNF and the Blackwings have forcibly seized control of the government, taking complete control over the parliament. The Chamber of Deputies was almost immediately secured with the various ministers rounded up, and the King's Palace was locked down. All across the nation, local governments either complied with the new leaders or were forced to at gunpoint, ensuring that there was no possible pushback. As soon as Wingbardy was confirmed secure, Beakolini announced a state of emergency due to recent events and instated martial law across the entire nation. Though he assured Wingbardians that this was only temporary, there was also not a set time or date when it would be lifted.\n\nWhile our mission to secure our control was a success, and now we are unopposed in going forward with our goals, there is still one last issue to address. King Garibald Talonuel III, the ruler of Wingbardy is still inside his palace, guarded by our most loyal Blackwings. This would be a rare opportunity to dispose of the king if we so wish, as he no longer wields any real power. With the current situation, not many griffons would be able to object. However, the king is still beloved by many of his people, and the soldiers of Wingbardy. Allowing him to remain, even if only as a puppet, may be more beneficial to Beakolini and the country as a whole."
  wingbardy.52.a:0 "We can keep the king as a puppet."
  wingbardy.52.b:0 "Fascism has no need for corrupt kings."
