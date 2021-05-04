@@ -17,7 +17,7 @@
  WNG_blackwings:0 "검은 날개단"
  WNG_the_grand_council_of_fascism_idea:0 "파시즘 대평의회"
  WNG_martial_law:0 "계엄령"
- WNG_mass_public_works_idea:0 "Mass Public Works"
+ WNG_mass_public_works_idea:0 "대규모 공공사업"
  WNG_productivism_idea:0 "생산주의"
  WNG_autarky_idea:0 "윙바르디 자급경제"
  WNG_liberty_or_death:0 "자유 아니면 죽음을"
@@ -247,10 +247,10 @@
  WNG_secure_police_support:0 "Sway the Carabinieri"
  WNG_secure_police_support_desc:0 "Look, we do not deny the carabinieri have been heavy clawed towards the red guard and other socialist gatherings before, but most of them hate the blackwing rabble even more. As long as they know we will not let the country descend into anarchy, the police will join forces with us. Do we not require every griffon who can shoot a rifle?"
 
- WNG_promise_labour_reforms:0 "Promise Labour Reforms"
+ WNG_promise_labour_reforms:0 "노동 개혁 약속"
  WNG_promise_labour_reforms_desc:0 "Past governments have not been able to get us out of the economic slump, that much is true. But the conservatives were the ones stopping reforms to the labour market to ensure you would all earn a living wage, and now they'd rather throw in their lot with Beakolini than pay you what you are due! Sweep them aside in the upcoming battle, and a new democratic government will deliver for every griffon in Wingbardy!"
 
- WNG_establish_the_national_transitional_government:0 "The Transitional Government"
+ WNG_establish_the_national_transitional_government:0 "과도 정부"
  WNG_establish_the_national_transitional_government_desc:0 "The civil war is over and democracy has triumphed! The griffons of Wingbardy have saved the country from a dark path at the final moment and now the flag of the Republic flies proudly over the Chamber of Deputies! The National Transitional Government will ensure the future of Wingbardy gets decided by every griffon, by means of a truly democratic election. Long live the Republic!"
  national_transitional_government:0 "National Transitional Government"
 
@@ -319,7 +319,7 @@
  WNG_boost_infrastructure_funding:0 "Fund Infrastructure"
  WNG_boost_infrastructure_funding_desc:0 "The state of the road and rail networks is regrettable. In the short term, delaying infrastructure maintenance was a good way to somewhat save the budget in the crisis years, but that delay has cost us now. We will have to connect rural areas to the network and replace asphalt, expand train stations and a thousand other small infrastructure improvements."
 
- WNG_lazius_fair:0 "Welfare and Prosperity"
+ WNG_lazius_fair:0 "복지와 번영"
  WNG_lazius_fair_desc:0 "Economic thinkers have long said welfare and prosperity are opposing goals, putting the interests of companies against those of individuals. However, with a strong internal market, increasing the welfare of the citizen with good wages and good labour protections is a path to also increasing spending and so prosperity."
 
  WNG_the_karthinian_restoration:0 "The Karthinian Restoration"
@@ -401,7 +401,7 @@
  WNG_end_pony_tyrany_over_griffons:0 "End Pony Tyranny over Griffons"
  WNG_end_pony_tyrany_over_griffons_desc:0 "Comrades, right on our borders a tragedy unfolds every dawn. Every dawn, griffon workers wake up under the tyranny of a pony elite. While we of course respect the ponies their right to their ancestral homelands in Equus and even in Eastern Griffonia, this is simply too much. Wingbardy must liberate the griffons of New Mareland."
 
- WNG_liberate_falcor:0 "Liberate Falcor"
+ WNG_liberate_falcor:0 "팔코르 해방"
  WNG_liberate_falcor_desc:0 "Decades ago, the warlords and the war profiteers stirred up a war between Wingbardy and Falcor, which led to a tragic loss of life and much misery. The new Wingbardy no longer resents Falcorian worker for the crimes of their overlords and simply seeks to liberate them from this oppression. The oppressor surely will run before us instead of sending more of his chained workers to fight and die a needless death."
 
  WNG_spread_the_revolution_east:0 "Spread the Revolution East"
@@ -451,10 +451,10 @@
  WNG_negotiate_with_the_PWDA:0 "정치인들의 지혜"
  WNG_negotiate_with_the_PWDA_desc:0 "Even if the government and the recent coalition has once again failed in times of crisis, we must not lose faith in our democracy. For the future of Wingbardy we must convince the Partito Popolare Wingbardo, now the most popular centrist party to rally together, and find a new coalition to finally bring an end to this deadlock."
 
- WNG_crackdown_on_the_fascists:0 "Hunt Blackwing Commanders"
- WNG_crackdown_on_the_fascists_desc:0 "Despite the ease of the military in defeating the Blackwings and their plans of a march on Karthin, many of their leaders still remain in hiding, continuing to plot against our government. We must crackdown and find these remnants to ensure that they will never pose a threat to our nation again."
+ WNG_crackdown_on_the_fascists:0 "검은 날개단 지도층 추적"
+ WNG_crackdown_on_the_fascists_desc:0 "군대가 검은 날개단을 물리치고 카르틴 진군을 멈췄음에도 불구하고, 여전히 검은 날개단의 여러 지도자들은 어딘가에 숨은 채 정부에 대항하여 음모를 꾸미고 있습니다. 이 패잔병들이 다신 나라를 위협하지 못하도록, 이들을 찾아 체포해야만 합니다."
 
- WNG_invite_gallus_to_speak:0 "The Equestrian Connection"
+ WNG_invite_gallus_to_speak:0 "이퀘스트리아와의 연줄"
  WNG_invite_gallus_to_speak_desc:0 "Without the consultation of King or Parliament, Deputy De Gaspwingi has sent out an invitation to the land of Equestria, inviting a griffon friend of the Princess of Friendship to Wingbardy. Since this was a letter sent from a Deputy to a foreign leader, it should have been authorized. After a private meeting De Gaspwingi has apologized for the incident, and we can only hope this doesn't cause any issues."
 
  WNG_hold_new_elections:0 "한 번만 더..."
@@ -550,7 +550,7 @@
  WNG_control_the_local_governments:0 "지역 정부 통제"
  WNG_control_the_local_governments_desc:0 "Local authorities have been allowed to run rampant for far too long. How can the nation be united when everygriff is marching in different directions? It's time to reorganise local democracy into a strongly hierarchical system, where the national government controls the direction of policymaking and more importantly, the use of law enforcement."
 
- WNG_war_with_asterion:0 "War with Asterion"
+ WNG_war_with_asterion:0 "아스테리온과의 전쟁"
  WNG_war_with_asterion_desc:0 "The minotaurs are a strange race with strange convictions. They occupy a strategic archipelago of islands and are fearsome in combat. It is hard to know what they are planning to do with the griffon lands surrounding them, so to ensure our national security, Wingbardy will strike them pre-emptively. "
 
  WNG_infulence_cyanolisia:0 "Influence Cyanolisia"
@@ -586,7 +586,7 @@
  WNG_support_griffonstone:0 "그리폰스톤 지원"
  WNG_support_griffonstone_desc:0 "Ever since the collapse of the Griffonian Empire, Griffonstone has had internal security problems which have occupied its limited military capacity. If they are to be a bulwark against northern expansionism, the Griffonstoners must be armed properly. Luckily, the national armoury has a few spare rifles and artillery pieces lying around."
 
- WNG_joint_naval_training:0 "Joint Naval Training"
+ WNG_joint_naval_training:0 "합동 해군 훈련"
  WNG_joint_naval_training_desc:0 "Aquileia has a proud naval tradition only inferior to ours. The Regia Marina might benefit from some outside perspectives on doctrines and crew training, and a joint naval training would also help cement our newfound friendship."
 
  WNG_economic_agreement:0 "아퀼레이아와의 무역협정"
@@ -698,10 +698,10 @@
  WNG_clamp_down_on_political_extreamists_desc:0 "The rotten and empty promises of communism and fascism have cast their bloody shadow over Wingbardy for too long. The government has tolerated these totalitarian philosophies for too long. Now that the King is firmly in control, it is time to take action against any organisation that propagates extremism."
 
  WNG_absolute_rule:0 "절대 통치"
- WNG_absolute_rule_desc:0 "윙바르디의 민주주의 실험은 역경을 조금도 견디지 못한 채 붕괴하면서 실패로 끝나고 말았습니다. 외부와 내부의 위협으로부터 나라를 지키려면, 고귀한 국왕의 힘이 필요합니다. 국왕은 국왕 자신이 국정을 영구히 절대적으로 다스릴 수 있도록 개헌을 강행할 것입니다."
+ WNG_absolute_rule_desc:0 "윙바르디의 민주주의 실험은 역경을 조금도 견디지 못한 채 무너지면서 실패로 끝나고 말았습니다. 외부와 내부의 위협으로부터 나라를 지키려면, 고귀한 국왕의 힘이 필요합니다. 국왕은 국왕 자신이 국정을 영구히 절대적으로 다스릴 수 있도록 개헌을 강행할 것입니다."
 
  WNG_appease_the_moderates:0 "중도파 달래기"
- WNG_appease_the_moderates_desc:0 "1007 was an exceptional moment in Wingbardian history, and while royal intervention was necessary, that does not prove that liberal ideas are entirely without merit. To appease the democrats, we will reduce repression and promise to gradually reform back to a parliamentary system when the crisis has abated."
+ WNG_appease_the_moderates_desc:0 "1007년은 윙바르디 역사에 있어 매우 특이한 해였으며, 국왕의 개입은 꼭 필요한 것이었으나, 그렇다 해서 자유주의적 사상이 완전히 쓸모 없는 것은 아닙니다. 민주주의자들을 달랠 수 있도록 탄압을 줄이고, 위기가 끝나면 의원 내각제로의 점진적인 복귀를 약속합시다."
 
  WNG_the_commoners_king:0 "평민들의 대왕"
  WNG_the_commoners_king_desc:0 "The King is loved by the people as the one figure who saved Wingbardy from civil war. Soldiers are said to tuck photos of the King into their uniforms, believing that carrying his likeness will grant them favour with Arcturius. It is time to capitalise on that popularity!\n\nAvanti Wingbardia! Avanti Talonuel!"
@@ -733,8 +733,8 @@
  WNG_finish_the_fight:0 "Finish the Fight"
  WNG_finish_the_fight_desc:0 "The Falcor War almost resulted in a loss for our country in 989, but the river Piumave flooded in a freak storm, halting the Falcorian offensive and giving our soldiers a chance to rout the Falcorian first army and end the war on favourable terms. The Falcorians have never truly forgiven us for the blow we dealt to their country and we have to defeat them again to secure the homeland."
 
- WNG_unite_the_kingdoms:0 "Unite the Kingdoms"
- WNG_unite_the_kingdoms_desc:0 "For too long the Kingdoms of Falcor and Wingbardy have fought against each other. Falcorians and Wingbardians are brothers with a shared language and heritage. With the final victory over Falcor achieved it is only right to unite the two crowns once and for all into a single united realm."
+ WNG_unite_the_kingdoms:0 "왕국의 통일"
+ WNG_unite_the_kingdoms_desc:0 "팔코르 왕국과 윙바르디 왕국은 너무 오랫동안 서로 싸워 왔습니다. 팔코르와 윙바르디의 그리폰들은 같은 언어와 핏줄을 가진 형제입니다. 이제 팔코르 왕국에 대한 최후의 승리를 이뤘으니, 두 왕국을 하나의 통일된 왕국으로 합칠 때입니다."
 
  WNG_secure_loyalty:0 "Secure Loyalty"
  WNG_secure_loyalty_desc:0 "The Karthinian Pact ties Wingbardy to the Transfolinian countries of Talouse, Francistria and Arantiga. Together with Wingbardy, these three countries form a strong southern block to ward off any invasion from the west, curbing Aquileian ambitions in the region. To keep it this way, the three smaller countries must pledge allegiance to Wingbardy and allow us to guide their foreign policy."
@@ -826,11 +826,11 @@
  WNG_regia_marina_name_commie:0 "붉은 해군"
  WNG_regia_marina_name_republic:0 "해군"
  WNG_regia_marina_desc:0 "Wingbardy has long since had a strong naval tradition that allowed it to exert its influence far with a powerful navy. Unfortunately, our navy has fallen upon hard times, and it has both shrunk and become antiquated. It is high time that we rectify this."
- WNG_restart_fleet_expansion:0 "Restart Fleet Expansion"
+ WNG_restart_fleet_expansion:0 "함대 확장 재개"
  WNG_restart_fleet_expansion_desc:0 "A navy is limited by its home ports, and our port facilities have been shown to be inadequate. Before we can begin to properly modernise our navy, we must first improve our dockyards and ports."
  WNG_dominate_the_seas:0 "Dominate the Seas"
  WNG_dominate_the_seas_desc:0 "The concept of a fleet in being dictates that a navy must be able to field large and powerful warships that can exert their influence well beyond the ports that they occupy. As such, new and modern capital ships will best suit this strategy."
- WNG_high_seas_fleet:0 "High Seas Fleet"
+ WNG_high_seas_fleet:0 "공해 함대"
  WNG_high_seas_fleet_desc:0 "Naval theorists have often pondered upon the limits of up-gunning and up-armouring battleships, and some theorise that there might be such a thing as a battleship that is simply too big to sink. Such a vessel will be incredibly expensive and slow to produce, but it will instil fear into the hearts of our naval rivals."
  WNG_carriers:0 "항공모함"
  WNG_carriers_desc:0 "We have heard about Equestrians using large vessels that can act as mobile sea airstrips, and while some of the Admiralty scoff at the notion, many are intrigued by the idea. Griffons have always been inextricably linked to the sky, so why not combine our nature with our naval traditions?"
@@ -852,7 +852,7 @@
  WNG_naval_projection:0 "Naval Projection"
  WNG_naval_projection_desc:0 "The seas are vast and wide. Why limit our naval actions to the Mediolano or Celestiano when the whole world is out there for us?"
  
- WNG_advanced_torpedo_designs:0 "선진 어뢰 설계"
+ WNG_advanced_torpedo_designs:0 "진보된 어뢰 설계"
  WNG_advanced_torpedo_designs_desc:0 "Torpedoes are perhaps some of the most effective weapons against ships, and Wingbardy has been at the forefront of their design for decades. We should fund extra research into these devastatingly effective weapons."
  
  WNG_mare_nostrum:0 "Nostro Mare"
@@ -867,12 +867,12 @@
  WNG_regia_aeronautica_name_commie:0 "붉은 공군"
  WNG_regia_aeronautica_name_republic:0 "공군"
  WNG_regia_aeronautica_desc:0 "Prior to the collapse of the old Empire, Wingbardy was home to one of the most vibrant and active scenes of aeronautics experts on the continent. With our government once more united, we can once again make our nation the cradle of modern aviation."
- WNG_reinvest_in_air:0 "Reinvest in Air Development"
+ WNG_reinvest_in_air:0 "항공개발 재투자"
  WNG_reinvest_in_air_desc:0 "Designing a good fighter aircraft requires a degree of technical skill that we currently lack. Offering generous contracts for new models would entice designers to produce a truly modern fighter that we can use to be the pride of our air force."
  WNG_cas:0 "CAS"
  WNG_cas_desc:0 "Fighters alone cannot win the war in the air. Bombers designed for close air support and tactical bombing will offer us a flexibility that will prove essential in establishing our supremacy of the skies."
- WNG_build_airbase:0 "Airbase Expansion"
- WNG_build_airbase_desc:0 "We may have the aircraft, but they lack the facilities and hangars from which to carry out missions. Improving our current airbases will allow us to maintain more planes in the air for longer."
+ WNG_build_airbase:0 "공군기지 확장"
+ WNG_build_airbase_desc:0 "우리에게 비행기는 있어도, 기지로 사용할 시작할 시설과 격납고는 부족합니다. 현존하는 우리 공군기지를 개선한다면, 작전에 더 많은 비행기를 더 오랫동안 투입할 수 있을 것입니다."
  WNG_royal_aronautics_instatute:0 "[Root.GetRoyalAronauticsInstatuteName]"
  WNG_royal_aronautics_instatute_name:0 "Royal Aeronautics Institute"
  WNG_royal_aronautics_instatute_name_commie:0 "Red Aeronautics Institute"
@@ -899,14 +899,14 @@
  WNG_new_guns_desc:0 "Our weapons are mostly comprised of old models of rifles that are beginning to show their age. Offering some incentives to firearms manufacturers like Beaketta would hasten the development of newer weapons."
  WNG_new_ideas:0 "Promote Young Officers"
  WNG_new_ideas_desc:0 "Previous wars have relied upon mass infantry, and our old doctrines are centred around them. However, with the advent of armoured fighting vehicles and trucks, it is clear that the Wingbardian General Staff needs new blood so that it can explore new doctrines based on this new way to wage war."
- WNG_tanks:0 "Tank Designs"
+ WNG_tanks:0 "전차 설계"
  WNG_tanks_desc:0 "Following the advice from our reformed General Staff, new designs for lightweight and speedy tanks have to be drawn up to comply with the Army's new land doctrines. These vehicles will be the spearhead that will pierce through the armour of our enemies."
- WNG_logistical_corpes:0 "Expand the Logistical Corps"
+ WNG_logistical_corpes:0 "병참군단 확장"
  WNG_logistical_corpes_desc:0 "Our armies are outpacing our current supply trains and messaging systems, jeopardising the integrity of our fighting forces and their capacity to drive far and deep into enemy territory. Focusing on improving and integrating logistical and signal battalions to support our faster divisions will make our forces more effective."
  WNG_refund_officers_school:0 "[Root.GetRefundOfficersSchoolName]"
- WNG_refund_officers_school_name:0 "The Royal Military Academy of Clawssino"
+ WNG_refund_officers_school_name:0 "클로시노 왕립 사관학교"
  WNG_refund_officers_school_name_commie:0 "Pardon the Old Guard"
- WNG_refund_officers_school_name_republic:0 "The Military Academy of Clawssino"
+ WNG_refund_officers_school_name_republic:0 "클로시노 사관학교"
  WNG_refund_officers_school_desc:0 "Tanks, trucks and other new tools of war have their place, but in the end, war revolves around the common fighting griffon. The current General Staff is well-versed in this field, and they can improve upon their prior knowledge."
  WNG_reserve_divisions:0 "Reserve Divisions"
  WNG_reserve_divisions_desc:0 "Our land forces will require massive numbers of griffons to fully strengthen our divisions, but current recruitment drives won't allow for reserves. New campaigns to instil into able-bodied Wingbardians as sense of duty to serve the nation will go a long way to resolve this issue."
@@ -914,13 +914,13 @@
  WNG_artilery_desc:0 "Asides from the fighting griffon, artillery has defined the history of warfare. While the concept hasn't really changed, the equipment does, and we can improve upon our current artillery designs to rain more death upon our enemies."
  WNG_alati:0 "Montanari Alati"
  WNG_alati_desc:0 "Previous wars have given rise to certain soldiers that distinguished themselves as particularly tenacious and disciplined, the Montanari Alati, proving to be the cream of the crop of Wingbardy's infantry. This elite group traditionally fills mountaineer and airborne corps, and though they are powerful in their own right, the corps can always be expanded upon."
- WNG_royal_support_corpes:0 "Royal Support Corps"
+ WNG_royal_support_corpes:0 "왕립 지원군단"
  WNG_royal_support_corpes_desc:0 "There is more to an army than its weapons and soldiers. The support staff and medical personnel have always been integral in military history, but we can form dedicated battalions suited specifically to support the fighting griffons of an army."
- WNG_division_reformation:0 "Division Reformation"
+ WNG_division_reformation:0 "사단 개혁"
  WNG_division_reformation_desc:0 "The Wingbardian army is organized around a somewhat archaic divisional structure, dating back to the days of the Griffonian Empire. By reorganizing our divisions among more modern lines, we can increase the flexibility of individual battalions while decreasing chain-of-command overhead."
  WNG_old_ideas:0 "Old Ideas"
  WNG_old_ideas_desc:0 "Although diving headfirst into doctrinal experimentation might be tempting, we cannot afford to gamble with Wingbardy's security. The Wingbardian army has traditionally focused on a strong core of infantry, and there is no reason to stray from that now."
- WNG_armoured_trucks:0 "Armoured Trucks"
+ WNG_armoured_trucks:0 "장갑 트럭"
  WNG_armoured_trucks_desc:0 "The mobility that trucks give to infantry formation has been a massive boon to our military, but their armor leaves much to be desired. By reinforcing the vehicle's body with armor and adding mounted weapons, we can ensure that small arms fire will no longer threaten our motorized formations."
  WNG_blackclaw_rangers:0 "Elite Unit Training"
  WNG_blackclaw_rangers_desc:0 "As warfare continues to advance, the necessity of specialized formations of troops has become more apparent. By investing in the training of such troops, Wingbardy can achieve a greater degree of strategic flexibility."
@@ -1100,9 +1100,9 @@
  wingbardy.38.d:0 "Initially created by a PNF economist named Giacomo Gacerbo, the Gacerbo Law is a proposal for a parliamentary reform aimed at the proportions of deputies each party will gain in elections.\n\nThe law would grant the party got the largest share of the votes, provided that they had at least twenty-five percent of them, two-thirds the seats in the Chamber of Deputies.\n\nThe PNF and its allies have stressed that this is the only way to end the political deadlock that has plagued Wingbardy since the Falcor War. By granting the most popular party a majority reforms needed to improve the economic and welfare situation of the common Wingbardian can be forced through without the standard opposition and petty infighting that has caused the dire situation the country had found itself in.\n\nOpponents of the law however see this as northing sort of a power-grab by Beakolini and the PNF and proof that Beakolini is not at all interested in bipartisan politics or compromise. However, there are murmurings in the chamber that Beakolini does have a point and the current political situation is unfixable without a radical solution.\n\nRegardless the PNF will have a lot of work to do to ensure that the majority of Deputies will vote in favour of the law."
  wingbardy.38.a:0 "Let us hope it goes through without a hitch."
 
- wingbardy.39.t:0 "The Early Election"
+ wingbardy.39.t:0 "조기 선거"
  wingbardy.39.d:0 "The polls were once again opened to all Wingbardians today, for the recent passing of the Gacerbo Law has mandated a new early election to reshuffle and reorganize the parliament. And just as hoped, the PNF got a vast majority of votes compared to the rest of the parties, securing their two-thirds majority we needed in deputies. The results in some states were seriously questioned due to rumors of voter intimidation, electoral fraud and other such acts by Blackwing members, but nevertheless they have now been generally accepted and the PNF given their rightful seats as mandated by the Gacerbo Law. We now have our safe majority in the Chamber of Deputies, and our great Duce Beakolini finally has the ability to fully carry out his goals for the future of Wingbardy."
- wingbardy.39.a:0 "Just as Planned."
+ wingbardy.39.a:0 "계획한 대로다."
 
  wingbardy.40.t:0 "The Gacerbo Law Passes"
  wingbardy.40.d:0 "After many hours of debate and final desperate efforts from opponents to stall the vote, the Chamber of Deputies has finally passed the Gacerbo Law. The bill will be officially signed into law tomorrow and elections will be scheduled to occur after a month.\n\nBeakolini is reported to be pleased by the law and gave a passionate speech about how the law will restore confidence in democracy to all Wingbardians and that the days of an inadequate government failing to resolve the nation's many issues are long behind them.\n\nOpponents however left the chamber in solemn silence and have reported the passing of the bill to be the death of democracy."
@@ -2141,7 +2141,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  
  WNG_aid_ally:0 "Promise Support To Our Friends"
 
- WNG_murder_investigation_cat:0 "The Murder Investigation"
+ WNG_murder_investigation_cat:0 "살해사건 수사"
  WNG_murder_investigation_cat_desc:0 "Many years ago in 972, our great King was murdered in cold blood at Grover V's 12th birthday party at Griffenheim. At the time we had attempted to launch an investigation, but the Regency Council had halted our efforts and forced us to seceed from the Empire. King Garibald Talonuel III had wanted to continue the search, but could not due to Wingbardy falling into chaos. Now that the situation is stable, however, it is time to resume where we had left off, and finally bring the murderer of our great King to justice.\n\nEvidence gained:\n - [WNG.GetMurderEvidence1Status]\n - [WNG.GetMurderEvidence2Status]\n - [WNG.GetMurderEvidence3Status]"
  WNG_leaving_party:0 "§GKing Gumberto left the party with his murderer.§!"
  WNG_wine_noble:0 "§GNo Skyfallians had Vinovian Wine, and no Aquileians had Francistrian Wine.§!"
@@ -2208,14 +2208,14 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  form_country_franmistria_coring_states_tt:0 "Gain cores on all §YFrancistrian§! states.\n"
  form_country_arantiga_coring_states_tt:0 "Gain cores on all §YArantigan§! states.\n"
  WNG_they_may_kill_you_tt:0 "§R[From.GetNameDef] will either let you go, or they will subjugate you by force.§!"
- WNG_UNLOCK_PACT_DECISIONS:0 "Unlocks §Ynew diplomatic decisions.§!"
+ WNG_UNLOCK_PACT_DECISIONS:0 "§Y새로운 외교 결정§이 해금됩니다.!"
  WNG_stop_march_tt:0 "카르틴 진군이 중단될 것입니다.\n"
  WNG_march_stopped:0 "진군이 중단되었습니다."
  WNG_the_tarrin_compromise_tt:0 "A deal over §YTarrin§! will be made between §YAquileia§! and §YWingbardy§!. §YFrancistria§! will likely object to any changes to their territory.\nMake sure to §Ysave up Political Power§! as we will have only 60 days to win §YFrancistria§! over to supporting the deal. Having good relations with §YAquileia§! may let us get away with a compromise that's better for §YFrancistria§!."
  WNG_formalise_the_pact_tt:0 "§YAquileia§! and §YGriffonstone§! will join the Karthin Pact. The Karthin Pact will be renamed to the Chiazbeacle Pact.\nThe stronger the Empire is and the more appeased §YAquileia§! is, the more likely they are to accept."
  WNG_formalise_the_pact_tt_2:0 "§YAquileia§! and all allies will join the Karthin Pact. The Karthin Pact will be renamed to the Chiazbeacle Pact."
- WNG_the_chiazbeacle_pact_tt:0 "This focus will §Rcancel§! if §YAquileia§! rejects our proposal.\n"
- WNG_improve_army_tt:0 "Will reduce the penalties of §YOutdated Army§!.\n"
+ WNG_the_chiazbeacle_pact_tt:0 "§Y아퀼레이아§!가 우리의 제안을 거절할 경우 이 중점은 §R취소§!됩니다.\n"
+ WNG_improve_army_tt:0 "§Y구식 군대§! 국민정신의 불이익이 줄어듭니다.\n"
  WNG_the_royal_intervention_tt:0 "국민들은 이에 크게 반발할 것이며, 국왕은 먼저 왕실 자문회의 인기를 높이고, 그런 다음 평민들의 마음을 얻음으로써 국민들의 지지를 빠르게 확보해야 할 것입니다."
  WNG_one_night_in_griffenheim_tt:0 "Unlocks decisions allowing the king to §Yinvestigate the murder of 972§! and finally §Yput his father's ghost to rest§!.\nUnlocks decisions allowing the king to §Ytutor the wayward Prince Gumberto§! in the hopes of turning him into a good and proper king for Wingbardy."
  WNG_the_gacerbo_law_tt:0 "If the new law is passed, then during the next election the party with a majority of the votes will gain a 2/3's majority in the Chamber of Deputies.\n"
@@ -2282,15 +2282,15 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_can_intergrate_nation_tt:0 "Unlocks §YDecisions§! to intergrate this nation peacefully."
 
  WNG_develop_the_south_tt:0 "We will build 2 civilian factories in each of our South Griffonian allies providing they have less factories then us."
- WNG_support_the_archons_tt:0 "[GRI.GetNameDef] will promise not to attack any nations in South-West Griffonia."
- WNG_southern_shield_tt:0 "If the Griffonian Empire attacks this nation Wingbardy has promised to join the war on our side."
- WNG_secure_loyalty_tt:0 "Gains §YPuppet§! war goal against §Y[ARA.GetNameDef]§!, §Y[FRN.GetNameDef]§!, or §Y[TAL.GetNameDef]§! if they are not in our faction."
+ WNG_support_the_archons_tt:0 "[GRI.GetNameDef]은 그리포니아 남서부의 국가 모두를 공격하지 않겠다고 약속할 것입니다."
+ WNG_southern_shield_tt:0 "만약 그리포니아 제국에게 공격받을 경우, 윙바르디가 우리 편으로 참전하기로 약속했습니다."
+ WNG_secure_loyalty_tt:0 "§Y[ARA.GetNameDef]§!, §Y[FRN.GetNameDef]§!, 또는 §Y[TAL.GetNameDef]§!와 같은 세력에 속해있지 않을 경우 해당 국가에 대한 §Y괴뢰화§! 전쟁목표를 얻습니다."
 
- communism_greater_than_democratic_tt:0 "Has more support for §YCommunism§! then for §YHarmony§!."
- democratic_greater_than_communism_tt:0 "Has more support for §YHarmony§! then for §YCommunism§!."
+ communism_greater_than_democratic_tt:0 "§Y공산주의§!의 인기도가 §Y조화주의§!의 인기도보다 높습니다."
+ democratic_greater_than_communism_tt:0 "§Y조화주의§!의 인기도가 §Y공산주의§!의 인기도보다 높습니다."
  WNG_clamp_down_on_socalist_newspapers_tt:0 "Communists won't be able to spread propaganda against the King for a while."
 
- WNG_altar_ready_to_finish:0 "The construction of the Altar is complete."
+ WNG_altar_ready_to_finish:0 "제단 건설이 완료되었습니다."
  WNG_add_to_altar_stage:0 "The Altar is a step closer to completion."
  
  WNG_unlock_aid_ally_decision:0 "Unlocks §YA Decision§! allowing Wingbardy to support Equestria during war and vice versa.\n"
