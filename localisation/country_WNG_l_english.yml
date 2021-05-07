@@ -35,9 +35,9 @@
  WNG_trains_run_on_time_idea:0 "The Trains Run on Time"
  WNG_trains_run_on_time_idea_desc:0 "Thanks to government intervention, the trains are finally running on time again."
  WNG_glory_to_wingbardy_idea:0 "Glory to Wingbardy"
- WNG_only_fascism_idea:0 "Fascism Only"
+ WNG_only_fascism_idea:0 "오직 파시즘만"
  WNG_planning_bonus:0 "Southern Military Planning"
- WNG_trade_treaty:0 "Trade Treaty"
+ WNG_trade_treaty:0 "무역 조약"
  WNG_rebuild_the_nation_idea:0 "Rebuilding the Nation"
 
  WNG_artillery_supremacy:0 "Artillery Supremacy"
@@ -108,8 +108,8 @@
  WNG_placate_the_communists_desc:0 "Despite their marginalised status, the communists have a point; we should enact employment and societal reforms. Hopefully, we can find a good middle ground that all sides can agree to."
  WNG_united_against_disharmony:0 "United Against Disharmony"
  WNG_united_against_disharmony_desc:0 "Wherever disharmony threatens, we must be ready to strike back. For all that is right and good in this world, we must stand strong and united as one. Harmony shall never be broken."
- WNG_build_airbase_idea:0 "Airbase Expansion"
- WNG_national_health_bureau_idea:0 "National Health Bureau"
+ WNG_build_airbase_idea:0 "공군기지 확장"
+ WNG_national_health_bureau_idea:0 "국가보건부"
  WNG_harmony_government:0 "Harmonic Government"
  WNG_restoration_of_order:0 "Restoration of Order"
  WNG_restoration_of_order_desc:0 "The time for fighting is over. It is time to rebuild our nation and we will do so together. Everygriffon shall play their part in the new Wingbardy."
@@ -125,7 +125,7 @@
  WNG_intergration_desc:0 "We are nothing but puppets to Wingbardy. Soon, we shall have every ounce of independence we want."
  WNG_renewed_the_southern_alliance:0 "Renewed the Southern Alliance"
 
- WNG_long_range_torpedoes:0 "Long Ranged Torpedoes"
+ WNG_long_range_torpedoes:0 "장거리 어뢰"
  WNG_naval_projection_idea:0 "Naval Projection"
  WNG_mare_nostrum_idea:0 "Nostro Mare"
  WNG_mafia_0:0 "Subdued Mafia"
@@ -220,7 +220,7 @@
 
  ### COMMUNIST ###
  #Communist/Socialist/Republican
- WNG_prepare_the_counterrevolution:0 "Rally the Anti-Fascists"
+ WNG_prepare_the_counterrevolution:0 "반파시스트 결집"
  WNG_prepare_the_counterrevolution_desc:0 "Beakolini's march is the final insult to the freedom of the Wingbardian griffons. We have one final chance to stop fascist authoritarianism from taking over our country and to break the fasces before it strikes us all down. Now is the darkest hour, when we must lay down the hammer and take up the rifle to protect our country and our ideals from Beakolini's fascist hordes!"
   
  WNG_arm_the_red_guard:0 "Arm the Red Guard"
@@ -328,16 +328,16 @@
  WNG_reencourage_karthinian_martial_tradition:0 "The Karthinian Citizen Soldier"
  WNG_reencourage_karthinian_martial_tradition_desc:0 "The liberty of the Old Republic was guaranteed by the citizen soldier. Because it was the free citizen who fights, their wars were wars of liberation. With the sword in the claw of the citizen, no tyrant could destroy the Republic. Our freedom was threatened because the citizen was no longer the soldier. Thus we must rekindle our martial tradition for the sake of our liberty!"
 
- WNG_unite_with_falcor:0 "Karthinia Orientale"
+ WNG_unite_with_falcor:0 "카르티니아 오리엔탈레"
  WNG_unite_with_falcor_desc:0 "The Province of Karthinia Orientale, or Falcor in modern terms, was one of the core parts of the Republic before. We share values and heritage, and the Falcorians must rejoin the Republic, or be forcefully integrated."
 
- WNG_unite_with_sicameon:0 "Escarlatia and Sicameona"
+ WNG_unite_with_sicameon:0 "에스카를라티아와 시카메오나"
  WNG_unite_with_sicameon_desc:0 "The Sicameonese have kept the torch of the Republic alive into the modern age, a true inspiration to us all! Surely whoever is the current Dux will see that our consul is the true leader of the Republic and will join us."
 
  WNG_unite_with_talouse:0 "Stubborn Talonsia"
  WNG_unite_with_talouse_desc:0 "Talouse, old Talonsia, was only nominally a part of Karthinia. The hills of the country protected the griffons there from the advance of civilisation. In modern times, there is no reason for Stubborn Talonsia to not be allowed into the new Karthinian Republic."
 
- WNG_unite_with_francistria:0 "Karthinia Transfolinia"
+ WNG_unite_with_francistria:0 "카르티니아 트란스폴리니아"
  WNG_unite_with_francistria_desc:0 "Karthinia over the Folino river has come to be known as Francistria was also a part of the old Karthinian state. Sadly, the land across the river has not been part of Karthin for centuries. However, culturally and socially the griffons of Francistria should be in union with us, and Karthinia Transfolinia integrated."
 
  WNG_unite_with_arantiga:0 "To the Shores of Lake Rumare"
@@ -353,19 +353,19 @@
  WNG_purge_the_enemies_of_the_revolution:0 "Purge the Enemies of the Revolution"
  WNG_purge_the_enemies_of_the_revolution_desc:0 "Now is the time to solidify the hold of communism over Wingbardy. The PCW is still outnumbered by conservative remnants, liberals and so-called ‘moderate' socialists. If we cut off the heads of these snakes, their misled proletarian followers will flock to our party for leadership! Such bold action is sure to ruffle some feathers, however."
 
- WNG_establish_the_griffons_commissariat:0 "Establish the Griffons' Commissariat"
+ WNG_establish_the_griffons_commissariat:0 "그리폰 인민위원회 설립"
  WNG_establish_the_griffons_commissariat_desc:0 "To protect the revolution from internal enemies, we need to guard her vigilantly. Wingbardy will found the Commissariato del popolo per gli affari interni, the People's Commissariat for Internal Affairs, whose comrades will nib fascism and revisionism in the bud. We have won the war on the battlefield, but now we need to win the invisible war!"
 
  WNG_the_new_communist_griffon:0 "The New Communist Griffon"
  WNG_the_new_communist_griffon_desc:0 "'A griffon will make it their purpose to master their own feelings, to raise their instincts to the heights of consciousness, to make them transparent, to extend the wires of their will into hidden recesses, and thereby to raise themselves to a new plane, to create a higher social biologic type, or, if you please, a new griffon.'\n-Giuliano Gimperi, in ‘Our Social Future'"
 
- WNG_the_children_of_the_revolution:0 "The Children of the Revolution"
+ WNG_the_children_of_the_revolution:0 "혁명의 아이들"
  WNG_the_children_of_the_revolution_desc:0 "'Who needs a ‘1'?\nThe voice of a ‘1' is thinner than a squeak.\nWho will hear it? Only your parents!\nA ‘1' is nonsense.\nA ‘1' is zero.'\n-Antonino Proletarino, ‘Address to the Children'"
 
  WNG_make_use_of_the_prisoners:0 "Make Use of the Prisoners"
  WNG_make_use_of_the_prisoners_desc:0 "During and after the war, we have captured many fascists and other threats to the revolution, but ironically they sit still in their prisons while the righteous worker toils away to build a prosperous future. There is no place for irony in the workers' utopia."
 
- WNG_establish_the_dictatorship_of_the_proletariat:0 "The Dictatorship of the Proletariat"
+ WNG_establish_the_dictatorship_of_the_proletariat:0 "무산계급 독재"
  WNG_establish_the_dictatorship_of_the_proletariat_desc:0 "They say that Karthin wasn't built in a day, but they also expect us to achieve communism in a year. If we don't want to disappoint the workers who put us into power, we need to get to work and not let the revolution get bogged down in meaningless terms such as ‘parliament' and ‘due process'."
 
  WNG_seize_the_means_of_production:0 "Seize the Means of Production"
@@ -377,25 +377,25 @@
  WNG_land_colectivisation:0 "토지 집산화"
  WNG_land_colectivisation_desc:0 "The ownership of huge tracts of land is a feudal and thus backwards institution. Collective farms are more efficient and equalise the farmers, who no longer have to compete in an endless pursuit of profit. An added advantage of land collectivisation is that many huge estates used by the elite will be vacated, allowing space for new developments and the mining of unexploited ore deposits."
 
- WNG_total_control_from_karthin:0 "Total Control from Karthin"
+ WNG_total_control_from_karthin:0 "카르틴으로부터의 완전통제"
  WNG_total_control_from_karthin_desc:0 "The PCW guides and loves the workers of Wingbardy. She protects them until a classless fair society is reached. To achieve that goal in a world riddled with capitalism and feudalism, total control over economic and political resources is needed. The party needs to be central in political and economic life, simply overpowering all other organisations and commanding the direction of society."
 
  WNG_establish_the_red_army:0 "붉은 군대 창설"
  WNG_establish_the_red_army_desc:0 "It is time to reorganise the disparate militias and old army units into a fighting force worthy of the revolution. Naturally, we will call it the Esercito Rosso, the Red Army, after the colour which symbolises our struggle. The working class, comrades, is on the attack. Grasp the rifle and fix the bayonet, free labour is our ideal and communism is our program, for now and forever!."
 
- WNG_international_communism:0 "International Communism"
+ WNG_international_communism:0 "국제공산주의"
  WNG_international_communism_desc:0 "Communism is essentially incompatible with the nation state. Artificial borders created by feudal warlords and bourgeois war profiteers artificially divide those who have a common class interest!\n\nMay we one day chant: No more enemies, and no more borders! All the borders, will be red banners!"
 
- WNG_communism_in_one_country:0 "Communism in One Country"
+ WNG_communism_in_one_country:0 "일국공산주의"
  WNG_communism_in_one_country_desc:0 "The Wingbardian worker fought for their own liberation! The griffons of this country want to help their siblings and perhaps their cousins, but we should not be expected to assimilate with total strangers. Each group of creatures has its own path towards a classless society, and that must be respected."
 
- WNG_spread_the_revolution:0 "Spread the Revolution"
+ WNG_spread_the_revolution:0 "혁명 전파"
  WNG_spread_the_revolution_desc:0 "We must ally ourselves with fellow communist parties in our neighbouring nations to help them spread the revolution. By providing support in any way we can, we will ensure that the revolution will be launched by the people."
 
  WNG_challenge_stalliongrads_lead:0 "Challenge Stalliongrad's Lead"
  WNG_challenge_stalliongrads_lead_desc:0 "We owe much to Marks and the revolt in Stalliongrad. Acknowledging our debt to those who have gone before us does not mean we need to deny reality to satisfy our feelings of nostalgia. Wingbardy is better suited to be the home of the international workers' movement, situated between the three continents, with a more secure position and international recognition as a state. "
 
- WNG_liberate_the_pact:0 "Liberate the Pact"
+ WNG_liberate_the_pact:0 "조약 해방"
  WNG_liberate_the_pact_desc:0 "We cannot allow the common griffons in our sister nations to suffer a moment longer. We must utilise the Red Army to strike at the bourgeoisie and bring their workers under our wings."
 
  WNG_end_pony_tyrany_over_griffons:0 "End Pony Tyranny over Griffons"
@@ -423,7 +423,7 @@
  WNG_the_socialists_take_power:0 "사회당"
  WNG_the_socialists_take_power_desc:0 "윙바르디 사회당은 수년 동안 윙바르디에서 가장 큰 정당 중 하나였지만, 진보와 보수 세력들의 수많은 동맹에 의해 권력의 중심에서 밀려났었습니다. 이제 윙바르디 사회당이 윙바르디의 국정 운영을 도맡아 노동자 공화국의 주도 정당으로써 밝은 사회주의의 미래로 이끌 때입니다!"
 
- WNG_reconcile_with_the_reformers:0 "Reconcile with the Reformers"
+ WNG_reconcile_with_the_reformers:0 "개혁가들과의 화해"
  WNG_reconcile_with_the_reformers_desc:0 "The unitary wing of the socialist party has been getting anxious ever since the blackwings marched on Karthin. The democratically minded socialists have reluctantly followed the revolution, realising socialism was preferable over fascism even if established by force of arms. The party must stay together to stave up competition from liberals and communists, even if it means compromising with the reformists."
 
  WNG_break_up_big_buisiness:0 "Break up Big Business"
@@ -474,7 +474,7 @@
  WNG_encourage_religious_studies_in_school_desc:0 "Despite the severe situation in the Griffonian Empire, one thing that they have done right is having a heavy religious presence in the day-to-day lives of their citizens. We will adopt a similar program where our young chicks are taught the importance of the Gods."
  WNG_train_the_youth:0 "Train the Youth"
  WNG_train_the_youth_desc:0 "It is often said that the best soldier is one that believes in what they are fighting for. We can apply this to the recent implementation of religious teachings in our schools. Our next generation of soldiers will be numerous, devout, and eager to fight for our freedom."
- WNG_deregulate_industry:0 "Deregulate Industry"
+ WNG_deregulate_industry:0 "산업규제 철폐"
  WNG_deregulate_industry_desc:0 "Throughout Wingbardy’s existence, bureaucratic intervention has always hindered the ability for our manufacturers to produce goods at an optimal rate. Luigi Guturzo has proposed a plan to cut the needless red tape so that our factories and shipyards can meet the needs of a modern country."
  WNG_tritheism_democracy:0 "Tritheist Democracy"
  WNG_tritheism_democracy_desc:0 "Religion and democracy are not naturally opposed. Quite the contrary, as politicians too must believe in a cause greater than themselves if they wish to accomplish anything truly great in a country. By tying these two together, we can strength both institutions, and Wingbardy as a whole."
@@ -574,7 +574,7 @@
  WNG_fix_the_resource_deficit:0 "Fix the Resource Deficit"
  WNG_fix_the_resource_deficit_desc:0 "It is not that Wingbardy lacks resources, it is that too much of it is wasted, whether on frivolous civilian projects or on exports to unworthy foreigners. We need to excavate resources thought unreachable and produce products here that we used to import. Still, if we truly commit to it, autarky will be within our reach."
 
- WNG_productivism:0 "Productivism"
+ WNG_productivism:0 "생산주의"
  WNG_productivism_desc:0 "Our industry must approach its existence much like our military, and view ceaseless self-improvement as its overarching goal. The more we produce, the more Wingbardy will be able to triumph, and nothing can be allowed to stand in the way of Wingbardian Triumph."
 
  WNG_the_tarrin_compromise:0 "The Tarrin Compromise"
@@ -639,7 +639,7 @@
  WNG_the_ras_of_meowmeow:0 "The Ras of Purrsia"
  WNG_the_ras_of_meowmeow_desc:0 "Wingbardy does not rule Purrsia directly, but through the traditional power on the island, the Ras. He has been less than cooperative lately, using the crisis at home to allow himself more autonomy. Now that we are ready to focus on our colonial possessions, we should extend a claw to him and sway him to our side, so that we earn the loyalty of his people."
 
- WNG_strengthen_the_southern_military_territory:0 "Military Rule Overseas"
+ WNG_strengthen_the_southern_military_territory:0 "해외 군사통치"
  WNG_strengthen_the_southern_military_territory_desc:0 "Our colonial subjects have long suffered under compromises made with local powerholders such as the Ras of Purrsia. It is time for the military to remove these meddlesome figures from power and establish direct and efficient control of overseas Wingbardy. The Abyssinians will thank us in the end."
 
  WNG_develop_our_island:0 "Develop Purrsia"
@@ -688,7 +688,7 @@
  WNG_secure_army_loyalty:0 "군 충성 확보"
  WNG_secure_army_loyalty_desc:0 "왕립군은 오랫동안 나라의 사랑을 받아왔으며, 특히 팔코르와의 처절한 전쟁 이후로는 더더욱 사랑을 받았습니다. 대부분의 장교는 이미 국왕에게 충성을 다하고 있지만, 군대 내에는 파시즘이나 공산주의를 지지하는 자들 또한 여전히 존재합니다. 이들에게 국가에 대한 의무를 상기시키려면, 가리발드 국왕은 자신의 매력과 군인 왕으로서의 인상을 최대한 활용해야 할 것입니다."
 
- WNG_placate_the_interlectuals:0 "Placate the Intellectuals"
+ WNG_placate_the_interlectuals:0 "지식계급 달래기"
  WNG_placate_the_interlectuals_desc:0 "The universities and upper class salons have been a hotbed of pro-democracy protest ever since parliament has been dismissed. Young griffons riled up by extremist professors and socialist agitators. By promising investment and scientific and cultural programs, the government should be able to calm down all but the most idealistic intellectuals."
 
  WNG_viva_il_re:0 "대왕 만세"
@@ -801,7 +801,7 @@
  WNG_piumave_line:0 "피우마베 선로"
  WNG_piumave_line_desc:0 "The northern and central parts of our country have been underdeveloped for quite some time, owing to long travel times between the cities and the countryside. It is imperative that the government invests in new infrastructure projects to bring to connect the regions, with the proposed Piumave Line being the most costly endeavour. "
 
- WNG_expand_the_southern_industries:0 "Expand the Southern Industries"
+ WNG_expand_the_southern_industries:0 "남부 산업 확장"
  WNG_expand_the_southern_industries_desc:0 "The coastal south with Wrobert, Karthin and Talcara has long been the industrial heart of the nation and there is no reason for that to change. The economy will soar on top of the mighty wing of the big three once more, if we but make a hefty investment in the right companies. "
 
  WNG_develop_the_gap:0 "Develop the Lowing Gap"
@@ -838,7 +838,7 @@
  WNG_overwhelm_the_seas_desc:0 "What use is a small navy comprised of expensive capital ships that never leaves port? If Wingbardy is to truly rule the waves, it must field enough ships to be able to cover its territorial waters and those of its foes, and we will provide them, no matter the cost."
  WNG_fanteria_marina:0 "Fanteria della Marina"
  WNG_fanteria_marina_desc:0 "Previous amphibious operations have proven difficult and have often ended poorly for our forces. Some experts believe that a dedicated force specifically trained in executing naval landings would not only outperform a normal landing force, but would open up a whole new world of possibilities in future conflicts."
- WNG_nostra_costa:0 "Nostra Costa"
+ WNG_nostra_costa:0 "우리의 해안"
  WNG_nostra_costa_desc:0 "Our coast is another border that our forces must watch over, and our fleets are hard-pressed enough as it is. We could use this to our advantage however, and lull our enemies into a false sense of security. Then, when they least expect it, we can unleash our modern submarine fleets upon them!"
  WNG_navel_bombers:0 "Naval Bombers"
  WNG_navel_bombers_desc:0 "Past lessons have demonstrated that ships are particularly vulnerable to air attacks. Working in tandem with the Aeronautics Institute, new aircraft can be designed specifically to sink enemy vessels. Being far cheaper to produce than most ships, these naval bombers would prove to be an effective and cost-efficient anti-ship weapon."
@@ -855,7 +855,7 @@
  WNG_advanced_torpedo_designs:0 "진보된 어뢰 설계"
  WNG_advanced_torpedo_designs_desc:0 "Torpedoes are perhaps some of the most effective weapons against ships, and Wingbardy has been at the forefront of their design for decades. We should fund extra research into these devastatingly effective weapons."
  
- WNG_mare_nostrum:0 "Nostro Mare"
+ WNG_mare_nostrum:0 "우리의 바다"
  WNG_mare_nostrum_desc:0 "The Mediolano is split between griffons, hippogriffs, seaponies, harpies and zebra. But with our mighty new fleet, who would dare to challenge our supremacy over our sea?"
  
  WNG_raiding_fleet:0 "Raiding Fleet"
@@ -1340,7 +1340,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.101.d:0 "Wingbardian military planners have proposed a united strategy for the defence of our nations and the South. By creating a Joint Defence Command, we can improve our battle plans in the event of any military action."
  wingbardy.101.a:0 "A great idea!"
  
- wingbardy.102.t:0 "Wingbardy Demands New Mareland"
+ wingbardy.102.t:0 "윙바르디의 뉴메어랜드 요구"
  wingbardy.102.d:0 "The ambassador from Wingbardy presented an ultimatum this morning. Citing the illegitimate occupation of griffon land, subjugation of griffons, and illegal pony settlements, Wingbardy is demanding that we renounce all claim to the colonies of New Mareland and allow native griffons a rightful place in the colonial management.\n\nObviously, this is sure to result in the Wingbardian occupation of the New Mareland ponies, all of whom will undoubtedly be threatened by the new regime."
  wingbardy.102.a:0 "In the name of Peace, we must accept."
  wingbardy.102.b:0 "We shall not let our ponies suffer under griffon talons."
@@ -2212,7 +2212,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_stop_march_tt:0 "카르틴 진군이 중단될 것입니다.\n"
  WNG_march_stopped:0 "진군이 중단되었습니다."
  WNG_the_tarrin_compromise_tt:0 "A deal over §YTarrin§! will be made between §YAquileia§! and §YWingbardy§!. §YFrancistria§! will likely object to any changes to their territory.\nMake sure to §Ysave up Political Power§! as we will have only 60 days to win §YFrancistria§! over to supporting the deal. Having good relations with §YAquileia§! may let us get away with a compromise that's better for §YFrancistria§!."
- WNG_formalise_the_pact_tt:0 "§Y아퀼레이아§!와 §Y그리폰스톤§!이 카르틴 조약에 가입합니다. 카르틴 조약은 치아즈비클 조약으로 개명됩니다.\n제국이 더 강하고, §Y아퀼레이아§!가 더 만족할수록, 아퀼레이아가 제안을 수락할 가능성이 높아집니다."
+ WNG_formalise_the_pact_tt:0 "§Y아퀼레이아§!와 §Y그리폰스톤§!이 카르틴 조약에 가입합니다. 카르틴 조약은 치아즈비클 조약으로 개명됩니다.\n그리포니아 제국이 더 강하고, §Y아퀼레이아§!가 더 만족할수록, 아퀼레이아가 제안을 수락할 가능성이 높아집니다."
  WNG_formalise_the_pact_tt_2:0 "§YAquileia§! and all allies will join the Karthin Pact. The Karthin Pact will be renamed to the Chiazbeacle Pact."
  WNG_the_chiazbeacle_pact_tt:0 "§Y아퀼레이아§!가 우리의 제안을 거절할 경우 이 중점은 §R취소§!됩니다.\n"
  WNG_improve_army_tt:0 "§Y구식 군대§! 국민정신의 불이익이 줄어듭니다.\n"
@@ -2279,9 +2279,9 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_school_for_gifted_griffons_refused:0 "Refused Science Exchange"
  WNG_give_way_to_the_left_ppw_tt:0 "우리는 민주자유당과 단결사회당과 정부를 구성할 것입니다."
  WNG_an_alliance_of_the_centre_tt:0 "우리는 민주자유당과 윙바르디 자유당과 정부를 구성할 것입니다."
- WNG_can_intergrate_nation_tt:0 "Unlocks §YDecisions§! to intergrate this nation peacefully."
+ WNG_can_intergrate_nation_tt:0 "해당 국가를 평화적으로 통합하는 §Y결정§!이 해금됩니다."
 
- WNG_develop_the_south_tt:0 "We will build 2 civilian factories in each of our South Griffonian allies providing they have less factories then us."
+ WNG_develop_the_south_tt:0 "우린 공장 수가 우리보다 적은 그리포니아 남부의 동맹국에게 각각 민간공장 2개를 지어줄 것입니다."
  WNG_support_the_archons_tt:0 "[GRI.GetNameDef]은 그리포니아 남서부의 국가 모두를 공격하지 않겠다고 약속할 것입니다."
  WNG_southern_shield_tt:0 "만약 그리포니아 제국에게 공격받을 경우, 윙바르디가 우리 편으로 참전하기로 약속했습니다."
  WNG_secure_loyalty_tt:0 "§Y[ARA.GetNameDef]§!, §Y[FRN.GetNameDef]§!, 또는 §Y[TAL.GetNameDef]§!와 같은 세력에 속해있지 않을 경우 해당 국가에 대한 §Y괴뢰화§! 전쟁목표를 얻습니다."
@@ -2309,8 +2309,8 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  POLITICS_GARIBALD_TALONUEL_DESC:0 ""
  POLITICS_BEAKOLINI_DESC:0 "Giulio Beakolini was born to a middle class family in 954, and from early age, he had a deep interest in politics. His family's republican leanings made them ardent supporters of the Republican Revolution in Griffonia, and their eventual defeat did not weaken, but rather intensify, young Giulio's support for the cause, especially the more radical left branches of the movement. During his younger years, he worked as a journalist and became a famous firebrand within the left wing of Wingbardian politics.\n\nThe Falcorian war, however, turned into a watershed moment for the young Beakolini, and unlike most of his peer, he was in full support of the war. Through it, he saw the workers being empowered through the fighting and a chance to bring together a divided land. This led to him being ostracized as a warmongerer, and he ended up fired, being told he could go fight the war himself if he viewed it as something good. Beakolini chose to take the insult literally and joined the Wingbardian army, where his zeal and determination let him become part of the elite Wingbardian Bersaglieri.\n\nWhen peace came, he was a changed griff, and whereas many had been broken on the battlefield, he had found his purpose. He returned to writing, only this time for his own ideology, and ever since then, he has tirelessly written for and organized his own political movement; the 'Blackwings'. He has realized that republicanism is weak and corrupt, socialism a false idol that will break apart the nation. The new path forward organizes the entire nation as one entity, where all griffs are soldiers for Wingbardy's glory. He has named this movement Fascism, and under it, he will see Wingbardy rise to become the master of Griffonia, or die trying."
  POLITICS_ANTONINO_PROLETARINO:0 ""
- POLITICS_GALLO_VENTRIGLIO_DESC:0 "§YBorn§!: 16th November 946\n\n§YBiography§!:  Gallo Ventriglio graduated from the University of Talonin with a degree in law. He became a lawyer and solicitor and eventually entered politics, becoming a councillor and then mayor of the town of Plumerolo.\n\nWhen the Falcor War broke out, he joined anti-war movements and denounced the conflict that would claim the life of his son, Giovanni Ventriglio, who was shot down while on a bombing mission over Falcor.\n\nIn recent years, he was appointed Prime Minister after the collapse of the Gonomi government. His outspokenness against Beakolini's fascist movement has lead to many hoping for a quick crackdown of the Blackwings."
- POLITICS_LUIGI_GUTURZO_DESC:0 "§YBorn§!: 26th November 952 ALB, Gullagirone, Wingbardy\n\n§YBiography§!:  Born to a religious family in rural Wingbardy, Luigi Guturzo was destined to follow his family into the ranks of the ecclesiastics. He was ordained as a priest of Boreas in 975 and served as a teacher of philosophical and theological studies in his hometown, eventually getting a doctorate in the subject from the Archonical University of Karthin. While teaching in his hometown he got a first taste of politics where in 986 he became vice-mayor of Gullagirone, a position he would serve in until 990.\n\nHe was one of the founding members of the Partito Popolare Wingbardo in 990. In the party's first election it won 20% of the vote at 100 seats in the Chamber of Deputies, surprising many observers. The PPW quickly grew to be a colossal political force in the nation and it quickly found itself becoming the key for the formation of any government. However liberal and socialist parties were wary of it, seeing it as subservient to the Prelate of Karthin, and some even rumoured that it was loyal to the Archons and wished to return to the Empire. The latter was untrue however, as Luigi Guturzo would always believe in Wingbardian independence.\n\nHowever, Luigi Guturzo and the Prelate of Karthin where the two factors that led to the party's hard stance of never working with socialists. This is seen as one of the key contributing factors to the collapse of the Wingbardian political system. Luigi Guturzo is also staunchly anti-fascist and often speaks out against fascism, the PNF, and Giulio Beakolini.\n\nLuigi Guturzo likes to collect antique ceramic art during his spare time and often helps out with charity causes. He is respected and popular among the supporters of the PPW and is committed to building a better Wingbardy based on charity, compassion, and faith.\n\n§YPortrait By§!: MonAx"
+ POLITICS_GALLO_VENTRIGLIO_DESC:0 "§Y출생§!: 946년 11월 16일\n\n§Y일대기§!:  Gallo Ventriglio graduated from the University of Talonin with a degree in law. He became a lawyer and solicitor and eventually entered politics, becoming a councillor and then mayor of the town of Plumerolo.\n\nWhen the Falcor War broke out, he joined anti-war movements and denounced the conflict that would claim the life of his son, Giovanni Ventriglio, who was shot down while on a bombing mission over Falcor.\n\nIn recent years, he was appointed Prime Minister after the collapse of the Gonomi government. His outspokenness against Beakolini's fascist movement has lead to many hoping for a quick crackdown of the Blackwings."
+ POLITICS_LUIGI_GUTURZO_DESC:0 "§Y출생§!: 952년 11월 26일, 굴라지로네, 윙바르디\n\n§Y일대기§!:  Born to a religious family in rural Wingbardy, Luigi Guturzo was destined to follow his family into the ranks of the ecclesiastics. He was ordained as a priest of Boreas in 975 and served as a teacher of philosophical and theological studies in his hometown, eventually getting a doctorate in the subject from the Archonical University of Karthin. While teaching in his hometown he got a first taste of politics where in 986 he became vice-mayor of Gullagirone, a position he would serve in until 990.\n\nHe was one of the founding members of the Partito Popolare Wingbardo in 990. In the party's first election it won 20% of the vote at 100 seats in the Chamber of Deputies, surprising many observers. The PPW quickly grew to be a colossal political force in the nation and it quickly found itself becoming the key for the formation of any government. However liberal and socialist parties were wary of it, seeing it as subservient to the Prelate of Karthin, and some even rumoured that it was loyal to the Archons and wished to return to the Empire. The latter was untrue however, as Luigi Guturzo would always believe in Wingbardian independence.\n\nHowever, Luigi Guturzo and the Prelate of Karthin where the two factors that led to the party's hard stance of never working with socialists. This is seen as one of the key contributing factors to the collapse of the Wingbardian political system. Luigi Guturzo is also staunchly anti-fascist and often speaks out against fascism, the PNF, and Giulio Beakolini.\n\nLuigi Guturzo likes to collect antique ceramic art during his spare time and often helps out with charity causes. He is respected and popular among the supporters of the PPW and is committed to building a better Wingbardy based on charity, compassion, and faith.\n\n§Y포트레잇 제작§!: MonAx"
 
  #### EQUIPMENT ####
  UNIT_GENERIC_NAME_WNG:0 "$NR$a $NAME$"
