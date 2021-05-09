@@ -1419,7 +1419,7 @@ PYT_KPG_takeover_tp:0 "§G윙베르트 로머와 KPG가 그라이펜마르센을
 PYT_GKVP_takeover_tp:0 "§G에레보스 화이트플럼이 그라이펜마르센의 질서를 회복했습니다§!\n"
 PYT_GVHP_takeover_tp:0 "§G아르히발트 던페더와 GVHP가 그라이펜마르센을 장악했습니다§!\n"
 PYT_new_units_tp:0 "이 중점을 완료하면 세 개의 §Y시민군§!사단을 생성합니다\n\n"
-PYT_hlinka_guard_tp:0 "이 중점을 완료하면 정예 §Y시민군§!사단을 생성합니다\n\n"
+PYT_hlinka_guard_tp:0 "이 중점을 완료하면 정예 §Y본가드§!사단을 생성합니다\n\n"
 PYT_paladins_tp:0 "이 중점을 완료하면 두 개의 정예 §Y팔라딘§!사단을 생성합니다\n\n"
 PYT_later_tp:0 "이 중점을 완료하면 §Y경제§!상황을 개선합니다\n"
 PYT_red_army_tp:0 "이 중점을 완료하면 §Y군대§!를 개혁합니다\n"
