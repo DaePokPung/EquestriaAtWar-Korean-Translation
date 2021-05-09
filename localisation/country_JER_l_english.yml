@@ -535,7 +535,7 @@
  aquileia.75.d:0 "As Vinovia stirs, old ideas are slowly waking up again and with them, old movements. Vinovia already plays host to many groups dissatisfied with the current situation and who have begun to move again now that the nation teeters on the brink."
  aquileia.75.a:0 "They're back in action."
  
- aquileia.76.t:0 "Les Amis des ABC"
+ aquileia.76.t:0 "ABC의 친구들"
  aquileia.76.d:0 "A fixture in the cafés and bars of the cities, Les Amis des ABC have long been famous, or infamous depending on how you view it, as radicals and rabble-rousers. Made up primarily of students from less affluent families, they have advocated for breaking down the old social order and even the adoption of socialist ideas, something that's made them either very popular or outright despised depending on which section of society you look at. One thing is for sure though; they are many, they are brave and they are willing to fight."
  aquileia.76.a:0 "To the barricade!"
  
@@ -719,7 +719,7 @@
  aquileia.119.a:0 "They can have it all."
  aquileia.119.b:0 "Tarrin belongs to us!"
  
- aquileia.120.t:0 "Tarrin Returned To Us!"
+ aquileia.120.t:0 "타린이 우리의 품으로 돌아오다!"
  aquileia.120.d:0 "We have received a response to our ultimatum from [From.GetLeader]: They are offically ceding all Tarrinian territory under their control to us. It seems they value the lives of their soldiers more than land. An old injustice has been amended and the griffons of Tarrin are at last free of foreign domination."
  aquileia.120.a:0 "Tonight we celebrate!"
  
@@ -831,9 +831,9 @@
  aquileia.151.d:0 "After placing the last contract onto his desk in a neat pile, Fritz Wavewing laid back in his chair and gave a deep sigh of contentment. Just as he had hoped, companies from all over the world had jumped at his designs for what he called the new microwave oven. Using new radio wave technology and parts imported from all across Griffonia and Equus, easily gotten from the free trade that Skyfall and Grifftonia was afforded by the Aquileians, many griffons were already calling it "The Future of Griffonian Cooking".\n\nClosing his eyes, he imagined the possible futures ahead of him. His name would go down as one of the greatest inventors of all time, clearly. Creatures from across the globe would come to congratulate and thank him for his work, as cooking at home would become easier than ever before. The device could still use some improvement, of course, but some day Fritz was sure it would be a staple of every household. Skyfall was still a place where it was the survival of the fittest, and he had not only survived, but thrived in this economic freedom.\n\nTurning his focus back to reality, Fritz grabbed a bottle of champagne, popped the cork and poured himself a glass. "To a new future!"" #Event Tied To Free Trade Zones (Essentially places with unregulated Capitalism/this is a special privelege granted to Skyfall and Grifftonia)
  aquileia.151.a:0 "Freedom lives another day!"
  
- aquileia.152.t:0 "A Peasant's Right" 
- aquileia.152.d:0 "Reimer had been anything but enthusiastic after the Aquileians had taken over the region. For all their bleating about democracy, he hadn't had much trust in them. Hadn't had much faith in the first revolutionaries either. Griefenmarschen had already built its own democracy, and didn't need foreigners waltzing in to show them how it was done. That was why he, along with his neighbors, were so surprised as they sat in the barn, watching the griffon that had come from the government.\n\n"...and therefore I want you all to rest fully assured that the government plans to respect your current system. There will be no new positions instated, nor will your methods of voting be tampered with in any way. You will be able to continue voting how you've always done, that is our promise to yo-" the reedy little griffon stopped as Reiner had come up beside him and put a huge claw on his shoulder.\n\n"Well slap my flank and call me a pony, so you Aquileans were genuine after all!" he said, grinning widely as he shook the griffon's shoulder. "Come here, you deserve something for that. Helmut?" He asked, being handed a large bottle at once and corking it open with a loud pop. "Here you go! Where are you staying? We're making stew tonight. Come over!"\n\n"Oh no I couldn't possibly..." the bureaucrat protested meekly before having the bottle half tipped into his mouth to the cheers of the crowd.\n\nRoughly an hour later, Reiner and the bureaucrat stumbled out of the barn, laughing and swaying as they began down the road towards Reiner's house, shouts of "Veevre la Demokraci!" filling the air."     #Event Tied To Special Legal Priveleges (Griefenmarschen has a lot more leeway in electoral processes/direct voting is a thing)
- aquileia.152.a:0 "Finally some respect!"
+ aquileia.152.t:0 "농민의 권리" 
+ aquileia.152.d:0 "라이머는 아퀼레이아의 통치가 그다지 기쁘지 않았습니다. 민주주의니 뭐니 떠들지만 그들의 말에는 그다지 신뢰가 가지도 않았습니다. 그는 첫 번째 혁명때도 같은 생각이었습니다. 그라이펜마르셴은 이미 독자적인 민주체제로 잘 돌아가고 있었고, 누군지도 모를 외국인들이 이곳에 쳐들어와 민주주의에 대해 왈가왈부하며 참견하는 꼴은 사절이었습니다. 그렇기에 아퀼레이아 정부에서 온 그리폰의 발표는 라이머와 그의 이웃들을 놀라게 하기 충분했습니다.\n\n"...그러므로 정부에서는 여러분들의 현 체제를 존중할 것이니 염려하지 마시기 바랍니다. 그라이펜마르셴에 새로 인사를 임명할 계획도 없으며, 이곳의 선거제도에 관해서도 어떠한 간섭도 없을 것을 약속드리는 바입니다. 이후로도, 여러분들은 지금까지와 똑같-" 호리호리한 체형의 이 관료는 라이머가 옆으로 다가와 어깨에 발톱을 두르자 잠시 말을 멈췄습니다.\n\n"정말이지 기막힌 일이군. 거 당신들 진심이었구만!" 라이머는 그리폰의 어깨를 흔들며 크게 웃었습니다. "이리로 오쇼, 대접이라도 좀 해드려야 하는데, 어이 헬무트?" 헬무트가 큼지막한 술병을 건내주자, 라이머는 곧 커다란 뻥 하는 소리와 함께 뚜껑을 열었습니다. "자, 여기 한병 받으시고! 그나저나 선생, 오늘 지낼 방은 잡으셨나 모르겠구먼. 집에서 저녁으로 스튜를 끓이고 있는데 같이 갑시다! "\n\n"아뇨 아뇨, 굳이 그렇게까지..." 그리폰 관료는 잠시 거절의 의사를 표했지만, 곧 관중들의 환호에 술병을 입으로 가져갔습니다.\n\n약 한시간쯤 뒤, 라이너와 아퀼레이아 관료는 헛간에서 나와 비틀거리며 라이너의 집으로 향했고, 웃음소리와 "민주주으 만쉐!" 하는 외침이 사방에 울려퍼졌습니다." #Event Tied To Special Legal Priveleges (Griefenmarschen has a lot more leeway in electoral processes/direct voting is a thing)
+ aquileia.152.a:0 "드디어 우리도 존중을 받는구만!"
  
  aquileia.153.t:0 "The Good Old Days" 
  aquileia.153.d:0 "The entire barn was filled with angry griffons doing their best to be heard over each other. The news out of Aquila had left them all seething with rage, and it was first when Reimer stood up and bellowed at the top of his lungs for them to shut up that they fell quiet. The massive farmgriff walked up to the reedy little bureaucrat standing at the far end of the room and who had been doing his best to melt into the wall.\n\n"Okay you little turd, mind running that past us again," Reimer asked as he grabbed hold of the bureaucrat's tie. "What makes you think that you Aquileians have the right to try to tell us how democracy works? We have had it for centuries while you were running around chopping each others' heads off!"\n\n"I am terribly sorry, but the democratic system hinges on a common platform through which all citizens can participate in the system, and..."\n\n"And that's why you're gonna stomp all over the superior system just to feel nice about yourselves?!" Reimer began to shake the bureaucrat angrily. "What do you think is going to happen now huh?! You think we will take this lying down?!\n\n"Please stop shaking meeee..." the bureaucrat whined and Reimer let him go.\n\n"Crawl back to your masters before you're leaving the village covered in tar and hay." He growled, the bureaucrat grabbing his things and disappearing out of the door, leaving only angry peasants behind. He really had hoped they would have understood. He didn't dislike them, but they had to play by the same rules as everyone else. Grimacing, he scurried away to his car. Maybe they'd understand in the end..." 
@@ -1424,15 +1424,15 @@
  JER_final_showdown_desc:0 "The time has come to contest the Griffonian Empire. For too long, they have thought themselves the true masters of Griffonia while we were forced to bow our heads before them. No longer though, it is time for Aquileia to spread her wings and take her place as the queen of griffonkind. Forwards! La Victoire est a nous!"
  
  JER_fight_for_freedom:0 "자유를 위해 싸워라!"
- JER_fight_for_freedom_desc:0 "We the people of Aquileia must rise up in defence of our republican ideals! We cannot let a Monarchic tyrant dictate our freedoms and our way of life! We must defend our beliefs, even unto death if we must!"
- JER_infiltrate_pridea:0 "잿더미에서"
+ JER_fight_for_freedom_desc:0 "우리 아퀼레이아의 민중은, 공화주의 이상을 수호하기 위해 일어나야 합니다! 더는 폭군이 우리의 자유와 삶의 방식을 좌지우지하게 둘 수는 없습니다! 목숨을 바쳐서라도 우리의 이상을 지켜내야 합니다!"
+ JER_infiltrate_pridea:0 "잿더미에서 일어나다"
  JER_infiltrate_pridea_desc:0 "Once a bright spot of revolutionary fervor for the young republic, Pridea fell back into royal claws after Baron Dennis Discret mercilessly shelled the city with his navy and stormed the dockyards with his marines, capturing and subsequently executing hundreds of revolutionaries. From the ashes of liberty, a new revolution will rise in Pridea."
  JER_spread_leaflets:0 "코뮌의 기억을 일깨우다"
  JER_spread_leaflets_desc:0 "The autonomous Commune of Pridea is a fond but distant memory for many of the griffons in Pridea yearning for freedom. Find every republican printer in the barony and give them a message to print. The Commune must be assembled once more!"
  JER_target_the_worst:0 "경찰대를 노리다"
  JER_target_the_worst_desc:0 "None were more complicit in the downfall of the Commune of Pridea than the ponies living in the barony, and none have profited more from the monarchists' return to power. We must show them what it means to stand against freedom!"
  JER_smuggle_it_in:0 "어떤 수단을 써서라도"
- JER_smuggle_it_in_desc:0 "When Dennis Discret returned to Pridea during the monarchist counter-revolution, he bestowed his gifts upon the griffons living in the city: cannonballs, mortar shells, and death. This year, it's time to return the favor and send him a gift that will blow him away."
+ JER_smuggle_it_in_desc:0 "드니스 디스크레는 군주주의자들의 반혁명 당시 프리데아의 그리폰들에게 많은 선물을 뿌리고 갔습니다: 대포알, 박격포탄 그리고 수많은 죽음 말입니다. 올해는 우리의 차례입니다. 그가 날아갈 정도의 선물로 보답하도록 합시다."
  JER_infiltrate_aquila:0 "뱀의 머리"
  JER_infiltrate_aquila_desc:0 ""Cut off the head of the snake, and you will kill the wretched beast." King Moriset is the head of the monarchists, and as such, he must be the first to die. It's time to devote everything we can to ensuring Moriset dies with the rest of his vile line. The Discrets shall not escape the guillotine a second time!"
  JER_smuggle_the_weapons:0 "혁명의 도구"
@@ -1458,8 +1458,8 @@
  JER_anti_monarchist_rallies:0 "Stick It To the Duke"
  JER_anti_monarchist_rallies_desc:0 "With the Duke's credibility in shambles, it's time to march on his castle hold and show the soldiers there just how far he has fallen. A duke without an army is nothing to fear, and his friends and supporters are beginning to desert him at a wonderful rate."
  
- JER_the_triumph:0 "제2 공화국"
- JER_the_triumph_desc:0 "Victory at last! Once more, the monarchists of Aquileia lie in shambles, chased from the country or placed six feet deep in its soil. The Second Revolution has won, and in brilliant fashion, and now it is time to formally establish the democracy we have long waited for. The Second Republic rises!"
+ JER_the_triumph:0 "제2공화국"
+ JER_the_triumph_desc:0 "드디어 승리입니다! 또다시 아퀼레이아의 군주주의자들은 박살났고, 나라에서 쫒겨나거나, 죽어 땅에 묻힌 채입니다. 혁명은 화려한 승리를 거두었고, 이제 고대하던 민주주의 체제를 공식적으로 수립할 때입니다. 제2공화국이 부상합니다!"
  JER_educate_the_populace:0 "Battle Illiteracy"
  JER_educate_the_populace_desc:0 "Ignorance is the tool of tyrants, the weapon of warlords. Knowledge is the foundation that freedom rests upon. We shall make it our endeavor to teach griffons all throughout the Republic how to read and learn so that they may become effective participants in our new and ever-lasting democracy."
  JER_delegalize_the_monarchy:0 "Legally Abolish The Monarchy"
@@ -1481,8 +1481,8 @@
  JER_army_expansion_act:0 "Armée Républicaine Expansion Plan"
  JER_army_expansion_act_desc:0 "If Aquileia is to defend its revolutionary freedom, and possibly even extend it to the rest of the continent, we need to ensure that our army shall be up to the task. Increasing the military budget will provide more and better-trained soldiers for any wars that are to come. Especially against our hated enemy in the Herzland..."
  
- JER_PAT_victory:0 "Président Cru"
- JER_PAT_victory_desc:0 "Grand Cru has emerged victorious in the elections!"
+ JER_PAT_victory:0 "대통령 크루"
+ JER_PAT_victory_desc:0 "그랑 크루가 선거에서 승리했습니다!"
  JER_ammends_with_beefstake_MPA:0 "Make Amends with the National-Syndicalists"
  JER_ammends_with_beefstake_MPA_desc:0 "Many members of Rodier's MPA party have incorporated tenets of socialist thinking into their policies. These so-called "National-Syndicalists" may be convinced to support our government if we promise them some nationalistic cultural reforms in turn. For we are all Aquileian patriots, no? Why shouldn't we work together?"
  JER_attract_FJA_members:0 "Attract the Social Democrats"
@@ -1502,8 +1502,8 @@
  JER_foreign_brigades:0 "Les travailleurs du monde s'unissent!"
  JER_foreign_brigades_desc:0 "We have succeeded in throwing off our own chains of tyranny, and we have created a haven for the worker within our own borders. It is now the duty of our revolution to go abroad and fight for the rights of all the workers of the world. And if you are a worker? You too are part of the worker's united front! Come, let us assist our comrades in their struggles against oppression!"
  
- JER_FJA_victory:0 "Président Gaudreau"
- JER_FJA_victory_desc:0 "Cécile Gaudreau has emerged victorious in the elections!"
+ JER_FJA_victory:0 "대통령 고드로"
+ JER_FJA_victory_desc:0 "세실 고드로가 선거에서 승리했습니다!"
  JER_mend_the_divides:0 "Reach Across Party Lines"
  JER_mend_the_divides_desc:0 "Now is not a time for Aquileians to fight amongst themselves about the more delicate matters of policy! We are here to bring together the nation and to go forward into a new age! We will bring together all the députés we can find who will support our message of unity, and begin to implement our reforms."
  JER_tax_policy_revisions:0 "Redefine The Aquileian Tax Code"
@@ -1523,8 +1523,8 @@
  JER_eradicate_hunger:0 "Limited Price Regulations"
  JER_eradicate_hunger_desc:0 "The idea of bringing in price regulations to feed the urban poor of Aquileia has been brought up many times since our rise to power. While many see it as too much government intervention in economics, some are starting to come around to the idea's benefits. From now on, the government will purchase grain at market price and distribute it to the poor at a lower rate, or in exchange for labor projects."
  
- JER_MPA_victory:0 "Président Rodier"
- JER_MPA_victory_desc:0 "Léonard Rodier has emerged victorious in the elections!"
+ JER_MPA_victory:0 "대통령 로디에"
+ JER_MPA_victory_desc:0 "레오나르 로디에가 선거에서 승리했습니다!"
  JER_wrangle_the_party:0 "Wrangle The Party"
  JER_wrangle_the_party_desc:0 "The MPA is a political bushfire. Unpredictable, out of control, and extremely volatile. It is time to bring our estranged députés in line with Rodier and the party to ensure the Président is never lacking in support for his measures. Why use coalitions when you can pass what you want by yourself?"
  JER_repatriation_act:0 "Repatriate the Idole Aquiléenne"
@@ -1544,7 +1544,7 @@
  JER_the_four_principles:0 "Liberté, Egalité, Fraternité, Nationalité!"
  JER_the_four_principles_desc:0 "While the Aquileian revolution has always done its best to embody the three principles of Théodore Vérany, "Liberté, Egalité, and Fraternité", Rodier wants another one added to the list. By ensuring nationalism maintains as high of a position as the other three, we will ensure that Aquileia will always be a distinct cultural identity from the rest of Griffonia, a shining example for all to try to become."
  
- JER_national_party:0 "Président Vérany"
+ JER_national_party:0 "대통령 베라니"
  JER_national_party_desc:0 "Théodore Vérany has emerged victorious in the elections!"
  JER_poach_support:0 "Poach The Députés"
  JER_poach_support_desc:0 "The PNdA is, in many ways, a coalition ticket in a coalition system. Composed of politicians from all over the ideological spectrum of the Assemblée. All dissatisfied with other political factions and rallying behind Vérany's Pan-Griffonian ideology. With such a diverse cast backing us up, it is relatively easy to bring in support from all parts of society to boost our political acumen."
