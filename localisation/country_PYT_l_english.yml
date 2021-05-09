@@ -1400,7 +1400,7 @@ marschen_news.4.d:0 "[This.GetNewspaperHeader]It has not been long since the Gri
 marschen_news.4.a:0 "Well that was unexpected."
 
 ### Country Flags ###
-PYT_dictatorship:0 "변화의 시기"
+PYT_dictatorship:0 "변화의 시기가 도래했다"
 PYT_established_dictatorship:0 "쿠데타가 발생했다"
 PYT_truthahn_takeover:0 "위트케 트루탄이 권력을 쥐었다"
 PYT_heartlands_united:0 "헤르츠란트가 통합되었다"
