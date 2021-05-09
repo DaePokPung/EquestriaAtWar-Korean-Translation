@@ -48,7 +48,7 @@
  dubious_loyalty:0 "Dubious Loyalty"
  dubious_loyalty_desc:0 "There are rumours that this commander is working to undermine the ruling regime. Whether true or not, the aura of suspicion interferes with their duties."
  democratic_sympathies:0 "조화주의 동조자"
- uniform_designer:0 "Uniform Designer"
+ uniform_designer:0 "제복 디자이너"
  air_combat_academy:0 "Air Combat Academy"
  goddess_of_the_night:0 "밤의 여신"
  warrior_princess:0 "전사 공주"
@@ -223,7 +223,7 @@
  trait_visitor:0 "Visitor from Another Dimension"
  trait_visitor_desc:0 "This creature has come from a different dimension, they have the ability to talk to the spirits, or read thoughts, or control someone's mind... Better not question it!"
 
- super_heavy_tank_manufacturer:0 "Super Heavy Tank Designer"
+ super_heavy_tank_manufacturer:0 "초중전차 설계자"
 
  WIT_heavy_tank_manufacturer_Trait:0 "Enchanted Armor Designer"
 
