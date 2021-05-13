@@ -27,7 +27,7 @@
  WNG_labour_camps:0 "Labour Camps"
  WNG_new_communist_griffon:0 "New Communist Griffon"
  WNG_equal_opportunity_education:0 "Equal Opportunity Education"
- WNG_red_army:0 "Esercito Rosso"
+ WNG_red_army:0 "붉은 군대"
  WNG_command_ecomony:0 "명령경제"
  WNG_socialist_ecomony:0 "사회주의 경제"
  WNG_new_home_of_communism:0 "공산주의의 새로운 고향"
@@ -127,9 +127,9 @@
 
  WNG_long_range_torpedoes:0 "장거리 어뢰"
  WNG_naval_projection_idea:0 "Naval Projection"
- WNG_mare_nostrum_idea:0 "Nostro Mare"
- WNG_mafia_0:0 "Subdued Mafia"
- WNG_mafia_1:0 "Weak Mafia"
+ WNG_mare_nostrum_idea:0 "우리의 바다"
+ WNG_mafia_0:0 "제압된 마피아"
+ WNG_mafia_1:0 "약한 마피아"
  WNG_mafia_2:0 "Strong Mafia"
  WNG_mafia_3:0 "Powerful Mafia"
  
@@ -137,13 +137,13 @@
  WNG_dictatorship_of_the_proletariat:0 "Dictatorship of the Proletariate"
  WNG_spec_ops:0 "Elite Unit Training"
  WNG_communist_propaganda:0 "Communist Propaganda"
- WNG_work_with_the_industralists_idea:0 "Work with the Industralists"
+ WNG_work_with_the_industralists_idea:0 "산업가들과의 협력"
  WNG_found_the_ovra_idea:0 "OVRA"
  WNG_economic_reform:0 "Economic Reform"
  WNG_popular_support_idea_0:0 "Popular Support"
- WNG_bastion_of_the_south_idea:0 "Bastion of the South"
+ WNG_bastion_of_the_south_idea:0 "남부의 보루"
  WNG_balanced_ecomony:0 "Balanced Ecomony"
- WNG_economic_regeneration:0 "Economic Regeneration"
+ WNG_economic_regeneration:0 "경제회생법"
  WNG_investigation_1:0 "Justice for Gumberto"
  WNG_investigation_2:0 "Justice for Gumberto"
  WNG_investigation_3:0 "Justice for Gumberto"
@@ -159,10 +159,10 @@
  WNG_pigeonio:0 "Pigeonio"
  WNG_strigivoia_afroaves:0 "Strigivoia-Afroaves"
  WNG_beaketta:0 "Beaketta"
- WNG_taloncia:0 "Taloncia"
- WNG_greda:0 "Greda"
- WNG_talonieli:0 "Talonieli"
- WNG_owlivetti:0 "Owlivetti"
+ WNG_taloncia:0 "탈론시아"
+ WNG_greda:0 "그레다"
+ WNG_talonieli:0 "탈로니엘리"
+ WNG_owlivetti:0 "오블리베티"
  WNG_agwp:0 "Azienda Generale Wingbardia Petroli"
  WNG_gansaldo:0 "Gio. Gansaldo & C."
  WNG_crdk:0 "Cantieri Riuniti dello Chione"
@@ -340,15 +340,15 @@
  WNG_unite_with_francistria:0 "카르티니아 트란스폴리니아"
  WNG_unite_with_francistria_desc:0 "Karthinia over the Folino river has come to be known as Francistria was also a part of the old Karthinian state. Sadly, the land across the river has not been part of Karthin for centuries. However, culturally and socially the griffons of Francistria should be in union with us, and Karthinia Transfolinia integrated."
 
- WNG_unite_with_arantiga:0 "To the Shores of Lake Rumare"
+ WNG_unite_with_arantiga:0 "루메어 호숫가를 향해"
  WNG_unite_with_arantiga_desc:0 "Ancient Arantiga conquered the Karthinian Republic all those centuries ago, but in the end, both Karthinia and Arantiga declined. Now Karthinia is on the rise again, and the land of the old conqueror should be absorbed into our Republic. "
 
- WNG_the_restored_republic:0 "The Republic Restored"
+ WNG_the_restored_republic:0 "공화국의 복원"
  WNG_the_restored_republic_desc:0 "We have restored the glory of our ancestors and the virtues of the old republic of Karthin. The torch of free civilisation once again burns over the South of Griffonia and the enemies of the Senate and the Griffons of Karthin have been crushed. The Republic of Karthinia is no longer an old footnote in the history books, but a new state with a bright future!"
 
 #Communist Party of Wingbardy - Partito Comunista Wingbardo - Communist
  WNG_the_communists_take_power:0 "공산주의 전위대"
- WNG_the_communists_take_power_desc:0 "The Partito Communista Wingbardo was only a small party appealing to die-hard communists, mostly in the port city of Wrobert, but the revolutionary fight against fascism has propelled the fringe party into the limelight. With the most zealous revolutionaries on their side, the PCW can seize power amidst the confusion the war left."
+ WNG_the_communists_take_power_desc:0 "윙바르디 공산당은 원래 항구도시 브로베르트의 시민이 대부분인 극단적인 공산주의자들만 지지하는 작은 정당이었으나, 파시즘에 대항한 혁명 덕분에 이제 윙바르디 국민들의 주목을 얻었습니다. 열성적인 혁명가 대부분이 공산당의 편을 들고 있으니, 윙바르디 공산당은 내전이 남긴 혼란 중에서 권력을 차지할 수 있을 것입니다."
 
  WNG_purge_the_enemies_of_the_revolution:0 "Purge the Enemies of the Revolution"
  WNG_purge_the_enemies_of_the_revolution_desc:0 "Now is the time to solidify the hold of communism over Wingbardy. The PCW is still outnumbered by conservative remnants, liberals and so-called ‘moderate' socialists. If we cut off the heads of these snakes, their misled proletarian followers will flock to our party for leadership! Such bold action is sure to ruffle some feathers, however."
@@ -435,7 +435,7 @@
  WNG_nationalise_key_infrastructure:0 "중요 기반시설 국유화"
  WNG_nationalise_key_infrastructure_desc:0 "Although most of the road and rail networks, along with the power plants are in state claws, the patchwork of private suppliers creates unacceptable holes in the network. We cannot allow critical infrastructure to remain in private claws any longer, especially in such a dangerous time. We will draft a law to nationalise the key players."
 
- WNG_expand_subsidies_to_smallholders:0 "Expand Smallholder Subsidies"
+ WNG_expand_subsidies_to_smallholders:0 "소작농 보조금 확대"
  WNG_expand_subsidies_to_smallholders_desc:0 "To create a more equal use of our agricultural lands, the power of smallholder farms must be increased in comparison to the larger estates. With expanded subsidies for these small farmers, we will strengthen rural communities and make our food supply more stable."
  
  WNG_national_health_bureau:0 "국가보건국"
@@ -577,7 +577,7 @@
  WNG_productivism:0 "생산주의"
  WNG_productivism_desc:0 "Our industry must approach its existence much like our military, and view ceaseless self-improvement as its overarching goal. The more we produce, the more Wingbardy will be able to triumph, and nothing can be allowed to stand in the way of Wingbardian Triumph."
 
- WNG_the_tarrin_compromise:0 "The Tarrin Compromise"
+ WNG_the_tarrin_compromise:0 "타린 합의"
  WNG_the_tarrin_compromise_desc:0 "It is time to put an end to the most persistent source of conflict between Aquileia and Wingbardy. The question of Tarrin. We shall have a conference between us, Aquileia and Francistria to work out a compromise on the status of Tarrin. It might be prudent to sweet-talk the Francistrians before calling the conference, as they might have strong feelings about any compromise that changes their borders."
 
  WNG_formalise_the_pact:0 "조약 공식화"
@@ -648,7 +648,7 @@
  WNG_agwp_land_grants:0 "AGWP Land Grants"
  WNG_agwp_land_grants_desc:0 "The Azienda Generale Wingbardia Petroli is off to a flying start in Wingbardy proper, overseeing our refining operations. We received news that the AGWP has recently performed prospecting in our colonial possessions and has struck oil! To properly exploit these new wells, they will need acquire the oil deposits, at the cost of the local inhabitants' land rights. Such is the way of progress."
 
- WNG_colonial_troops:0 "Colonial Troops"
+ WNG_colonial_troops:0 "식민지군"
  WNG_colonial_troops_desc:0 "It is expensive and unpopular to send soldiers overseas, away from their families and homes. With colonial control established, it would be best to let part of the overseas garrison be made up of native felines instead. With the promise of good pay and social status, it should be possible to find enough cats to reduce the burden on our griffon soldiers."
 
  WNG_colonial_railways:0 "식민지 철도"
@@ -853,7 +853,7 @@
  WNG_naval_projection_desc:0 "The seas are vast and wide. Why limit our naval actions to the Mediolano or Celestiano when the whole world is out there for us?"
  
  WNG_advanced_torpedo_designs:0 "진보된 어뢰 설계"
- WNG_advanced_torpedo_designs_desc:0 "Torpedoes are perhaps some of the most effective weapons against ships, and Wingbardy has been at the forefront of their design for decades. We should fund extra research into these devastatingly effective weapons."
+ WNG_advanced_torpedo_designs_desc:0 "어뢰는 가장 효율적인 대함 무기 중 하나로 여겨지며, 윙바르디는 수십 년간 어뢰 설계를 선도해 왔습니다. 우린 대단히 효율적인 무기인 어뢰의 추가적인 연구에 더 많은 자금을 지원해야만 합니다."
  
  WNG_mare_nostrum:0 "우리의 바다"
  WNG_mare_nostrum_desc:0 "The Mediolano is split between griffons, hippogriffs, seaponies, harpies and zebra. But with our mighty new fleet, who would dare to challenge our supremacy over our sea?"
