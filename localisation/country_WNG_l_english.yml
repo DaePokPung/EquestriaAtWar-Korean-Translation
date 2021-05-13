@@ -73,7 +73,7 @@
  WNG_tritheism_democracy_idea:0 "Tritheist Democracy"
 
  WNG_popular_support_idea:0 "Popular Support"
- WNG_stamp_sells:0 "Stamp Sells"
+ WNG_stamp_sells:0 "우표 판매금"
  WNG_redwings:0 "붉은 날개단"
  WNG_redwings_desc:0 "The Redwings were founded by Garibaldi Giuseppe as an international force of Wingbardian volunteers with the goal of spreading liberty and democracy around the world. They are most famous for the role they played in the Republican Revolution in 978, however the force was all but destroyed during the Republican Long March. Now under the eye of Redwing veterans we honour their cause and seek to spread freedom wherever it need be."
  WNG_carbonari:0 "Carbonari Societies"
@@ -130,8 +130,8 @@
  WNG_mare_nostrum_idea:0 "우리의 바다"
  WNG_mafia_0:0 "제압된 마피아"
  WNG_mafia_1:0 "약한 마피아"
- WNG_mafia_2:0 "Strong Mafia"
- WNG_mafia_3:0 "Powerful Mafia"
+ WNG_mafia_2:0 "강한 마피아"
+ WNG_mafia_3:0 "매우 강력한 마피아"
  
  WNG_old_yet_new_idea:0 "Old Yet New"
  WNG_dictatorship_of_the_proletariat:0 "Dictatorship of the Proletariate"
@@ -159,7 +159,7 @@
  WNG_pigeonio:0 "Pigeonio"
  WNG_strigivoia_afroaves:0 "Strigivoia-Afroaves"
  WNG_beaketta:0 "Beaketta"
- WNG_taloncia:0 "탈론시아"
+ WNG_taloncia:0 "탈론치아"
  WNG_greda:0 "그레다"
  WNG_talonieli:0 "탈로니엘리"
  WNG_owlivetti:0 "오블리베티"
@@ -223,7 +223,7 @@
  WNG_prepare_the_counterrevolution:0 "반파시스트 결집"
  WNG_prepare_the_counterrevolution_desc:0 "비콜리니의 진군은 윙바르디 국민들의 자유에 대한 마지막 모욕이나 다름없습니다. 파시스트 권위주의가 우리나라를 차지하는 것을 막고, 파쇼들이 우리 모두를 쓰러트리기 전에 먼저 파쇼들을 물리칠 기회는 지금 단 한 번 뿐입니다. 윙바르디가 가장 어두운 때인 지금, 우린 망치를 내려놓고 총을 들어 비콜리니의 파시스트 무리들로부터 우리나라와 이상을 지켜야만 합니다!"
   
- WNG_arm_the_red_guard:0 "Arm the Red Guard"
+ WNG_arm_the_red_guard:0 "적위대 무장"
  WNG_arm_the_red_guard_desc:0 "Comrade, forget about the politicians, there is no time. The Red Guard is an organisation of tough griffons who fought the blackwing claw to claw in many street brawls. We must call them together once more and raid guns from the Karthin armoury. They are determined to teach the fascists a lesson of lead and you shouldn't turn down their help now."
 
  WNG_evacuate_the_chamber_of_Deputies:0 "Evacuate the Chamber of Deputies"
@@ -957,7 +957,7 @@
  wingbardy.5.d:0 "King Garibald Talonuel III passed away this morning after a period of illness. Ever since the murder of his father in 971, Garibald Talonuel has led Wingbardy through times of both triumph and hardship. He was instrumental in the collapse of the Griffonian Empire, protected the south from Imperial aggression and united the nation through the long and bloody war with Falcor. Garibald Talonuel was also a prolific stamp collector with over 100,000 stamps in his private collection, each of them personally documented and studied. He left his collection to the National Karthinian Museum for all Wingbardians to enjoy.\n\nThe throne now passes to his son Prince Gumberto, who is a mere shadow of his father. His life has been one of scandal and criticism with many prominent Wingbardians having openly spoken out against him. Only time will tell what kind of King he will make."
  wingbardy.5.a:0 "All Wingbardians mourn today."
 
- wingbardy.6.t:0 "The National Anthem Debate"
+ wingbardy.6.t:0 "국가 문제"
  wingbardy.6.d:0 "In recent days, a debate has been growing out of the Blackwing's control over the national anthem of Wingbardy. La Marcia Reale d'Ordinanza has been the national anthem for close to 100 years, but ever since Beakolini and his Fascist took power their own anthem, Giovinezza, has (often forcefully) supplanted it. Those loyal to the King see this as a great betrayal of Wingbardian tradition, but the King has remained silent on the issue. There is now a debate in parliament on whether la Marcia Reale d'Ordinanza should be officially replaced by Giovinezza as the official national anthem of the nation.\n\nIt is expected to go the Blackwing's way, after all, la Marcia Reale d'Ordinanza has no official lyrics while Giovinezza has such wonderful verses as \"With a Wingbardian's pride swear fealty to Beakolini\". This mandatory anthem is merely the griffons showing how much they love Il Duce. \n\nUnlike his father, Prince Gumberto has not remained silent on the issue. He has instead proposed La Leggenda del Piumave as a compromise. The popular song dates to the Falcor War and tales of the flooding of the river Piumave, halting Falcor's invasion of Wingbardy shortly after the disastrous battle at Clawporetto and how it allowed the Regio Esercito time to launch the counter attack required to push Falcor back and to final victory at the battle of Garibald Gergamo.\n\nWith the debate being held, who will carry the day?"
  wingbardy.6.a:0 "La Marcia Reale d'Ordinanza is the true anthem of Wingbardy!"
  wingbardy.6.b:0 "Giovinezza! For Youth! For Beakolini!"
@@ -1002,15 +1002,15 @@
  wingbardy.15.a:0 "Yes, we must stand together against the Imperial menace."
  wingbardy.15.b:0 "No, the Wingbardians can not be trusted!"
 
- wingbardy.16.t:0 "Aquilea Signs the Pact"
+ wingbardy.16.t:0 "아퀼레이아의 조약 서명"
  wingbardy.16.d:0 "Happily, it did not take long for meetings with Aquilean representatives in Chiazbeacle to bear fruit. [FROM.GetLeader] and the Aquilean government have seen the wisdom of our proposal, and are in complete agreement with us as to its necessity. No doubt this Pact will usher in an era of improved relations between our two great nations, perhaps even serving as a stepping stone towards a more official alliance in the future."
  wingbardy.16.a:0 "A toast to our Aquilean friends!"
 
- wingbardy.17.t:0 "Aquilea Rebuffs Us"
+ wingbardy.17.t:0 "아퀼레이아의 퇴짜"
  wingbardy.17.d:0 "Unfortunately, our planned conference in Chiazbeacle came to naught, as the Aquilean representatives neglected to even show up. [FROM.GetLeader] and the Aquilean government are too foolish to see the wisdom of our proposal, and are dead set on spurning our attempts at cooperation. In light of this, it seems we will have to look elsewhere for partners to aid us against our enemies."
  wingbardy.17.a:0 "Who do they think they are?"
 
- wingbardy.18.t:0 "The Tarrin Conference"
+ wingbardy.18.t:0 "타린 회담"
  wingbardy.18.d:0 "Ever since the first Aquileian revolution, the region of Tarrin has proven to be a major point of contention between Aquileia and Francistria. The area was seized by Count Francis VIII after a republican uprising which had overthrown the local Discret Countess. After the monarchist restoration, Francistrian army refused to vacate the territory as Francis VIII asserted his dynastic claim to Tarrin. Weakened by revolution, Aquileia did not dare to get into a conflict with the Karthinian Pact.\n\nNow, dignitaries from all parties involved are gathering to resolve the tensions, so the diplomatic relations between Aquileia, Francistria and Wingbardy can be normalized. Pleasing all three will be extremely difficult, and many are sceptical about the upcoming conference. But there is some hope that peace between the two major powers of southern Griffonia can be secured for the foreseeable future."
  wingbardy.18.a:0 "Let us pray it goes well."
 
@@ -1218,29 +1218,29 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.702.d:0 "In the blink of an eye Giovanni Gacci had pulled out his gun, aiming it straight for Proletarino's heart and pulling the trigger. The communist let out a scream, looking at his chest with unbelief. His glasses fell from his beak, the glass cracking. He then muttered something too soft for any griffon in the room to understand. As Gacci had hoped, the three young griffons did not fire in the moment, although one had her talon on the trigger. The socialist managed to soften his voice as his colleague squirmed on the floor. \"What is your name, miss?\"\n\"Gianna. . .\" the other two stared in disbelief as she aimed her rifle determinedly. \"What is your job Gianna?\"\n\"I work at a Wrobert dockyard, mister Gacci.\" She stepped forward, her rifle aimed at the griffon's forehead.\n\"I see. Thank you for helping us. Without Wrobert, the revolution wouldn't have been possible.\"\n\"And you did nothing! The PCW always helped us dockers!\"\n\nGiovanni's eyes widened in fear, but he pressed on. \"Don't think about what I did, but about what I will do. If you lower your rifle, your fight will be over. If you shoot, who knows?\"\n\"I just. . .\" Her grip weakened.\n\"How about you all go home? You have done your part, now let me do mine.\" Gianna lowered her rifle hesitantly and Gacci managed a smile when the three young adults sat down on the floor. The socialist party leader tore his national flag from the wall and draped it over Proletarino's body. The gentle pink and purple hues soon turned red with blood. . ."
  wingbardy.702.a:0 "May his blood be the last spilled for this flag."
 
- wingbardy.71.t:0 "Wingbardian Communists Ask For Support"
+ wingbardy.71.t:0 "윙바르디 공산주의자들의 지원 요청"
  wingbardy.71.d:0 "News from Wingbardy recently has been nothing but alarming. It appears that the country is on the brink of being taken over by fascists under the leadership of Beakolini. Fortunately for the griffons there, an alliance of leftwing forces has been preparing to stop the fascists' rise to power by force. The Partito Communista Wingbardo, the Wingbardian Communist Party, has managed to use its connections here in Stalliongrad to sneak in a request for aid. The rebels are going to need guns and whatever else we can spare, but there is no guarantee that if we do this, the communists will be strong enough to take power themselves."
- wingbardy.71.a:0 "We will help our griffon comrades."
- wingbardy.71.b:0 "We cannot get involved in griffon affairs."
+ wingbardy.71.a:0 "우린 그리폰 동무들을 도울 것이다."
+ wingbardy.71.b:0 "그리폰들 일에 우리가 끼어들 수는 없다."
 
- wingbardy.72.t:0 "Stalliongrad Offers Help"
+ wingbardy.72.t:0 "스탈리온그라드의 지원 제안"
  wingbardy.72.d:0 "The PCW's connection in Stalliongrad has paid off. Currently a captain from the comrades on Equus has reported that tomorrow he will depart with a container ship full of Stalliongradian weapons and supplies. They are not quite sure when they will reach Karthin, but their help will be priceless in the upcoming conflict."
- wingbardy.72.a:0 "This will be useful."
+ wingbardy.72.a:0 "이는 분명 도움이 될 것이다."
 
- wingbardy.73.t:0 "Stalliongrad Refuses to Help"
+ wingbardy.73.t:0 "스탈리온그라드의 요청 거부"
  wingbardy.73.d:0 "It seems the PCW has either overestimated its own influence in Stalliongrad or the ponies' commitment to the ideal of international revolution. Either way, we cannot expect help from the communists at this time, an embarrassment for Proletarino, to be sure."
- wingbardy.73.a:0 "Are they truly communists?"
+ wingbardy.73.a:0 "놈들이 진짜 공산주의자이긴 한 것인가?"
 
- wingbardy.74.t:0 "Equipment from Stalliongrad Arrives"
- wingbardy.74.d:0 "At nine in the morning yesterday, the huge cargo freighter ‘Vechnokrasnyy' steamed into Wrobert harbour and crews of dockers with red armbands rushed aboard to help the ponies unload its invaluable cargo. They carried crates of munitions of all calibres, along with rifles, sidearms and grenades. Then came crates full of medical supplies, tents and everything else needed. Lastly, twenty-five artillery pieces, which took a dozen griffons to roll off the ship safely. The Stalliongradians surely provided for the revolution!\n\nSadly, as the ship left the harbour, it managed to get lodged sideways at the harbour's entrance, unable to move and blocking all traffic in and out. Workers are currently working on pushing the ship back into the water and send the Vechnokrasnyy back on her way to Stalliongrad."
- wingbardy.74.a:0 "These will help us crush the fascists!"
+ wingbardy.74.t:0 "스탈리온그라드의 물자 지원 도착"
+ wingbardy.74.d:0 "어제 아침 9시, 거대한 화물선 '비예흐노크라스니' 호가 브로베르트 항에 입항했고, 함선의 포니들과 붉은 완장을 찬 항구 노동자들이 함께 함선이 싣고 온 귀중한 화물을 내렸습니다. 이들은 먼저 각종 구경의 탄약이 담긴 상자와 소총, 보조무기, 수류탄들을 내렸고, 그다음엔 의료품과 텐트, 그리고 다른 여러 필요한 것들이 담긴 상자를 내렸습니다. 마지막으로는 대포 25문을 함선에서 내렸는데, 안전하게 내리느라 그리폰 수십 마리가 달라붙어야 했습니다. 스탈리온그라드가 혁명을 돕기 위해 정말 엄청난 지원을 보낸 것입니다!\n\n안타깝게도, 함선이 출항하던 도중 그만 항구 입구에 끼어버려 움직이지 못하게 되었으며, 다른 함선들의 입출항도 막혀버렸습니다. 현재 항구 노동자들이 함선을 다시 띄워 비예흐노크라스니 호가 스탈리온그라드로 돌아갈 수 있도록 하기 위해 작업을 진행하고 있습니다."
+ wingbardy.74.a:0 "이 지원은 파시스트 놈들을 쳐부수는데 도움이 될 것이다!"
 
- wingbardy.75.t:0 "Our International Comrades"
+ wingbardy.75.t:0 "국제 세계의 동지들"
  wingbardy.75.d:0 "Communism is an international affair, or some would say, an anti-national affair. Whatever the case, we are not the only creatures on this continent pursuing a classless society. We are, however, still under threat from numerous bourgeois capitalist countries. To protect the revolution in Wingbardy, we need allies. Our options will naturally depend on successful revolutionary movements across Griffonia. . ."
- wingbardy.75.a:0 "Aquileia!"
- wingbardy.75.b:0 "Prywhen!"
- wingbardy.75.c:0 "New Mareland!"
- wingbardy.75.e:0 "We shall lead communism into the bright future!"
+ wingbardy.75.a:0 "아퀼레이아!"
+ wingbardy.75.b:0 "프라이웬!"
+ wingbardy.75.c:0 "뉴메어랜드!"
+ wingbardy.75.e:0 "우리가 직접 공산주의를 밝은 미래로 이끌 것이다!"
 
  wingbardy.76.t:0 "Communist Propaganda Spreads"
  wingbardy.76.d:0 "It appears that a wave of communist propaganda has been spreading through our nation. Informants suggest that this propaganda is not locally made and is instead smuggled in by operatives working for a foreign power. It is obvious that Wingbardy is the culprit, but so far, we have been unsuccessful in tracking down the smugglers. We can only hope that this propaganda will burn itself out soon enough."
@@ -1256,7 +1256,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.78.a:0 "Time to send in the troops."
  wingbardy.78.a:0 "Actually, lets not help our comrades."
 
- wingbardy.79.t:0 "The Conscription Question"
+ wingbardy.79.t:0 "징병 문제"
  wingbardy.79.d:0 "As battle lines coalesce along partisan loyalties, serious questions have arisen regarding the recruitment of soldiers. The hopes for a swathe of willing volunteers have been dashed, and our commanders are desperately calling for new recruits. The obvious solution to this deficit would be enforcing conscription, but there are possible issues.\n\nShould we call upon drafted Wingbardians, many of them might not be in line with our ideals and committed to our cause. This, of course, means that they are not as willing to fight on as our more ardent volunteers and possibly lead to future problems such as desertion or, worse, defection. There is also the matter of 'diluting' the cause with griffons who aren't already supporting us.\n\nHowever, realities on the ground make it clear that we will be at a severe disadvantage if we do not enact conscription. We may have to sacrifice somewhat on our ideals to carry the revolution through to victory."
  wingbardy.79.a:0 "We need every griffon we can get."
  wingbardy.79.b:0 "The revolution shall be voluntary."
