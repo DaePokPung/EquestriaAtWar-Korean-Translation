@@ -226,7 +226,7 @@
  WNG_arm_the_red_guard:0 "적위대 무장"
  WNG_arm_the_red_guard_desc:0 "Comrade, forget about the politicians, there is no time. The Red Guard is an organisation of tough griffons who fought the blackwing claw to claw in many street brawls. We must call them together once more and raid guns from the Karthin armoury. They are determined to teach the fascists a lesson of lead and you shouldn't turn down their help now."
 
- WNG_evacuate_the_chamber_of_Deputies:0 "국회의원 구조"
+ WNG_evacuate_the_chamber_of_Deputies:0 "의원 구출"
  WNG_evacuate_the_chamber_of_Deputies_desc:0 "Blackwing vanguards are patrolling the streets close to parliament with most of the liberal politicians still inside with their staff. I'm begging you, you must save our elected representatives from these thugs. Yes, they can't fight, but their support will be crucial in the upcoming conflict. In the name of democracy, please launch a rescue operation now!"
 
  WNG_mobilise_the_trade_unions:0 "노동조합 동원"
@@ -410,7 +410,7 @@
  WNG_open_the_universities:0 "Open the Universities"
  WNG_open_the_universities_desc:0 "Economics, sociology, history and philosophy, pseudosciences in capitalist education. We shall do away with the economic logic of profit maximalisation, the sociology of class collaboration, great-griffon history and the philosophy of greed. They shall be replaced by the labour theory of value, class consciousness, material historiography and the philosophy of equality."
 
- WNG_encourage_equal_education:0 "Encourage Equal Education"
+ WNG_encourage_equal_education:0 "균등교육 장려"
  WNG_encourage_equal_education_desc:0 "Socialists cannot be blinded by their own optimism. The history of capitalism still scars our society and nowhere is this more evident than in access to education. Rich parents afford help to their kids so that they can reach the best institutions and poorer kids are left behind. We must attempt to salvage this situation and give every griffon the education they deserve."
 
  WNG_the_new_economic_reality:0 "The New Economic Reality"
@@ -498,7 +498,7 @@
  WNG_trans_celestial_defence_treaty:0 "Trans-Celestial Defence Treaty"
  WNG_trans_celestial_defence_treaty_desc:0 "Though friendship can solve most problems, we still need to be ready in the event we find ourselves in an armed conflict. Senior officials within our military have proposed that we coordinate a training program with Equestria’s forces so that we may all improve our combat readiness."
 
- WNG_joint_training_excersises:0 "Joint-Training Excersises"
+ WNG_joint_training_excersises:0 "합동 군사훈련"
  WNG_joint_training_excersises_desc:0 "There is much we can learn from our Equestrian friends, and much they can learn from us. Our armies shall meet in southern Equestria to train together so that we can better work together in the future."
 
  WNG_joint_science_exchange:0 "Equestrian-Wingbardian Science Exchange"
@@ -721,7 +721,7 @@
  WNG_bastion_of_the_south:0 "남부의 보루"
  WNG_bastion_of_the_south_desc:0 "윙바르디에겐 현 국경을 넘어 확장할 필요가 없습니다. 윙바르디는 폭풍을 견뎌낼 것입니다, 필요하다면 몇 년 동안이라도, 혼자서라도 말입니다. 우리는 자기들의 위대하다는 사상을 위해서, 아니면 단지 영토를 넓히기 위해서 우릴 정복하려는 팽창주의자들을 물리칠 것입니다. 온다면 오게 둡시다, 우린 준비되어 있을 테니 말입니다!"
 
- WNG_royal_works:0 "The Royal Works"
+ WNG_royal_works:0 "왕립 공장"
  WNG_royal_works_desc:0 "To prepare for any coming danger, it is necessary to rapidly increase our defence industry. Royal Works will be opened across the country to ensure that Wingbardy is self-sufficient when it comes to the production of what is necessary to protect our country. "
 
  WNG_wingbardy_rises:0 "Wingbardy Rises"
@@ -751,7 +751,7 @@
 
 ### Industry ###
  WNG_reignite_the_industrial_sector:0 "산업 분야 재활성화"
- WNG_reignite_the_industrial_sector_desc:0 "윙바르디의 산업은 한때 전 그리포니아의 선망을 받았으나, 수 년간 정체되면서 혼란에 빠지고 말았습니다. 윙바르디가 다시금 정상에 설 수 있도록, 국가의 산업을 다시 활성화해야만 합니다." Wingbardy's industry was once the envy of all Griffonia, but it has stagnated for years, falling into disarray. We must reignite this nation's industrial spark to ensure that once again Wingbardy comes out on top."
+ WNG_reignite_the_industrial_sector_desc:0 "윙바르디의 산업은 한때 전 그리포니아의 선망을 받을 정도였지만, 수 년간 정체되면서 혼란에 빠지고 말았습니다. 윙바르디가 다시금 정상에 설 수 있도록, 나라의 산업을 다시 활성화해야만 합니다."
 
  WNG_build_a_military_economy:0 "군사 경제 건설"
  WNG_build_a_military_economy_desc:0 "With the threat of war looming, Wingbardy must be prepared in case fighting does break out. An able-bodied Wingbardian is only half a soldier without his rifle, so let us make sure that the State will be able to provide him ten rifles!"
@@ -786,7 +786,7 @@
  WNG_owlivetti_electronics:0 "오블리베티 전자"
  WNG_owlivetti_electronics_desc:0 "Founded by Guglielmo Owlivetti, the latest in a long line of great Wingbardian scientists, Owlivetti Electronics is one of the most prestigious and well-known electronics brands in the world. We should provide support to help them expand their capabilities."
 
- WNG_counting_engine:0 "The Counting Engine"
+ WNG_counting_engine:0 "계산하는 기계"
  WNG_counting_engine_desc:0 "Guglielmo Owlivetti, the pioneer of Wingbardian electronics, has developed a new machine capable of calculating complex mathematical equations in a fraction of a second. This machine will revolutionise the future of electronics and mathematics; he calls it the Counting Engine."
 
  WNG_economic_recovery:0 "경제 회복"
@@ -814,11 +814,11 @@
  WNG_renew_the_southern_alliance:0 "Renew the Southern Alliance"
  WNG_renew_the_southern_alliance_desc:0 "Our allies have long stood by us. We should renew our commitment to peace and security in the South. Together we shall stand against any foe."
  WNG_alliance_with_the_minotaurs:0 "조약 확장"
- WNG_alliance_with_the_minotaurs_desc:0 "그리포니아 남부의 자유와 윙바르디의 주도적 지위를 진정으로 보장하기 위해선, 카르티니아 조약을 확장할 필요가 있습니다. 북쪽의 팽창주의자들과 사악한 공산주의의 괴물을 막으려면, 우린 함께해야만 합니다."
+ WNG_alliance_with_the_minotaurs_desc:0 "그리포니아 남부의 자유와 윙바르디의 주도적 지위를 진정으로 보장하기 위해선, 카르티니아 조약을 확장할 필요가 있습니다. 북쪽의 팽창주의자들과 사악한 공산주의 괴물들을 막으려면, 우린 함께해야만 합니다."
  WNG_southern_sociaty_of_science:0 "남부 과학협회"
  WNG_southern_sociaty_of_science_desc:0 "The Southern States were once the home of the greatest of griffon minds. We should build a united research and development society to help bring us back to the forefront of the world."
  WNG_southern_security_council:0 "남부 안전보장이사회"
- WNG_southern_security_council_desc:0 "그리포니아 대륙의 긴장이 심화하고 있으니, 동맹들과 함께 통일된 전략을 구축해야만 합니다. 먼저 동맹국들로 구성된 위원회를 설립하는 것으로 시작합시다."
+ WNG_southern_security_council_desc:0 "그리포니아 대륙의 긴장이 심해지고 있으니, 동맹들과 함께 통일된 전략을 구축해야만 합니다. 먼저 동맹국들로 구성된 위원회를 설립하는 것으로 시작합시다."
 
 ### NAVY ###
  WNG_regia_marina:0 "[Root.GetRegiaMarinaName]"
@@ -846,7 +846,7 @@
  WNG_froggriffs_effect:0 "Enables §HFroggriffs§!\n§HSubmarines§!\n    Torpedo Attack: §G+10%§!\n    Surface Visibility: §G-5%§!\n    Sub Visibility: §G-5%§!\n§HDestroyers§!\n    Torpedo Attack: §G+10%§!\n    Surface Visibility: §G-5%§!\n§HLight Cruisers§!\n    Torpedo Attack: §G+10%§!\n    Surface Visibility: §G-5%§!\n"
  WNG_froggriffs_desc:0 "The Froggriffs are scuba-diver trained griffons tasked with silently approaching ships at night and plantiing mines to their hulls. Early tests have shown much promise, and Froggriffs are expected to be highly effective supplement to our naval forces."
  
- WNG_dockyard_expansion_fund:0 "Dockyard Expansion Fund"
+ WNG_dockyard_expansion_fund:0 "조선소 확장 기금"
  WNG_dockyard_expansion_fund_desc:0 "A fund should be set up to allow our dockyard owners to expand their facilities. This will provide sufficient space for our navy to grow."
  
  WNG_naval_projection:0 "Naval Projection"
@@ -1104,13 +1104,13 @@
  wingbardy.39.d:0 "The polls were once again opened to all Wingbardians today, for the recent passing of the Gacerbo Law has mandated a new early election to reshuffle and reorganize the parliament. And just as hoped, the PNF got a vast majority of votes compared to the rest of the parties, securing their two-thirds majority we needed in deputies. The results in some states were seriously questioned due to rumors of voter intimidation, electoral fraud and other such acts by Blackwing members, but nevertheless they have now been generally accepted and the PNF given their rightful seats as mandated by the Gacerbo Law. We now have our safe majority in the Chamber of Deputies, and our great Duce Beakolini finally has the ability to fully carry out his goals for the future of Wingbardy."
  wingbardy.39.a:0 "계획한 대로다."
 
- wingbardy.40.t:0 "The Gacerbo Law Passes"
+ wingbardy.40.t:0 "가체르보 법의 가결"
  wingbardy.40.d:0 "After many hours of debate and final desperate efforts from opponents to stall the vote, the Chamber of Deputies has finally passed the Gacerbo Law. The bill will be officially signed into law tomorrow and elections will be scheduled to occur after a month.\n\nBeakolini is reported to be pleased by the law and gave a passionate speech about how the law will restore confidence in democracy to all Wingbardians and that the days of an inadequate government failing to resolve the nation's many issues are long behind them.\n\nOpponents however left the chamber in solemn silence and have reported the passing of the bill to be the death of democracy."
- wingbardy.40.a:0 "In just one month Wingbardy will be Beakolini's."
+ wingbardy.40.a:0 "한 달만 있으면, 윙바르디는 비콜리니의 것이 될 것이다."
 
- wingbardy.41.t:0 "The Gacerbo Law Fails"
+ wingbardy.41.t:0 "가체르보 법의 부결"
  wingbardy.41.d:0 "A major setback occurred yesterday as the Gacerbo Law failed to pass through the Chamber of Deputies. The vote was tight, but without a majority of support from the Deputies the bill was doomed to fail. Its defeat was a clear signal to Beakolini and the Fascists that their plans to secure an absolute majority legally have failed and their efforts will continue to be hampered by the liberal and socialist opposition.\n\nHaving failed in installing their dictatorship peacefully, alternative options would now have to be considered to ensure Beakolini's dream of a fascist Wingbardy..."
- wingbardy.41.a:0 "Curses!"
+ wingbardy.41.a:0 "제기랄!"
 
  wingbardy.42.t:0 "윙바르디 인민당의 분열"
  wingbardy.42.d:0 "성직자의 지지를 얻은 것은 우리가 처음에 생각했던 것보다 더 큰 성공이었던 것 같습니다. 윙바르디 인민당은 오랫동안 우리에게 골칫거리였지만, 성직자의 지지로 우리는 그들의 유권자 중 상당수를 가져올 수 있었습니다. 이 때문에 인민당 내부에서는 당의 강경한 반 파시즘 정책에 반대하는 목소리가 높아지고 있습니다. 인민당 당수 돈 루이지 구투르초는 비콜리니에 대한 성직자의 지지에 근심이 깊어진 상태이며, 성직자와의 사적인 만남 이후 윙바르디 인민당 대표직을 사임했다고 합니다. 그의 후임자는 그의 오른발 조반니 데 가스프빈지라고 합니다.\n\n가스프빈지 역시 돈 구투르초만큼이나 우리에게 강력히 반대하는 입장이지만, 현재 그의 정당은 심각하게 분열된 상태이기에 우리에게 큰 위협이 되지는 않을 것입니다."
@@ -1192,18 +1192,18 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.64.a:0 "Colonialism is the enemy of socialism."
  wingbardy.64.b:0 "We will be back to liberate the Abyssinian workers!"
 
- wingbardy.65.t:0 "The Formalisation of the Chiazbeacle Pact"
+ wingbardy.65.t:0 "치아즈비클 조약의 공식화"
  wingbardy.65.d:0 "Today, the delegation from Wingbardy has arrived at Aquila, sent by [FROM.GetLeader]. The delegation met with [ROOT.GetLeader] and discussed the prospect of formalising the previously signed Chiazbeacle Pact and turning it into an alliance between the Kingdom of Aquileia and the Karthinian Pact.\n\nAs of lately, Aquileia and Wingbardy have been aiming for a détente. Both sides have finally put a decisive end to the long-lasting Tarrin conflict, and ever since our relations have only gotten better. After signing a defence pact, it would only be logical to go further and sign an official alliance between our blocs, so we can unite our forces against common enemies.\n\nOn the other claw, it might be better to bide our time, as the situation in the region can drastically change in the matter of days or weeks. We would not want to get in trouble because of our own poor decisions.\n\nUltimately, [ROOT.GetLeader] will decide, if we will join the alliance or not."
- wingbardy.65.a:0 "We gladly accept!"
- wingbardy.65.b:0 "We politely refuse."
+ wingbardy.65.a:0 "기꺼이 수락한다!"
+ wingbardy.65.b:0 "정중히 거절한다."
 
- wingbardy.66.t:0 "Aquileia Agrees"
+ wingbardy.66.t:0 "아퀼레이아의 수락"
  wingbardy.66.d:0 "Our delegation has returned with great news - Aquielia has agreed to officialise the Chiazbeacle Pact! The delegation has told the Aquileians, that it would only make sense to proceed to improve and tighten our relations. Gladly, they have received our proposal warmly and [JER.GetLeader] had signed it, thus making Chiazbeacle Pact an official entity and uniting us in the face of common enemies."
- wingbardy.66.a:0 "Hooray! Hooray! Hooray!"
+ wingbardy.66.a:0 "만세! 만세! 만세!"
 
- wingbardy.67.t:0 "Aquileia Rejects"
+ wingbardy.67.t:0 "아퀼레이아의 거절"
  wingbardy.67.d:0 "Our delegation has returned with bad news - Aquielia has not agreed to officialise the Chiazbeacle Pact. The delegation has told the Aquileians, that it would only make sense to proceed to improve and tighten our relations. Sadly, they have not supported our proposal and refused to sign it, so our relations stay the same. Our delegation had no choice but to return back home."
- wingbardy.67.a:0 "How foolish of them."
+ wingbardy.67.a:0 "멍청한 놈들."
  
  wingbardy.70.t:0 "The Red Banner Triumphant"
  wingbardy.70.d:0 "Three knocks against the door of his office shook Giovanni Gacci awake from his nap. It had been the first nap he had since he joined the revolution. It seemed some griffon had other plans for him tonight, though. Another knock, more incessant. \"Come in, I'm here.\" When the door opened, the socialist leader widened his eyes at the sight before him. Three armed griffons, barely adults, entered, along with Antonino Proletarino, the leader of the PCW. The latter put a stack of papers on Gacci's desk.\n\"Ah, mister Gacci, enjoying your rest?\"\n\"Cut to the chase Anton, and please put those guns downs, you will hurt somegriff.\" The three hesitated, slightly lowering their rifles.\n\"Thank you for your speech in the Chamber today, Giovanni, a few words from you and the liberals who opposed our cause fled Karthin!\"\n\nWas Anton really just starting another coup? \"Our cause, or yours? Look at you, reveling in the power of the gun. The power of the fasces!\" Giovanni stood up, causing three rifles to point at him, the barrels shaking from unsteady claws.\n\"I am no fascist!\" The communist slammed Gacci's desk. \"I will protect the revolution. I will not let you stop me! Now sign this.\"\nGacci read the papers. \"What is this. . . arrest warrants? A party fusion? No griffon is going to believe this! You are subverting the will of the people!\" Gacci's protests were met with silence. Giovanni slumped back down in his seat, looking up at the four faces staring at him. The griffon felt his heart pound in his chest. His desk drawer had his pistol in it, loaded. He did not expect the future of Wingbardian democracy to come down to his own personal bravery, but here he was. Gacci reached his claw down to his drawer. . ."
@@ -1379,18 +1379,18 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.1061.d:0 "Not only did they reject our demands, they kicked our ambassador out of the nation with a giant boot."
  wingbardy.1061.a:0 "So, it's war then."
  
- wingbardy.107.t:0 "An "Offer" from [WNG.GetNameDef]"
+ wingbardy.107.t:0 "[WNG.GetNameDef]의 "제안""
  wingbardy.107.d:0 "After weeks of negotiations [WNG.GetNameDef] has presented us with an ultimatum. Either we stand down our armies, allow [WNG.GetAdjective] officials to oversee all aspects of our government and accept the [WNG.GetAdjective] rules of law, or a state of war will exist between us and [WNG.GetNameDef]."
  wingbardy.107.a:0 "Perhaps things won't be so bad if we accept..."
  wingbardy.107.b:0 "We won't go down without a fight!"
 
- wingbardy.108.t:0 "Falcor Refuses!"
+ wingbardy.108.t:0 "팔코르의 거절!"
  wingbardy.108.d:0 "Our demands were refused by the Falcorian government, and our ambassador has been expelled from the country."
  wingbardy.108.a:0 "We won the last war. Now we finish the job."
 
- wingbardy.109.t:0 "Falcor Accepts!"
+ wingbardy.109.t:0 "팔코르의 수락!"
  wingbardy.109.d:0 "Our diplomatic corps in Falcor has succeeded in its task, and while there were much grumbling from the Falcorians, our ambassador returned with an agreement for Falcor to accept [WNG.GetAdjective] annexation."
- wingbardy.109.a:0 "Excellent!"
+ wingbardy.109.a:0 "훌륭하군!"
 
  wingbardy.110.t:0 "Wingbardy Offers us an Alliance"
  wingbardy.110.d:0 "Diplomats from Wingbardy arrived today with an unexpected offer. They wish to make amends for the past and for us to join their Southern Alliance."
@@ -1783,7 +1783,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy_flavour.4.d:0 "#TODO "
  wingbardy_flavour.4.a:0 ""How do they know?""
 
- wingbardy_flavour.5.t:0 "Founding of the National Liberation Committee"
+ wingbardy_flavour.5.t:0 "민족 해방 위원회의 창설"
  wingbardy_flavour.5.d:0 "It had been a few days since Prime Minister Ventriglio had briefed the Chamber of Deputies about the March on Karthin and the rallying of the blackwings. Although the head of government had promised action, the left wing of the Chamber decided to take matters into their own claws. In a side room of the parliament building, the unlikely alliance was ready to formalise. In attendance were the leader of the orthodox communist party, Antonino Proletarino, considered an extremist by the others leaders. Giovanni Gacci and Giacomo Gatteotti represented the revolutionary and reformist wings of the socialist party respectively. Gacci was a popular journalist and intellectual, who successfully brought many working class griffons outside of Wrobert into the socialist movement, while Gatteotti's unitary faction was a growing democratic faction in the party. Lastly, there was Guto Golajanni, representing the Republican Party of Wingbardy. His party was by far the smallest in attendance, but behind the aged criminologist's gentle features lay a fierce anti-fascist republican with important connections.\n\nAt the meeting, the gentlegriffs decided to form the National Liberation Committee and to evacuate Karthin with their parties. They would meet again in the port city of Wrobert, where the socialist movement was firmly established and where they would have little to fear from fascist agitators. Sympathetic officers would be contacted and socialist and republican organisations would be rallied and organised as best as possible. When the meeting was over, the air in the room felt heavy. The actions the griffons had committed themselves to were dangerous to their very persons, but they all knew that they had only one chance to stop fascism. Proletarino was the only one somewhat excited at the revolutionary plotting, while Golajanni seemed somewhat uneasy between the far left leaders. Gacci and Gatteotti, who could not stand each other normally, finally seemed in agreement, a reminder of the strength of a united Socialist Party."
  wingbardy_flavour.5.a:0 "The talking is over, now is the time to act."
 
@@ -1791,9 +1791,9 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy_flavour.6.d:0 "The shadow of night hid four of the Red Guard's best shooters on the rooftops of Karthin's central district. Their rifles were pointed towards a well-lit building. It was a concrete insult to aesthetics tainting the otherwise ornate city-centre. The building was nicknamed ‘The Monster' for its hideousness. It had been built after Wingbardian independence to hold arms for the royal army in case of a republican uprising. Now, the arms inside would topple the monarchy which commissioned it.\n\nAlmost simultaneously, four shots rang in the dark and four bodies dropped in front of the building. Below the sharpshooters, dozens of griffons wearing red bands emerged from basements, rushing towards the entrance. As surprised guards went outside to check on the gunfire, they were quickly mobbed and struck to the ground by the Red Guards, who used the opportunity to get inside of the Monster. Exactly five minutes later, a series of trucks ran up to the building, with the red guards who went inside returning with as many rifles and munitions as they could carry, the alarms blaring into the otherwise silent city. Before the carabinieri or the army arrived on the scene, the convoy of trucks was already racing out of the city, joining the rest of the Red Guard on their exodus of Karthin to the new revolutionary headquarter of Wrobert.\n\nNews of the successful raid on the Monster quickly spread through Wingbardy the next day, as an embarrassment for the government and the fascists, who planned to use those rifles themselves. The Red Guard also received a lot of recruits the following days, as many griffons sought to join the dashing brigades of the revolution, hoping to one day perform such heroic deeds themselves."
  wingbardy_flavour.6.a:0 "We will be back, Eternal Karthin!"
 
- wingbardy_flavour.7.t:0 "A Chamber Without Deputies"
+ wingbardy_flavour.7.t:0 "의원 없는 국회"
  wingbardy_flavour.7.d:0 "The Red Guard had been cursing and complaining when they heard of the plan to evacuate the Chamber of Deputies to save some bourgeois politicians. However, their mood changed for the better when they realised the building was surrounded by fascists, who were locked in a sort of quasi-siege with the carabinieri, who were dutifully protecting the deputies, their staff and their families inside the building. There was no way to do this in a subtle way, so the Red Guard rallied every member it had in the city and descended on the blackwings. The square in front of the Chamber became a massive brawl, claws clawing, clubs swinging and bricks and bottles flying through the air. This was the culmination of years of brawls in salons, on squares and other meeting places and all the pent up rage both sides felt. After a few minutes of violence, it appeared that the Red Guard had underestimated how many blackwings were already in the capital, as more and more fascists appeared. The situation looked helpless, until a cordon of heavily armed carabinieri descended from the steps of the Chamber.\n\nThe policegriffons started to systematically clear the square of blackwings, allowing the socialist militia to take care of their wounded and rush inside the chamber. Inside they found the Prime Minister, along with members of his party and the other liberals. Before the fascists could send reinforcements or the King could send the army after them, the Red Guard evacuated every griffon in the building out of Karthin. The escape of the liberal politicians and the bruised pride of the fascists shored up support for the democratic faction of the National Liberation Committee, with many deputies finally openly denouncing the imminent fascist coup."
- wingbardy_flavour.7.a:0 "We will be back, Eternal Karthin!"
+ wingbardy_flavour.7.a:0 "꼭 돌아오마, 영원한 카르틴이여!"
 
  wingbardy_flavour.8.t:0 "Scioperate!"
  wingbardy_flavour.8.d:0 ""Organise in all companies the general strike!\nFight fascist terror in unison!\nDemand the arrest of Beakolini!\nDemand the disbanding of the blackwing terror groups!\nOrganise self-defence in the workplace and the neighbourhoods!\nShow solidarity to the oppressed of Abyssinia!\nRealise the power of your united vigour, it is many times greater than military or fascist repression! If they knew your righteousness, you would surely have many of the soldiers on your side!\n\nSTRIKE! STRIKE! STRIKE!\n\nShut down the entire industrial might of Wingbardy, the wharfs, the ateliers, the offices and banks, the factories and bureaucracy!\nForce ‘the Duce' to give in! Then you will have struck a blow to his monstrous plans to destroy the power of the worker! Then you will stop the exploitation of your labour! Demand higher wages! Battle Fiercely for the liberation of our country!\nComrades, give this manifesto to others after you read it, or glue it in a good place, but be careful!\nRemember Stalliongrad! Remember Skynavia! Your power is unbreakable!\nLong live the Revolution!"\n\nProletarino's call for a general strike went out to all of Wingbardy and the trade unions complied. The chimneys of her many factories emitted no smoke. The banks and offices were closed. No griffon went down the mines. The Wingbardian worker slowly began to realise just how powerful they really were when working together. Suddenly, a state led by the worker seemed within reach. The King, il Duce. Their power was nothing without the power of labour. Now that the workers of Wingbardy felt powerful, they did not want to give up that power anymore! They would fight for it!"
@@ -2236,7 +2236,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  on_completion_tt:0 "When the focus is completed:\n"
 
  WNG_mobilise_the_trade_unions_tt:0 "We will have a §Ybonus to our industry§! when the civil war starts."
- WNG_arm_the_red_guard_tt:0 "§Y4 additional Red Guard§! divisions will join our side when the civil war starts."
+ WNG_arm_the_red_guard_tt:0 "내전이 발발하면 §Y추가적인 적위대 사단 4개§!가 우리 편에 가담할 것입니다."
  WNG_secure_police_support_tt:0 "내전이 발발하면 §Y카라비니에리 사단 3개§!가 우리 편에 가담할 것입니다. §R만약 이 중점이 완료되지 않으면 카라비니에리는 파시스트 측에 가담할 것입니다.§!"
  WNG_reach_out_to_the_liberal_generals_tt:0 "내전이 발발하면 §Y추가적인 육군 장군들§!이 우리 편에 가담할 것입니다."
  WNG_add_10_civil_war_stability_tt:0 "Add §Y10 stability§! when the civil war starts."
