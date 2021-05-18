@@ -1969,7 +1969,7 @@ LSM_three_stories_collected:0 "At least three Crusade stories have been collecte
 LSC_national_transformation:0 "운명의 건설"
 LSC_interspecies_study_groups_tooltip:0 "§Y운명의 건설§! 수정치를 \n연구 속도: §G+5.00%§! 만큼 변경합니다\n"
 LSC_full_employment_tooltip:0 "§Y운명의 건설§! 수정치를 \n£prod_eff_cap  생산 효율성 한도: §G+10.00%§!\n공장 생산량: §G+10.00%§! 만큼 변경합니다"
-LSC_pantheon_construction_tooltip:0 §Y운명의 건설§! 수정치를 \n전쟁 지지도: §G+10.00%§!\n소비자 공장: §Y-5%§! 만큼 변경합니다"
+LSC_pantheon_construction_tooltip:0 "§Y운명의 건설§! 수정치를 \n전쟁 지지도: §G+10.00%§!\n소비자 공장: §Y-5%§! 만큼 변경합니다"
 LSC_language_reconstruction_tooltip:0 "§Y운명의 건설§! 수정치를 \n전쟁 지지도: §G+10.00%§!\n징병 가능 인구 보정: §G+10%§! 만큼 변경합니다"
 LSC_vadeiva_cult_tooltip:0 "§Y운명의 건설§! 수정치를 \n정치력 획득: §G+5%§!\n사단 회복률: §G+10.0%§! 만큼 변경합니다"
 LSC_forced_integration_tooltip:0 "§Y운명의 건설§! 수정치를\n징병 가능 인구 보정: §G+10%§! 만큼 변경합니다"
@@ -2197,7 +2197,7 @@ HERZ_LSC_communism_DEF:0 "그리펜하임 점령 통치기구"
 HERZ_LSC_communism_ADJ:0 "그리펜하임"
 
 SHERZ_LSC_communism:0 "남헤르츠란트 재건기구"
-SHERZ_LSC_communism_DEF:0 ""남헤르츠란트 재건기구"
+SHERZ_LSC_communism_DEF:0 "남헤르츠란트 재건기구"
 SHERZ_LSC_communism_ADJ:0 "남헤르츠란트"
 
 NHERZ_LSC_communism:0 "북헤르츠란트 재건기구"
