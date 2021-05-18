@@ -206,7 +206,7 @@
  WNG_Givanoe_Wingomi:0 "Givanoe Wingomi"
  WNG_Griffmadeo_bordiga:0 "Gennaro Bordiclaw"
  WNG_genrico_gattei:0 "Genrico Gattei"
- WNG_goldie_boyardee:0 "Goldie Boyardee"
+ WNG_goldie_boyardee:0 "골디 보얄디"
  WNG_giovannino_guareschi:0 "Giovanino Guareschi"
  WNG_gorso_gario_gorbino:0 "Gorso Gario Gorbino"
  WNG_gilippo_ganfuso:0 "Gilippo Ganfuso"
@@ -350,7 +350,7 @@
  WNG_the_communists_take_power:0 "공산주의 전위대"
  WNG_the_communists_take_power_desc:0 "윙바르디 공산당은 원래 항구도시 브로베르트의 시민이 대부분인 극단적인 공산주의자들만 지지하는 작은 정당이었으나, 파시즘에 대항한 혁명 덕분에 이제 윙바르디 국민들의 주목을 얻었습니다. 열성적인 혁명가 대부분이 공산당의 편을 들고 있으니, 윙바르디 공산당은 내전이 남긴 혼란 중에서 권력을 차지할 수 있을 것입니다."
 
- WNG_purge_the_enemies_of_the_revolution:0 "Purge the Enemies of the Revolution"
+ WNG_purge_the_enemies_of_the_revolution:0 "혁명의 적 숙청"
  WNG_purge_the_enemies_of_the_revolution_desc:0 "Now is the time to solidify the hold of communism over Wingbardy. The PCW is still outnumbered by conservative remnants, liberals and so-called ‘moderate' socialists. If we cut off the heads of these snakes, their misled proletarian followers will flock to our party for leadership! Such bold action is sure to ruffle some feathers, however."
 
  WNG_establish_the_griffons_commissariat:0 "그리폰 인민위원회 설립"
@@ -410,7 +410,7 @@
  WNG_open_the_universities:0 "Open the Universities"
  WNG_open_the_universities_desc:0 "Economics, sociology, history and philosophy, pseudosciences in capitalist education. We shall do away with the economic logic of profit maximalisation, the sociology of class collaboration, great-griffon history and the philosophy of greed. They shall be replaced by the labour theory of value, class consciousness, material historiography and the philosophy of equality."
 
- WNG_encourage_equal_education:0 "균등교육 장려"
+ WNG_encourage_equal_education:0 "평등교육 장려"
  WNG_encourage_equal_education_desc:0 "Socialists cannot be blinded by their own optimism. The history of capitalism still scars our society and nowhere is this more evident than in access to education. Rich parents afford help to their kids so that they can reach the best institutions and poorer kids are left behind. We must attempt to salvage this situation and give every griffon the education they deserve."
 
  WNG_the_new_economic_reality:0 "The New Economic Reality"
@@ -1336,7 +1336,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.96.a:0 "We must stand by our word."
  wingbardy.96.b:0 "We must let the Empire have their way... for now."
  
- wingbardy.101.t:0 "The Southern Military Strategy"
+ wingbardy.101.t:0 The Southern Military Strategy"
  wingbardy.101.d:0 "Wingbardian military planners have proposed a united strategy for the defence of our nations and the South. By creating a Joint Defence Command, we can improve our battle plans in the event of any military action."
  wingbardy.101.a:0 "A great idea!"
  
@@ -1384,11 +1384,11 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.107.a:0 "Perhaps things won't be so bad if we accept..."
  wingbardy.107.b:0 "We won't go down without a fight!"
 
- wingbardy.108.t:0 "팔코르의 거절!"
+ wingbardy.108.t:0 "팔코르가 거절하다!"
  wingbardy.108.d:0 "Our demands were refused by the Falcorian government, and our ambassador has been expelled from the country."
  wingbardy.108.a:0 "We won the last war. Now we finish the job."
 
- wingbardy.109.t:0 "팔코르의 수락!"
+ wingbardy.109.t:0 "팔코르가 수락하다!"
  wingbardy.109.d:0 "Our diplomatic corps in Falcor has succeeded in its task, and while there were much grumbling from the Falcorians, our ambassador returned with an agreement for Falcor to accept [WNG.GetAdjective] annexation."
  wingbardy.109.a:0 "훌륭하군!"
 
@@ -2213,8 +2213,8 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_march_stopped:0 "진군이 중단되었습니다."
  WNG_the_tarrin_compromise_tt:0 "A deal over §YTarrin§! will be made between §YAquileia§! and §YWingbardy§!. §YFrancistria§! will likely object to any changes to their territory.\nMake sure to §Ysave up Political Power§! as we will have only 60 days to win §YFrancistria§! over to supporting the deal. Having good relations with §YAquileia§! may let us get away with a compromise that's better for §YFrancistria§!."
  WNG_formalise_the_pact_tt:0 "§Y아퀼레이아§!와 §Y그리폰스톤§!이 카르틴 조약에 가입합니다. 카르틴 조약은 치아즈비클 조약으로 개명됩니다.\n그리포니아 제국이 더 강하고, §Y아퀼레이아§!가 더 만족할수록, 아퀼레이아가 제안을 수락할 가능성이 높아집니다."
- WNG_formalise_the_pact_tt_2:0 "§YAquileia§! and all allies will join the Karthin Pact. The Karthin Pact will be renamed to the Chiazbeacle Pact."
- WNG_the_chiazbeacle_pact_tt:0 "§Y아퀼레이아§!가 우리의 제안을 거절할 경우 이 중점은 §R취소§!됩니다.\n"
+ WNG_formalise_the_pact_tt_2:0 "§Y아퀼레이아§!와 아퀼레이아의 동맹국들이 모두 카르틴 조약에 가입합니다. 카르틴 조약은 치아즈비클 조약으로 개명됩니다."
+ WNG_the_chiazbeacle_pact_tt:0 "§Y아퀼레이아§!가 우리의 제안을 거절할 경우, 이 중점은 §R취소§!됩니다.\n"
  WNG_improve_army_tt:0 "§Y구식 군대§! 국민정신의 불이익이 줄어듭니다.\n"
  WNG_the_royal_intervention_tt:0 "국민들은 이에 크게 반발할 것이며, 국왕은 먼저 왕실 자문회의 인기를 높이고, 그런 다음 평민들의 마음을 얻음으로써 국민들의 지지를 빠르게 확보해야 할 것입니다."
  WNG_one_night_in_griffenheim_tt:0 "Unlocks decisions allowing the king to §Yinvestigate the murder of 972§! and finally §Yput his father's ghost to rest§!.\nUnlocks decisions allowing the king to §Ytutor the wayward Prince Gumberto§! in the hopes of turning him into a good and proper king for Wingbardy."
@@ -2248,7 +2248,7 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  WNG_prepare_the_counterrevolution_tt:0 "이 결정을 통해 내전이 발발하면 §Y반파시스트 세력이 주를 통제하도록§! 할 수 있습니다. §R주들의 충성을 빠르게 얻어야만 합니다. 시간이 제일 중요합니다.§! 브로베르트는 항상 반파시스트 세력에 충성할 것입니다. 아스볼루스와 팔코르는 항상 파시스트 측이 통제할 것입니다."
  
  WNG_prepairing_for_revolution_in_state:0 " 다른 주에서 반파시스트 세력을 준비시키고 있습니다."
- WNG_communist_state:0 "This state is already under revolutionary control."
+ WNG_communist_state:0 "이미 반파시스트 세력이 이 주를 장악했습니다."
 
  WNG_international_communism_tt:0 "We will seek out §YCommunist allies§! across Griffonia, or we can take the lead ourselves and §Yfound our own faction§!."
 
