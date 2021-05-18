@@ -2,9 +2,9 @@
   
  ### ideas ###
  JER_memories:0 "공화국의 기억"
- JER_memories_desc:0 "그리포니아 제국의 붕괴 직후, 아퀼레이아 왕국 또한 혁명의 불길에 휩쌓였습니다.\n\n혁명은 디스크레 가의 왕정을 폐지하고 테오도르 베라니를 수장으로 한 아퀼레이아 제1 공화국을 선포했습니다. 불행히도 고작 공화국 설립 오년후, 베르틀로 원수가 이끄는 반혁명이 디스크레 왕정복고를 이루었으며 이는 지금까지 이어졌습니다.\n\n왕정이 돌아왔음에도 불구하고 아직 왕국의 많은 이들이 아퀼레이아 공화국의 꿈을 포기하지 않고 있으며, 이는 왕국에 대한 모리제 왕의 통제력을 불안하게 만들고 있습니다."
+ JER_memories_desc:0 "그리포니아 제국의 붕괴 직후, 아퀼레이아 왕국 또한 혁명의 불길에 휩싸였습니다.\n\n혁명은 디스크레 가의 왕정을 폐지하고 테오도르 베라니를 수장으로 한 아퀼레이아 제1 공화국을 선포했습니다. 불행히도 고작 공화국 설립 오년후, 베르틀로 원수가 이끄는 반혁명이 디스크레 왕정복고를 이루었으며 이는 지금까지 이어졌습니다.\n\n왕정이 돌아왔음에도 불구하고 아직 왕국의 많은 이들이 아퀼레이아 공화국의 꿈을 포기하지 않고 있으며, 이는 왕국에 대한 모리제 왕의 통제력을 불안하게 만들고 있습니다."
  JER_memories_2:0 "공화국의 기억"
- JER_memories_2_desc:0 "그리포니아 제국의 붕괴 직후, 아퀼레이아 왕국 또한 혁명의 불길에 휩쌓였습니다.\n\n혁명은 디스크레 가의 왕정을 폐지하고 테오도르 베라니를 수장으로 한 아퀼레이아 제1 공화국을 선포했습니다. 불행히도 고작 공화국 설립 오년후, 베르틀로 원수가 이끄는 반혁명이 디스크레 왕정복고를 이루었으며 이는 지금까지 이어졌습니다.\n\n왕정이 돌아왔음에도 불구하고 아직 왕국의 많은 이들이 아퀼레이아 공화국의 꿈을 포기하지 않고 있습니다."
+ JER_memories_2_desc:0 "그리포니아 제국의 붕괴 직후, 아퀼레이아 왕국 또한 혁명의 불길에 휩싸였습니다.\n\n혁명은 디스크레 가의 왕정을 폐지하고 테오도르 베라니를 수장으로 한 아퀼레이아 제1 공화국을 선포했습니다. 불행히도 고작 공화국 설립 오년후, 베르틀로 원수가 이끄는 반혁명이 디스크레 왕정복고를 이루었으며 이는 지금까지 이어졌습니다.\n\n왕정이 돌아왔음에도 불구하고 아직 왕국의 많은 이들이 아퀼레이아 공화국의 꿈을 포기하지 않고 있습니다."
  JER_revolutionary:0 "두 번째 혁명"
  JER_revolutionary_desc:0 "혁명이여 영원하라!"
  JER_grand_army_1:0 "대육군"
@@ -14,7 +14,7 @@
  JER_new_law_code_idea:0 "디스크레 법전"
  JER_new_law_code_idea_desc:0 "비비엔 여왕의 노력으로 아퀼레이아의 법령 체계는 굉장히 단순화되고 또 표준화되었고, 이는 효율적인 법원과 제약받지 않는 국가행정으로 이어졌습니다."
  JER_old_glories_idea:0 "용맹한 마음"
- JER_old_glories_idea_desc:0 불가능은 없습니다! 아퀼레이아는 비할 바 없는 최고이자 세계의 정상에서 울부짖는 사자와 같은 국가이며 이제 그 정당한 자리를 차지할 떄가 되었습니다! 우리는 아퀼레이아의 운명을 쟁취하고 그리포니아의 역사를 다시 쓸 것입니다!"
+ JER_old_glories_idea_desc:0 "불가능은 없습니다! 아퀼레이아는 비할 바 없는 최고이자 세계의 정상에서 울부짖는 사자와 같은 국가이며 이제 그 정당한 자리를 차지할 떄가 되었습니다! 우리는 아퀼레이아의 운명을 쟁취하고 그리포니아의 역사를 다시 쓸 것입니다!"
  JER_grand_army_2:0 "대육군"
  JER_grand_army_2_desc:0 "The expansion of Aquileia's Grande Armée has been a success. Our troops are better trained and better drilled than ever before. The Queen's grand army is rivaled by none in the world, and their ferocity and courage will be legendary across Griffonia!"
  JER_union_representation_act_idea:0 "Loi sur la représentation syndicale" #NavyMongoose
@@ -193,7 +193,7 @@
  JER_grand_army_3_desc:0 "It is the pinnacle of all things martial: well-funded, well-drilled, and filled with able, loyal, and courageous troops. Proudly standing guard on behalf of the illustrious Discret crown, it is the paramount military of the world, the symbol of all that is glorious and magnificent about Empire. Let all lesser nations gaze upon it, and despair!"
  JER_new_law_code_idea_2:0 "디스크레 법전" #NavyMongoose
  JER_new_law_code_idea_2_desc:0 "The laws have been adapted to the new imperial reality, with regulations expanded in scope to encompass the territories beyond the Périphérie. The law is a teacher, and it teaches that Aquila rules over all."
- JER_promote_aquileian_culture_idea:0 "아퀼레이라 르네상스" #NavyMongoose
+ JER_promote_aquileian_culture_idea:0 "아퀼레이아 르네상스" #NavyMongoose
  JER_promote_aquileian_culture_idea_desc:0 "The crown has set Aquileian culture at the centre of public life. From the largesse made possible by the vassalage of the Herzlanders, the state pours out abundance for the arts, for literature, and for education."
  JER_the_empire_shall_grow_idea:0 "A Cœur Vaillant" #NavyMongoose
  JER_the_empire_shall_grow_idea_desc:0 "Aquileia reigns supreme, and the Herzlanders beg for a place at Her Majesty's feet! Now it is time to go even further, to reach outward and claim the whole continent for the triumph of the homeland and the glory of the house of Discret. Let all the world be subject to Aquileia!"
@@ -306,7 +306,7 @@
  aquileia.17.a:0 "공화국 만세!"
  
  aquileia.18.t:0 "혁명의 승리"
- aquileia.18.d:0 "멀고도 피비린내 나는 길이었지만, 오늘 드디어 마지막 군주주의자들이 자유의 파도 아래 무너졌습니다! 광범위하고 잘 조직된 혁명의 열정과 수많은 그리폰들의 용감한 희생으로, 옛 군주제의 지지자들은 분쇄되고 디스크레 왕조 또한 바람에 흩날려 사라졌습니다. 적들은 마지막까지 싸웠지만 결국 전장에서 패주하고 말았습니다. 새로운 세대의 영웅들이 군주제를 되돌리려는 이들로부터 아퀼레이아를 수호할 것입니다. 이제 아퀼레이아는 자유이며, 새로운 아침이 공화국에 밝아옵니다!.""
+ aquileia.18.d:0 "멀고도 피비린내 나는 길이었지만, 오늘 드디어 마지막 군주주의자들이 자유의 파도 아래 무너졌습니다! 광범위하고 잘 조직된 혁명의 열정과 수많은 그리폰들의 용감한 희생으로, 옛 군주제의 지지자들은 분쇄되고 디스크레 왕조 또한 바람에 흩날려 사라졌습니다. 적들은 마지막까지 싸웠지만 결국 전장에서 패주하고 말았습니다. 새로운 세대의 영웅들이 군주제를 되돌리려는 이들로부터 아퀼레이아를 수호할 것입니다. 이제 아퀼레이아는 자유이며, 새로운 아침이 공화국에 밝아옵니다!"
  aquileia.18.a:0 "공화국 만세!"
  
  aquileia.19.t:0 "A Few Missing Rifles"
