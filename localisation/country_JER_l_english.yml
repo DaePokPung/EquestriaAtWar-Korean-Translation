@@ -302,7 +302,7 @@
  aquileia.16.a:0 "공화국 만세!"
 
  aquileia.17.t:0 "혁명의 승리"
- aquileia.17.d:0 "멀고도 피비린내 나는 길이었지만, 오늘 드디어 마지막 군주주의자들이 자유의 파도 아래 무너졌습니다! 광범위하고 잘 조직된 혁명의 열정과 수많은 그리폰들의 용감한 희생으로, 옛 군주제의 지지자들은 분쇄되고 디스크레 왕조 또한 바람에 흩날려 사라졌습니다. 마지못해 잔인한 폭군의 휘하에서 싸우던 장교들도 우리의 대의를 듣고 새 공화국에 충성을 맹세했고, 이들은 디스크레 왕조의 귀환으로부터 아퀼레이아를 수호할 것입니다. 이제 아퀼레이아는 자유이며, 새로운 아침이 공화국에 밝아옵니다!"
+ aquileia.17.d:0 "멀고도 피비린내 나는 길이었지만, 오늘 드디어 마지막 군주주의자들이 아퀼레이아 밖으로 쫓겨났습니다! 광범위하고 잘 조직된 혁명의 열정과 수많은 그리폰들의 용감한 희생으로, 옛 군주제의 지지자들은 분쇄되고 디스크레 왕조 또한 바람에 흩날려 사라졌습니다. 마지못해 잔인한 폭군의 휘하에서 싸우던 장교들도 우리의 대의를 듣고 새 공화국에 충성을 맹세했고, 이들은 디스크레 왕조의 귀환으로부터 아퀼레이아를 수호할 것입니다. 이제 아퀼레이아는 자유이며, 새로운 아침이 공화국에 밝아옵니다!"
  aquileia.17.a:0 "공화국 만세!"
  
  aquileia.18.t:0 "혁명의 승리"
@@ -1120,7 +1120,7 @@
  
  aquileia.220.t:0 "On The Farm" #Void
  aquileia.220.d:0 "The cart rumbled along the dusty roads near De Vluegels. An old one, loaded up to the brim with tools and furniture, with a pony family of four walking with it. A veteran, his wife and their foals. Granted, it had not been that long a trip from Aquileia. Ever since the railroad had made its way through Griffonia, it too had tied the land together. But though there was still a way to go before they arrived.\n\nThe Grifking to one side, and endless fields to the other side.\n\nOne of foals piped up. "Are we there yet?"\n\n"Just a little more dear," the mother replied, looking at a huge map, with a big X marked on it.\n\nThey turned a corner, coming face to face with a small homestead. The father looked up at the farmhouse, then to the map, and back to the farmhouse. "This should be the place."\n\nThe mother looked at the house, before turning to the barn "No. This can't be it...it's too big."\n\nOne of the foals walked up to the door, spotting a note pinned on the door. She read it out loud "To the brave ve-te-ra-an who fought for the Crown.\n\nShe turned back towards her parents. They were smiling, tears forming at the edge of their eyes."
- aquileia.220.a:0 "A new begining"
+ aquileia.220.a:0 "A new begining."
  
  aquileia.221.t:0 "The Levers Of Power"
  aquileia.221.d:0 "Labourers and machines were swarming all around the palace like an army of ants, just as how they had done for years at this point, and Vivienne mused to herself how quiet they were these days. For a while the sound of construction could be near deafening at times, but nowadays, as they were finishing their efforts at the edge of the palace, it was so quiet in comparison.\n\nFrom her position at the balcony, she could look out over the entirety of the palace, entertaining herself with trying to note exactly where the new extensions to it began and which were the old ones. It was hard to spot, and she felt a sense of approval towards the efforts of her subjects to ensure that nobody could tell where the royal residence ended and the administrative buildings started. It was as it should be: the throne and the government was one and the same after all.\n\nThousands, if not tens of thousands, were already hard at work inside the new offices, and whatever happened throughout the entirety of her realm, she would be able to act on it personally if need be. No information would ever again be hidden away in some regional administrative centre to fester. Instead, Aquila, and thus she, would truly be the beating heart of the nation as all information flowed to it, all decisions were taken here and every iota of power available emanated from it. It was Aquila's right, her right, and she smiled as she watched it coming to fruition."
@@ -1327,16 +1327,16 @@
  aquileia_news.1.e:0 "아퀼레이아의 인민들은 탄압에 지쳤다!"
 
  aquileia_news.3.t:0 "성공적인 혁명"
- aquileia_news.3.d:0 "[This.GetNewspaperHeader]마지막 왕당파 지지자들의 공식적인 항복과 함께 아퀼레이아 공화국은 그들의 혁명의 승리를 기념하고 있습니다. 많은 유혈사태와 잔학행위를 겪은 후 이 지역은 다시 평화로워졌고, 공화국은 확고하게 세워졌습니다.\n\n그러나 공화국의 미래는 아직 불확실합니다. 다가오는 첫 총선에서 공산주의자들과 공화주의자들의 일시적인 동맹이 분열하고 있기 때문입니다. 아퀼레이아 국민들과 주변 국가들은 이제 스스로에게 공화국의 미래에 대해 질문을 던져야 할 것입니다."
+ aquileia_news.3.d:0 "[This.GetNewspaperHeader]마지막 왕당파 지지자들의 공식적인 항복과 함께 아퀼레이아 공화국은 다시 찾아온 그들의 혁명의 승리를 기념하고 있습니다. 디스크렛 가문은 망명했거나 체포되었으며 공화국은 이제 확고하게 수립되었습니다. 최근 버텔로트 원수의 사망으로 인해 반혁명의 가능성은 낮아 보입니다.\n\n그러나 공화국의 미래는 아직 불확실합니다. 다가오는 첫 총선에서 공산주의자들과 공화주의자들의 일시적인 동맹이 분열하고 있기 때문입니다. 아퀼레이아 국민들과 주변 국가들은 이제 스스로에게 공화국의 미래에 대해 질문을 던져야 할 것입니다."
  aquileia_news.3.a:0 "우리는 결과를 기다릴 것이다."
  aquileia_news.3.c:0 "오래 살지는 못할걸."
  aquileia_news.3.e:0 "혁명이 승리했도다!"
 
  aquileia_news.5.t:0 "실패한 혁명"
- aquileia_news.5.d:0 "[This.GetNewspaperHeader]마지막 공화당 세력의 항복과 함께 아퀼레이아에서 시작된 두번째 혁명은 실패로 막을 내렸습니다. 많은 그리폰들이 투쟁에서 죽었지만 아무 소용도 없었습니다. 왕국의 지지자들은 혁명군을 물리치고 공화국의 많은 지도자들을 사로잡았습니다. 아퀼레이아 제1공화국 때와 마찬가지로 이제 아퀼레이아 공화국의 마지막 잔재를 털어내기 위한 공포 정치가 시작될 것으로 보입니다."
+ aquileia_news.5.d:0 "[This.GetNewspaperHeader]마지막 공화당 세력의 항복과 함께 아퀼레이아에서 시작된 두번째 혁명은 실패로 막을 내렸습니다. 많은 그리폰들이 투쟁에서 죽었지만 아무 소용도 없었습니다. 왕국의 지지자들은 혁명군을 무장 해제시키고 공화국의 많은 지도자들을 사로잡았습니다. 아퀼레이아 제1공화국 때와 마찬가지로 이제 아퀼레이아 공화국의 마지막 잔재를 털어내기 위한 공포 정치가 시작될 것으로 보입니다."
  aquileia_news.5.a:0 "그럼 이제 다 끝났다는 것이군..."
  aquileia_news.5.b:0 "배신자들을 목매달아라!"
- aquileia_news.5.c:0 "대단해!"
+ aquileia_news.5.c:0 "또 실패할 줄 알았지."
  aquileia_news.5.e:0 "우울하네."
 
  aquileia_news.6.t:0 "The War For Tarrin"
@@ -1347,7 +1347,7 @@
  
  aquileia_news.7.t:0 "The Aquileians March"
  aquileia_news.7.d:0 "[This.GetNewspaperHeader]Once upon a time, the Kingdom of Aquileia stretched over a much bigger area than it controlled just a few years ago. Called the Peripherié, it fitted into what irredentists in Aquileia have called the "Natural Borders of the Realm". The Aquileian Government has announceed that as of today, that the nation has reclaimed her rightful borders and that they will be integrated into Aquileia itself as soon as possible with all necessary and proper speed.\n\nThough protests have come in from the leaders of the nations that formerly occupied those lands, little sign is showing of the Aquileian Government giving them up. At the deadline for this paper, little more than token protests had been lodged by the nations of the world."
- aquileia_news.7.a:0 "Deeply concerning..."
+ aquileia_news.7.a:0 "독수리가 날개를 펼치기 시작했다..."
 
  ### National Focus ###
  JER_state_of_aquileia:0 "두 번째 공포 정치"
@@ -1847,7 +1847,7 @@
  JER_defeat_the_republicans:0 "Strike Down the Republic" #NavyMongoose
  JER_defeat_the_republicans_desc:0 "The so-called Griffonian Republic claims to be a bastion of freedom and democracy, but it is nothing more than another oligarchy. We cannot allow their perfidy to persist so close to us. Our army is strong, our soldiers are able, and our people stand united beneath the banner of the Revolution. Let us march forward and strike down the Cloudburians, and bring the light of socialism to their benighted lands!"
  JER_joint_nuclear_research:0 "The Nuclear Research Committee" #NavyMongoose
- JER_joint_nuclear_research_desc:0 "Thanks to our research pact, our scientists have made tremendous breakthroughs. In particular, Dr. [root.nuke_boi.getname] has sent us a telegraph detailing the potential for great advances in his field. Citing his contacts in Severnaya, he has outlined a program to construct a nuclear reactor of our very own. All that remains is to make this a reality through bureaucratic finesse."
+ JER_joint_nuclear_research_desc:0 "Thanks to our research pact, our scientists have made tremendous breakthroughs. In particular, Dr. Arnaud De Villiers has sent us a telegraph detailing the potential for great advances in his field. Citing his contacts in Severnaya, he has outlined a program to construct a nuclear reactor of our very own. All that remains is to make this a reality through bureaucratic finesse."
  JER_secularise_the_state:0 "Cast Off the Archonates"
  JER_secularise_the_state_desc:0 "The Archonates are relics of a past long gone. What's worse, they are constantly trying to interfere in politics around Griffonia. The Archon of Boreas tried to become the regent for Grover VI, and the Archon of Eyr tried to coup his way to power in Romau. Few more reasons are needed to cast them off for good."
  JER_lessons_from_the_northern_war:0 "Lessons from the Northern Expedition" #NavyMongoose
@@ -2325,7 +2325,7 @@
  
  rodier_l:0 "레오나르 로디에르"
  victor_l:0 "빅토르 모호"
- simon_l:0 "시몽 길베르"
+ simon_l:0 "길버트 라 파베테"
  cyril_l:0 "시릴 뒤랑"
  lionel_l:0 "리오넬라 브로샤흐"
  renaud:0 "르노 아흐뒤앙"
@@ -2335,12 +2335,12 @@
  albert:0 "알베흐 루슬로"
  gunther:0 "귄터 화이트퀼"
  edmond:0 "에드몽 데아"
- rodier_l2:0 "레몽 로랑"
+ rodier_l2:0 "이글하트"
  victor_l2:0 "빅토르 모호"
  simon_l2:0 "시몽 길베르"
  cyril_l2:0 "시릴 뒤랑"
  lionel_l2:0 "리오넬라 브로샤흐"
- cecilia_l:0 "질베르 라 포베트"
+ cecilia_l:0 "소피에 알티에트"
  felix:0 "펠릭스 뮈라"
  herwing:0 "에르윙 크라운페더"
  axel:0 "악셀 브르노"
@@ -2769,7 +2769,7 @@
  JER_POLITICS_CREPE_DESC:0 "§YBorn:§! May 2nd, 987\n\n§YBiography:§! Born a decade after the year of revolutions, Sugar Crepe's childhood was marred by the consequences of the Aquileian republic. Living within the small pony enclave of the capital Aquila, her parents tried to shelter her from the often hostile city environment. The "Boulevard des Poneys" in the capital was considered a reactionary neighborhood by the city's citizens, and the ponies who lived there were often regarded as violent monarchists. The truth, as always, was far more complex, but perception often matters more. Regardless of this stereotype, or perhaps even because of it, Sugar became obsessed with the revolution of 978 and began to join clubs that connected her with moderate republican elements. This soon merged with her other passion, music, and she began writing republican hymns like "Cette terre est votre terre" and the "Chanson Frontale Unie".\n\nBut her fame really took off during the second revolution, where her firey musical performances and powerful personality attracted many followers. Aligning herself with the FJA, many expected her to just serve as a party mouthpiece, but were quickly proven wrong when Cécile Gaudreau saw promise in the unicorn, and took her under her wing as a political protegé, and Sugar quickly proved she was an extremely intelligent individual. However, this is where Sugar Crepes more... eccentric personality traits came to the forefront. She loudly played music during some assemblé meetings, declaring the subject at hand not worth discussing as she already had the answer. She made a habit of purposefully infuriating Léonard Rodier at every opportunity, though even he can not deny her near genius. So even still, following Gaudreau's transfer of power, Sugar Crepe has been elected to lead the Aquelian republic into a new bright future, draped in Blue White and Red.\n\n§YPortrait by:§! Neither"
  JER_POLITICS_THIBAULT_DESC:0 "§YBorn:§! December 12th, 963\n\n§YBiography:§! During the first revolution, Thibault Devereux was apprenticed to a county clerk and had few political ambitions. Yet, during the reprisals against the revolutionaries in Pridea, he was dragged into it when a republican by the name of Felix Georges hid in his shed and his overzealous pursuers chose to not ask questions when they came looking for him. Wounded over the eye and barely escaping with his life alongside the republican, Thibault ended up fleeing to Skyfall. Felix and his compatriots, grateful for his aid welcomed him into their exiled family in gratitude for his help. Thibault had planned to create a new life of quiet in Skyfall, but kept getting dragged back into the orbit of the group. He was soon forced to choose between getting involved with them or see them bumble their way into prison or worse.\n\nThis ramshackle introduction to the revolutionary cause contrasts sharply to his later accomplishments, as he quickly not only rose to the challenge, but became a noted writer and leader for the revolutionaries in exile. His series of pamphlets, "What do the republicans desire?" reached widespread acclaim and gave him a reputation as one of the great thinkers of the post-revolution era. Their methodical reasoning for how a post-revolutionary should be organised and the reasoning for them did much to rally support for the movement, especially when his conclusions came to line up neatly with those of Grand Cru, who began to correspond with Thibault and eventually recruited him into the PAT. Tibault has chosen to not speak about how the pamphlets were for himself as he tried to figure out what he even wanted, and that an overzealous Felix printed them without his knowledge.\n\nThibault has now reached the highest position possible, and while he does not quite know how he achieved it, he knows that just like in Skyfall people depend on him. If all he can do is to do the best he can, then that is what he will do.\n\n§YPortrait by§!: Vanilla Swirl"
  JER_POLITICS_ALLARD_2_DESC:0 "§YBorn:§! ????, 969\n\n§YBiography:§! Victor Allard's story is an uniquely twisty and complicated one, and Allard does little to dispel the mysteries around his origin. Speaking with a carefully cultivated standard Aquileian accent and mixing expressions from across the nation, he appears as if he stepped out of the shadows one day. As far as most know him, he turned up at Grand Cru's barbershop one day and discussed politics with him at length. He soon became a regular, and even as many others would only stop by once or twice on occasion, he kept showing up. His own brand of revolutionary fervor was a radical such, and he advocated tactics of a kind much more brutal than the first revolution had seen. The two's intellectual sparring matches continued every week for several months, drawing many to the socialist movement itself as griffons came to watch and listen.\n\nThough Allard was at best suspicious of the moderate vision that Grand Cru presented, the many triumphs of the PAT both in Aquileia and against the Empire in recent years has changed his viewpoint of the system. And although his new, much more moderate course has swayed many within the party, there are still many others who remain dubious of his intentions. Those who approach him as friends find a charming, if acerbic, figure with a wry sense of humour and a keen, unique understanding of both politics and socialist ideology. Those who treat him as a potential villain see a smug griffon who seems to enjoy getting a rise out of people and play on their naivete.\n\nNone of that matters to Allard, though. He will continue to lead Aquileia the way he always has: through logical socialist policies and decision-making. Or at least, what is logical to him.\n\n§YPortrait by:§! bunnyshrubby"
- JER_POLITICS_BUNCH_OF_SOCIALISTS_DESC:0 "The Congress has entered a state of chaos following Cru's resignation. It will only end when we elect a new leader."
+ JER_POLITICS_BUNCH_OF_SOCIALISTS_DESC:0 "Following Tibo's resignation all power in country fell into the claws and hooves of the delegates of People's Assembly. They will guide our country in bright socialistic future!"
  JER_POLITICS_VIVIENNE_2_DESC:0 "§YBorn:§! May 9th, 983\n\n§YBiography:§! Born far from the kingdom her family ruled, Vivienne Discret's first memories were not of the royal halls of the palace in Aquileia, but of the warm white walls of the Saddle Arabian emir's court. Aquileia was in chaos, with the death throes of the Revolution turning the rivers red with blood. The Discret family tree had been sheared of its branches by the guillotine, leaving only five surviving dynasts to escape, with Vivienne as the future of the royal lineage. As forces loyal to the monarchy secured their kingdom for them, the royal family waited out the bloodshed from afar, safe from the chaos.\n\nWhen she finally returned to Aquileia, she was immediately surrounded with a veritable army of tutors and scholars. Given the disposition of her father, however, many doubted that the young princess would be keen to learn what they had to say. Fortunately, Vivienne took to her studies and learned well. Better still, they became her passion. The young griffoness read any books she could get her talons on, and touring the countryside became as important to her as her studies. All who met her found her charming and instantly disarming, her wit leaving them impressed for a griffon barely an adult. The nobility of Aquileia and those loyal to the crown knew that the kingdom would be in good claws when it was her turn to take the throne, and many hoped behind closed doors that some unfortunate accident would befall Moriset so his talented and ambitious daughter could take the throne.\n\nNow, these believers have been proven correct. Vivienne stands atop her new Empire, and looks across the land, a continent ruled by her dynasty alone, with pride. There is no greater title worthy of her than Empress, and so she shall rule till the end of her days.\n\n§YPortrait by:§! Echo"
  
  ### Unique Tech ###
@@ -2808,3 +2808,47 @@
  tactic_unyielding_defense:0 "They Shall Not Pass"
  tactic_unyielding_defense_desc:0 ""
 
+# VPs
+ JER_vp_Rhodindeburg:0 "로딘데부르크"
+ JER_vp_Belmont:0 "벨몬트"
+ JER_vp_Griselaine:0 "그리셀라이네"
+ JER_vp_Mirabeau:0 "미라베우"
+ JER_vp_Les_Ailes:0 "레스 아일레스"
+ JER_vp_Ladalle:0 "라달레"
+ JER_vp_Aulandes:0 "아울란데스"
+ JER_vp_Luxe_en_bourg:0 "루센부르크"
+ JER_vp_Vivienneville:0 "비비엔네빌레"
+ JER_vp_Rhyma:0 "르히마"
+ 
+ JER_vp_Griffetone:0 "그리페톤"
+ JER_vp_Caillefol:0 "칼레폴"
+ JER_vp_Vedreville:0 "베드레빌레"
+ JER_vp_Vieux_Bec:0 "비엑스베크"
+ JER_vp_Ailee_sur_Rive:0 "아일레에 수르 리베"
+ 
+ JER_vp_Audembourg:0 "아우뎀보르그"
+ JER_vp_Norrefaume:0 "노레파우메"
+ JER_vp_Enselle:0 "엔셀레"
+ JER_vp_Landalles:0 "란달레스"
+ 
+ JER_vp_Rhome:0 "르호메"
+ JER_state_Rhome:0 "르호메"
+ JER_state_Rive_Ouest:0 "리베 오베스트" 
+ 
+ JER_state_Rhodinois:0 "르호디노이스"
+ JER_state_Belmontois:0 "벨몬토이스"
+ JER_state_Les_Ailes:0 "레스 아일레스"
+ JER_state_Grande_Plaine:0 "그란데 플라이네"
+ JER_state_Luxe_en_bourg:0 "루센부르크"
+ JER_state_Richelieu:0 "리켈리에우"
+ JER_state_Rhyma:0 "르히마"
+ 
+ JER_state_Grifftonie:0 "그리프토니에"
+ JER_state_Caillefolois:0 "카일레폴로이스"
+ JER_state_Veuguelois:0 "베우궬로이스"
+ JER_state_Oldebecois:0 "올데베코이스"
+ JER_state_Ailee:0 "아일레"
+ 
+ JER_state_Audembourgeais:0 "아우뎀보우르게아이스"
+ JER_state_Norrois:0 "노로이스"
+ JER_state_Thuringue:0 "Thuringue"
