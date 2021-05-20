@@ -142,8 +142,8 @@
  WNG_mafia_3:0 "매우 강력한 마피아"
  
  WNG_old_yet_new_idea:0 "Old Yet New"
- WNG_dictatorship_of_the_proletariat:0 "Dictatorship of the Proletariate"
- WNG_spec_ops:0 "Elite Unit Training"
+ WNG_dictatorship_of_the_proletariat:0 "무산계급 독재"
+ WNG_spec_ops:0 "정예 병력 훈련"
  WNG_communist_propaganda:0 "Communist Propaganda"
  WNG_work_with_the_industralists_idea:0 "산업가들과의 협력"
  WNG_found_the_ovra_idea:0 "OVRA"
@@ -246,7 +246,7 @@
  WNG_reach_out_to_stalliongrad:0 "스탈리온그라드와의 접촉"
  WNG_reach_out_to_stalliongrad_desc:0 "Friends, I have some contacts across the ocean in Stalliongrad, the pony workers' republic. The marksists there are well armed and with luck, their support could reach us in time. Please give me the order, and I will make arrangements with their government. No griffon wants to rely on foreign support, but the reactionaries leave us little choice."
 
- WNG_push_the_liberals_out_of_power:0 "Push the Liberals out of Power"
+ WNG_push_the_liberals_out_of_power:0 "자유주의자 축출"
  WNG_push_the_liberals_out_of_power_desc:0 "We are victorious, comrades. The fascists have thrown themselves at us and they have died a coward's death. The battle has proven once and for all that the harmonist liberals wavered even when all their ideals were put to the test. The griffons of Wingbardy have seen us lead the fight and they want our leadership and no more indecisiveness. Long live the Revolution!"
 
  WNG_reach_out_to_the_liberal_generals:0 "자유주의자 장군들과의 접촉"
@@ -259,7 +259,7 @@
  WNG_promise_labour_reforms_desc:0 "Past governments have not been able to get us out of the economic slump, that much is true. But the conservatives were the ones stopping reforms to the labour market to ensure you would all earn a living wage, and now they'd rather throw in their lot with Beakolini than pay you what you are due! Sweep them aside in the upcoming battle, and a new democratic government will deliver for every griffon in Wingbardy!"
 
  WNG_establish_the_national_transitional_government:0 "과도 정부"
- WNG_establish_the_national_transitional_government_desc:0 "The civil war is over and democracy has triumphed! The griffons of Wingbardy have saved the country from a dark path at the final moment and now the flag of the Republic flies proudly over the Chamber of Deputies! The National Transitional Government will ensure the future of Wingbardy gets decided by every griffon, by means of a truly democratic election. Long live the Republic!"
+ WNG_establish_the_national_transitional_government_desc:0 "내전은 끝났고 민주주의가 승리했습니다! 나라가 어둠에 빠지기 직전, 윙바르디의 국민들이 나라를 구해냈고 이제 공화국의 국기가 국회 꼭대기에서 자랑스럽게 휘날리고 있습니다! 이제 국가과도정부가 나서서 윙바르디의 미래가 모든 그리폰들에 의해, 진정으로 민주적인 선거를 통해 결정되도록 만들 것입니다. 공화국 만세!"
  national_transitional_government:0 "National Transitional Government"
 
   #Unitary Socialist Party - Partito Socialista Unitario - Harmony
@@ -290,23 +290,23 @@
  WNG_rebuild_the_pact:0 "조약 재건"
  WNG_rebuild_the_pact_desc:0 "Our old allies are our most reliable partners. They are the countries we understand the most and share the most history with. Our government may have changed, but our need for security has not. Thus, it makes sense to rebuild the Karthinian Pact and take the lead ourselves."
 
- WNG_end_fascism_in_the_south:0 "End Fascism in the South"
+ WNG_end_fascism_in_the_south:0 "남부 파시즘의 종결"
  WNG_end_fascism_in_the_south_desc:0 "Beakolini may be gone, but his perfidious ideology and its offshoots and precursors still haunt the griffons of Southern Griffonia. It is time to raise the flag of war once more and prove on the field of battle that the ideology of strength can never stand against an ideology of freedom and equality."
 
- WNG_restore_democracy_to_aquilia:0 "Restore Democracy to Aquileia"
+ WNG_restore_democracy_to_aquilia:0 "아퀼레이아 민주주의 복원"
  WNG_restore_democracy_to_aquilia_desc:0 "Democracy was the dream of the common Aquileians, however, their voices have been supressed by their tyrannical king. We must intervene on their behalf to ensure the restoration of Liberté, égalité, and fraternité."
 
 #Wingbardian Republican Party - Partito Repubblicano Wingbardo - Harmony
  WNG_a_victory_for_the_republicans:0 "공화당의 승리"
  WNG_a_victory_for_the_republicans_desc:0 "The Republican Party of Wingbardy was a small party before the civil war, as many liberal voters saw the republic as a pipedream with a popular King and a conservative country. However, their fervent support for the liberal side in the civil war has proven the doubters wrong and earned the party its first election victory!"
 
- WNG_crackdown_on_the_mafia:0 "Reinstate the Pretori"
+ WNG_crackdown_on_the_mafia:0 "법무관직 복구"
  WNG_crackdown_on_the_mafia_desc:0 "The rule of law requires that criminals cannot go unpunished. The new republic cannot allow a parallel authority to exist, but previous attempts of law enforcement to crack down on the mafia have always floundered. To represent the renewal of our fight against crime and our dedication to the high ideals of the Karthinian Republic, the ancient office of the Pretori shall be restored."
 
  WNG_reform_the_justice_system:0 "사법제도 개혁"
  WNG_reform_the_justice_system_desc:0 "The Republic must seize the opportunity, while the momentum is present, to reform the justice system. The backlog and stalling of judicial procedures, the lack of impartial judges and police officers and arcane legal texts must all be dealt with. The law must protect what is good and not allow refuge for what is bad. With this reform, perhaps, we can deal a permanent blow to organised crime in this country."
 
- WNG_draw_up_the_new_constitution:0 "Draw up the New Constitution"
+ WNG_draw_up_the_new_constitution:0 "새 헌법 제정"
  WNG_draw_up_the_new_constitution_desc:0 ""Conscious of their responsibility towards each other, inspired by the endeavours for justice and liberty in our past and by others everywhere, the griffons of this land, in the exercise of their sovereign power, have adopted this constitution. We proclaim that this nation shall be a Republic now and forevermore. We reject the tyranny of Kings."\n-Preamble to the Constitution of the Republic"
 
  WNG_knights_of_the_old_republic:0 "구공화국의 기사단"
@@ -324,7 +324,7 @@
  WNG_boost_funding_for_schools:0 "Boost Funding for Schools"
  WNG_boost_funding_for_schools_desc:0 "The state of schools, especially in rural areas, is abysmal. Pupils sit in class with their winter coats on, since most classrooms lack heating. Even though teachers work overtime and sometimes pay lunch for the poor students out of their own pocket, they cannot make up the difference with goodwill alone. We must ensure every child has at least a decent education."
 
- WNG_boost_infrastructure_funding:0 "기반시설 후원"
+ WNG_boost_infrastructure_funding:0 "기반시설 지원"
  WNG_boost_infrastructure_funding_desc:0 "The state of the road and rail networks is regrettable. In the short term, delaying infrastructure maintenance was a good way to somewhat save the budget in the crisis years, but that delay has cost us now. We will have to connect rural areas to the network and replace asphalt, expand train stations and a thousand other small infrastructure improvements."
 
  WNG_lazius_fair:0 "복지와 번영"
@@ -337,7 +337,7 @@
  WNG_reencourage_karthinian_martial_tradition_desc:0 "The liberty of the Old Republic was guaranteed by the citizen soldier. Because it was the free citizen who fights, their wars were wars of liberation. With the sword in the claw of the citizen, no tyrant could destroy the Republic. Our freedom was threatened because the citizen was no longer the soldier. Thus we must rekindle our martial tradition for the sake of our liberty!"
 
  WNG_unite_with_falcor:0 "카르티니아 오리엔탈레"
- WNG_unite_with_falcor_desc:0 "The Province of Karthinia Orientale, or Falcor in modern terms, was one of the core parts of the Republic before. We share values and heritage, and the Falcorians must rejoin the Republic, or be forcefully integrated."
+ WNG_unite_with_falcor_desc:0 "카르티니아 오리엔탈레, 오늘날엔 팔코르로 불리는 이곳은, 원래 카르티니아 공화국의 핵심 지역이었습니다. 팔코르와 우리는 같은 가치와 역사를 공유하고 있으며, 팔코르는 공화국에 다시 합류하거나, 아니면 강제로라도 통합되어야만 합니다.
 
  WNG_unite_with_sicameon:0 "에스카를라티아와 시카메오나"
  WNG_unite_with_sicameon_desc:0 "The Sicameonese have kept the torch of the Republic alive into the modern age, a true inspiration to us all! Surely whoever is the current Dux will see that our consul is the true leader of the Republic and will join us."
@@ -362,13 +362,13 @@
  WNG_purge_the_enemies_of_the_revolution_desc:0 "Now is the time to solidify the hold of communism over Wingbardy. The PCW is still outnumbered by conservative remnants, liberals and so-called ‘moderate' socialists. If we cut off the heads of these snakes, their misled proletarian followers will flock to our party for leadership! Such bold action is sure to ruffle some feathers, however."
 
  WNG_establish_the_griffons_commissariat:0 "그리폰 인민위원회 설립"
- WNG_establish_the_griffons_commissariat_desc:0 "To protect the revolution from internal enemies, we need to guard her vigilantly. Wingbardy will found the Commissariato del popolo per gli affari interni, the People's Commissariat for Internal Affairs, whose comrades will nib fascism and revisionism in the bud. We have won the war on the battlefield, but now we need to win the invisible war!"
-
+ WNG_establish_the_griffons_commissariat_desc:0 "혁명을 내부의 적들로부터 지키기 위해선, 혁명을 철통같이 지켜야만 합니다. 윙바르디는 내무인민위원회(Commissariato del popolo per gli affari interni)를 창설할 것이며, 위원회의 동지들은 파시즘과 수정주의를 싹을 잘라낼 것입니다. 전장에서의 싸움은 끝났지만, 이제는 이 보이지 않는 싸움에서 승리해야만 합니다!"
+ 
  WNG_the_new_communist_griffon:0 "The New Communist Griffon"
  WNG_the_new_communist_griffon_desc:0 "'A griffon will make it their purpose to master their own feelings, to raise their instincts to the heights of consciousness, to make them transparent, to extend the wires of their will into hidden recesses, and thereby to raise themselves to a new plane, to create a higher social biologic type, or, if you please, a new griffon.'\n-Giuliano Gimperi, in ‘Our Social Future'"
 
  WNG_the_children_of_the_revolution:0 "혁명의 아이들"
- WNG_the_children_of_the_revolution_desc:0 "'Who needs a ‘1'?\nThe voice of a ‘1' is thinner than a squeak.\nWho will hear it? Only your parents!\nA ‘1' is nonsense.\nA ‘1' is zero.'\n-Antonino Proletarino, ‘Address to the Children'"
+ WNG_the_children_of_the_revolution_desc:0 "'누가 ‘하나'를 필요로 할까?\n‘하나'의 목소리는 찍 소리보다도 작다.\n누가 이를 들어줄까? 오직 네 부모님만이 들어줄 것이다!\n‘하나'는 의미가 없다.\n‘하나'는 곧 0이다.\n-안토니오 프롤레타리노, ‘아이들을 위한 연설'"
 
  WNG_make_use_of_the_prisoners:0 "Make Use of the Prisoners"
  WNG_make_use_of_the_prisoners_desc:0 "During and after the war, we have captured many fascists and other threats to the revolution, but ironically they sit still in their prisons while the righteous worker toils away to build a prosperous future. There is no place for irony in the workers' utopia."
@@ -571,7 +571,7 @@
  WNG_deal_with_the_bandits:0 "도적단 처리"
  WNG_deal_with_the_bandits_desc:0 "Griffonstone has collapsed so much it could not even keep its own ancestral realm together. A bandit warlord has taken over the Creeper Mountains and is threatening all civilised people. We must put an end to this unlawful upstart and restore order to the ancient home of griffonkind."
 
- WNG_strike_at_griffenheim:0 "Strike at Griffenheim"
+ WNG_strike_at_griffenheim:0 "그리펜하임 타격"
  WNG_strike_at_griffenheim_desc:0 "It is finally time to take our final revenge for the humiliations generations of Grovers have dealt us. No longer will Karthin stand in the shadow of another empire. No longer will Wingbardians be considered second rate. The so-called Griffonian Empire will be relegated to the dustbin of history and the world will learn of Karthinian Supremacy! Onwards to final victory!"
 
  WNG_army_experiance_sharing:0 "붉은 군대와의 만남"
@@ -583,7 +583,7 @@
  WNG_mass_public_works:0 "대규모 공공사업"
  WNG_mass_public_works_desc:0 "Unemployment is a scourge not just economically, but morally as well. Conscripting every unemployed griff into a series of infrastructure projects will not only ensure they have a stable income, but also teach them skills useful for the upcoming struggles. It will also help recover our nation from the all-consuming economic crisis and make it strong once again." 
 
- WNG_fix_the_resource_deficit:0 "Fix the Resource Deficit"
+ WNG_fix_the_resource_deficit:0 "자원 부족 해결"
  WNG_fix_the_resource_deficit_desc:0 "It is not that Wingbardy lacks resources, it is that too much of it is wasted, whether on frivolous civilian projects or on exports to unworthy foreigners. We need to excavate resources thought unreachable and produce products here that we used to import. Still, if we truly commit to it, autarky will be within our reach."
 
  WNG_productivism:0 "생산주의"
@@ -742,7 +742,7 @@
  WNG_fortify_the_boarder:0 "국경 요새화"
  WNG_fortify_the_boarder_desc:0 "Not an inch of Wingbardian soil must be lost to the invading foreigner again. We shall commission mighty bulwarks to break any enemy assault upon our lines and keep our troops save from even the most deadly artillery shells. And then, when the enemy assault has been weathered, we shall emerge from our forts to drive the enemy back!"
 
- WNG_finish_the_fight:0 "Finish the Fight"
+ WNG_finish_the_fight:0 "싸움을 끝내다"
  WNG_finish_the_fight_desc:0 "The Falcor War almost resulted in a loss for our country in 989, but the river Piumave flooded in a freak storm, halting the Falcorian offensive and giving our soldiers a chance to rout the Falcorian first army and end the war on favourable terms. The Falcorians have never truly forgiven us for the blow we dealt to their country and we have to defeat them again to secure the homeland."
 
  WNG_unite_the_kingdoms:0 "왕국의 통일"
@@ -766,7 +766,7 @@
  WNG_reignite_the_industrial_sector_desc:0 "윙바르디의 산업은 한때 전 그리포니아의 선망을 받았었으나, 수 년간 정체되면서 혼란에 빠지고 말았습니다. 윙바르디가 다시금 정상에 설 수 있도록, 나라의 산업을 다시 활성화해야만 합니다."
 
  WNG_build_a_military_economy:0 "군사 경제 건설"
- WNG_build_a_military_economy_desc:0 "With the threat of war looming, Wingbardy must be prepared in case fighting does break out. An able-bodied Wingbardian is only half a soldier without his rifle, so let us make sure that the State will be able to provide him ten rifles!"
+ WNG_build_a_military_economy_desc:0 "전쟁의 위협이 다가오고 있으니, 윙바르디는 전쟁이 정말로 일어날 경우를 대비해야만 합니다. 건강한 윙바르디 병사도 총이 없다면 반쪽짜리 병사에 불과하니, 나라가 병사 한 명에게 총 10개를 지급할 수 있도록 만듭시다!"
 
  WNG_university_of_feathara:0 "페더라 대학교"
  WNG_university_of_feathara_desc:0 "페더라 대학교는 그리포니아 남부에서 가장 오래된 교육기관입니다. 대학에 자금을 좀 더 제공한다면, 더 많은 학생이 대학에서 교육을 받을 수 있게 되어, 윙바르디의 교육은 다른 나라들보다 앞서 나갈 수 있게 될 것입니다."
@@ -810,13 +810,13 @@
  WNG_karthin_wrobert_railway:0 "카르틴-브로베르트 철도"
  WNG_karthin_wrobert_railway_desc:0 "카르틴과 브로베르트는 윙바르디에서 제일 큰 항구도시들로, 윙바르디의 해상무역 대부분을 담당하고 있지만, 두 경제 중심지를 연결하는 철도는 낡아 있는 상태입니다. 두 도시를 잇는 철도를 현대화하고, 탈카라로 이어지는 구간을 신설한다면, 윙바르디의 주요 항구도시를 모두 제대로 연결할 수 있을 것입니다."
 
- WNG_piumave_line:0 "피우마베 선로"
+ WNG_piumave_line:0 "피우마베 철도"
  WNG_piumave_line_desc:0 "The northern and central parts of our country have been underdeveloped for quite some time, owing to long travel times between the cities and the countryside. It is imperative that the government invests in new infrastructure projects to bring to connect the regions, with the proposed Piumave Line being the most costly endeavour. "
 
  WNG_expand_the_southern_industries:0 "남부 산업 확장"
- WNG_expand_the_southern_industries_desc:0 "The coastal south with Wrobert, Karthin and Talcara has long been the industrial heart of the nation and there is no reason for that to change. The economy will soar on top of the mighty wing of the big three once more, if we but make a hefty investment in the right companies. "
+ WNG_expand_the_southern_industries_desc:0 "브로베르트, 카르틴, 그리고 탈카라가 위치한 남부의 해안지역은 오랫동안 윙바르디 산업의 중심지 역할을 해 왔는데, 이를 굳이 바꿀 필요는 없습니다. 알맞은 회사에 많은 투자를 하기만 한다면, 윙바르디의 경제는 3대 대도시의 강력한 날개에 업혀 다시금 날아오를 수 있을 것입니다."
 
- WNG_develop_the_gap:0 "Develop the Lowing Gap"
+ WNG_develop_the_gap:0 "로윙 갭 개발"
  WNG_develop_the_gap_desc:0 "As the name implies, the Lowing Gap is the backwater of the country and has received little investment during the industrial revolution. That does not mean there is a lack of potential in the area, however, and it would be wise for the country to diversify its industries. With an industrial development fund, we will fill the Lowing Gap with the wealth of progress."
 
 
@@ -854,7 +854,7 @@
  WNG_nostra_costa_desc:0 "Our coast is another border that our forces must watch over, and our fleets are hard-pressed enough as it is. We could use this to our advantage however, and lull our enemies into a false sense of security. Then, when they least expect it, we can unleash our modern submarine fleets upon them!"
  WNG_navel_bombers:0 "뇌격기"
  WNG_navel_bombers_desc:0 "Past lessons have demonstrated that ships are particularly vulnerable to air attacks. Working in tandem with the Aeronautics Institute, new aircraft can be designed specifically to sink enemy vessels. Being far cheaper to produce than most ships, these naval bombers would prove to be an effective and cost-efficient anti-ship weapon."
- WNG_froggriffs:0 "Froggriffs"
+ WNG_froggriffs:0 "프로그그리폰"
  WNG_froggriffs_effect:0 "Enables §HFroggriffs§!\n§HSubmarines§!\n    Torpedo Attack: §G+10%§!\n    Surface Visibility: §G-5%§!\n    Sub Visibility: §G-5%§!\n§HDestroyers§!\n    Torpedo Attack: §G+10%§!\n    Surface Visibility: §G-5%§!\n§HLight Cruisers§!\n    Torpedo Attack: §G+10%§!\n    Surface Visibility: §G-5%§!\n"
  WNG_froggriffs_desc:0 "The Froggriffs are scuba-diver trained griffons tasked with silently approaching ships at night and plantiing mines to their hulls. Early tests have shown much promise, and Froggriffs are expected to be highly effective supplement to our naval forces."
  
@@ -934,7 +934,7 @@
  WNG_old_ideas_desc:0 "Although diving headfirst into doctrinal experimentation might be tempting, we cannot afford to gamble with Wingbardy's security. The Wingbardian army has traditionally focused on a strong core of infantry, and there is no reason to stray from that now."
  WNG_armoured_trucks:0 "장갑 트럭"
  WNG_armoured_trucks_desc:0 "The mobility that trucks give to infantry formation has been a massive boon to our military, but their armor leaves much to be desired. By reinforcing the vehicle's body with armor and adding mounted weapons, we can ensure that small arms fire will no longer threaten our motorized formations."
- WNG_blackclaw_rangers:0 "Elite Unit Training"
+ WNG_blackclaw_rangers:0 "정예 병력 훈련"
  WNG_blackclaw_rangers_desc:0 "As warfare continues to advance, the necessity of specialized formations of troops has become more apparent. By investing in the training of such troops, Wingbardy can achieve a greater degree of strategic flexibility."
  WNG_alpini:0 "Alpini"
  WNG_alpini_desc:0 "The necessity of specialized training and equipment for mountain-based warfare has long been a known factor. Considering several of our neighboring states' terrain, investing in and expanding the existing Wingbardian Alpini corps would be a wise move."
@@ -1016,7 +1016,7 @@
 
  wingbardy.16.t:0 "아퀼레이아의 조약 서명"
  wingbardy.16.d:0 "Happily, it did not take long for meetings with Aquilean representatives in Chiazbeacle to bear fruit. [FROM.GetLeader] and the Aquilean government have seen the wisdom of our proposal, and are in complete agreement with us as to its necessity. No doubt this Pact will usher in an era of improved relations between our two great nations, perhaps even serving as a stepping stone towards a more official alliance in the future."
- wingbardy.16.a:0 "A toast to our Aquilean friends!"
+ wingbardy.16.a:0 "아퀼레이아의 친구들을 위해 건배!"
 
  wingbardy.17.t:0 "아퀼레이아의 퇴짜"
  wingbardy.17.d:0 "Unfortunately, our planned conference in Chiazbeacle came to naught, as the Aquilean representatives neglected to even show up. [FROM.GetLeader] and the Aquilean government are too foolish to see the wisdom of our proposal, and are dead set on spurning our attempts at cooperation. In light of this, it seems we will have to look elsewhere for partners to aid us against our enemies."
@@ -1144,10 +1144,10 @@
  wingbardy.46.d:0 "며칠 전 많은 그리폰들의 최악의 공포가 다가왔습니다. 자코모 가테오티의 시신이 와르토그 정글 깊숙한 곳에서 발견된 것입니다. 그는 적어도 일곱 번 이상 칼에 찔린 것으로 밝혀졌습니다. 자코모는 진보주의자들과 사회주의자들에게 온건파로 잘 알려져 있었기 때문에 단결사회당과 많은 그리폰들이 애도를 보내고 있습니다. 단결사회당은 일부 분열되었고 국가파시스트당의 세력이 더 증가했지만, 대다수의 시민들은 이 사건에 대한 검은 날개단의 연루 의혹을 제기하면서 이런 일이 일어나도록 내버려둔 정부에 분노를 표출하고 있습니다."
  wingbardy.46.a:0 "난 맹세코 이 일이랑 관련이 없어!"
 
- wingbardy.47.t:0 "Fascists Arrested over Gatteotti's Murder"
+ wingbardy.47.t:0 "가테오티 살해 혐의로 체포된 파시스트들"
  wingbardy.47.d:0 "The griffons behind the murder of Giacomo Gatteotti have finally been caught, as the police have apprehended five individuals who were in relation to the crime. The evidence against them at this point is overwhelming, and many legal experts are already guaranteeing it to be an open-and-shut case. In a turn to the worse for the PNF and Beakolini, though, one of the alleged murderers is known and prominent Blackwing officer. Rumors are already spreading of Beakolini's possible involvement of the murder due to Gatteotti's known opposition to his government.\n\nTwo options have been put forward by our officials. The first is to save face and let the trial go ahead. While it would undoubtedly hurt the reputation and popularity of the PNF as a whole, Beakolini's innocence in the case would be proved and the government itself could get off scotch-free. The other option is to use our connections to get them off the hook. Our party wouldn't take the hit that an actual conviction could bring, but it would only increase suspicions of Beakolini's involvement and erode trust in the government."
- wingbardy.47.a:0 "Beakolini is innocent. The trial should go ahead."
- wingbardy.47.b:0 "Pull strings to get them off without charge."
+ wingbardy.47.a:0 "비콜리니는 결백하다. 재판은 그대로 진행될 것이다."
+ wingbardy.47.b:0 "손을 조금 써서 무죄로 풀려나게 만들자."
 
  wingbardy.48.t:0 "새로운 계획"
  wingbardy.48.d:0 "The failure of the Gacerbo Law to pass have been a devastating blow to our efforts in Wingbardy. Without it, the parliament will continue to delay and hinder Beakolini in pushing forward his plans. Now that our motion to achieve full dominance in Wingbardian politics has failed, it is clear that our only option left is to take much more drastic measures.\n\nPlans are already being drawn up for a coup of the current government. Though it is unfortunate, acting against the king and those that oppose Beakolini is not only necessary to advance our interests, it is necessary for the future of Wingbardy itself. The Blackwings, the PNF and the rest of those loyal to fascism are already preparing for what must be done."
@@ -1231,9 +1231,9 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.702.d:0 "In the blink of an eye Giovanni Gacci had pulled out his gun, aiming it straight for Proletarino's heart and pulling the trigger. The communist let out a scream, looking at his chest with unbelief. His glasses fell from his beak, the glass cracking. He then muttered something too soft for any griffon in the room to understand. As Gacci had hoped, the three young griffons did not fire in the moment, although one had her talon on the trigger. The socialist managed to soften his voice as his colleague squirmed on the floor. \"What is your name, miss?\"\n\"Gianna. . .\" the other two stared in disbelief as she aimed her rifle determinedly. \"What is your job Gianna?\"\n\"I work at a Wrobert dockyard, mister Gacci.\" She stepped forward, her rifle aimed at the griffon's forehead.\n\"I see. Thank you for helping us. Without Wrobert, the revolution wouldn't have been possible.\"\n\"And you did nothing! The PCW always helped us dockers!\"\n\nGiovanni's eyes widened in fear, but he pressed on. \"Don't think about what I did, but about what I will do. If you lower your rifle, your fight will be over. If you shoot, who knows?\"\n\"I just. . .\" Her grip weakened.\n\"How about you all go home? You have done your part, now let me do mine.\" Gianna lowered her rifle hesitantly and Gacci managed a smile when the three young adults sat down on the floor. The socialist party leader tore his national flag from the wall and draped it over Proletarino's body. The gentle pink and purple hues soon turned red with blood. . ."
  wingbardy.702.a:0 "May his blood be the last spilled for this flag."
  
- wingbardy.703.t:0 "Breaking Point"
+ wingbardy.703.t:0 "한계점"
  wingbardy.703.d:0 ""No." In that single word, Giovanni Gacci put every ounce of his belief in socialism. A system better than Proletarino's brutal dictatorship, a system where the workers were not just in charge, but free. "No. I won't sign those arrest papers, or that party merger, or anything else you put in front of me. You'll have to kill me." He looked deep into the eyes of each of the guards. His heart was beating hard, but he kept his face calm. "And if you kill me, you'll have another civil war on your claws. Is that what you want, Anton?"\n"I want you to comply peacefully. But if you won't..." Proletarino sighed. "Break his wings."\nOne of the guards slowly, uncertainly approached Gacci. "I'm sorry," she whispered.\n"I know you don't want to do this. None of you." Gacci bowed his head. "I know you all want communism. But this isn't the way to it."\n"Be quiet," Proletarino ordered. "Gianna, do it."\nGianna took a deep breath. "No, Anton. You are my comrade... but so is he. He may not be as devoted as us, but what you're talking about is how we treat the blackwings. Not socialists."\nProletarino narrowed his eyes. "Fine. Giorgia, you do what comrade Gianna is too weak for." But neither of the other two guards moved.\nGiovanni swept his claw across them. "Comrades... friends. I know the PSW and the PCW have not always seen eye to eye, but we are still fighting for the same thing. This kind of thuggishness is the tactic of Beakolini. Please, put your weapons down, and let's talk."\nOne by one, Anton's guards placed their guns on the ground. Anton's ears went flat; he knew he was beaten. "Will you kill him?" Giorgia asked, her voice heavy with fear.\n"No," Gacci answered. "He'll have to face trial for conspiracy, but I promise it'll be fair. And you can visit him in prison."\nAnton looked up, finally. "Why?" he asked. "Why not just kill me? It'd be a thorn out of your feathers.""
-wingbardy.703.a:0 "Because I believe mercy is as important as justice."
+wingbardy.703.a:0 "왜냐면, 난 자비가 정의만큼이나 중요하다고 믿기 때문일세."
 
  wingbardy.71.t:0 "윙바르디 공산주의자들의 지원 요청"
  wingbardy.71.d:0 "News from Wingbardy recently has been nothing but alarming. It appears that the country is on the brink of being taken over by fascists under the leadership of Beakolini. Fortunately for the griffons there, an alliance of leftwing forces has been preparing to stop the fascists' rise to power by force. The Partito Communista Wingbardo, the Wingbardian Communist Party, has managed to use its connections here in Stalliongrad to sneak in a request for aid. The rebels are going to need guns and whatever else we can spare, but there is no guarantee that if we do this, the communists will be strong enough to take power themselves."
@@ -1835,9 +1835,9 @@ wingbardy.703.a:0 "Because I believe mercy is as important as justice."
  wingbardy_flavour.7.d:0 "The Red Guard had been cursing and complaining when they heard of the plan to evacuate the Chamber of Deputies to save some bourgeois politicians. However, their mood changed for the better when they realised the building was surrounded by fascists, who were locked in a sort of quasi-siege with the carabinieri, who were dutifully protecting the deputies, their staff and their families inside the building. There was no way to do this in a subtle way, so the Red Guard rallied every member it had in the city and descended on the blackwings. The square in front of the Chamber became a massive brawl, claws clawing, clubs swinging and bricks and bottles flying through the air. This was the culmination of years of brawls in salons, on squares and other meeting places and all the pent up rage both sides felt. After a few minutes of violence, it appeared that the Red Guard had underestimated how many blackwings were already in the capital, as more and more fascists appeared. The situation looked helpless, until a cordon of heavily armed carabinieri descended from the steps of the Chamber.\n\nThe policegriffons started to systematically clear the square of blackwings, allowing the socialist militia to take care of their wounded and rush inside the chamber. Inside they found the Prime Minister, along with members of his party and the other liberals. Before the fascists could send reinforcements or the King could send the army after them, the Red Guard evacuated every griffon in the building out of Karthin. The escape of the liberal politicians and the bruised pride of the fascists shored up support for the democratic faction of the National Liberation Committee, with many deputies finally openly denouncing the imminent fascist coup."
  wingbardy_flavour.7.a:0 "꼭 돌아오마, 영원한 카르틴이여!"
 
- wingbardy_flavour.8.t:0 "Scioperate!"
+ wingbardy_flavour.8.t:0 "파업하라!"
  wingbardy_flavour.8.d:0 ""Organise in all companies the general strike!\nFight fascist terror in unison!\nDemand the arrest of Beakolini!\nDemand the disbanding of the blackwing terror groups!\nOrganise self-defence in the workplace and the neighbourhoods!\nShow solidarity to the oppressed of Abyssinia!\nRealise the power of your united vigour, it is many times greater than military or fascist repression! If they knew your righteousness, you would surely have many of the soldiers on your side!\n\nSTRIKE! STRIKE! STRIKE!\n\nShut down the entire industrial might of Wingbardy, the wharfs, the ateliers, the offices and banks, the factories and bureaucracy!\nForce ‘the Duce' to give in! Then you will have struck a blow to his monstrous plans to destroy the power of the worker! Then you will stop the exploitation of your labour! Demand higher wages! Battle Fiercely for the liberation of our country!\nComrades, give this manifesto to others after you read it, or glue it in a good place, but be careful!\nRemember Stalliongrad! Remember Skynavia! Your power is unbreakable!\nLong live the Revolution!"\n\nProletarino's call for a general strike went out to all of Wingbardy and the trade unions complied. The chimneys of her many factories emitted no smoke. The banks and offices were closed. No griffon went down the mines. The Wingbardian worker slowly began to realise just how powerful they really were when working together. Suddenly, a state led by the worker seemed within reach. The King, il Duce. Their power was nothing without the power of labour. Now that the workers of Wingbardy felt powerful, they did not want to give up that power anymore! They would fight for it!"
- wingbardy_flavour.8.a:0 "Fight for Worker Rights!"
+ wingbardy_flavour.8.a:0 "노동자의 권리를 위해 싸워라!"
 
  wingbardy_flavour.9.t:0 ""
  wingbardy_flavour.9.d:0 "#TODO "
@@ -1847,10 +1847,10 @@ wingbardy.703.a:0 "Because I believe mercy is as important as justice."
  wingbardy_flavour.10.d:0 "#TODO "
  wingbardy_flavour.10.a:0 """"
 
- wingbardy_flavour.11.t:0 "The Royal Stamp Collection"
+ wingbardy_flavour.11.t:0 "국왕의 우표 모음집"
  wingbardy_flavour.11.d:0 "Of all the treasures seized from the Royal Collection, perhaps none meant so much to the King as his stamp collection. The collection featuring over some 500,000 individual stamps is said to be the largest in the world. Stamps from every nation and covering hundreds of years of history are stored in perfect condition. It is clear that each stamp was loved and looked after by the former King.\n\nA question has been asked as what to do with the vast collection and two proposals have been presented. On one claw the stamps could be put in a museum for all Wingbardians to enjoy. On the other claw the stamps could be sold to collectors across the world. Several of the stamps are expected to fetch a high price and the sell would help boost our finances for a time.\n\nWhat should we do?"
- wingbardy_flavour.11.a:0 "We should sell these stamps to fund the revolution."
- wingbardy_flavour.11.b:0 "These stamps belong in a musemum!"
+ wingbardy_flavour.11.a:0 "우표를 팔아 혁명을 위한 자금을 마련하자."
+ wingbardy_flavour.11.b:0 "이 우표들은 박물관에 전시해야 한다!"
 
  wingbardy_flavour.12.t:0 "제단의 봉헌"
  wingbardy_flavour.12.d_fascist:0 "There were many things that the average Wingbardian could have found strange about the Altar to the Fatherland. The many statues that had been commissioned. The materials imported at great expense. Or even the gilding all around the place.\n\nOf course, to the King, it was all to the better. It was a celebration of those who had fought and died for the Realm...And to Beakolini, it was his victory. The creation of a monument of war, and one to which many would be added. A grandiose ode to his intentions.\n\nThe many statues of heroes past, the oversized dimensions of the same. And an empty space, no doubt intended for Beakolini himself once he retired or died some day.\n\nAnd to everyone else, it resembled a giant typewriter, with only the need for a giant griff to come and cram a sheet of paper into it.\n\nBut none of the mattered to Beakolini. Size mattered. And he had the biggest of all. And of course, once war started, the monument would come into the fullest. After all, the golden-lettered inscription read.\n\n"DEDICATED TO SACRIFICES MADE AND SACRIFICES YET TO COME.""
@@ -1858,15 +1858,15 @@ wingbardy.703.a:0 "Because I believe mercy is as important as justice."
  wingbardy_flavour.12.d_monarchy:0 "The eternal flame burnt bright as the soldiers flew past the gathered dignitaries, each one of their claws holding tight onto one of the handles of the coffin. The unknown soldier, the reminder of everyone who had fought and died for Wingbardy.\n\nThe King silently looked on, head bowed down as the coffin passed him, then the Cabinet. Just before the coffin passed down the stairs to the crypt below the surface, the King stepped forth. Gasps went through the crowd, from the griffs at the top of the stairs to the soldiers just able to see out of the crypt below.\n\nWith a sigh, the King placed a star-shaped silver medal, a dark blue smaller star emblazed inside of it.\n\nAs he then stepped back, the coffin began its movement down to its final resting place in the crypt.\n\nFor all its symbolism, the size of the monument did not give away its importance to the King, or the people around it. The unbroken chain of sacrifices made, and sacrifices yet to come. The inscription etched in the wall read as much.\n\n"IN HONOR OF THOSE WHO MADE THE ULTIMATE SACRIFICE""
  wingbardy_flavour.12.d_republic:0 "One might be almost tempted to assume that the Altar was created as a dedication to democracy and to the popular will of the people... nothing is less true, given the fact that the plans were created when the Chamber of Deputies was less than effective.\n\nThat being said, it is almost unrecognizable. Statues of those who fought for freedom and for liberty, both in war and in peace... and some would say, for Wingbardy's national ambitions as well.\n\nThe reliefs running around the Altar, each telling a new story of war, peace and growth. And where there were many. Stories from around Wingbardy, large and small immortalized in granite and marble.\n\nAnd, secluded in a small area in the middle of the Altar, a small flame. Eternally alight, and eternally guarded, the flame itself located over the Tomb of the Unknowns.\n\nBut where other griffons would have made it a monument to themselves, or to blood and glory, the Altar of the Fatherland is a monument to the People, to Freedom, and to Liberty. After all, as the inscription says.\n\n"FOR THE PEOPLE, OF THE PEOPLE AND BY THE PEOPLE""
  wingbardy_flavour.12.d_defult:0 "The morning sun shone brightly as the rays made their way through the columns of the Altar. It looked empty from the outside, with only the honor guard at the entrances.\n\nAside from two griffons, that is. The King and [Root.GetLeader] were walking along the top column in the monument, looking down upon the city. It seemed peaceful. Few cars on the streets, few griffons milling around the place.\n\nAnd indeed, it seemed as though they had not been noticed either. Just a couple of discreet cars.\n\nThey walked back down the stairs to the ground level, coming to a stop near the Eternal Flame. They sighed in unison, then left a single urn, the King leaving a small tree branch on it. And as they walked out, they looked back towards the Altar, words set in stone and metal.\n\n"NOT FOR SELF, BUT FOR COUNTRY""
- wingbardy_flavour.12.a:0 "Long Live Wingbardy!"
+ wingbardy_flavour.12.a:0 "윙바르디 만세!"
 
- wingbardy_flavour.13.t:0 "The National Anthem Debate"
+ wingbardy_flavour.13.t:0 "국가 문제"
  wingbardy_flavour.13.d:0 "Since victory in the revolution Wingbardy has been without an official national anthem. There is no desire to return to la Marcia Reale d'Ordinanza and many have suggested one of the nation's many popular socialist songs to take its place, but there is much debate over which one.\n\nFirst up is Stato e Padroni, set to a popular socialist tune which calls for all workers to unite to fight the corrupt bourgeoises state and the masters to bring about socialist freedom.\n\nNext up is Bella Ciao, a anti-fascist song that sprang up in the first days of the revolution and has spread throughout Wingbardy and abroad. It features romantic images of anti-fascist partisans fighting for freedom from oppression.\n\nFinally there is Bandiera Rossa, one of the oldest songs of the Wingbardian labour movement. The song celebrates the red flag of socialism and states that the red flag will be triumphant over all. Opponents to the song have said that it doesn't make much sense when the officially adopted flag keeps the traditional Wingbardian pink and purple.\n\nThe choice has to be made. What shall it be?"
  wingbardy_flavour.13.a:0 "No a lavoro saloriato, Unità di tutti gli operai!"
  wingbardy_flavour.13.b:0 "O bella ciao, bella ciao, bella ciao, ciao, ciao!"
  wingbardy_flavour.13.c:0 "Avanti o popolo, alla riscossa, bandiera rossa trionferà!"
 
- wingbardy_flavour.14.t:0 "The National Anthem Debate"
+ wingbardy_flavour.14.t:0 "국가 문제"
  wingbardy_flavour.14.d:0 "Since victory in the revolution Wingbardy has been without an official national anthem. In the interum La Leggenda del Piumave has been used as the anthem and it has strong popularity behind it but not all are convinced that a song about Wingbardy's miracle on the banks of the River Piumave during the Falcor War is the best song for the new Wingbardian Republic.\n\nTwo other songs have been proposed. The first is Va, pensiero, a chorus from an opera by beloved Wingbardian composer Giuseppe Gerdi. The song recollects the plight of Karthinian slaves taken too far off Colthage. With phrases like "Fly, my thoughts, moon wings of gold," the song invokes a romantic longing for the Wingbardian homeland.\n\nNext up is Il Canto degli Wingbardo, The Song of the Wingbardians. The song was originally written in 918 when the original Wingbardian liberal movement was gaining traction. The song was popular at the time among the liberals and continued in its popularity long after the establishment of the constitutional monarchy. The song since of Wingbardian brotherhood and follows the nation's history from the Karthinian Empire of old to the present day and calls for unity, love, freedom, and independence for the nation.\n\nWith the Council of Ministers preparing to make the recommendation, which one should move forward?"
  wingbardy_flavour.14.a:0 "La Leggenda del Piumave! Remember the sacrifices of our brave infantry!"
  wingbardy_flavour.14.b:0 "Va, pensiero, sull'ali dorate! Remember our native land!"
@@ -1918,15 +1918,15 @@ wingbardy.703.a:0 "Because I believe mercy is as important as justice."
  news_wingbardy.7.b:0 "What will this mean for Southern Griffonia?"
  news_wingbardy.7.c:0 "At least we're free of the Coal Clause..."
 
- news_wingbardy.8.t:0 "Anti-Fascist Victory in the Wingbardian Civil War"
+ news_wingbardy.8.t:0 "반파시스트 세력이 윙바르디 내전에서 승리하다"
  news_wingbardy.8.d:0 "[This.GetNewspaperHeader]Jubilation echoed throughout Wingbardy today as the final fascist forces surrendered. But the victory was soured by the news that Beakolini and the King had managed to flee the country.\n\nThe future of Wingbardy is uncertain however as infighting has already begun between the factions that made up the anti-fascist forces. Many communists have been carrying out executions of suspected fascists and have received strong condemnation from the liberal wing of the revolution. Meanwhile the communists accuse the liberals of not going far enough and that they want to return the nation to fascism and capitalism.\n\nWith Beakolini still at large, it is unsure if peace will return to the region soon."
- news_wingbardy.8.a:0 "Wingbardy's future is uncertain."
- news_wingbardy.8.b:0 "The Revolution shall never die!"
+ news_wingbardy.8.a:0 "윙바르디의 미래는 불확실하다."
+ news_wingbardy.8.b:0 "혁명은 절대 죽지 않으리라!"
 
- news_wingbardy.9.t:0 "Fascist Victory in the Wingbardian Civil War"
+ news_wingbardy.9.t:0 "파시스트 세력이 윙바르디 내전에서 승리하다"
  news_wingbardy.9.d:0 "[This.GetNewspaperHeader]The bloody fighting has ended with the final surrender of all remaining anti-fascist and communist forces. Beakolini has proclaimed that the day is to be celebrated as a holiday, though the following days have seen brutal reprisals. Members of the rebel leadership have been executed along with many other suspected communists and liberals, leading to over a hundred executions spread over only five days.\n\nWith the fighting now over, Beakolini and the PNF can focus their efforts elsewhere."
- news_wingbardy.9.a:0 "Another failed revolution in Griffonia."
- news_wingbardy.9.b:0 "We must focus on rebuilding."
+ news_wingbardy.9.a:0 "그리포니아의 또다른 혁명이 실패한 모양이군."
+ news_wingbardy.9.b:0 "우린 재건에 집중해야만 한다"
 
  news_wingbardy.10.t:0 "The Restoration Of Karthinia"
  news_wingbardy.10.d:0 "[This.GetNewspaperHeader]The nations of southern Griffonia have consolidated under a single government, and now a new nation centered in Karthin has been established. In short, the ancient realm of Karthinia, one of the splinter states of the Kingdom of Arantigos, is now restored.\n\nPromoting a regional Karthinian identity and consolidating administration, this new power in the south will likely become a strong contender on the continent, rivaling Aquileia and even the Griffonian Empire."
@@ -1951,7 +1951,7 @@ wingbardy.703.a:0 "Because I believe mercy is as important as justice."
  news_wingbardy.13.b:0 "Together we'll make the world a better place."
  news_wingbardy.13.c:0 "We welcome our Wingbardian friends."
 
- news_wingbardy.14.t:0 "The Southern Economic Community"
+ news_wingbardy.14.t:0 "남부 경제 공동체"
  news_wingbardy.14.d:0 "[This.GetNewspaperHeader]Today representatives of southern Griffonian nations met in Talononte to sign the Treaty establishing the Southern Economic Community.\n\nThe idea, conceived by Wingbardian civil servant Gaetano Martino, quickly gained momentum among Wingbardy and its allies. The treaty is designed to help reconstruct the economies of the southern Griffonian nations, prevent war between said nations and to ensure a lasting peace in the South. This will be done through mutual cooperation and the formation of a common market. Many see it as the first step on the road to a United States of Southern Griffonia."
  news_wingbardy.14.a:0 "A wonderful Idea!"
  news_wingbardy.14.b:0 "How dare they!"
@@ -1961,7 +1961,7 @@ wingbardy.703.a:0 "Because I believe mercy is as important as justice."
  news_wingbardy.15.d:0 "[This.GetNewspaperHeader]King Garibald Talonuel III of Wingbardy has died from pulmonary congestion. Ever since the alleged murder of his father, Garibald Talonuel has been a dominant force in Southern Griffonia. His actions against the empire kickstarted its collapse, he led his nation through harsh times of poverty and famine, and he united all Wingbardians in a long and bloody war with Falcor.\n\nHe is succeeded by his son Gumberto II, a griffon with a well-known past of scandals and hedonism. A shadow of his father, only time will tell of the king that he will become for Wingbardy."
  news_wingbardy.15.a:0 "The Soldier King has fought his last battle."
 
- news_wingbardy.16.t:0 "The Abyssinia Crisis"
+ news_wingbardy.16.t:0 "아비시니아 위기"
  news_wingbardy.16.d.give_in:0 "[This.GetNewspaperHeader]#TODO Abyssinia has given in."
  news_wingbardy.16.d.to_war:0 "[This.GetNewspaperHeader]The ongoing border dispute between Wingbardy and Abyssinia has reached crisis point as both sides refuse to step down over the issue. The Wingbardian colony of Katren is seen by the Abyssinian government as an illegal occupation. Recently, it was discovered that Wingbardy had built a fort near the town of Katkat, located in land Wingbardy claimed to have purchased but previously not occupied. A skirmish broke out between the colonial garrison and Abyssinian police with both sides blaming the other.\n\nThe incident has since spiralled out of control and a build-up of forces on both sides of the border suggests that soon the dispute will soon escalate into all-out war."
  news_wingbardy.16.a:0 "Wingbardy's madness knows no end."
@@ -1970,18 +1970,18 @@ wingbardy.703.a:0 "Because I believe mercy is as important as justice."
 
  news_wingbardy.17.t:0 "치아즈비클 조약"
  news_wingbardy.17.d:0 "[This.GetNewspaperHeader]In a joint communique today, the nations of Aquileia and Wingbardy have announced that they are jointly delineating spheres of influence. Theorized by some to be a defence against the consolidating Griffonian Empire, the Chiazbeacle Pact provides for the common defence of Griffonstone, along with military exchanges between the two nations.\n\nProtests have already streamed in from Griffenheim, condemning the "intervention into Imperial affairs"."
- news_wingbardy.17.a:0 "Stronger, together!"
- news_wingbardy.17.b:0 "United or not, those traitors will fall."
- news_wingbardy.17.c:0 "The two eagles stand united."
+ news_wingbardy.17.a:0 "함께, 더 강하게!"
+ news_wingbardy.17.b:0 "함께하건 말건, 저 반역자 놈들은 쓰러질 것이다."
+ news_wingbardy.17.c:0 "두 마리 독수리가 함께 섰군."
 
- news_wingbardy.18.t:0 "Tarrin Talks Collapse"
+ news_wingbardy.18.t:0 "타린 회담의 실패"
  news_wingbardy.18.d:0 "[This.GetNewspaperHeader]Recently, the Tarrin Conference was held in the town of Eaglers to resolve the dispute between Aquileia and Francistria over the region of Tarrin. Wingbardy tried to act as a mediator between the two, but despite the best attempts of their most skilled diplomats, the Conference has ended inconclusively. This has seriously hampered Wingbardy's ambitions to form an alliance with Aquileia, and might result in renewed conflict over Tarrin in the future."
  news_wingbardy.18.a:0 "This is a disgrace!"
  news_wingbardy.18.b:0 "The Aquileians cannot be trusted."
  news_wingbardy.18.c:0 "The Francistrians cannot be negotiated with."
  news_wingbardy.18.e:0 "Can griffons ever solve things peacefully?"
 
- news_wingbardy.19.t:0 "Tarrin Talks Pass"
+ news_wingbardy.19.t:0 "타린 회담의 성공"
  news_wingbardy.19.d:0 "[This.GetNewspaperHeader]Recently, the Tarrin Conference was held in the town of Eaglers to resolve the dispute between Aquileia and Francistria over the region of Tarrin. Wingbardy acted as a mediator between the two, and thanks to the diligent efforts of their best diplomats, a treaty has been successfully signed by all three parties involved. The compromise solution was aimed to please both sides and should hopefully resolve the Tarrin dispute for the foreseeable future."
  news_wingbardy.19.a:0 "We're one step closer to an alliance..."
  news_wingbardy.19.b:0 "Can the Aquileians be trusted?"
