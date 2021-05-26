@@ -107,19 +107,19 @@
  JER_agrarian_reforms_idea_desc:0 "Through targeted subsidies, the Aquileian state ensures that there is always an abundance of grain. The people thrive and prosper amidst a cornucopia of vittles."
  JER_aquileian_standard_idea:0 "The Aquileian Standard" #NavyMongoose
  JER_aquileian_standard_idea_desc:0 "Industry regulations have encouraged the development of production standards, leading to greater efficiency in the manufacture of goods and the construction of buildings."
- JER_guardians_of_liberty_idea:0 "Guardians Of Liberty" #NavyMongoose
- JER_guardians_of_liberty_idea_desc:0 "We are the ultimate bastion of republicanism in all Griffonia. Let the people of the world know that we will stand and fight for freedom and justice!"
+ JER_guardians_of_liberty_idea:0 "자유의 수호자" #NavyMongoose
+ JER_guardians_of_liberty_idea_desc:0 "아퀼레이아는 그리포니아 공화주의의 마지막 보루입니다. 우리가 자유와 정의를 위해 일어나 싸울 것임을 전 세계가 알도록 합시다!"
  JER_military_ties_idea:0 "아퀼레이아-공화국 군사협력조약" #NavyMongoose
  JER_military_ties_idea_desc:0 "The Aquileian and Republican general staffs collaborate closely in operational planning and, via a hidden treaty clause, the deployment of commandos and other special forces."
  JER_permenant_transport_ties_idea:0 "로마우 이주조약" #NavyMongoose
  JER_permenant_transport_ties_idea_desc:0 "We have opened our borders to nations allied to our cause. Liberty of movement prevails between like-minded brethren."
  JER_no_tarrifs_idea:0 "아이돌존" #NavyMongoose
  JER_no_tarrifs_idea_desc:0 "공통 통화에 기반한 자유무역은 경제 성장을 촉진시키고 모두에게 번영을 가져옵니다."
- JER_invest_in_the_people_idea_2:0 "Decentralised Education System" #NavyMongoose
- JER_invest_in_the_people_idea_2_desc:0 "Universal education provided by regional districts has created a populace that is talented, informed, and participative."
- JER_tax_policy_revisions_idea_3:0 "Revised Tax Code" #NavyMongoose
+ JER_invest_in_the_people_idea_2:0 "탈중앙화된 교육체제" #NavyMongoose
+ JER_invest_in_the_people_idea_2_desc:0 "지역 지구에서 제공되는 보편적 교육은 재능있고, 박식하며, 적극적인 민중을 낳았습니다."
+ JER_tax_policy_revisions_idea_3:0 "개편된 세법" #NavyMongoose
  JER_tax_policy_revisions_idea_3_desc:0 "Fairer and more streamlined tax laws that reduce overhead, treat citizens more equitably, and remove special privileges from large companies have boosted economic and trade activity significantly."
- JER_cultural_pluralism_idea_2:0 "Cultural Pluralism" #NavyMongoose
+ JER_cultural_pluralism_idea_2:0 "문화 다원주의" #NavyMongoose
  JER_cultural_pluralism_idea_2_desc:0 "The state promotes the health local cultures and languages across the whole nation. Home and country are intertwined within the lives of the whole people."
  JER_labour_law_revisions_idea_3:0 "노동법" #NavyMongoose
  JER_labour_law_revisions_idea_3_desc:0 "Aquileian law guarantees strong rights of association to workers and establishes a robust food grant program while also allowing prices to float according to supply and demand. Our strengthening economy also floats, but always upward."
@@ -141,21 +141,21 @@
  JER_infantry_support_priority_idea_desc:0 "Our CAS aircraft work closely with ground forces, and their cooperation maximizes the fighting ability of both elements."
  JER_aquileian_ace_priority_idea:0 "Aquila Institute Of Aerodynamics" #NavyMongoose
  JER_aquileian_ace_priority_idea_desc:0 "New pilots are given extensive tutelage from veterans on the finer points of air combat. The accumulation of flying experience thus benefits the whole air force to a greater degree."
- JER_fascist_resistance:0 "MPA Resistance" #NavyMongoose
- JER_fascist_resistance_desc:0 "Nationalist militias sow dissent within the Right!"
- JER_neutrality_resistance:0 "PnDA Resistance" #NavyMongoose
- JER_neutrality_resistance_desc:0 "Vérany's loyalists arouse discord across the country!"
- JER_democratic_resistance:0 "FJA Resistance" #NavyMongoose
- JER_democratic_resistance_desc:0 "The democrats foment discontent against the Revolution!"
- JER_helping_them_get_rid_of_reactionaries:0 "Anti-Reactionary Action" #NavyMongoose
+ JER_fascist_resistance:0 "MPA 저항군" #NavyMongoose
+ JER_fascist_resistance_desc:0 "국수주의 민병대가 우파 내에 균열를 일으키고 있습니다!"
+ JER_neutrality_resistance:0 "PnDA 저항군" #NavyMongoose
+ JER_neutrality_resistance_desc:0 "베라니의 충성파들이 나라에 불화를 퍼트립니다!"
+ JER_democratic_resistance:0 "FJA 저항군" #NavyMongoose
+ JER_democratic_resistance_desc:0 "민주주의자들이 혁명에 대한 불만을 조장합니다!"
+ JER_helping_them_get_rid_of_reactionaries:0 "반동 척결" #NavyMongoose
  JER_helping_them_get_rid_of_reactionaries_desc:0 "Aquileian political operatives are scouring our nation for reactionary, anti-socialist elements. Our communities roil and rumble as public life grows ever more Red."
  JER_the_social_state_idea:0 "The Social State" #NavyMongoose
  JER_the_social_state_idea_desc:0 "Generous subsidies grant all Aquileians access to a higher quality of life than ever before, in more capacious habitations than have ever been seen."
  JER_trade_union_primacy_idea:0 "Trade Syndicate Primacy" #NavyMongoose
  JER_trade_union_primacy_idea_desc:0 "An empowered council of unions guides all decision-making at the highest tiers of the state. With the wise advice of our most capable workers, our government participates in renewed innovation and cooperation."
- JER_democratic_vanguardism_idea:0 "Democratic Vanguardism" #NavyMongoose
+ JER_democratic_vanguardism_idea:0 "민주적 전위주의" #NavyMongoose
  JER_democratic_vanguardism_idea_desc:0 "A powerful cadre of leading socialists, relying upon their great knowledge of socialist theory and praxis, direct the activities of the state. Together, the vanguardists uphold the glorious Revolution against the forces of reaction."
- JER_awaken_the_workers_of_aquileia_idea:0 "Socialised Education" #NavyMongoose
+ JER_awaken_the_workers_of_aquileia_idea:0 "사회주의 교육" #NavyMongoose
  JER_awaken_the_workers_of_aquileia_idea_desc:0 "Socialist thought is an integral component of education curricula. Every day, new revolutionaries are cultivated and grown for the sake of the whole people."
  JER_authority_decentralisation_idea:0 "Devolved Government" #NavyMongoose
  JER_authority_decentralisation_idea_desc:0 "Regional governments have been granted powers once reserved to the federal government. Local voices are magnified, and with each part more self-sufficient the whole nation is more resilient against the challenges that threaten to dissolve it."
@@ -169,7 +169,7 @@
  JER_socialist_education_idea_desc:0 "Through a cavalcade of public relations initiatives and social engineering programs, we encourage Aquileians to educate themselves for the sake of their fellow proletariat."
  JER_authority_centralisation_idea:0 "A Restored Executive" #NavyMongoose
  JER_authority_centralisation_idea_desc:0 "The federal government is empowered by a strong presidency and a robust, centralized bureaucracy. Aquileia's leadership can decide the fate of millions at the stroke of a pen."
- JER_armoury_of_the_revolution_idea:0 "Armoury of the Revolution" #NavyMongoose
+ JER_armoury_of_the_revolution_idea:0 "혁명의 병기창" #NavyMongoose
  JER_armoury_of_the_revolution_idea_desc:0 "A special department in the defence ministry organizes the deployment of non-official volunteers to spread the Revolution abroad. Let reactionaries throughout the world beware!"
  JER_joint_nuclear_research_idea:0 "핵연구 위원회" #NavyMongoose
  JER_joint_nuclear_research_idea_desc:0 "A joint effort between the socialist nations of the world, this body coordinates the study of nuclear science and engineering."
@@ -671,11 +671,11 @@
  aquileia.108.d:0 "Adeline clutched her rifle with both claws and gulped hard. She stood shoulder to shoulder with her compatriots in the gendarmerie, in a full company a hundred strong, but today, that gave her little comfort. Across from her, a mob of almost a thousand griffons had gathered, shouting angrily at the gendarmes and brandishing their weapons. Normally, that would have been no cause for alarm - the mobs had always been poorly equipped - but today was different. Today, the mob brandished rifles of their own, clean and modern, obviously fresh out of a factory from somewhere. Where that somewhere was, Adeline had no idea. Of course, that didn't matter now. What mattered is that she was on the opposite end of a larger block of armed griffons, and with the company blocking the street from sidewalk to sidewalk, the mob couldn't possibly miss if they decided to open fire.\n\n"Think if we ask nicely they'll go away?" Remy asked from her side, his usually snarky jokes shaken with worry. "They could all fire their guns at once and not hit the side of a barn. It's not like they're trained, right?"\n\nBut Adeline knew better. Many of these griffons were older. Many probably fought in the previous Revolution. Many probably knew how to use the weapons they held. And when the mob started pointing their weapons at the gendarmes, her heart jumped into her throat.\n\n"Fire! Shoot them, damn it!" her sergeant shouted. Discipline moved her talon for her, training forcing her to follow the suicidal command, and Adeline squeezed her eyes shut in terror as she fired her rifle.\n\nThe mob's rebuttal ripped through the gendarmes with a terrifying thunder, and Adeline opened her eyes just in time to see a bullet drill right between them."
  aquileia.108.a:0 "We need the army! Do something!"
  
- aquileia.109.t:0 "A Split In The Party"
+ aquileia.109.t:0 "당 내의 분열"
  aquileia.109.d:0 "With the liberty afforded to us through our new Republic comes the unfortunate disagreements over how the nation should be run. With the new election coming for the Second Republic, it seemed all but certain that Théodore Vérany would lead the harmonists in the FJA to victory. Instead, after several days of shockingly bitter and caustic debates, Théodore has decided to leave the FJA entirely, along with many of his supporters. No longer content to let his ideas for the Second Republic be beaten into compromise by the FJA, Théodore has established his own party, which will run in opposition to the FJA in the coming elections. The Parti National d'Aquilée will focus first and foremost on balancing the nation's budget, repaying all the debts the Republic incurred in the fighting, and stabilizing the economy to leave it strong enough to withstand the influence of monarchists beyond our borders. After his departure, the FJA is now struggling to find a griffon to unite them and guide them toward victory at the ballot box. It seems their inevitable victory is no longer so inevitable."
- aquileia.109.a:0 "Merde!"
+ aquileia.109.a:0 "망할!"
  
- aquileia.110.t:0 "The Champion Of The People"
+ aquileia.110.t:0 "민중의 영웅"
  aquileia.110.d:0 "As the various Revolutionary Clubs gear up to send their candidates off to champion their platforms in the upcoming election, the socialist PAT party has nominated Grand Cru to represent them before all of Aquileia. Cru's nomination was expected, as not only is he a more moderate, and thus more palatable, candidate to come from the communists, he is also a hero of the Revolution, having sheltered many revolutionaries during the furious fighting for the capital, providing food and water for families displaced by the war from stockpiles set aside before the revolution, and organizing the downfall of organized monarchist resistance in the capital and the surrounding countryside. Now, with Election Day drawing ever nearer, Grand Cru has promised to continue the work he performed during the Revolution, by expanding his party and bringing regional representation to all the far-flung corners of Aquileia. He even seeks to continue providing homes for families displaced by the war, a move sure to see him attain easy gains at the ballot box. Grand Cru presents an excellent look for the socialists, and is sure to draw the votes of countless griffons throughout Aquileia. But will he lead the PAT along more moderate and sensible paths, or is he merely a face to let the more radical griffons inside his party take control of the nation?"
  aquileia.110.a:0 "Hopefully they can keep all the loonies on the sideline..."
  
@@ -698,7 +698,7 @@
  aquileia.114.d:0 "She looked around herself at the small village she had arrived in, holding onto her hat as the wind picked up. When she had volunteered to participate in the NEE, she had hoped for a job in Rila, or maybe Vinovia. Rural Orvalillo hadn't really entered her mind, and she was deep enough in thought that she didn't notice the farmer coming up to her before he asked if she was the new teacher.\n\n"Oh, yes!" she said, hurriedly collecting herself. "Adrienne Hirondelle, pleased to meet you," she shook his claw with a smile. "Would I impose if I asked you where the school building is located?"\n\n"Pierre Lacroix, and not at all Madame," the farmgriff responded hurriedly, "In fact, I can take you there right now, it's right up this road. Should I take your bags?"\n\n"If it is not too much of a hassle, thank you." The two began up the road through the small village, and Adrienne found herself nigh bombarded with facts about the little village. There lived the Beauchenes, whose grandfather had planted oaks and now had left them the acorn kings of the village. The old griffoness watching them from the bench outside her home was Madame Veilleux, who knew what everyone was up to, always. The griff that was repairing the roof on the house by the brook was Damien Laval - currently unmarried in case Madame wondered. By the time they got to the school building, Adrienne's head was already spinning." 
  aquileia.114.a:0 "Well... this will be an interesting stay."
  
- aquileia.115.t:0 "Literacy Rates Soar"
+ aquileia.115.t:0 "문해율이 급증하다"
  aquileia.115.d:0 "Remy Lacroix had been anxious for weeks, but he had done his best to carry out the duty Madame Hirondelle had given him. She had, in no uncertain terms, told him that as the oldest child in the class, he was now the prefect and that his word was law. He was responsible for keeping order in class, and if he told the teacher that any student had misbehaved, they'd be punished right away, and his word would trump theirs. Remy was honored, he really was, but he was also terrified! What if he misunderstood something? What if he got a classmate punished for the wrong reasons? He hadn't told on anyone to Madame Hirondelle all week, instead talking directly with the others. At the most, he had threatened with telling the teacher if they didn't stop fighting, but other than that he shied away from the power he had been given. If he misused it, Madame would be angry at him.\n\nMadame Hirondelle, meanwhile, was at her wits' end. When she had appointed Remy prefect she had expected the power to go to his head. It was one of the things she was supposed to do she didn't agree with. Was not Remy meant to be an equal to his classmates? Why put him in a position like this?\n\nAnd yet this chick had stepped as lightly as a feather, treating his power with a prudence that she doubted even the President could muster! Leaning back in her seat, she looked down at the paper filled with Remy's writing, where her red markings were few and far between. She couldn't stop herself from smiling. What a little star he was, this boy..."
  aquileia.115.a:0 "Oh the places you will go."
  
@@ -714,14 +714,14 @@
  aquileia.118.d:0 "Today, the Act of Abolition was formally signed into law in the Aquileian Constitution, ending the centuries-long rule of the monarchy and enshrining the Republic and democracy as an essential part of the reborn nation. While a mostly ceremonial act, as the heir to the throne, Vivienne Discret is nowhere to be found, many in the general public consider this to be the start of a new era for Aquileia. Newspapers from all over the nation are holding this as a sign that the Republic is here to stay this time, and all the major political parties of Aquileia have voiced their support for the President's latest act. Finally, the oppressive system that has ruled the country for so long has truly met its well-deserved end."
  aquileia.118.a:0 "Long live the Republic!"
  
- aquileia.119.t:0 "An Ultimatum From Aquileia"
+ aquileia.119.t:0 "아퀼레이아의 최후통첩"
  aquileia.119.d:0 "Recently our high command has shown concern over a military buildup on the western border. Now the cause for it has finally been revealed as Aquileian diplomats presented an ultimatum from [From.GetLeader]. The Aquileians demand that we cede all lands which formerly belonged to the County of Tarrin before the revolution. If we do not accept this demand, they will not hesitate to use force to reclaim their rightful territory.\n\nAquileia has grown much stronger and more centralized in recent years, so we only have a chance to survive by relying on our allies. However, the Tarrinian region has proven to be quite difficult to administer, and it might be better to simply give in to their ultimatum. There is little honour in that, but it would save thousands of lives."
- aquileia.119.a:0 "They can have it all."
- aquileia.119.b:0 "Tarrin belongs to us!"
+ aquileia.119.a:0 "가져가라고 해라."
+ aquileia.119.b:0 "타린은 우리의 땅이다!"
  
  aquileia.120.t:0 "타린이 우리의 품으로 돌아오다!"
  aquileia.120.d:0 "We have received a response to our ultimatum from [From.GetLeader]: They are offically ceding all Tarrinian territory under their control to us. It seems they value the lives of their soldiers more than land. An old injustice has been amended and the griffons of Tarrin are at last free of foreign domination."
- aquileia.120.a:0 "Tonight we celebrate!"
+ aquileia.120.a:0 "오늘은 축배를 들자!"
  
  aquileia.121.t:0 "[From.GetNameDef] Refuses!"
  aquileia.121.d:0 "We have received a response to our ultimatum from [From.GetLeader]: They do not want to return Tarrinian territory under their control to us. It seems they value land more than the lives of their soldiers. If we want Tarrin to be free of foreign oppression, we have no choice but to do so with military force."
@@ -783,7 +783,7 @@
  aquileia.139.d:0 "Our brave soldiers have successfully managed to expel the enemy garrison from Tarrin proper, forcing them to retreat across the hills. Tarrinians celebrated our victory by lynching thousands of Francistrian settlers. The local resistance has mostly welcomed us as liberators, though some among them have refused to lay down their arms and continue to fight for an independent Tarrin. However, they are few in number and the capital of the region is now safely in our claws, along with its valuable resources and industry."
  aquileia.139.a:0 "잘 했네, 제군들!"
  
- aquileia.140.t:0 "Unexpected Defeat"
+ aquileia.140.t:0 "예기치 못한 패배"
  aquileia.140.d:0 "Unfortunate news arrive from the border. Our troops were repelled shortly after invading enemy territory. It seems the occupiers were better prepared than we anticipated, and as a result many lives were needlessly lost. However, the sacrifice of the martyrs was not in vain as next time we will be better prepared to liberate the area."
  aquileia.140.a:0 "Better luck next time."
  
@@ -1211,7 +1211,7 @@
  aquileia.242.d:0 "Hans kept a stony face as he was escorted down the hallway towards the awaiting guillotine. So this was it then. No more robberies, no more gunfights, it all was coming to an end here. He had heard the verdict just fine all those months ago, but it wasn't real, not until he stood here. He was afraid, terrified even, but he wasn't going to let the cops see it.\n\nAs they reached the door, he saw a priest waiting for him. At first he wanted to tell the old bird to piss off. What had the three ever done for him anyway? He had just opened his mouth when he felt as though he didn't have the strength to. He had lived as a bastard and would die as one, but then what? Screw it, if all he had to hope for was divine mercy, he might as well try it. Bowing his head, he followed the priest in prayer for the first time in his life. And let him touch his head and his shoulders to ask for the Three's mercy.\n\nStepping into the room, he saw the guillotine and felt a sudden wave of terror. What mercy was this? If the three were so great, why was this going to be his fate?! The black sack was put over his head and he was led to lie down on it, being tied in place. Closing his eyes, he began to slowly count, waiting for the sound of sliding steel... but it never came, instead he heard the door slam open and muted talking further away.\n\nThen the restraints were removed and he was pulled up to stand as the sack was removed.\n\n"Death penalty was abolished ten minutes ago," one of the guards informed him. "Imagine if you hadn't taken the chance to pray." Hans couldn't say anything, instead just sinking to the floor as his legs gave way. He stared up at the small window high above, and it all made sense to him. The epiphany was almost overwhelming, and he found himself slowly laughing. He vaguely heard them tell him that he was still going to spend his life in prison, but he didn't even care. The three had truly given him their mercy, and he would not waste it!" #Person who is about to be executed for X crime literally gets pardoned on his way to the guillotine but is informed they're gonna spend the rest of their life in prison instead
  aquileia.242.a:0 "Maybe he should be praising the president instead..."
  
- aquileia.243.t:0 "The Dream Realised" #Sweet
+ aquileia.243.t:0 "이루어진 꿈" #Sweet
  aquileia.243.d:0 "Verany tapped his glass with a claw to ask for the attention of the other griffs attending the grand dinner. "Everycreature. I know you expect me to hold another grandstanding speech where I exhort my many accomplishments, and I would hate to disappoint. However, when the jokes are laid aside, I look back on my career and cannot help but feel like so many of my accomplishments are due to others.\n\nWhen I was a young hotblood, I was thinking merely of an Aquileian Republic, but I was shown a greater vision by my dear friend, Monsieur Kemerskai. He convinced me that though the empire was rotten, it had created the seed for an unity for all of griffonkind, no matter the small details that divided us. Yet, I had barely had time to begin championing these ideals before Madame Gaudreau made sure to temper them and tirelessly argue with me that I could not so lightly dismiss griffonkind's desire to be ruled not by a distant authority figure, but by representatives closer to them in culture and traditions.\n\nFrom Monsieur Cru I learned to take the concerns of even the least among us seriously. From Monsier Rodier, I learned to find pride and strength in my Aquileian heritage." Turning to look to the griffoness who sat by his side, he smiled. "And from my dear wife Sylvaine, I learned patience, to look at things more deeply, and that raising a family demands not just willingness to help, but to actively engage in the labours it entails." He took her claw in his, squeezing it lightly before looking up to everygriff else.\n\n"And from all of you, I learned that when the people stand together, there is nothing they cannot accomplish." He raised his glass to them all. "For all the invaluable lessons you taught not just me, but each other, and which has shaped the republic that we have all built... thank you.""  #Verany looking over his achivements, literally just an epilouge event for after you've conquered Griffonia
  aquileia.243.a:0 "And that's all she wrote"
  
@@ -1235,9 +1235,9 @@
  aquileia.248.d:0 "Aquila is not what it has been.\n\nIn fact, somegriff who left the city twenty years ago and now returned would find it hard to recognize anything, even the layout of the city.\n\nWhere there was once small, cramped streets, with houses towering over them, casting constant shadows upon the stony surface, they have now been replaced with wide open boulevards, with greenery and light reaching through out the street.\n\nWhere tenements once dotted the city, half-ready to collapse into ruins, and taking the lives of so many creatures with them, there are now modern houses, created in the same modern and fashionable style. All with electricity and running water.\n\nWhere there was once smog, those have been thrown out of the city for the benefit of parks and avenues, creating a clear sky for all to enjoy.\n\nWhere there was once trash overflowing in the streets to stink up the city, they too have been replaced with sewers and underground networks to scurry away the trash.\n\nAnd where there once was the ever-present danger of riots and barricades, there is now the space to maneuver cannons around to put the artillery to use."
  aquileia.248.a:0 "Magnifique!"
  
- aquileia.249.t:0 "A Grim Necessity" #Sweet
- aquileia.249.d:0 "To Rodier, war was a simple affair. When the politics of words and debates failed, the politics of blood and iron took over. War might be cruelty, but to waver was the greatest of all cruelties, since the pain inflicted would strike your own people. You had to take a stand, and you had to do it thoroughly, it was none of your business to protect a people who sent their griffs, their guns, their tanks and planes and all that was of any account to war against you. When your enemy came to do you harm, you let them reap the consequences. Your duty was to end the fighting by whatever means necessary, and to ensure that when peace came, it'd be a lasting one, destroy their willingness to fight, tear down their banners and do away with their symbols: you could not leave anything to chance.\n\nThe Herzland griffons prided themselves on being the champions of the empire and the ones who had fought for the Grovers from the very beginning. There was no reason to think they would not do so to the bitter end. The Empire and the Grovers were one and the same in the mind of so many, and ever since the last emperor's death, [GRI.GetLeader] had exploited the young Emperor well, propping him up as a symbol to fight for. It was a clever move, not least because defending children was something primal to everycreature.\n\nSwirling the liquor around in his glass, Rodier stared out into the air as he mused on the order he had given. War was cruelty. It had to be. Hesitation took more lives than you could imagine, and for the sake of peace, you had to do what needed to be done. A carefully picked team, a nighttime raid, a silenced pistol and a deep grave far into the woods. With the last Grover mysteriously vanished, the zeal would go out of the Herzlanders and a lasting peace could come faster. As for him, he'd do what a soldier was meant to. He would shoulder the guilt and carry it to the grave; let it die with him, only then the matter would be settled and there could be peace."
- aquileia.249.a:0 "I do what I must."
+ aquileia.249.t:0 "엄혹한 현실" #Sweet
+ aquileia.249.d:0 "로디에에게 전쟁이란 단순한 문제였다. 말과 논쟁의 정치가 실패하면, 피와 강철의 정치로 이어질 뿐이었다. 전쟁은 분명 잔혹한 것이나 망설임이야 말로 가장 잔혹한 것이었다. 망설임이 가져올 고통은 결국 조국의 국민들이 겪어야 하기 때문이었다. 로디에는 입장을 취해야 했고, 또 그 입장을 확고히 해야 했다. 어째서 전쟁을 바라며 우리를 향해 병사와 전차를 보내고 비행기를 날려보낸 국가의 국민들을 보호해야 하는 것인가. 적들이 해를 끼치고자 우리에게 왔다면, 그 댓가를 치르게 하는 것이 마땅했다. 자신의 임무는 무슨 수단을 통해서던 전쟁을 끝내는 것이었고, 상대의 싸울 의지를 꺾고 그들의 체제와 가치를 무너뜨려야만 이후 찾아올 평화를 유지시킬 수 있을 것이었다. 불안 요소는 남김없이 제거해야만 했다.\n\n헤르츠란트의 그리폰들은 자신들이 제국의 건국부터 그로버 왕조를 위해 싸워왔다는 사실에 자부심을 가졌다. 그렇다면 그들이 제국의 멸망까지도 그리할 것이라고 생각하지 않을 이유가 없었다. 많은 이들의 마음속에 그로버란 이름은 곧 제국이었고, 그로버 5세의 죽음 이후, [GRI.GetLeader] 는 어린 황제를 뒤에서 주무르며 제국민들이 수호해야 할 국가의 상징으로 이용해먹고 있었다. 분명 영리한 행동이기는 했다. 아이를 지키고자 하는 것은 생물의 본능이기도 하니까. \n\n잔에 담긴 술을 휘휘 돌리던 로디에는 하늘을 내다보며 자신이 내린 명령을 곱씹어보고 있었다. 전쟁은 잔혹하다. 분명 그러했다. 그러나 망설임은 상상할 수 있는 것보다 더 많은 목숨을 앗아가기에, 그는 해야만 하는 일이 있었다. 신중하게 선별된 대원들, 야간 습격, 소음 권총, 그리고 깊숙한 숲속의 무덤이 준비됐다. 마지막 그로버가 사라지면, 헤르츠란트인들의 열성도 사라지고 평화의 시대가 찾아오리라. 로디에는 군인으로써의 할일을 마쳤다. 그는 무덤까지 이 죄책감을 안고 함께 죽음을 맞이할 것이었다. 이로써 모두를 위한 평화가 찾아올 수 있다면."
+ aquileia.249.a:0 "난 해야 할 일을 하리라."
  
  aquileia.250.t:0 "대통령 각하..." #Sweet
  aquileia.250.d:0 "이 편지를 적는 것은 정말 힘든 일이었습니다. 당신에게는 계속 끔찍한 말들을 적고 싶어졌기 때문입니다. 제 관리인은 저보고 잠시 편지를 내려놓고 화가 풀릴 때 다시 쓰는게 어떻겠냐고 하더군요. 그런 이유로 지금에서야 이 글을 보낼 수 있게 되었습니다. 아직 제가 이해하지 못하는 것들이 정말 많지만, 저도 당신이 제 권리를 빼앗아갔다는 것은 압니다. 저는 제 아버지가 그러했듯 황제가 되기 위해 태어났습니다. 하지만 이제 더이상 황제는 될 수 없겠죠. 저는 황제 이외의 길은 전혀 알지 못하고, 제가 앞으로 무엇이 되어야 할지, 그리고 무엇이 될지가 두렵습니다. \n\n전 제가 황제로써 제국의 그리폰들을 책임져야 하고, 제가 다스리는 제국의 모습 또한 제 행동과 성격에 의해 형성될 것이라고 배웠습니다. 지금까지의 제국은 그렇게 만들어졌습니다. 그로버 1세와 2세의 치하의 제국은 정말 강력했고, 혼자서도 평화와 통합을 가져올 수 있다는 것을 보여주기 위해, 그리포니아 대륙의 대부분을 정복했습니다. 그로버 3세와 4세의 제국은 선대의 약속을 지키기 위해 노력하며 그 역량을 유지했습니다. 하지만 이제 나라의 지도자가 몇년마다 교체될텐데, 이래서는 그리포니아 제국이 혼란 속으로 빠져들 뿐입니다.\n\n저의 이 편지가 무의미한 노력일 지도 모르지만, 한 가지 부탁드리고 싶은게 있습니다. 당신의 임기가 끝나더라도, 제발 물러나지 말아 주세요. 당신은 강하고, 그 힘으로 평화를 이룩했습니다. 당신이 저에게 무슨 짓을 했던 간에, 당신은 최소한 평화를 지속시킬 수 있는 그리폰입니다. 제가 황제가 되지 못한다 해도 좋아요. 하지만 제발 그 권력을 내려놓지 말아 주세요. 이 나라의 모든 그리폰들을 위해 부탁드립니다. \n\n진심을 담아,\n그로버 폰 그리펜슈타인\n\n\n세실은 편지를 읽으면서 미소를 지었다. 그로버는 그의 나이를 감안할 때 정말 놀라운 말들을 하고 있었다. 비록 그녀와의 이념적인 차이는 명확했고, 이번 혁명의 불씨를 당긴 것도 이러한 차이점들 이었지만, 세실은 이 편지에 담긴 진심을 느낄 수 있었다. 그로버가 그녀에 대해 어떻게 생각하던 간에, 소년은 국가의 안정과 정치적 혼란 속에서 고통받을 이들을 위해 자신보고 독재자가 되어달라 부탁하고 있었다. \n\n답장을 보내기 위해 펜과 종이를 꺼내며, 세실은 혹시 그로버와 이후로도 서신을 주고받을수 있을까 생각했다."
@@ -1262,7 +1262,7 @@
  aquileia.254.a:0 "요리는 참으로 고귀한 예술이다."
  aquileia.254.b:0 "새로운 세대의 요리사들이 자라나고 있다!"
  
- aquileia.255.t:0 "The Guide Deschemins"
+ aquileia.255.t:0 "귀드 데셰망"
  aquileia.255.d:0 "Today, a peculiar new book hit the shelves. Simply named "Guide Deschemins, a critical guide of Aquileian and world restaurants", the book attributes a rank and a small explanation of the quality of cooking of every major restaurant in Aquileia and a few foreign ones. While the world is no stranger to culinary critique, the exhaustivity of the guide and its method of secret undercover culinary critique has surprised many cooks. Louis Deschemins, born Louis de Galarza, has been the mastermind of the work.\n\nThe Tarrin-born de Galarza family is well-known in that region for its winery, traditional cheese making as well as hosting a yearly tasting contest of cheeses. Louis Deschemins, the new head of the family has continued the tradition but was always known to be an eccentric. After Tarrin reunited with Aquileia proper, the visionary Louis set out to transform the family business and tradition. Gathering a small posse of fellow culinary connoisseurs, he embarked on a great trip where, in disguise, they sampled various restaurants and ranked them according to a plethora of criterias. The Guide is the result of their work.\n\nThe guide already seems to be reshaping the world of fine dining as many restaurants have seen their customers vanishing or, on the contrary, turning out in droves based on the Guide's critique. In response to the success of his book, Deschemins has already promised to update his guide every year.\n\nNow, all cooks and restaurateurs in the world are haunted by a question: who among their clients could be the Deschemins inspectors? According to some, it could be anyone of them..."
  aquileia.255.a:0 "It could be you! It could be me!"
 
@@ -1279,7 +1279,7 @@
  aquileia_two.3.d:0 "Today, representatives from the Societé Justice presented to the Committee informations about the patrol plans and schedules of the security forces in Rila for the coming week. A strong debate was held as to what could be done with it. Some extremists from the Cocardiers wished to use the information to organize an uprising. However, the consensus was that it was still to early and that the information could be used for propaganda purposes. In the end, the propagandists prevailed and the Cocardiers' plan was voted down, not without some name calling.\n\nThe representatives of the Club du Verbe Vrai were tasked to use their network within Rila's print shops and bookstores to stockpile republican propaganda in the forms of posters, banners and notices. The Fanal was then tasked with using their followers, mostly illiterate workers, to insert the material in the streets.\n\nUnbeknownst to most of the Committee, the "informations" were in fact provided by Duke Michel himself. Members of the more reform-minded faction reached a deal with him to spread the word of republicanism in the capital. The security forces had in fact been given orders to clear the streets and stand down, effectively turning a blind eye to the whole operation."
  aquileia_two.3.a:0 "Let them know that servility is no virtue."
  
- aquileia_two.4.t:0 "The Storming of the Bastilles"
+ aquileia_two.4.t:0 "바스티유 습격"
  aquileia_two.4.d:0 "While some knew Rila as a place of fine wines, great coasts and theater but to the Republicans, it was also a prison. The restored regime wished to maintain prisoners away from the historical center of the revolution. It didn't say idle either over the years since the end of the revolution, sending continuously more griffs to Rila. These prisoners were gathered in a few fortresses that would serve as fortified prison : the bastilles. As time went on, they become the living symbol of the royal oppression in Rila, standing high as a perpetual reminder of where lovers of liberty would go to die in darkness if caught.\n\nThe Committee, united in this at least, sought to put an end to theses prisons. They planned a mass-scale attack on all bastilles with the following objectives : starting fires and fights at various points in town to distract the troops, gather mobs of sympathizers, overwhelm the defenses, free the prisoners and loot as many guns as possible.\n\nOn [Root.GetDateText], the plan was executed. Mobs of republicans assembled and led by club members marched on the fortresses. In some places, they found sympathetic or cowardly guards who simply refused to engage them, opening the gates in exchange for their safety. Everywhere else, fighting followed and it was bloody and bruised that the republicans freed their comrades and common prisoners alike. That day, the Republicans grew in number by the hundreds and many tears of joy were shed as long lost friends and parents met again. Sadly, in the Flowerino bastille, the mob assembled by the local Cocardiers suffered greatly at the claws of the guards and butchered everygriff inside in a frenzied revenge.\n\nThe news alarmed the authorities who scrambled to crack down on the clubs but information was lacking. The ducal palace was panicking. Yet, one griff still stayed calm : duke Michel himself. Some of his advisors saw it as a sign of his resolve in the face of danger. Sadly, for them, it was not because of a strength of character but because he knew beforehand. After all, six fortresses don't fall in a single day to angry mobs because of sheer revolutionary fervor..."
  aquileia_two.4.a:0 "The first step towards the Revolution."
  
@@ -1357,7 +1357,7 @@
  JER_send_guns_to_rila:0 "충성파를 무장시키다"
  JER_send_guns_to_rila_desc:0 "Many are still of sound mind and willing to fight for their king. By His Majesty's order, we shall make sure that there will be plenty of weapons available for those who are willing to defend the crown."
  JER_arrest_officers:0 "올빼미들을 보내다"
- JER_arrest_officers_desc:0 "Like a shadow in the night, the Chouette is stalking the streets of Rila to track down and "deal with" any prominent republicans they can find. They know well that killing a snake is best done by cutting its head, our little owls."
+ JER_arrest_officers_desc:0 "밤의 그림자와 같이, 올빼미들은 릴라의 거리를 누비며 저명한 공화주의자들을 추적해 "처리"하고 있습니다. 뱀을 죽이는 최선의 방법은 그 머리를 잘라내는 것이죠."
  JER_friends_within_the_ponies:0 "포니 공동체의 친구들"
  JER_friends_within_the_ponies_desc:0 "We cannot forget the many ponies who live in our lands. Many of them have their ancestry in Equestria, where the monarch is as adored as His Majesty is among us, and ever since they settled here they have been known as loyal subjects. We will make sure that when the hour is dark, our little ponies will come to our aid."
  JER_expand_info_network:0 "광범위한 수색"
@@ -1400,15 +1400,15 @@
  JER_support_domestic_industries_desc:0 "In order for Aquileia to prosper, we must place a modicum of faith in the common griffon, and to this end we have decided to invest in some select subjects of the crown so that they may grow into their full potential."
  JER_build_the_nation:0 "A Shining Beacon"
  JER_build_the_nation_desc:0 "Our kingdom is ancient and glorious in equal measure, a shining beacon of prosperity and progress that has and lit the way of uncountable generations and which shall continue to do so in the future as well."
- JER_new_law_code:0 "The Discret Code"
+ JER_new_law_code:0 "디스크레 법전"
  JER_new_law_code_desc:0 "Our legal system has fallen behind the times, being a confusing and contradictory mess of old laws, privileges and local precedents that make the courts' duties nigh impossible to carry out. It is time to create a new, uniform and modern system of law that will ease the burden for both courts and citizens."
  JER_a_advisory_parliament:0 "Parlement Royal"
  JER_a_advisory_parliament_desc:0 "Our monarch is the state, and so it shall remain, but it has nevertheless been suggested that maybe a form of parliament should be formed. It could assist the crown in carrying out its duties and deal with the issues that are beneath the royal dignity, so that the commoners may feel included and not succumb to republicanism again."
- JER_old_glories:0 "Past Glories"
+ JER_old_glories:0 "과거의 영광"
  JER_old_glories_desc:0 "Aquileia is not some subject nation who meekly will bow her head. She knows no equal and will accept no position but at the top of the world where she belongs! She is a a queen among nations, a roaring lion!"
- JER_reclaim_northwest:0 "Reclaim The North"
+ JER_reclaim_northwest:0 "북부 재탈환"
  JER_reclaim_northwest_desc:0 "With the heart of Aquileia finally secure, it is time to look north. Our old lands have been left in a pitiable state, with everything from peasant republics to merchant states trying to assert their own control in the region. These errant breakaway regions must be brought back into the fold swiftly and firmly."
- JER_reclaim_east:0 "Reclaim The East"
+ JER_reclaim_east:0 "동부 재탈환"
  JER_reclaim_east_desc:0 "To the east lie lands which have not been part of Aquileia for a longer time. The area currently held by the Houses of Avian and Erie were once part of our Kingdom before Grover I seized them and granted them as a reward to their loyal Verenian hounds. Tarrin on the other claw was lost relatively recently, but is also rightfully ours! It is now time we retake these lands."
  JER_reintegrate_old_lands:0 "Reintegrate the Périphérie"
  JER_reintegrate_old_lands_desc:0 "What pitiful state our borderlands have been reduced to! We must start reintegrating them into the kingdom proper immediately and see to it that they are restored to their old glory as part of a greater whole."
@@ -1460,11 +1460,11 @@
  
  JER_the_triumph:0 "제2공화국"
  JER_the_triumph_desc:0 "드디어 승리입니다! 또다시 아퀼레이아의 군주주의자들은 박살났고, 나라에서 쫒겨나거나, 죽어 땅에 묻힌 채입니다. 혁명은 화려한 승리를 거두었고, 이제 고대하던 민주주의 체제를 공식적으로 수립할 때입니다. 제2공화국이 부상합니다!"
- JER_educate_the_populace:0 "Battle Illiteracy"
- JER_educate_the_populace_desc:0 "Ignorance is the tool of tyrants, the weapon of warlords. Knowledge is the foundation that freedom rests upon. We shall make it our endeavor to teach griffons all throughout the Republic how to read and learn so that they may become effective participants in our new and ever-lasting democracy."
- JER_delegalize_the_monarchy:0 "Legally Abolish The Monarchy"
+ JER_educate_the_populace:0 "문맹 타도"
+ JER_educate_the_populace_desc:0 "무지는 폭군의 도구요, 군벌들의 무기입니다. 지식이야말로 자유의 기반이지요. 공화국 전역의 그리폰들을 가르쳐 그들이 우리의 새롭고 영원한 민주주의의 기둥이 되도록 할 것입니다."
+ JER_delegalize_the_monarchy:0 "군주제의 법적 폐지"
  JER_delegalize_the_monarchy_desc:0 "Everything we do as a republic must have a basis in our laws and constitution. This includes removing the last vestiges of the monarchy and embracing democracy. Though we toppled the Discrets through force and bloody revolution, their end cannot truly be made real until the ink dries on our new constitution."
- JER_social_security_for_all_aquileians:0 "Déclaration d'Acceptation et des Droits Civils des Poneys"
+ JER_social_security_for_all_aquileians:0 "포니들의 수용 및 시민권 선언"
  JER_social_security_for_all_aquileians_desc:0 "For as long as anyone can remember, Aquileia has maintained a sizeable pony minority throughout its lands, with the ponies acting as a support base for the Discret monarchy. In order to get them on our side, and share our revolutionary fraternité with them, we shall pass an official declaration ensuring that ponies are full citizens of our republic and have the same rights as any griffon."
  JER_republican_national_academy:0 "Académie Républicaine des Sciences"
  JER_republican_national_academy_desc:0 "Free from the yoke of tyranny, our finest scientists and most brilliant minds are now allowed to research as they please and teach future generations of innovative griffons with lavish funding from the Republic. Soon, Aquileia will feature the greatest scientific academy in all the world!"
@@ -1861,9 +1861,9 @@
  JER_pan_griffonian_confederation:0 "Our Moral Obligation"
  JER_pan_griffonian_confederation_desc:0 "Just as the Aquileian Republic liberated the Aquileian, then the Griffonian workers, we have a moral obligation to spread the Revolution elsewhere. Across the world, far and wide, cowards will flinch and traitors will sneer as we keep the Red Flag flying here and there."
  
- JER_viviene_triumphant:0 "Vive l'Impératrice!"
+ JER_viviene_triumphant:0 "여제 폐하 만세!"
  JER_viviene_triumphant_desc:0 "The showdown between the Herzland and Aquileia will go down in history as one of the most seminal events on the continent. The land of the Grovers now lie broken before the Queen's armies, and Her Majesty now controls not only Aquileia, but the entirety of the Herzland as well. To rule such a realm demands more than a Queen. Aquileia shall now see its first Empress!"
- JER_dealing_with_the_herzland:0 "Herzland Blues"
+ JER_dealing_with_the_herzland:0 "헤르츠란트 블루스"
  JER_dealing_with_the_herzland_desc:0 "In order to ensure that Herzland can never again threaten Aquileia, what is Aquileia and what is Herzland must be redefined. The border regions of Feathisia and Greifenmarschen are both related to Aquileia culturally, and if we ensure that this relation becomes dominant, they will view the Herzlanders are foreigners, and us as brothers."
  JER_pacifying_skyfall:0 "The Aquileisation Of Skyfall"
  JER_pacifying_skyfall_desc:0 "Skyfall was the economic heart of Herzland for a long time, but the more money came to rule, the less loyalty they showed. Towards the end they outright broke away from Herzland for purely selfish interests. It is time to ensure these rootless merchants are planted firmly, and that loyalty to the queen come before loyalty to coin."
@@ -2003,7 +2003,7 @@
  JER_revolution_VIN_category:0 "The Revolution in Vinovia"
  JER_revolution_VIN_category_desc:0 "§CMonarchist Support§! in §Y[VIN.GetName]§! is at §Y[?VIN.monarchist_support]%§!\n§RRevolutionary Support§! in §Y[VIN.GetName]§! is at §Y[?VIN.revolutionary_support]%§!\n\nWith the §YHouse of Discret§! now having reconsolidated their power over Aquileia, the title of §GDuke of Vinovia§! was entitled to §YGadiffer Discret§!, a close relative of the Aquileian Monarch, who believed him to be apt enough to administrate the relatively peaceful and culturally-rich region of §GVinovia§! in his name. Not having to deal with the many issues that plagued the other vassals of Aquileia, the §GDuke§!, thanks to his charismatic nature, quickly §Yappeased§! what remained of the old §RRevolutionary Movements§! such as the peaceniks of §RLes Amis des ABC§! or the militants from the §RChevaliers of Fidelity§! Society.\n\nThese aforementioned §RRevolutionary Movements§!, who had dominated the Vinovian scene both §Ypolitically§! and §Ymilitarily§! during the §RRevolution§!, were now reduced to mere §gshadows§! of their former selves and many griffons who were part of it soon departed to pursue an ordinary life under the banner of a §Ybenevolent§! §GDuke of Vinovia§!, something that hadn't occured in §Ycenturies§!.\n\nHowever, despite the §GDuke§! doing everything in his power to loosen the more §Yrepressive policies§! of the Monarchy, some of the more radical agitators of the §RRevolution§! still §Yrefuse§! to resign their hopes of a Republic, and there's still chances that the §RRevolutionary Movements§! might §Rtake up arms§! for a §Rsecond§! time."
  
- JER_revolution_mission:0 "The Fire Rises"
+ JER_revolution_mission:0 "불길이 솟아오르다"
  JER_revolution_mission_desc:0 ""
  JER_revolution_descision_1:0 "Rebel Support"
  JER_revolution_descision_1_desc:0 ""
@@ -2039,7 +2039,7 @@
  JER_send_resources:0 "Send Funding To Dennis"
  JER_send_resources_desc:0 ""
  
- JER_support_rebels_in_rila:0 "Organize A Bombing"
+ JER_support_rebels_in_rila:0 "폭탄 테러 계획"
  JER_support_rebels_in_rila_desc:0 "Michel Discret is a collector of the fine arts; most of these arts, however, are statues of himself. He's set to receive a new piece to his private collection soon, and the sculptor is a known revolutionary sympathizer. Perhaps we can arrange for a little 'present' to be included with Michel's newest statue?"
  JER_spread_pamphlets:0 "Spread The Word"
  JER_spread_pamphlets_desc:0 "A revolution cannot be born if no griffons are aware that it is time to take up the torch. We shall enlist the aid of every printer we can find in Rila who believes in the Republic. With their help, we shall soon put Revolution back on the beaks of every griffon in Rila, and fill out the revolutionary clubs with zealous new members ready to fight and die for their freedom."
@@ -2166,7 +2166,7 @@
  JER_JEB_mon_government_market_desc:0 ""
  JER_JEB_mon_trade_weapons:0 "Acquire Aquileian Arsenal"
  JER_JEB_mon_trade_weapons_desc:0 ""
- JER_JEB_mon_parade:0 "The Rila Parade"
+ JER_JEB_mon_parade:0 "릴라 행진"
  JER_JEB_mon_parade_desc:0 ""
  JER_JEB_mon_flowerino_parade:0 "The Flowerino March"
  JER_JEB_mon_flowerino_parade_desc:0 ""
@@ -2206,7 +2206,7 @@
  JER_JFT_REV_cement_communards_desc:0 ""
  JER_JFT_REV_students_and_workers_party:0 "Students And Workers Party"
  JER_JFT_REV_students_and_workers_party_desc:0 ""
- JER_JFT_REV_les_enfants:0 "Les Enfant Terrible"
+ JER_JFT_REV_les_enfants:0 "앙팡 테리블"
  JER_JFT_REV_les_enfants_desc:0 ""
  JER_JFT_REV_le_project_terrible:0 "Le Project Terrible"
  JER_JFT_REV_le_project_terrible_desc:0 ""
@@ -2218,7 +2218,7 @@
  JER_JFT_REV_FJA_nationwide_desc:0 ""
  JER_JFT_REV_unified_FJA:0 "Rural Support For Social Democrats"
  JER_JFT_REV_unified_FJA_desc:0 ""
- JER_JFT_REV_fight_pony_bias:0 "End The Pony Bias"
+ JER_JFT_REV_fight_pony_bias:0 "포니 편견 종식"
  JER_JFT_REV_fight_pony_bias_desc:0 ""
  JER_JFT_REV_remember_the_wall:0 "Remember The Wall"
  JER_JFT_REV_remember_the_wall_desc:0 ""
@@ -2228,7 +2228,7 @@
  JER_JFT_REV_the_underground_government_desc:0 ""
  
  JER_guarantee_skyfall:0 "스카이펠을 보장"
- JER_demand_tarrin:0 "Demand Tarrin"
+ JER_demand_tarrin:0 "타린 요구"
  JER_demand_tarrin_desc:0 "During the First Revolution, the Countess of Tarrin was deposed and executed by local republicans. However, the Count of Francistria, a distant relative of the Discrets and a claimant of Tarrin, intervened and opportunistically occupied the region. Ever since, Tarrin has been under foreign rule.\n\nThe time has finally come to liberate our brothers and sisters in Tarrin and drive out the oppressors of the east. We will send them an ultimatum, and if they do not accept, conflict is not out of the question."
  JER_demand_tarrin_2:0 "Reunification With Tarrin"
  JER_demand_tarrin_2_desc:0 "During the First Revolution, the Countess of Tarrin was deposed and executed by local republicans. However, the Count of Francistria, a distant relative of the Discrets and a claimant of Tarrin, intervened and opportunistically occupied the region. Thankfully, fierce local resistance managed to eventually expel the occupiers, and now Tarrin is an independent Republic.\n\nThe time has finally come for Tarrin to reunite with Aquileia proper. However, it is possible their current government wishes for autonomy - or even continued independence. We cannot tolerate separatism in [Root.GetNameDef], but perhaps we can make concessions."
@@ -2302,7 +2302,7 @@
  JER_advisor_19:0 "Secret d'Etat"
  JER_advisor_20:0 "아르망 드 라 페리에르"
  JER_advisor_21:0 "모니크 셰터클로"
- JER_advisor_22:0 "Hippolyte de Nidmessant"
+ JER_advisor_22:0 "이폴리트 드 니메상"
  JER_advisor_23:0 "샤를 파드쿠아"
  JER_advisor_24:0 "피에레트 드베세"
  JER_advisor_25:0 "Coup d'Etat"
@@ -2320,7 +2320,7 @@
  JER_jeanne:0 "쟝 라볼리에르"
  JER_jeanne_lar:0 "쟝 라볼리에흐"
  JER_erion:0 "집정관 에리온 12세"
- JER_archon_boreas:0 "Archon Bienheureux Bénédict I"
+ JER_archon_boreas:0 "집정관 비앙으호 베네딕트 1세"
  JER_archon_arcturius:0 "집정관 비앙뷜루 아메데오 1세"
  
  rodier_l:0 "레오나르 로디에르"
