@@ -156,7 +156,7 @@
  WNG_investigation_2:0 "Justice for Gumberto"
  WNG_investigation_3:0 "Justice for Gumberto"
  WNG_friendship_schools_idea:0 "우정 학교"
- WNG_modern_warfare_idea:0 "Modern Warfare"
+ WNG_modern_warfare_idea:0 "현대전"
 
  ### Research and Production ideas ###
  WNG_fwan:0 "FWAN"
@@ -368,9 +368,9 @@
  WNG_the_new_communist_griffon_desc:0 "'A griffon will make it their purpose to master their own feelings, to raise their instincts to the heights of consciousness, to make them transparent, to extend the wires of their will into hidden recesses, and thereby to raise themselves to a new plane, to create a higher social biologic type, or, if you please, a new griffon.'\n-Giuliano Gimperi, in ‘Our Social Future'"
 
  WNG_the_children_of_the_revolution:0 "혁명의 아이들"
- WNG_the_children_of_the_revolution_desc:0 "'누가 ‘하나'를 필요로 할까?\n‘하나'의 목소리는 찍 소리보다도 작다.\n누가 이를 들어줄까? 오직 네 부모님만이 들어줄 것이다!\n‘하나'는 의미가 없다.\n‘하나'는 곧 0이다.\n-안토니오 프롤레타리노, ‘아이들을 위한 연설'"
+ WNG_the_children_of_the_revolution_desc:0 "'누가 ‘하나'를 필요로 할까?\n‘하나'의 목소리는 찍 소리보다도 작다.\n누가 이를 들어줄까? 오직 네 부모님들한테나 들릴 것이다!\n‘하나'는 의미가 없다.\n‘하나'는 곧 0이다.\n-안토니오 프롤레타리노, ‘아이들을 위한 연설'"
 
- WNG_make_use_of_the_prisoners:0 "Make Use of the Prisoners"
+ WNG_make_use_of_the_prisoners:0 "전쟁포로 활용"
  WNG_make_use_of_the_prisoners_desc:0 "During and after the war, we have captured many fascists and other threats to the revolution, but ironically they sit still in their prisons while the righteous worker toils away to build a prosperous future. There is no place for irony in the workers' utopia."
 
  WNG_establish_the_dictatorship_of_the_proletariat:0 "무산계급 독재"
@@ -519,7 +519,7 @@
  WNG_electorial_reform:0 "선거제도 개혁"
  WNG_electorial_reform_desc:0 "For too long the instability of our government has hindered any significant change, but no longer. Giovanni has worked beak and talon to propose a set of reformations aimed to solidify a functional democratic system, and all that’s left is to implement it."
 
- WNG_greater_power_to_regional_governments:0 "Greater Power to the Regional Governments"
+ WNG_greater_power_to_regional_governments:0 "지방정부 권한 강화"
  WNG_greater_power_to_regional_governments_desc:0 "There has long been a schism between the state government of Wingbardy and local city governments. This is something that we must remedy, and the first step to that is to grant more control to the more rural regions over their respective lands."
 
  WNG_give_land_to_the_peasants:0 "농민들에게 토지를"
@@ -571,7 +571,7 @@
  WNG_deal_with_the_bandits:0 "도적단 처리"
  WNG_deal_with_the_bandits_desc:0 "Griffonstone has collapsed so much it could not even keep its own ancestral realm together. A bandit warlord has taken over the Creeper Mountains and is threatening all civilised people. We must put an end to this unlawful upstart and restore order to the ancient home of griffonkind."
 
- WNG_strike_at_griffenheim:0 "그리펜하임 타격"
+ WNG_strike_at_griffenheim:0 "그리펜하임 공격"
  WNG_strike_at_griffenheim_desc:0 "It is finally time to take our final revenge for the humiliations generations of Grovers have dealt us. No longer will Karthin stand in the shadow of another empire. No longer will Wingbardians be considered second rate. The so-called Griffonian Empire will be relegated to the dustbin of history and the world will learn of Karthinian Supremacy! Onwards to final victory!"
 
  WNG_army_experiance_sharing:0 "붉은 군대와의 만남"
@@ -642,7 +642,7 @@
  WNG_war_with_abyssinia:0 "Crush the Lion of Abyssinia"
  WNG_war_with_abyssinia_desc:0 "Our preparations in Purrsia and Katren have all led up to this moment. The Wingbardian people are expecting victory overseas. The military is eager to test their mettle against the felines of Zebrica. We shall crush the Lion of Abyssinia and deliver the triumph that shall transform our holdings into a great colonial empire!"
   
- WNG_triumph_in_zebrica:0 "Triumph in Zebrica"
+ WNG_triumph_in_zebrica:0 "제브리카에서의 승리"
  WNG_triumph_in_zebrica_desc:0 "Wingbardy reigns supreme! Organised Abyssinian resistance has been crushed and the felines have been forced to capitulate. The papers are full of our military's heroic actions and the atmosphere in Karthin is jubilant. Now is the time to enjoy the sweet glory of a triumph. [Root.GetLeader] will don the laurel wreath of victory and style himself an ancient victor."
 
  WNG_the_feline_association_of_the_lictor:0 "The Feline Association of the Lictor"
@@ -657,7 +657,7 @@
  WNG_develop_our_island:0 "Develop Purrsia"
  WNG_develop_our_island_desc:0 "To say Purrsia is not the most developed part of our nation would be an understatement. The infrastructure on the island is outdated and some of the major roads are dangerous even for military trucks. If Purrsia is to reach her full potential, an ambitious development package must be initiated."
 
- WNG_agwp_land_grants:0 "AGWP Land Grants"
+ WNG_agwp_land_grants:0 "AGWP 토지 불하"
  WNG_agwp_land_grants_desc:0 "The Azienda Generale Wingbardia Petroli is off to a flying start in Wingbardy proper, overseeing our refining operations. We received news that the AGWP has recently performed prospecting in our colonial possessions and has struck oil! To properly exploit these new wells, they will need acquire the oil deposits, at the cost of the local inhabitants' land rights. Such is the way of progress."
 
  WNG_colonial_troops:0 "식민지군"
@@ -694,7 +694,7 @@
  WNG_create_a_loyal_government:0 "충성스런 정부 구성"
  WNG_create_a_loyal_government_desc:0 "빠르고 결정적인 행동을 취하려면, 임무를 믿고 맡길 수 있는 그리폰들로 동요하는 자유당 정부를 대체해야만 합니다. 효율적으로 나라를 다스리려면, 군인 왕에겐 명령을 정확하게, 망설임 없이 따를 신하가 필요합니다."
 
- WNG_reach_out_to_the_common_griffon:0 "Reach out to the Common Griffon"
+ WNG_reach_out_to_the_common_griffon:0 "평민 그리폰들과의 대면"
  WNG_reach_out_to_the_common_griffon_desc:0 "The citizens of Wingbardy are tired of the continuous political turmoil, but many of them are principally against the royal takeover. The King will need to sway supporters of liberal, fascist and socialist parties alike of his noble intentions or his government will collapse before it even gets started."
 
  WNG_secure_army_loyalty:0 "군 충성 확보"
@@ -718,7 +718,7 @@
  WNG_the_commoners_king:0 "평민들의 대왕"
  WNG_the_commoners_king_desc:0 "The King is loved by the people as the one figure who saved Wingbardy from civil war. Soldiers are said to tuck photos of the King into their uniforms, believing that carrying his likeness will grant them favour with Arcturius. It is time to capitalise on that popularity!\n\nAvanti Wingbardia! Avanti Talonuel!"
 
- WNG_invest_in_the_future:0 "Invest in the Future"
+ WNG_invest_in_the_future:0 "미래에 대한 투자"
  WNG_invest_in_the_future_desc:0 "Children are the future of every society, and Wingbardy is no different. We need to recognise talent at a young age and nurture it into something great. The King will personally sponsor special schools for the brightest minds of the nation, where they can learn to help Wingbardy progress into the future."
 
  WNG_royal_youth_awards:0 "Royal Youth Awards"
@@ -924,7 +924,7 @@
  WNG_reserve_divisions_desc:0 "Our land forces will require massive numbers of griffons to fully strengthen our divisions, but current recruitment drives won't allow for reserves. New campaigns to instil into able-bodied Wingbardians as sense of duty to serve the nation will go a long way to resolve this issue."
  WNG_artilery:0 "새로운 대포"
  WNG_artilery_desc:0 "Asides from the fighting griffon, artillery has defined the history of warfare. While the concept hasn't really changed, the equipment does, and we can improve upon our current artillery designs to rain more death upon our enemies."
- WNG_alati:0 "Montanari Alati"
+ WNG_alati:0 "몬타나리 알라티"
  WNG_alati_desc:0 "Previous wars have given rise to certain soldiers that distinguished themselves as particularly tenacious and disciplined, the Montanari Alati, proving to be the cream of the crop of Wingbardy's infantry. This elite group traditionally fills mountaineer and airborne corps, and though they are powerful in their own right, the corps can always be expanded upon."
  WNG_royal_support_corpes:0 "왕립 지원군단"
  WNG_royal_support_corpes_desc:0 "There is more to an army than its weapons and soldiers. The support staff and medical personnel have always been integral in military history, but we can form dedicated battalions suited specifically to support the fighting griffons of an army."
@@ -936,9 +936,9 @@
  WNG_armoured_trucks_desc:0 "The mobility that trucks give to infantry formation has been a massive boon to our military, but their armor leaves much to be desired. By reinforcing the vehicle's body with armor and adding mounted weapons, we can ensure that small arms fire will no longer threaten our motorized formations."
  WNG_blackclaw_rangers:0 "정예 병력 훈련"
  WNG_blackclaw_rangers_desc:0 "As warfare continues to advance, the necessity of specialized formations of troops has become more apparent. By investing in the training of such troops, Wingbardy can achieve a greater degree of strategic flexibility."
- WNG_alpini:0 "Alpini"
+ WNG_alpini:0 "알피니"
  WNG_alpini_desc:0 "The necessity of specialized training and equipment for mountain-based warfare has long been a known factor. Considering several of our neighboring states' terrain, investing in and expanding the existing Wingbardian Alpini corps would be a wise move."
- WNG_paracadutisti:0 "Paracadutisti"
+ WNG_paracadutisti:0 "공수부대"
  WNG_paracadutisti_desc:0 "The idea of attacks from the skies is hardly a new one for griffons, but the advent of powered flight has opened up several new possibilities. Planes can carry troops far further than their wings would normally allow and can crucially do so without tiring the troops out. Establishing an official parachutist corps would allow us to take full advantage of these possibilities."
  WNG_work_with_the_industralists:0 "산업가들과의 협력"
  WNG_work_with_the_industralists_desc:0 "A large part of Wingbardy's vehicle production capacity is currently occupied serving the civilian sector. By offering favorable contracts to the industrialists that manage this industrial sector, we can ensure that a larger portion of the factories will serve the military."
@@ -1217,17 +1217,17 @@ wingbardy.51.d:0 "With the fall of the last fascist strongholds the civil war is
  wingbardy.67.d:0 "Our delegation has returned with bad news - Aquielia has not agreed to officialise the Chiazbeacle Pact. The delegation has told the Aquileians, that it would only make sense to proceed to improve and tighten our relations. Sadly, they have not supported our proposal and refused to sign it, so our relations stay the same. Our delegation had no choice but to return back home."
  wingbardy.67.a:0 "멍청한 놈들."
  
- wingbardy.70.t:0 "The Red Banner Triumphant"
+ wingbardy.70.t:0 "승리한 적기"
  wingbardy.70.d:0 "Three knocks against the door of his office shook Giovanni Gacci awake from his nap. It had been the first nap he had since he joined the revolution. It seemed some griffon had other plans for him tonight, though. Another knock, more incessant. \"Come in, I'm here.\" When the door opened, the socialist leader widened his eyes at the sight before him. Three armed griffons, barely adults, entered, along with Antonino Proletarino, the leader of the PCW. The latter put a stack of papers on Gacci's desk.\n\"Ah, mister Gacci, enjoying your rest?\"\n\"Cut to the chase Anton, and please put those guns downs, you will hurt somegriff.\" The three hesitated, slightly lowering their rifles.\n\"Thank you for your speech in the Chamber today, Giovanni, a few words from you and the liberals who opposed our cause fled Karthin!\"\n\nWas Anton really just starting another coup? \"Our cause, or yours? Look at you, reveling in the power of the gun. The power of the fasces!\" Giovanni stood up, causing three rifles to point at him, the barrels shaking from unsteady claws.\n\"I am no fascist!\" The communist slammed Gacci's desk. \"I will protect the revolution. I will not let you stop me! Now sign this.\"\nGacci read the papers. \"What is this. . . arrest warrants? A party fusion? No griffon is going to believe this! You are subverting the will of the people!\" Gacci's protests were met with silence. Giovanni slumped back down in his seat, looking up at the four faces staring at him. The griffon felt his heart pound in his chest. His desk drawer had his pistol in it, loaded. He did not expect the future of Wingbardian democracy to come down to his own personal bravery, but here he was. Gacci reached his claw down to his drawer. . ."
  wingbardy.70.a:0 "\"You leave me no choice, let me just grab my pen.\""
  wingbardy.70.b:0 "\"You leave me no choice. . .\" Grab the gun."
  wingbardy.70.c:0 ""No." Refuse to sign the papers."
 
- wingbardy.701.t:0 "The Transfer of Power"
+ wingbardy.701.t:0 "권력 이양"
  wingbardy.701.d:0 "Giovanni Gacci squeezed his gun in the drawer for a second and then closed his eyes, letting go of it, instead pulling out his pen with a deep sigh.\n\"Very good, now sign.\" Antonino tapped the desk impatiently as Gacci went through and signed all the documents. The socialist leader lowered his pen when he was done and Proletarino quickly snatched the papers, checking the signature. \"Thank you for your cooperation Gionvanni.\" With a dramatic turn, the new leader of Wingbardy left Gacci's office, his three goons following suit.\n\nThe socialist leader slumped in his chair, a thousand regrets on his mind. A few hours later he turned on the radio to hear an audibly confused radio host read the forged statements of his departure from politics and the end of the Wingbardian Socialist Party. The PCW was in charge now, but at least none of those kids would have had to see a body. At least he'd get to see the morning. Gacci stood up and walked out of his office, closing the door behind him. He sighed again, turning around and making his way home. Tomorrow the sun would shine again. But would Wingbardy ever shine again? Would his own eyes every shine, would his heart be warm?"
  wingbardy.701.a:0 "At least it isn't Beakolini..."
 
- wingbardy.702.t:0 "The Blood Red Banner"
+ wingbardy.702.t:0 "핏빛 적기"
  wingbardy.702.d:0 "In the blink of an eye Giovanni Gacci had pulled out his gun, aiming it straight for Proletarino's heart and pulling the trigger. The communist let out a scream, looking at his chest with unbelief. His glasses fell from his beak, the glass cracking. He then muttered something too soft for any griffon in the room to understand. As Gacci had hoped, the three young griffons did not fire in the moment, although one had her talon on the trigger. The socialist managed to soften his voice as his colleague squirmed on the floor. \"What is your name, miss?\"\n\"Gianna. . .\" the other two stared in disbelief as she aimed her rifle determinedly. \"What is your job Gianna?\"\n\"I work at a Wrobert dockyard, mister Gacci.\" She stepped forward, her rifle aimed at the griffon's forehead.\n\"I see. Thank you for helping us. Without Wrobert, the revolution wouldn't have been possible.\"\n\"And you did nothing! The PCW always helped us dockers!\"\n\nGiovanni's eyes widened in fear, but he pressed on. \"Don't think about what I did, but about what I will do. If you lower your rifle, your fight will be over. If you shoot, who knows?\"\n\"I just. . .\" Her grip weakened.\n\"How about you all go home? You have done your part, now let me do mine.\" Gianna lowered her rifle hesitantly and Gacci managed a smile when the three young adults sat down on the floor. The socialist party leader tore his national flag from the wall and draped it over Proletarino's body. The gentle pink and purple hues soon turned red with blood. . ."
  wingbardy.702.a:0 "May his blood be the last spilled for this flag."
  
@@ -1284,11 +1284,11 @@ wingbardy.703.a:0 "왜냐면, 난 자비가 정의만큼이나 중요하다고 �
  wingbardy.80.b:0 "Gennaro Bordiclaw is a true revolutionary!"
  wingbardy.80.c:0 "Neither will have our favour for now."
  
- wingbardy.81.t:0 "Gallus' Visit"
+ wingbardy.81.t:0 "갈루스의 방문"
  wingbardy.81.d:0 "The moment Gallus stepped off the train car, he became filled with anxiety. It was late afternoon in Karthin, and already Gallus felt incredibly lost. Griffons all around him were speaking in Wingbardian and Francistrian dialects, which were complete gibberish to the Griffonstone raised chick.\n\n"Oh gods... what in the world do I do?" muttered Gallus to himself. He took flight above the station, looking around at the ancient city of Karthin. From the old districts to the modern ones, he was completely overwhelmed. It was an entirely different city than Griffonstone, more like Manehattan than his home. "Alright Gallus, you got this. That invitation from the Gaspwingi fella said to meet him at Parliament. Not sure where I'm supposed to go, or what it even looks like... but Twilight said she trusts me with this. And I can't disappoint my old professor."\n\nGallus began to fly about the city, trying to find anything that looked vaguely like a government building. Karthin was like a maze, and it was easy to get lost even while flying. Finally, he noticed a landmark he recognized from a history book. Some obelisk the Karthinians took a few hundred years ago from somewhere that now sat in front of their parliament building. Swooping down, Gallus found himself in front of a fairly inconspicuous building, but he trusted that this was what he was looking for.\n\n"Now, how do I find Mr. Gaspwingi..." Gallus looked around and saw a guard by a door on the side of the building. Deciding it was his best way in, he floated down to ground level and approached the guard.\n\n"Umm, hello sir! My name is Gallus, I’m from Griffonstone and I am here to see, uhh..." Gallus rummaged around in his bag before pulling out the letter, "Deputy Giovanni De Gaspwingi. He wanted me to meet with him, I think."\n\nThe guard cocked his head, "Eh? Deputato Gaspwingi?" The guard looked supremely confused and began to shuffle away from the smaller griffon to a booth by the door.\n\nGallus slammed his head into his claw. "Oh right, I don't speak Wingbardian."\n\nThe guard emerged accompanied by another griff wearing a ruffled suit, who approached Gallus and began to speak in extremely broken Herzlandish, "You are griffon from Equestria yes?" Gallus nodded, not wanting to explain he hadn't been there in a while, and was only coming here because Twilight had asked him to. "Yes yes, you meet with government, teach friendship!" Grabbing Gallus by the shoulder, the suited griffon dragged him inside the parliament building."
  wingbardy.81.a:0 ""What did I get myself into now?""
 
- wingbardy.812.t:0 "Gallus' Visit"
+ wingbardy.812.t:0 "갈루스의 방문"
  wingbardy.812.d:0 ""So let me get your story straight." The imposing griffon rested his claws on his desk, "You were born in Griffonstone, and you're being raised by that Grandpa Gruff fellow. He then decided to send you all the way to Equestria as a griffon envoy to study under this "Princess of Friendship" named Twilight, to bring the values she represents back to Griffonstone." Gallus stared into his lap, not wanting to meet the griffon with his eyes; this King Garibald was one intimidating griffon, not very tall, but intimidating nonetheless. Gallus wasn't even sure how he hadn't gotten sick yet, then he heard Garibald sigh; "Ey, ragazzo, look up, won't you?" Gallus slowly raised his head, the King of Wingbardy seated in front of him, as a million thoughts, mainly of fear, raced through his head. "Look... Gallus. I do believe you. Equestria is a special place with strange customs, and I actually have a lot of respect for you learning to live and thrive there. Gruff put you in a difficult spot, and it seems you've come out fine." Gallus smiled. It seems the King wasn't that bad of a guy.\n\nBut before Gallus had time to let the comments sink in, a door to the office was thrown open, and an even scarier griffon stepped in. Wearing cold steel glasses with slicked-back grey and black hair, a three-piece suit, and a blue tie, Gallus immediately wondered what he had done wrong, and what terrible things this griffon would do to him. Instead, after seeing Gallus, a smile opened up on his face, larger than it seemed he was physically able to have. Rushing over to him, the griffon seized Gallus' claw and began to shake it, "Miei dei! Mr. Gallus, welcome to Wingbardy! We are so thrilled to have you here!" Seemingly only now noticing the King, the griffon released Gallus and turned to Garibald. "My King, apologies for this mishandling of the situation. When we received no reply from Equestria, we assumed Gallus would not be coming. But I see you two have already been acquainted." Garibald nodded, "It's okay Mr. Gaspwingi. Gallus is a lovely young griff." Gallus turned to the formally dressed griffon beside him, "You're Mr. Gaspwingi? Then you invited me here, right?" Gaspwingi nodded, "Yes Mr. Gallus. I've always been interested in the Equestrian way of life, and how we may adapt it to my native land. So when I heard a griffon had studied with the Princesses, why I had to invite him!"\n\nGaribald motioned for Gaspwingi to pull up another chair, then turned back to Gallus, "So Gallus. From what I was told, you are meant to teach us a bit about "friendship and harmony," now I am not quite versed on these subjects, but Giovanni here tells me they can help solve my nation's problems. So I am all ears." Gallus gulped, solve a nation's problems? He wasn't taught anything like that in school! What was Twilight thinking when she asked him to come here? No, Gallus thought, I can do this, I graduated the friendship school, and these griffons need some of what I learned. "Alright," he said, "what do you need to know first?""
  wingbardy.812.a:0 ""Tell me how to defeat enemies with friendship.""
 
@@ -1849,7 +1849,7 @@ wingbardy.703.a:0 "왜냐면, 난 자비가 정의만큼이나 중요하다고 �
 
  wingbardy_flavour.11.t:0 "국왕의 우표 모음집"
  wingbardy_flavour.11.d:0 "Of all the treasures seized from the Royal Collection, perhaps none meant so much to the King as his stamp collection. The collection featuring over some 500,000 individual stamps is said to be the largest in the world. Stamps from every nation and covering hundreds of years of history are stored in perfect condition. It is clear that each stamp was loved and looked after by the former King.\n\nA question has been asked as what to do with the vast collection and two proposals have been presented. On one claw the stamps could be put in a museum for all Wingbardians to enjoy. On the other claw the stamps could be sold to collectors across the world. Several of the stamps are expected to fetch a high price and the sell would help boost our finances for a time.\n\nWhat should we do?"
- wingbardy_flavour.11.a:0 "우표를 팔아 혁명을 위한 자금을 마련하자."
+ wingbardy_flavour.11.a:0 "우표를 팔아 혁명 자금을 마련하자."
  wingbardy_flavour.11.b:0 "이 우표들은 박물관에 전시해야 한다!"
 
  wingbardy_flavour.12.t:0 "제단의 봉헌"
