@@ -576,10 +576,10 @@
  ZES_democratic_party:0 "Isimo Samahhala"
  ZES_fascism_party:0 "Nyumba ya Damu"
 
- DED_neutrality_party:0 "Necromancer Council"
- DED_communism_party:0  "Necromancer Council"
- DED_democratic_party:0 "Necromancer Council"
- DED_fascism_party:0 "Necromancer Council"
+ DED_neutrality_party:0 "네크로맨서 위원회"
+ DED_communism_party:0  "네크로맨서 위원회"
+ DED_democratic_party:0 "네크로맨서 위원회"
+ DED_fascism_party:0 "네크로맨서 위원회"
 
  HLR_neutrality_party:0 "Traditionalists"
  HLR_communism_party:0  "The Farmers' Council"
