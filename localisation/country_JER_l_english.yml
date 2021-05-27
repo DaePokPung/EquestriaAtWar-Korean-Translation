@@ -10,19 +10,19 @@
  JER_grand_army_1:0 "대육군"
  JER_grand_army_1_desc:0 "우리 새 군대는 징병을 확대하고 훈련을 표준화하고 있습니다. 더이상 아퀼레이아는 내외의 적들에게 움츠려들지 않을 것입니다. 우리의 군대는 새로운 영광을 향해 일어나고, 아퀼레이아의 그리폰들은 여왕 폐하를 지키기 위해 하나되어 싸울 것입니다!"
  JER_build_the_nation_idea:0 "빛나는 등대"
- JER_build_the_nation_idea_desc:0 "We have now suffered through and risen from two destructive revolutions; there will not be a third. Twice now, we have shown the world that the rule of the Discrets brings prosperity without equal, and now it is young Queen Vivienne's turn to carry the torch and leave Aquileia shining brighter than ever before."
- JER_new_law_code_idea:0 "디스크레 법전"
+ JER_build_the_nation_idea_desc:0 "우리는 두 번의 파괴적인 혁명을 겪었고, 세 번째는 없을 겁니다. 이제 두 번의 혁명을 통해 디스크렛 가의 불평등한 통치가 번영을 불러온다는 것이 명백해졌기 때문입니다. 이제 젊은 여왕 비비안 전하께서 횃불을 드시고 아퀼레이아를 그 어느 때보다도 밝게 비추실겁니다."
+ JER_new_law_code_idea:0 "디스크렛 법전"
  JER_new_law_code_idea_desc:0 "비비엔 여왕의 노력으로 아퀼레이아의 법령 체계는 굉장히 단순화되고 또 표준화되었고, 이는 효율적인 법원과 제약받지 않는 국가행정으로 이어졌습니다."
  JER_old_glories_idea:0 "용맹한 마음"
  JER_old_glories_idea_desc:0 "불가능은 없습니다! 아퀼레이아는 비할 바 없는 최고이자 세계의 정상에서 울부짖는 사자와 같은 국가이며 이제 그 정당한 자리를 차지할 떄가 되었습니다! 우리는 아퀼레이아의 운명을 쟁취하고 그리포니아의 역사를 다시 쓸 것입니다!"
- JER_grand_army_2:0 "대육군"
- JER_grand_army_2_desc:0 "The expansion of Aquileia's Grande Armée has been a success. Our troops are better trained and better drilled than ever before. The Queen's grand army is rivaled by none in the world, and their ferocity and courage will be legendary across Griffonia!"
+ JER_grand_army_2:0 "그랑 다르메"
+ JER_grand_army_2_desc:0 "그랑 다르메의 확대는 성공적이었습니다. 아군은 그 어느 때보다 잘 훈련되어 있으며, 감히 세계 그 어느나라의 군대도 여왕 전하의 대군과 비교할 수 없습니다. 그랑 다르메의 용맹은 그리포니아 전역의 신화가 될 것입니다!"
  JER_union_representation_act_idea:0 "Loi sur la représentation syndicale" #NavyMongoose
  JER_union_representation_act_idea_desc:0 "As a trial of syndicalist theory, unions have been granted representation in local governments. This allows for better coordination between the needs of the state and the abilities of the workers."
  JER_state_housing_idea:0 "Logement d'état" #NavyMongoose
  JER_state_housing_idea_desc:0 "Our government ensures that all citizens have homes. As the quality of life improves substantially for all Aquileians, even for the indigent and (formerly) homeless, we are already seeing significant demographic dividends."
- JER_tax_policy_revisions_idea:0 "국세법 개편" #NavyMongoose
- JER_tax_policy_revisions_idea_desc:0 "More streamlined and rational tax laws have boosted citizen purchasing power and enabled freer flow of trade."
+ JER_tax_policy_revisions_idea:0 "개정된 세법" #NavyMongoose
+ JER_tax_policy_revisions_idea_desc:0 "보다 합리적이고 능률적인 세법은 시민들의 구매력을 증대시켰고 무역의 자유로운 흐름을 가능케 했습니다."
  JER_rural_electrification_commission_idea:0 "Commission d'electrification rurale" #NavyMongoose
  JER_rural_electrification_commission_idea_desc:0 "The state endeavours to electrify every household in the Aquileian countryside, promoting industrial output and enriching the lives of many. With every new power station, more utility can be derived from the same places."
  JER_labour_law_revisions_idea:0 "노동법" #NavyMongoose
@@ -209,8 +209,8 @@
  JER_reform_the_national_bank_of_aquileia_idea_3_desc:0 "A centralised banking system provides loans to the government, stabilizing the financial system and increasing the liquidity of the markets. With new regulations restricting the access of corporations to credit, more cash flows directly into consumer markets and industrial components."
  JER_ban_private_banking_idea:0 "The National Banking Act" #NavyMongoose
  JER_ban_private_banking_idea_desc:0 "All banks in the Republic have been nationalised, increasing the stability of the economy at the cost of restricting cash flow and asset growth."
- JER_limited_ecomonic_planning_idea:0 "Limited Economic Planning" #NavyMongoose
- JER_limited_ecomonic_planning_idea_desc:0 "Through a system of subsidies, tax breaks, and other incentives, the government guides the economy by favouring specific industries and sectors."
+ JER_limited_ecomonic_planning_idea:0 "제한적인 경제 간섭" #NavyMongoose
+ JER_limited_ecomonic_planning_idea_desc:0 "보조금, 세금 감면, 여타 인센티브 제도를 통해 정부는 특정 산업과 분야의 발전으로 경제를 이끕니다."
  JER_start_of_telecommunications_idea:0 "텔레그리프" #NavyMongoose
  JER_start_of_telecommunications_idea_desc:0 "A national state-funded broadcaster links the whole Republic to a (government-curated) selection of events, entertainment, and more. The concomitant technological research receive significant assistance to aid this, and the state has found other, more covert uses too."
  JER_normalise_the_army_budget_idea:0 "Defence Budget Limitation Act" #NavyMongoose
@@ -227,9 +227,9 @@
  JER_pony_integration_idea_desc:0 "All ponies living in Griffonia have full citizenship rights alongside previously enfranchised refugees. All can now live their lives as fully as they can unburdened by the inconvenience of clerisy that afflicts outsiders."
  JER_preserve_local_cultures_idea:0 "Expanded Griffonian Citizenship Act" #NavyMongoose
  JER_preserve_local_cultures_idea_desc: "Every culture in the nation, whether griffon or pony, whether Aquileian or Herzlander or Karthinian, whether native-born or foreign-born, receive the full benefits of citizenship. Together, the whole people of Griffonia live as one, dream as one, love as one. The mighty Republic warmly embraces all creatures for a new tomorrow!"
- JER_not_a_soul_left_behind_idea:0 "The Yale Model" #NavyMongoose
+ JER_not_a_soul_left_behind_idea:0 "예일의 노선" #NavyMongoose
  JER_not_a_soul_left_behind_idea_desc:0 "Free university for all citizens expands the available supply of academics, who, uninhibited by the petty costs of administration, vigourously produce a surfeit of scholarship."
- JER_cultural_subsidies_idea:0 "The Yale Model" #NavyMongoose
+ JER_cultural_subsidies_idea:0 "예일의 노선" #NavyMongoose
  JER_cultural_subsidies_idea_desc:0 "Both higher education and high art receive the full support of the state. While expensive, the programs accelerate the development of science and of culture throughout the nation."
  JER_supreme_justice_of_griffonia_idea:0 "Supreme Justice Of Griffonia" #NavyMongoose
  JER_supreme_justice_of_griffonia_idea_desc:0 "A federal court of appeals has been established to hear cases regarding disputes between states and regions, as well as consider challenges to fundamental laws."
@@ -1335,14 +1335,14 @@
  aquileia_news.5.t:0 "실패한 혁명"
  aquileia_news.5.d:0 "[This.GetNewspaperHeader]마지막 공화당 세력의 항복과 함께 아퀼레이아에서 시작된 두번째 혁명은 실패로 막을 내렸습니다. 많은 그리폰들이 투쟁에서 죽었지만 아무 소용도 없었습니다. 왕국의 지지자들은 혁명군을 무장 해제시키고 공화국의 많은 지도자들을 사로잡았습니다. 아퀼레이아 제1공화국 때와 마찬가지로 이제 아퀼레이아 공화국의 마지막 잔재를 털어내기 위한 공포 정치가 시작될 것으로 보입니다."
  aquileia_news.5.a:0 "그럼 이제 다 끝났다는 것이군..."
- aquileia_news.5.b:0 "배신자들을 목매달아라!"
+ aquileia_news.5.b:0 "반역자들을 목매달아라!"
  aquileia_news.5.c:0 "또 실패할 줄 알았지."
- aquileia_news.5.e:0 "우울하네."
+ aquileia_news.5.e:0 "우울해지는군."
 
  aquileia_news.6.t:0 "타린을 위한 전쟁"
  aquileia_news.6.d:0 "[This.GetNewspaperHeader]Several days ago the [JER.GetName] sent an ultimatum, demanding the region of Tarrin to be ceded to them. Francistria had seized it from Aquileia during the tumultuous times of the First Revolution, when the local Countess had been executed and the republicans had tenuous control over the area.\n\nThe ultimatum has officially been rejected, and Aquileia has used this to justify open war. [WNG.GetLeader] of Wingbardy has shown great concern over this and has vowed to intervene if necessary."
  aquileia_news.6.a:0 "We must push back the Aquileian invaders!"
- aquileia_news.6.b:0 "Tarrin shall be liberated!"
+ aquileia_news.6.b:0 "타린은 해방되어야만 한다!"
  aquileia_news.6.c:0 "A petty land dispute has escalated quickly."
  
  aquileia_news.7.t:0 "The Aquileians March"
@@ -1376,13 +1376,13 @@
  JER_help_pridea_desc:0 "Baron Dennis, the brother of the King, is one of His Majesty's most capable - and ruthless - loyalists. We are thankful for this, as it means that in order to quash the nascent rebellion in Pridea we only need to trust in Dennis."
  JER_give_dennis_free_reign:0 "Give Dennis Free Reign"
  JER_give_dennis_free_reign_desc:0 "As His Majesty hoped, his brother has responded frankly and clearly. All he requires to burn out this rot - likely literally knowing the good Baron - is His Majesty's approval. His Majesty sees no reason to not give it."
- JER_mass_crackdowns:0 "Find the Revolutionaries"
+ JER_mass_crackdowns:0 "반동 색출"
  JER_mass_crackdowns_desc:0 "During the last revolution, Baron Dennis Discret did not hesitate to bring the wrath of Arcturius upon the traitors, and time has not dulled his claws one bit. Pridea runs red with blood as the Baron is acting with commendable zeal to crush any signs of republicanism."
  JER_send_monarchist_MPA:0 "Reinforce the MPA"
  JER_send_monarchist_MPA_desc:0 "The Pridean wing of the MPA is a singularly committed force. The Baron has kept them on a tight leash and made sure they're marching to the royal drumbeat from early on, and if they are given the backing needed, Pridea will more or less handle itself for us."
- JER_to_kill_an_idea:0 "To Kill An idea"
+ JER_to_kill_an_idea:0 "사상의 죽음을 위하여"
  JER_to_kill_an_idea_desc:0 "It is over.\n\nBlood soaks the streets and the fields of the kingdom, but it is a kingdom that stands battered but unbowed. The republicans did not triumph this time either, and this time we will make sure there will not be a next time for these traitorous scum."
- JER_begin_reforming_education_system:0 "Teach the People"
+ JER_begin_reforming_education_system:0 "국민교육"
  JER_begin_reforming_education_system_desc:0 "It seems that we have been lax in our duties to educate the populace. If so many of them had not been illiterate and ignorant, the weeds of republicanism would not have taken root so swiftly. It is time to educate them so that they better can understand their duties and their privileges as servants of the crown."
  JER_royal_academy:0 "Académie Royale Des Sciences"
  JER_royal_academy_desc:0 "Aquileia is ancient and glorious, but past glories make a poor substitute for progress. Therefore, we have signed charter for a grand new Academy of Science. Its mission: becoming the world's foremost institute within its fields."
@@ -1463,8 +1463,8 @@
  JER_educate_the_populace:0 "문맹 타도"
  JER_educate_the_populace_desc:0 "무지는 폭군의 도구요, 군벌들의 무기입니다. 지식이야말로 자유의 기반이지요. 공화국 전역의 그리폰들을 가르쳐 그들이 우리의 새롭고 영원한 민주주의의 기둥이 되도록 할 것입니다."
  JER_delegalize_the_monarchy:0 "군주제의 법적 폐지"
- JER_delegalize_the_monarchy_desc:0 "Everything we do as a republic must have a basis in our laws and constitution. This includes removing the last vestiges of the monarchy and embracing democracy. Though we toppled the Discrets through force and bloody revolution, their end cannot truly be made real until the ink dries on our new constitution."
- JER_social_security_for_all_aquileians:0 "포니들의 수용 및 시민권 선언"
+ JER_delegalize_the_monarchy_desc:0 "우리가 공화국으로서 집행하는 모든 일은 법과 헌법에 근거해야 합니다. 이에는 군주제의 마지막 잔재를 제거하고 민주주의를 끌어안는 것도 포함됩니다. 비록 우리가 유혈혁명으로 디스크렛 가를 무너트리긴 했지만, 우리들의 새로운 헌법의 먹물이 채 마르기 전에는 진정으로 군주제의 종언이 일어날 수는 없는 바입니다."
+ JER_social_security_for_all_aquileians:0 "포니 수용 및 시민 선언"
  JER_social_security_for_all_aquileians_desc:0 "For as long as anyone can remember, Aquileia has maintained a sizeable pony minority throughout its lands, with the ponies acting as a support base for the Discret monarchy. In order to get them on our side, and share our revolutionary fraternité with them, we shall pass an official declaration ensuring that ponies are full citizens of our republic and have the same rights as any griffon."
  JER_republican_national_academy:0 "Académie Républicaine des Sciences"
  JER_republican_national_academy_desc:0 "Free from the yoke of tyranny, our finest scientists and most brilliant minds are now allowed to research as they please and teach future generations of innovative griffons with lavish funding from the Republic. Soon, Aquileia will feature the greatest scientific academy in all the world!"
@@ -1483,9 +1483,9 @@
  
  JER_PAT_victory:0 "대통령 크루"
  JER_PAT_victory_desc:0 "그랑 크루가 선거에서 승리했습니다!"
- JER_ammends_with_beefstake_MPA:0 "Make Amends with the National-Syndicalists"
+ JER_ammends_with_beefstake_MPA:0 "국민생디칼리스트에게 보상하기"
  JER_ammends_with_beefstake_MPA_desc:0 "Many members of Rodier's MPA party have incorporated tenets of socialist thinking into their policies. These so-called "National-Syndicalists" may be convinced to support our government if we promise them some nationalistic cultural reforms in turn. For we are all Aquileian patriots, no? Why shouldn't we work together?"
- JER_attract_FJA_members:0 "Attract the Social Democrats"
+ JER_attract_FJA_members:0 "사민주의자 유혹하기"
  JER_attract_FJA_members_desc:0 "Many FJA members are strong advocates of a welfare state that supports the population through government action. If we can show them that we are only the logical continuation of this policy, we will have a guarantee of support from these left-FJA members when we attempt our economic reforms."
  JER_union_representation_act:0 "Loi sur la représentation syndicale"
  JER_union_representation_act_desc:0 "Ensuring that the various unions across Aquileia have political representation at lower levels will strengthen the ties between our government and said unions. Tying PAT politics and union industrial activity together will lose us some support in the Assemblée, but the productivity and rights of the workers are worth it."
@@ -1548,13 +1548,13 @@
  JER_national_party_desc:0 "Théodore Vérany has emerged victorious in the elections!"
  JER_poach_support:0 "Poach The Députés"
  JER_poach_support_desc:0 "The PNdA is, in many ways, a coalition ticket in a coalition system. Composed of politicians from all over the ideological spectrum of the Assemblée. All dissatisfied with other political factions and rallying behind Vérany's Pan-Griffonian ideology. With such a diverse cast backing us up, it is relatively easy to bring in support from all parts of society to boost our political acumen."
- JER_use_veranys_reputation:0 "The Hero Of The Republic"
+ JER_use_veranys_reputation:0 "공화국의 영웅"
  JER_use_veranys_reputation_desc:0 "Vérany's image as the hero of the Republic still rings loud and true with many across Aquileia. While many call him a relic of a bygone age, his loyal members of the PNdA still remember his glories and his victories. Along with them, many of the FJA still remember his as the greatest spokesgriff of Democracy, and are willing to vote with him in memory of that image."
- JER_reform_the_national_bank_of_aquileia:0 "Reform The National Bank"
+ JER_reform_the_national_bank_of_aquileia:0 "국립 은행 개혁"
  JER_reform_the_national_bank_of_aquileia_desc:0 "One of the greatest issues currently facing our revolutionary republic is that of the national debt. Through the fighting and the bloodshed, we also spend massive amounts of gold and other currencies to keep our state stable. To manage this, we must create a financial institution with the sole purpose of lending money to the government so that we may remain solvent."
- JER_increase_military_funding:0 "Redefine The Army Budget"
+ JER_increase_military_funding:0 "육군 예산 재정립"
  JER_increase_military_funding_desc:0 "Théodore Vérany has big plans for where Aquileia will go from here. He is a Pan-Griffonian through and through and believes strongly in going forth to spread our revolution across all of Griffonia. And to do that, he believes we must expand the army. The bill will be long, but we have the instruments of state, like our new bank, to lighten the load."
- JER_the_dream_aint_dead:0 "The Dream Isn't Dead"
+ JER_the_dream_aint_dead:0 "꿈은 죽지 않았다"
  JER_the_dream_aint_dead_desc:0 "We can not give up on the great dream of Pan-Griffonianism! If the revolution only exists in Aquileia, then inevitably the other monarchies of the land will see us as a threat, and come to snuff us out once and for all. It is our sacred duty as a republic that successfully cast off the chains of bondage that once held us, to go beyond our borders, and free the rest of Griffonia!"
  JER_support_military_industrial_complex:0 "The Military Industrial Complex"
  JER_support_military_industrial_complex_desc:0 "Cooperation with the large industrial conglomerates of Aquileia will allow us to stockpile enough war materials for the coming conflict. Using loans and shares from the national bank, we will be able to bankroll a far larger military than before, always ready to defend republicanism wherever it is threatened. And eventually, that army will pay back the debt with a visit to Griffenheim itself..."
@@ -1565,9 +1565,9 @@
  JER_prepare_for_the_future:0 "The Father Of The Revolution"
  JER_prepare_for_the_future_desc:0 "It is now time for Vérany to step into the role that was already made for him. He is not just the hero of both revolutions, but he is also their ideological father. It was his ideas that propelled our nation to what it is today, his influence creating the Aquileia its citizens now know. And as the father cared for his children, now to shall the children support the father in his great mission..."
  
- JER_the_tarrin_question:0 "The Matter of Tarrin"
+ JER_the_tarrin_question:0 "타린 문제"
  JER_the_tarrin_question_desc:0 "Not long ago, the land of Tarrin was Aquileian just as much as Rila or Pridea is today. The local Discret Countess was overthrown by republicans in 980, but the Francistrians were quick to invade and claim the region. Now it is again ruled by an oppressive monarchy, but this time the monarch is foreign as well! We must oust the Wingbardian puppets from these lands and reclaim them pour la République!"
- JER_diplomacy_is_good:0 "A Soft Claw"
+ JER_diplomacy_is_good:0 "부드러운 발톱길"
  JER_diplomacy_is_good_desc:0 "Our neighbors to the east may appear like squabbling buffoons to the rest of the world, but we know they may have some sense to them. While they are monarchies, they have made a commitment to resisting Imperial and other foreign aggression in their region, and for this purpose, they may be good partners, for now at least."
  JER_the_conquest_of_avian:0 "The Liberation Of Lointaineau"
  JER_the_conquest_of_avian_desc:0 "The lands of Verenia have been torn between the influences of the Herzlanders and Aquileians for centuries. The western half of the Duchy of Verenia, Lointaineau, was once part of Aquileia and retains its Aquileian identity to this day. The local griffons have suffered much from the Verenian civil war and yearn for liberation from monarchical anarchy. Let us attack, then, and ensure the Imperials never rule these lands!"
@@ -1578,7 +1578,7 @@
  JER_first_strike:0 "Ouvre La Porte"
  JER_first_strike_desc:0 "This shall be the call of the revolution:\n\nDebout les citoyens d'Aquilée! Que le sang des tyrans impériaux abreuve nos sillons!\n\nAll shall hear it and either rally to the call or cower in fear!"
  
- JER_liberal_industry:0 "Finish the Coltbert Reforms"
+ JER_liberal_industry:0 "콜베르트 개혁 완수"
  JER_liberal_industry_desc:0 "The ministry of Coltbert was a strange time. By welcoming back the bright minds that had fled the counter-revolution, Coltbert both weakened the prestige of the monarchy and yet offered it prosperity. His early death marked the end of many of his reforms and caused the chaos of 1008. Now, it is time to resume his work."
  JER_the_rebirth_of_a_city:0 "The Rebirth of Aquila"
  JER_the_rebirth_of_a_city_desc:0 "In the aftermath of 1008, Haussgriff's project of transforming our capital into a Cité Splendeur as he calls it had to shut down. Now, it is time for us to get back to work and decide on the future of Aquila."
@@ -1602,7 +1602,7 @@
  JER_aquileian_standard_desc:0 "Aquileian industrial output has long been of either poor quality or bound by outdated methods. And while the Republicans did help when it comes to industrialization, it was Coltbert who proposed that Aquileian industry should seek quality rather than quantity to compete. It is time to implement the Valeur-Qualité!"
  JER_elecronics_industry:0 "Electronics Investments"
  JER_elecronics_industry_desc:0 "While the industrial revolution is still roaring, we can distinguish the seeds of a new and different revolution. While mechanization has strengthened the social muscles, electronics seems to be able to attune the social mind and voice in ways we haven't seen since the printing press. This time around, we won't miss the boat of modernity!"
- JER_nuclear_development:0 "Project: 다모클레스"
+ JER_nuclear_development:0 "다모클레스 계획"
  JER_nuclear_development_desc:0 "Coltbertism has in many ways helped us catch up but Coltbert was also the product of his time. Science has marched on and so has Aquileia. Harnessing the power of the crystals was still fringe science during his lifetime. Now, it is time for us to dare surpass our old masters for we now have the means of our ambitions. Vers l'infini et au-delà!"
  JER_industrial_projects:0 "Métropole Development Commission"
  JER_industrial_projects_desc:0 "While there are many industrial initiatives in Aquileia, few of them are viable. We will form a special commission to stir and direct our industry. It will be given a plentiful budget to fund projects until they acquire enough know-how and size to compete on the world stage."
@@ -1680,7 +1680,7 @@
  
  JER_MPA_triumphant:0 "의지의 승리"
  JER_MPA_triumphant_desc:0 "We have done it! The Empire is no more, and Griffenheim is ours! Our most accursed enemy has been brought low, and Aquileia has proven itself to be stronger than the enemies it faced. Now, the governing of the newly conquered lands falls to us, as well as spreading the Aquileian culture further than ever before."
- JER_securing_greater_aquileia:0 "A Greater Aquileia"
+ JER_securing_greater_aquileia:0 "보다 위대한 아퀼레이아"
  JER_securing_greater_aquileia_desc:0 "The dream of a Greater Aquileia has been in the minds of the MPA and of President Rodier for some time now, and with the fall of our main rival that dream is finally within reach. Through the rapid Aquilifaction of neighboring Herzland territories, the natural borders of the nation will spread farther than they have ever before."
  JER_secure_skyfall:0 "스카이폴 확보"
  JER_secure_skyfall_desc:0 "Skyfall is the primary trading hub of Griffonia, and one of the richest cities in the world. As such, it is of the utmost importance that we secure the region and integrate it into the Aquileian nation. In time, it will become as much a part of our country as any other city."
@@ -1865,9 +1865,9 @@
  JER_viviene_triumphant_desc:0 "The showdown between the Herzland and Aquileia will go down in history as one of the most seminal events on the continent. The land of the Grovers now lie broken before the Queen's armies, and Her Majesty now controls not only Aquileia, but the entirety of the Herzland as well. To rule such a realm demands more than a Queen. Aquileia shall now see its first Empress!"
  JER_dealing_with_the_herzland:0 "헤르츠란트 블루스"
  JER_dealing_with_the_herzland_desc:0 "In order to ensure that Herzland can never again threaten Aquileia, what is Aquileia and what is Herzland must be redefined. The border regions of Feathisia and Greifenmarschen are both related to Aquileia culturally, and if we ensure that this relation becomes dominant, they will view the Herzlanders are foreigners, and us as brothers."
- JER_pacifying_skyfall:0 "The Aquileisation Of Skyfall"
+ JER_pacifying_skyfall:0 "스카이폴의 아퀼레이아화"
  JER_pacifying_skyfall_desc:0 "Skyfall was the economic heart of Herzland for a long time, but the more money came to rule, the less loyalty they showed. Towards the end they outright broke away from Herzland for purely selfish interests. It is time to ensure these rootless merchants are planted firmly, and that loyalty to the queen come before loyalty to coin."
- JER_pacifying_feathisia:0 "The Aquileisation Of Feathisia"
+ JER_pacifying_feathisia:0 "페디시아의 아퀼레이아화"
  JER_pacifying_feathisia_desc:0 "Feathisia has long stood at the crossroads between worlds, and they have made good use of it. Indeed, one could well have imagined that they would have become the great power of the continent, had not fate decreed otherwise. We shall guide them down one of the roads before them, and let them stand by us as honored brothers."
  JER_puppet_institutions:0 "Control The Institutions"
  JER_puppet_institutions_desc:0 "Feathisia is home to many institutions whose roots spread deeply through the system. Outright shutting them down would cause chaos, so instead we must ensure they are carefully monitored by Her Majesty's loyal agents so that they will not disrupt the order of things."
@@ -2005,13 +2005,13 @@
  
  JER_revolution_mission:0 "불길이 솟아오르다"
  JER_revolution_mission_desc:0 ""
- JER_revolution_descision_1:0 "Rebel Support"
+ JER_revolution_descision_1:0 "반군 지원"
  JER_revolution_descision_1_desc:0 ""
- JER_revolution_descision_2:0 "Rebel Support"
+ JER_revolution_descision_2:0 "반군 지원"
  JER_revolution_descision_2_desc:0 ""
- JER_revolution_descision_3:0 "Rebel Support"
+ JER_revolution_descision_3:0 "반군 지원"
  JER_revolution_descision_3_desc:0 ""
- JER_revolution_descision_4:0 "Rebel Support"
+ JER_revolution_descision_4:0 "반군 지원"
  JER_revolution_descision_4_desc:0 ""
  
  JER_visit_rila:0 "State Visit To Rila"
@@ -2183,7 +2183,7 @@
  JER_JFT_mon_police_brutality_desc:0 ""
  JER_JFT_mon_let_them_fight:0 "Let Them Eat Their Own"
  JER_JFT_mon_let_them_fight_desc:0 ""
- JER_JFT_mon_romantic_nationalism:0 "Romantic Nationalism"
+ JER_JFT_mon_romantic_nationalism:0 "낭만적 국민주의"
  JER_JFT_mon_romantic_nationalism_desc:0 ""
  JER_JFT_mon_filter_ranks:0 "Probe the MPA"
  JER_JFT_mon_filter_ranks_desc:0 ""
