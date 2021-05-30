@@ -24,11 +24,11 @@
  WNG_mobilised_the_trade_unions:0 "노동조합 동원"
  WNG_cpai:0 "CPAI"
  WNG_cpai_desc:0 "내무인민위원회(Commissariato del popolo per gli affari interni)가 윙바르디를 내부의 반혁명주의자와 불만분자로부터 지킬 것입니다."
- WNG_labour_camps:0 "Safe Labour Camps"
+ WNG_labour_camps:0 "안전한 노동 수용소"
  WNG_labour_camps_desc:0 "Conditions are safe, food is readily available, and guards use the minimum force required to break up fights. While labor is mandatory, life isn't terrible. Luxuries such as books and games are available for good behavior."
- WNG_labour_camps_mean:0 "Labour Camps"
+ WNG_labour_camps_mean:0 "노동 수용소"
  WNG_labour_camps_mean_desc:0 "Fascists are treated brutally in these camps, with beatings and starvation common among former Blackwings. Other prisoners fare significantly better, though they are still required to work."
- WNG_labour_camps_awful:0 "Cruel Labour Camps"
+ WNG_labour_camps_awful:0 "잔혹한 노동 수용소"
  WNG_labour_camps_awful_desc:0 "Prisoners are only fed the absolute minimum to keep them able to work. Brutality and even public executions are commonplace against even Unitary Socialists."
 
  WNG_new_communist_griffon:0 "New Communist Griffon"
@@ -150,7 +150,7 @@
  WNG_economic_reform:0 "경제 개혁"
  WNG_popular_support_idea_0:0 "Popular Support"
  WNG_bastion_of_the_south_idea:0 "남부의 보루"
- WNG_balanced_ecomony:0 "Balanced Ecomony"
+ WNG_balanced_ecomony:0 "균형잡힌 경제"
  WNG_economic_regeneration:0 "경제회생법"
  WNG_investigation_1:0 "Justice for Gumberto"
  WNG_investigation_2:0 "Justice for Gumberto"
@@ -160,13 +160,13 @@
 
  ### Research and Production ideas ###
  WNG_fwan:0 "FWAN"
- WNG_alcedinidae:0 "Alcedinidae"
- WNG_high_seas_fleet_designer:0 "Pelecanus"
- WNG_accipitri:0 "Accipitri"
- WNG_columbroni:0 "Columbroni"
- WNG_pigeonio:0 "Pigeonio"
- WNG_strigivoia_afroaves:0 "Strigivoia-Afroaves"
- WNG_beaketta:0 "Beaketta"
+ WNG_alcedinidae:0 "알체디니다에"
+ WNG_high_seas_fleet_designer:0 "펠레카누스"
+ WNG_accipitri:0 "아치피트리"
+ WNG_columbroni:0 "콜룸브로니"
+ WNG_pigeonio:0 "피제오니오"
+ WNG_strigivoia_afroaves:0 "스트리지보이아-아프로아베스"
+ WNG_beaketta:0 "비케타"
  WNG_taloncia:0 "탈론치아"
  WNG_greda:0 "그레다"
  WNG_talonieli:0 "탈로니엘리"
@@ -187,7 +187,7 @@
  WNG_gilvio_soaroni:0 "질비오 소아로니"
  WNG_galberto_da_wingello:0 "갈베르토 다 빈젤로"
  WNG_garlo_gamwingi:0 "가를로 감빈지"
- WNG_guigi_blackwingi:0 "구이지 블라크빈지"
+ WNG_guigi_blackwingi:0 "구이지 블랙빈지"
  WNG_giovanni_gesse:0 "조반니 제세"
  WNG_godolfo_graziani:0 "고돌포 그라치아니"
  WNG_guiseppe_flyoravanzo:0 "구이세페 플리오라반초"
@@ -203,16 +203,16 @@
  WNG_grietro_gadoglio:0 "지에트로 가돌리오"
  WNG_gaolo_talon_di_pluma:0 "가올로 탈론 디 플루마"
  WNG_guigi_geinaudi:0 "구이지 제이나우디"
- WNG_gunio_valerio_beakghese:0 "구니오 발레리오 베아크게세"
+ WNG_gunio_valerio_beakghese:0 "구니오 발레리오 비크게세"
  WNG_giacomo_gacerbo:0 "자코모 가체르보"
  WNG_griffino_Talazzolini:0 "그리피노 탈라촐리니"
  WNG_grino_grandi:0 "그리노 그란디"
  WNG_griffberto_farinacci:0 "그리프베르토 파리나치"
  WNG_gian_galeazzo_griolangio:0 "잔 갈레아초 그리올란조"
- WNG_giovanni_redwingelli:0 "조반니 레아드빈젤리"
+ WNG_giovanni_redwingelli:0 "조반니 레드빈젤리"
  WNG_garlo_soarza:0 "가를로 소아르차"
  WNG_Givanoe_Wingomi:0 "지바노에 빈고미"
- WNG_Griffmadeo_bordiga:0 "젠나로 보르디클라브"
+ WNG_Griffmadeo_bordiga:0 "젠나로 보르디클로"
  WNG_genrico_gattei:0 "젠리코 가테이"
  WNG_goldie_boyardee:0 "골디 보얄디"
  WNG_giovannino_guareschi:0 "조바니노 구아레스키"
@@ -294,7 +294,7 @@
  WNG_end_fascism_in_the_south_desc:0 "Beakolini may be gone, but his perfidious ideology and its offshoots and precursors still haunt the griffons of Southern Griffonia. It is time to raise the flag of war once more and prove on the field of battle that the ideology of strength can never stand against an ideology of freedom and equality."
 
  WNG_restore_democracy_to_aquilia:0 "아퀼레이아 민주주의 복원"
- WNG_restore_democracy_to_aquilia_desc:0 "Democracy was the dream of the common Aquileians, however, their voices have been supressed by their tyrannical king. We must intervene on their behalf to ensure the restoration of Liberté, égalité, and fraternité."
+ WNG_restore_democracy_to_aquilia_desc:0 "아퀼레이아의 평민들은 민주주의를 꿈꿔왔지만, 폭압적인 국왕이 이들의 목소리를 오랫동안 탄압해 왔습니다. 우리는 자유, 평등, 박애가 다시 일어설 수 있도록, 이들을 위해 개입해야만 합니다." Democracy was the dream of the common Aquileians, however, their voices have been supressed by their tyrannical king. We must intervene on their behalf to ensure the restoration of Liberté, égalité, and fraternité."
 
 #Wingbardian Republican Party - Partito Repubblicano Wingbardo - Harmony
  WNG_a_victory_for_the_republicans:0 "공화당의 승리"
@@ -425,7 +425,7 @@
  WNG_encourage_equal_education:0 "평등교육 장려"
  WNG_encourage_equal_education_desc:0 "Socialists cannot be blinded by their own optimism. The history of capitalism still scars our society and nowhere is this more evident than in access to education. Rich parents afford help to their kids so that they can reach the best institutions and poorer kids are left behind. We must attempt to salvage this situation and give every griffon the education they deserve."
 
- WNG_the_new_economic_reality:0 "The New Economic Reality"
+ WNG_the_new_economic_reality:0 "새로운 경제 현실"
  WNG_the_new_economic_reality_desc:0 "The world has been reshaped before our very eyes, not by the Gods and not by Kings either. But by the claws of untold workers with a dream. A dream of an economy which is stable. A dream to never again stand in line for food while the rich feast in their mansions. A world where every worker knows they are being looked after and are working for the common good. A dream no longer, but the new reality."
 
  WNG_the_workers_empire:0 "The Workers' Empire"
@@ -495,7 +495,7 @@
  WNG_give_way_to_the_left_ppw:0 "인민당 좌파에게 양보"
  WNG_give_way_to_the_left_ppw_desc:0 "윙바르디 인민당원들 사이의 내부 논쟁으로 인해 루이지 구투르초는 당 지도자의 자리에서 물러나 그의 오른발 조반니 데 가스프빈지에게 그 자리를 물려주기로 결정했습니다. 훨씬 더 진보적이며 윙바르디의 이퀘스트리아화 사상을 지지하는 그리폰이 권력의 중심에 서면서 인민당은 처음 예상했던 것보다 훨씬 더 좌파에 가까운 연합의 궤도에 오른 것으로 보입니다."
 
- WNG_look_to_equestria:0 "Look to Equestria"
+ WNG_look_to_equestria:0 "이퀘스트리아를 바라보다"
  WNG_look_to_equestria_desc:0 "In light of the recent conflicts within our government combined with the enlightening conversation he had with the young Equestrian griff, Gallus, Giovanni has opted to implement additional trade agreements with Equestria and her colony."
 
  WNG_friendship_schools:0 "우정 학교"
@@ -563,9 +563,9 @@
  WNG_control_the_local_governments_desc:0 "Local authorities have been allowed to run rampant for far too long. How can the nation be united when everygriff is marching in different directions? It's time to reorganise local democracy into a strongly hierarchical system, where the national government controls the direction of policymaking and more importantly, the use of law enforcement."
 
  WNG_war_with_asterion:0 "아스테리온과의 전쟁"
- WNG_war_with_asterion_desc:0 "The minotaurs are a strange race with strange convictions. They occupy a strategic archipelago of islands and are fearsome in combat. It is hard to know what they are planning to do with the griffon lands surrounding them, so to ensure our national security, Wingbardy will strike them pre-emptively. "
+ WNG_war_with_asterion_desc:0 "미노타우로스들은 이상한 신념을 가진 이상한 족속들입니다. 이들은 전략적으로 중요한 군도를 차지하고 있으며, 싸움에서는 매우 무서운 적이 됩니다. 미노타우로스들이 주변의 그리폰 영토들에 대해 무슨 계획을 꾸미는지 알기는 어려우니, 국가의 안보를 위해 윙바르디가 선제적으로 이들을 공격할 것입니다."
 
- WNG_infulence_cyanolisia:0 "Influence Cyanolisia"
+ WNG_infulence_cyanolisia:0 "사이아놀리시아에 영향"
  WNG_infulence_cyanolisia_desc:0 "Cyanolisia has a proud military tradition as a military garrison of the Griffonian Empire, but because of the fall of that rotten structure, the country has been left stranded. The Cyanolisians are in need of a new political direction, and we should make them see that fascism is the right direction for them too."
 
  WNG_deal_with_the_bandits:0 "도적단 처리"
@@ -736,7 +736,7 @@
  WNG_royal_works:0 "왕립 공장"
  WNG_royal_works_desc:0 "To prepare for any coming danger, it is necessary to rapidly increase our defence industry. Royal Works will be opened across the country to ensure that Wingbardy is self-sufficient when it comes to the production of what is necessary to protect our country. "
 
- WNG_wingbardy_rises:0 "Wingbardy Rises"
+ WNG_wingbardy_rises:0 "윙바르디의 부흥"
  WNG_wingbardy_rises_desc:0 "Wingbardy has met the challenges of economic recession and political instability and the Pearl of the South now shines like never before. With the country united behind their King, it is time for Wingbardy to secure her place in a hostile world. We will also prepare to show the northerners once and for all that our nation has not forgiven the Griffonian Empire for what it has done to us."
 
  WNG_fortify_the_boarder:0 "국경 요새화"
@@ -799,8 +799,8 @@
  WNG_owlivetti_electronics_desc:0 "Founded by Guglielmo Owlivetti, the latest in a long line of great Wingbardian scientists, Owlivetti Electronics is one of the most prestigious and well-known electronics brands in the world. We should provide support to help them expand their capabilities."
 
  WNG_counting_engine:0 "계산하는 기계"
- WNG_counting_engine_desc:0 "Guglielmo Owlivetti, the pioneer of Wingbardian electronics, has developed a new machine capable of calculating complex mathematical equations in a fraction of a second. This machine will revolutionise the future of electronics and mathematics; he calls it the Counting Engine."
-
+ WNG_counting_engine_desc:0 "윙바르디 전자공학의 선구자인 굴리엘모 오블리베티가 1초도 안 되는 시간에 복잡한 수학 공식을 풀어낼 수 있는 새로운 기계를 만들었습니다. 오블리베티가 '계산하는 기계'라 명명한 이 기계는, 전자공학과 수학의 미래에 일대 혁명을 가져올 것입니다."
+ 
  WNG_economic_recovery:0 "경제 회복"
  WNG_economic_recovery_desc:0 "It has been a long time coming, but we have finally revitalised our ailing economy and industry. Not only have we brought back the spark of life to Wingbardy, but we have improved our fiscal and industrial capacity to the point that no one can honestly call our country economically or industrially backwards. Wingbardy is once more the pride of the continent!"
 
@@ -861,7 +861,7 @@
  WNG_dockyard_expansion_fund:0 "조선소 확장 기금"
  WNG_dockyard_expansion_fund_desc:0 "A fund should be set up to allow our dockyard owners to expand their facilities. This will provide sufficient space for our navy to grow."
  
- WNG_naval_projection:0 "Naval Projection"
+ WNG_naval_projection:0 "해상 투사"
  WNG_naval_projection_desc:0 "The seas are vast and wide. Why limit our naval actions to the Mediolano or Celestiano when the whole world is out there for us?"
  
  WNG_advanced_torpedo_designs:0 "진보된 어뢰 설계"
@@ -930,7 +930,7 @@
  WNG_royal_support_corpes_desc:0 "There is more to an army than its weapons and soldiers. The support staff and medical personnel have always been integral in military history, but we can form dedicated battalions suited specifically to support the fighting griffons of an army."
  WNG_division_reformation:0 "사단 개혁"
  WNG_division_reformation_desc:0 "The Wingbardian army is organized around a somewhat archaic divisional structure, dating back to the days of the Griffonian Empire. By reorganizing our divisions among more modern lines, we can increase the flexibility of individual battalions while decreasing chain-of-command overhead."
- WNG_old_ideas:0 "Old Ideas"
+ WNG_old_ideas:0 "옛 사상"
  WNG_old_ideas_desc:0 "Although diving headfirst into doctrinal experimentation might be tempting, we cannot afford to gamble with Wingbardy's security. The Wingbardian army has traditionally focused on a strong core of infantry, and there is no reason to stray from that now."
  WNG_armoured_trucks:0 "장갑 트럭"
  WNG_armoured_trucks_desc:0 "The mobility that trucks give to infantry formation has been a massive boon to our military, but their armor leaves much to be desired. By reinforcing the vehicle's body with armor and adding mounted weapons, we can ensure that small arms fire will no longer threaten our motorized formations."
@@ -1009,7 +1009,7 @@
  wingbardy.14.d:0 "Bad news, as our representatives return from Stalliongrad having failed to secure their cooperation for our proposed treaty of friendship. Despite continuous advances, the Stalliongradian government proved both hostile and intractable, killing any chance for a mutually beneficial relationship between our nations. This is highly unfortunate, as they would have proved a valuable check on Equestrian intentions."
  wingbardy.14.a:0 "이 빨갱이 새끼들!"
 
- wingbardy.15.t:0 "Anti-Imperial Talks in Chiazbeacle"
+ wingbardy.15.t:0 "치아즈비클 반제국 회담"
  wingbardy.15.d:0 "For years, Wingbardy has viewed the prospect of a resurgent Griffonian Empire as the gravest  threat to the stability of our entire continent, and under the leadership of [FROM.GetLeader], they seem willing to take bold action to forestall this possibility, including working with us. Our sources within the Wingbardian government indicate that they wish for a détente between our two nations.\n\nCritically, Wingbardian representatives have contacted us with a proposal to contain the threat by jointly preventing Imperial expansion. They have invited us to Chiazbeacle to meet about creating a united front against the Griffonian Empire, asking that we move beyond our past territorial struggles and sign a pact of non-aggression, in addition to both guaranteeing the independence of Griffonstone."
  wingbardy.15.a:0 "Yes, we must stand together against the Imperial menace."
  wingbardy.15.b:0 "No, the Wingbardians can not be trusted!"
@@ -1028,18 +1028,18 @@
 
  wingbardy.20.t:0 "회담의 시작"
  wingbardy.20.d:0 "Diplomats from Aquileia, Wingbardy and Francistria have gathered in Eaglers today to conduct negotiations about the contested status of Tarrin. Already the negotiations have been tense, as Aquileians demanded the return of their rightful territory while Francistria asserted its own claims. Wingbardy was in the best role to act as a mediator between the two parties, as it had little interest in the disputed region.\n\nAquileian representatives said that the claim of late Count Francis VIII was illegitimate as Count Francis I had been a bastard of the Discret dynasty. Francistrians countered this by saying that the land compensated the losses Count Francis VIII had suffered while toppling the lawless Republic of Tarrin. In addition, they highlighted the similarities between Tarrinian and Francistrian cultures, and pointed out that over the decades thousands of colonists had settled the area. Aquileians countered by saying cultural similarities hardly justified military conquest and that the colonists were living on property seized from the locals.\n\nThis back and forth continued with no end in sight. Wingbardian delegates needed to intervene and propose a solution that would end the pointless squabbling. However, would they try to please either side, or try to come up with a compromise that might leave both sides unhappy?"
- wingbardy.20.a:0 "All of Tarrin belongs to Aquileia."
+ wingbardy.20.a:0 "타린은 전부 아퀼레이아의 것이다."
  wingbardy.20.b:0 "We can draw new borders based on the current populations."
  wingbardy.20.c:0 "We shall work out a form of compensation instead of land."
 
  wingbardy.21.t:0 "윙바르디가 타린 전역을 제시하다"
  wingbardy.21.d:0 "During the tense diplomatic meetings held in Eaglers during the Tarrin Conference, the Wingbardian dignitaries approached Aquileian ones in private and made an intriguing offer. As Wingbardy did not care much for the disputed territory, they were willing to offer it in behalf of Francistria. This meant the Wingbardian army would not intervene and allow Aquileians to occupy Tarrin fully.\n\nOf course, this was an irresistible offer for the Aquileian diplomats, who happily agreed to it. However, Francistrians may yet protest this proposal, so the outcome of the conference remains uncertain for now."
- wingbardy.21.a:0 "Perhaps the Wingbardians aren't so bad after all..."
+ wingbardy.21.a:0 "윙바르디 놈들도 그리 나쁜 놈들은 아니었나 보군..."
 
  wingbardy.22.t:0 "윙바르디가 타협안을 제시하다"
  wingbardy.22.d:0 "During the tense diplomatic meetings held in Eaglers during the Tarrin Conference, the Wingbardian dignitaries approached Aquileian ones in private and made an intriguing offer. They offered a compromise solution in an attempt to please both Aquileia and Francistria. A new border would be drawn between the two nations, splitting the region roughly evenly and following ethnic boundaries. The initial map presented seemed rather... unappealing, but a more refined version with less irregular borders proved to be more satisfactory.\n\nThe Aquileian dignitaries were hesitant however. It was a half-hearted solution, and would mean splitting the region for many years to come. Perhaps tensions would simply reappear later? The diplomats had a difficult choice to make."
  wingbardy.22.a:0 "This is good enough for us."
- wingbardy.22.b:0 "Tarrin is indivisible!"
+ wingbardy.22.b:0 "타린을 나눌 수는 없다!"
 
  wingbardy.23.t:0 "윙바르디가 보상안을 제시하다" 
  wingbardy.23.d:0 "During the tense diplomatic meetings held in Eaglers during the Tarrin Conference, the Wingbardian dignitaries approached Aquileian ones in private and made a rather... unusual offer. They offered monetary compensation for the loss of Tarrin, covering the costs of the Francistrian occupation over the last thirty years or so.\n\nWhile it was a hefty sum, it also meant Wingbardy would continue to support Francistria and allow it to continue its unlawful occupation of Aquileian territory. While money is good to have, getting it would not liberate Tarrin. However, Tarrin might be a sacrifice Aquileia must be willing to make to secure an alliance with the mighty Kingdom of Wingbardy."
@@ -1054,7 +1054,7 @@
  wingbardy.25.t:0 "윙바르디가 타협안을 제시하다"
  wingbardy.25.d:0 "During the tense diplomatic meetings held in Eaglers during the Tarrin Conference, the Wingbardian dignitaries approached Aquileian ones in private and made a rather... unusual offer. They offered a compromise solution in an attempt to please both Aquileia and Francistria. A new border would be drawn between the two nations, splitting the region roughly evenly and following ethnic boundaries. The initial map presented seemed rather... unappealing, but a more refined version with less irregular borders proved to be more satisfactory.\n\nWhen the Francistrian delegates heard of this however, they were hesitant. It was a half-hearted solution, and would mean splitting the region for many years to come. Perhaps tensions would simply reappear later? The diplomats had a difficult choice to make."
  wingbardy.25.a:0 "This is good enough for us."
- wingbardy.25.b:0 "Tarrin is indivisible!"
+ wingbardy.25.b:0 "타린을 나눌 수는 없다!"
 
  wingbardy.26.t:0 "윙바르디가 아퀼레이아에게 보상안을 제시하다"
  wingbardy.26.d:0 "During the tense diplomatic meetings held in Eaglers during the Tarrin Conference, the Wingbardian dignitaries approached Aquileian ones in private and made an intriguing offer. They offered monetary compensation for the loss of Tarrin, covering the costs of the Francistrian occupation over the last thirty years or so.\n\nThis was proof to Francistrian delegates that Wingbardy was still ready to support its old allies instead of simply bowing before Aquileian posturing. The reparations were unlikely to please Aquileia, but the fact that Wingbardy was offering to pay it out of their own pockets impressed Francistrians. Clearly, Wingbardy was doing everything it could to show to the world that they had not forgotten everything Francistria had done for them."
@@ -1070,7 +1070,7 @@
 
  wingbardy.29.t:0 "프란시스트리아의 수락"
  wingbardy.29.d:0 "The Francistrian delegation was informed of the deal that had been made between Aquileian and Wingbardian representatives, and thankfully they have accepted the proposal and are willing to ratify a formal treaty between all three parties.\n\nThis means that the Tarrin Conference has been a resounding success, once again proving that the pen is mightier than the sword. Hopefully, the Tarrin dispute can be considered fully resolved so peace can now be secured between Aquileia and Francistria."
- wingbardy.29.a:0 "All that's left is to sign the papers!"
+ wingbardy.29.a:0 "이제 문서에다 서명만 하면 끝이다!"
 
  wingbardy.30.t:0 "프란시스트리아의 거절"
  wingbardy.30.d:0 "When the Francistrian delegation was informed of the deal that had been made between Aquileian and Wingbardian representatives, they responded with a mixture of disappointment and outrage. The fact that Wingbardy had separately negotiated with Aquileian diplomats without Francistrians was insulting to them, and they did not like the proposed treaty either. They thought it was a poor attempt at appeasing Aquileians while completely neglecting Francistrian interests.\n\nWorst of all, the Francistrian delegates threatened that their nation would withdraw from the [WNG.GetFactionName] rather than cede any part of Tarrin to Aquileia. This was a way to make a statement that Wingbardy could not decide the fate of Tarrin without Francistria's involvement.\n\nThe Wingbardian diplomats were now faced with a difficult situation. Would they recognize Aquileia's claims to the region, or stand by their long-time ally and withdraw from the negotiations entirely? Either way, the Tarrin Conference had failed. The dispute was now unlikely to be resolved peacefully."
@@ -1626,13 +1626,13 @@ wingbardy.703.a:0 "왜냐면, 난 자비가 정의만큼이나 중요하다고 �
  wingbardy_gumberto.26.b:0 ""
  wingbardy_gumberto.26.c:0 ""
  
- wingbardy_gumberto.27.t:0 "The Hunt"
+ wingbardy_gumberto.27.t:0 "사냥"
  wingbardy_gumberto.27.d:0 "Two griffons walked through the forest north of Karthin, armed with rifles out hunting for game. One moved through the trees with the pace of a seasoned veteran, making no noise as he walked. The other clumsily followed close behind, snapping almost every stick in his way.\n\n"Father, when will we find something? It's been hours," Gumberto complained. "We should just head back to Karthin."\n\n"Patience, my son. The opportunity will come to us if we wait for it." Garibald put up a single claw from his talon, silencing his son before he responded. "Do you hear that?"\n\nGumberto listened closely before looking to his right. There, a single white rabbit was sitting, seemingly having not noticed them yet. "Now watch," the King said quietly, raising his rifle. "This is how you hunt. You aim for the head to ensure a clean kill."\n\n"Father, wait." The Prince raised his rifle as well alongside Garibald. "Let me try first. I can do this."\n\n"Gumberto, you have never fired a rifle in your life-"\n\n"Please, father." King Garibald looked into his son's eyes to see him pleading for the chance to take the shot."
  wingbardy_gumberto.27.a:0 ""No son, you are not ready. Let me shoot.""
  wingbardy_gumberto.27.b:0 ""Very well, you do it.""
  wingbardy_gumberto.27.c:0 ""We will do it together.""
  
- wingbardy_gumberto.28.t:0 "The Dinner"
+ wingbardy_gumberto.28.t:0 "만차"
  wingbardy_gumberto.28.d:0 ""Where is he?" King Garibald Talonuel muttered to himself as he sat at a dining table at his royal estate. He had invited many nobles from all across Wingbardy for a great state dinner, not only to catch up with some old friends but also to teach his son about such events and how to act in them. Unfortunately that was looking less and less likely to happen, as he was already half an hour late. The Prince's seat at the table was noticably empty, even as the meal was in full swing.\n\nAs if on cue, the doors opened and Gumberto walked in. "Sorry I'm late, father," he said breezily. "Friends made me stay later than I thought."\n\nAll the nobles present stared at him. "My apologies," Garibald said finally, "but I will need to speak with my son for a moment." He got out of his chair and made his way out of the dining room, practically pulling his son along the way.\n\n"Have you any idea how late you are?" The King asked furiously after they had gotten out of earshot. "Punctuality is everything, Gumberto! You can not simply lay off a state dinner until later!"\n\nGumberto shrugged. "I didn't even want to be here, anyway. If being late is so bad, why don't you let me just leave already?"\n\nGaribald was just about to rebuff him when he stopped for a moment. Was this really worth the effort? Letting him leave would certainly ease his strain for the dinner, even if his son wouldn't learn anything from it..."
  wingbardy_gumberto.28.a:0 ""Fine. Go back to your room, and do not disturb me.""
  wingbardy_gumberto.28.b:0 ""You don't have to sit at the table, but you must watch and learn how to behave yourself.""
@@ -1767,7 +1767,7 @@ wingbardy.703.a:0 "왜냐면, 난 자비가 정의만큼이나 중요하다고 �
  wingbardy_investigation.24.d:0 "One minute before three. An entire team of Wingbardians were standing at the ready outside one of the many buildings in Griffenheim, this one being home to the officers' quarters. The mission was simple; get in, grab Erich Ebonwing, get out, and bring the target back to Karthin. Failure was not an option. All of them were armed with pistols, specially designed with silencers for covert missions. The leader of the operation put his claw up, waiting for the exact time to strike.\n\nAnd as soon as his watch struck three, he brought his claw down.\n\nThe door burst open, and the entire squadron of agents rushing into the room, shooting down any armed soldiers they saw. Fanning out, each took a section of the building to search, half the group rushing up the stairs to the second floor. In less than a minute, one of them had located Ebonwing's quarters, knocked him out with the butt of their pistol, and dragged them out into the hallway. Smashing a window, three Wingbardians grabbed onto the limp body and carried him back outside, flying as fast as possible to a nearby safehouse. The rest of the team quickly made their escape, leaving no evidence behind.\n\nBy the time the Griffenheim police arrived, the entire building was deserted. None of the officers save for the missing Ebonwing had been seriously injured, though all the guards had been killed. A lockdown was sent out to find the field marshal, but by then it was too late. He was tied up and driven out of the city in an unmarked truck, going south straight back to Karthin."
  wingbardy_investigation.24.a:0 "Ladies and gentlegriffs, we got him."
 
- wingbardy_investigation.25.t:0 "Crime and Punishment"
+ wingbardy_investigation.25.t:0 "죄와 벌"
  wingbardy_investigation.25.d:0 ""Erich Ebonwing. You have been found guilty of murdering King Gumberto I of Wingbardy, plunging all of Griffonia into chaos. Your act has caused the deaths of thousands upon thousands of griffons. What have you to say for yourself?"\n\nThe courtroom was packed with griffons from all over Wingbardy, there to see the griffon behind it all. Many had booed and jeered at him when he had first been dragged to his seat, only barely kept in line by the guards present and the judge calling for order. The former field marshal refused to meet anygriff in the eyes, especially King Garibald who was staring emotionlessly at him from above in his seat.\n\n"Very well, then. I defer your sentence to the Sovereign of Wingbardy, King Garibald Talonuel III."\n\nAll eyes were on the King as he rose from his seat, keeping his own pair of eyes trained on the murderer of his father. "For your crimes against the Kingdom of Wingbardy, the murder of its King, and my father, I hereby sentence you to...""
  wingbardy_investigation.25.a:0 ""...Immediate execution.""
  wingbardy_investigation.25.b:0 ""...Life Imprisonment.""
