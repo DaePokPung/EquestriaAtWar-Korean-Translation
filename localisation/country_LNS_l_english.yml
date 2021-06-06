@@ -343,10 +343,10 @@ LNS_grab_the_pistols:0 "헬퀴에서 온 보급품"
 LNS_grab_the_pistols_desc:0 "헬퀼의 동맹들을 불러 우리 병사들에게 필요한 무기들을 제공해 달라고 요청할 겁니다. 운이 좋다면, 꽤 많은 양을 빌릴 수 있겠죠."
 LNS_grab_the_muskets:0 "더 애원하기"
 LNS_grab_the_muskets_desc:0 "이거로는 부족해! 전쟁의 잔혹한 현실은 총기를 끝없이 요구한다. 헬퀼로 사절을 다시 보내 우리의 절박함을 알리란 말이다!"
-LNS_sharpen_spears:0 "Weapons of the Heroic Age"
+LNS_sharpen_spears:0 "영웅 시대의 무기"
 LNS_sharpen_spears_desc:0 "Despite our best attempts to increase production and procure supplies from Hellquill, we still lack weapons for our troops. We have no other option but to use swords and spears used by our heroic ancestors in defence of Longsword. The troops better show a little respect for the relics."
 LNS_houses_to_factories:0 "집을 공장으로"
-LNS_houses_to_factories_desc:0 "Private property will be seized in order to convert them to impromptu factories, so we can produce necessary goods for our war effort."
+LNS_houses_to_factories_desc:0 "전쟁물자 생산을 위한 임시 공장으로 전환하기 위해 시민들의 자택을 압류할 것입니다."
 LNS_we_need_more:0 "Seize Private Workshops"
 LNS_we_need_more_desc:0 "Despite our efforts in maximising our production through longer work shifts and more workers, we still can't produce enough firearms for the troops. The solution lies in demanding production for the state from private manufactories, gunsmiths and workshops."
 LNS_final_push:0 "영광을 위해!"
@@ -416,10 +416,10 @@ LNS_defenceless_ponies:0 "숲의 손쉬운 먹잇감"
 LNS_defenceless_ponies_desc:0 "아니 북쪽의 야만 포니들은 우리보다도 문명화가 안 됐잖아! 보레아스시여 세상에, 우린 심지어 도적단이란 말이야! 리버 연맹만 아니었어도 놈들이 저렇게 자유롭게 나다니지는 못했을텐데. 그래도 소규모 약탈로 땅과 전리품을 조금 뺏어오는 정도로는 동부 포니들도 개입하지는 않을 거야."
 LNS_beasts_of_burden:0 "노역마"
 LNS_beasts_of_burden_desc:0 "땅을 좀 뺏기는 했는데 이 땅은 결론적으로 아무 짝에도 쓸모가 없어. 하지만 그곳에 살고있는 포니들은 상당한 가치가 있지. 땅을 빼앗아 생긴 손해를 매꾸려면 이녀석들에게 일을 시켜서 갚게 해야겠어."
-LNS_mines_of_silverfalls:0 "The Treasures Of Silverfalls"
-LNS_mines_of_silverfalls_desc:0 "Most thought that the name "Silverfalls" was just another gaudy and silly pony name, but turns out it is quite fitting. The local waterfalls are glimmering with flakes of silver! The ground must be full of precious ores, unexploited by the barbarians. Now we can exploit it on their behalf."
-LNS_enslave_the_illiterate:0 ""Teach" the Illiterate"
-LNS_enslave_the_illiterate_desc:0 "The fact is, solving the illiteracy issue in this nation will take too long and will cost too much. Therefore our boss has come up with the idea to simply enslave them all. Anybody who's weighing down our nation shall suffer a slow death in the mines. We can't say we disagree with this methodology."
+LNS_mines_of_silverfalls:0 "실버폴의 보물"
+LNS_mines_of_silverfalls_desc:0 ""실버폴"이라는 이름을 보고 다들 웃긴 포니 명명법의 일종이라고만 생각했겠지만, 실제로 가서 보니 상당히 적절한 명칭이더라고. 그곳의 폭포에선 정말로 반짝이는 은 조각들이 흐르고 있더라니까! 땅에도 희귀한 광물들이 가득하겠지. 줘도 못쓰는 그 야만족들 대신 우리가 잘 이용해주자고."
+LNS_enslave_the_illiterate:0 "문맹 "교육""
+LNS_enslave_the_illiterate_desc:0 "문맹 해결은 너무 비싸고 시간도 많이 걸리는 일이지. 그래서 대장이 기발한 아이디어를 냈어. 국가 발전을 저하시키는 문맹들은 이제부터 노예로써 광산에서 죽을때까지 일하면 되는거야. 솔직히 괜찮은 방법 같은데."
 LNS_massive_drug_fields:0 "아편 밭"
 LNS_massive_drug_fields_desc:0 "Regular agriculture takes too long to return its investment. Instead, we'll set up plantations full of drugs! Hedonistic griffons in the Heartlands and beyond pay a pretty coin for them, and we can't let this opportunity slip by our claws."
 LNS_imperial_markets:0 "Expanding Our Horizons"
@@ -1336,7 +1336,7 @@ longsword.54.d:0 "이날 아침의 롱소드에는 끔찍한 광경이 펼쳐져
 longsword.54.a:0 "놈들이 살 날도 얼마남지 않았다."
 
 longsword.55.t:0 "봄날 대청소"
-longsword.55.d:0 "The issue at claw cannot be ignored any longer, which has led to the knights of the Order and soldiers of the Longswordian army gathering once more to discuss the plan for disrupting the increasing partisan activities around Longsword. While everygriff is of the opinion to divert some of our resources and soldiers into harassing the partisans, there is no clear consensus on where we should strike to take the initiative once the real fighting breaks out. Should we order our soldiers to raid towns and villages known to be hotbeds for partisan activity to hamper their recruitment once the inevitable confrontation happens, or send saboteurs to their camps containing their precious stockpiles of weapons and explosives?"
+longsword.55.d:0 "눈앞에 닥친 파르티잔 문제를 해결하기 위해 로즈우드 기사단과 롱소드군이 한곳에 모여 대책을 논의하게 되었습니다. 파르티잔 활동을 견제하기 위해 일부 자원을 투자하자는 주장에는 모두가 동의하는 바이지만, 주도권을 잡기 위해 어디를 공격해야 할지에 대해서는 의견이 분분합니다. 파르티잔들의 근거지로 추정되는 마을들에 병력을 파견해 그들의 모병 활동을 방해하는게 좋을까요, 아니면 파르티잔들의 무기고로 공작원을 보내 저들이 비축해둔 무기와 폭발물을 파괴하는게 좋을까요?"
 longsword.55.a:0 "저들의 모병소를 노려라!"
 longsword.55.b:0 "저들의 무기고를 노려라!"
 
@@ -1373,7 +1373,7 @@ longsword.63.d:0 "너무나 오랜 시간동안 우리의 군대는 쓸개빠진
 longsword.63.a:0 "순수한 미래는 순수한 군대를 필요로 한다."
 
 longsword.64.t:0 "순전한 사고"
-longsword.64.d:0 "A little over a month has passed since we began eliminating impure elements of the military. The process has been rather swell with plenty of "loyal" pony officers being relieved of their station at the barrel of a gun. As expected, news of these dismissals has been suppressed as we can't have the prey throwing a tantrum at us retaking our country back. It's our birth right! These oversized rats have no place here, after all. However, trouble in paradise has reared its ugly head as regular patrols and even training exercises have ended in deadly accidents for our new officers.\n\nBe it a patrol ending with some vile bandits, or lone communists shooting an officer dead, or a mortar test fire going way off trajectory and killing some key personnel, there have been some sketchy incidents happening. We don't know exactly what's going on but it's a cause for alarm..."
+longsword.64.d:0 "군 내의 불순분자들을 제거하기 시작한 지 한달이 좀 지났고, 그 과정 역시 순조로웠다. 벌써 많은 수의 "충성스러운" 포니 장교들이 우리들의 총탄에 의해 직위해제되었고,  숙청에 대한 소식 또한 조용히 묻어버리는 중이었다. 나라를 잠식한 커다란 쥐새끼들로부터 조국을 되찾는 것이야 우리의 당연한 권리지만, 괜히 사냥감이 반항하도록 만들 필요는 없었다. 그러나 모든 것이 잘 풀려간다고 생각한 지금, 예기치 못한 불운한 사태들이 벌어지고 있었다. 우리의 새 장교들이 순찰을 및 훈련 중에 지속적으로 사고에 휘말려 사망하고 있다.\n\n순찰 도중 도적떼에게 습격을 당했다던지 공산주의자에게 암살당했다던지, 심지어 훈련중에 시범 발사한 박격포탄이 궤도를 벗어나 중요 장교진이 폭사하는 등, 의문스러운 사건들이 계속해서 발생 중이다. 무슨 일이 일어나고 있는지 아직 확실하지는 않지만, 주의를 기울일 필요가 있다..."
 longsword.64.a:0 "사고라고...?"
 
 longsword.65.t:0 "공개 처형"
@@ -1397,7 +1397,7 @@ longsword.69.d:0 "충격적이게도... 정부의 업무효율은 바닥을 치�
 longsword.69.a:0 "이럴 의도가 아니었는데..."
 
 longsword.70.t:0 "불충한 자들에 대한 교훈"
-longsword.70.d:0 "In order to properly create the pure Longswordian state we promised to our fellow griffons, we must appropriate the now illegally owned pony businesses and property to be better handled by loyal Longswordian citizens. Of course much of these lands and buildings will have to be operated by the government until a buyer is found. Ponies can never be trusted and have no business owning property or amassing any notable amount of wealth.\n\nFortunately enough, we managed to bust a rising pony-dominant business district local to the city of Haarsingen too! If not for our intervention, there's no telling how much worse that infection would've gotten..."
+longsword.70.d:0 "우리가 약속했던 순수한 롱소드를 만들려면, 포니들이 불법으로 소유중인 사업장들을 압류해 충성스러운 롱소드 시민들이 이를 소유하고 관리하도록 해야 한다. 물론 구매자가 나타나기 전까지, 압류한 토지와 건물, 장비 등은 정부에서 운영할 것이다. 포니들은 믿을 수 없으며 포니들이 사업을 운영하거나 재산을 축적하는 행위는 금지된다.\n\n우리는 다행스럽게도, 늦기 전에 하르싱겐에서 포니 주도의 산업지구를 무너뜨리는데 성공했다! 이러한 개입이 없었더라면 상황이 얼마나 더 악화되었을지 모른다..."
 longsword.70.a:0 "이젠 이 공장들을 쓸모있게 사용할 수 있겠어!"
 
 longsword.71.t:0 "하르싱겐에서의 폭발"
@@ -1726,7 +1726,7 @@ longsword.143.a:0 "모두는 동등하다."
 
 longsword.144.t:0 "부패 관료 제거"
 longsword.144.d:0 "If one wishes to restore the honor of Longsword, then they must remember that honor is inseparable from virtue. Patriotism, goodwill towards your subjects, and modesty - the House of Dusktalon once exemplified those traits, and when it abandoned them in pursuit of vanity and ruthless destruction, then all of Longsword fell. Virtue cannot be compatible with corruption, nor can resistance against the new Longsword which Engelberg and Silvertalon seek to usher in. And unfortunately, the Provisional Government is rife with it, sometime with griffons who possess both traits.\n\nA soft purge of the government has begun, numerous officials have been forced to depart from their posts or retire, replaced by younger bureaucrats aligned with the National Healing Party. Within a matter of days, the power of the civil opposition has been curbed - even if it means that the country suffers."
-longsword.144.a:0 "그들은 이나라에 필요가 없다."
+longsword.144.a:0 "그들은 이 나라에 필요가 없다."
 
 longsword.145.t:0 "반-도적 캠페인"
 longsword.145.d:0 "롱소드 내전의 끝은 그리 깔끔하지는 못했습니다. 개혁파와 파르티잔들의 중심 세력은 일소되었으나, 그 잔당은 한적한 시골 지역으로 도주해 숲과 늪지대에 숨어다니며 저항을 계속하고 있었습니다. 지난 몇달간 잔당세력은 무방비 상태의 마을을 습격하며 농부들을 공포에 몰아넣는 등 아직까지 테러행위를 지속하는 중입니다. 엥겔베르크와 실버탈론이 목표하는 강력하고 조화적인 재건된 롱소드를 위해서 주민들이 공포에 떠는 일은 더이상 없어야 합니다. \n\n롱소드 시골 지역을 중심으로 추가적인 병력이 배치되었고 수단을 가리지 않고 위협을 뿌리뽑을 것입니다. 어리석게도 저항을 계속하는 개혁파나 파르티잔 광신도들의 머리에 각자 오십 아이돌의 현상금이 내걸렸습니다. 많은 이들이 위험을 감수하고 현상금을 노리고 있으며, 고작 며칠만에 저항은 눈에띄게 약해지고 있습니다 - 비록 지역 주민들이 피해를 좀 입기는 했지만 말입니다."
@@ -1830,7 +1830,7 @@ longsword.168.d:0 "While we expected the bandits to raid our lands, they have un
 longsword.168.a:0 "대체 무슨 꿍꿍이지?"
 
 longsword.169.t:0 "실버폴 습격 성공!"
-longsword.169.d:0 "As Rosa expected, they were again successful in defeating the backwards pony defenders, and her realm had been expanded once more. She sat atop a hill and surveyed her new possessions. It was desolate land, with few villages scattered in the woods, but at least the waterfalls were beautiful.\n\nShe narrowed her eyes as she looked at them. They glittered as waterfalls usually do, but somehow she felt like the glimmering was more intense than it should be. Perhaps that's where the name of the region came from?\n\nOut of curiosity, she flew closer to investigate. Perhaps the water had magical properties, and could be sold off for profit? But as she landed and examined stream of water, she saw flakes of shining grey silver floating in it. Her eyes widened and she grinned widely."
+longsword.169.d:0 "로자의 예상대로, 포니 수비대는 도적단의 상대가 되지 못했고, 그녀의 영토는 또다시 확장되었습니다. 로자는 언덕 꼭대기에 앉아 새 전리품을 살펴보았습니다. 숲에 마을 몇개가 흩어져있을 뿐인 황량한 땅이었지만, 적어도 그곳의 폭포는 아름다웠습니다.\n\n폭포를 바라보던 그녀의 눈이 가늘어졌습니다. 폭포란 보통 반짝이기 마련이지만, 그녀가 지금 보는 반짝임은 특히나 강렬한 편이었습니다. 어쩌면 실버폴이라는 이름의 유래도 이것이 아니었을까요?\n\n그녀는 호기심에 폭포로 날아가 조사를 시도했습니다. 폭포의 물에 마법이라도 깃들어있다면, 돈을 받고 팔수도 있지 않을까요? 그러나 그녀가 가까이서 본것은 반짝이는 작은 은 조각들이 물을 타고 흐르는 모습이었습니다. 로자의 두 눈이 휘둘그레졌고, 얼굴에 웃음이 활짝 피어올랐습니다."
 longsword.169.a:0 "우린 부자가 될 거야!"
 
 longsword.170.t:0 "나니위치로의 여정"
